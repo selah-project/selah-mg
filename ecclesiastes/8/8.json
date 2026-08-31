@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Tsy misy olona manapaka ny rivotra ka hitana ⟨את⟩ ny rivotra, ary tsy misy fanapahana amin'ny andro fahafatesana, ary tsy misy fahafahana amin'ny ady, ary tsy hamonjy ny tompony ny faharatsiana ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Tsy misy"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "manapaka"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ny rivotra"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "hitana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rivotra"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ny rivotra"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ary tsy misy"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "fanapahana"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "המות",
+      "gloss": "fahafatesana"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ary tsy misy"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "fahafahana"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "amin'ny ady"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "hamonjy"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ny faharatsiana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tompony"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ny tompony"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:40.065412404Z",
+  "model": "glm-5.3"
+}

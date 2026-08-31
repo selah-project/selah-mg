@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Saina miantohana no tahirinao amin'ny fiadanana, fiadanana; fa ao aminao no itokisany.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "saina"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "miantohana"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "no tahirinao"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "amin'ny fiadanana"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fiadanana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ao aminao"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "no itokisany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:09:11.754157290Z",
+  "model": "glm-5.3"
+}

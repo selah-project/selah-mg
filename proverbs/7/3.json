@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Fatoroy amin'ny rantsan-tananao ireo, soraty amin'ny takelak'ny fonao ireo.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "Fatoroy"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "rantsan-tananao"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "soraty"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "takelak'ny"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "fonao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:50:22.893731237Z",
+  "model": "glm-5.3"
+}

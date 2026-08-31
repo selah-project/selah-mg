@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary ⟨את⟩ ny mpanompo lahy malalainareo sy ⟨את⟩ ny mpanompo vavinareo sy ⟨את⟩ ny tanoranareo mahaleo tena sy ⟨את⟩ ny borikinareo dia halainy, ka hataony ho amin'ny asany.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mpanompo lahy malalainareo"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "mpanompo lahy malalainareo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mpanompo vavinareo"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "mpanompo vavinareo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tanoranareo mahaleo tena"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "tanoranareo"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "mahaleo tena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "borikinareo"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "borikinareo"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "halainy"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ka hataony"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "ho amin'ny asany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:15:51.718602515Z",
+  "model": "glm-5.3"
+}

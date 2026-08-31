@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ny fahatahorana an'i Yahveh madio, mijanona mandrakizay; ny fitsaran'i Yahveh marina, marina avokoa izy rehetra.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "fahatahorana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "madio"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "mijanona"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "fitsarana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "marina"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "marina avokoa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "rehetra miaraka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:23.188182057Z",
+  "model": "glm-5.3"
+}

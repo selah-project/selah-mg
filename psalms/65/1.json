@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 65,
+  "translation": "Ho an'ny mpitarika. Mizamora nataon'i David. Fihirana.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho an'ny mpitarika"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizamora"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nataon'i David"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Fihirana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:12.951035618Z",
+  "model": "glm-5.3"
+}

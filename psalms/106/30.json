@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Ary nitsangana Pinechas ka nivavaka, dia voasakana ilay aretina.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "nitsangana"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "nivavaka"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "voasakana"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "ilay aretina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:48.709359002Z",
+  "model": "glm-5.3"
+}

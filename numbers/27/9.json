@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ary raha tsy manana zanakavavy izy, dia homenareo ⟨את⟩ ny lovan-tany ho an'ireo rahalahiny.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ary raha"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy manana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "izy"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanakavavy"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "homenareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lovan-tany"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ny lovan-tany"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ho an'ireo rahalahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T13:35:31.897181718Z",
+  "model": "glm-5.3"
+}

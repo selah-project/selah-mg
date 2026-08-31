@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 90:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 90,
+  "translation": "Ary ho ampy aminay ny fahalembaleben'Adonay Elohim antsika, ary ny asan'ny tanantsika anoreto amintsika, eny, ny asan'ny tanantsiga anoreno azy.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary ho"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "ny fahalembalebeny"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim antsika"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "aminay"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ary ny asan'ny"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "tanantsika"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": "anoreto"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "amintsika"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "eny, ny asan'ny"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "tanantsiga"
+    },
+    {
+      "surface": "כוננהו",
+      "gloss": "anoreno azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:52.595527507Z",
+  "model": "glm-5.3"
+}

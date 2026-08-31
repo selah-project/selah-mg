@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 28:25",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Ary tao an-tanàna tsirairay amin'ny Yehuda nanao fitoerana avo izy handoro ditin-kazo ho an'ireo elohim hafa, ka nampahatezitra ⟨את⟩ Yahveh, Elohin'ny razany.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "Ary tao an-"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tanàna tsirairay"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "sy tanàna"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "amin'ny Yehuda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "במות",
+      "gloss": "fitoerana avo"
+    },
+    {
+      "surface": "לקטר",
+      "gloss": "handoro ditin-kazo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ho an'ireo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "elohim hafa"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "ka nampahatezitra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'ny"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "razany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:49:40.238851620Z",
+  "model": "glm-5.3"
+}

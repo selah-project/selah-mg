@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 23:2",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary nanontanian'i Davida tamin'i Yahveh hoe: Handeha va ka hamely ny Filistita ireo? Ary hoy Yahveh tamin'i Davida: Mandehana, ka mahereo ny Filistita, sady vonjeo ⟨את⟩ Qeila.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "nanontanian'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "tamin'i Yahveh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "handeha va"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "ka hamely"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "ny Filistita"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mandehana"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "ka mahereo"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "ny Filistita"
+    },
+    {
+      "surface": "והושעת",
+      "gloss": "sady vonjeo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qeila"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qeila"
+    }
+  ],
+  "timestamp": "2026-08-31T14:23:32.821273927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Feno ozona sy famitahana ary fifanaratsiana ny vavany; ambanin'ny lelany dia ezaka mafy sy tsiny.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ozona"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ny vavany"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Feno"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "sy famitahana"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "ary fifanaratsiana"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ambanin'ny"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "lelany"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ezaka mafy"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "sy tsiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:53.990308207Z",
+  "model": "glm-5.3"
+}

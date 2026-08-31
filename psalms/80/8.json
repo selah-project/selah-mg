@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 80,
+  "translation": "Elohim Tsevaot, ampifodio anay, ampianaivo ny tavanareo, dia ho voavoha izahay.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "ampifodio anay"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "ampianaivo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ny tavanareo"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "dia ho voavoha izahay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:23.405431705Z",
+  "model": "glm-5.3"
+}

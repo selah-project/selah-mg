@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 23:13",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary tamin'ny mpaminanin'i Shomeron dia hitako fa fahadalàna: naminany tamin'i ⟨את⟩ Baala izy, ary nampandany an'⟨את⟩ oloko ⟨את⟩ Isiraely.",
+  "tokens": [
+    {
+      "surface": "ובנביאי",
+      "gloss": "tamin'ny mpaminanin'i"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "hitako"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "fahadalàna"
+    },
+    {
+      "surface": "הנבאו",
+      "gloss": "naminany"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "tamin'i Baala"
+    },
+    {
+      "surface": "ויתעו",
+      "gloss": "nampandany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oloko"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "oloko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraely"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    }
+  ],
+  "timestamp": "2026-08-31T15:33:47.182621624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Tsy efa nanoratra ⟨amin'ny⟩ telo taminao aho, amin'ny fisainana sy fahalalana?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Tsy efa"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "nanoratra aho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "taminao"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "telo ⟨amin'ny⟩"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "amin'ny fisainana"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "sy fahalalana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:47:45.664861783Z",
+  "model": "glm-5.3"
+}

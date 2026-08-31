@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 2:1",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary nivavaka i Chanah ka nanao hoe: Mifaly ny foko amin'i Yahveh, miakatra ny tandroko amin'i Yahveh, malalaka ny vavako amin'ny fahavaloko, fa falifaly aho amin'ny famonjenao.",
+  "tokens": [
+    {
+      "surface": "ותתפלל",
+      "gloss": "Ary nivavaka"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "i Chanah"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "עלץ",
+      "gloss": "Mifaly"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "amin'i Yahveh"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "miakatra"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "ny tandroko"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "amin'i Yahveh"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "malalaka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ny vavako"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "fahavaloko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "falifaly aho"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "amin'ny famonjenao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:14:44.966522972Z",
+  "model": "glm-5.3"
+}

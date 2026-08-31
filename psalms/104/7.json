@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 104,
+  "translation": "Mibebaka amin'ny fanananao izy ka mandositra; amin'ny feon'ny kotranao dia maika mandositra izy.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "fanananao"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "mandositra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "קול",
+      "gloss": "feon'ny"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "kotranao"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "maika mandositra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:24.949281041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 11:8",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Hataoko ahoana ianao, Efraima? hatolotro va ianao, Israel? hataoko ahoana ianao tahaka an'i Adama? hataoko anao tahaka an'i Tseboima? Mivadika ato amiko ny foko, miara-droro ny fangorahoako.",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ahoana"
+    },
+    {
+      "surface": "אתנך",
+      "gloss": "hataoko ... ianao"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraima"
+    },
+    {
+      "surface": "אמגנך",
+      "gloss": "hatolotro anao"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ahoana"
+    },
+    {
+      "surface": "אתנך",
+      "gloss": "hataoko ianao"
+    },
+    {
+      "surface": "כאדמה",
+      "gloss": "tahaka an'i Adama"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "hataoko anao"
+    },
+    {
+      "surface": "כצבאים",
+      "gloss": "tahaka an'i Tseboima"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "mivadika"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ato amiko"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "miara-"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "roro"
+    },
+    {
+      "surface": "נחומי",
+      "gloss": "ny fangorahoako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:09:30.733405463Z",
+  "model": "glm-5.3"
+}

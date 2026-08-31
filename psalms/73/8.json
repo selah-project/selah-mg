@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 73,
+  "translation": "Manao tsiky tsy manaja izy ka miteny amin'ny ratsy sy fanagarana; avy amin'ny avo no itenenany.",
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "Manao tsiky tsy manaja"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ka miteny"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "amin'ny ratsy"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "sy fanagarana"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "avy amin'ny avo"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "no itenenany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:53.245787135Z",
+  "model": "glm-5.3"
+}

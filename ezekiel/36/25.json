@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 36:25",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Ary hosatroko aminareo rano madio, ka hohanitra ianareo: amin'ny lalina rehetra ianareo sy amin'ny sampinareo rehetra no hanadiovana anareo ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וזרקתי",
+      "gloss": "hosatroko"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "aminareo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "טהורים",
+      "gloss": "madio"
+    },
+    {
+      "surface": "וטהרתם",
+      "gloss": "hohanitra ianareo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "טמאותיכם",
+      "gloss": "lalina (ananareo)"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "sy amin'ny ... rehetra"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "sampinareo"
+    },
+    {
+      "surface": "אטהר",
+      "gloss": "hanadiovana"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ianareo"
+    }
+  ],
+  "timestamp": "2026-08-31T18:34:36.233343628Z",
+  "model": "glm-5.3"
+}

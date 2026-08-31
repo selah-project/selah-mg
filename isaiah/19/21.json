@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 19:21",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary ho fantatra'i Yahveh any Mitsrayim, ary ho fantatry ny Mitsrayim ny ⟨את⟩ Yahveh amin'izany andro izany; ary hanatitra zavatra hovonoina sy fanatitra izy, ary hitenda voady amin'i Yahveh ka hanatanteraka azy.",
+  "tokens": [
+    {
+      "surface": "ונודע",
+      "gloss": "ho fantatra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "any Mitsrayim"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ho fantatry"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ny Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'izany andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "hanatitra"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zavatra hovonoina"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "sy fanatitra"
+    },
+    {
+      "surface": "ונדרו",
+      "gloss": "hitenda voady"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "voady"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "amin'i Yahveh"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "hanatanteraka azy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:07:26.289575601Z",
+  "model": "glm-5.3"
+}

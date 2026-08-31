@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Sasaiko amin'ny fahadiovana ny tanako, ary hodididiko ⟨את⟩ ny alitaranao, ry Yahveh.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "sasaiko"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "amin'ny fahadiovana"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ny tanako"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "ary hodididiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny alitaranao"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "ny alitaranao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:46.828084275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Fa niandry ny soa ny mponina any Marota, fa nidina ny loza avy amin'i ⟨את⟩ Yahveh, ho amin'ny vavahadin'i Yeroshalayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "niandry"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "ny soa"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "mponina"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "any Marota"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nidina"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ny loza"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "avy amin'i ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "ho amin'ny vavahadin'i"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    }
+  ],
+  "timestamp": "2026-08-31T16:14:10.121576461Z",
+  "model": "glm-5.3"
+}

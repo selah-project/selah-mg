@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Fa nampisotroareo ⟨את⟩ ny nazoreana divay, ary ny mpaminany nandidianareo ka natao hoe: Aza maminany.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "nampisotroareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny nazoreana"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "ny nazoreana"
+    },
+    {
+      "surface": "יין",
+      "gloss": "divay"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ary"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ny mpaminany"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "nandidianareo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka natao hoe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "maminany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:11:08.236827838Z",
+  "model": "glm-5.3"
+}

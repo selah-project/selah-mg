@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary Betsalel nanao ⟨את⟩ ny fiara tamin'ny hazo akasià: lava roa hakiho sy sasany ny lavany, ary hakiho sy sasany ny sarakany, ary hakiho sy sasany ny hahavony.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiara"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ny fiara"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasià"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "roa hakiho"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "sy sasany"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ny lavany"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ary hakiho"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "sy sasany"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ny sarakany"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ary hakiho"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "sy sasany"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ny hahavony"
+    }
+  ],
+  "timestamp": "2026-08-31T13:09:04.242251640Z",
+  "model": "glm-5.3"
+}

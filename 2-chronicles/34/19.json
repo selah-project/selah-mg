@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ary nony ren'ny mpanjaka ⟨את⟩ ny tenin'ny Torah, dia nandratra ⟨את⟩ ny akanjony izy.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nony"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ren'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tenin'ny Torah"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ny tenin'ny"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "nandratra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny akanjony"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ny akanjony"
+    }
+  ],
+  "timestamp": "2026-08-31T17:53:04.228940031Z",
+  "model": "glm-5.3"
+}

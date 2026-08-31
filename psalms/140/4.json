@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 140,
+  "translation": "Nangeariny ny lelany toy ny menarana; poizina bibilava no ao ambanin'ny molony. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "nangeariny"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ny lelany"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "toy ny"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "menarana"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "poizina"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "bibilava"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ambanin'ny"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "molony"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:05.391844939Z",
+  "model": "glm-5.3"
+}

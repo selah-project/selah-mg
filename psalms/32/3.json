@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Satria rehefa nangina aho, dia lany hery ny taolako, tamin'ny fibanianako mandritra ny andro.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Satria"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "nangina aho"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "lany hery"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ny taolako"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "tamin'ny fibanianako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mandritra ny"
+    },
+    {
+      "surface": "היום",
+      "gloss": "andro"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:23.899068393Z",
+  "model": "glm-5.3"
+}

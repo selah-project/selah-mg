@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Dia niteny tamin'i Parao ny lohan'ny mpisotro divay, ka nanao hoe: Ny fahadisoako no mahatsiarovako anio.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dia niteny"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ny lohan'ny"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "mpisotro divay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahadisoako"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "ny fahadisoako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "mahatsiarovako"
+    },
+    {
+      "surface": "היום",
+      "gloss": "anio"
+    }
+  ],
+  "timestamp": "2026-08-31T17:55:55.143309697Z",
+  "model": "glm-5.3"
+}

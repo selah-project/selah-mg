@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Amin'ny andro rehetra eo anatrehako ny fahamenaranaoko, ary ny fahalovana ny tavako efa nanarona ahy.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "היום",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "ny fahamenaranaoko"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "eo anatrehako"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "ary ny fahalovana"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ny tavako"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "efa nanarona ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:30:12.569688789Z",
+  "model": "glm-5.3"
+}

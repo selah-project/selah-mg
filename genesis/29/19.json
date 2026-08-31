@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary Lavan nanao hoe: Tsara ny homeko ⟨את⟩ azy ho anao toy ny homeko ⟨את⟩ azy ho an'lehilahy hafa; mipetraha eto amiko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary nanao hoe"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Tsara"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "ny homeko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy (Rahela)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "toy ny homeko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy (Rahela)"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ho an'lehilahy"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "hafa"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "mipetraha"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "eto amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T12:44:06.475465340Z",
+  "model": "glm-5.3"
+}

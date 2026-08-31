@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ny lalan'ny fahatokisana no nofidiko; ny fitsaranao no napetrako eo anatrehako.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "lalan'ny"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "fahatokisana"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "nofidiko"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "fitsaranao"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "napetrako eo anatrehako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:58.549549840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 49,
+  "translation": "Ary hoy Izy tamiko: Mpanompoko ianao, ry Yisraela, izay atoovy midaboka ny voninahitro.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy Izy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Mpanompoko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ry Yisraela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בך",
+      "gloss": "atoovy"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "midaboka ny voninahitro"
+    }
+  ],
+  "timestamp": "2026-08-31T15:17:44.263745852Z",
+  "model": "glm-5.3"
+}

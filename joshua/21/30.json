@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary avy amin'ny fokon'i Asher: ⟨את⟩ Mishal sy ⟨את⟩ ny tany manodidina azy, ⟨את⟩ Avdon sy ⟨את⟩ ny tany manodidina azy.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "avy amin'ny fokon'i"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishal"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Mishal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany manodidina azy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ny tany manodidina azy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany manodidina azy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ny tany manodidina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:02:49.353759503Z",
+  "model": "glm-5.3"
+}

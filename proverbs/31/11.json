@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Maty am-po aminy ny fony ny vadiny, ary tsy hita fihenan-karena izy.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Maty am-po"
+    },
+    {
+      "surface": "בה",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ny fony"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ny vadiny"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "fihenan-karena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "hita"
+    }
+  ],
+  "timestamp": "2026-08-31T16:58:05.126380874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 102,
+  "translation": "Ny andronko toy ny aloka miondrika; ary izaho toy ny ahitra no maina.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "ny andronko"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "toy ny aloka"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "miondrika (mivelatra)"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ary izaho"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "toy ny ahitra"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "no maina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:17.627332208Z",
+  "model": "glm-5.3"
+}

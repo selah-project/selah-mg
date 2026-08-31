@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Mitsangana ny vavolombelona mpisetra; izay tsy fantatro no anontaniany ahy.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "Mitsangana"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ny vavolombelona"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "mpisetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "fantatro"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "anontaniany ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:43.877483251Z",
+  "model": "glm-5.3"
+}

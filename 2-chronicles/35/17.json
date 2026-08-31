@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Ary ny zanak'i Yisraela hita nanao ⟨את⟩ ny Paska tamin'izay fotoana, sy ⟨את⟩ ny fetin'ny mofo tsy misy masirasira fito andro.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "hita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Paska"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ny Paska"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "fotoana izay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny fety"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ny fety"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ny mofo tsy misy masirasira"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "fito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    }
+  ],
+  "timestamp": "2026-08-31T17:53:07.056647709Z",
+  "model": "glm-5.3"
+}

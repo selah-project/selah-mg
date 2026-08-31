@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ayalona sy ⟨את⟩ tany manodidina azy, ⟨את⟩ Gata-Rimona sy ⟨את⟩ tany manodidina azy — tanàna efatra.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayalona"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "tany manodidina azy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tany manodidina azy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gata-Rimona"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gata-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "tany manodidina azy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tany manodidina azy"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "efatra"
+    }
+  ],
+  "timestamp": "2026-08-31T14:02:29.551953313Z",
+  "model": "glm-5.3"
+}

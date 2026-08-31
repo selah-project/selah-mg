@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 147,
+  "translation": "Manome oram-panala toy ny volo Izy; ny fanala toy ny diona no aparitany.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Manome"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "oram-panala"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "toy ny volo"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "ny fanala"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "toy ny diona"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "no aparitany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:52.865828129Z",
+  "model": "glm-5.3"
+}

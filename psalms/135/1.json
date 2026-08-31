@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 135,
+  "translation": "Miderà an'i Yah, miderà ⟨את⟩ ny anaran'i Yahveh, miderà ry mpanompon'i Yahveh,",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "miderà"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "miderà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anaran'i Yahveh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "anarana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "miderà"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mpanompon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:50.626546463Z",
+  "model": "glm-5.3"
+}

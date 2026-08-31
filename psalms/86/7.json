@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 86,
+  "translation": "Amin'ny andro fahoriana aho miantso Anao, fa Hianao no hamaly ahy.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Amin'ny andro"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "fahoriana"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "aho miantso Anao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "Hianao no hamaly ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:01.208494452Z",
+  "model": "glm-5.3"
+}

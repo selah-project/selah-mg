@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 4:20",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "fa anareo kosa ⟨את⟩ no raisin'i Yahveh, ary nentiny mivoaka ⟨את⟩ anareo avy tao amin'ny fatapahan'ny vy, avy tany Mitsrayim, ho fireneny ho lova, tahaka ny amin'izao andro izao.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "fa ⟨את⟩ anareo",
+      "marks": "raisin'i Yahveh"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "ka nentiny mivoaka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo",
+      "marks": "avy tao amin'ny fatapahan'ny vy"
+    },
+    {
+      "surface": "מכור",
+      "gloss": "fatapaha"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "vy"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "avy tany Mitsrayim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "lova"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "tahaka ny amin'izao andro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "izao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:41:07.005868843Z",
+  "model": "glm-5.3"
+}

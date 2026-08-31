@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "ary ⟨את⟩ ny diloilo fanosorana ary ⟨את⟩ ny ditin-kazo manitra ho an'ny fitoerana masina; araka izay rehetra nandidiako anao no hataony.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny diloilo fanosorana"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "diloilo"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "fanosorana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny ditin-kazo manitra"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ditin-kazo manitra"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "zava-manitra"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "ho an'ny fitoerana masina"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "araka izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "nandidiako anao"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "no hataony"
+    }
+  ],
+  "timestamp": "2026-08-31T13:06:05.364993381Z",
+  "model": "glm-5.3"
+}

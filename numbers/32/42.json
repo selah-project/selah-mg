@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ary Novaha nandeha ka nahazo ⟨את⟩ i Kenata sy ⟨את⟩ ny zana-tanàny, ka niantso azy hoe Nobaha araka ny anarany.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Ary Nobaha"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ka nahazo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Kenata"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny zana-tanàny"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "ny zana-tanàny"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ka niantso"
+    },
+    {
+      "surface": "לה",
+      "gloss": "azy"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Nobaha"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "araka ny anarany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:36:28.359153374Z",
+  "model": "glm-5.3"
+}

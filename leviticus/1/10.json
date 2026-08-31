@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary raha avy amin'ny fanohanana ny fanatony — avy amin'ny ondry na avy amin'ny osy — ho fanatitra dorana: lahy tsy misy tsiny no hentany.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ary raha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ny fanohanana"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ny fanatony"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "ny ondry"
+    },
+    {
+      "surface": "או",
+      "gloss": "na"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "ny osy"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ho fanatitra dorana"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lahy"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tsy misy tsiny"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "no hentany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:09.855659742Z",
+  "model": "glm-5.3"
+}

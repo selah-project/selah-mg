@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 35:8",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "ary diloilo ho an'ny fanaovan-jiro, ary zava-manitra ho an'ny diloilo fanosorana ary ho an'ny setroka zava-manitra.",
+  "tokens": [
+    {
+      "surface": "ושמן",
+      "gloss": "ary diloilo"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ho an'ny fanaovan-jiro"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "ary zava-manitra"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "ho an'ny diloilo"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "fanosorana"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "ary ho an'ny setroka"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "zava-manitra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:08:15.491490921Z",
+  "model": "glm-5.3"
+}

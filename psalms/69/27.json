@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 69:27",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 69,
+  "translation": "Fa izay nokapainao no tolotorany, ary ny fanaintainan'izay nopotehinao dia tantarainy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "nokapainao"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "nolotorany"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary amin'ny"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "ny fanaintainana"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "izay nopotehinao"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "tantarainy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:07.557452415Z",
+  "model": "glm-5.3"
+}

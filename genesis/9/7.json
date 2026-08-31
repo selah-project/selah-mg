@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary ianareo kosa: tameho, ary maro; mionkara amin'ny tany, ary maro ao aminy.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Ary ianareo kosa"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "tameho"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ary maro"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "mionkara"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ary maro"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ao aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:36:13.890145767Z",
+  "model": "glm-5.3"
+}

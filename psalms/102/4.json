@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 102,
+  "translation": "Fa ny androko efa lany toy ny setroka, ary ny taolanko efa may toy ny afo mirehitra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "efa lany"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "toy ny setroka"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ny androko"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "ary ny taolanko"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "toy ny"
+    },
+    {
+      "surface": "קד",
+      "gloss": "afo mirehitra"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "efa may"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:45.057103785Z",
+  "model": "glm-5.3"
+}

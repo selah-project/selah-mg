@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 26:21",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary ny zanak'i Perets dia ⟨ireo⟩: an'i Chetsron, ny fokon'ny Chetsronita; an'i Chamol, ny fokon'ny Chamolita.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ary ny ... dia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny zanak'i"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "לחצרן",
+      "gloss": "an'i Chetsron"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ny fokon'ny"
+    },
+    {
+      "surface": "החצרני",
+      "gloss": "Chetsronita"
+    },
+    {
+      "surface": "לחמול",
+      "gloss": "an'i Chamol"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ny fokon'ny"
+    },
+    {
+      "surface": "החמולי",
+      "gloss": "Chamolita"
+    }
+  ],
+  "timestamp": "2026-08-31T13:33:53.022014992Z",
+  "model": "glm-5.3"
+}

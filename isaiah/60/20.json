@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 60:20",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 60,
+  "translation": "Tsy hidina intsony ny masoandronao, ary ny volanao tsy ho fanina; fa Yahveh ho fahazavana mandrakizay ho anao, ary ho feno ny andron'ny fisaonanao.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "hidina ⟨masoandro⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    },
+    {
+      "surface": "שמשך",
+      "gloss": "ny masoandronao"
+    },
+    {
+      "surface": "וירחך",
+      "gloss": "ary ny volanao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "ho fanina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "fahazavana"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "ary ho feno"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ny andron'ny"
+    },
+    {
+      "surface": "אבלך",
+      "gloss": "fisaonanao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:21:12.686751211Z",
+  "model": "glm-5.3"
+}

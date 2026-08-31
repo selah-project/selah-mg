@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary hisy trano-lay ho fialokalofana amin'ny antoandro hialana amin'ny hafanana ary ho fiarovana sy ho fierenana amin'ny tafio-dratsy sy ny orana.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "trano-lay"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "hisy"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "ho fialokalofana"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "amin'ny antoandro"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "hialana amin'ny hafanana"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "ary ho fiarovana"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "sy ho fierenana"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "amin'ny tafio-dratsy"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "sy ny orana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:03:15.209853042Z",
+  "model": "glm-5.3"
+}

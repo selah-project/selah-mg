@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 27:14",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ary raha misy olona manamasina ⟨את⟩ ny tranony ho masina ho an'i Yahveh, dia hasain'ny mpisoratra vidiny io, na tsara na ratsy; araka izay vidin'ny mpisoratra ⟨את⟩ azy, no haharetany.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ary raha misy olona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "raha"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "manamasina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tranony"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ny tranony"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ho masina"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "והעריכו",
+      "gloss": "dia hasainy vidiny"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisoratra"
+    },
+    {
+      "surface": "בין",
+      "gloss": "na"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka izay"
+    },
+    {
+      "surface": "יעריך",
+      "gloss": "vidin'ny"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ny mpisoratra)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mpisoratra"
+    },
+    {
+      "surface": "כן",
+      "gloss": "no"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "haharetany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:23:30.539550155Z",
+  "model": "glm-5.3"
+}

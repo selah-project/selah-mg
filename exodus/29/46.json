@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 29:46",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary ho fantatr'izy ireo fa Izaho no Yahveh Elohim-izy ireo, Izay nentiko mivoaka ⟨את⟩ avy amin'ny tany Mitsrayim, mba hitoerako eo afovoany; Izaho Yahveh Elohim-izy ireo.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Ary ho fantatr'izy ireo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim-izy ireo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Izay"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "nentiko mivoaka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy ireo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "avy amin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לשכני",
+      "gloss": "mba hitoerako"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "eo afovoany"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim-izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:05:41.697705406Z",
+  "model": "glm-5.3"
+}

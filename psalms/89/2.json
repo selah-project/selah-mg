@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Ny hesed an'i Yahveh hivakivaky ako ho an'ny mandrakizay; amin'ny taranaka sy taranaka no hampahafantiariko ny fahatokianao amin'ny vavako.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ny hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ho an'ny mandrakizay"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "hivakivaky ako"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "amin'ny taranaka"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "sy taranaka"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "no hampahafantiariko"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ny fahatokianao"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "amin'ny vavako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:44.776664114Z",
+  "model": "glm-5.3"
+}

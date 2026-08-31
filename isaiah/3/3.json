@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "⟨ny⟩ mpitariny dimam-polo, sy ⟨ilay⟩ voasesa tarehy, sy ⟨ny⟩ mpanolo-tsaina, sy ⟨ny⟩ mahay mpanamboatra, sy ⟨ny⟩ mahay mampanintona amin'ny fifaninanana.",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "mpitariny"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "dimam-polo"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "sy voasesa"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "tarehy"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "sy mpanolo-tsaina"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "sy mahay"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "mpanamboatra"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "sy mahay"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "mampanintona amin'ny fifaninanana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:47:15.149722078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Manaja ⟨את⟩ ny rainao sy ⟨את⟩ ny reninao, mba haharitra ela ny andronao amin'ny tany izay homen'i Yahveh Elohim-nao anao.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Manaja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rainao"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ny rainao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny reninao"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ny reninao"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mba"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "haharitra ela"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ny andronao"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nao"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "homen'i"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:01:46.840217217Z",
+  "model": "glm-5.3"
+}

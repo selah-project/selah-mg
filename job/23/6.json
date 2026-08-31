@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 23:6",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Amin'ny be azon'ny heriny va no hiady amiko? Tsia; fa ⟨izy⟩ hanome saina amiko.",
+  "tokens": [
+    {
+      "surface": "הברב",
+      "gloss": "amin'ny be"
+    },
+    {
+      "surface": "כח",
+      "gloss": "heriny"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "hiady"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsia"
+    },
+    {
+      "surface": "אך",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨izy⟩"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "hanome"
+    },
+    {
+      "surface": "בי",
+      "gloss": "amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T17:04:22.355933766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 57,
+  "translation": "Ho an'ny mpitantana ⟨ny zava-maneno⟩. Al-tashchet. Salamon'i David, miktam, fony izy nandositra tso-pon'i Shaul, tao anaty lavaka.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho an'ny mpitantana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Al-tashchet"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "aza fumail"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "an'i David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "fony izy nandositra"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tso-pon'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "tao anaty lavaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:13.487135583Z",
+  "model": "glm-5.3"
+}

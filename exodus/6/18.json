@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 6:18",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary ny zanak'i Kehat ⟨dia⟩ Amram sy Yitsar sy Khevron sy Uzzi-El; ary ny taona nividian'ny aina n'i Kehat dia telo amby telo-polo amby zato taona.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ary ny zanak'i"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "sy Yitsar"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "sy Khevron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "sy Uzzi-El"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ary ny taona"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "nividian'ny aina"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "n'i Kehat"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "telo"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "amby telo-polo"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "amby zato"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    }
+  ],
+  "timestamp": "2026-08-31T12:55:34.066637604Z",
+  "model": "glm-5.3"
+}

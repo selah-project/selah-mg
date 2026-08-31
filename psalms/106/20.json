@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Ka nifanoloana ny voninahiny ⟨את⟩ tamin'ny endriky omby mihinana ahitra.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "Ka nifanoloana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny voninahiny"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ny voninahiny"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "tamin'ny endriky"
+    },
+    {
+      "surface": "שור",
+      "gloss": "omby"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mihinana"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ahitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:31.553196715Z",
+  "model": "glm-5.3"
+}

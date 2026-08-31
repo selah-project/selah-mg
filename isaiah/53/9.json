@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 53,
+  "translation": "Ary nomena ⟨את⟩ ny ratsy fanahy ho fasan'i, ary ⟨את⟩ ny manan-karena amin'ny fahafatesany; satria tsy nanao herisetra izy, ary tsy nisy fitaka tamin'ny vavany.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ary nomena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ratsy fanahy"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ratsy fanahy"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "ho fasan'i"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny manan-karena"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "manan-karena"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "amin'ny fahafatesany"
+    },
+    {
+      "surface": "על",
+      "gloss": "satria ⟨na dia⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "herisetra"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "fitaka"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "tamin'ny vavany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:19:07.026753923Z",
+  "model": "glm-5.3"
+}

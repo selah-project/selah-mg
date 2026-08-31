@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary ny mpisorona kosa dia hanao ny iray ho fanatitra noho ny fahotana ary ny iray ho fanatitra dorana; ary ny mpisorona hanao fanavotana ho azy eo anatrehan'i Yahveh, noho ny fivoahana ateraky ny fahadelovany.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny iray"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ny iray"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "fanatitra noho ny fahotana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny iray"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ny iray"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "fanatitra dorana"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "hanao fanavotana"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anatrehan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "fivoahana"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "fahadelovany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:18:16.338991019Z",
+  "model": "glm-5.3"
+}

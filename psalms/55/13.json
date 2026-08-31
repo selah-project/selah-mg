@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 55:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 55,
+  "translation": "Fa tsy fahavalo no nanaranatra ahy, dia hitondra aho ⟨⟨iziazy⟩⟩; tsy ilay nankahala ahy no nihaika tamiko, dia hanafina aho hiala aminy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fahavalo"
+    },
+    {
+      "surface": "יחרפני",
+      "gloss": "nanaranatra ahy"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "dia hitondra aho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "ilay nankahala ahy"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "nihaika"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "dia hanafina aho"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "hiala aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:43.045232192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 99,
+  "translation": "Ary ny herin'ny mpanjaka tia famarohana; Hianao no nampitoetra ny fahamarinana, famarohana sy fahamarinana no nataonao tao amin'i Yaakov.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "Ary ny herin'ny"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "famarohana"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "tia"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Hianao"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "nampitoetra"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ny fahamarinana"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "famarohana"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "sy fahamarinana"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "tao amin'i Yaakov"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Hianao"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "no nataonao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:48.237053797Z",
+  "model": "glm-5.3"
+}

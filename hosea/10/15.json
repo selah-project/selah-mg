@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 10:15",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Toy izany no natao anareo, ry Beit-El, noho ny faharatsian'ny ratsy nataonareo; amin'ny mangirandratsy dia ho faty tanteraka ny mpanjakan'i Yisraela.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "toy izany"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "no natao"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ry Beit-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "noho"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ny faharatsian'ny"
+    },
+    {
+      "surface": "רעתכם",
+      "gloss": "ratsy nataonareo"
+    },
+    {
+      "surface": "בשחר",
+      "gloss": "amin'ny mangirandratsy"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "ho faty"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "tanteraka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ny mpanjakan'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    }
+  ],
+  "timestamp": "2026-08-31T16:08:29.084068065Z",
+  "model": "glm-5.3"
+}

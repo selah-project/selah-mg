@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Merajoth niteraka an'i ⟨את⟩ Amarjah, ary Amarjah niteraka an'i ⟨את⟩ Achitub.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Merajoth"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarjah"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarjah"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "ary Amarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achitub"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achitub"
+    }
+  ],
+  "timestamp": "2026-08-31T17:35:02.455911705Z",
+  "model": "glm-5.3"
+}

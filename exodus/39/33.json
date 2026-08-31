@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "Ary nentiny tany amin'i Moshe ny tabernakela ⟨את⟩ lay ⟨את⟩ sy ny fitaovana rehetra, ny famatorana, ny tavoahangy, ny barany, ny tsanganao ary ny fotony",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "nentiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tabernakela"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ny tabernakela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tany amin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lay"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "lay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitaovana rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ny fitaovana"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "ny famatorana"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "ny tavoahangy"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "ny barany"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "ny tsanganao"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "ny fotony"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:43.039305722Z",
+  "model": "glm-5.3"
+}

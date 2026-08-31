@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Very toy ny ondry very aho nandeha diso lalana; tadiavo ny mpanomponao, fa ny didiko — fa ny didinao tsy mba hadinoiko.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "nandeha diso lalana"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "toy ny ondry"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "very"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "tadiavo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ny mpanomponao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ny didinao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "hadinoiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:31.451779865Z",
+  "model": "glm-5.3"
+}

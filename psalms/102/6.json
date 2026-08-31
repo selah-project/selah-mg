@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 102,
+  "translation": "Noho ny feon'ny fisaonako dia mifatotra amin'ny nofo ny taolanko.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Noho ny feon'ny"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "fisaonako"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "mifatotra"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ny taolanko"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "amin'ny nofo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:09.292736769Z",
+  "model": "glm-5.3"
+}

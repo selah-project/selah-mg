@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 12:15",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Dia ho fantatry ny reo fa izaho no Yahveh, raha mpivarotra azy amin'ny jentilisa aho, ary efa nampanaoviko antso be izy amin'ny tany samihafa.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Dia ho fantatry ny reo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בהפיצי",
+      "gloss": "raha mpivarotra azy aho"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ azy",
+      "marks": "amin'ny jentilisa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "amin'ny jentilisa"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "efa nampanaoviko antso be"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ izy",
+      "marks": "amin'ny tany samihafa"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "amin'ny tany samihafa"
+    }
+  ],
+  "timestamp": "2026-08-31T15:50:32.327539221Z",
+  "model": "glm-5.3"
+}

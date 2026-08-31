@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary manandratoka izaho ⟨את⟩ ny maty efa maty mihoatra noho ny velona izay mbola velona.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "Ary manandratoka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny maty"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "ny maty"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "efa"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "maty"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mihoatra noho"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ny velona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "velona"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "mbola"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:51.895331250Z",
+  "model": "glm-5.3"
+}

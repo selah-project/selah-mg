@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Fa tsy misy izay mahitsy ao am-bavany; ny tavany loha dia loza, dia fahavoazana; velatsiratra misokatra ny tendany; ny lelany dia manao teny malama.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "ao am-bavany"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "izay mahitsy"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "ny tavany loha"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "loza"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "fahavoazana"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "misokatra"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "ny tendany"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ny lelany"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "manao teny malama"
+    }
+  ],
+  "timestamp": "2026-08-31T18:34:53.158291677Z",
+  "model": "glm-5.3"
+}

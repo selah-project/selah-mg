@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Moa ve mahasoa an'i El lehilay ⟨mahery⟩? Moa ve mahasoa azy ⟨tenany⟩ ilay hendry?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "Moa ve ho an'ny El"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "mahasoa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "lehilay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨satria⟩"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "mahasoa"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "lehilay hendry"
+    }
+  ],
+  "timestamp": "2026-08-31T17:04:23.370517482Z",
+  "model": "glm-5.3"
+}

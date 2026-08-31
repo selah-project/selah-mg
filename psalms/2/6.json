@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Fa izaho nanangana ny mpanjako, any Tsiona, tendrombohitra masinako.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "fa izaho"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "nanangana"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ny mpanjako"
+    },
+    {
+      "surface": "על",
+      "gloss": "any"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiona"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "masinako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:02.417801907Z",
+  "model": "glm-5.3"
+}

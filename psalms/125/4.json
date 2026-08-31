@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 125,
+  "translation": "Manao soa, ry Yahveh, amin'ny tsara fanahy sy amin'ny mahitsy fo.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Manao soa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "amin'ny tsara fanahy"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "sy amin'ny mahitsy"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "fo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:56.237165122Z",
+  "model": "glm-5.3"
+}

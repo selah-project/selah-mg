@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ianao no fierenako amin'ny fahoriana; hitandrinao ahy; amin'ny fihobian'ny famonjena no hodidihininao ahy. Selah.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ianao"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "no fierenako"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨ahy⟩"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "amin'ny fahoriana"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "hitandrinao ahy"
+    },
+    {
+      "surface": "רני",
+      "gloss": "fihobian'ny"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "famonjena"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "hodidihininao ahy"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:29.170166630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Alefa mba alefa ny reny ⟨את⟩, ary ny zanany ⟨את⟩ dia raisinao ho anao; mba hahatsara anao, ary haharitra andro maro ianao.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "alefa"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "mba alefa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny reny"
+    },
+    {
+      "surface": "האם",
+      "gloss": "ny reny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "raisinao"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mba"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "hahatsara"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "ary haharitra"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro maro"
+    }
+  ],
+  "timestamp": "2026-08-31T13:48:03.925774757Z",
+  "model": "glm-5.3"
+}

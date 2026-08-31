@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Nambara tao amin'ny fiangonana be ny fahamarinana; indro, tsy michoka ny moloko — Hianao, Yahveh, no mahalala.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "nambara"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ny fahamarinana"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "tao amin'ny fiangonana"
+    },
+    {
+      "surface": "רב",
+      "gloss": "be"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ny moloko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "michoka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Hianao"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "mahalala"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:19.679013394Z",
+  "model": "glm-5.3"
+}

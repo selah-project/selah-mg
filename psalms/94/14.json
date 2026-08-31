@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 94,
+  "translation": "Fa Yahveh tsy handao ny olony, ary ny lovany tsy hahafoy azy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "handao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ny olony"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "ary ny lovany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "hahafoy azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:38.591741474Z",
+  "model": "glm-5.3"
+}

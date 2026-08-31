@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Ary hoy Yehudah tamin'i Onana: Midira eo amin'ny vadin'ny rahalahinao, ary tuna azy ⟨את⟩, ary aorena taranaka ho an'ny rahalahinao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "tamin'i Onana"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Midira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vadin'ny"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "rahalahinao"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "tuna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "aorena"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "taranaka"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ho an'ny rahalahinao"
+    }
+  ],
+  "timestamp": "2026-08-31T17:55:25.747304804Z",
+  "model": "glm-5.3"
+}

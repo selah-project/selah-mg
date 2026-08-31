@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 131,
+  "translation": "Hira fiankohofana ho an'i Davida. Yahveh, tsy miakatra ambony ny foko, ary tsy manandrify ny masoko, ary tsy nandeha tamin'ny zava-dehibe sy ny zava mahagaga mihoatra ahy.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "hira"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "fiankohofana"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ho an'i Davida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "miakatra ambony"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "manandrify"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ny masoko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "tamin'ny zava-dehibe"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "sy ny zava mahagaga"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mihoatra ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:17.916679062Z",
+  "model": "glm-5.3"
+}

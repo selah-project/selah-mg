@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 103,
+  "translation": "Ny olombelona — ny androny dia toy ny ahitra; toy ny voninkazon'ny saha no mamony.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "Ny olombelona"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "toy ny ahitra"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ny androny"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "toy ny voninkazo"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ny saha"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toy izany"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "no mamony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:29.029366832Z",
+  "model": "glm-5.3"
+}

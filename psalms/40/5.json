@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Sambatra ilay lehilahy izay nataony i Yahveh ho fiantohana azy, ary tsy niverina nankany amin'ny mpiavonavona sy amin'ireo mihemotra mankany amin'ny lainga.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Sambatra"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ilay lehilahy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "ho fiantohana azy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "niverina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nankany amin'ny"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "mpiavonavona"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "sy amin'ireo mihemotra"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "mankany amin'ny lainga"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:53.227871067Z",
+  "model": "glm-5.3"
+}

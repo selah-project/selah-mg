@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Izay novaina ⟨את⟩ tamin'i Avraham, ary ny fianianany tamin'i Yitschak,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "novaina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "ary ny fianianany"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "tamin'i Yitschak"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:19.721323677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 59:15",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 59,
+  "translation": "Ary lasa very ny fahamarinana, ary izy miala amin'ny ratsy dia lasa babo. Dia hitan'i Yahveh izany, ka ratsy tamin'ny masony, fa tsy misy fitsarana.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Ary lasa"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "ny fahamarinana"
+    },
+    {
+      "surface": "נעדרת",
+      "gloss": "very"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "ary miala"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "amin'ny ratsy"
+    },
+    {
+      "surface": "משתולל",
+      "gloss": "lasa babo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "Dia hitan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "ka ratsy"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "tamin'ny masony"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "fitsarana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:20:51.748426491Z",
+  "model": "glm-5.3"
+}

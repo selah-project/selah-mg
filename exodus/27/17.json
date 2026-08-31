@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 27:17",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ny tsanganana rehetra amin'ny kianja, manodidina, voafono volafotsy ⟨את⟩; ny hooky dia volafotsy, ary ny fototry ny tsanganana dia varahina.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "tsanganana"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "amin'ny kianja"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "מחשקים",
+      "gloss": "voafono"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "וויהם",
+      "gloss": "ny hooky"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ary ny fototry ny tsanganana"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "varahina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:04:47.475878768Z",
+  "model": "glm-5.3"
+}

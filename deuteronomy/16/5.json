@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Tsy mahafehy manatitra ny Paskah ⟨את⟩ ianao ao amin'ny vavahady iray amin'ny taninao, izay homen'i Yahveh Elohiminao anao.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "mahafehy"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "manatitra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Paskah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ny Paskah"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ao amin'ny iray"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "vavahadyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminao"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "home"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:45:40.247831741Z",
+  "model": "glm-5.3"
+}

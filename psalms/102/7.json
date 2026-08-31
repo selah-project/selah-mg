@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 102,
+  "translation": "Tahaka ny vorontany any an-efitra aho, tonga lafatra toy ny vororo any amin'ny tanàna rava.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "Tahaka"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "ny vorontany"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "any an-efitra"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "tonga lafatra aho"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "toy ny vororo"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "any amin'ny tanàna rava"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:09.292909501Z",
+  "model": "glm-5.3"
+}

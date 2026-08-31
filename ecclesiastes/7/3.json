@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Tsara ny tebiteby noho ny fihomehezana, fa ny tarehy sombiny mahatsara ny fo.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Tsara"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ny tebiteby"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "noho ny fihomehezana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ny ... sombiny"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "tarehy"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "mahatsara"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ny fo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:16.396406843Z",
+  "model": "glm-5.3"
+}

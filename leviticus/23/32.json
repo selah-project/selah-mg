@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Shabat fialan-tsasatra no ho anareo; ary hamafy hanina ⟨amin'ny⟩ fanahinareo: amin'ny andro fahasivolo amin'ny volana, amin'ny hariva, avy amin'ny hariva ka hatramin'ny hariva, no hitandremanareo ny Shabatanareo.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "fialan-tsasatra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "hamafy hanina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fanahinareo"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "fanahinareo"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "amin'ny andro fahasivolo"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "amin'ny volana"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "amin'ny hariva"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "avy amin'ny hariva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "hariva"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "no hitandremanareo"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "ny Shabatanareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:21:18.873537301Z",
+  "model": "glm-5.3"
+}

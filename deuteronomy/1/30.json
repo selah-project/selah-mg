@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Yahveh Elohinareo, izay mandeha eo alohanareo, ⟨⟨izy⟩⟩ no hiady ho anareo, araka ny zavatra rehetra izay nataony taminareo ⟨את⟩ tao Mitsrayim, eo imasonareo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "izay mandeha"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "eo alohanareo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨izy⟩ no"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "hiady"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "araka ny zavatra rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "taminareo ⟨את⟩"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "tao Mitsrayim"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "eo imasonareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:40:06.397743837Z",
+  "model": "glm-5.3"
+}

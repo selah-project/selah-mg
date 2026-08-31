@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 9:12",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ka namaly azy ireo ⟨את⟩ ilay zazavavy ka nanao hoe: Misy; indro, eo alohanao izy; maika ankehitriny, fa androany no tonga izy tao an-tanàna, satria fanatitra no hataon'ny vahoaka androany eo amin'ny fitoerana avo.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "Ka namaly"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ azy ireo",
+      "marks": "azy ireo (Shaol sy ny zatovony)"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Misy"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "eo alohanao"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "maika"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ankehitriny"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "androany"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "tao an-tanàna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "fanatitra"
+    },
+    {
+      "surface": "היום",
+      "gloss": "androany"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "eo amin'ny fitoerana avo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:17:25.843796254Z",
+  "model": "glm-5.3"
+}

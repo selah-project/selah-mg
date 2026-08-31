@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 14:5",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary voatalaza tamin'ny mpanjakan'i Mitsrayim fa nandositra ny vahoaka; dia nivadika ny fon'i Parao sy ny mpanompony manoloana ny vahoaka, ka nanao hoe: Inona izao no nataonay, fa namela an'i ⟨את⟩ Isiraely hiala tamin'ny fanompoana anay?",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Ary voatalaza"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "tamin'ny mpanjakan'i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "nandositra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "dia nivadika"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ny fon'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "sy ny mpanompony"
+    },
+    {
+      "surface": "אל",
+      "gloss": "manoloana"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Inona"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izao"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "no nataonay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "namelanay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraely"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "an'i Isiraely"
+    },
+    {
+      "surface": "מעבדנו",
+      "gloss": "hiala tamin'ny fanompoana anay"
+    }
+  ],
+  "timestamp": "2026-08-31T13:00:30.309035553Z",
+  "model": "glm-5.3"
+}

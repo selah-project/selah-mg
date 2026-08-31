@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 49,
+  "translation": "Ary izaho hoy: Nisasarana aho foana, nandany ny heriko ho amin'ny fo sy amin'ny zava-misy; nefa tsy ampiahiahy ny fitsarana amiko dia eo amin'i Yahveh, ary ny tambin-kiko dia eo amin'ny Elohim ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ary izaho"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "foana"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "Nisasarana aho"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "ho amin'ny fo"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "sy amin'ny zava-misy"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ny heriko"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "nandany"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "nefa tsy ampiahiahy"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ny fitsarana amiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eo amin'i Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "ary ny tambin-kiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eo amin'ny Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T15:17:44.263946802Z",
+  "model": "glm-5.3"
+}

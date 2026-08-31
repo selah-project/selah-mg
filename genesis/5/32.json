@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary Noach dia zaza dimanjato taona, ary Noach niteraka ⟨את⟩ Shem ⟨את⟩ Cham ⟨את⟩ ary Yefeta.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zaza"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "dimanjato"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "jato"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ary niteraka"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yefeta"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefeta"
+    }
+  ],
+  "timestamp": "2026-08-31T12:36:19.637831732Z",
+  "model": "glm-5.3"
+}

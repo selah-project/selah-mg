@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Efa nanao ratsy taminao tamin'ny fomba mahery setra izahay, ary tsy nitandrina ny didy sy ny lalàna ary ny fitsipika izay nandidianao an'i Moshe mpanomponao;",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "(mihitsy aza — tafatafaka)"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "nanao ratsy (tafatafaka) izahay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tamin'ny (taminao)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "nitandrina (izahay)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny didy (המצות)"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ny didy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny lalàna (החקים)"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ny lalàna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitsipika (המשפטים)"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ny fitsipika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "nandidianao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Moshe (משה)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mpanomponao"
+    }
+  ],
+  "timestamp": "2026-08-31T17:29:28.299044345Z",
+  "model": "glm-5.3"
+}

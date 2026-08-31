@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 91,
+  "translation": "Fa amin'ny maso ihany no hijerenao, ary ny valiny farany ho an'ny ratsy fanahy no hojerenao.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "fa ... ihany"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "amin'ny maso"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "no hijerenao"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "ary ny valiny farany"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ho an'ny ratsy fanahy"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "no hojerenao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:23.848917004Z",
+  "model": "glm-5.3"
+}

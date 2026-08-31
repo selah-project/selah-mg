@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary namaly izy ka nanao hoe: Tsy ⟨את⟩ izay ataon'i Yahveh ao am-bavako va no tandreko horesaho?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "namaly"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Tsy... va"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay ataon'i Yahveh ao am-bavako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ataon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ao am-bavako"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "horesaho"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "tandreko"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "horesaho"
+    }
+  ],
+  "timestamp": "2026-08-31T13:33:45.749434779Z",
+  "model": "glm-5.3"
+}

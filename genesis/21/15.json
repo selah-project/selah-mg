@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Dia lany tamin'ilay tavoahangy ny rano, ka nazerany ⟨את⟩ ilay zazakely ambanin'ny kirihitra iray.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "lany"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ny rano"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tamin'ilay"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "tavoahangy"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "nazerany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay zazakely"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ilay zazakely"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ambanin'ny"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "kirihitra"
+    }
+  ],
+  "timestamp": "2026-08-31T12:40:42.620845673Z",
+  "model": "glm-5.3"
+}

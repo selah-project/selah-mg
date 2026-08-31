@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "hitety vola-hevitra hatao amin'ny volamena sy amin'ny volafotsy sy amin'ny varahina.",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "hitety"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "vola-hevitra"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hatao"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "amin'ny volamena"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "sy amin'ny volafotsy"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "sy amin'ny varahina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:06:35.455636407Z",
+  "model": "glm-5.3"
+}

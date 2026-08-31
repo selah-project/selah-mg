@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary Yehuda sy Yisraela nipetraka tamin'ny fiadanana, isan'olona ambanin'ny voalobony sy ambanin'ny aviaviny, avy any Dana ka hatrany Be'er-Sheva, nandritra ny andro rehetra n'i Shelomo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ary nipetraka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "sy Yisraela"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "tamin'ny fiadanana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "isan'olona"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ambanin'"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "ny voalobony"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "sy ambanin'"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "ny aviaviny"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "avy any Dana"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatrany"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny andro rehetra"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nandritra ny andron'"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "i Shelomo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:41:02.386635496Z",
+  "model": "glm-5.3"
+}

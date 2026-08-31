@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 60,
+  "translation": "Tamin'ny nanafihany ⟨את⟩ an'i Aram Naharayim sy ⟨את⟩ an'i Aram Tsova, dia niverina Joab ka namely ⟨את⟩ an'i Edoma tao amin'ny lohasaha masira, roa ambin'ny folo arivo.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "tamin'ny nanafihany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsova"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dia niverina"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ka namely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edoma"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoma"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "tao amin'ny lohasaha"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "masira"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "roa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "folo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "arivo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:31.232247937Z",
+  "model": "glm-5.3"
+}

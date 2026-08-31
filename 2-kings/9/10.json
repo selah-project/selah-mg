@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary ny amboa hihinana ⟨את⟩ an'i Izebela amin'ny tany ijaovan'i Yizreela, ary tsy hisy mandevina azy. Ary nanokatra ny varavarana ilay zatovo ka nandositra.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebela"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "hihinana"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "ny amboa"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "amin'ny tany ijaovana"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreela"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tsy hisy"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "mandevina"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "nanokatra"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ny varavarana"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "nandositra"
+    }
+  ],
+  "timestamp": "2026-08-31T14:54:45.810733146Z",
+  "model": "glm-5.3"
+}

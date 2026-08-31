@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary nametraka Moshe ⟨את⟩ ny tezim-baraka teo anoloan'i Yahveh, tao an-trano firaketana ny fam-baovao.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "nametraka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tezim-baraka"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "ny tezim-baraka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anoloan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "tao an-trano"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "firaketana ny fam-baovao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:31:12.872310397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "⟨את⟩ ny Sabatako no hotandremareo, ary ny fahamasinako hatahoranareo; Izaho no Yahveh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Sabatako"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "ny Sabatako"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "hotandremareo"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "ary ny fahamasinako"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "hatahoranareo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:20:23.091404636Z",
+  "model": "glm-5.3"
+}

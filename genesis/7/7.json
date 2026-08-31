@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary niditra Noach sy ny zanany sy ny vadiny ary ny vadin'ny zanany ⟨את⟩ miaraka aminy tao amin'ny fiara, mba hiala amin'ny ranon'ny safodrano.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ary niditra"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "sy ny zanany"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "sy ny vadiny"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ary ny vadin'ny"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ miaraka aminy",
+      "marks": "miaraka aminy (momba an'i Noach)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tao amin'ny"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mba hiala amin'ny"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ranon'ny"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "safodrano"
+    }
+  ],
+  "timestamp": "2026-08-31T12:36:24.023297449Z",
+  "model": "glm-5.3"
+}

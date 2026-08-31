@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 10:11",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Hoditra sy nofo no nampitafinao ahy, ary tamin'ny taolana sy ny hozatra no nanefeanao ahy.",
+  "tokens": [
+    {
+      "surface": "עור",
+      "gloss": "hoditra"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "sy nofo"
+    },
+    {
+      "surface": "תלבישני",
+      "gloss": "no nampitafinao ahy"
+    },
+    {
+      "surface": "ובעצמות",
+      "gloss": "tamin'ny taolana"
+    },
+    {
+      "surface": "וגידים",
+      "gloss": "sy ny hozatra"
+    },
+    {
+      "surface": "תסככני",
+      "gloss": "no nanefeanao ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:00:55.108326125Z",
+  "model": "glm-5.3"
+}

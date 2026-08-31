@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary ny mpanjakan'i Bavel namely ⟨את⟩ azy ka namono azy tany Rivla, ao amin'ny tany Hamat; ary dia nasesy ny Yehuda niala tamin'ny taniny.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "namely"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "namono azy"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "tany Rivla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ao amin'ny tany"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "nasesy"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "niala tamin'ny"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "taniny"
+    }
+  ],
+  "timestamp": "2026-08-31T15:01:45.540260735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 103,
+  "translation": "Araka ny halavan'ny lavany misy ny antsinanan'ny andrefana, no nampalaviny lavitsy anay ⟨את⟩ ny fandikantsika.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "araka ny halavan'ny lavany"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "antsinanan"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "ny andrefana"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "nampalaviny lavitsy"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "anay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fandikantsika"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ny fandikantsika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:16.710270135Z",
+  "model": "glm-5.3"
+}

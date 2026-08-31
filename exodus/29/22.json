@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 29:22",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary halainao amin'ilay ondrilahy ny tavy sy ny rambo, sy ⟨את⟩ ny tavy manarona ⟨את⟩ ny kibo, sy ⟨את⟩ ilay somin-tatatra eo amin'ny aty, sy ⟨את⟩ ny voa roa, ary ⟨את⟩ ny tavy izay eo ambony ireo, ary ⟨את⟩ ny fatsialan-tongotra havanana; fa ondrilahy fanokanana no izy.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "halainao"
+    },
+    {
+      "surface": "מן",
+      "gloss": "amin'ilay"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ondrilahy"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ny tavy"
+    },
+    {
+      "surface": "והאליה",
+      "gloss": "sy ny rambo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tavy"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "tavy"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "manarona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny kibo"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "kibo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ilay somin-tatatra"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "somin-tatatra"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "aty"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny voa roa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "roa"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "voa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tavy"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "tavy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "eo ambony ireo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny fatsialan-tongotra"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "fatsialan-tongotra"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "havanana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ondrilahy"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "fanokanana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no izy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:06:01.575073179Z",
+  "model": "glm-5.3"
+}

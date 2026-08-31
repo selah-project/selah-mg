@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Mitsangàna, ry Yahveh, amin'ny fahatezeranao; misehoseho amin'ny fahaviniranan'ny mpanohitra ahy; ary mifohaza ho ahy amin'ny fitsarana efa nolazainao.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Mitsangàna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "amin'ny fahatezeranao"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "misehoseho"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "amin'ny fahaviniran'"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ny mpanohitra ahy"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "ary mifohaza"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "amin'ny fitsarana"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "efa nolazainao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:19.639863349Z",
+  "model": "glm-5.3"
+}

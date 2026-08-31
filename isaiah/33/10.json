@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Ankehitriny hitsangana aho, hoy Yahveh; ankehitriny hidetra amim-boninahitra aho; ankehitriny hanandratra tena aho.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ankehitriny"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "hitsangana"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ankehitriny"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "hidetra amim-boninahitra"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ankehitriny"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "hanandratra tena"
+    }
+  ],
+  "timestamp": "2026-08-31T15:10:03.022989718Z",
+  "model": "glm-5.3"
+}

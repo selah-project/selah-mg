@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary nitsangana Avraham ka niankohoka tamin'ny vahoakan'ny tany, dia ny zanak'i Heth,",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nitsangana"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "niankohoka"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tamin'ny vahoakan'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ny zanak'i"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heth"
+    }
+  ],
+  "timestamp": "2026-08-31T12:40:32.355573591Z",
+  "model": "glm-5.3"
+}

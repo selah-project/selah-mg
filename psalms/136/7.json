@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 136:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 136,
+  "translation": "Ho an'izay manao jiro lehibe, fa ho amin'ny fiainana mandrakizay ny hesediny.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "ho an'izay manao"
+    },
+    {
+      "surface": "אורים",
+      "gloss": "jiro"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho amin'ny fiainana mandrakizay"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ny hesediny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:20.955189778Z",
+  "model": "glm-5.3"
+}

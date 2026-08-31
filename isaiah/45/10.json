@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 45,
+  "translation": "Lo amin'ilay milaza amin'ny ray: Inona no terakao? sy amin'ny vavy: Inona no bevohenoanao?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Lo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "milaza"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "amin'ny ray"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Inona"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "no terakao"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "sy amin'ny vavy"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Inona"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "no bevohenoanao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:16:30.426302441Z",
+  "model": "glm-5.3"
+}

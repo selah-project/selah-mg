@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 80,
+  "translation": "Yahveh Elohim Tsevaot, mandra-pahoviana no hizozianao amin'ny fivavahan'ny olonao?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "pahoviana"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "mizozia"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "amin'ny fivavahan'"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ny olonao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:23.404899890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 30:22",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary nahatsiaro an'i Rachel Elohim, dia nihaino azy Elohim, ka nanokatra ny fatoraniany.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "nahatsiaro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Rachel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "azy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "nanokatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fatoraniany"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "ny fatoraniany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:44:12.309531421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 89:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Fony izany Hianao niteny tamin'ny fahitana tamin'ny hasidinao, ka nanao hoe: Efa nametraka mpamonjy ambonin'ny mahery Aho, efa nasandratiko tovolahy voafidy avy amin'ny vahoaka.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Fony izany"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Hianao niteny"
+    },
+    {
+      "surface": "בחזון",
+      "gloss": "tamin'ny fahitana"
+    },
+    {
+      "surface": "לחסידיך",
+      "gloss": "tamin'ny hasidinao"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "Efa nametraka"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mpamonjy"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "הרימותי",
+      "gloss": "efa nasandratiko"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "tovolahy voafidy"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "avy amin'ny vahoaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:40.638531800Z",
+  "model": "glm-5.3"
+}

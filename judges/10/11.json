@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 10:11",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary hoy Yahveh tamin'ny zanak'Isiraely: Tsy avy tamin'ny Mitsrayim sy ny Emorita, ary avy tamin'ny zanak'i Ammon sy ny Palestina (efa namonjy anareo Aho)?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "avy tamin'ny Mitsrayim"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "sy"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ny Emorita"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ary avy tamin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "sy"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Palestina"
+    }
+  ],
+  "timestamp": "2026-08-31T14:09:24.703254789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 43:13",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 43,
+  "translation": "Eny, hatramin'ny andro dia Izaho no Izy, ary tsy misy mpanafaka amin'ny tanako; Izaho manao ⟨azy⟩, ary iza no mampiverina azy?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Eny"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "hatramin'ny andro"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Izy"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "amin'ny tanako"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "mpanafaka"
+    },
+    {
+      "surface": "אפעל",
+      "gloss": "manao"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ary iza"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "mampiverina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:15:01.111254753Z",
+  "model": "glm-5.3"
+}

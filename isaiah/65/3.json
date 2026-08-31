@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 65,
+  "translation": "Ny vahoaka izay mandrarahana Ahy ⟨את⟩ eo anatrehako mandrakariva, mamono fanatitra amin'ny zaridaina, ary manentana setroka ambonin'ny biriky.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "Ny vahoaka"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "izay mandrarahana"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ Ahy",
+      "marks": "Ahy"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anatrehako"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mandrakariva"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "mamono fanatitra"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "amin'ny zaridaina"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "ary manentana setroka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "biriky"
+    }
+  ],
+  "timestamp": "2026-08-31T15:23:01.558061529Z",
+  "model": "glm-5.3"
+}

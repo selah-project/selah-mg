@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary izy dia maratra ⟨ny⟩ aina ka nivavaka tamin'i Yahveh sady nitomany mafy.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "ary izy"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "maratra"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "aina"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "ka nivavaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "sady nitomany"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "mafy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:14:34.188876332Z",
+  "model": "glm-5.3"
+}

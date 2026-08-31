@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary nanao ⟨את⟩ ny tsorakazo Izy, hazo akasia, ary nopetahany tamin'ny volamena ⟨את⟩ izy ireo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tsorakazo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ny tsorakazo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "nopetahany"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ izy ireo",
+      "marks": "izy ireo (ny tsorakazo)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    }
+  ],
+  "timestamp": "2026-08-31T13:09:08.097658495Z",
+  "model": "glm-5.3"
+}

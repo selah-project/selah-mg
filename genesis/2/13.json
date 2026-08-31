@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary ny anaran'ny renirano faharoa Gichon, izy no mihodidina ⟨את⟩ ny tany rehetra Kush.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Ary ny anaran'ny"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "renirano"
+    },
+    {
+      "surface": "השני",
+      "gloss": "faharoa"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gichon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "no mihodidina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany rehetra Kush"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:42.494693328Z",
+  "model": "glm-5.3"
+}

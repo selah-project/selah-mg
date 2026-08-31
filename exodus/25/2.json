@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Miresaka amin'ny zanak'i Yisraela, ka hangony ho Ahy terumah ⟨את⟩, avy amin'ny ⟨את⟩] tsirairay, dia ny lehilahy izay mahatonga ny fony ho vonona, no haka ⟨את⟩ ny terumah-ko.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Miresaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ka hangony"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho Ahy"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "terumah"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "avy amin'ny tsirairay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsirairay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "mahatonga ho vonona"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ny fony"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "no haka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny terumah-ko"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "terumah-ko"
+    }
+  ],
+  "timestamp": "2026-08-31T18:46:55.593468441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Tsy niara-nipetraka tamin'ny olona mandravaka aho, ary tamin'ny mpitoha tsy handeha.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "niara-nipetraka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "olona"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "mandravaka"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ary tamin'ny"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "mpitoha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "handeha"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:09.594104308Z",
+  "model": "glm-5.3"
+}

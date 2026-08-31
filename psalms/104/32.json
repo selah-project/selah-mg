@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 104,
+  "translation": "Izay mijery ny tany ka mirairay izy, mikasika ny tendrombohitra ka misefoatra ireo.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "Izay mijery"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ny tany",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "ka mirairay izy"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "mikasika"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "ny tendrombohitra"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "ka misefoatra ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T19:13:04.140278685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 4:5",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary Azariaho zanak'i Natan no teny amin'ny nitsangana ⟨⟨ny mpitan'ny raharaha⟩⟩, ary Zaboda zanak'i Natan mpisorona, sakaizan'ny mpanjaka.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "Ary Azariaho"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "על",
+      "gloss": "teny amin'ny"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "ny nitsangana ⟨ny mpitan'ny raharaha⟩"
+    },
+    {
+      "surface": "וזבוד",
+      "gloss": "ary Zaboda"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "sakaiza"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:40:01.777988090Z",
+  "model": "glm-5.3"
+}

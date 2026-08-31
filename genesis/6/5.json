@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 6:5",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary Yahveh nahita fa be ny haratsian'ny olona teto amin'ny tany, ary ny endrika rehetra'ny hevitry ny fony dia lozha fotsiny amin'ny andro rehetra.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nahita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "be"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ny haratsiana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "teto amin'ny tany"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ny ... rehetra"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "endrika"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "hevitra"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ny fony"
+    },
+    {
+      "surface": "רק",
+      "gloss": "fotsiny"
+    },
+    {
+      "surface": "רע",
+      "gloss": "lozha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "היום",
+      "gloss": "andro"
+    }
+  ],
+  "timestamp": "2026-08-31T12:36:43.555371067Z",
+  "model": "glm-5.3"
+}

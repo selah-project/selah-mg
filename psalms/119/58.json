@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "psalms 119:58",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Nangataka ⟨tamin'ny⟩ tavanao tamin'ny fo rehetra izaho; mamindra fo amiko araka ny teninao.",
+  "tokens": [
+    {
+      "surface": "חליתי",
+      "gloss": "nangataka"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tavanao"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tamin'ny ... rehetra"
+    },
+    {
+      "surface": "לב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "mamindra fo amiko"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "araka ny teninao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:01.310813803Z",
+  "model": "glm-5.3"
+}

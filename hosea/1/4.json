@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary hoy Yahveh taminy: Anao ny anarany hoe Jizreela, fa mbola kely dia hampandoaiko ⟨את⟩ ny ran'i Jizreela amin'ny taranak'i Jeho, ary hampitsahatro ny fanjakan'ny taranak'Isiraely.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Anao"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mbola"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kely"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "hampandoaiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ran'i Jizreela"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ny ran'i"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreela"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taranak'i"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jeho"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "hampitsahatro"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "fanjakan'ny"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taranak'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    }
+  ],
+  "timestamp": "2026-08-31T16:07:54.625475660Z",
+  "model": "glm-5.3"
+}

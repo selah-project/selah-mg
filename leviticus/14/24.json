@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary ny mpisorona haka ⟨את⟩ ny ondrin'ny asama sy ⟨את⟩ ny login-diloilo, ary ny mpisorona hizarazaratra azy ho zarazarahana eo anatrehan'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Ary haka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ondrin'ny asama"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ondry"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "asama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny login-diloilo"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "diloilo"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "ary hizarazaratra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "ho zarazarahana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anatrehan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:16:09.402098799Z",
+  "model": "glm-5.3"
+}

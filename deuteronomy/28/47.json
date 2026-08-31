@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 28:47",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Noho izy tsy nanompo ⟨את⟩ an'i Yahveh Elohiminao hianao tamin'ny hafaliana sy amin'ny fahafinaretan'ny fo, amin'ny fananana be dia be ny zava-drehetra.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Noho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "nanompo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yahveh Elohiminao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminao"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "amin'ny hafaliana"
+    },
+    {
+      "surface": "ובטוב",
+      "gloss": "sy amin'ny"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "fahafinaretan'ny fo"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "be dia be"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zava-drehetra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:50:48.460093806Z",
+  "model": "glm-5.3"
+}

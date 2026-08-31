@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 23:2",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Aza manaraka ny maro hanao ratsy; ary aza mamaly amin'ny raharaha manao tsindriana aorian'ny maro hanao fihodinana.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "manaraka"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "aorian'ny"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maro"
+    },
+    {
+      "surface": "לרעת",
+      "gloss": "hanao ratsy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "mamaly"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "רב",
+      "gloss": "raharaha"
+    },
+    {
+      "surface": "לנטת",
+      "gloss": "hanao tsindriana"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "aorian'ny"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maro"
+    },
+    {
+      "surface": "להטת",
+      "gloss": "hanao fihodinana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:02:28.620998468Z",
+  "model": "glm-5.3"
+}

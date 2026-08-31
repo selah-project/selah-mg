@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "sy ⟨את⟩ ny famantarany sy ⟨את⟩ ny asany izay nataony tao anivon'i Mitsrayim, tamin'i Parao mpanjakan'i Mitsrayim, sy tamin'ny tany rehetra:",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny famantarany"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "famantarana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny asany"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "asa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "tao anivon'i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "tamin'i Parao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "sy tamin'ny ... rehetra"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ny taniny"
+    }
+  ],
+  "timestamp": "2026-08-31T13:43:11.525653649Z",
+  "model": "glm-5.3"
+}

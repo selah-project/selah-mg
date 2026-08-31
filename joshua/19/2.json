@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary nomena azy tao amin'ny lovan-tany nisy Be'er-Sheva, sy Sheva, ary Molada.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ary nisy"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "tao amin'ny lovan-tany"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "sy Sheva"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "ary Molada"
+    }
+  ],
+  "timestamp": "2026-08-31T14:01:53.075907967Z",
+  "model": "glm-5.3"
+}

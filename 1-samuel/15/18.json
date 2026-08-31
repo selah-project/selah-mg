@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary Yahveh naniraka anao tamin'ny lalana ka nanao hoe: Mandehana, ary hofafanao tanteraka ⟨את⟩ ny mpanota ⟨את⟩ Amaleka, ary hiady aminy ianao am-pahavitan'ny fandringanana azy ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "naniraka anao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tamin'ny lalana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Mandehana"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "hofafanao tanteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanota"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "ny mpanota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleka"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "ary hiady"
+    },
+    {
+      "surface": "בו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "am-pahavitan'ny"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "fandringanana azy"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:31:13.141350242Z",
+  "model": "glm-5.3"
+}

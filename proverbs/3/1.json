@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Anaka, aza manadino ny lalàko, ary aoka ny fonao hitandrina ny didiko.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Anaka"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ny lalàko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "manadino"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ary ny didiko"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "hitandrina"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ny fonao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:58.150043461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Izy no Yahveh, Elohim antsika; manerana ny tany no misy ny fitsarany.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Izy no"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim antsika"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "manerana"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "ny fitsarany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:14.606060567Z",
+  "model": "glm-5.3"
+}

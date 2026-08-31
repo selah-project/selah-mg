@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Araka izay rehetra asehoko ⟨את⟩ anao — ⟨את⟩ ny endriky ny tranolay ⟨את⟩ sy ny endriky ny fanakany rehetra — dia toy izany no hataonareo.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "araka ... rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "mampiseho"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ anao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny endriky ny tranolay"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ny endriky"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ny tranolay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ sy",
+      "marks": "ny endriky ny fanakany rehetra"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ny endriky"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ny fanakany"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "dia toy izany"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "no hataonareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:05:09.076202314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 31:25",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Fa Izaho efa nampaneno faty ⟨את⟩ fanahy sasatra, ary fanahy rehetra matin-tsedra no feno nataoko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "הרויתי",
+      "gloss": "nampaneno faty"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "sasatra"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ... rehetra"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "matin-tsedra"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "feno nataoko"
+    }
+  ],
+  "timestamp": "2026-08-31T15:35:54.626479841Z",
+  "model": "glm-5.3"
+}

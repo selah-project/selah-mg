@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary nalain'i Mikal ⟨את⟩ ny terafima ka napetrany tamin'ny fandriana, ary ⟨את⟩ ny tapisy volon'osy nataony teo am-pamanjan'ny lohany, ka naovalombelona tamin'ny lamba.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "nalain'i"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny terafima"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "ny terafima"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "napetrany"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "ny fandriana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tapisy volon'osy"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "tapisy"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "volon'osy"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "teo am-pamanjan'ny lohany"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "naovalombelona"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "tamin'ny lamba"
+    }
+  ],
+  "timestamp": "2026-08-31T14:22:09.106780837Z",
+  "model": "glm-5.3"
+}

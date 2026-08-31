@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary nanjary nanan-kery ny rano ambonin'ny tany dimam-polo sy zato andro.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "nanjary nanan-kery"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ny rano"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "dimam-polo"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "sy zato"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    }
+  ],
+  "timestamp": "2026-08-31T12:36:14.499517265Z",
+  "model": "glm-5.3"
+}

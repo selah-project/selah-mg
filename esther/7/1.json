@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary tonga ny mpanjaka sy Haman hiara-misotro ⟨את⟩ tamin'i Ester mpanjaka vavy.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ary tonga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "sy Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "hiara-misotro"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tamin'"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "mpanjaka vavy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:19:35.310221764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ary naniraka ny mpanjaka ka nampivory ⟨את⟩ ny anti-panahy rehetra avy any Yehuda sy Yeroshalayim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "naniraka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ka nampivory"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anti-panahy rehetra avy any Yehuda sy Yeroshalayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "anti-panahy"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "sy Yeroshalayim"
+    }
+  ],
+  "timestamp": "2026-08-31T18:21:08.687061709Z",
+  "model": "glm-5.3"
+}

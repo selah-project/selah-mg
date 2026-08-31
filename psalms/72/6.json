@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 72,
+  "translation": "Amidina toy ny orana ambony famiezihana, toy ny oram-be mandatsaka ⟨ranomena⟩ amin'ny tany.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "amidina"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "toy ny orana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambony"
+    },
+    {
+      "surface": "גז",
+      "gloss": "famiezihana"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "toy ny oram-be"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "mandatsaka ranomena"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "amin'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:41.535967878Z",
+  "model": "glm-5.3"
+}

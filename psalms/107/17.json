@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 107,
+  "translation": "Adaladala noho ny lalàn'ny fihavanan'izy ireo ⟨noho⟩ ny tsi-fahamarinany, dia voageja izy.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "adaladala"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "noho ny lalan'ny"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "fihavanan'izy ireo"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "⟨noho⟩ ny tsi-fahamarinany"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "voageja izy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:05.450336759Z",
+  "model": "glm-5.3"
+}

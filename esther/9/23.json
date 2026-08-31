@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary nandrahina ny Jiosy ⟨את⟩ izay efa natomboka hatao sy ⟨את⟩ izay nosoratan'i Mordekai taminy.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "nandrahina"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ny Jiosy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay efa natomboka hatao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "efa natomboka"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hatao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "izay nosoratan'i Mordekai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "nosoratan'i"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "tamin'izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:19:27.388024252Z",
+  "model": "glm-5.3"
+}

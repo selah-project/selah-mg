@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 107:37",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 107,
+  "translation": "Ary nambolena ny tany fambolena, nambolena ny tanim-boalava, ka niteraka voa famokarana izy.",
+  "tokens": [
+    {
+      "surface": "ויזרעו",
+      "gloss": "nambolena"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "tany fambolena"
+    },
+    {
+      "surface": "ויטעו",
+      "gloss": "naniry\/nambolena"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "tanim-boalava"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "voa"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "famokarana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:07.832032800Z",
+  "model": "glm-5.3"
+}

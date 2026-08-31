@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Koa tano ⟨את⟩ ny didy sy ⟨את⟩ ny lalàna ary ⟨את⟩ ny fitsipika izay andidiako anao androany hataonao.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Koa tano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny didy"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ny didy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny lalàna"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ny lalàna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny fitsipika"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ny fitsipika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "andidiako anao"
+    },
+    {
+      "surface": "היום",
+      "gloss": "androany"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "hataonao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:43:51.504561194Z",
+  "model": "glm-5.3"
+}

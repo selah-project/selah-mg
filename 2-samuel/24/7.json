@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 24:7",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary tonga tao amin'ny mimbon'i Tsora sy tanàna rehetra rehetran'ny Hivita sy ny Kanaanita, dia nivoaka nankany amin'ny atsimon'i Yehuda, ka hatrany Beera-Sheba.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "mimbo"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsora"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ... rehetra"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ny Hivita"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "sy ny Kanaanita"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "nivoaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nankany amin'ny"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "atsimo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beera"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    }
+  ],
+  "timestamp": "2026-08-31T14:38:35.235961228Z",
+  "model": "glm-5.3"
+}

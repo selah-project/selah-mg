@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Vonoinao tanteraka ⟨את⟩ ny mponina amin'izany tanàna izany amin'ny lelan-tsabatra; haringana fanesorana ⟨את⟩ izy sy ⟨את⟩ izay rehetra ao aminy ary ⟨את⟩ ny biby fiompiny amin'ny lelan-tsabatra.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "Vonoinao"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "tanteraka (famonoana)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mponina amin'izany tanàna izany"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ny mponina"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "amin'ny tanàna"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "amin'ny lelan-"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tsabatra"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "haringana fanesorana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "izy (ny tanàna)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "izay rehetra ao aminy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ao aminy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny biby fiompiny"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "ny biby fiompiny"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "amin'ny lelan-"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tsabatra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:44:47.863742784Z",
+  "model": "glm-5.3"
+}

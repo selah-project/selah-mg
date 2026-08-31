@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 1:5",
+  "book": "habakkuk",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Jereo eo amin'ny firenena, ka tandremo, ka gaga mafy; fa asa iray no atao amin'ny andronareo, tsy hinoanareo na dia ho voalaza aza.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Jereo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "eo amin'ny firenena"
+    },
+    {
+      "surface": "והביטו",
+      "gloss": "ka tandremo"
+    },
+    {
+      "surface": "והתמהו",
+      "gloss": "ka gaga"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "mafy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "asa"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "no atao"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "amin'ny andronareo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "hinoanareo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na dia"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ho voalaza aza"
+    }
+  ],
+  "timestamp": "2026-08-31T16:16:44.590190669Z",
+  "model": "glm-5.3"
+}

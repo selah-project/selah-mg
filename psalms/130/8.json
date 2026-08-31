@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 130,
+  "translation": "Fa izy no hahavoky ⟨את⟩ Isiraely amin'ny fahotany rehetra.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "fa izy"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "hahavoky"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraely"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "amin'ny... rehetra"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "fahotany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:59.257848762Z",
+  "model": "glm-5.3"
+}

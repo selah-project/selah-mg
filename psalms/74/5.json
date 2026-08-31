@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 74,
+  "translation": "Hitan'ny maso toy ny mpampiakatra ⟨any⟩ ambony, ao anatin'ny hazo matevina — famaky.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "Hitan'ny maso"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "toy ny mpampiakatra"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ambony"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "ao anatin'ny hazo matevina"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "famaky"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:03.202499601Z",
+  "model": "glm-5.3"
+}

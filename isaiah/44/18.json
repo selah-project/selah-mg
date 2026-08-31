@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 44:18",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Tsy fantatr'izy ireo, ary tsy azony; fa voasokitra ny masony mba tsy hahita, ary ny fony mba tsy hahatakatra.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "fantatr'izy ireo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "azony"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "טח",
+      "gloss": "voasokitra"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "mba tsy hahita"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ny masony"
+    },
+    {
+      "surface": "מהשכיל",
+      "gloss": "mba tsy hahatakatra"
+    },
+    {
+      "surface": "לבתם",
+      "gloss": "ny fony"
+    }
+  ],
+  "timestamp": "2026-08-31T15:17:39.708285089Z",
+  "model": "glm-5.3"
+}

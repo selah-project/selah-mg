@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 103,
+  "translation": "Misaora an'i Yahveh, ry anjely mpanompony, ianareo mahery hery, mpanatanteraka ny teniny, mandoa ny feon'ny teniny.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Misaora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "ry anjely mpanompony"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "ianareo mahery"
+    },
+    {
+      "surface": "כח",
+      "gloss": "hery"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "mpanatanteraka"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ny teniny"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "mandoa"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ny feon'ny"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "teniny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:31.017175653Z",
+  "model": "glm-5.3"
+}

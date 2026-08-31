@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Raha eo aminy ny tompony, tsy handoa izy; raha mpikarama izy, efa tonga amin'ny karamany ⟨izany⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ny tompony"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "eo aminy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "handoa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "mpikarama"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "amin'ny karamany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:02.046032925Z",
+  "model": "glm-5.3"
+}

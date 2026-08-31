@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 69,
+  "translation": "Fa izaho kosa malahelo sy mijaly; ny famonjenao, ry Elohim, hanandratra ahy.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "fa izaho kosa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "malahelo"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "sy mijaly"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "ny famonjenao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ry Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "hanandratra ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:38.068042121Z",
+  "model": "glm-5.3"
+}

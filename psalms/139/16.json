@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 139,
+  "translation": "Ny maso masonao efa nahita ⟨את⟩ endriko tsy mbola voafehy, ary tao amin'ny bokinao izy rehetra dia voasoratra; ny andro noforonina azy, fa tsy nisy na iray tamin'izy ireo.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "endriko tsy mbola voafehy"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "efa nahita"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ny maso masonao"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ary tao amin'ny"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "bokinao"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "izy rehetra"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "voasoratra"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ny andro"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "noforonina azy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy nisy"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "na iray"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "tamin'izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:39.500177507Z",
+  "model": "glm-5.3"
+}

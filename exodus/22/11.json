@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Fa raha voaangona kosa aminy, dia tsy maintsy onenana ho an'ny tompony izy.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Fa raha"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "voaangona"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "onenana"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "ho an'ny tompony"
+    }
+  ],
+  "timestamp": "2026-08-31T13:02:36.525987837Z",
+  "model": "glm-5.3"
+}

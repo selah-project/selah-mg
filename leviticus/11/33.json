@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary ny fitaovana tany masaka rehetra izay ipahan'ireo ao anatiny, izay rehetra ao anatiny dia ho loto, ary ⟨את⟩ izany no hotorotoroinareo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ary ... rehetra"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "fitaovana"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "tany masaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ipahan'ireo"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "avy amin'ireo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ao"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "anatiny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "ao anatiny"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ho loto"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ izany",
+      "marks": "izany (ilay fitaovana)"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "hotorotoroinareo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:57:49.498056043Z",
+  "model": "glm-5.3"
+}

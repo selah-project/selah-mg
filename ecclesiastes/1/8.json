@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Mahavizana ny teny rehetra — tsy mahay miteny amin'izany ny olona; tsy voky ny maso amin'ny fijerena, ary tsy voafeno ny tsofina amin'ny reheniny.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "mahavizana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "mahay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "hiteny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "voky"
+    },
+    {
+      "surface": "עין",
+      "gloss": "maso"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "amin'ny fijerena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "voafeno"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "tsofina"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "amin'ny reheniny"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:28.536707953Z",
+  "model": "glm-5.3"
+}

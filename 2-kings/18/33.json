@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Moa ve ny elohean'ny firenena ⟨את⟩ ny tany tsirairay dia efa voavonjy tamin'ny tànan'ny mpanjakan'i Ashur?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "Moa ve ... vonjy"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "efa voavonjy"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ny elohean'ny"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tsirairay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tamin'ny tànana"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ny mpanjakan'ny"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-31T14:58:15.091776899Z",
+  "model": "glm-5.3"
+}

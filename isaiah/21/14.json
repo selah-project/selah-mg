@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 21:14",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Hitan'ny mponina amin'ny tany Tema rano ho an'ny mangetaheta; ny mpanidy mba nandalana nanatona azy tamin'ny mofo.",
+  "tokens": [
+    {
+      "surface": "לקראת",
+      "gloss": "hanatona (hihaona amin')"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "mangetaheta"
+    },
+    {
+      "surface": "התיו",
+      "gloss": "hitany (nenti)"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mponina (mponina amin)"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Tema"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "tamin'ny mofony"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "nanatona azy (nialoha lalana)"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "mpanidy mba nandalana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:07:38.682874657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary hita tso-drano sy fahalalana tsara ianao eo imason'ny Elohim sy olombelona.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "Ary hita"
+    },
+    {
+      "surface": "חן",
+      "gloss": "tso-drano"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "sy fahalalana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "eo imason'ny"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "sy olombelona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:58.150651899Z",
+  "model": "glm-5.3"
+}

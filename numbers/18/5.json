@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary ianareo hitandrina ⟨את⟩ ny fiahian'ny fahamasinana sy ⟨את⟩ ny fiahian'ny alitara, mba tsy hisy fahatezerana intsony amin'ny zanak'i Yisraela.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "hitandrina ianareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiahian'ny fahamasinana"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "fiahian'ny"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "fahamasinana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "fiahian'ny alitara"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "fiahian'ny"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mba tsy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hisy"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "fahatezerana"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    }
+  ],
+  "timestamp": "2026-08-31T13:31:43.897431684Z",
+  "model": "glm-5.3"
+}

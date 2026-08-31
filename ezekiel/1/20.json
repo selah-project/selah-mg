@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 1:20",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Amin'izay tany misy ny fanahy handeha dia mandeha any; any ny fanahy handeha; ary ny kodia dia miakatra mifanila aminy, fa ny fanahin'ny zava-mananaina no ao anaty kodia.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Amin'izay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "misy"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tany"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ny fanahy"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "handeha"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "dia mandeha"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "any"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ny fanahy"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "handeha"
+    },
+    {
+      "surface": "והאופנים",
+      "gloss": "ary ny kodia"
+    },
+    {
+      "surface": "ינשאו",
+      "gloss": "dia miakatra"
+    },
+    {
+      "surface": "לעמתם",
+      "gloss": "mifanila aminy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ny fanahin'ny"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "zava-mananaina"
+    },
+    {
+      "surface": "באופנים",
+      "gloss": "ao anaty kodia"
+    }
+  ],
+  "timestamp": "2026-08-31T15:46:46.952638584Z",
+  "model": "glm-5.3"
+}

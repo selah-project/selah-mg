@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 87,
+  "translation": "Ary mpihira sy mandihy dia hanao hoe: ny loharano rehetra dia ao aminao.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "Ary mpihira"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "sy mandihy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "ny loharano"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ao aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:15.077230600Z",
+  "model": "glm-5.3"
+}

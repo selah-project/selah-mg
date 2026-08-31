@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary nanokana ⟨את⟩ an'i Kedesh any Galila, eo amin'ny tendrombohitra Naftaly, sy ⟨את⟩ Shekhem eo amin'ny tendrombohitra Efrayima, ary ⟨את⟩ Kiryat-Arba — dia Khebrona — eo amin'ny tendrombohitra Yehuda, izy ireo.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "Ary nanokana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Kedesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "any Galila"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "eo amin'ny tendrombohitra"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftaly"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "eo amin'ny tendrombohitra"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Kiryat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khebrona"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "eo amin'ny tendrombohitra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-31T14:03:16.776015344Z",
+  "model": "glm-5.3"
+}

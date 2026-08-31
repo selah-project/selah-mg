@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jonah 1:13",
+  "book": "jonah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary nizotra tamin'ny loham-by ny lehilahy mba hampody ⟨את⟩ ho any amin'ny tany maina, fa tsy nahomby izy, satria ny ranomasina dia nandeha sady niady tafika tamim-pahatezerana kokoa taminy.",
+  "tokens": [
+    {
+      "surface": "ויחתרו",
+      "gloss": "nizotra tamin'ny loham-by"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ny lehilahy"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "mba hampody"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "ny tany maina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "nahomby izy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ny ranomasina"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "sady niady tafika tamim-pahatezerana kokoa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "taminy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:13:59.709650498Z",
+  "model": "glm-5.3"
+}

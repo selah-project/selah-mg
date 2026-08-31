@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary hoy Yahveh tamin'i Moshe: Lazao amin'i Aharon: Ahitao ⟨את⟩ ny tahonao, ka kapohy ⟨את⟩ vovoka ny tany, ary ho moka izy amin'ny tany Mitsrayim rehetra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Lazao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Ahitao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tahonao"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "ny tahonao"
+    },
+    {
+      "surface": "והך",
+      "gloss": "ka kapohy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vovoka"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "vovoka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ary ho"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "moka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim rehetra"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:42.431054415Z",
+  "model": "glm-5.3"
+}

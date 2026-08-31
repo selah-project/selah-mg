@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Tsy hamono amin'ny masiaka ny ran'ny fanatitraiko ianao; ary ny fanatitr'ny fetin'ny Paskha tsy hitsahatra hatramin'ny maraina.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "hamono"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "masiaka"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ran'ny"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "fanatitraiko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "hitsahatra"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "hatramin'ny maraina"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ny fanatitr'ny"
+    },
+    {
+      "surface": "חג",
+      "gloss": "fetin'ny"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paskha"
+    }
+  ],
+  "timestamp": "2026-08-31T13:08:53.581062397Z",
+  "model": "glm-5.3"
+}

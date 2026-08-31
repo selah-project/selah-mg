@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 53:12",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 53,
+  "translation": "Koa hisako azy anivon'ny maro, ary ⟨את⟩ ny mahery hisaka babo; satria nandatsaka ho faty ny fanahiny, ary ⟨את⟩ ny mpandika lalàna no natao isaina; ary izy nitondra ny fahotan'ny maro, ary ho an'ny mpandika lalàna nifona.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Koa"
+    },
+    {
+      "surface": "אחלק",
+      "gloss": "hisako"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "anivon'ny maro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny mahery"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "hisaka"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "babo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "satria"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨izay⟩"
+    },
+    {
+      "surface": "הערה",
+      "gloss": "nandatsaka"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ho faty"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ny fanahiny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny mpandika lalàna"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "mpandika lalàna"
+    },
+    {
+      "surface": "נמנה",
+      "gloss": "natao isaina"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ary izy"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "fahotan'"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ny maro"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nitondra"
+    },
+    {
+      "surface": "ולפשעים",
+      "gloss": "ary ho an'ny mpandika lalàna"
+    },
+    {
+      "surface": "יפגיע",
+      "gloss": "nifona"
+    }
+  ],
+  "timestamp": "2026-08-31T15:19:07.027941679Z",
+  "model": "glm-5.3"
+}

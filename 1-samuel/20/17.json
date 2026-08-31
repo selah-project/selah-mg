@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 20:17",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary Yehonatan nanampy nampianiana ⟨את⟩ Davida amin'ny fitiavany ⟨את⟩ azy, fa fitiavana ny ainy no fitiavany azy.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "nanampy"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "להשביע",
+      "gloss": "nampianiana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "amin'ny fitiavany"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "fitiavana"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ny ainy"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "no fitiavany azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:22:58.114410058Z",
+  "model": "glm-5.3"
+}

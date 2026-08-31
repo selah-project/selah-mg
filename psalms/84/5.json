@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 84,
+  "translation": "Sambatra izay monina ao amin'ny tranonao; foana no midera Anao izy. Selah.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Sambatra"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "izay monina"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ao amin'ny tranonao"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "foana"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "no midera Anao izy"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:17.088709876Z",
+  "model": "glm-5.3"
+}

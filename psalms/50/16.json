@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 50,
+  "translation": "Fa tamin'ny ratsy fanahy Elohim nanao hoe: Inona no anananao hanamarinanao ny lalàko, ary hitsanganao ny fanekeniako eo ambonin'ny vavanao?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "Fa tamin'ny ratsy fanahy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Inona"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anananao"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "hanamarinanao"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "ny lalàko"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "ary hitsanganao"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ny fanekeniako"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "eo ambonin'ny"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "vavanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:30:42.250649691Z",
+  "model": "glm-5.3"
+}

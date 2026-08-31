@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Zavatra hatao sorona sy fanatitra iavan-tsakafo no tsy nirinao; sofina no nomaninao ho ahy; fanatitra dorana sy fanatitra noho ny fahotana no tsy nangatahinao.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Zavatra hatao sorona"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "sy fanatitra iavan-tsakafo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "nirinao"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "sofina"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "no nomaninao"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "fanatitra dorana"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "sy fanatitra noho ny fahotana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "nangatahinao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:53.229821198Z",
+  "model": "glm-5.3"
+}

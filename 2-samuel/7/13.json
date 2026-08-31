@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 7:13",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Izy no hanorina trano ho an'ny anarako, ary izaho no hampitoetra ⟨את⟩ ny seza fiandrianan'ny fanjakany mandra-pahavoitra.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Izy"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "hanorina"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "ho an'ny anarako"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "ary izaho no hampitoetra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny seza fiandrianan'ny fanjakany"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "seza fiandrianana"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "ny fanjakany"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "pahavoitra"
+    }
+  ],
+  "timestamp": "2026-08-31T14:30:31.099918245Z",
+  "model": "glm-5.3"
+}

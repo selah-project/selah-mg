@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary Achimaats niteraka an'i ⟨את⟩ Azarjah, ary Azarjah niteraka an'i ⟨את⟩ Jochanan.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "Ary Achimaats"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "ary Azarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jochanan"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Jochanan"
+    }
+  ],
+  "timestamp": "2026-08-31T17:35:02.456610943Z",
+  "model": "glm-5.3"
+}

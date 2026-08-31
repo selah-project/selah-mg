@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 76,
+  "translation": "Avy tamin'ny lanitra no nampandreinao ny fitsarana; ny tany natahotra ka nangina.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "Avy tamin'ny lanitra"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "nampandreinao"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ny fitsarana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "natahotra"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "ka nangina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:41.856728216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "Fa ny fivadihanako dia mahalala aho, ary ny otako eo anatrehako mandrakariva.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ny fivadihanako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aho"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "ary ny otako"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "eo anatrehako"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mandrakariva"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:32.578139409Z",
+  "model": "glm-5.3"
+}

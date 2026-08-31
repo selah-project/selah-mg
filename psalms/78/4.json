@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Tsy hafeninay amin'ny zanany izany; ho an'ny taranaka ho avy dia hitory ny fiderana an'i Yahveh isika, sy ny heriny, sy ny zava-mahagaga nataony.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "hafeninay"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "amin'ny zanany"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ho an'ny taranaka"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ho avy"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "hitory isika"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "ny fiderana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "sy ny heriny"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "sy ny zava-mahagaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨izay⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:23.408981348Z",
+  "model": "glm-5.3"
+}

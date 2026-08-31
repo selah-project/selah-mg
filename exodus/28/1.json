@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 28:1",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Ary ianao, manatona eo aminao ⟨את⟩ i Aharon rahalahinao sy ⟨את⟩ ny zanany miaraka ⟨את⟩ aminy, avy eo amin'ny zanak'i Yisraela, hitanisim-panompoana ho Mpisorona ho Ahy — Aharon, Nadab sy Abihu, Elazara ary Itamara, zanak'i Aharon.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ary ianao"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "manatona"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "eo aminao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "rahalahinao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "miaraka ⟨את⟩ aminy"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "avy eo amin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "hitanisim-panompoana ho Mpisorona"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho Ahy"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "sy Abihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazara"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "ary Itamara"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-31T13:05:19.741228590Z",
+  "model": "glm-5.3"
+}

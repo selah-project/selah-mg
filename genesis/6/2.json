@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary hitan'ny zanak'i Elohim ⟨את⟩ ny zanakavavin'ny olombelona fa tsara tarehy ireo, ka nalainy ho vady izay rehetra nofinidiny.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Ary hitan'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanakavavin'ny olombelona"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "zanakavavin'"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ny olombelona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "tsara tarehy"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "ka nalainy"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "vady"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "nofinidiny"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:53.027333299Z",
+  "model": "glm-5.3"
+}

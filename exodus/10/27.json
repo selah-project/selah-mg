@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Nefa Yahveh nampahalemy ⟨את⟩ fon'i Parao, ka tsy nety namela azy handeha.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "nampahalemy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fon'i Parao"
+    },
+    {
+      "surface": "לב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "nety"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "namela azy handeha"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:25.884021859Z",
+  "model": "glm-5.3"
+}

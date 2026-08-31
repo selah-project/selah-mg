@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 86,
+  "translation": "Tsy misy mitovy Aminao amin'ny elohim, ry Adonay, ary tsy misy asa toy ny asanao.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Tsy misy"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "mitovy Aminao"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "amin'ny elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ary tsy misy"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "asa toy ny asanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:01.208635054Z",
+  "model": "glm-5.3"
+}

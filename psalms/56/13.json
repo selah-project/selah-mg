@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 56:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 56,
+  "translation": "Atopiko, ry Elohim, ny nivako; haloako ny fandeken-tsoa ho anao.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "atopiko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "ny nivakao"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "haloako"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "fandeken-tsoa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:12.430389845Z",
+  "model": "glm-5.3"
+}

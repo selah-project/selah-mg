@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 26:17",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary izaho hanetry ny tavoko manohitra anareo, ka ho voavoa ianareo eo anoloan'ny fahavalonareo; ary hitondra anareo ireo mpankahala anareo, ka handositra ianareo na dia tsy misy mpanara-dia aza ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וְנָתַתִּי",
+      "gloss": "hanetry ny tavoko"
+    },
+    {
+      "surface": "פָּנַי",
+      "gloss": "ny tavoko"
+    },
+    {
+      "surface": "בָּכֶם",
+      "gloss": "manohitra anareo"
+    },
+    {
+      "surface": "וְנִגַּפְתֶּם",
+      "gloss": "ho voavoa ianareo"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "eo anoloan'ny"
+    },
+    {
+      "surface": "אֹיְבֵיכֶם",
+      "gloss": "fahavalonareo"
+    },
+    {
+      "surface": "וְרָדוּ",
+      "gloss": "hitondra"
+    },
+    {
+      "surface": "בָּכֶם",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "שׂנְאֵיכֶם",
+      "gloss": "ireo mpankahala anareo"
+    },
+    {
+      "surface": "וְנַסְתֶּם",
+      "gloss": "handositra ianareo"
+    },
+    {
+      "surface": "וְאֵין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "רֹדֵף",
+      "gloss": "mpanara-dia"
+    },
+    {
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩",
+      "marks": "ianareo (fandosirana tsy misy mpanara-dia)"
+    }
+  ],
+  "timestamp": "2026-08-31T18:29:12.389768266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 3:5",
+  "book": "zephaniah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Yahveh marina eo ⟨ao⟩ amin'ny [kielezan'ny tanàna] no tsy manao tsy marina; isambolan'ny maraina, amin'ny fahazarana, dia manome famaritana ny rindrina amin'ny mazava Izy, tsy mifanaraka; fa ny tsy marina tsy mahalala ny fahaverezan'ny lazany.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "marina"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "eo amin'ny [foibeny]"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "manao"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "tsy marina"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "amin'ny maraina"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "amin'ny maraina"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "ny famaritana rindrina Azy"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "manome"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "amin'ny mazava"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "mifanaraka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ny tsy marina"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "fahaverezan'ny lazany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:25:59.863062230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 39:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "Hoy izaho: Hitandrina ny lalako aho, mba tsy hota amin'ny lelako; hitanteraiko mivadina ny vavako, raha misy ratsy fanahy eo anatrehako.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "hoy izaho"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "hitandrina"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ny lalako"
+    },
+    {
+      "surface": "מחטוא",
+      "gloss": "mba tsy hota"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "amin'ny lelako"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "hitanteraiko"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ny vavako"
+    },
+    {
+      "surface": "מחסום",
+      "gloss": "mivadina"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "raaha misy"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ratsy fanahy"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "eo anatrehako"
+    }
+  ],
+  "timestamp": "2026-08-31T18:13:26.663733127Z",
+  "model": "glm-5.3"
+}

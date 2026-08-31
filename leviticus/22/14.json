@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary raha misy olona mihinana ny zava masina amin'ny tsy fahalalana, dia ampio ny fahadimin'ny sandany amboniny, ka home ny mpisorona ⟨את⟩ ny zava masina.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ary raha misy olona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "raha"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mihinana"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ny zava masina"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "amin'ny tsy fahalalana"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "dio ampio"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "ny fahadimin'ny sandany"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "amboniny"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ka home"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zava masina"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ny zava masina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:22.012929693Z",
+  "model": "glm-5.3"
+}

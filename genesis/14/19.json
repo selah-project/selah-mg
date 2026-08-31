@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 14:19",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary nampanantena azy izy ka nanao hoe: Voatsodranina Avraham amin'i El Elyon, mpanao ⟨את⟩ ny lanitra sy ⟨את⟩ ny tany.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "nampanantena azy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Voatsodranina"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "amin'i El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "mpanao"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "sy ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:27:26.469602293Z",
+  "model": "glm-5.3"
+}

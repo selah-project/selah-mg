@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 7:32",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary ny kodia efatra dia eo ambanon'ny tetezana, ary ny tanan'ny kodia dia ao amin'ny manda; ary ny haavon'ny kodia iray dia kiobita iray sy ny ampahan'ny kiobita.",
+  "tokens": [
+    {
+      "surface": "וארבעת",
+      "gloss": "ary ny efatra"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "kodia"
+    },
+    {
+      "surface": "למתחת",
+      "gloss": "eo ambany amin'ny"
+    },
+    {
+      "surface": "למסגרות",
+      "gloss": "tetezana"
+    },
+    {
+      "surface": "וידות",
+      "gloss": "ary ny tanan'ny"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "kodia"
+    },
+    {
+      "surface": "במכונה",
+      "gloss": "ao amin'ny manda"
+    },
+    {
+      "surface": "וקומת",
+      "gloss": "ary ny haavon'ny"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "kodia"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "kiobita iray"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "sy ny ampahan'ny"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "kiobita"
+    }
+  ],
+  "timestamp": "2026-08-31T14:42:10.268242029Z",
+  "model": "glm-5.3"
+}

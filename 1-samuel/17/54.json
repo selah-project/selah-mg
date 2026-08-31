@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary nalain'i David ⟨את⟩ ny lohan'ilay Filistina ka nentiny tany Yeroshalayim; ary ⟨את⟩ ny fitaovany nataony tao an-tranobilany.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ary nalain'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lohan'ilay Filistina"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "lohan'"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ilay Filistina"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "nentiny"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "tany Yeroshalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny fitaovany"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "fitaovany"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "tao an-tranobilany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:21:48.944498079Z",
+  "model": "glm-5.3"
+}

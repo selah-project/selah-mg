@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 21:37",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "⟨את⟩ Kedemoth sy ⟨את⟩ ny taniny malalaka, ary ⟨את⟩ Mephaath sy ⟨את⟩ ny taniny malalaka; tanàna efatra.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedemoth"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemoth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny taniny malalaka"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ny taniny malalaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Mephaath"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mephaath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny taniny malalaka"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ny taniny malalaka"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "efatra"
+    }
+  ],
+  "timestamp": "2026-08-31T14:02:54.382580690Z",
+  "model": "glm-5.3"
+}

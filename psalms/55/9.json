@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 55,
+  "translation": "Mitaingina haingana aho hahita fialana ho ahy, amin'ny rivotra mipoaka ⟨sy⟩ amin'ny tafio-drivotra.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "mitaingina haingana"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "fialana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "amin'ny rivotra"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "mipoaka"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "amin'ny tafio-drivotra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:19.715132449Z",
+  "model": "glm-5.3"
+}

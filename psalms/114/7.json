@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 114,
+  "translation": "Miantrano, ry tany, eo anatrehana ny Adonay, eo anatrehana ny Eloah-n'i Yaakov;",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "eo anatrehana"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "miantrano"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ry tany"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "eo anatrehana"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:52.027783067Z",
+  "model": "glm-5.3"
+}

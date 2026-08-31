@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 135,
+  "translation": "Miderà an'i Yah, fa tsara Yahveh; mihirà ho an'ny anarany, fa mahafinaritra izany.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "miderà"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "mihirà"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "ho an'ny anarany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "mahafinaritra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:50.627115647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Maina sady vita ⟨את⟩ amin'ny takela-by vao maina ao anatiny no hataonao azy; araka ny naseho ⟨את⟩ anao tamin'ny tendrombohitra, no hanaovana azy.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "vao maina"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "amin'ny takela"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ny alitara"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "naseho"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "anao"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "tamin'ny tendrombohitra"
+    },
+    {
+      "surface": "כן",
+      "gloss": "no ho"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "hanaovana azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:56:35.368443347Z",
+  "model": "glm-5.3"
+}

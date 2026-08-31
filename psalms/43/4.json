@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 43,
+  "translation": "Dia hankany amin'ny alitaran'i Elohim aho, ho any amin'El, fifalian'ny firavoravoako; ary hidera anao aho amin'ny kinôra, ry Elohim, Elohim ahovahy.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "Dia hankany aho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alitaran'"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "fifalian'"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "ny firavoravoako"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "ary hidera anao aho"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "amin'ny kinôra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ry Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ahovahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:58.840932103Z",
+  "model": "glm-5.3"
+}

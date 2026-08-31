@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 19:20",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "ary ny sisa hendre, hatahotra, ary tsy hanampy hanao intsony araka izany zava-dratsy izany eo afovoanao.",
+  "tokens": [
+    {
+      "surface": "והנשארים",
+      "gloss": "ary ny sisa"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "hendre"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "hatahotra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "hanampy"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "araka izany zava-"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "izany"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "eo afovoanao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:46:45.662981249Z",
+  "model": "glm-5.3"
+}

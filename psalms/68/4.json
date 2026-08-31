@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 68,
+  "translation": "Ary ny marina hifaly, hihiràha eo anatrehan'ny Elohim, ary hiravorova amin'ny fifaliana.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "ary ny marina"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "hifaly"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "hihiràha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anatrehan'ny"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "hiravorova"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "amin'ny fifaliana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:25.280050644Z",
+  "model": "glm-5.3"
+}

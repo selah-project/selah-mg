@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 103,
+  "translation": "Mamindra fo sy be fahasoavana Yahveh, mahari-po fahatezerana ary be hesed ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Mamindra fo"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "sy be fahasoavana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "mahari-po"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "fahatezerana"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ary be"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:17.149051428Z",
+  "model": "glm-5.3"
+}

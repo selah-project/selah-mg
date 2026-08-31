@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary ⟨את⟩ ny ambanin'ny tsangam-bato folo, sy ⟨את⟩ ny sinabe folo ambonin'ny ambanin'ny tsangam-bato,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny ambanin'ny tsangam-bato folo"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ny ambanin'ny tsangam-bato"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "folo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny sinabe folo"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "ny sinabe"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "folo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ny ambanin'ny tsangam-bato"
+    }
+  ],
+  "timestamp": "2026-08-31T18:31:30.593281201Z",
+  "model": "glm-5.3"
+}

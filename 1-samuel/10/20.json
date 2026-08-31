@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary Shemuëla nampitonoka ⟨את⟩ ny fokon'i Isiraely rehetra, ka ny fokon'i Binyamina no voatsangana.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "nampitonoka"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuëla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fokon'i Isiraely rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "fokon'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "voatsangana"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "fokon'i"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamina"
+    }
+  ],
+  "timestamp": "2026-08-31T14:18:38.135258629Z",
+  "model": "glm-5.3"
+}

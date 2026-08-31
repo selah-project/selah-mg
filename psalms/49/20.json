@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 49,
+  "translation": "Ho any amin'ny taranaky ny razany izy, mandra-pahavelona tsy hahita mazava izy ireo.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Ho any"
+    },
+    {
+      "surface": "עד",
+      "gloss": "any amin'ny"
+    },
+    {
+      "surface": "דור",
+      "gloss": "taranaky"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "ny razany"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-pahavelona"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "⟨raha mbola velona amin'ny fahavelon'ny mpanjaka⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "hahita"
+    },
+    {
+      "surface": "אור",
+      "gloss": "mazava"
+    }
+  ],
+  "timestamp": "2026-08-31T16:30:57.950647468Z",
+  "model": "glm-5.3"
+}

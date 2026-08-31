@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary Yahveh hamonjy azy sy hanafaka azy; hanafaka azy amin'ny ratsy fanahy Izy, ka hovonjy ho azy, satria naloky tao Aminy izy.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "hamonjy azy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "sy hanafaka azy"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "hanafaka azy"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "amin'ny ratsy fanahy"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "hovonjy ho azy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "naloky tao"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:47.664231165Z",
+  "model": "glm-5.3"
+}

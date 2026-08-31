@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 75,
+  "translation": "Aza manandratra any ambony ny tandrokanareo, aza miteny amin' hatokaemy mafy.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "manandratra"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "any ambony"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "ny tandrokanareo"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "aza miteny"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "amin'ny hatokaemy"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "mafy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:12.507353128Z",
+  "model": "glm-5.3"
+}

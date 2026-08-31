@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 26:21",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Fa indro, Yahveh mivoaka avy amin'ny fitoerany hanitsy ny heloky ny mponina ⟨amin'ny⟩ tany, ary hanambara ny ran'ireo novonoiny ny tany ⟨את⟩, ary tsy hanarona intsony ny fatin'ireo novonoiny ⟨izy⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "mivoaka"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "avy amin'ny fitoerany"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "hanitsy"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ny heloky"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ny mponina"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨amin'ny⟩"
+    },
+    {
+      "surface": "וגלתה",
+      "gloss": "ary hanambara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ran'ireo novonoiny"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "ny ran'ireo novonoiny"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "hanarona"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    },
+    {
+      "surface": "על",
+      "gloss": "ny"
+    },
+    {
+      "surface": "הרוגיה",
+      "gloss": "fatin'ireo novonoiny"
+    }
+  ],
+  "timestamp": "2026-08-31T15:08:06.747866946Z",
+  "model": "glm-5.3"
+}

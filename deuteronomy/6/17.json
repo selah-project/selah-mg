@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Tandremo fatratra ⟨את⟩ ny didin'i Yahveh Elohinareo, sy ny vavolombeloniny, ary ny lalàny izay nandidiany anao.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "tandremo fatratra"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "ianareo mitandrina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny didin'i Yahveh"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "didy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "sy ny vavolombeloniny"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "ary ny lalàny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "nandidy anao"
+    }
+  ],
+  "timestamp": "2026-08-31T17:59:21.973486755Z",
+  "model": "glm-5.3"
+}

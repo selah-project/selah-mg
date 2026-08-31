@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary ny tany dia efa tsi--endrika sy foana, ary ny aizina no teny ambony faritron'ny tehom, ary roah (fanahy) Elohim manidina-famonoana ambonin'ny faritron'ny rano.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Ary ny tany"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "dia efa"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tsi- endrika (tohu)"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "sy foana (bohu)"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "ary ny aizina"
+    },
+    {
+      "surface": "על",
+      "gloss": "teny ambony"
+    },
+    {
+      "surface": "פני",
+      "gloss": "faritron'ny"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehom"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ary roah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "manidina-famonoana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "פני",
+      "gloss": "faritron'ny"
+    },
+    {
+      "surface": "המים",
+      "gloss": "rano"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:03.190103972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 49,
+  "translation": "Fa ny olona amin'ny hasina tsy mitoetra mandry; dia toy ny biby fiompy izy, efa lany.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "Fa ny olona"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "amin'ny hasina"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "mitoetra mandry"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "dia toy"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "ny biby fiompy"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "efa lany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:00.466856071Z",
+  "model": "glm-5.3"
+}

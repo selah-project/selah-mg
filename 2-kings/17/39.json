@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Fa ⟨את⟩ Yahveh Elohinareo no hatahoranareo, ary Izy no hanavotra anareo ⟨את⟩ hiala amin'ny tàn'ny fahavalo rehetra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "no (fa tsy)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh Elohinareo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "hatahoranareo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ary Izy"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "hanavotra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo",
+      "marks": "anareo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "amin'ny tàn'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny... rehetra"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "fahavalo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:57:32.557001829Z",
+  "model": "glm-5.3"
+}

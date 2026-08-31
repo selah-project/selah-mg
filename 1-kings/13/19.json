@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary niverina niaraka ⟨את⟩ taminy izy, ka nihinana kanina tao an-tranony ary nisotro rano.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ary niverina"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ taminy",
+      "marks": "ilay olona nampodiny — ny mpaminany taloha"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ka nihinana"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kanina"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "tao an-tranony"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "ary nisotro"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    }
+  ],
+  "timestamp": "2026-08-31T14:46:11.899587499Z",
+  "model": "glm-5.3"
+}

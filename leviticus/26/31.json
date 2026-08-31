@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary hataoko ⟨את⟩ ny tanànareo ho tany efitra, ary hofoanako ho tany efitra ⟨את⟩ ny fitoerana masinareo, ary tsy hiisa Aho ny fofon'ny fanatitra-maninareo mahafaly.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ary hataoko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tanànareo"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "tanànareo"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ho tany efitra"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "ary hofoanako ho tany efitra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitoerana masinareo"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "fitoerana masinareo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "hiisa"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "ny fofon'ny"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "fanatitra-maninareo mahafaly"
+    }
+  ],
+  "timestamp": "2026-08-31T13:23:28.435271057Z",
+  "model": "glm-5.3"
+}

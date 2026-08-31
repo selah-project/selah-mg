@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 4:7",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary tamin'i Sheloma nisy roa ambin'ny folo mpitsangana amin'ny Isiraely rehetra, ka nampahavelona ⟨את⟩ ny mpanjaka sy ⟨את⟩ ny ankohonany izy; ny iray amin'izy ireno no ananany ny volana iray isan-taona hanatanterahana ny fampahavelomana.",
+  "tokens": [
+    {
+      "surface": "ולשלמה",
+      "gloss": "Ary tamin'i Sheloma"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "roa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "folo"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "mpitsangana"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "וכלכלו",
+      "gloss": "ka nampahavelona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanjaka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny ankohonany"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ny ankohonany"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "volana iray"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "isan-taona"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "no ananany"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ny iray"
+    },
+    {
+      "surface": "לכלכל",
+      "gloss": "hanatanterahana ny fampahavelomana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:40:01.778429803Z",
+  "model": "glm-5.3"
+}

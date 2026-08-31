@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Fahoriana be no an'ny ratsy fanahy, fa izay matoky an'i Yahveh kosa dia hesed no manodidina azy.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "be"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "fahoriana"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "fa izay matoky"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "manodidina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:44.489982078Z",
+  "model": "glm-5.3"
+}

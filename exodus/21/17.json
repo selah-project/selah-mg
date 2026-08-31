@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Izay manao ozona an'i rainy sy an'i reniny, faty dia faty no hatao aminy.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "manao ozona"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "an'i rainy"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "sy an'i reniny"
+    },
+    {
+      "surface": "מות",
+      "gloss": "faty"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "faty no hatao aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:08.959167534Z",
+  "model": "glm-5.3"
+}

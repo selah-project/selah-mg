@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Hataonao ho toy ny fatapera afo izy amin'ny fotoana hitoeran'ny tavanao; Yahveh amin'ny fahatezerany hanelabela azy, ary afo hanimba azy.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "hataonao"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "ho toy ny fatapera"
+    },
+    {
+      "surface": "אש",
+      "gloss": "afo"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "amin'ny fotoana"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "hitoeran'ny tavanao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "amin'ny fahatezerany"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "hanelabela azy"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "ary ... hanimba azy"
+    },
+    {
+      "surface": "אש",
+      "gloss": "afo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:29.541963291Z",
+  "model": "glm-5.3"
+}

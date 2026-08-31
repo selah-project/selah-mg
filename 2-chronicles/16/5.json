@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary nonina tamin'ny nandre an'i Baasha izany dia nitsahatra nanorina ⟨את⟩ an'i Rama ka nampijanona ⟨את⟩ ny asany.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nonina"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "tamin'ny nandre"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "an'i Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "dia nitsahatra nanorina"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "(nanorina)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "an'i Rama"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ka nampijanona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny asany"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "ny asany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:47:30.779696265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Koa tandremo tsara ho an'ny fanahinareo, hitiavana ⟨את⟩ an'i Yahveh Elohinareo.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "Koa tandremo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "ho an'ny fanahinareo"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "hitiavana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yahveh Elohinareo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:03:39.937808467Z",
+  "model": "glm-5.3"
+}

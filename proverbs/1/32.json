@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Fa ny fiadanan-tsaina tsy misy fahalalana hamono azy, ary ny fahalonatan'ny adala hampandringana azy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "ny fiadanan-tsaina tsy misy fahalalana"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "ny tsy misy fahalalana"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "hamono azy"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "ary ny fahalonatan'"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ny adala"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "hampandringana azy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:15:11.684496665Z",
+  "model": "glm-5.3"
+}

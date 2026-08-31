@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 130,
+  "translation": "Fa aminao no misy famelan-keloka, mba hatahorana eny tokoa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "aminao no misy"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "famelan-keloka"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mba"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "hatahorana eny tokoa"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:31.028246411Z",
+  "model": "glm-5.3"
+}

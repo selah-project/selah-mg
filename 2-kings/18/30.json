@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 18:30",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary aza avelao Hizkiyahu hahatoky anareo amin'i Yahveh, ka hilaza hoe: Hanafaka tokoa hanafaka anay Yahveh, ary tsy hatolotra ⟨את⟩ ity tanàna ity ho eo an-tanan'ny mpanjakan'i Ashur.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "hahatoky"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo",
+      "marks": "Hizkiyahu anareo"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka hilaza hoe"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "hanafaka tokoa"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "hanafaka anay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "hatolotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ity tanàna ity"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ity tanàna ity"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ity"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ho eo an-tanan'ny"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'i"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-31T14:59:08.065749702Z",
+  "model": "glm-5.3"
+}

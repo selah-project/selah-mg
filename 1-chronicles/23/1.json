@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary Davida efa antitra sady feno andro, dia nampanjaka ⟨את⟩ an'i Shelomo zanany tamin'ny Isiraely.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Ary Davida"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "efa antitra"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "sady feno"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "nampanjaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Shelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    }
+  ],
+  "timestamp": "2026-08-31T17:40:54.904929654Z",
+  "model": "glm-5.3"
+}

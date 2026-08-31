@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Izay manana fo mivelatra ⟨tsy⟩ hahita tsara; ary izay miteny miolikoly ho lonaka amin'ny loza.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "miolikoly"
+    },
+    {
+      "surface": "לב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨tsy⟩"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "hahita"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "miteny miolikoly"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "amin'ny lelany"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ho lonaka"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "amin'ny loza"
+    }
+  ],
+  "timestamp": "2026-08-31T18:15:41.205479336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 44:23",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Ary nanao tamín'ny mpanomponao ianao: Raha tsy midina miaraka ⟨את⟩ aminareo ny rahalahinareo madinika, dia tsy hahita intsony ny tavako hianareo.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamín'ny"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "mpanomponao"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "midina"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ny rahalahinareo"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "madinika"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ miaraka aminareo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "hahita intsony"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hahita"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ny tavako"
+    }
+  ],
+  "timestamp": "2026-08-31T12:51:28.774577971Z",
+  "model": "glm-5.3"
+}

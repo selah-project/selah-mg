@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 4:5",
+  "book": "micah",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Fa ny firenena rehetra handeha, samirery amin'ny anaran'ny andriamaniny; fa izahay handeha amin'ny anaran'i Yahveh Elohim ⟨anay⟩ mandrakizay ary ho amin'ny farany.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ny firenena"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "handeha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "samirery"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "amin'ny anaran'ny"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "andriamaniny"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "fa izahay"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "handeha"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "amin'ny anaran'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim ⟨anay⟩"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ary ho amin'ny farany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:14:41.297816588Z",
+  "model": "glm-5.3"
+}

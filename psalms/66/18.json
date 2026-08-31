@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 66,
+  "translation": "Raha namaoiko ⟨⟹⟩ ny tsi-fetsy tao an-tsarako, Adonay tsy mihaino.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "ny tsi-fetsy"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "namaoiko"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "tao an-tsarako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "mihaino"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:06.312709244Z",
+  "model": "glm-5.3"
+}

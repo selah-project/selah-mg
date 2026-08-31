@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary Noach nanao araka ny zavatra rehetra izay nandidian'i Yahveh azy.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ary nanao"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "araka ny zavatra rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "nandidy azy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T12:36:24.022903514Z",
+  "model": "glm-5.3"
+}

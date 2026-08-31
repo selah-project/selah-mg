@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Raiso ny fampianaranaiko fa tsy volafotsy, ary ny fahalalana fa tsy volamena voafidy.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "raiso"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "ny fampianaranaiko"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ary ny fahalalana"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "fa tsy volamena"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "voafidy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:50:09.019153217Z",
+  "model": "glm-5.3"
+}

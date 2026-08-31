@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Fa ny andro fahafito dia Sabata ⟨an'i⟩ Yahveh Elohim-nao; aza manao asa akory ianao, na ny zanakao lahy, na ny zanakao vavy, na ny mpanomponao lahy, na ny mpanomponao vavy, na ny biby fiompy, na ny vahiny eo ambanivohitrao.",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "Fa ny andro"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "fahafito"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sabata"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "manao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "asa akory"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "asa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "na ny zanakao lahy"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "na ny zanakao vavy"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "na ny mpanomponao lahy"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "na ny mpanomponao vavy"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "na ny biby fiompy"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "na ny vahiny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "ambanivohitrao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:01:46.839825725Z",
+  "model": "glm-5.3"
+}

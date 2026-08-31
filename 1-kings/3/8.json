@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Fa ny mpanompoko dia eo ampovoan'ny olonao izay nofidinao, olona maro be, izay tsy azo isaina ka tsy azo hotsaina noho ny habetsahany.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "Fa ny mpanompoko"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "eo ampovoan'ny"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "olonao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "nofidinao"
+    },
+    {
+      "surface": "עם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "רב",
+      "gloss": "maro be"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "azo isaina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "azo hotsaina"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "noho ny habetsahany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:40:23.154253268Z",
+  "model": "glm-5.3"
+}

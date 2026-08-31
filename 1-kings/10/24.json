@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 10:24",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary ny tany rehetra nitady ⟨את⟩ tavan'i Shelomoh, hihaino ⟨את⟩ ny fahendreny, izay nomen'i Elohim tao an-tsainy.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ary ... rehetra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "nitady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavan'i Shelomoh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tavan'i"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "hihaino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahendreny"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "ny fahendreny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nomen'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "tao an-tsainy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:42:52.567702510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Izay manangona amin'ny fahavaratra dia zanaka marani-tsaina, fa izay matory amin'ny fijinjana dia zanaka mahamenatra.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "manangona"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "amin'ny fahavaratra"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "marani-tsaina"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "matory"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "amin'ny fijinjana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "mahamenatra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:50:45.360732647Z",
+  "model": "glm-5.3"
+}

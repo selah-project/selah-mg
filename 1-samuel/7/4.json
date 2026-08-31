@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Dia nesorin'ny zanak'Isiraely ⟨את⟩ ny Baala sy ⟨את⟩ ny Ashtarota, ka nanompo an'i Yahveh ⟨את⟩ irery ihany.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "nesorin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Baala"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny Ashtarota"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "Ashtarota"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "nanompo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "irery ihany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:16:33.508106871Z",
+  "model": "glm-5.3"
+}

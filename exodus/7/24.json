@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary ny Mitsrayim rehetra nihady manodidina ny renirano hahita rano hosotroina, fa tsy nahay misotroa tamin'ny rano avy amin'ny renirano.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "nihady"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ny renirano"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "hosotroina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "nahay"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "misotroa"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "tamin'ny rano avy amin'ny"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "renirano"
+    }
+  ],
+  "timestamp": "2026-08-31T12:56:29.792420007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 2:11",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary isan'andro sy isan'andro Mordekay nandeha mitsitsika teo anoloan'ny kianjan'ny tranon'ny vehivavy, mba hahalala ⟨את⟩ ny fahasalamana an'i Ester sy izay hatao aminy.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "Ary isan'andro sy"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "nandeha mitsitsika"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anoloan'ny"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "kianjan'ny"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon'"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "vehivavy"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "mba hahalala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahasalamana an'i Ester"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fahasalamana"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "sy izay"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hatao"
+    },
+    {
+      "surface": "בה",
+      "gloss": "aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:18:23.620765172Z",
+  "model": "glm-5.3"
+}

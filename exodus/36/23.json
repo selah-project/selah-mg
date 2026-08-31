@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Ary nanao ⟨את⟩ ny tselatra ho an'ny lay izy: tselatra roa amby roa ploa ho an'ny lafiny atsimo, mankany atsimo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ary nanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tselatra"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ny tselatra"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ho an'ny lay"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "roa amby roa ploa"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "tselatra"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ho an'ny lafiny"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "atsimo"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "mankany atsimo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:56:45.805169313Z",
+  "model": "glm-5.3"
+}

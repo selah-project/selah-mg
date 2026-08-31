@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ho an'i Yehuda: Nachshon zanak'i Aminadaba.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "Ho an'i Yehuda"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachshon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadaba"
+    }
+  ],
+  "timestamp": "2026-08-31T13:22:26.574098381Z",
+  "model": "glm-5.3"
+}

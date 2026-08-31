@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 147,
+  "translation": "Yahveh no manamboatra an'i ⟨את⟩ Yeroshalayim; ⟨את⟩ ny olona voaroaka avy amin'ny Isiraely no hangoiny.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "manamboatra"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "ny olona voaroaka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "hangoiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:17.564712819Z",
+  "model": "glm-5.3"
+}

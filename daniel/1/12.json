@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Andramo azafady ⟨את⟩ ny mpanomponao folo andro; ary aoka homena antsika avy amin'ny voa hohanina sy rano hosotroina.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "Andramo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanomponao"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "mpanomponao"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "folo"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ary aoka homena"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "antsika"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "voa"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "hohanina"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "hosotroina"
+    }
+  ],
+  "timestamp": "2026-08-31T17:19:43.638077556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Izay sainy mivaky no halako, ary ny torathinao tiako.",
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "izay sainy mivaky"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "halako"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ary ny torathinao"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "tiako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:54.717762260Z",
+  "model": "glm-5.3"
+}

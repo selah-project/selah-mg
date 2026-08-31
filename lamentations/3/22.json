@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ny hesed an'i Yahveh — fa tsy lany izahay, fa tsy mifarana ny famindrampoany.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ny hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "lany izahay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "mifarana"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "ny famindrampoany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:17:02.393938742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary ny Filistina dia nanatona maraina sy hariva, ka nitsangana nitsangana hafanana impolo.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "nanatona"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ny Filistina"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "maraina"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "hariva"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "nitsangana"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "impolo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    }
+  ],
+  "timestamp": "2026-08-31T14:20:50.590144253Z",
+  "model": "glm-5.3"
+}

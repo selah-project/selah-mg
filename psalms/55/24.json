@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 55:24",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 55,
+  "translation": "Fa ianao, ry Elohim, handingana azy midina ho amin'ny lavaka fandringanana; ny olona mpandatsa-dra sy mpamitaka tsy hahavita antsasak'ny androny; fa izaho kosa miodina aminao.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Fa ianao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ry Elohim"
+    },
+    {
+      "surface": "תורדם",
+      "gloss": "handingana azy midina"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "ho amin'ny lavaka"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "fandringanana"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "mpandatsa-dra"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "sy mpamitaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יחצו",
+      "gloss": "hahavita antsasak'ny"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "androny"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "fa izaho kosa"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "miodina"
+    },
+    {
+      "surface": "בך",
+      "gloss": "aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:10.101834732Z",
+  "model": "glm-5.3"
+}

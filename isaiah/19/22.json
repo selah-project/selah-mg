@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary yakapoka Yahveh ny ⟨את⟩ Mitsrayim, yakapoka sy hanasitranina; ary hiverina ho any amin'i Yahveh izy, ary Izy hihaino azy ka hahasitrana azy.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "yakapoka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "yakapoka"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "sy hanasitranina"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "hiverina"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho any amin'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "hihaino"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "hahasitrana azy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:07:26.289848842Z",
+  "model": "glm-5.3"
+}

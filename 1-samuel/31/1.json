@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 31:1",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary ny Filistina niady tamin'ny Isiraely, ka nandositra ny lefin'Isiraely hiala tamin'ny Filistina, ary lavo ho faty tao an-tendrombohitra Gilboà.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Ary ny Filistina"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "niady"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "tamin'ny Isiraely"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ka nandositra"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ny lefin'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "hiala tamin'ny"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistina"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ary lavo"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "ho faty"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "tao an-tendrombohitra"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboà"
+    }
+  ],
+  "timestamp": "2026-08-31T14:28:10.256241966Z",
+  "model": "glm-5.3"
+}

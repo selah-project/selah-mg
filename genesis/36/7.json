@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 36:7",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Fa be ny fananany mba tsy hahafahany mitoetra miaraka ⟨⟨את⟩ azy⟩; ary tsy nahazo ny tany nonenan'izy ireo nanentana ⟨את⟩ azy ireo noho ny fambolena bibiny.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "fananany"
+    },
+    {
+      "surface": "רב",
+      "gloss": "be"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "mba tsy hahafahany mitoetra"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "miaraka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "nahazo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "מגוריהם",
+      "gloss": "nonenan'izy ireo"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "nanentana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy ireo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "noho ny"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "fambolena bibiny"
+    }
+  ],
+  "timestamp": "2026-08-31T18:28:15.926037948Z",
+  "model": "glm-5.3"
+}

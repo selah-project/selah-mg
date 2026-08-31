@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Isaorana anie Yahveh, fa efa nampahagaga tamin-kavitsakatsaka ny hesed-ny tamiko izy, tao an-tanàna voaoby.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Isaorana anie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "efa nampahagaga tamin-kavitsakatsaka"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ny hesed-ny"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "tao an-tanàna"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "voaoby"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:58.987291952Z",
+  "model": "glm-5.3"
+}

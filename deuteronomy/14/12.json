@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Fa ity kosa no tsy hohaninareo: ny anidrà-nofo, sy ny Peres, ary ny Oznia.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Fa ity kosa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "no tsy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "hohaninareo"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "(amin'izy ireo)"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "ny anidrà-nofo (Nesher)"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "sy ny Peres"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "ary ny Oznia"
+    }
+  ],
+  "timestamp": "2026-08-31T13:44:42.795031970Z",
+  "model": "glm-5.3"
+}

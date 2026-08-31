@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "Anao, anao irery no nanota aho, ary ny ratsy nataoko teo imasonao, mba ho marina ianao amin'ny teninao, ho madio amin'ny fitsaranao.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Anao"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "anao irery"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "no nanota aho"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "ary ny ratsy"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "teo imasonao"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nataoko"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mba"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "ho marina ianao"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "amin'ny teninao"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "ho madio"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "amin'ny fitsaranao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:32.579211283Z",
+  "model": "glm-5.3"
+}

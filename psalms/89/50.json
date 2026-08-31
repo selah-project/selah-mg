@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Aiza ny hesedinao tranainy, ry Adonay, izay nianiananao tamin'i Davida amin'ny fahatokianao?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Aiza"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "ny hesedinao"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "tranainy (voalohany)"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ry Adonay"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "nianiananao"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "tamin'i Davida"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "amin'ny fahatokianao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:03.024796391Z",
+  "model": "glm-5.3"
+}

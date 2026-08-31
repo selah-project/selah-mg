@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 82,
+  "translation": "Fihirana nataon'i Asaph. Elohim mijoro ao amin'ny fiangonan'ny El; eo anivon'ny elohim no itsarany.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Fihirana"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "nataon'i Asaph"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "mijoro"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "ao amin'ny fiangonan'ny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "eo anivon'ny"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "no itsarany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:34.008845109Z",
+  "model": "glm-5.3"
+}

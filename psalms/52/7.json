@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 52,
+  "translation": "Koa El hanorotoro anao ⟨את⟩ mandrakizay, haka anao ka haneso anao amin'ny tranolaina, ary hofongorany faka amin'ny tany misy velona. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "hanorotoro anao"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "haka anao"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "ka haneso anao"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "amin'ny tranolaina"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "hofongorany faka"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "misy velona"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:48.598798930Z",
+  "model": "glm-5.3"
+}

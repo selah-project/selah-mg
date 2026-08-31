@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Loa amin'izay milaza ny ratsy ho tsara, ary ny tsara ho ratsy; izay manao ny maizina ho mazava, ary ny mazava ho maizina; izay manao ny mangidy ho mamy, ary ny mamy ho mangidy!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Loa"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "amin'izay milaza"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ny ratsy"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ho tsara"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "ary ny tsara"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ho ratsy"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "izay manao"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ny maizina"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ho mazava"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ary ny mazava"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "ho maizina"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "izay manao"
+    },
+    {
+      "surface": "מר",
+      "gloss": "ny mangidy"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "ho mamy"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "ary ny mamy"
+    },
+    {
+      "surface": "למר",
+      "gloss": "ho mangidy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:04:04.561044775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary Achitub niteraka an'i ⟨את⟩ Tsadok, ary Tsadok niteraka an'i ⟨את⟩ Achimaats.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "Ary Achitub"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ary Tsadok"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achimaats"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Achimaats"
+    }
+  ],
+  "timestamp": "2026-08-31T17:35:02.456308296Z",
+  "model": "glm-5.3"
+}

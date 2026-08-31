@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Tamin'ny taona nankelezan'ny Tartan tany Ashdod, fony izy nalefan'i Sargona mpanjakan'i Ashur, dia niady tamin'i Ashdod izy ka naharesy azy.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Tamin'ny taona"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nankelezan'ny"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "Tartan"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "tany Ashdod"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "fony izy nalefan'i"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Sargona"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "Sargona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'ny"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "dia niady tamin'i"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "ka naharesy azy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:08:02.564694027Z",
+  "model": "glm-5.3"
+}

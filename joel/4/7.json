@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joel 4:7",
+  "book": "joel",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Indro Izaho manetsika azy avy amin'ny tany izay nivarotanareo azy ⟨את⟩ any, ary hampodiko ny famaliana anareo amin'ny anjanareo.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Indro Izaho"
+    },
+    {
+      "surface": "מעירם",
+      "gloss": "manetsika azy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "nivarotanareo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy (any)"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "any"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "ary hampodiko"
+    },
+    {
+      "surface": "גמלכם",
+      "gloss": "ny famaliana anareo"
+    },
+    {
+      "surface": "בראשכם",
+      "gloss": "amin'ny anjanareo"
+    }
+  ],
+  "timestamp": "2026-08-31T18:34:49.854481749Z",
+  "model": "glm-5.3"
+}

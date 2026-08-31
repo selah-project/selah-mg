@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 109,
+  "translation": "Izao no valiny ho an'ny mpifanandrina amiko avy amin'i Yahveh ⟨את⟩, sy ireo miresaka ratsy fanahy.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "izao"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "valiny"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "mpifanandrina amiko"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "avy amin'i Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "sy ireo miresaka"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "fanahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:30.360113917Z",
+  "model": "glm-5.3"
+}

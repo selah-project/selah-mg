@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary niantso Elohim ny tany maina hoe tany, ary ny fivorian'ny rano nantsoiny hoe ranomasina; dia hitan'i Elohim fa tsara izany.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "ny tany maina"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "ary ny fivorian'ny"
+    },
+    {
+      "surface": "המים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nantsoiny"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ranomasina"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dia hitan'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:06.450066018Z",
+  "model": "glm-5.3"
+}

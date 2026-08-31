@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 51:19",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "Tsy tahaka ireo ny anjara an'i Yaakov; fa Izy no Mpanoratra ny zava-drehetra, ary ny firenen'ny lovany dia Isiraely; Yahveh Tsevaot no anarany.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "tahaka ireo"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ny anjara"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "an'i Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "Mpanoratra (Mpanefy)"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ny zava-drehetra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Izy"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "ary ny firenena"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ny lovany"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "no anarany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:45:40.250498425Z",
+  "model": "glm-5.3"
+}

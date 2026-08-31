@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 1:4",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Homezana fahendrena miafina ho an'ny tsy ampy fahalalana, fahalalana sy fisainana ho an'ny tanora kely;",
+  "tokens": [
+    {
+      "surface": "לתת",
+      "gloss": "homezana"
+    },
+    {
+      "surface": "לפתאים",
+      "gloss": "ho an'ny tsy ampy fahalalana"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "fahendrena miafina"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ho an'ny tanora kely"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "fahalalana"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "sy fisainana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:38.105031158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Noho izany ny foko ravoravo, ary ny voninahitro miray hafaliana; eny, ny nofoko hitoetra amim-pahatokisana",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Noho izany"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "ravoravo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "ary miray hafaliana"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ny voninahitro"
+    },
+    {
+      "surface": "אף",
+      "gloss": "eny"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ny nofoko"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "hitoetra"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "amim-pahatokisana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:09.198186878Z",
+  "model": "glm-5.3"
+}

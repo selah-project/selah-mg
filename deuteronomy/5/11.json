@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 5:11",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Aza maka ⟨את⟩ ny anaran'i Yahveh Elohinanao amim-poana; fa Yahveh tsy hamela tsy sazy ⟨izay⟩ ⟨את⟩ izay maka ⟨את⟩ ny anarany amim-poana.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "maka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anaran'i Yahveh Elohinanao"
+    },
+    {
+      "surface": "שם",
+      "gloss": "anarana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohinanao"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "amim-poana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "hamela tsy sazy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay maka ny anarany amim-poana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "maka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anarany"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "anarany"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "amim-poana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:41:27.949377847Z",
+  "model": "glm-5.3"
+}

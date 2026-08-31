@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nitondra ⟨את⟩ ahy izy ho eo am-baravaran'ny kianja; dia hitako, ary indro, lavaka iray tao anaty rindrina.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "nitondra"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ahy",
+      "marks": "ahy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho eo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "am-baravaran'ny"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kianja"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "hitako"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ary indro"
+    },
+    {
+      "surface": "חר",
+      "gloss": "lavaka"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "tao anaty rindrina"
+    }
+  ],
+  "timestamp": "2026-08-31T15:48:10.486185510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 15:2",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "And this — Ary ity no tenin'ny shemittah: avelao hisotro ny tompon-trosa rehetra izay nindrany tamin'ny namany; tsy hanery ny namany na ny rahalahiny handoa, fa voatoro-baiko ho an'i Yahveh ny shemittah.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Ary ity"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "no tenin'ny"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "shemittah"
+    },
+    {
+      "surface": "שמוט",
+      "gloss": "avelao hisotro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "tompon-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "trosa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tànany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ישה",
+      "gloss": "nindrany"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "tamin'ny namany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "hanery handoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny namany"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "namany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny rahalahiny"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "rahalahiny"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "voatoro-baiko"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "shemittah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:45:29.055024598Z",
+  "model": "glm-5.3"
+}

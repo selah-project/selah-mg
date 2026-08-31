@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ary Yahveh namely ⟨את⟩ ny vahoaka, noho izay nataony ⟨את⟩ ny zanak'ombilahy volamena, izay nataon'i Aharon.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "Ary namely"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanak'ombilahy volamena"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "ny zanak'ombilahy volamena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataon'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-31T13:07:23.838230311Z",
+  "model": "glm-5.3"
+}

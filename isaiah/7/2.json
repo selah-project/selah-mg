@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 7:2",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary nilaza tamin'ny taranak'i David hoe: Efa miorim-paka amin'ny Efrayim ny Aram; dia nihorohoro ny fony sy ny fon'ny olony, toy ny fihovitrovitry ny hazo ala noho ny rivotra.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Ary nilaza"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "tamin'ny taranak'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "נחה",
+      "gloss": "miorim-paka"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ny Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וינע",
+      "gloss": "diazonihorohoro"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ny fony"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "sy ny fon'"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ny olony"
+    },
+    {
+      "surface": "כנוע",
+      "gloss": "toy ny fihovitrovitra"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ala"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "noho ny"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rivotra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:04:25.107451940Z",
+  "model": "glm-5.3"
+}

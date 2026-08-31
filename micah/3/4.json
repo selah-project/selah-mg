@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 3:4",
+  "book": "micah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Amin'izay hihiboka ireo mankany amin'i Yahveh, fa tsy hamaly azy; ary hanafina ny tavany amin'izy ireo amin'izany andro izany, toy ny nanaovany ratsy ny asany.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "amin'izay"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "hihiboka ireo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mankany amin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "hamaly"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "ary hanafina"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ny tavany"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "amin'izy ireo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "izany andro izany"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "toy ny"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "nanaovany ratsy"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ny asany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:14:39.414744414Z",
+  "model": "glm-5.3"
+}

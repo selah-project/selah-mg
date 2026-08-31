@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Fa na dia mifatotra toy ny tsilo aza izy, ary efa mamo noho ny zava-pisotrony, dia ho levona toy ny tsimparifary maina tanteraka izy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "na dia"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "tsilo"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "mifatotra"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "ary noho ny zava-pisotrony"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "efa mamo"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ho levona"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "toy ny tsimparifary"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "maina"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "tanteraka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:15:21.416787815Z",
+  "model": "glm-5.3"
+}

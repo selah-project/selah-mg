@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary Zabad niteraka ⟨את⟩ i Eflal, ary Eflal niteraka ⟨את⟩ i Obed.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "Ary Zabad"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Eflal"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "i Eflal"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "ary Eflal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Obed"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "i Obed"
+    }
+  ],
+  "timestamp": "2026-08-31T17:33:59.649587746Z",
+  "model": "glm-5.3"
+}

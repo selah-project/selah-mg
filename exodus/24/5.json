@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary naniraka tanora avy amin'ny zanak'i Isiraela izy ⟨את⟩ ka nanatitra fanatitra dorana izy ireo, ary namono zavatra hatao fanatitra soa izy ho an'i Yahveh, omby vaventy.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "naniraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanora avy amin'ny zanak'i Isiraela"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "tanora"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraela"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "nanatitra"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "fanatitra dorana"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "namono zavatra hatao fanatitra"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "fanatitra"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "soa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "omby vaventy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:41.710618778Z",
+  "model": "glm-5.3"
+}

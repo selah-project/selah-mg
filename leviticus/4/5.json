@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary ny mpisoratra voahosotra kosaakaaka ⟨את⟩ ny ran'ny omby dia ampidiriny ao amin'ny lain'ny fihaonana.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "dia alaony"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisoratra"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "voahosotra"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "amin'ny rà"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ny omby"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "dia ampidiriny"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ny rà"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ao amin'ny"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "lain'ny"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:28:49.915259799Z",
+  "model": "glm-5.3"
+}

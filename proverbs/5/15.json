@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 5:15",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Misotroa rano avy amin'ny lavakao manokana, sy rano mirona avy eo anivon'ny fasianao.",
+  "tokens": [
+    {
+      "surface": "שתה",
+      "gloss": "misotroa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "מבורך",
+      "gloss": "avy amin'ny lavakao manokana"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "sy rano mirona"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "avy eo anivon'"
+    },
+    {
+      "surface": "בארך",
+      "gloss": "ny fasianao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:49:08.211716207Z",
+  "model": "glm-5.3"
+}

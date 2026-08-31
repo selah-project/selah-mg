@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 11:12",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary hisandratra saina ho an'ny firenena; ary hangony ny olona voaroaka amin'i Yisraela, ary ny miely an-tany amin'i Yehuda ho voaory avy amin'ny zana-tongotra efatry ny tany.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "Ary hisandratra"
+    },
+    {
+      "surface": "נס",
+      "gloss": "saina"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "ho an'ny firenena"
+    },
+    {
+      "surface": "ואסף",
+      "gloss": "hangony"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "voaroaka amin'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "ונפצות",
+      "gloss": "miely an-tany"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "voaory"
+    },
+    {
+      "surface": "מארבע",
+      "gloss": "avy amin'ny... efatra"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "zana-tongotra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:05:22.614211541Z",
+  "model": "glm-5.3"
+}

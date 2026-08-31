@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ary ny zanak'i Gad nanorina ⟨את⟩ i Dibona sy ⟨את⟩ i Atarota ary ⟨את⟩ i Aroera.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "nanorina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny zanak'i"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Dibona"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Dibona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "i Atarota"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "i Aroera"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroera"
+    }
+  ],
+  "timestamp": "2026-08-31T13:37:08.553937071Z",
+  "model": "glm-5.3"
+}

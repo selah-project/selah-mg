@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary Yahveh hitany fa nivadika hizaha izy; ary Elobihmiantso azy avy ao anivon'ny tsilo ka nanao hoe: Moshe, Moshe. Ary izy nanao hoe: Indro aho.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ary hitany"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "סר",
+      "gloss": "nivadika"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hizaha"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ary niantso"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "avy ao anivon'ny"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "tsilo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary nanao hoe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Indro aho"
+    }
+  ],
+  "timestamp": "2026-08-31T12:54:43.847648810Z",
+  "model": "glm-5.3"
+}

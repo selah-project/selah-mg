@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 5:3",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Dia nanao antsy vatolampy ho azy Yehoshoa, ka nanala forodamba ⟨את⟩ ny zanak'i Yisraela tao amin'ny havoanan'ny forodamba.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Dia nanao"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoa"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "antsy"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "vatolampy"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "ka nanala forodamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanak'i Yisraela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tao amin'ny"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "havoanan'ny"
+    },
+    {
+      "surface": "הערלות",
+      "gloss": "forodamba"
+    }
+  ],
+  "timestamp": "2026-08-31T18:00:36.531221343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Nitady ⟨את⟩ Yahveh aho, ka namaly ahy Izy, ary nanafaka ahy tamin'ny fahatairana rehetra izy.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "Nitady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ka namaly ahy Izy"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "tamin'ny rehetra"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "fahatairana rehetra"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "nanafaka ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:22.573634306Z",
+  "model": "glm-5.3"
+}

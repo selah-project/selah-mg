@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary tonga teo anoloan'ny trano-lay fihaonana Moshe sy Aharon.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ary tonga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "sy Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "teo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anoloan'"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ny trano-lay"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:31:05.080491987Z",
+  "model": "glm-5.3"
+}

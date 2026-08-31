@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary nataony ⟨את⟩ ny efitrano fiandrasan'ny tsangambato: dimam-polo hira ny lavany, ary telo-polo hira ny sakany; ary efitrano fiandrasana eo anoloany, sy tsangambato sy tafony eo anoloany.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "efitrano fiandrasan'ny tsangambato"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "efitrano fiandrasana"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "tsangambato"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "dimam-polo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hira"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "lavany"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "telo-polo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hira"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "sakany"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "efitrano fiandrasana"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo anoloan'"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "tsangambato"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "tafony"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo anoloan'"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:41:37.564562685Z",
+  "model": "glm-5.3"
+}

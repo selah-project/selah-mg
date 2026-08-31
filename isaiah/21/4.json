@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Nivily ny foko, ny fahatairana nampitahotra ahy; ⟨את⟩ ny harivan'ny fankafizako dia nataony ho fampihorohorohana ho ahy.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "Nivily"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "foko"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "fahatairana"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "nampitahotra ahy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "harivan'ny fankafizako"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "hariva"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "fankafizako"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "ho fampihorohorohana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:08:08.871779675Z",
+  "model": "glm-5.3"
+}

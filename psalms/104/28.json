@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 104,
+  "translation": "Omenao izy, dia manangona ⟨izany⟩; manokatra tananao izy, dia voky soa.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "Omenao"
+    },
+    {
+      "surface": "להם",
+      "gloss": "izy"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "manangona"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "manokatra"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tananao"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "voky"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "soa"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:08.935087967Z",
+  "model": "glm-5.3"
+}

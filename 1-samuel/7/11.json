@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary ny lehilahy amin'ny Isiraely dia nivoaka avy tao amin'ny Mispa, ka nanenjika ⟨את⟩ ny Filistina ka namely azy hatrany ambanyin'i Beti-kara.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Ary...nivoaka"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ny lehilahy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "amin'ny Isiraely"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "tao amin'ny Mispa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "ka nanenjika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Filistina"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Filistina"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "ka namely azy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hatrany"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ambanyin'i"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "an'i Beti-"
+    },
+    {
+      "surface": "כר",
+      "gloss": "kara"
+    }
+  ],
+  "timestamp": "2026-08-31T14:16:06.710539658Z",
+  "model": "glm-5.3"
+}

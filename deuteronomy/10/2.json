@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary hosoratoko eo ambony ny latabatra ⟨את⟩ ny teny izay tao ambony ny latabatra voalohany, izay noravanao ianao, ary halao ao anaty ny fiara izy ireo.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "Ary hosoratoko"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "ny latabatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny teny"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "היו",
+      "gloss": "tao"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "ny latabatra"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "voalohany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "noravanao"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "ary halao izy ireo"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "ao anaty ny fiara"
+    }
+  ],
+  "timestamp": "2026-08-31T13:42:33.564617079Z",
+  "model": "glm-5.3"
+}

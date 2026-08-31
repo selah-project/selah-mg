@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary hitan'ny rahalahiny fa ny rainy nankafy ⟨את⟩ ⟨azy⟩ mihoatra noho ny rahalahiny rehetra, dia nankahala azy izy, ary tsy nahay mangina aminy hilaza aminy hoe hihavana.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Ary hitan'ny"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "rahalahiny"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨azy⟩",
+      "marks": "azy (Yosefa)"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "nankafy"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ny rainy"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mihoatra noho ny ... rehetra"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "rahalahiny"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "dia nankahala azy izy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨azy⟩",
+      "marks": "azy (Yosefa)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "nahay"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "mangina aminy hilaza aminy"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "hihavana"
+    }
+  ],
+  "timestamp": "2026-08-31T12:48:37.193956475Z",
+  "model": "glm-5.3"
+}

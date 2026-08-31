@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ho an'ny fahafenoana rehetra hitako ny farany; fa ny didinao dia malalaka indrindra.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "ho an'ny ... rehetra"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "fahafenoana"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "hitako"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "ny farany"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "malalaka"
+    },
+    {
+      "surface": "מצותְך",
+      "gloss": "ny didinao"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "indrindra"
+    }
+  ],
+  "timestamp": "2026-08-31T18:36:02.560393883Z",
+  "model": "glm-5.3"
+}

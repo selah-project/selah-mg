@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 118,
+  "translation": "Tsara ny mitady fialokalofana ao amin'i Yahveh toy ny matoky ny malaza.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "ny mitady fialokalofana"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ao amin'i Yahveh"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "toy ny matoky"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "ny malaza"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:24.407150290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Aza tia ny hatsarany ao an-tsainao, ary aza avela hitaingy anao amin'ny takolany ⟨izy⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "tia"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "ny hatsarany"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ao an-tsainao"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "mitsambikina aminao (itaingy anao)"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "amin'ny takolany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:50:46.004293323Z",
+  "model": "glm-5.3"
+}

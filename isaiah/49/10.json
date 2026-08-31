@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 49:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 49,
+  "translation": "Tsy noana izy ireo, ary tsy mangetaheta, ary tsy hamely azy ny hafanana sy ny masoandro; fa izay mamindra fo azy no hitondra azy, ary any amin'ny loharanon'ny rano no hitarihany azy.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "ירעבו",
+      "gloss": "noana izy ireo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יצמאו",
+      "gloss": "mangetaheta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יכם",
+      "gloss": "hamely azy"
+    },
+    {
+      "surface": "שרב",
+      "gloss": "ny hafanana (fatrafatra)"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "sy ny masoandro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מרחמם",
+      "gloss": "izay mamindra fo azy"
+    },
+    {
+      "surface": "ינהגם",
+      "gloss": "no hitondra azy"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ary any amin'ny"
+    },
+    {
+      "surface": "מבועי",
+      "gloss": "loharanon'ny"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ינהלם",
+      "gloss": "no hitarihany azy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:16:46.487402701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 81,
+  "translation": "Enga anie ny oloko mihaino Ahy, mba handehan'i Yisraela amin'ny lalako!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "Enga anie"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ny oloko"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mihaino"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Ahy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "amin'ny lalako"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "handeha"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:19.268875584Z",
+  "model": "glm-5.3"
+}

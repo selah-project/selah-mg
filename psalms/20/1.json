@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ho an'ny mpitarika ⟨dihy⟩. Salamo natokana ho an'i Davida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho an'ny mpitarika"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "salamo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "natokana ho an'i Davida"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:50.242609279Z",
+  "model": "glm-5.3"
+}

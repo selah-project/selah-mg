@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Fifaliana no nanjo an'i Mitsrayim tamin'ny fivoahan'izy ireo, fa nidina tamin'izy ireo ny fahatahorana azy.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "fifaliana no nanjo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "an'i Mitsrayim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "tamin'ny fivoahan'izy ireo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "nidina"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "ny fahatahorana azy"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "tamin'izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:14.255040220Z",
+  "model": "glm-5.3"
+}

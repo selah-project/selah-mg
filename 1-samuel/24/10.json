@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary David nanao tamim'i Shaol hoe: Nahoana no mihaino ⟨את⟩ tenin'ny olombelona ianao, hoe: Indro, David mitady ny lozanao?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "tamim'i Shaol"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Nahoana no"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "mihaino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tenin'ny olombelona"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tenin'ny"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olombelona"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "mitady"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "ny lozanao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:02:15.868840705Z",
+  "model": "glm-5.3"
+}

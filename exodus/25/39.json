@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Talentra iray volamena madio no hanaovana ⟨את⟩ azy, ⟨את⟩ izay fitaovana rehetra ireo.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "talentra iray"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "madio"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hanaovana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy (menorah)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay fitaovana rehetra ireo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "fitaovana"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:04:09.087554691Z",
+  "model": "glm-5.3"
+}

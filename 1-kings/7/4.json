@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary varavarankely telo andalana, ka mifanitsy mivantana ny varavarankely amin'ny varavarankely, in-telo impiry.",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "varavarankely"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "telo"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "andalana"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "varavarankely"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "varavarankely"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "in-telo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "impiry"
+    }
+  ],
+  "timestamp": "2026-08-31T18:03:52.305716433Z",
+  "model": "glm-5.3"
+}

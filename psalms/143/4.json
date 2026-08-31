@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 143,
+  "translation": "Ary voahona amiko ny fanahiko, tao anatiko dia voahitam-panahy ny foko.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "Ary voahona"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ny fanahiko"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "tao anatiko"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "voahitam-panahy"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ny foko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:54.277870907Z",
+  "model": "glm-5.3"
+}

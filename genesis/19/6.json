@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary Lota nivoaka nankeo aminy tao amin'ny varavarana, ka nanidy ny varavarana aoriany.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "nivoaka"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "nankeo aminy"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lota"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "tao amin'ny varavarana"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "ka ny varavarana"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "nanidy"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "aoriany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:38:59.016122538Z",
+  "model": "glm-5.3"
+}

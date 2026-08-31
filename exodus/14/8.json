@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary Yahveh nampahery ⟨את⟩ ny fon'i Parao mpanjakan'i Mitsrayim, ka nanenjika ny zanak'i Isiraely izy; ary ny zanak'i Isiraely nivoaka tamin'ny tanana avo.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Ary nampahery"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fon'i Parao"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ny fon'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "ka nanenjika"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nanaraka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ary ny zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "nivoaka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "tamin'ny tanana"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "avo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:00:30.309537962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary ny taranak'i Isiraely nanao ny anarany hoe mana; ary izy dia tahaka ny voan-kendamy, fotsy; ary ny tsirony dia tahaka ny sakafo mafana misy tantely.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "nanao ny anarany"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taranak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anarany"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "anarany"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mana"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ary izy"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "tahaka ny voa"
+    },
+    {
+      "surface": "גד",
+      "gloss": "kendamy"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "fotsy"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "ary ny tsirony"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "tahaka ny sakafo mafana"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "misy tantely"
+    }
+  ],
+  "timestamp": "2026-08-31T13:00:43.448978301Z",
+  "model": "glm-5.3"
+}

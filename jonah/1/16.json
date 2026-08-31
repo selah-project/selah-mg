@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Dia natahotra ho fatratra ny lehilahy ka natahotra an'i Yahveh, ka nanatitra zebah ⟨⟨tamin'ny⟩⟩ Yahveh izy ka nivoady fanantenana.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "dia natahotra"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ny lehilahy"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "natahotra ho fatratra"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "fatratra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "ka nanatitra zebah"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zebah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "tamin'i Yahveh"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "ka nivoady"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "fanantenana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:47:21.586423906Z",
+  "model": "glm-5.3"
+}

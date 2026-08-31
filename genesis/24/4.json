@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "fa amin'ny taniko sy amin'ny foko no halehanao, ary haka vavy ho an'ny zanako, ho an'i Yitschaka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "ny taniko"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sy amin'ny"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "foko"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "no halehanao"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ary haka"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vavy"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ho an'ny zanako"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ho an'i Yitschaka"
+    }
+  ],
+  "timestamp": "2026-08-31T12:41:23.271079762Z",
+  "model": "glm-5.3"
+}

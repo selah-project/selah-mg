@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Amin'ny volana voalohany, amin'ny efatra ambin'ny folo ⟨amin'ilay⟩ volana, eo anelanelan'ny hariva, ⟨dia⟩ Paskaly ho an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "amin'ny volana"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "voalohany"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "amin'ny efatra"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ambin'ny folo"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "⟨amin'ilay⟩ volana"
+    },
+    {
+      "surface": "בין",
+      "gloss": "eo anelanelan'ny"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "hariva"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paskaly"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:20:01.526855815Z",
+  "model": "glm-5.3"
+}

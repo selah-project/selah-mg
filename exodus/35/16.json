@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "⟨את⟩ ny alitaran'ny fanatitra dorana sy ⟨את⟩ ny takolaky varahina ananany, ⟨את⟩ ny tsipìkany ary ⟨את⟩ ny fitaovany rehetra, ⟨את⟩ ny sinibe sy ⟨את⟩ ny fototraony,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny alitaran'ny fanatitra dorana"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "fanatitra dorana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny takolaky varahina"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "takolaka"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "varahina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ananany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tsipìkany"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "tsipìkany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny fitaovany rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "fitaovany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny sinibe"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "sinibe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny fototraony"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "fototraony"
+    }
+  ],
+  "timestamp": "2026-08-31T18:28:56.036037805Z",
+  "model": "glm-5.3"
+}

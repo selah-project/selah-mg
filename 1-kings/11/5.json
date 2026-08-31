@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary Shelomoh nandeha nanaraka an'i Ashtoret, andriamanibavin'ny Tsidoniana, sy nanaraka an'i Malkam, fahavetavetan'ny Ammonita.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nanaraka"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Ashtoret"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "andriamanibavin'ny"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "Tsidoniana"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "sy nanaraka"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkam"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "fahavetavetan'ny"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "Ammonita"
+    }
+  ],
+  "timestamp": "2026-08-31T14:44:41.266750612Z",
+  "model": "glm-5.3"
+}

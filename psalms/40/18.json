@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Fa izaho kosa dia malahelo sy mahantra; Adonay no manao hevitra ny ahy; ianao no fanampako sy mpamonjiko; ry Elohiko, aza tara.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Fa izaho kosa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "malahelo"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "sy mahantra"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "no manao hevitra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ny ahy"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "fanampako"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "sy mpamonjiko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohiko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "tara"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:56.158564436Z",
+  "model": "glm-5.3"
+}

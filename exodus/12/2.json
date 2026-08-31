@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ity volana ity dia ho lohan'ny volana ho anareo; voalohany izy ho anareo amin'ny volan'ny taona.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "Ity volana ity"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "lohan'ny"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "volana"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "voalohany"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "amin'ny volan'ny"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "taona"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:36.142125598Z",
+  "model": "glm-5.3"
+}

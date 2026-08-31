@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ho karbana voalombo haterinareo ⟨את⟩ ireo ho an'i Yahveh; fa tsy hiakatra eo amin'ny alitara ho hafatra mandeha izy.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "karbana"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "voalombo"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "haterinareo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ho an'i Yahveh"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fa ... eo amin'ny"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "hiakatra"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "ho hafatra"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "mandeha"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:32.022642642Z",
+  "model": "glm-5.3"
+}

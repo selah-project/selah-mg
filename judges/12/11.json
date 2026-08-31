@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary nefa aoriany no nanara-dalàna an'i ⟨את⟩ Yisraela Elon ilay Zebolonita; ary nanara-dalàna an'i ⟨את⟩ Yisraela izy Folo taona.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Ary nanara-dalàna"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "aoriany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Elon"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "ilay Zebolonita"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "ary nanara-dalàna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "Folo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taona"
+    }
+  ],
+  "timestamp": "2026-08-31T14:09:35.220658286Z",
+  "model": "glm-5.3"
+}

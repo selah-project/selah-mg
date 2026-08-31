@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Tandremo ⟨את⟩ ny andron'ny Shabbat hanamasinana azy, araka ny nandidian'i Yahveh Elohinanao anao.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Tandremo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny andron'ny Shabbat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andron'ny"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "hanamasinana azy"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "nandidian'i ... anao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohinanao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:41:27.949536190Z",
+  "model": "glm-5.3"
+}

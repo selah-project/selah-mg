@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ny kofian'ny Sheol nanodidina ahy; ny fandriky ny fahafatesana nitsena ahy.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "Ny kofian'ny"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "nanodidina ahy"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "nitsena ahy"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "ny fandriky"
+    },
+    {
+      "surface": "מות",
+      "gloss": "fahafatesana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:16.246946513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Nihady lavaky fandrafetana ho ahy ny mpiavonavona, izay tsy araka ny Torathinao.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "nihady"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "ny mpiavonavona"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "lavaky fandrafetana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "araka ny Torathinao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:25.897812987Z",
+  "model": "glm-5.3"
+}

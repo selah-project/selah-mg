@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary hampifanabosako Mitsrayim amin'i Mitsrayim, ary hiady olona iray amin'ny rahalahiny, ary olona iray amin'ny namany, tanàna iray amin'ny tanàna iray, fanjakana iray amin'ny fanjakana iray.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "Ary hampifanabosako"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "amin'i Mitsrayim"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "ary hiady"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona iray"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "amin'ny rahalahiny"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ary olona iray"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "amin'ny namany"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tanàna iray"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "amin'ny tanàna iray"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "fanjakana iray"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "amin'ny fanjakana iray"
+    }
+  ],
+  "timestamp": "2026-08-31T15:08:01.209259372Z",
+  "model": "glm-5.3"
+}

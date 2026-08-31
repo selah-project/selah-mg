@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Ary nentiny tamin'ny fifaliana ny olony, tamin'ny fihirana ⟨את⟩ ny olony nofidiny.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "nentiny mivoaka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ny olony"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "tamin'ny fifaliana"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "tamin'ny fihirana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny olony nofidiny"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "ny olony nofidiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:13.791440743Z",
+  "model": "glm-5.3"
+}

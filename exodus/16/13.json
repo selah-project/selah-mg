@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary nony hariva dia niakatra ny selavy ka nanarona ⟨את⟩ ny toby; ary nony maraina dia nisy fetrahan'andy manodidina ny toby.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nony"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "tamin'ny hariva"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "dia niakatra"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "ny selavy"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ka nanarona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny toby"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ny toby"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ary tamin'ny maraina"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "dia nisy"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "fetrahan'"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "andy"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ny toby"
+    }
+  ],
+  "timestamp": "2026-08-31T13:02:13.731840774Z",
+  "model": "glm-5.3"
+}

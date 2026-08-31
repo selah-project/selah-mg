@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Sabata, fialan-sasatra feno, no izany ho anareo, ary hanetry tena amin'ny fanahinareo ianareo ⟨את⟩; lalàna mandrakizay izany.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Sabata"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "fialan-sasatra feno"
+    },
+    {
+      "surface": "היא",
+      "gloss": "no izany"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "ary hanetry tena ianareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanahinareo"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "ny fanahinareo"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "lalàna"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mandrakizay"
+    }
+  ],
+  "timestamp": "2026-08-31T13:17:28.874803344Z",
+  "model": "glm-5.3"
+}

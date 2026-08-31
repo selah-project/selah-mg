@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Ary hoy izy: Andao hiara-dalana isika ka mandeha, ary izy handeha eo alohanao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "Andao"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "hiara-dalana isika ka mandeha"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "ary izy handeha"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "eo alohanao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:46:45.870748492Z",
+  "model": "glm-5.3"
+}

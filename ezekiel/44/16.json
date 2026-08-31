@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 44:16",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Izy no miditra ao amin'ny fivahinianako masina, ary izy no manatona eo am-pataraniko hanao fanompoam-pivavahana amiko, ary hitandrina ⟨את⟩ ny fitandremaniko izy.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "izy"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "miditra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ao amin'ny"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "fivahinianako masina"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ary izy"
+    },
+    {
+      "surface": "יקרבו",
+      "gloss": "manatona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "pataraniko"
+    },
+    {
+      "surface": "לשרתני",
+      "gloss": "hanao fanompoam-pivavahana amiko"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "ary hitandrina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitandremaniko"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "fitandremaniko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:05:00.221874395Z",
+  "model": "glm-5.3"
+}

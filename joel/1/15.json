@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 1:15",
+  "book": "joel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ianahà an'ity andro ity! Fa efa akaiky ny andron'i Yahveh, ary ho tonga ⟨⟨toy ny⟩⟩ fandravana avy amin'i Shadday.",
+  "tokens": [
+    {
+      "surface": "אהה",
+      "gloss": "Ianahà"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "an'ity andro ity"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "efa akaiky"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וכשד",
+      "gloss": "ary ho tonga toy ny fandravana"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "avy amin'i Shadday"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ho tonga"
+    }
+  ],
+  "timestamp": "2026-08-31T18:10:59.836222868Z",
+  "model": "glm-5.3"
+}

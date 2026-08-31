@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 88,
+  "translation": "Fa izaho kosa, ho aminao, ry Yahveh, no nikiakyako, ary ny maraina ny fivavahako no hihaona aminao mialoha.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Fa izaho kosa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho aminao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "no nikiakyako"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ary ny maraina"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ny fivavahako"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "no hihaona aminao mialoha"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:05.559088405Z",
+  "model": "glm-5.3"
+}

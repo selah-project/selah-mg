@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary handray avy amin'ny ra izy ka hametraka azy amin'ny tolam-baravaratra roa sy amin'ny tetezan-trano, amin'ny trano izay hanohanany ⟨את⟩ azy ao anatiny.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "handray"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ra"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ka hametraka"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "roa"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "tolam-baravaratra"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy amin'ny"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "tetezan-trano"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "trano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "hanohanany"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ao anatiny"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:22.822170303Z",
+  "model": "glm-5.3"
+}

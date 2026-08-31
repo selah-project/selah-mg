@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Jereo ny fahoriko, ary vonjeo aho; fa ny lalànao tsy hadinoiko.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Jereo"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ny fahoriko"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "ary vonjeo aho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ny lalànao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "hadinoiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:11.261228005Z",
+  "model": "glm-5.3"
+}

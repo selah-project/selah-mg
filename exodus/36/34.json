@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 36:34",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Ary ny tontonana nafeniny volamena ⟨את⟩, ary ny peratra nataony ho trano ho an'ny bara volamena ⟨את⟩, ary ny bara nafeniny volamena ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tontonana"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ny tontonana"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "nafeniny"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny peratra"
+    },
+    {
+      "surface": "טבעתם",
+      "gloss": "ny peratra"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ho trano"
+    },
+    {
+      "surface": "לבריחם",
+      "gloss": "ho an'ny bara"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "ary nafeniny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny bara"
+    },
+    {
+      "surface": "הבריחם",
+      "gloss": "ny bara"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    }
+  ],
+  "timestamp": "2026-08-31T13:09:39.526164914Z",
+  "model": "glm-5.3"
+}

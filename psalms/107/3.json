@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 107,
+  "translation": "ary nangoniny avy tamin'ny tany, avy any atsinanana sy avy any andrefana, avy any avaratra sy avy any amin'ny ranomasina.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "avy tamin'ny tany"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "nangoniny ⟨azy⟩"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "avy any atsinanana"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "avy any andrefana"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "avy any avaratra"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "avy any amin'ny ranomasina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:01.842037150Z",
+  "model": "glm-5.3"
+}

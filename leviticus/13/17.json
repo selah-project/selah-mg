@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ka hijery azy ny mpisorona, ary, indro, efa novaina ho fotsy ny aretina, dia hanambara madio ny mpisorona ⟨את⟩ ilay aretina: madio izy.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "ka hijery azy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ary, indro"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "efa novaina"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ny aretina"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ho fotsy"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "dia hanambara madio"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny aretina"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ilay aretina"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "madio"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:16:13.254874042Z",
+  "model": "glm-5.3"
+}

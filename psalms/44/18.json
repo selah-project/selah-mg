@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Izao rehetra izao efa nanjo antsika, nefa tsy nomanadinoana anao, ary tsy nandainga tamin'ny fanekena nao.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Izao izao"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "efa nanjo antsika"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "nomanadinoana anao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "nandainga"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "tamin'ny fanekena nao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:30:26.514197561Z",
+  "model": "glm-5.3"
+}

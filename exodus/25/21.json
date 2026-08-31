@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary hametraka ⟨את⟩ ny famelan-keloka ianao eo ambony ny fiara, avy eo ambonin'ny fiara no hanateranao ⟨את⟩ ny vavolombelona izay homeko anao.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "hametraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "famelan-keloka"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "famelan-keloka"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "avy eo amboniny"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary eo ambonin'ny"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "hanateranao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vavolombelona"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "vavolombelona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "homeko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "anao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:05:12.105078033Z",
+  "model": "glm-5.3"
+}

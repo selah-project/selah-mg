@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 102,
+  "translation": "Ianao hitsangana ka hamindra fo amin'i Ziona, fa tonga ny fotoana hiantra azy, fa tonga ny fe-potoana voatendry.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ianao"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "hitsangana"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "hamindra fo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "amin'i Ziona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ny fotoana"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "hiantra azy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ny fe-potoana voatendry"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:35.532006751Z",
+  "model": "glm-5.3"
+}

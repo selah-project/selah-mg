@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 1:32",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary ny zanak'i Ketora, vady madinik'i Avraham: niteraka ⟨את⟩ Zimran sy Yokshan sy Medan sy Midian sy Yishbak ary Shoa izy; ary ny zanak'i Yokshan: Sheba sy Dedan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ary ny zanak'i"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Ketora"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "vady madinika"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ויקשן",
+      "gloss": "sy Yokshan"
+    },
+    {
+      "surface": "ומדן",
+      "gloss": "sy Medan"
+    },
+    {
+      "surface": "ומדין",
+      "gloss": "sy Midian"
+    },
+    {
+      "surface": "וישבק",
+      "gloss": "sy Yishbak"
+    },
+    {
+      "surface": "ושוח",
+      "gloss": "ary Shoa"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ary ny zanak'i"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokshan"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "sy Dedan"
+    }
+  ],
+  "timestamp": "2026-08-31T18:38:16.786440085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 107,
+  "translation": "Ary aoka hasandratra ao amin'ny fiangonan'ny vahoaka Izy, ary hoderaina eny amin'ny fipetrahana anti-panahy.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "aoka hasandratra"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ao amin'ny fiangonan'ny"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "eny amin'ny fipetrahana"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "anti-panahy"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "hoderaina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:20.056155502Z",
+  "model": "glm-5.3"
+}

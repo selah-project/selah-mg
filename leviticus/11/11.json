@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Eny, fahavetavetana ireo ho anareo: ny henany tsy hohaninareo, ary ⟨את⟩ fatiny dia halinareo.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "Eny, fahavetavetana"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "ny henany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "hohaninareo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fatiny"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "fatiny"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "halinareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:14:22.246310648Z",
+  "model": "glm-5.3"
+}

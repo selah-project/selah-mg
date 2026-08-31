@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 1:12",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "atelonay velona izy ireo tahaka ny Sheol, ary manontolo tahaka ny midina ao an-davaka.",
+  "tokens": [
+    {
+      "surface": "נבלעם",
+      "gloss": "atelonay velona izy ireo"
+    },
+    {
+      "surface": "כשאול",
+      "gloss": "tahaka ny Sheol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "velona"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "ary manontolo"
+    },
+    {
+      "surface": "כיורדי",
+      "gloss": "tahaka ny midina"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ao an-davaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:42.742567347Z",
+  "model": "glm-5.3"
+}

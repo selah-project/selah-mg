@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary ny mpanjaka nanitatra ⟨את⟩ ny tehina volamena nankany amin'i Ester; dia nitsangana Ester ka nijoro teo anatrehan'ny mpanjaka.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "nanitatra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "nankany amin'i Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tehina volamena"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "tehina"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "nitsangana"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "nijoro"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anatrehan'"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    }
+  ],
+  "timestamp": "2026-08-31T17:20:16.014631702Z",
+  "model": "glm-5.3"
+}

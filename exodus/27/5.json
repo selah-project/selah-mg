@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ary ataonao eo ambanin'ny karakaraka'ny alitara, any ambany, io ⟨את⟩, ary ny harato ho tonga hatramin'ny antsasany'ny alitara.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ataonao"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ io",
+      "marks": "io (ilay harato)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "eo ambanin'ny"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "karakaraka (lanja manodidina)"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ny alitara"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "any ambany"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ary ho"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "ny harato"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hatramin'ny"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "antsasany"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ny alitara"
+    }
+  ],
+  "timestamp": "2026-08-31T17:56:59.805757560Z",
+  "model": "glm-5.3"
+}

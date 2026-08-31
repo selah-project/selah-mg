@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 17:5",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary dia nandeha izy ka nanao araka ny tenin'i Yahveh; eny, nandeha izy ka nonina tao amin'ny lohasaha Kerith, izay eo an-tsinjaran'ny Yarden.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "araka ny tenin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nonina"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "tao amin'ny lohasaha"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Kerith"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "antsinjaran'ny"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-08-31T14:47:22.331496048Z",
+  "model": "glm-5.3"
+}

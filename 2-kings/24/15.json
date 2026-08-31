@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 24:15",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Nampansesitany ⟨את⟩ Yehoyakhin ho any Babilona, sy ⟨את⟩ renin'ny mpanjaka, sy ⟨את⟩ vadin'ny mpanjaka, sy ⟨את⟩ eunoky ny mpanjaka, ary ⟨את⟩ mahery an'ny tany; nentiny ho sesitany avy any Yeroshalayim ho any Babilona.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "nampansesitany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoyakhin"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoyakhin"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ho any Babilona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "renin'ny mpanjaka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "renin'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vadin'ny mpanjaka"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "vadin'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "eunoky ny mpanjaka"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "eunoky ny mpanjaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mahery an'ny tany"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "an'ny tany"
+    },
+    {
+      "surface": "הוליך",
+      "gloss": "nentiny"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "sesitany"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "avy any Yeroshalayim"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ho any Babilona"
+    }
+  ],
+  "timestamp": "2026-08-31T18:05:46.773394381Z",
+  "model": "glm-5.3"
+}

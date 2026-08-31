@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary Shelomoh nanao ⟨את⟩ ny trano ka nanao azy ho vita.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny trano"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ny trano"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "nanao azy ho vita"
+    }
+  ],
+  "timestamp": "2026-08-31T14:41:59.942484524Z",
+  "model": "glm-5.3"
+}

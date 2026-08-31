@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 141,
+  "translation": "Fihirana nataon'i Davida. Yahveh, niantso anao aho; maika ho ato amiko; mehy amiko ny feoko, rehefa miantso anao aho.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Fihirana"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nataon'i Davida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "niantso anao aho"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "maika"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ato amiko"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "mehy"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ny feoko"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "rehefa miantso"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:56.134121057Z",
+  "model": "glm-5.3"
+}

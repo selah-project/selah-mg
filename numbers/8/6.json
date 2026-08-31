@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Eray ⟨את⟩ ny Levita avy eo afovoan'ny zanak'i Yisraela, ary dia hanadio azy ianao.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Eray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Levita"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ny Levita"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "avy eo afovoan'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "ary dia hanadio azy ianao"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ny Levita)"
+    }
+  ],
+  "timestamp": "2026-08-31T13:27:29.800770072Z",
+  "model": "glm-5.3"
+}

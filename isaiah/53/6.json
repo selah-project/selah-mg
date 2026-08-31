@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 53:6",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 53,
+  "translation": "Izahay rehetra dia very lalana tahaka ny ondry; samy mivadika ho amin'ny lalany avy isika; ary Yahveh no nampitraka taminy ⟨את⟩ ny helotsika rehetra.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "izahay rehetra"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "tahaka ny ondry"
+    },
+    {
+      "surface": "תעינו",
+      "gloss": "very lalana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "samy"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "ho amin'ny lalany avy"
+    },
+    {
+      "surface": "פנינו",
+      "gloss": "mivadika"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ary Yahveh"
+    },
+    {
+      "surface": "הפגיע",
+      "gloss": "nampitraka taminy"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tamin'izy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny helotsika rehetra"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ny helo"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "tsy rehetra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:19:16.316906448Z",
+  "model": "glm-5.3"
+}

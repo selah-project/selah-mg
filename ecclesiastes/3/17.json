@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Hoy izaho tamiko: Ny marina sy ny ratsy fanahy no hitsarin'i Elohim, fa misy fotoana ho an'ny sitrapo rehetra sy ho an'ny asa rehetra any.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "hoy izaho"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny marina"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "ny marina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny ratsy fanahy"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "hitsarina"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "fotoana"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho an'ny rehetra"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "sitrapo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy ho an'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "asa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "any"
+    }
+  ],
+  "timestamp": "2026-08-31T17:14:59.519143665Z",
+  "model": "glm-5.3"
+}

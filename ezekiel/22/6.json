@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 22:6",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Indro, andrianan'i Yisraela samy nanam-piraisam-po hianao tao, hamandrorana rà.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "andriana (mamponenana ny)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "samy (lehilay)"
+    },
+    {
+      "surface": "לזרעו",
+      "gloss": "arakaraka ny heriny (ranoany)"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nanam-piraisam-po (tamin'ny)"
+    },
+    {
+      "surface": "בך",
+      "gloss": "tao (aminao)"
+    },
+    {
+      "surface": "למען",
+      "gloss": "hamonoana-meloka (hafa)"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "hamandrorana"
+    },
+    {
+      "surface": "דם",
+      "gloss": "rà"
+    }
+  ],
+  "timestamp": "2026-08-31T15:54:14.439608908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 135:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 135,
+  "translation": "Ry taranak'i Levy, manisa soa ⟨i⟩ Yahveh; ry matahotra an'i Yahveh, manisa soa ⟨i⟩ Yahveh.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Ry taranak'i"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Levy"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "manisa soa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ry matahotra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "manisa soa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:50.519534361Z",
+  "model": "glm-5.3"
+}

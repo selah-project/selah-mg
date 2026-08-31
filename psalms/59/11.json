@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 59,
+  "translation": "Elohim mpandray ny hesediko no handoha ahy; Elohim hampahita ahy ny fahavaloko.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "mpandray ny hesediko"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "no handoha ahy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "hampahita ahy"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "ny fahavaloko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:40.289856861Z",
+  "model": "glm-5.3"
+}

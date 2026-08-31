@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary Shaol namely ⟨את⟩ ny Amalekita, hatramin'i Havila, hatramin'ny fidirana any Shora, izay eo anoloan'i Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "namely"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Amalekita"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalekita"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "hatramin'i Havila"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "hatramin'ny fidirana"
+    },
+    {
+      "surface": "שור",
+      "gloss": "any Shora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anoloan'ny"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T14:20:23.689331186Z",
+  "model": "glm-5.3"
+}

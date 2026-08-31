@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Ary hampodiko ⟨את⟩ ny fahababoan'i Yehudah sy ⟨את⟩ ny fahababoan'i Yisrael, ary hanoratro azy ireo toy ny tany am-boalohany.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "Ary hampodiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahababoan'i Yehudah"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ny fahababoana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny fahababoan'i Yisrael"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ny fahababoana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "ary hanoratro azy ireo"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "toy ny tany am-boalohany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:37:07.863730992Z",
+  "model": "glm-5.3"
+}

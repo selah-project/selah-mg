@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 6:7",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary hovoako ⟨את⟩ ianareo ho oiko ho firenena, ary ho Elohim ho anareo aho; ary ho fantatrareo fa Izaho no Yahveh Elohinareo, Izay mampivoaka ⟨את⟩ anareo avy ambanin'ny enta-mavesatry'i Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "hovoako"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ianareo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho oiko"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ho firenena"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "ary ho"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ary ho fantatrareo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "Izay mampivoaka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "avy ambanin'ny"
+    },
+    {
+      "surface": "סבלות",
+      "gloss": "enta-mavesatra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T12:55:37.277839257Z",
+  "model": "glm-5.3"
+}

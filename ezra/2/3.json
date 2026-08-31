@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Zanak'i Parosh, roa arivo sy zato sy fito amby enimpolo sy roa.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Zanak'i"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Parosh"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "roa arivo"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "zato"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "enimpolo"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "sy fito amby ... sy roa"
+    }
+  ],
+  "timestamp": "2026-08-31T17:26:04.077697286Z",
+  "model": "glm-5.3"
+}

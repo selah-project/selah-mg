@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary Achaz lalana tao amin'ny razany, ary nalevina tao amin'ny razany tao an-tanànan'i David; ary Chizkiyahu zanany nanjaka nandimby azy.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "lalana tao"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tao amin'ny"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ny razany"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ary nalevina tao"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tao amin'ny"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ny razany"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "tao an-tanànan'"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ary nanjaka"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "nandimby azy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:04:39.481875082Z",
+  "model": "glm-5.3"
+}

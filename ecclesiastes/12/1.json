@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 12:1",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary mahatsiarovà ⟨את⟩ mpamorina anao amin'ny andron'ny fahatanoranao, mandra-pihavian'ny andro maharatsy sy hahatongavan'ny taona hanaovanao hoe: Tsy manana fahafinaretana amin'izy ireo aho.",
+  "tokens": [
+    {
+      "surface": "וזכר",
+      "gloss": "Ary mahatsiarovà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpamorina anao"
+    },
+    {
+      "surface": "בוראיך",
+      "gloss": "mpamorina anao"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "amin'ny andron'"
+    },
+    {
+      "surface": "בחורתיך",
+      "gloss": "fahatanoranao"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨re -ny⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "pihavian'"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "andro"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "maharatsy"
+    },
+    {
+      "surface": "והגיעו",
+      "gloss": "sy hahatongavan'"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "hanaovanao hoe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy manana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aho"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "amin'izy ireo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "fahafinaretana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:18:04.379042328Z",
+  "model": "glm-5.3"
+}

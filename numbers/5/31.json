@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 5:31",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary ny lehilahy dia afaka tsy manota, fa ilay vehivavy kosa dia hitondra ⟨את⟩ ny fahotany.",
+  "tokens": [
+    {
+      "surface": "ונקה",
+      "gloss": "Ary ... afaka tsy manota"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ny lehilahy"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "tsy manota"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "fa ilay vehivavy kosa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "—"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "hitondra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahotany"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "ny fahotany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:25:36.749008790Z",
+  "model": "glm-5.3"
+}

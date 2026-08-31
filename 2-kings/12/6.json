@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 12:6",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Haka ho an'ny tenany ny mpisorona, samy avy amin'⟨את⟩ ny olona mifankatatra aminy; ary izy no hampahery ⟨את⟩ ny fahavaky ny trano, amin'izay rehetra hita any fahavaky.",
+  "tokens": [
+    {
+      "surface": "יקחו",
+      "gloss": "haka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho an'ny tenany"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "samy"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "avy amin'⟨את⟩",
+      "marks": "olona mifankatatra aminy"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "olona mifankatatra aminy"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ary izy"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "hampahery"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fahavaky"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "fahavaky"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ny trano"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "amin'izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "hita"
+    },
+    {
+      "surface": "שם",
+      "gloss": "any"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "fahavaky"
+    }
+  ],
+  "timestamp": "2026-08-31T14:56:16.469199235Z",
+  "model": "glm-5.3"
+}

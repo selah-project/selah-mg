@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 104,
+  "translation": "Eo ambonin'ireny no itoeran'ny vorona amin'ny lanitra; avy eo anelanelan'ny rantsan-kazo no fanomezany feo.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "eo ambonin'ireny"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "vorona"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "amin'ny lanitra"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "itoeran'ny"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "avy eo anelanelan'ny"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "rantsan-kazo"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "fanomezany"
+    },
+    {
+      "surface": "קול",
+      "gloss": "feo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:13.731870324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary nonina izy, rehefa hitan'i Achab ⟨את⟩ Eliyahu, dia hoy Achab taminy: Hianao va no mampahory an'i Yisraela?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nonina izy"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "rehefa hitan'i"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dia hoy"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Hianao va"
+    },
+    {
+      "surface": "זה",
+      "gloss": "no"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "mampahory"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "an'i Yisraela"
+    }
+  ],
+  "timestamp": "2026-08-31T14:48:24.150236401Z",
+  "model": "glm-5.3"
+}

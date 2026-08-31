@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 85,
+  "translation": "Tsy hiverina hivelomanao ve anay, mba ho faly aminao ny olonao?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Tsy… ve"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "hiverina"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "hivelomanao anay"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "ny olonao"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ho faly"
+    },
+    {
+      "surface": "בך",
+      "gloss": "aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:13.291738966Z",
+  "model": "glm-5.3"
+}

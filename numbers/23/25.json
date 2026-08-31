@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary hoy Balak tamin'i Bilam: Aza ozona intsony, aza tsodino intsony; ary aza tahaina intsony, arahabana intsony.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "aza ... intsony"
+    },
+    {
+      "surface": "קב",
+      "gloss": "ozona\/tsodino"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "intsony (izy)"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ary aza ... intsony"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "tahaina\/arahabana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "intsony (izy)"
+    }
+  ],
+  "timestamp": "2026-08-31T13:34:17.755432527Z",
+  "model": "glm-5.3"
+}

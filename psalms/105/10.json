@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "ary nampitoetry izany ho an'i Yaakov ho lalàna, ho fanekena mandrakizay ho an'i Yisrael;",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "ary nampitoetry izany"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ho an'i Yaakov"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "ho lalàna"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ho an'i Yisrael"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "fanekena"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mandrakizay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:19.721563043Z",
+  "model": "glm-5.3"
+}

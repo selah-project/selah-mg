@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 72,
+  "translation": "Ary velona izy, ary homena azy volamena avy any Sheba; ary hivavaka ho azy mandrakariva, isa-ton'andro no hitso-drano azy.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ary velona"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "homena"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "volamena avy any"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "ary hivavaka"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mandrakariva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "isa-ton'andro"
+    },
+    {
+      "surface": "היום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "hitso-drano azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:29.322921196Z",
+  "model": "glm-5.3"
+}

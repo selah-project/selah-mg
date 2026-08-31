@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 25:10",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ho an'ny taranak'i Kedema miaraka amin'ny taranak'i Amona; ary homeko izany ho lovaina, mba tsy hotsarovana intsony ny taranak'i Amona eo amin'ny firenena.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "ho an'ny taranak'i"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Kedema"
+    },
+    {
+      "surface": "על",
+      "gloss": "miaraka amin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taranak'i"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amona"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "ary homeko izany"
+    },
+    {
+      "surface": "למורשה",
+      "gloss": "ho lovaina"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "hotsarovana intsony"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taranak'i"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amona"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "eo amin'ny firenena"
+    }
+  ],
+  "timestamp": "2026-08-31T18:09:43.527841840Z",
+  "model": "glm-5.3"
+}

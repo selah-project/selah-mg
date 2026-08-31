@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 6:3",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ataovy izao, anaka, ary vonjeo ny tenanao, fa efa latsaka ao an-tanan'ny namanao ianao; mandehana, manetry tena, ary terezo ny namanao.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Ataovy"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izao"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "⟨izao⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anaka"
+    },
+    {
+      "surface": "והנצל",
+      "gloss": "ary vonjeo ny tenanao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "באת",
+      "gloss": "efa latsaka"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "ao an-tanan'ny"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "namanao"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mandehana"
+    },
+    {
+      "surface": "התרפס",
+      "gloss": "manetry tena"
+    },
+    {
+      "surface": "ורהב",
+      "gloss": "ary terezo"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "ny namanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:49:37.924038474Z",
+  "model": "glm-5.3"
+}

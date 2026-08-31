@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Fa amin'ny be fahendrena dia be koa ny fahatezerana; ary izay mampitombo fahalala dia mampitombo faharatsiana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "amin'ny be"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "fahendrena"
+    },
+    {
+      "surface": "רב",
+      "gloss": "be"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "fahatezerana"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "ary ... mampitombo"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "fahalala"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "mampitombo"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "faharatsiana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:14:10.290478814Z",
+  "model": "glm-5.3"
+}

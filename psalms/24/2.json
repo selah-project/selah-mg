@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Fa izy no nametraka azy ambonin'ny ranomasina, ary ambonin'ny renirano no nanorenany azy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ranomasina"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "nametraka azy"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "renirano"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "nanorenany azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:07.610848309Z",
+  "model": "glm-5.3"
+}

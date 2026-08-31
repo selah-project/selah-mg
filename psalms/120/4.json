@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 120,
+  "translation": "Tsipika maranitr'i mahery, miaraka amin'ny tsangambaton'ny kitay retama.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "Tsipika"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "maranitra"
+    },
+    {
+      "surface": "עם",
+      "gloss": "miaraka amin'ny"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "tsangambaton'ny afo"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "kitay retama"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:07.698900585Z",
+  "model": "glm-5.3"
+}

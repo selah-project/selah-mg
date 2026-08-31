@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary Shelach niaina telo-polo taona, ka niteraka an'i ⟨את⟩ Ever.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Ary Shelach"
+    },
+    {
+      "surface": "חי",
+      "gloss": "niaina"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "telo-polo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    }
+  ],
+  "timestamp": "2026-08-31T12:38:07.838426661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Salam-pampianarana, nataon'i Eitanra Zarahita.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "fampianarana"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "an'i Eitanra"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "Zarahita"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:44.776431732Z",
+  "model": "glm-5.3"
+}

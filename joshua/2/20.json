@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Fa raha nambaranao ⟨את⟩ ity teninay ity, dia malalaka izahay amin'ny fianiananao izay nampianiananao anay.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Fa raha"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "nambaranao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ity teninay ity"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "ity teninay ity"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "dia"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "malalaka izahay"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "amin'ny fianiananao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "nampianiananao anay"
+    }
+  ],
+  "timestamp": "2026-08-31T13:54:31.174254358Z",
+  "model": "glm-5.3"
+}

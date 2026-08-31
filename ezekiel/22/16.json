@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 22:16",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary halotoana eo imason'ny firenena ianao, ka ho fantatrao fa Izaho no Yahveh",
+  "tokens": [
+    {
+      "surface": "ונחלת",
+      "gloss": "halotoana ianao"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "eo imason'ny"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "ho fantatrao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T18:09:50.791493595Z",
+  "model": "glm-5.3"
+}

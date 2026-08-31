@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "dia ho tonga izany, raha mahita anao ⟨את⟩ ny Mitsrayim, ka hanao hoe: Ity no vadiny; dia hamono ahy ⟨את⟩ izy, fa anao kosa ⟨את⟩ havela ho velona.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dia ho tonga izany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "raha"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "mahita"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ anao",
+      "marks": "anao"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "ny Mitsrayim"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ka hanao hoe"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vadiny"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Ity"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "dia hamono"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ahy",
+      "marks": "ahy"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "fa ⟨את⟩ anao kosa",
+      "marks": "anao"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "havela ho velona"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:52.640783723Z",
+  "model": "glm-5.3"
+}

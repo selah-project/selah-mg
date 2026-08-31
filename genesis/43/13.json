@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 43,
+  "translation": "Ary ento ⟨את⟩ ny rahalahinareo, ary miafàra, miverena any amin'ilay lehilahy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny rahalahinareo"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ny rahalahinareo"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ento"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "ary miafàra"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "miverena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "any amin'"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ilay lehilahy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:51:48.888727878Z",
+  "model": "glm-5.3"
+}

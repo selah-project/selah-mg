@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary Avraham efa antitra, efa niditra tamin'ny andro maro, ary Yahveh efa nitahy an'i Avraham tamin'ny zavatra rehetra.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Ary Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "antitra"
+    },
+    {
+      "surface": "בא",
+      "gloss": "niditra"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "tamin'ny andro maro"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ary Yahveh"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "nitahy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tamin'ny zavatra rehetra"
+    }
+  ],
+  "timestamp": "2026-08-31T12:41:23.270444157Z",
+  "model": "glm-5.3"
+}

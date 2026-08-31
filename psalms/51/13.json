@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 51:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "Aza manary ahy hiala eo anatrehanao, ary ny fanahy masinao aza alao amiko.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "manary ahy"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "hiala eo anatrehanao"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ary ny fanahy"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "masinao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "alao"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:25.704651021Z",
+  "model": "glm-5.3"
+}

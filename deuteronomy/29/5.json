@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Mofo tsy nihinananareo, ary divay sy toaka tsy nisotroanareo, mba hahafantatrareo fa izaho no Yahveh Elohim anareo.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "mofo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "nihinananareo"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "divay"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "toaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "nisotroanareo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mba"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "hahafantatrareo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim anareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:50:27.822586066Z",
+  "model": "glm-5.3"
+}

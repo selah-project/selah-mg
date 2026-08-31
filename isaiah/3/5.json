@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary hampahoriana ny vahoaka, olona amin'ny olona ary olona amin'ny namany; hiavonavona ny tanora amin'ny anti-panahy, ary ny maloto amin'ny mendrika.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "hampahoriana"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "amin'ny olona"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ary olona"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "amin'ny namany"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "hiavonavona"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ny tanora"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "amin'ny anti-panahy"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "ary ny maloto"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "amin'ny mendrika"
+    }
+  ],
+  "timestamp": "2026-08-31T15:02:38.491114237Z",
+  "model": "glm-5.3"
+}

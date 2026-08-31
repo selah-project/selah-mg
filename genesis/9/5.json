@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary tokoa, ⟨את⟩ ny rànao ho an'ny ainaareo no hangatahiko avy amin'ny tàn'ny zava-mananavelona rehetra — hangatahiko azy; ary avy amin'ny tanan'olona, avy amin'ny tàn'ny lehilahy rahalahiny, no hangatahiko ⟨את⟩ ain'olona.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "ary tokoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rànao"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "ny rànao"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "ho an'ny ainaareo"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "hangatahiko"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "avy amin'ny tanan'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "reo… rehetra"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "zava-mananavelona"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "hangatahiko azy"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "ary avy amin'ny tanan'"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "avy amin'ny tanan'"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "rahalahiny"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "hangatahiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ain'olona"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "aina"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "olona"
+    }
+  ],
+  "timestamp": "2026-08-31T12:36:13.889700704Z",
+  "model": "glm-5.3"
+}

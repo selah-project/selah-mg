@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary niantso ny mpanjakan'i Mitsrayim ny mpampivelona, ka nanao taminy hoe: Nahoana no nataonareo izany zavatra izany, ka namelona ⟨את⟩ ny zazalahy velona?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "ny mpampivelona"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "להן",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Nahoana no"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "nataonareo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "zavatra"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "izany"
+    },
+    {
+      "surface": "ויחיין",
+      "gloss": "namelona velona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zazalahy"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ny zazalahy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:28:01.046904136Z",
+  "model": "glm-5.3"
+}

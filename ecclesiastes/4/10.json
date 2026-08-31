@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Fa raha mandina ny iray, ny iray hanangana ⟨את⟩ ny namany; fa raha ny iray irery no ho latsaka, dia tsy misy faharoa hanangana azy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "mandina"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ny iray"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "hanangana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny namany"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "ny namany"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "fa raha"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ny iray"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "ho latsaka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "שני",
+      "gloss": "faharoa"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "hanangana azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:14:38.876318622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "Ho an'ny mpitarika ⟨ny mozika⟩, ho an'i Yedutun; fihirana nataon'i David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho an'ny mpitarika"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "ho an'i Yedutun"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "fihirana"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nataon'i David"
+    }
+  ],
+  "timestamp": "2026-08-31T18:13:26.663101990Z",
+  "model": "glm-5.3"
+}

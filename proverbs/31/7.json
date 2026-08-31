@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Aoka hisotro izy ka hanadino ny fahambean-taony, ary ny fahoriany tsy hotsarovany intsony.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "hisotro"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "ka hanadino"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "ny fahambean-taony"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "ary ny fahoriany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "hotsarovany"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:57:59.146979114Z",
+  "model": "glm-5.3"
+}

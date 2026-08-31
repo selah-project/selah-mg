@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary ny sakafo nentin'i Shelomoh indray andro: korà telo-polo lafarinina matsatsaka ary korà enimpolo lafarinina fotsiny.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary ... no"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "sakafo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "nentin'i Shelomoh"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "indray andro"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "telo-polo"
+    },
+    {
+      "surface": "כר",
+      "gloss": "korà"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "lafarinina matsatsaka"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ary enimpolo"
+    },
+    {
+      "surface": "כר",
+      "gloss": "korà"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "lafarinina fotsiny"
+    }
+  ],
+  "timestamp": "2026-08-31T14:40:56.303507354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 55,
+  "translation": "Levona, Adonay, ⟨izy⟩; saraao ny lelany, fa hitako ny herisetra sy ny fifandirana ao an-tanàna.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "Levona"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "saraao"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ny lelany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "hitako"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ny herisetra"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "sy ny fifandirana"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ao an-tanàna"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:19.715475049Z",
+  "model": "glm-5.3"
+}

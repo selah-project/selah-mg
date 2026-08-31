@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 13:10",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Fa izahay kosa, Yahveh no Elohinay, ary tsy mahafoy Azy izahay; ary misy mpisoratra manompo an'i Yahveh, dia ny taranak'i Aharon sy ny Levita amin'ny asa.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "Fa izahay kosa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "no Elohinay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "עזבנהו",
+      "gloss": "mahafoy Azy izahay"
+    },
+    {
+      "surface": "וכהנים",
+      "gloss": "ary misy mpisoratra"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "manompo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taranak'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "sy ny Levita"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "amin'ny asa"
+    }
+  ],
+  "timestamp": "2026-08-31T17:46:45.766044005Z",
+  "model": "glm-5.3"
+}

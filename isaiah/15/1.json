@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Enta-mavesatra ny an'i Moaba: fa amin'ny alina no naharava an'i Ar an'i Moaba, dia ringana ⟨izy⟩; fa amin'ny alina no naharava an'i Kir an'i Moaba, dia ringana ⟨izy⟩.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "enta-mavesatra"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "amin'ny alina"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "naharava"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "an'i Moaba"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "ringana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "amin'ny alina"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "naharava"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "an'i Moaba"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "ringana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:32:37.032970158Z",
+  "model": "glm-5.3"
+}

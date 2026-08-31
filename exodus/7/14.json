@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary hoy Yahveh tamin'i Moshe: Mavesatra ny fon'i Parao, mandà tsy handefa ny olona izy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "Mavesatra"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ny fon'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "mandà"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "tsy handefa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny olona"
+    }
+  ],
+  "timestamp": "2026-08-31T12:55:14.988732646Z",
+  "model": "glm-5.3"
+}

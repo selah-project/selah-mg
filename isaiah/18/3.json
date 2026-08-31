@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 18:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Hianareo rehetra mponina amin'ny teto misy, sy mponina amin'ny tany: rehefa ampiakarina ny sari-tafika eo an-tendrombohitra, jereo; ary rehefa maneno ny shofara, henoy.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mponina amin'ny"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "teto misy"
+    },
+    {
+      "surface": "ושכני",
+      "gloss": "sy mponina amin'ny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "כנשא",
+      "gloss": "rehefa ampiakarina"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ny sari-tafika"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "eo an-tendrombohitra"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "jereo"
+    },
+    {
+      "surface": "וכתקע",
+      "gloss": "ary rehefa maneno"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ny shofara"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "henoy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:07:41.321798332Z",
+  "model": "glm-5.3"
+}

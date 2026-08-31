@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 52,
+  "translation": "Fa hoy Yahveh: Maimaim-poana no nivarotana anareo, ary tsy amin'ny volafotsy no hovavaina (hohaviana) anareo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "Maimaim-poana"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "no nivarotana anareo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "amin'ny volafotsy"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "no hovavaina anareo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:19:30.399547637Z",
+  "model": "glm-5.3"
+}

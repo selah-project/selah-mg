@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Fa iza no mahavy ⟨את⟩ ny hanina, ary iza no mahafaly, mihoatra noho izaho?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "no mahavy ny hanina"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ary iza"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "no mahafaly"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "mihoatra"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "noho izaho"
+    }
+  ],
+  "timestamp": "2026-08-31T19:13:04.103573315Z",
+  "model": "glm-5.3"
+}

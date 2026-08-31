@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Ary nolaviny ny lain'i Yosef, ary ny firenen'i Efrayim tsy nofidiny.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "nolaviny"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ny lain'i"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "ary ny firenen'i"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "nofidiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:38.614751739Z",
+  "model": "glm-5.3"
+}

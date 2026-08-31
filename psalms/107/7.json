@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 107,
+  "translation": "Ary nitarika azy hitety lalana mahitsy Izy, handeha ho any amin'ny tanàna onenana.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "nitarika azy"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "hitety lalana"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "mahitsy"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "handeha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "onenana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:13:46.569868749Z",
+  "model": "glm-5.3"
+}

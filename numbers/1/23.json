@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ireo voaisa taminy, ho an'ny foko Shimeona, dia sivy amby dimam-polo arivo sy telon-jato.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "Ireo voaisa taminy"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ho an'ny foko"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimeona"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "sivy"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "amby dimam-polo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "arivo"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "sy telon-"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "jato"
+    }
+  ],
+  "timestamp": "2026-08-31T13:22:53.169862023Z",
+  "model": "glm-5.3"
+}

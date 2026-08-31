@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ny aiko Izy mamerina aina; mitondra ahy eo amin'ny lalalin'ny fahamarinana noho ny anarany.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Ny aiko"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "mamerina aina"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "mitondra ahy"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "eo amin'ny lalalin'ny"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "fahamarinana"
+    },
+    {
+      "surface": "למען",
+      "gloss": "noho ny"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "anarany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:08.592693849Z",
+  "model": "glm-5.3"
+}

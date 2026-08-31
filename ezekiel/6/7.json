@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 6:7",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary ho faty maro lavo ho eo afovoanareo, dia ho fantatrareo fa izaho no Yahveh.",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "ary ... lavo"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "faty maro"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "eo afovoanareo"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "dia ho fantatrareo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T15:47:45.765828098Z",
+  "model": "glm-5.3"
+}

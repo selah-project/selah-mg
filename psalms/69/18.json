@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 69,
+  "translation": "Ary aza manafina ny tavanao amin'ny mpanomponao, fa ⌈eo amin'ny⌉ fahoriana aho; faingàna, valio aho.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ary aza"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "manafina"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ny tavanao"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "amin'ny mpanomponao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "fahoriana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aho"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "faingàna"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "valio aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:34.896574627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary izaho no nampianatra an'i Efraima nandeha, nitondra azy tamin'ny tanako roa; fa tsy nahalala izy fa izaho no nahasitrany azy.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Ary izaho"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "no nampianatra... nandeha"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "an'i Efraima"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "nitondra azy"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "tanako roa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nahalala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "no nahasitrany azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:08:47.011487624Z",
+  "model": "glm-5.3"
+}

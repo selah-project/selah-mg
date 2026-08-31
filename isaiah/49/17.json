@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 49:17",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 49,
+  "translation": "Ny zanakao dia maika; ny mpandrava anao sy ny mpanimba anao dia hivoaka avy aminao.",
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "maika"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "zanakao"
+    },
+    {
+      "surface": "מהרסיך",
+      "gloss": "mpandrava anao"
+    },
+    {
+      "surface": "ומחרביך",
+      "gloss": "sy ny mpanimba anao"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "avy aminao"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "hivoaka"
+    }
+  ],
+  "timestamp": "2026-08-31T15:17:32.600302675Z",
+  "model": "glm-5.3"
+}

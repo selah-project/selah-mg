@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 22:19",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Izay mamono biby fanatitra ho an'ny eloah hafa dia hosokajy ho voaozona; afa-tsy ho an'i Yahveh irery ihany.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "mamono biby fanatitra"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ho an'ny eloah hafa"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "hosokajy ho voaozona"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "afa-tsy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "irery ihany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:02:35.090898140Z",
+  "model": "glm-5.3"
+}

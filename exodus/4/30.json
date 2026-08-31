@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary Aharon niteny ny teny rehetra izay nolazain'i Yahveh tamin'i Moshe, ary natao ny famantarana eo imason'ny vahoaka.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "niteny"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny teny rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "teny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nolazain'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "natao"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ny famantarana"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "eo imason'ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    }
+  ],
+  "timestamp": "2026-08-31T12:55:01.187583489Z",
+  "model": "glm-5.3"
+}

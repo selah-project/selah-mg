@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 140,
+  "translation": "Vonoy ahy, ry Yahveh, amin'ny olona ratsy; tano aky amin'ny lehilahy mpanao herisetra.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "vonoy ahy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "amin'ny olona"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "aky amin'ny lehilahy"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "mpanao herisetra"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "tano ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:05.391288188Z",
+  "model": "glm-5.3"
+}

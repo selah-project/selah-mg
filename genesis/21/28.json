@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary napetrak'i Abrahama ⟨את⟩ ny ondrivavy fito avy amin'ny andiany irery ihany.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "napetrak'i"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ondrivavy fito"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "fito"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "ondrivavy"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "avy amin'ny andiany"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "irery ihany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:40:02.594766560Z",
+  "model": "glm-5.3"
+}

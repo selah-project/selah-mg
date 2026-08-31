@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Fa tsy mandrakizay ny harena, ary na ny satro-boninahitra aza tsy maharitra amin'ny taranaka sy taranaka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "ny harena"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ary na"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "satro-boninahitra"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "amin'ny taranaka"
+    },
+    {
+      "surface": "דור",
+      "gloss": "sy taranaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:57:33.857377792Z",
+  "model": "glm-5.3"
+}

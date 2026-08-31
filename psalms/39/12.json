@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "Amin'ny fananarana noho ny heloka nananatra Hianao ⟨olona⟩, ka nanimba toy ny paka ny ta-drekany; fa zava-poana tokoa ny olombelona rehetra. Selah.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "amin'ny fananarana"
+    },
+    {
+      "surface": "על",
+      "gloss": "noho ny"
+    },
+    {
+      "surface": "עון",
+      "gloss": "heloka"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "nananatra Hianao"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨olona⟩"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "ka nanimba"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "toy ny paka"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "ny ta-drekany"
+    },
+    {
+      "surface": "אך",
+      "gloss": "fa ... tokoa"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "zava-poana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olombelona"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:17.849236119Z",
+  "model": "glm-5.3"
+}

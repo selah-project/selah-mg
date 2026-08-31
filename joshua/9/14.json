@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary ny lehilahy nandray ny hanin'izy ireo, fa ⟨את⟩ vavan'i Yahveh tsy nangatahiny.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Ary ... nandray"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ny lehilahy"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "ny hanin'izy ireo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vavan'i Yahveh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "vavan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "nangatahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T13:58:47.770848596Z",
+  "model": "glm-5.3"
+}

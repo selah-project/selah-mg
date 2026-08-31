@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary nitsetsedika tamin'i Moshe sy tamin'i Aharona tany an'efitra ny fiangonana rehetra amin'ny zanak'i Isiraely.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "Ary nitsetsedika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ny fiangonana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amin'ny zanaka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy tamin'"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "tany an'efitra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:00:35.376764757Z",
+  "model": "glm-5.3"
+}

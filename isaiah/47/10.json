@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 47:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 47,
+  "translation": "Fa niantehina tamin'ny faharatsanao ianao, ka nanao hoe: Tsy misy mahita ahy; ny fahendrenao sy ny fahalalanao ⟨no⟩ nampibedy anao; ary nanao tamin'ny fonao ianao hoe: Izaho, ary tsy misy hafa intsony.",
+  "tokens": [
+    {
+      "surface": "ותבטחי",
+      "gloss": "niantehina"
+    },
+    {
+      "surface": "ברעתך",
+      "gloss": "tamin'ny faharatsanao"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Tsy misy"
+    },
+    {
+      "surface": "ראני",
+      "gloss": "mahita ahy"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "ny fahendrenao"
+    },
+    {
+      "surface": "ודעתך",
+      "gloss": "sy ny fahalalanao"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨no⟩"
+    },
+    {
+      "surface": "שובבתך",
+      "gloss": "nampibedy anao"
+    },
+    {
+      "surface": "ותאמרי",
+      "gloss": "ary nanao"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "tamin'ny fonao"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "ואפסי",
+      "gloss": "ary tsy misy hafa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    }
+  ],
+  "timestamp": "2026-08-31T15:16:48.262334589Z",
+  "model": "glm-5.3"
+}

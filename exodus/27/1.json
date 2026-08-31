@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ary hanao ⟨את⟩ ny alitara ianao, hazo akasia: dimy hakiho ny lavany ary dimy hakiho ny sakanany, efazoro no ho velarin'ny alitara, ary telo hakiho ny haavony.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny alitara"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ny alitara"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "dimy"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hakiho"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ny lavany"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ary dimy"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hakiho"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ny sakanany"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "efazoro"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "no ho"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "velarin'ny alitara"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ary telo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hakiho"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ny haavony"
+    }
+  ],
+  "timestamp": "2026-08-31T13:05:03.131903298Z",
+  "model": "glm-5.3"
+}

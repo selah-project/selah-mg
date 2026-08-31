@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 118,
+  "translation": "Tamin'ny fahoriana niantsoako Yah; Yah namaly ahy tamin'ny malalaka.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "fahoriana"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "niantsoako"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "namaly ahy"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "tamin'ny malalaka"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:21.949179862Z",
+  "model": "glm-5.3"
+}

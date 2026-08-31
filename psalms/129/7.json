@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 129,
+  "translation": "Tsy feno tànana ny mpamokatra ⟨⟨⟩⟩ ary tsy feno trotro ny mpanao amboaran-tsaribe.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "feno"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "tànana"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "ny mpamokatra"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "ary tsy feno trotro"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "ny mpanao amboaran-tsaribe"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:36.835481041Z",
+  "model": "glm-5.3"
+}

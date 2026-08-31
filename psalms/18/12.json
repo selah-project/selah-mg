@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Nametraka ny aizina ho fialofany Izy, fa ny lay manodidina Azy dia aizim-paniriana, aizina rano sy rahona matevina any ambony.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "nametraka"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ny aizina"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "ho fialofany"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "manodidina Azy"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "ny lay"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "aizina"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "rahona matevina"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "any ambony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:39.220626822Z",
+  "model": "glm-5.3"
+}

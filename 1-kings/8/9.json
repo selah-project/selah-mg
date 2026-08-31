@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 8:9",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Tsy misy ao amin'ny fiara, fa ny takelaka vato roa monja, izay napetrak'i Moshe ao amin'i Horeb, izay nataon'i Yahveh fanekena tamin'ny zanak'i Isiraely, tamin'ny nivoahany avy tany amin'ny tany Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Tsy misy"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "ao amin'ny fiara"
+    },
+    {
+      "surface": "רק",
+      "gloss": "fa... monja"
+    },
+    {
+      "surface": "שני",
+      "gloss": "roa"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "takelaka"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "vato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "napetraka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ao"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ao amin'i Horeb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "natao fanekena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "tamin'ny nivoahany"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "avy tany amin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T14:43:12.186909283Z",
+  "model": "glm-5.3"
+}

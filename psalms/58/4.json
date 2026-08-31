@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 58,
+  "translation": "Misaraka avy hatrany am-bohoka ny ratsy fanahy; manao fihavan-diso avy any am-poatra izy, izay miresaka lainga.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "misaraka"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "avy hatrany am-bohoka"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "manao fihavan-diso"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "avy any am-poatra"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "izay miresaka"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "lainga"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:13.989678328Z",
+  "model": "glm-5.3"
+}

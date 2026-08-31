@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 10:3",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary Moshe sy Aharon niditra teo amin'i Parao ka nanao teny taminy hoe: Izao no lazain'i Yahveh, Elohe ny Hebreo: Mandra-pahoviana ianao no tsy mety manetry tena amiko? Alefaso ny olona mba hanompo Ahy.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "niditra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "sy Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "teo amin'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ka nanao teny"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tamininy"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Izao"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "no lazain'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohe"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ny Hebreo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Mandra-pahoviana"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "no"
+    },
+    {
+      "surface": "מאנת",
+      "gloss": "tsy mety"
+    },
+    {
+      "surface": "לענת",
+      "gloss": "manetry tena"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Alefaso"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "mba hanompo Ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:15.552597660Z",
+  "model": "glm-5.3"
+}

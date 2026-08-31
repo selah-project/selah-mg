@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Feo miantso ao an'efitra: Vonoy ny lalan'i Yahveh, ataovy mahitsy ao amin'ny tani-hay lalana ho an'ny Elohinay.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Feo"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "miantso"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ao an'efitra"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "Vonoy"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ny lalan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "ataovy mahitsy"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "ao amin'ny tani-hay"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ho an'ny Elohinay"
+    }
+  ],
+  "timestamp": "2026-08-31T15:15:12.064060932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 65:25",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 65,
+  "translation": "Ny amboa sy ny zanak'ondry hiandry miaraka, ary ny liona handoa bozaka toy ny omby; ary vovoka no hanina ny bibilava; tsy hanao lo tsy handrava izy amin'ny tendrombohitra masinako manontolo, hoy Yahveh.",
+  "tokens": [
+    {
+      "surface": "זאב",
+      "gloss": "ny amboa"
+    },
+    {
+      "surface": "וטלה",
+      "gloss": "sy ny zanak'ondry"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "hiandry miaraka"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "toy ny iray ⟨miaraka⟩"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "ary ny liona"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "toy ny omby"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hano"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "bozaka"
+    },
+    {
+      "surface": "ונחש",
+      "gloss": "ary ny bibilava"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "vovoka"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "no haniny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "hanao lo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "handrava"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... manontolo"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "masinako"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T15:22:07.312691821Z",
+  "model": "glm-5.3"
+}

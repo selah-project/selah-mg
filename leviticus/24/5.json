@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary halainao ⟪sôleta⟫ (farina tsara) ka hohanao ⟨את⟩ izany: mofo roa ambin'ny folo, omby dimy ambin'ny folo ny isan'ny mofo iray.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Ary halainao"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "sôleta (farina tsara)"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "ka hohanao"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "izany (ny mofo roa ambin'ny folo)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "roa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ambin'ny folo"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "mofo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "roa"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "omby dimy ambin'ny folo (isan'efà)"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ny isa"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "ny mofo"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "iray"
+    }
+  ],
+  "timestamp": "2026-08-31T13:20:45.760692897Z",
+  "model": "glm-5.3"
+}

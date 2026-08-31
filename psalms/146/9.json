@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 146,
+  "translation": "Yahveh miaro ⟨את⟩ ny vahiny; ny kamboty sy ny mpitondra tena ⟨⟨ dia⟩⟩ manohana; ary ny lalan'ny ratsy fanahy dia mampivily.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "miaro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahiny"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "ny vahiny"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ny kamboty"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "sy ny mpitondra tena"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "manohana"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ary ny lalana"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ratsy fanahy"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "mampivily"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:32.085582498Z",
+  "model": "glm-5.3"
+}

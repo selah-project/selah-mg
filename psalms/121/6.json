@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 121,
+  "translation": "Tsy hanisy anao ny masoandro amin'ny andro, ary tsy ny volana amin'ny alina.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ny masoandro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "hanisy anao"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ary ny volana"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "amin'ny alina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:15.411499018Z",
+  "model": "glm-5.3"
+}

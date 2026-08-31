@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Mampahoria ⟨את⟩ ny Madianita, ary kapohivo ⟨את⟩ izy.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "Mampahoria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Madianita"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "ny Madianita"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "ary kapohivo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "izy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:33:41.131081598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Raha mampahory azy tokoa ianareo — fa raha mikiakiaka amin'izay izy amiko, hihaino tokoa Aho ny fikiakiakany —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "mampahory"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "tokoa ianareo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "mikiakiaka"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "tokoa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hihaino"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "tokoa Aho"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "ny fikiakiakany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:02:40.764067140Z",
+  "model": "glm-5.3"
+}

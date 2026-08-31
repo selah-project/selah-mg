@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "dia ento ao anivon'ny tranonao izy, ary hety volony izy ary hetezany ny kitay aman-tongonyy,",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "dia ento"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ao"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "anivon'ny"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "tranonao"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "ary hety volony izy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "volony"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "volony"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "ary hataony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kitay aman-tongonyy"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "kitay aman-tongonyy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:46:43.040640300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary avy tamin'ny antsasaky ny firenen'i Menashe: ⟨את⟩ Taanaka sy ⟨את⟩ ny tany manodidina azy, ary ⟨את⟩ Gata-Rimona sy ⟨את⟩ ny tany manodidina azy; tanàna roa.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "avy tamin'ny antsasaky"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "firenen'i"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanaka"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tany manodidina azy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ny tany manodidina azy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Gata-Rimona"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gata-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tany manodidina azy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ny tany manodidina azy"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "roa"
+    }
+  ],
+  "timestamp": "2026-08-31T14:02:52.717731743Z",
+  "model": "glm-5.3"
+}

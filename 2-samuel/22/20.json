@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ka nampivoaka ahy ho any amin'ny malalaka izy, nanafaka ahy ⟨את⟩; fa sitrakoa ahy izy.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ka nampivoaka"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "ho any amin'ny malalaka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ahy"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "nanafaka ahy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "sitrakoa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:37:28.872777524Z",
+  "model": "glm-5.3"
+}

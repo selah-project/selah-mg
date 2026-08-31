@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 77,
+  "translation": "Ho an'ny mpiandraika, araka an'i Yeduton, ho an'i Asaf — salamo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho an'ny mpiandraika"
+    },
+    {
+      "surface": "על",
+      "gloss": "araka"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yeduton"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ho an'i Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "salamo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:04.886311948Z",
+  "model": "glm-5.3"
+}

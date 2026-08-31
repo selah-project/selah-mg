@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 5:2",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary hoy Parao: Iza moa no Yahveh hihainoako ny feony ka hamahanako an'i ⟨את⟩ Isiraely? Tsy fantatro ⟨את⟩ i Yahveh, ary ⟨את⟩ Isiraely koa tsy hamahako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Iza moa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "hihainoako"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "ny feony"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ka hamahako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraely"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "fantatro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ary ... koa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraely"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "hamahako"
+    }
+  ],
+  "timestamp": "2026-08-31T12:55:38.685244925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 69,
+  "translation": "Hiderako anaran'i Elohim amin'ny fihirana, ary hampahalehibeiko Azy amin'ny fankasitrahana.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "hiderako"
+    },
+    {
+      "surface": "שם",
+      "gloss": "anarana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "amin'ny fihirana"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "ary hampahalehibeiko Azy"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "amin'ny fankasitrahana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:38.068213386Z",
+  "model": "glm-5.3"
+}

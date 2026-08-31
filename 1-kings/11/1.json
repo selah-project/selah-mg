@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary ny mpanjaka Shelomoh nifety tia vehivavy vahiny maro, sy ⟨את⟩ zanakavavin'i Parao — Moabita, Amonita, Edomita, Tsidonita, Hetita.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ary ny mpanjaka"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "nifety tia"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "vehivavy"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "vahiny"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "maro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zanakavavin'i Parao"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanakavavy"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "Moabita"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "Amonita"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "Edomita"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "Tsidonita"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Hetita"
+    }
+  ],
+  "timestamp": "2026-08-31T14:45:12.727812350Z",
+  "model": "glm-5.3"
+}

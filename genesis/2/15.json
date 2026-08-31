@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary Yahveh Elohim naka ⟨את⟩ ny olona ka nametraka azy tao amin'ny saha Edena hanompo azy sy hitandrina azy.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ary... naka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny olona"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "ka nametraka azy"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "tao amin'ny saha"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edena"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "hanompo azy"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "sy hitandrina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:42.495212497Z",
+  "model": "glm-5.3"
+}

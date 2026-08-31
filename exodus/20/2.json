@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Izaho no Yahveh, Elohim anao, ilay namoaka anao avy tany amin'ny tany Mitsrayim, avy tao amin'ny tranon'ny fanandevozana.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "namoaka anao"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "avy tany amin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "avy tao amin'ny trano"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "fanandevozana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:01:46.461139391Z",
+  "model": "glm-5.3"
+}

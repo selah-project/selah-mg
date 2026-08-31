@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary noroison'i Shaol ny vaovao fa tonga tao Keilah Davida; dia hoy Shaol: Elohim no namindra ⟨את⟩azy ho eo an-tanako, satria voasakana izy amin'ny fidirana an-tanàna misy varavarana sy bariazana.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "noroison'i Shaol ny vaovao"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ho an'i Shaol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "tao Keilah"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dia hoy"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "namindra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩azy",
+      "marks": "azy (Davida)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ho eo an-tanako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "voasakana"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "amin'ny fidirana"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "an-tanàna"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "misy varavarana"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "sy bariazana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:25:27.612571561Z",
+  "model": "glm-5.3"
+}

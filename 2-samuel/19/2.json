@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Dia voatalaza tamin'i Yoava hoe: Indro, ny mpanjaka mitomany sy mandea manjo noho i Abshaloma.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Dia voatalaza"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "tamin'i Yoava"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "mitomany"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "sy mandea manjo"
+    },
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshaloma"
+    }
+  ],
+  "timestamp": "2026-08-31T14:36:33.193508974Z",
+  "model": "glm-5.3"
+}

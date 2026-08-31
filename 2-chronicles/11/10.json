@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "sy ⟨את⟩ Tsorah sy ⟨את⟩ Ajalon sy ⟨את⟩ Hebrona, izay ao amin'ny Yehuda sy ny Binjamina, tanàna mimanda.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsorah"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ajalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Hebrona"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebrona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ao amin'ny Yehuda"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "sy ny Binjamina"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "mimanda"
+    }
+  ],
+  "timestamp": "2026-08-31T17:44:32.712418022Z",
+  "model": "glm-5.3"
+}

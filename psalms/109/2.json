@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 109,
+  "translation": "Fa ny vavan'ny ratsy fanahy sy ny vava fitaka no nanokatra amiko; niteny ⟨את⟩ ahy tamin'ny fiteny mpandainga izy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ny vavan'ny"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ratsy fanahy"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "sy ny vava"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "fitaka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "nanokatra"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "niteny"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ahy",
+      "marks": "teny mpandainga"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tamin'ny fiteny"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "mpandainga"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:58.040993892Z",
+  "model": "glm-5.3"
+}

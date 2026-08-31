@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ary nony afaka izany dia nankeo ny Zanak'i Isiraely rehetra, ary nadidy azy ⟨את⟩ izay rehetra nolazain'i Yahveh ⟨את⟩ taminy tao amin'ny tendrombohitra Sinay.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Ary nony afaka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "dia nankeo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "ary nadidy azy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay rehetra nolazain'i Yahveh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nolazain'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ taminy"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "tao amin'ny tendrombohitra"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    }
+  ],
+  "timestamp": "2026-08-31T13:09:02.499779494Z",
+  "model": "glm-5.3"
+}

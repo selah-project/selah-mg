@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "Tsy ianao va no ilay nanamoka ny ranomasina, ny rano lalina lehibe, ilay nanao ny lalina ho lalana ho an'ny voavotra hivahiny?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Tsy ... va"
+    },
+    {
+      "surface": "את",
+      "gloss": "ianao",
+      "marks": "hijoro ho mpamainka ny ranomasina"
+    },
+    {
+      "surface": "היא",
+      "gloss": "no ilay"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "nanamoka"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ny ranomasina"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ny rano"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "lalina"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "ny lalina"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ranomasina"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ho lalana"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "hivahiny"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "ho an'ny voavotra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:18:36.009709046Z",
+  "model": "glm-5.3"
+}

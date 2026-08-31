@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "⟨את⟩ ny fiara vositran'ny Vavolombelona sy ⟨את⟩ ny barany ary ⟨את⟩ ny tsindrian-kena",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiara vositran'ny Vavolombelona"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "ny fiara"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "vositran'ny Vavolombelona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny barany"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ny barany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny tsindrian-kena"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ny tsindrian-kena"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:43.039821753Z",
+  "model": "glm-5.3"
+}

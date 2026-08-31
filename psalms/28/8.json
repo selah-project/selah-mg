@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Yahveh no herin'ny olony, ary mandeo fiarovana mahavonjy ho an'ny Mesianiny (ilay voahosotra) izy.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "herin'ny"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ny olony"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "mandeo fiarovana"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "mahavonjy"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "ho an'ny Mesianiny (ilay voahosotra)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:07.375726590Z",
+  "model": "glm-5.3"
+}

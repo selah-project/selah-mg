@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 6:8",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary hitondraiko ⟨את⟩ anareo ho any amin'ny tany izay nanandratanao ⟨את⟩ ny tànako hanome azy ho an'i Avraham, ho an'i Yitschak ary ho an'i Yaakov; ary homeko ⟨את⟩ ho anareo izany ho lovaina: Izaho no Yahveh.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "hitondraiko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "nanandratanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tànako"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tànako"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "hanome"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ho an'i Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ho an'i Yitschak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "ary ho an'i Yaakov"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ary homeko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "lovaina"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T12:55:37.278013735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary tamin'ny aorian'izany dia namely Davida ⟨את⟩ ny Filistina ka nanetry azy, ary naka an'i Gata mbamin'ny zanakavahiny tamin'ny tànan'ny Filistina.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "aorian'"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "namely"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Filistina"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Filistina"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "nanetry azy"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "naka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Gata"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gata"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "mbamin'ny zanakavahiny"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tamin'ny tànan'"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Filistina"
+    }
+  ],
+  "timestamp": "2026-08-31T17:38:50.701001860Z",
+  "model": "glm-5.3"
+}

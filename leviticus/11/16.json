@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "sy ⟨את⟩ ny zanakavavin'ny yaanah sy ⟨את⟩ ny tahmas sy ⟨את⟩ ny shahaf ary ⟨את⟩ ny nets araka ny karazany.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny zanakavavin'ny yaanah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanakavavy"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "ny yaanah (trondro gisy)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tahmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "ny tahmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny shahaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "ny shahaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny nets"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "ny nets (voromahery kely)"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "araka ny karazany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:14:33.783472448Z",
+  "model": "glm-5.3"
+}

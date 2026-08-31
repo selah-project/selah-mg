@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary rehefa ren'i Baasha izany, dia nitsahatra tamin'ny fanorenana ⟨את⟩ ny Rama izy, ary nipetraka tany Tirtza.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary rehefa"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ren'i"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "nitsahatra"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "tamin'ny fanorenana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "ny Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ary nipetraka"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "tany Tirtza"
+    }
+  ],
+  "timestamp": "2026-08-31T14:47:25.020160678Z",
+  "model": "glm-5.3"
+}

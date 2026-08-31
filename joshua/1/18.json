@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Izay olona rehetra handa ⟨את⟩ ny vavanao ka tsy hihaino ⟨את⟩ ny teninao, amin'izay rehetra andidiàny azy, dia hatao maty; fa mahereza sady matanjaha.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "izay... rehetra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "handa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vavanao"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ny vavanao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hihaino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny teninao"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ny teninao"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "amin'izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "andidiàny azy"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "hatao maty"
+    },
+    {
+      "surface": "רק",
+      "gloss": "fa"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "mahereza"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "sady matanjaha"
+    }
+  ],
+  "timestamp": "2026-08-31T18:00:16.670332957Z",
+  "model": "glm-5.3"
+}

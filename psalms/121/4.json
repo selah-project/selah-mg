@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 121,
+  "translation": "Indro, tsy matory mandry izy, ary tsy matory mafy izy — ilay mpiambina an'i Yisraela.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "matory mandry"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "matory mafy"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ilay mpiambina an'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:02.382802141Z",
+  "model": "glm-5.3"
+}

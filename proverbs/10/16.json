@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ny asan'ny marina dia ho an'ny fiainana, fa ny vokatr'ilay ratsy fanahy dia ho an'ny fahotana.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "ny asan'ny"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "marina"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "ho an'ny fiainana"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ny vokatr'ilay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ratsy fanahy"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ho an'ny fahotana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:52:43.069755016Z",
+  "model": "glm-5.3"
+}

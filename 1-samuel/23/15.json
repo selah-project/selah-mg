@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Dia hitan'i Davida fa efa nivoaka Shaol hitady ⟨את⟩ ny ainy; ary Davida tao anaty efitra i Zifa, tao amin'ny Horesha.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Dia hitan'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "efa nivoaka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "hitady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ainy"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ny ainy"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ary Davida"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "tao anaty efitra"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "i Zifa"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "tao amin'ny Horesha"
+    }
+  ],
+  "timestamp": "2026-08-31T18:31:38.779515445Z",
+  "model": "glm-5.3"
+}

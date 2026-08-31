@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary hanolotra ⟨את⟩ Isiraely izy, noho ny fahotan'i Yarovama, izay nataony nanota, sy izay nampahotany ⟨את⟩ Isiraely.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "hanolotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraely"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "noho"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "ny fahotan'i"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "nanota"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "sy izay"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "nampahotany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraely"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    }
+  ],
+  "timestamp": "2026-08-31T14:46:30.941334005Z",
+  "model": "glm-5.3"
+}

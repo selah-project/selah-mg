@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Voatriatra ny tanàna ⟨ny⟩ faharedoana; voahidy trano rehetra tsy azo idirana.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "voatriatra"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ny tanàna"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "⟨ny⟩ faharedoana"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "voahidy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "tsy azo idirana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:08:38.876327144Z",
+  "model": "glm-5.3"
+}

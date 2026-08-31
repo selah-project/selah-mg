@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 23:2",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Dia niantso Yehoshua ny Isiraela rehetra, ny anti-panahiny sy ny lohany sy ny mpitsarany sy ny mpitan-tsariny, ka nanao taminy hoe: Izaho efa antitra, efa tonga tamin'ny andro.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Dia niantso"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraela"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "ny anti-panahiny"
+    },
+    {
+      "surface": "ולראשיו",
+      "gloss": "sy ny lohany"
+    },
+    {
+      "surface": "ולשפטיו",
+      "gloss": "sy ny mpitsarany"
+    },
+    {
+      "surface": "ולשטריו",
+      "gloss": "sy ny mpitan-tsariny"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tamininy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "efa antitra"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "efa tonga"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "tamin'ny andro"
+    }
+  ],
+  "timestamp": "2026-08-31T18:00:37.421639685Z",
+  "model": "glm-5.3"
+}

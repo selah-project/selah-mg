@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Fa hianareo efa nanao hoe: Yahveh efa nanangana mpaminany ho anay any Babela;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "hianareo efa nanao hoe"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "efa nanangana"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho anay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "mpaminany"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "any Babela"
+    }
+  ],
+  "timestamp": "2026-08-31T15:36:32.373582086Z",
+  "model": "glm-5.3"
+}

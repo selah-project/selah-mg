@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 60,
+  "translation": "Ahy i Gilada, ary ahy i Menashe; Efraima no fiarovana an-dohako; Yehoda no mpanao lalàna ahy.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilada"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ary ahy"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "Efraima"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "fiarovana"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "lohako"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehoda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "mpanao lalàna ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:51.850336948Z",
+  "model": "glm-5.3"
+}

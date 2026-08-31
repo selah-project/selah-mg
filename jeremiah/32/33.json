@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 32:33",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ary nandrefy ny lamosa ho ahy izy fa tsy ny tava; ary efa nampianatra ⟨את⟩ azy aho — miahatrany sy nampianatra — fa tsy mihaino izy haka fampianarana.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "nandrefy"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "lamosa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "tava"
+    },
+    {
+      "surface": "ולמד",
+      "gloss": "efa nampianatra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "miahatrany"
+    },
+    {
+      "surface": "ולמד",
+      "gloss": "sy nampianatra"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "mihaino"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "haka"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "fampianarana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:37:54.071014506Z",
+  "model": "glm-5.3"
+}

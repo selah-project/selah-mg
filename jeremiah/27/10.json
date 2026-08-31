@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 27:10",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Fa lainga no ampaminaniny aminareo, mba hampalavitra anareo ⟨את⟩ hiala amin'ny taninareo; ary hosoroko hiala ⟨את⟩ ianareo ka ho ringana ianareo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lainga"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izy"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "maminany"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aminareo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mba"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "hampalavitra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "hiala amin'ny"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "taninareo"
+    },
+    {
+      "surface": "והדחתי",
+      "gloss": "ary hosoroko hiala"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ianareo"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "ka ho ringana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:34:37.466652462Z",
+  "model": "glm-5.3"
+}

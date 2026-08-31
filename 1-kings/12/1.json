@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Dia nandeha Rehabeama ho any Shekema, fa tany Shekema no tonga ny Isiraely rehetra hanendry azy ho mpanjaka ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeama"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekema"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekema"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "hanendry ho mpanjaka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:44:49.633846747Z",
+  "model": "glm-5.3"
+}

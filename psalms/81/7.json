@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 81,
+  "translation": "Nesoriko tamin'ny enta-mavesatra ny sorony; ny tànany dia afaka tamin'ny harona entana.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "Nesoriko"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "tamin'ny enta-mavesatra"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ny sorony"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "ny tànany"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "tamin'ny harona"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "afaka \/ mandalo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:34.950980675Z",
+  "model": "glm-5.3"
+}

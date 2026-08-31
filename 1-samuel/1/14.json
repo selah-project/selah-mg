@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary Eli nanao taminy hoe: Mandra-pahoviana ianao no ho mamo? Esory aminao ⟨את⟩ ny divainao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary nanao hoe"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Mandra-"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "pahoviana"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "ianao no ho mamo"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "Esory"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny divainao"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "ny divainao"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:14:10.273809309Z",
+  "model": "glm-5.3"
+}

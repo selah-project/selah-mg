@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 46:2",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 46,
+  "translation": "Ary Elohim niteny tamin'Israely tamin'ny fahitana nonina, ka nanao hoe: Yaakov! Yaakov! Ary izy nanao hoe: Indro aho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "niteny"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "tamin'Israely"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "tamin'ny fahitana"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nonina"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Indro aho"
+    }
+  ],
+  "timestamp": "2026-08-31T12:52:18.534267875Z",
+  "model": "glm-5.3"
+}

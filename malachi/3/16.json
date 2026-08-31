@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "malachi 3:16",
+  "book": "malachi",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary tamin'izany dia niresaka ny matahotra an'i Yahveh, samy tamin'ny ⟨את⟩ namany ⟨samy⟩; ary Yahveh nanokana sofina ka nihaino, ary nosoratana teo anatrehany boky fahatsiarovana ho an'ireo matahotra an'i Yahveh sy ireo mandinika ny anarany.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ary tamin'izany"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "dia niresaka"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ny matahotra an'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨samy⟩ olona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namany"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "tamin'ny namany"
+    },
+    {
+      "surface": "ויקשב",
+      "gloss": "nanokana sofina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ka nihaino"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "ary nosoratana"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "boky"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "fahatsiarovana"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "teo anatrehany"
+    },
+    {
+      "surface": "ליראי",
+      "gloss": "ho an'ireo matahotra an'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ולחשבי",
+      "gloss": "sy ireo mandinika"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ny anarany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:30.059463986Z",
+  "model": "glm-5.3"
+}

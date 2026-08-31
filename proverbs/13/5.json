@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Teny sandoka halan'ny marina, fa ny ratsy fanahy dia mamofo ka mahamenarana.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "teny"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sandoka"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "halan'ny"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "marina"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "fa ny ratsy fanahy"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "mamofo"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "ka mahamenarana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:52:13.454285845Z",
+  "model": "glm-5.3"
+}

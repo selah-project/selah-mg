@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 14:2",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Mitenao amin'ny zanak'i Isiraely ka hiverina izy ka hitoby eo anoloan'i Pi-haHirot, eo anelanelan'i Migdol sy ny ranomasina, eo anoloan'i Baal-Tsefona; mifanandrify aminy no hitobianareo, eo amoron'ny ranomasina.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Mitenao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "hiverina izy"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "hitoby"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anoloan'i"
+    },
+    {
+      "surface": "פי",
+      "gloss": "Pi-"
+    },
+    {
+      "surface": "החירת",
+      "gloss": "haHirot"
+    },
+    {
+      "surface": "בין",
+      "gloss": "eo anelanelan'i"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "Migdol"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ny ranomasina"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anoloan'i"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "Tsefona"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "mifanandrify aminy"
+    },
+    {
+      "surface": "תחנו",
+      "gloss": "hitobianareo"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amoron'ny"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ranomasina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:00:11.324672101Z",
+  "model": "glm-5.3"
+}

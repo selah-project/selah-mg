@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary Avimeleha tsy nankeo aminy, ka nanao izy hoe: Adonay, vahoaka marina koa va no hamonoanao?",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "Ary Avimeleha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "nankeo aminy"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao izy hoe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "marina"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "hamonoanao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:40:17.341868841Z",
+  "model": "glm-5.3"
+}

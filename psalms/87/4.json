@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 87,
+  "translation": "Manonona Rahaba sy Babilona aho amin'izay mahalala ahy; indro Peliseta sy Tiro miaraka amin'i Kosy: ity no teraka tao.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Manonona"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahaba"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "sy Babilona"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "amin'izay mahalala"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peliseta"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "sy Tiro"
+    },
+    {
+      "surface": "עם",
+      "gloss": "miaraka amin'i"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kosy"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "no teraka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:43.419016259Z",
+  "model": "glm-5.3"
+}

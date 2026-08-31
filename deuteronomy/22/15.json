@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Dia halan'ny rain'ny zazavavy sy ny reniny ⟨ny famantarana ny maha-virijina ny zazavavy⟩, ka hentony any amin'ny anti-panahin'ny tanàna, eo am-baravaran'ny tanàna:",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "halan'ny"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rain'ny"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "zazavavy"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "sy ny reniny"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "ka hentony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny famantarana ny maha-virijina"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "ny famantarana ny maha-virijina"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ny zazavavy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "any amin'ny"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "anti-panahin'ny"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "eo am-baravaran'ny tanàna"
+    }
+  ],
+  "timestamp": "2026-08-31T13:48:21.696124484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 24:7",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Mandry ny alina no tsy misy akanjo izy, ary tsy misy fitafiana amin'ny hatsiaka.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "tsy misy akanjo"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "mandry ny alina"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "akanjo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ary tsy misy"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "fitafiana"
+    },
+    {
+      "surface": "בקרה",
+      "gloss": "amin'ny hatsiaka"
+    }
+  ],
+  "timestamp": "2026-08-31T17:04:45.355273668Z",
+  "model": "glm-5.3"
+}

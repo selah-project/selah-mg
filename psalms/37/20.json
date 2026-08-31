@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Fa ny ratsy fanahy ho very, ary ny fahavalon'i Yahveh ho levona toy ny tavin'ny ondry; ho levona ho setroka, ho levona tokoa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ho very"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "ary ny fahavalon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "toy ny tavin'ny"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "ondry"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ho levona"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "ho setroka"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ho levona tokoa"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:58.332912099Z",
+  "model": "glm-5.3"
+}

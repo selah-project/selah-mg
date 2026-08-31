@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "sy ⟨את⟩ ny fototry ny kianja manodidina, sy ⟨את⟩ ny fototry ny vavahadin'ny kianja, sy ⟨את⟩ ny tsorakazo rehetra amin'ny lay, ary sy ⟨את⟩ ny tsorakazo rehetra amin'ny kianja manodidina.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "fototry ny kianja manodidina"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "fototra"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "amin'ny kianja"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "fototry ny vavahadin'ny kianja"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "fototra"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vavahady"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "amin'ny kianja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "tsorakazo rehetra amin'ny lay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "tsorakazo"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "amin'ny lay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "tsorakazo rehetra amin'ny kianja manodidina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "tsorakazo"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "amin'ny kianja"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:09:01.004095472Z",
+  "model": "glm-5.3"
+}

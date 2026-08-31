@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Tsy mahasoa ny rakitry ny ratsy ⟨ ⟩, fa ny fahamarinana manafaka amin'ny fahafatesana.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "mahasoa"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "rakitra"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ny ratsy"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "fa ny fahamarinana"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "manafaka"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "amin'ny fahafatesana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:50:54.849297399Z",
+  "model": "glm-5.3"
+}

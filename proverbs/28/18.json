@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 28:18",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Izay mandeha amin'ny fahatokiana dia hovonjena; fa izay mivadika amin'ny lalany dia ho latsaka ⟨amin'ny indray mandeha⟩.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "amin'ny fahatokiana"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "hovonjena"
+    },
+    {
+      "surface": "ונעקש",
+      "gloss": "mivadika"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "amin'ny lalany"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ho latsaka"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "amin'ny indray mandeha"
+    }
+  ],
+  "timestamp": "2026-08-31T16:57:40.922299185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 29:17",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Tsy mbola ⟨ao⟩ amin'ny fahavarifariny kely sy fohy va, ary hovana ho tonga karmela ny Lebanona, ary ho isain'ala ny karmela?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Tsy mbola... va"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mbola"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kely"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "sy fohy"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ary hovana ho"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ny Lebanona"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "ho tonga karmela"
+    },
+    {
+      "surface": "והכרמל",
+      "gloss": "ary ny karmela"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "ho isain'ala"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ho isaina"
+    }
+  ],
+  "timestamp": "2026-08-31T15:10:49.437595460Z",
+  "model": "glm-5.3"
+}

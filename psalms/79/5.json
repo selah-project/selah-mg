@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 79,
+  "translation": "Rahoviana no farany, ry Yahveh? Hahatezitra mandrakizay ve ianao? Ho may tahaka ny afo va ny fahatezeranao?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Rahoviana no farany"
+    },
+    {
+      "surface": "מה",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "hahatezitra"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ho may"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "tahaka"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ny afo"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "ny fahatezeranao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:39.567764214Z",
+  "model": "glm-5.3"
+}

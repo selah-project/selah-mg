@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary hiara-miombon'antoka aminareo ⟨את⟩ hisy lehilahy isan'ny foko, lehilahy samy lohan'ny taranak'ny rainy avy.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ aminareo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "hisy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "isan'ny foko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "loha"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "lohan'ny taranaky"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ny rainy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "avy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:23:48.258867806Z",
+  "model": "glm-5.3"
+}

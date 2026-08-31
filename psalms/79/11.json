@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 79,
+  "translation": "Aoka hidiranao ny fintinan'ny voafonja; araka ny haben'ny sandrinao, afaho ny zanaky ny fahafatesana.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Aoka hidiranao"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "(eo anatrehanao)"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "ny fintinan'ny"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "voafonja"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "araka ny haben'ny"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "sandrinao"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "afaho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny zanaky ny"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "fahafatesana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:07.962658300Z",
+  "model": "glm-5.3"
+}

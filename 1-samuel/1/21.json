@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary niakatra ilay lehilahy Elkanah sy ny tokatrano rehetra mba hanatitra ho an'i Yahveh ⟨את⟩ ny fanatitry ny andro ary ⟨את⟩ ny niriany.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Ary niakatra"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ilay lehilahy"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ny … rehetra"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "tokatranony"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "mba hanatitra"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanatitra"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "fanatitra"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ny andro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny niriany"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "ny niriany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:14:47.714673005Z",
+  "model": "glm-5.3"
+}

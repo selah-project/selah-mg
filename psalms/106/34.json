@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Tsy naringany ⟨את⟩ ny firenena izay nolazain'i Yahveh taminy,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "naringany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny firenena"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ny firenena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nolazain'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "taminy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:31.957375556Z",
+  "model": "glm-5.3"
+}

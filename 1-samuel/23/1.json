@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary nilaza tamin'i Davida izy nanao hoe: Indro, ny Filistita miady amin'i Qeila, ka izy mamabo ⟨את⟩ ny lakambas.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "nilaza"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "tamin'i Davida"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Filistita"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "miady"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "amin'i Qeila"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ka izy"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "mamabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lakambas"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "ny lakambas"
+    }
+  ],
+  "timestamp": "2026-08-31T14:23:32.820969463Z",
+  "model": "glm-5.3"
+}

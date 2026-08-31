@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary rehefa ren'ny mponina tao Givon izay nataon'i Yehoshoa tamin'i Yericho sy tamin'i Ay,",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "Ary ny mponina"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "tao Givon"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "rehefa ren'ny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay nataon'i Yehoshoa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataon'i"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoa"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "tamin'i Yericho"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "sy tamin'i Ay"
+    }
+  ],
+  "timestamp": "2026-08-31T13:59:01.232663996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 2:4",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ireto no taranaka ⟨ny tantara⟩ nivanohan'ny lanitra sy ny tany fony noforonina izy, tamin'ny andro nanaovan'i Yahveh Elohim ny tany sy ny lanitra.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ireto"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "taranaka ⟨ny tantara⟩"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "sy ny tany"
+    },
+    {
+      "surface": "בהבראם",
+      "gloss": "fony noforonina izy"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "nanaovana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "sy lanitra"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:35.978966258Z",
+  "model": "glm-5.3"
+}

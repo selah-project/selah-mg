@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary nandoto ⟨את⟩ ny Tofeta izay ao amin'ny lohasahan'ny zanak'i Hinoma izy, mba tsy hisy hampandehatra olona ⟨את⟩ zanany lahy sy ⟨את⟩ zanany vavy amin'ny afo ho an'i Moleka.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "Ary nandoto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Tofeta"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "ny Tofeta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "ao amin'ny lohasahan'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinoma"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "mba tsy hisy"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "hampandehatra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zanany lahy"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany lahy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "zanany vavy"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "zanany vavy"
+    },
+    {
+      "surface": "באש",
+      "gloss": "amin'ny afo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ho an'i Moleka"
+    }
+  ],
+  "timestamp": "2026-08-31T15:00:35.014420522Z",
+  "model": "glm-5.3"
+}

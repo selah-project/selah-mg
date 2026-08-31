@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Debrica folo ny halavan'ny teza ⟨⟨iray⟩⟩, ary brica iray sy sasany ny sakan'ny teza iray.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "folo"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "debrica"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "halavan'"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ny teza"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ary brica iray"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "sy sasany"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ny brica"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "sakan'"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ny teza"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "iray"
+    }
+  ],
+  "timestamp": "2026-08-31T17:57:05.071500787Z",
+  "model": "glm-5.3"
+}

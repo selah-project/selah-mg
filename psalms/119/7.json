@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Hisaotra anao aho amin'ny fahitsian'ny fo, rehefa mianatra ny fitsarana marinao.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "hisaotra anao aho"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "amin'ny fahitsian'ny"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "rehefa mianatra"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ny fitsarana"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "marinao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:32.060920674Z",
+  "model": "glm-5.3"
+}

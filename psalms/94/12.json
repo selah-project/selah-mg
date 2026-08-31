@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 94,
+  "translation": "Sambatra ny lehilahy izay anitsianao, ry Yah, ary avy amin'ny lalànao no ampianarinao azy.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "sambatra"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "anitsianao"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "ary avy amin'ny lalànao"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "ampianarinao azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:09.140248900Z",
+  "model": "glm-5.3"
+}

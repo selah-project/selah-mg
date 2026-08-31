@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 115,
+  "translation": "Voahosoahan'i Yahveh hianareo, izay mpanao ny lanitra sy ny tany.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "voahosoahan'"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hianareo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mpanao"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "sy ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:16.154491653Z",
+  "model": "glm-5.3"
+}

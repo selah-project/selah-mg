@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 41:22",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Ary hitako tamin'ny nofinoko, ary indro, sampaho fito niakatra tamin'ny tahony iray, feno ary tsara.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "Ary hitako"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "tamin'ny nofinoko"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ary indro"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "fito"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "sampaho"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "niakatra"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "tamin'ny tahony"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "feno"
+    },
+    {
+      "surface": "וטבות",
+      "gloss": "ary tsara"
+    }
+  ],
+  "timestamp": "2026-08-31T17:55:56.404881191Z",
+  "model": "glm-5.3"
+}

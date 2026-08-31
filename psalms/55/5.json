@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 55,
+  "translation": "Ny foko mihodinkodina ao anatiko, ary ny fahatairana ny fahafatesana efa latsaka amiko.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "mihodinkodina"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ao anatiko"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "ary ny fahatairana"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ny fahafatesana"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "efa latsaka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:27.299375924Z",
+  "model": "glm-5.3"
+}

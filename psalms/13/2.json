@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Mandra-pahoviana, ry Yahveh, no hihaingo anao ahy — tsia: Mandra-pahoviana ianao no hihaingo ahy mandrakizay? Mandra-pahoviana no hanafina ⟨את⟩ ny tavanao amiko?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "pahoviana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "no hihaingo ahy"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "pahoviana"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "no hanafina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavanao"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ny tavanao"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:54.386172309Z",
+  "model": "glm-5.3"
+}

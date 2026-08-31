@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 147,
+  "translation": "Yahveh manangana ny fanahy malemy, fa manetry ny ratsy fanahy hatrany an-tany.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "manangana"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ny fanahy malemy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "fa manetry"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "hatrany"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "an-tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:06.671751466Z",
+  "model": "glm-5.3"
+}

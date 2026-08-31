@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Mahazoa fahendrena, mahazoa fahalalana; aza manadino, ary aza mivily hiala amin'ny teny mivoaka amin'ny vavako.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "mahazoa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "fahendrena"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "mahazoa"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "fahalalana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "manadino"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תט",
+      "gloss": "mivily"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "hiala amin'ny teny"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mivoaka amin'ny vavako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:49:09.468895475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Izany no mahatsiarovako ka manidina ny aiko ato amiko; fa mandalo ao amin'ny fihirana aho, mandeha miadana miaraka aminy, ho any an-tranon'ny Elohim, amin'ny fe hobin'ny fihirana sy fisaorana, miaraka amin'ny vahoaka manao fety.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Izany"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "mahatsiarovako"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "ka manidina"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ato amiko"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "mandalo"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "ao amin'ny fihirana"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "mandeha miadana miaraka aminy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho any"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tronon'ny"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "amin'ny fe"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "hobin'ny fihirana"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "sy fisaorana"
+    },
+    {
+      "surface": "המון",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "manao fety"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:32.263046926Z",
+  "model": "glm-5.3"
+}

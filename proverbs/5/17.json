@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ho anao irery ihany amin'ireo ⟨loharano⟩, fa tsy ho an'ny vahiny ⟨miaraka⟩ aminao.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "irery ihany"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "ho an'ny vahiny"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ aminao",
+      "marks": "amin'ny vahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:49:29.930427248Z",
+  "model": "glm-5.3"
+}

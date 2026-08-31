@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary Noaka nivoaka, mbamin'ny zanany lahy, sy ny vadiny, ary ny vadin'ny zanany ⟨את⟩ aro.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "nivoaka"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaka"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "zanany lahy"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ny vadiny"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ny vadin'ny"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ aro"
+    }
+  ],
+  "timestamp": "2026-08-31T12:36:29.896351428Z",
+  "model": "glm-5.3"
+}

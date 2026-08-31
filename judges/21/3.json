@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 21:3",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary hoy izy: Nahoana no mitranga izany, ry Yahveh, Elohim-n'ny Isiraely, ao amin'ny Isiraely — ho very anio amin'ny Isiraely foko iray?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Nahoana no"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-n'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "mitranga"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izany"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ao amin'ny Isiraely"
+    },
+    {
+      "surface": "להפקד",
+      "gloss": "ho very"
+    },
+    {
+      "surface": "היום",
+      "gloss": "anio"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "amin'ny Isiraely"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "foko"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    }
+  ],
+  "timestamp": "2026-08-31T14:13:50.740102966Z",
+  "model": "glm-5.3"
+}

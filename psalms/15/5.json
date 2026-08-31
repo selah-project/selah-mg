@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ny volafotsiny tsy nomeny amin'ny tamby, ary kolokolena hanoherana ny marina tsy noraisiny; izay manao izany dia tsy hangovitra mandrakizay.",
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "Ny volafotsiny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nomeny"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "amin'ny tamby"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "ary kolokolena"
+    },
+    {
+      "surface": "על",
+      "gloss": "hanoherana"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ny marina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "noraisiny"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "manao"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "izany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "hangovitra"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:51.568203672Z",
+  "model": "glm-5.3"
+}

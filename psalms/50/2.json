@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 50,
+  "translation": "Avy ao Ziona, tanteraka amin'ny hatsarana, Elohim niseho tamin'ny famirapiratana.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "Avy ao Ziona"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "tanteraka amin'ny"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "hatsarana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "niseho tamin'ny famirapiratana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:11.580577772Z",
+  "model": "glm-5.3"
+}

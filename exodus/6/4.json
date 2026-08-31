@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary Izaho koa nanangana ⟨את⟩ ny fanekeniako ⟨את⟩ tamy ireo, hanomezana azy ireo ⟨את⟩ ny tany Kenana, ⟨את⟩ ny tany nivahiniany, izay nivahiny tao.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ary ... koa"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "Izaho nanangana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanekeniako"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ny fanekeniako"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ tamy"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "hanomezana"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy ireo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany Kenana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany nivahiniany"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "nivahiniany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "nivahiny"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:55:32.597669512Z",
+  "model": "glm-5.3"
+}

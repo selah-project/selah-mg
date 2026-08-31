@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 116,
+  "translation": "Ninoako, fa hiteny aho; izaho dia voafehy fahoriana be.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "ninoako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "hiteny"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aho; izaho"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "voafehy fahoriana aho"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "be"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:21.313404282Z",
+  "model": "glm-5.3"
+}

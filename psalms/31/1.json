@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ho an'ny mpibanjkira. Mizhamoatra ho an'i Davida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho an'ny mpibanjkira"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizhamoatra"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ho an'i Davida"
+    }
+  ],
+  "timestamp": "2026-08-31T18:34:37.707363910Z",
+  "model": "glm-5.3"
+}

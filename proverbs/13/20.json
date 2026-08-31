@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Izay mandeha ⟨את⟩ amin'ny hendry dia ho hendry; fa ny mmpiara-monina amin'ny adala dia ho voa loatra.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hendry"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "hendry"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ho hendry"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "mpiara-monina amin'ny"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "adala"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "voa loatra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:52:57.446318953Z",
+  "model": "glm-5.3"
+}

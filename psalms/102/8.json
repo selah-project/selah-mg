@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 102,
+  "translation": "Tsy matory feno aho, ka tonga toy ny vorona mitoetra irery ambony tampon'ny trano.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "Tsy matory feno aho"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "ka tonga"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "toy ny vorona"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "mitoetra irery"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambony"
+    },
+    {
+      "surface": "גג",
+      "gloss": "tampon'ny trano"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:09.293070079Z",
+  "model": "glm-5.3"
+}

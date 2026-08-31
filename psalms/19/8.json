@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Toràn'i Yahveh tonga lafatra, mamerina ⟨ny⟩ aina; ny fambaràn'i Yahveh azo itokisana, mahasaina ny tsy ampy fahalalana.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "toràn'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "tonga lafatra"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "mamerina"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "aina"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "fambaràn'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "azo itokisana"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "mahasaina"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "tsy ampy fahalalana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:02.793513076Z",
+  "model": "glm-5.3"
+}

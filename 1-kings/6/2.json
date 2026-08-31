@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 6:2",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary ny trano izay norentin'ny mpanjaka Shelomoh ho an'i Yahveh — enim-polo havana ny halavany, roa-polo havana ny sakany, ary telo-polo havana ny haavony.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "Ary ny trano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "norentina"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "enim-polo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "havana"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ny halavany"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "roa-polo"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ny sakany"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "telo-polo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "havana"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ny haavony"
+    }
+  ],
+  "timestamp": "2026-08-31T14:41:27.163100791Z",
+  "model": "glm-5.3"
+}

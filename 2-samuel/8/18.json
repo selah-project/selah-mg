@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 8:18",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "ary Benaià zanak'i Yehôiadà ⟨tamin'ny⟩ Keretita sy Peletita; ary ny zanak'i Davida dia mpisorona.",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "ary Benaià"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehôiadà"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "sy ⟨tamin'ny⟩ Keretita"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "sy Peletita"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ary ny zanaka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "היו",
+      "gloss": "dia"
+    }
+  ],
+  "timestamp": "2026-08-31T14:30:42.063250674Z",
+  "model": "glm-5.3"
+}

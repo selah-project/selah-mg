@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary ireo no taranak'i Noa: Shem, Ham ary Yafeta; ary nateraka taminy zanaka taorian'ny safodrano.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ary ireo"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "taranaka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "an'i"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "ary Yafeta"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "nateraka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "taorian'ny"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "safodrano"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:27.745829505Z",
+  "model": "glm-5.3"
+}

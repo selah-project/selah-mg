@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Loaka anao, ry tany, rehefa zazalahy no mpanjakanao, ary ny mpanapahanao mihinan-kena maraina!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Loaka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ry tany"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "mpanjakanao"
+    },
+    {
+      "surface": "נער",
+      "gloss": "zazalahy"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "ary ny mpanapahanao"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "maraina"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mihinan-kena"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:51.598551871Z",
+  "model": "glm-5.3"
+}

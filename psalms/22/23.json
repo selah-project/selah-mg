@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Hanolaza ny anaranao amin'ny rahalahiko; ao anivon'ny fivoriambe hanome dera anao aho.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Hanolaza"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ny anaranao"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "amin'ny rahalahiko"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ao anivon'ny"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "fivoriambe"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "hanome dera anao aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:46.257586103Z",
+  "model": "glm-5.3"
+}

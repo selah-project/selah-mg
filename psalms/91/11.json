@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 91,
+  "translation": "Fa ⟨izy⟩ hididy ny anjely momba anao hitandrina anao amin'ny lalanao rehetra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "ny anjely"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "hididy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "momba anao"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "hitandrina anao"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "lalanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:08.019965039Z",
+  "model": "glm-5.3"
+}

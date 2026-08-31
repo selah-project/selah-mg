@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 36:16",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Aza mihaino an'i Chizkiyaho, fa izao no lazain'ny mpanjakan'i Ashur: Manaova ⟨את⟩ fanantenana amiko, ary mivoaha ary aty amiko, dia hihinana ⟨את⟩ ny voaloboky ny olona tsirairay sy avi-pikany tsirairay ianareo, ary hisotro rano avy amin'ny lavaka fantsony tsirairay:",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mihaino"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an'i"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyaho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "izao"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "no lazain'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjakan'"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Manaova"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ amiko"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "fanantenana"
+    },
+    {
+      "surface": "וצאו",
+      "gloss": "mivoaha"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aty amiko"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "hihinana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ny olona tsirairay"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "ny voaloboky"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "sy... tsirairay"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "avi-pikany"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "hisotro"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tsirairay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "rano"
+    },
+    {
+      "surface": "בורו",
+      "gloss": "avy amin'ny lavaka fantsony"
+    }
+  ],
+  "timestamp": "2026-08-31T15:13:23.976851509Z",
+  "model": "glm-5.3"
+}

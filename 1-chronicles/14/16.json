@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary nataon'i Davida araka ny nandidian'i Elohim azy; ary namely ⟨את⟩ ny tobin'ny Filistina izy hatramin'i Gibeona ka hatrany Gezera.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nataon'i"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "nandidiany azy"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "namely izy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tobin'ny Filistina"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "toby"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistina"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "hatramin'i Gibeona"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatrany"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezera"
+    }
+  ],
+  "timestamp": "2026-08-31T18:19:58.317382822Z",
+  "model": "glm-5.3"
+}

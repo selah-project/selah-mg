@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 5:6",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary tamin'izany andro izany Parao nandidy ⟨את⟩ ny mpifehy mpanao terena teo amin'ny vahoaka sy ⟨את⟩ ny mpitandrina azy, hoe:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "nandidy"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpifehy mpanao terena"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "mpifehy mpanao terena"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "teo amin'ny vahoaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny mpitandrina azy"
+    },
+    {
+      "surface": "שטריו",
+      "gloss": "mpitandrina azy"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T12:55:58.710817233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary ⟨את⟩ ny ranomasina nametraka izy eo amin'ny soroka havanana, eo atsinanana, mifanandrify amin'ny farany atsimo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny ranomasina"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ny ranomasina"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nametraka"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "eo amin'ny soroka"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "havanana"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "eo atsinanana"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "mifanandrify amin'ny"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "atsimo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:43:23.528083696Z",
+  "model": "glm-5.3"
+}

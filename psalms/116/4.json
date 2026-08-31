@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 116,
+  "translation": "Ary tamin'ny anaran'i Yahveh niantso aho: Ry Yahveh ô, mifona aminao aho; vonjeo ny aiko.",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "Ary tamin'ny anaran'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "niantso aho"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Ry... ô, mifona aminao aho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "vonjeo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:42.906537214Z",
+  "model": "glm-5.3"
+}

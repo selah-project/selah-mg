@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "⟨את⟩ ny Sabatako tandremo, ary ny fitoerako masina matahorana ⟨i Ianareo⟩; Izaho Yahveh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Sabatako"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "ny Sabatako"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "tandremo"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "ary ny fitoerako masina"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "matahorana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:00.944948415Z",
+  "model": "glm-5.3"
+}

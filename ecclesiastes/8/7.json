@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Fa tsy mahalala izay ho avy izy, fa rahoviana no ho tonga, iza no hilaza azy?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "tsy...izy"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "מה",
+      "gloss": "izay"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ho avy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "rahoviana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ho tonga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "hilaza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:40.065161514Z",
+  "model": "glm-5.3"
+}

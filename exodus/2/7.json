@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 2:7",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary hoy ny rahavavin'ilay zaza tamin'ny zanakavavin'i Parao: Ho hitako ve ka hantsoiko ho anao vehivavy mipaofy amin'ny Hebreo vahiny, ary hitaofiny ho anao ⟨את⟩ ilay zaza?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "ny rahavavin'ilay zaza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanakavavin'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "ho hitako ve"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "ka hantsoiko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vehivavy"
+    },
+    {
+      "surface": "מינקת",
+      "gloss": "mipaofy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "Hebreo vahiny"
+    },
+    {
+      "surface": "ותינק",
+      "gloss": "hitaofiny"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay zaza"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ilay zaza"
+    }
+  ],
+  "timestamp": "2026-08-31T12:54:17.527509327Z",
+  "model": "glm-5.3"
+}

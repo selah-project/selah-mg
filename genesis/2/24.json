@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Noho izany dia hanary ⟨את⟩ ny rainy sy ⟨את⟩ ny reniny ny lehilahy, ka hifikitra amin'ny vadiny, ary ho tonga nofo iray izy ireo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Noho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "hanary"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rainy"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ny rainy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny reniny"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ny reniny"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "hifikitra"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "amin'ny vadiny"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ho tonga"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "nofo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:03.081273970Z",
+  "model": "glm-5.3"
+}

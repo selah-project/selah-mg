@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 88:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 88,
+  "translation": "Noheverina ho amin'ny midina any am-pahana izaho, efa nahazo tahaka ny lehilahy tsy manan-kery izaho.",
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "noheverina ho"
+    },
+    {
+      "surface": "עם",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "midina"
+    },
+    {
+      "surface": "בור",
+      "gloss": "am-pahana"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "efa nahazo"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "tahaka ny lehilahy"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy manana-"
+    },
+    {
+      "surface": "איל",
+      "gloss": "kery"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:28.286708479Z",
+  "model": "glm-5.3"
+}

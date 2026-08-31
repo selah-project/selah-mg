@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Fa indray mangatsiaka fotsiny ny fahatezerany, fa ny aina kosa no ao amin'ny fankasitrahany; amin'ny hariva mitoetra ny fitomaniana, fa amin'ny maraina ny hihiram-panavoavana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "indray mangatsiaka fotsiny"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ny fahatezerany"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ny aina"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "ao amin'ny fankasitrahany"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "amin'ny hariva"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "mitoetra"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "ny fitomaniana"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "fa amin'ny maraina"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ny hihiram-panavoavana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:54.633631356Z",
+  "model": "glm-5.3"
+}

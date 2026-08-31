@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Izay rehetra hita hovahana antsamotady, ary izay rehetra voataona hianjera amin'ny sabatra.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "hita"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "hovahana antsamotady"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary izay rehetra"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "voataona"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "hianjera"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "amin'ny sabatra"
+    }
+  ],
+  "timestamp": "2026-08-31T18:05:52.535716709Z",
+  "model": "glm-5.3"
+}

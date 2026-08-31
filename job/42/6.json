@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Noho izany dia manala-baraka ⟨aho⟩ sy mibebaka, amin'ny vovoka sy ny doro.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "manala-baraka"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "sy mibebaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "vovoka"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "sy ny doro"
+    }
+  ],
+  "timestamp": "2026-08-31T17:10:45.435705543Z",
+  "model": "glm-5.3"
+}

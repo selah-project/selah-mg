@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 4:16",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary izy no hiteny amin'ny vahoaka ho anao; dia izy no ho vavao, ary ianao kosa ho Elohim ho azy.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "hiteny"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dia"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "vavao"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ary ianao kosa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T12:56:00.829316458Z",
+  "model": "glm-5.3"
+}

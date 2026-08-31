@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Dia nesorin'ny mpanjaka ny peratra famantarana tamin'ny tànany, ka nomeny an'i Hamana zanak'i Medata, Agagita, fahavilon'ny Jiosy.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Dia nesoriny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny peratra famantarana"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "peratra famantarany"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tànany"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ka nomeny"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "an'i Hamana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Medata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Agagita"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "fahavilo"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Jiosy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:17:52.634931929Z",
+  "model": "glm-5.3"
+}

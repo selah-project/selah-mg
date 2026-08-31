@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 48:5",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 48,
+  "translation": "Ary nambarako taminao hatramin'izay, fony tsy tonga mbola tsy voalaza taminao mba tsy hanaovanao hoe: Ny sarin-javatra voataoko no nanao azy, ary ny endri-javatra voasoko sy ny vatoko nandidy azy.",
+  "tokens": [
+    {
+      "surface": "ואגיד",
+      "gloss": "nambarako"
+    },
+    {
+      "surface": "לך",
+      "gloss": "taminao"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "hatramin'izay"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "fony tsy"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "voalaza taminao"
+    },
+    {
+      "surface": "פן",
+      "gloss": "mba tsy"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "hanaovanao hoe"
+    },
+    {
+      "surface": "עצבי",
+      "gloss": "ny sarin-javatra voataoko"
+    },
+    {
+      "surface": "עשם",
+      "gloss": "nanao azy"
+    },
+    {
+      "surface": "ופסלי",
+      "gloss": "ary ny endri-javatra voasoko"
+    },
+    {
+      "surface": "ונסכי",
+      "gloss": "sy ny vatoko"
+    },
+    {
+      "surface": "צום",
+      "gloss": "nandidy azy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:16:55.705685467Z",
+  "model": "glm-5.3"
+}

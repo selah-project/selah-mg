@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Nahoana no Yahveh mijanona ⟨eo⟩ lavitra, ka manafina ⟨tenany⟩ amin'ny fotoana fahoriana?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Nahoana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "mijanona"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "lavitra"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "manafina"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "amin'ny fotoana"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "fahoriana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:56.498988091Z",
+  "model": "glm-5.3"
+}

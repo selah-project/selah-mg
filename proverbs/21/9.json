@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 21:9",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Tsara ny mipetraka eo amin'ny zoron'ny tafo, toy ny ⟨miaraka⟩ amin'vehivavy tia fifandirana sy ⟨eo an-tokantrano⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Tsara"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ny mipetraka"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "zoron'ny"
+    },
+    {
+      "surface": "גג",
+      "gloss": "tafo"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "toy ny amin'vehivavy"
+    },
+    {
+      "surface": "מדינים",
+      "gloss": "tia fifandirana"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "sy trano"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "fizarana (tokantrano)"
+    }
+  ],
+  "timestamp": "2026-08-31T16:54:29.767126451Z",
+  "model": "glm-5.3"
+}

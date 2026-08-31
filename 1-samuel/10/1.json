@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 10:1",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary Shemuël nala ⟨את⟩ ny tavy ilay menaka, ka nandatsaka izany tamin'ny lohany, ary nanoroka azy, ka nanao hoe: Tsy nohosorian'i Yahveh hiitatra amin'ny lovany ho mpanapaka va ianao?",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ary... nala"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavy ilay menaka"
+    },
+    {
+      "surface": "פך",
+      "gloss": "tavy"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ilay menaka"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "ka nandatsaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "lohany"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "ary nanoroka azy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "tsy... va"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efa"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "nohosorian'i... anao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "lovany"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "ho mpanapaka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:19:00.243808368Z",
+  "model": "glm-5.3"
+}

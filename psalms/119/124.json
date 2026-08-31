@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 124,
+  "ref": "psalms 119:124",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ataovy amin'ny mpanomponao araka ny hesed-nao, ary ampianaro ahy ny lalànao.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ataovy"
+    },
+    {
+      "surface": "עם",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mpanomponao"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "araka ny hesed-nao"
+    },
+    {
+      "surface": "וחקיך",
+      "gloss": "sy ny lalànao"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ampianaro ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:24.314068590Z",
+  "model": "glm-5.3"
+}

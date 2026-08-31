@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Sy ⟨את⟩ Resena, eo anelanelan'i Ninveh sy Kelaha; izy no ⟨ilay⟩ tanàna lehibe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Sy ⟨את⟩",
+      "marks": "Resena"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resena"
+    },
+    {
+      "surface": "בין",
+      "gloss": "eo anelanelan'i"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninveh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelaha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "lehibe"
+    }
+  ],
+  "timestamp": "2026-08-31T17:55:14.281782542Z",
+  "model": "glm-5.3"
+}

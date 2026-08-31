@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 1:8",
+  "book": "ezra",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary Koresh mpanjakan'i Persia nampivoaka azy ireo tamin'ny tanan'i Mitredata ilay mpitan-kitapoka, ka nisaonta azy ho an'i Sheshbatsara ilay andrianan'ny Joda.",
+  "tokens": [
+    {
+      "surface": "ויוציאם",
+      "gloss": "nampivoaka azy ireo"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'i"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Persia"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tanan'i"
+    },
+    {
+      "surface": "מתרדת",
+      "gloss": "Mitredata"
+    },
+    {
+      "surface": "הגזבר",
+      "gloss": "ilty mpitan-kitapoka"
+    },
+    {
+      "surface": "ויספרם",
+      "gloss": "ka nisaonta azy"
+    },
+    {
+      "surface": "לששבצר",
+      "gloss": "ho an'i Sheshbatsara"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "ilty andriana"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "an'ny Joda"
+    }
+  ],
+  "timestamp": "2026-08-31T17:26:03.003574244Z",
+  "model": "glm-5.3"
+}

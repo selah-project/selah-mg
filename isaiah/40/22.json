@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 40:22",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "⟨Izy⟩ no mipetraka ambonin'ny faritra boribory ⟨ky⟩ ny tany, ary ny mponina ao aminy toy ny valalala; Izy no manitatra ny lanitra hoatra ny tsihy, ka manenona azy hoatra ny lay mba honenana.",
+  "tokens": [
+    {
+      "surface": "הישב",
+      "gloss": "Ilay mipetraka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "חוג",
+      "gloss": "faritra boribory"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "וישביה",
+      "gloss": "ary ny mponina ao aminy"
+    },
+    {
+      "surface": "כחגבים",
+      "gloss": "toy ny valalala"
+    },
+    {
+      "surface": "הנוטה",
+      "gloss": "ilay manitatra"
+    },
+    {
+      "surface": "כדק",
+      "gloss": "hoatra ny tsihy"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "וימתחם",
+      "gloss": "ka manenona azy"
+    },
+    {
+      "surface": "כאהל",
+      "gloss": "hoatra ny lay"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "mba honenana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:15:11.849621587Z",
+  "model": "glm-5.3"
+}

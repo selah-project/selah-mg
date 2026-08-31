@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Yahveh no hanjaka mandrakizay aman-maritra.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "hanjaka"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "aman-maritra"
+    }
+  ],
+  "timestamp": "2026-08-31T12:59:56.092693580Z",
+  "model": "glm-5.3"
+}

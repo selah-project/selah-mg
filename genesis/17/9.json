@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary niteny Elohim tamin'i Avraham hoe: Ary ianao dia hitandrina ⟨את⟩ ny famoriako, ianao sy ny zanakao aorianao, amin'ny taranany mandimby.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary niteny"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Ary ianao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny famoriako"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ny famoriako"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "hitandrina"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "sy ny zanakao"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "aorianao"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "amin'ny taranany mandimby"
+    }
+  ],
+  "timestamp": "2026-08-31T12:39:27.778940996Z",
+  "model": "glm-5.3"
+}

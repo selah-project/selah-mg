@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 12:26",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Fa ny zava-masinao ihany, izay ho anao, sy ny voadinao no hitondrao, ary ho tonga ⟨ao amin'ny⟩ toerana izay hofidin'i Yahveh ianao.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Fa ... ihany"
+    },
+    {
+      "surface": "קדשיך",
+      "gloss": "ny zava-masinao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "ונדריך",
+      "gloss": "sy ny voadinao"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "hitondrao"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ary ho tonga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ao amin'ny⟩"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "toerana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "hofidin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:44:32.926875409Z",
+  "model": "glm-5.3"
+}

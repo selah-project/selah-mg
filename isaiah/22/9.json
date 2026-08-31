@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary ⟨את⟩ ny fivakisan'ny tanànan'i Davida no hitanareo, fa efa maro izy; ary nomaninareo ⟨את⟩ ny rano tao amin'ny kamory ambany.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fivakisan'ny tanànan'i Davida"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "fivakisan'ny"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tanànan'ny"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "hitanareo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "maro"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "nomaninareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rano"
+    },
+    {
+      "surface": "מי",
+      "gloss": "rano"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "kamory"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "ambany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:07:59.823143663Z",
+  "model": "glm-5.3"
+}

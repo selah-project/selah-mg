@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary nametraka tao am-bavako Izy hira vaovao, fiderana ho an'ny Elohintsika; hahita izy maro ka hatahotra, ary hitoky amin'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ary nametraka"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "tao am-bavako"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "hira"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "vaovao"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "fiderana"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ho an'ny Elohintsika"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "hahita"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maro"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ka hatahotra"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "ary hitoky"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "amin'i Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:30.991612610Z",
+  "model": "glm-5.3"
+}

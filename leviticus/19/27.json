@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Aza manapaka ny tavin'ny fenonareo, ary aza simba ny tavin'ny volombavanao.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "manapaka"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ny tavin'ny"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "fenonareo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "simba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavin'ny volombavanao"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ny tavin'ny"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "volombavanao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:14.477643107Z",
+  "model": "glm-5.3"
+}

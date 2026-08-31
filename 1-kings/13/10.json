@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Dia nandia lalana hafa izy, ka tsy niverina tamin'ny lalana izay nodiaviny nankany Bet-El.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "dia nandia"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tamin'ny lalana"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "hafa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "שב",
+      "gloss": "niverina"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tamin'ny lalana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בא",
+      "gloss": "nodiaviny"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tamin'izany"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nankany"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-31T14:46:05.446116831Z",
+  "model": "glm-5.3"
+}

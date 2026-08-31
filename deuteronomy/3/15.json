@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary ho an'i Makira dia nomenako ⟨את⟩ ny Gileada.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "Ary ho an'i Makira"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nomenako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Gileada"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileada"
+    }
+  ],
+  "timestamp": "2026-08-31T13:40:42.767040175Z",
+  "model": "glm-5.3"
+}

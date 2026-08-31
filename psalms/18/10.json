@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Napiony ny lanitra ka nidina Izy, ary maizina matevina no teo ambanin'ny tongony.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "napiony"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ka nidina Izy"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ary maizina matevina"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "teo ambanin'ny"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "tongony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:39.219430762Z",
+  "model": "glm-5.3"
+}

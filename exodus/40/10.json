@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary hosoronao ⟨את⟩ ny alitarin'ny fanatitra dorana ⟨את⟩ sy ny fanaka rehetra momba azy, ary hohamasinanao ⟨את⟩ ny alitari, ary ny alitari ho masina indrindra.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ary hosoronao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alitarin'ny fanatitra dorana"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alitari"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "fanatitra dorana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ sy",
+      "marks": "fanaka rehetra momba azy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "fanaka momba azy"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ary hohamasinanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny alitari"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ny alitari"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ary ho"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ny alitari"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "indrindra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:50.322189996Z",
+  "model": "glm-5.3"
+}

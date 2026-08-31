@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary nataony teo hatramin'ny maraina ⟨את⟩ izany, araka ny nandidian'i Moshe; dia tsy maimbo, ary kankana tsy nisy tao anatiny.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "nataony teo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "izany"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hatramin'ny"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ny maraina"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidian'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dia tsy"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "maimbo"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "ary kankana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nisy"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tao anatiny"
+    }
+  ],
+  "timestamp": "2026-08-31T13:01:36.719858212Z",
+  "model": "glm-5.3"
+}

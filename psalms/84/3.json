@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 84,
+  "translation": "Missaka ary efa maty fanina ny aiko noho ny kianjan'i Yahveh; ny foko sy ny nofo mihoby mankany amin'El velona.",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "missaka"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ary"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "efa maty fanina"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "noho ny kianjan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "sy ny nofo"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "mihoby"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mankany amin'ny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "velona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:13.424773585Z",
+  "model": "glm-5.3"
+}

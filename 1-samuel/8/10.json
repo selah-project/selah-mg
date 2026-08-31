@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nilaza Shemuela tamin'ny vahoaka izay nangataka taminy mpanjaka ny tenin'i Yahveh rehetra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary nilaza"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tenin'i Yahveh rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ny tenin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "izay nangataka"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ taminy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:16:15.610805372Z",
+  "model": "glm-5.3"
+}

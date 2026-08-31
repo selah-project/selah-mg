@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary ny tsinainy sy ny tongony hanasana amin'ny rano; ary ny mpisorona hanatsatso ⟨את⟩ ny zavatra rehetra eo ambony ny alitara: fanatitra dorana, fanatitra atolotra amin'ny afo, faingo mahafaly ho an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "Ary ny tsinainy"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "sy ny tongony"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "hanasana"
+    },
+    {
+      "surface": "במים",
+      "gloss": "amin'ny rano"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ary hanatsatso"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zavatra rehetra"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ny zavatra rehetra"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "eo ambony ny alitara"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "fanatitra dorana"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "fanatitra atolotra amin'ny afo"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "faingo"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "mahafaly"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:09.855154677Z",
+  "model": "glm-5.3"
+}

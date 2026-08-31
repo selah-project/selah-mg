@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 3:5",
+  "book": "habakkuk",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Eo anoloany no mandeha ny aretina, ary avy eo amin'ny tongony mivoaka ny andriamby.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "eo anoloany"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aretina"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "mivoaka"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "andriamby"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "amin'ny tongony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:17:21.095490505Z",
+  "model": "glm-5.3"
+}

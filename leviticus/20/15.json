@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary raha misy lehilahy manome ny fandalany amin'ny biby fiompy, faty no hovahelany; ary ⟨את⟩ ilay biby fiompy dia vonoinareo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ary raha misy lehilahy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "manome"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "ny fandalany"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "amin'ny biby fiompy"
+    },
+    {
+      "surface": "מות",
+      "gloss": "faty"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "no hovahelany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ilay biby fiompy"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ilay biby fiompy"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "dia vonoinareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:15.444054233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 139,
+  "translation": "Mahagaga loatra ny fahalalana, mihoatra ahy ⟨izany⟩; avo loatra, tsy vitako izy.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "mahagaga loatra"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ny fahalalana"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mihoatra ahy"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "avo loatra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "vitako"
+    },
+    {
+      "surface": "לה",
+      "gloss": "izy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:41.509462053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Aram avy any atsinanana ary ny Filistina avy any aoriana, ka nihinana ⟨את⟩ Isiraely izy tamin'ny vava rehetra. Na dia izany aza dia tsy niverina ny fahatezerany, ary mbola marinina ny tanany.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "avy any atsinanana"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "ary ny Filistina"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "avy any aoriana"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ka nihinana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraely"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "פה",
+      "gloss": "vava rehetra"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na dia"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izany aza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שב",
+      "gloss": "niverina"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ny fahatezerany"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ary mbola"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ny tanany"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "marinina"
+    }
+  ],
+  "timestamp": "2026-08-31T15:04:54.142950985Z",
+  "model": "glm-5.3"
+}

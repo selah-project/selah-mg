@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 66:14",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 66,
+  "translation": "Dia ho hitanareo ⟨⟨izany⟩⟩ ary hafaly ny fonareo, ary ny taolanareo hitahiry toy ny ahitra maitso; ary ho fantatra ny tàn'i Yahveh ⟨את⟩ mpanompony, ary hanam-pahateirana ⟨amin'ny⟩ fahavalony.",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "dia ho hitanareo"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "hafaly"
+    },
+    {
+      "surface": "לבכם",
+      "gloss": "ny fonareo"
+    },
+    {
+      "surface": "ועצמותיכם",
+      "gloss": "ary ny taolanareo"
+    },
+    {
+      "surface": "כדשא",
+      "gloss": "toy ny ahitra maitso"
+    },
+    {
+      "surface": "תפרחנה",
+      "gloss": "hitahiry"
+    },
+    {
+      "surface": "ונודעה",
+      "gloss": "ary ho fantatra"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ny tàn'i Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpanompony"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "mpanompony"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "hanam-pahateirana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fahavalony"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "fahavalony"
+    }
+  ],
+  "timestamp": "2026-08-31T15:23:07.289068340Z",
+  "model": "glm-5.3"
+}

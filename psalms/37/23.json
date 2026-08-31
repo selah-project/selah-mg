@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 37:23",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Avy amin'i Yahveh no iorenana ny dian'ny lehilahy mahery; fa Izy ka tia ny lalany.",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "avy amin'i Yahveh"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "ny dian'ny"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "lehilahy mahery"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "no iorenana"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "fa ny lalany"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "Izy ka tia"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:58.986289290Z",
+  "model": "glm-5.3"
+}

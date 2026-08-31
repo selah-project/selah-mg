@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary Yehoshoa nampahalemy ⟨את⟩ i Amaleka sy ⟨את⟩ ny olony tamin'ny vavan'ny sabatra.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "nampahalemy"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Amaleka"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny olony"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ny olony"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "tamin'ny vavan'ny"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabatra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:00:57.857489718Z",
+  "model": "glm-5.3"
+}

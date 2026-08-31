@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Dia natahotra ⟨את⟩ Yahveh Davida tamin'izay andro izay, ka nanao hoe: Ahoana no hahatongavan'ny fiaran'i Yahveh atỳ amiko?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "natahotra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'izay andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Ahoana"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "hahatongavana"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "atỳ amiko"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T14:30:50.877241943Z",
+  "model": "glm-5.3"
+}

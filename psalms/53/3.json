@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 53,
+  "translation": "Elohim avy tany an-danitra nitsilofo hijery ny zanak'olombelona, hahita fa misy manan-tsaina, mpikaroka ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "avy tany an-danitra"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "nitsilofo hijery"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨nanatrika⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olombelona"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hahita"
+    },
+    {
+      "surface": "היש",
+      "gloss": "fa misy"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "manan-tsaina"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "mpikaroka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:06.370826240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Izao no lazain'i Yahveh Tsevaot: Efa nitsidihako ⟨את⟩ izay nataon'i Amaleka tamin'ny Isiraely, izay nataony hanoherana azy teny an-dalana, tamin'ny fiakarany avy tany Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "izao no"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "lazain'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "efa nitsidihako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay nataon'i Amaleka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataon'i"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "tamin'ny Isiraely"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nataony hanoherana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "teny an-dalana"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "tamin'ny fiakarany"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "avy tany Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T14:21:13.501386230Z",
+  "model": "glm-5.3"
+}

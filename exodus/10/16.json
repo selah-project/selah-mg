@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary faingana niantso an'i Moshe sy an'i Aharona Parao ka nanao hoe: Efa notaoko i Yahveh, Andriamanitrareo, ary ianareo.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "Ary faingana"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "an'i Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "sy an'i Aharona"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "Efa notaoko"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "i Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Andriamanitrareo"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "ary ianareo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:42.070058564Z",
+  "model": "glm-5.3"
+}

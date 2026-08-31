@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Hanome ny ranon'ny taninao ho vovoka sy vovontany Yahveh; avy any ambonin'ny lanitra no hidina any amboninao, mandra-paharingananao.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "Hanome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ranon'ny taninao"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ny ranon'ny taninao"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "taninao"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "vovoka"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "sy vovontany"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "any ambonin'ny lanitra"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "hidina"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "amboninao"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "faharingananao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:50:33.422455934Z",
+  "model": "glm-5.3"
+}

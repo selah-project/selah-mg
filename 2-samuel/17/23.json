@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 17:23",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary Akitofela, rehefa hitany fa tsy natao ny sainy, dia nasiany zinga ⟨את⟩ ny boriky, ka nitsangana ka nandeha nankany an-tranony, ho any amin'ny tanànany, ka nanome didy tamin'ny ankohonany, dia nanaingo teny ka maty, dia nalevina tao amin'ny fasandraysan'ny rainy.",
+  "tokens": [
+    {
+      "surface": "ואחיתפל",
+      "gloss": "Ary Akitofela"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "rehefa hitany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "natao"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "ny sainy"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "dia nasiany zinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny boriky"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "ny boriky"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ka nitsangana"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ka nandeha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nankany an-"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "tranony"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "tanànany"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "ka nanome didy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ankohonany"
+    },
+    {
+      "surface": "ויחנק",
+      "gloss": "dia nanaingo teny"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ka maty"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "dia nalevina"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "tao amin'ny fasana"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ny rainy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:34:23.999373984Z",
+  "model": "glm-5.3"
+}

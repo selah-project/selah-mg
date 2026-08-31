@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Anao ny lanitra, anao koa ny tany; ny tontolo sy ny feno azy — Hianao no nampanorina azy.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Anao"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "אף",
+      "gloss": "koa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ny tontolo"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ary ny feno azy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Hianao"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "no nampanorina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:43.946687661Z",
+  "model": "glm-5.3"
+}

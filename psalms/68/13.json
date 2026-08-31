@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 68,
+  "translation": "Mpanjakan'ny tafika mandositra, mandositra tokoa; ary ilay mponina ao an-trano no mizara ny babo.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "Mpanjakan'ny"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "tafika"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "mandositra"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "mandositra tokoa"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "ary ilay mponina"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ao an-trano"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "mizara"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ny babo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:35.121460676Z",
+  "model": "glm-5.3"
+}

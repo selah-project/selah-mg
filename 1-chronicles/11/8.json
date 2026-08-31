@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary nanamboatra ilay tanàna manodidina izy, hatramin'ny Milo ka hatramin'ny manodidina azy; ary Joaba nanamboatra ⟨את⟩ ny ambiny amin'ilay tanàna.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "nanamboatra"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ilay tanàna"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "מן",
+      "gloss": "hatramin'ny"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "manodidina azy"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "Joaba"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "nanamboatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ambiny amin'ilay tanàna"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ny ambiny"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "amin'ilay tanàna"
+    }
+  ],
+  "timestamp": "2026-08-31T17:36:35.738432914Z",
+  "model": "glm-5.3"
+}

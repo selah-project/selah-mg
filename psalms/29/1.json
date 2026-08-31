@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Fihirana nataon'i Davida. Omeo an'i Yahveh, ry zanak'ny Elima, omeo an'i Yahveh voninahitra sy hery.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Fihirana"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nataon'i Davida"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Omeo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ry zanak'ny"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "Elima"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "omeo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "voninahitra"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "sy hery"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:18.981387224Z",
+  "model": "glm-5.3"
+}

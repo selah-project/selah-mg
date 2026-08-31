@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Ary nampony ⟨את⟩ azy ho ao amin'ny fiahiana telo andro izy.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "nampony"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ao amin'ny"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "fiahiana"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "telo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    }
+  ],
+  "timestamp": "2026-08-31T12:51:45.405220399Z",
+  "model": "glm-5.3"
+}

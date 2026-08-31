@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Sitrào, ry Yahveh, ny hanafaka ahy; ry Yahveh, faingàna ho an'ny vonjiko.",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "Sitrào"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "ny hanafaka ahy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ho an'ny vonjiko"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "faingàna"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:38.535243338Z",
+  "model": "glm-5.3"
+}

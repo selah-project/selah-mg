@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nataon'ny mpanao hatsarana toy izany koa tamin'ny fihetsiam-panafiny; dia nampakatra ⟨את⟩ ny saobakana ho amin'ny tany Mitsrayim izy ireo.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "nataon'ny"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toy izany koa"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "mpanao hatsarana"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "tamin'ny fihetsiam-panafiny"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "dia nampakatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny saobakana"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "ny saobakana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho amin'ny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:18.277373374Z",
+  "model": "glm-5.3"
+}

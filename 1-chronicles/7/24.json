@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary ny zanany vavy dia Sheera, izay nanamboatra ⟨את⟩ Beti-Horona ambany sy ⟨את⟩ ilay ambony, ary ⟨את⟩ Ozen-Sheera.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "Ary ny zanany vavy"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "izay nanamboatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beti-Horona ambany"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horona"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "ambany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilay ambony"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "ilay ambony"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ozen-Sheera"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Ozen-"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    }
+  ],
+  "timestamp": "2026-08-31T17:36:17.369390320Z",
+  "model": "glm-5.3"
+}

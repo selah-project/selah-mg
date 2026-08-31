@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 69,
+  "translation": "Fa noho ny aminao no nitondrako henatra; ny fahamenarana nanarona ny tavako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "noho ny aminao"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "nitondrako"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "henatra"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "nanarona"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "ny fahamenarana"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ny tavako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:12.438432132Z",
+  "model": "glm-5.3"
+}

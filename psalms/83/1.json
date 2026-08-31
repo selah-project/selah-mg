@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 83,
+  "translation": "Fihirana, salamo, an'i Asafa.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Fihirana"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "salamo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "an'i Asafa"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:20.815758118Z",
+  "model": "glm-5.3"
+}

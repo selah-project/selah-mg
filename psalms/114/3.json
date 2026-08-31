@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 114,
+  "translation": "Ny ranomasina nahita ka nandositra, ny Yardenena mivadika niverina ⟨⟨niverina⟩⟩ indray",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "Ny ranomasina"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nahita"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "ka nandositra"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ny Yardenena"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "mivadika"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "niverina ⟨⟨niverina⟩⟩ indray"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:00.870407252Z",
+  "model": "glm-5.3"
+}

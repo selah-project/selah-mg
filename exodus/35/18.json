@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "⟨את⟩ tsorakazon'ny trano lay, sy ⟨את⟩ tsorakazon'ny kianja, ary ⟨את⟩ tadiny;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsorakazon'ny trano lay"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "tsorakazo"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tranon'ny lay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "tsorakazon'ny kianja"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "tsorakazo"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kianja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "tadiny"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "tadiny"
+    }
+  ],
+  "timestamp": "2026-08-31T13:07:51.119647559Z",
+  "model": "glm-5.3"
+}

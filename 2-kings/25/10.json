@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary ⟨את⟩ mandavarivariny manodidina an'i Yeroshalayim no noravan'ny tafika rehetra tsy misy ambiny Kaldeana (Kasdiana), izay nanaraka an'i Nevuzaradan, lehiben'ny mpanondra-paty.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ary ⟨את⟩",
+      "marks": "mandavarivariny an'i Yeroshalayim"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "mandavarivariny"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "noravana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra tsy misy ambiny"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "tafika"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kaldeana (Kasdiana)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay nanaraka"
+    },
+    {
+      "surface": "רב",
+      "gloss": "lehiben'ny"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "mpanondra-paty"
+    }
+  ],
+  "timestamp": "2026-08-31T15:01:08.985840515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Fa ny velona mahalala fa ho faty ⟨izy⟩, ary ny maty tsy mahalala na inona na inona, ary tsy manana sarány intsony ⟨izy⟩, fa efa lavo ny fahatsiarovana azy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ny velona"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "fa ho faty"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "ary ny maty"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "na inona na inona"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ary tsy manana"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    },
+    {
+      "surface": "להם",
+      "gloss": "izy"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "sarány"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "efa lavo"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ny fahatsiarovana azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:52.572409260Z",
+  "model": "glm-5.3"
+}

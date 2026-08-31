@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Natao teo amboniny ny mpanapaka ny asa an-terivozona mba hampahory azy amin'ny entany; ary nanamboatra tanàna fitahirizana ho an'i Parao izy: ⟨את⟩ Pitoma sy ⟨את⟩ Raamsesy.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Natao"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "teo amboniny"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mpanapaka ny"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "asa an-terivozona"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mba"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "hampahory azy"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "amin'ny entany"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ary nanamboatra"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "fitahirizana"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ho an'i Parao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitoma"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitoma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Raamsesy"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamsesy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:54:41.475805142Z",
+  "model": "glm-5.3"
+}

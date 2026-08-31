@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Mpankahala ny soa sy tia ny loza; manaisotra ny hodiny amin'izy ireo, sy ny nofony amin'ny taolany.",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "mpankahala ny"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "soa"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "sy tia ny"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "loza"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "manaisotra"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "hodiny"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "amin'izy ireo"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "sy ny nofony"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "taolany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:14:39.414357671Z",
+  "model": "glm-5.3"
+}

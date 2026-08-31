@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary namaly ny zanak'i Heth ⟨את⟩ Avraham hoe:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "namaly"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heth"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨azy⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T12:40:32.355074257Z",
+  "model": "glm-5.3"
+}

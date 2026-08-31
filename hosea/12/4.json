@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Tao an-kibo nanhetsika ny rahalahiny ⟨את⟩ izy, ary tamin'ny heriny nifanindry tamin'ny Elohim ⟨את⟩ izy.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "tao an-kibo"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "nanhetsika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rahalahiny"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ny rahalahiny"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "ary tamin'ny heriny"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "nifanindry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T16:08:37.361078811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 17:14",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary Yahveh nanao taminy i Moshe hoe: Soraty izany ho fahatsiarovana ao amin'ny boky, ka ampirisiho amin'ny sofin'i Yehoshoa, fa mafa tokoa no hofafoko ⟨את⟩ ny fahatsiarovan'i Amaleka ambanin'ny lanitra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao taminy hoe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Soraty"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izany"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ho fahatsiarovana"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "ao amin'ny boky"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "ka ampirisiho"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "amin'ny sofin'i"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "mafa tokoa"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "hofafoko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahatsiarovan'i Amaleka"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ny fahatsiarovana"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ambanin'ny"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "lanitra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:00:57.857760166Z",
+  "model": "glm-5.3"
+}

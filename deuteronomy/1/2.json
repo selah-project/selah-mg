@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Iraika ambin'ny folo andro ⟨fandehanana⟩ avy any Horeba, amin'ny lalan'ny tendrombohitra Seira, ka hatrany Kades-Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ambin'ny folo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "avy any Horeba"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "amin'ny lalan'ny"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seira"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka hatrany"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kades-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-08-31T13:40:27.507958603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 43,
+  "translation": "Alefaso ny mazavanao sy ny fahamarinanao; izy no hitarika ahy, hitondra ahy ho any amin'ny tendrombohitra masinao ary ho any amin'ny trano-lapanao.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Alefaso"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ny mazavanao"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "sy ny fahamarinanao"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "no hitarika ahy"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "hitondra ahy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "masinao"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary ho any amin'ny"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "trano-lapanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:58.840311022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "ary homein'i Yahveh Elohim-nao ho ao an-tananao izy, ka hatapakao ⟨את⟩ ny lahy rehetra ao aminy amin'ny vavan'ny sabatra",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "homeiny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nao"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ao an-tananao"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "ka hatapakao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lahy rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "ny lahy ao aminy"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "amin'ny vavan'ny"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabatra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:47:18.612580199Z",
+  "model": "glm-5.3"
+}

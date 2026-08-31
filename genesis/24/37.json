@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 24:37",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary nampianianiko ny tompoko nanao hoe: Tsy haka vady ho an'ny zanako amin'ny zanakavavin'ny Kenanita, izay monina ao amin'ny taniny aho, ianao;",
+  "tokens": [
+    {
+      "surface": "וישבעני",
+      "gloss": "nampianianiko azy"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tompoko"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "haka"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vady (vehivavy)"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ho an'ny zanako"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "amin'ny zanakavavin'ny"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenanita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aho"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "monina"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "ao amin'ny taniny"
+    }
+  ],
+  "timestamp": "2026-08-31T17:54:29.731511979Z",
+  "model": "glm-5.3"
+}

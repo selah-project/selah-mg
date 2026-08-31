@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Amin'izay andro izay dia hatsangako amin'i Eli ⟨את⟩ izay rehetra efa nolazaiko tamin'ny tranony: ny fiandohana sy ny fiafarana.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Amin'izay andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "hatsangako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'i"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay rehetra efa nolazaiko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "efa nolazaiko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "tranony"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ny fiandohana"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "sy ny fiafarana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:15:26.217898192Z",
+  "model": "glm-5.3"
+}

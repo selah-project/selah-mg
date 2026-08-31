@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary Peleg velona telo-polo taona, ka niteraka ⟨את⟩ an'i Reo.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "velona"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "telo-polo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Reo"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:35.485800005Z",
+  "model": "glm-5.3"
+}

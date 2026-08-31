@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary nanao ⟨את⟩ ny kianja anatiny izy: andiana vato voapaika telo, sy andiana tsarakely sedera voapaitra.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny kianja anatiny"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kianja"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "anatiny"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "telo"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "andiana"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "vato voapaika"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "sy andiana"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "tsarakely voapaitra"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedera"
+    }
+  ],
+  "timestamp": "2026-08-31T14:41:30.981901668Z",
+  "model": "glm-5.3"
+}

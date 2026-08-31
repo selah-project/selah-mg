@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 57,
+  "translation": "Hanankalaza anao amin'ny firenena ihany ho aho, ry Adonay; hitendry hira ho anao amin'ny foko ⟨isika⟩ rehetra.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "hanankalaza anao"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "amin'ny firenena"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ry Adonay"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "hitendry hira ho anao"
+    },
+    {
+      "surface": "בל",
+      "gloss": "amin'ny foko"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "⟨isika⟩ rehetra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:35.976125053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary nilazalaza tamin'i Davida ny nataon'i Ritspah zanakavavin'i Aja, vadikely nentin'i Shaol.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "nilazalaza"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "tamin'i Davida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny nataon'i Ritspah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "nataon'i"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritspah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanakavavin'i"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aja"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "vadikely"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    }
+  ],
+  "timestamp": "2026-08-31T14:37:01.540133809Z",
+  "model": "glm-5.3"
+}

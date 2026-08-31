@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary hitan'izy ireo ⟨את⟩ Adoni-Bezek tao Bezek ka niady taminy izy ireo, ka namely ⟨את⟩ ny Kanaanita sy ⟨את⟩ ny Perizita.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "hitan'izy ireo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "tao Bezek"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ka niady taminy izy ireo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ka namely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Kanaanita"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ny Kanaanita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny Perizita"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "ny Perizita"
+    }
+  ],
+  "timestamp": "2026-08-31T14:04:36.602726851Z",
+  "model": "glm-5.3"
+}

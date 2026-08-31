@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Dia nandeha nivoaka avy amin'ny firenena mankany amin'ny firenena hafa ianareo, sy avy amin'ny fanjakana mankany amin'ny olona hafa.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "nandeha nivoaka"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "avy amin'ny firenena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mankany amin'ny"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "sy avy amin'ny fanjakana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mankany amin'ny"
+    },
+    {
+      "surface": "עם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "hafa"
+    }
+  ],
+  "timestamp": "2026-08-31T17:38:02.530148281Z",
+  "model": "glm-5.3"
+}

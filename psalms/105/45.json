@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Mba hitandrinkareo ny didy momba ny fepetra nataony sy hotehirizinareo ny lalàny. Miderà an'i Yah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "mba ho an'ny"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "hitandrina"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "didy momba ny fepetra nataony"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "sy ny lalàny"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "hotehirizina"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Miderà"
+    },
+    {
+      "surface": "יה",
+      "gloss": "an'i Yah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:05.101694179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary hatongavao ny fanekenaiko eo anivon'i Izaho sy ianao, ary hampitomboiko anao ⟨את⟩ indrindra be.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Ary hatongavao"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ny fanekenaiko"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "eo anivon'i Izaho"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "sy ianao"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "ary hampitomboiko"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "anao ⟨את⟩",
+      "marks": "anao"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "indrindra"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "be"
+    }
+  ],
+  "timestamp": "2026-08-31T12:38:56.353234358Z",
+  "model": "glm-5.3"
+}

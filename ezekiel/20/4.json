@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Hitondra fitsarana va ianao azy, hitondra fitsarana va ianao, zanak'olona? Ampahafantaro azy ⟨את⟩ ny fahavetavetan'ny razany.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "Hitondra fitsarana va ianao"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "hitondra fitsarana va ianao"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'olona"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "(olona)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahavetavetan'ny razany"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ny fahavetavetan'ny"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "razany"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "Ampahafantaro azy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:54:17.922224596Z",
+  "model": "glm-5.3"
+}

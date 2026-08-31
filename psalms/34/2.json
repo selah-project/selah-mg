@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Tombako ⟨את⟩ Yahveh amin'ny fotoana rehetra; mandrakariva ny fiderana azy no ao am-bavako.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Tombako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "עת",
+      "gloss": "fotoana"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mandrakariva"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ny fiderana azy"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ao am-bavako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:04.609977614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary ny mpanjakan'i Babilona nanao mpanjaka an'i Mattania dadatoany hisolo azy, ka nanova ny anarany ho Tsidkiahu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "nanao mpanjaka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mattania"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Mattania"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "dadatoany"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "hisolo azy"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "ka nanova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anarany"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiahu"
+    }
+  ],
+  "timestamp": "2026-08-31T15:02:05.567362114Z",
+  "model": "glm-5.3"
+}

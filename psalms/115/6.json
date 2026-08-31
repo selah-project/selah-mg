@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 115,
+  "translation": "Sofina no ananany saingy tsy mandre; orona no ananany saingy tsy mivoatra.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "sofina"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ananany"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "saingy tsy"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "mandre"
+    },
+    {
+      "surface": "אף",
+      "gloss": "orona"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ananany"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "saingy tsy"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "mivoatra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:52.378041860Z",
+  "model": "glm-5.3"
+}

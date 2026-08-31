@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Enin-taona no hafafinao ny sahanao, ary enin-taana no hotezaina ny tanimboalobokao, dia hotangarenao ⟨את⟩ ny vokatriny.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "Enin-"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taona"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "hafafinao"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ny sahanao"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ary enin-"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taona"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "hotezaina"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "ny tanimboalobokao"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "dia hotangarenao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vokatriny"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ny vokatriny"
+    }
+  ],
+  "timestamp": "2026-08-31T13:21:37.017075260Z",
+  "model": "glm-5.3"
+}

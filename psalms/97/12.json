@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 97,
+  "translation": "Mifalia, ry marina, amin'i Yahveh, ary manolora fisaorana amin'ny fahatsiarovana ny fahamasinany.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Mifalia"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ry marina"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "amin'i Yahveh"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "ary manolora fisaorana"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "amin'ny fahatsiarovana ny"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "fahamasinany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:16.691662181Z",
+  "model": "glm-5.3"
+}

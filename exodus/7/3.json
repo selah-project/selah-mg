@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Fa izaho kosa hamafy ⟨את⟩ fon'i Parao, ka hampitomboiko ⟨את⟩ famantarako sy ⟨את⟩ fahagagako ao amin'ny tanin'i Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Fa izaho kosa"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "hamafy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fon'i Parao"
+    },
+    {
+      "surface": "לב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "i Parao"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "hampitomboiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "famantarako"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "famantarako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "fahagagako"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "fahagagako"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ao amin'ny tanin'i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T12:56:10.487546588Z",
+  "model": "glm-5.3"
+}

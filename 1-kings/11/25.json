@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary nisy mpifanandrina tamin'ny Isiraely tamin'ny andro rehetra niainan'i Shelomoh, ankoatra ny loza nataon'i Hadad; ary nankahala an'ny Isiraely izy ka nanjaka tamin'i Aram.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nisy"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "mpifanandrina"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "tamin'ny Isiraely"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "andro"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny loza"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "loza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "nankahala"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "an'ny Isiraely"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "nanjaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-31T14:45:56.932938955Z",
+  "model": "glm-5.3"
+}

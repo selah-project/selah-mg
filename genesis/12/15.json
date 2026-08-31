@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Dia hitan'ny mpanapakan'i Parao koa izy, ary nidera azy izy ireo tamin'i Parao; dia nalaina tany an-tranon'i Parao ilay vehivavy.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "hitan'ny"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "izy (ilay vehivavy)"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mpanapakan'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "ary nidera"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "dia nalaina"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ilay vehivavy"
+    },
+    {
+      "surface": "בית",
+      "gloss": "an-tranon'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:34.358562850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary nesorina ⟨את⟩ ny fonon'i Yehouda; ary tamin'izay andro izay ianao nijery ny fiadian'ny Bet haYaar.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Ary nesorina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fonon'i Yehouda"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "fonona"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "i Yehouda"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "ary ianao nijery"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ny"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "fiadiana"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "היער",
+      "gloss": "haYaar"
+    }
+  ],
+  "timestamp": "2026-08-31T15:08:04.366279697Z",
+  "model": "glm-5.3"
+}

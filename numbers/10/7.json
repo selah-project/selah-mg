@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary raha mamory ⟨את⟩ ny fiangonana, dia tsentsio, fa aza manao fanairana.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "raha mamory"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiangonana"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ny fiangonana"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "tsentsio"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa aza"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "manao fanairana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:27:24.934085580Z",
+  "model": "glm-5.3"
+}

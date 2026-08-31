@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary ny mpisorona manadio no hampitsangana ⟨את⟩ ilay olona hovidina sy ⟨את⟩ ireo zavatra ireo eo anoloan'i Yahveh, eo am-baravaran'ny trano'ny fihaonana.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "hampitsangana"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "manadio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay olona hovidina"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "hovidina"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ireo zavatra ireo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anoloan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "eo am-baravaran'ny"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "trano'ny"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:16:41.446011921Z",
+  "model": "glm-5.3"
+}

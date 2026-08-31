@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary izay mahalala ny anaranao hitoky aminao, fa tsy nahafoy ny mpitady anao ianao, ry Yahveh.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "hitoky"
+    },
+    {
+      "surface": "בך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "izay mahalala"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ny anaranao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "nahafoy"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "ny mpitady anao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:13.023146190Z",
+  "model": "glm-5.3"
+}

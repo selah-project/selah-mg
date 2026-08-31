@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "ary hitondra ny andro sy ny alina, ary hanavaka ny mazava sy ny maizina; ary nahita Elohim fa tsara.",
+  "tokens": [
+    {
+      "surface": "ולמשל",
+      "gloss": "ary hitondra"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ny andro"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "sy ny alina"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "ary hanavaka"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ny mazava sy"
+    },
+    {
+      "surface": "האור",
+      "gloss": "(mazava)"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "ny maizina"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ary nahita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:04.500354198Z",
+  "model": "glm-5.3"
+}

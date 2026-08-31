@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary niakatra Yehuda, ary Yahveh nanome ⟨את⟩ ny Kenaani sy ny Perizi ho ao an-tànany; ary namono azy tao Bezek izy, lehilahy iray alina no isany.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Ary niakatra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "Ary nanome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Kenaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ny Kenaani"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "sy ny Perizi"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ho ao an-tànany"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "Ary namono azy"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "tao Bezek"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "folo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "arivo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:03:50.621867413Z",
+  "model": "glm-5.3"
+}

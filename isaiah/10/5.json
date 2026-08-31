@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Indro fahoriana ho an'i Ashur, tehimahn'ny fahatezerako, ary izy teo an-tanan'ny mpanao fikorontana no enti-manafika azy.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Indro fahoriana"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tehimah"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ny fahatezerako"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "ary ilay teo an-tanan'ny mpanao fikorontana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "an-tanany"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "ahiahy amin'ny fahatezerako"
+    }
+  ],
+  "timestamp": "2026-08-31T15:05:04.687809198Z",
+  "model": "glm-5.3"
+}

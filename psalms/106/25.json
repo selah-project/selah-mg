@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Ary nifimofimo tao an-daobeny izy ary tsy nihaino ny feon'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "nifimofimo"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "tao an-daobeny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ny feon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:12.328909339Z",
+  "model": "glm-5.3"
+}

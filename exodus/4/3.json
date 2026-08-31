@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary hoy Izy: Araingo amin'ny tany. Dia narainginy tamin'ny tany izany, ka lasa menarana; ary nandositra Moshe niala tamin'iny.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy Izy"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "Araingo"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "narainginy"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "tamin'ny tany"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ka lasa"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "menarana"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "nandositra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "niala tamin'iny"
+    }
+  ],
+  "timestamp": "2026-08-31T12:55:11.184156082Z",
+  "model": "glm-5.3"
+}

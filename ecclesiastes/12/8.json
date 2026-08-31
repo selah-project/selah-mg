@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Hevel ny hevel rehetra, hoy ilay mpanao toromarika; ny zavatra rehetra dia hevel.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ny hevel rehetra"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "ilay mpanao toromarika"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ny zavatra rehetra"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-08-31T17:17:50.943914119Z",
+  "model": "glm-5.3"
+}

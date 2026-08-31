@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary izy nanao hoe: Teny iray manahy aho ho aminao. Ary izy nanao hoe: Lazao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Teny iray"
+    },
+    {
+      "surface": "לי",
+      "gloss": "manahy aho"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho aminao"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Lazao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:39:38.856423182Z",
+  "model": "glm-5.3"
+}

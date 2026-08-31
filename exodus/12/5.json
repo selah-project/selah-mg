@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ody tanteraka, lahy, zanaka kelin'ny taona iray, no ho anareo; avy amin'ny ondry na avy amin'ny osy no halinareo.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "ody"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tanteraka"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lahy"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "ondry"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na avy amin'ny"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "osy"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "halinareo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:22.821693108Z",
+  "model": "glm-5.3"
+}

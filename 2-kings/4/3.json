@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary hoy izy: Mandehana, mangataha ho anao fitoerana avy any ivelany, avy amin'⟨את⟩ ny namanao rehetra, fitoerana foana, aza mpify.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Mandehana"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "mangataha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "fitoerana"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "any ivelany"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "avy amin'⟨את⟩",
+      "marks": "ny namanao rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "ny namanao"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "fitoerana"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "foana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "mpify"
+    }
+  ],
+  "timestamp": "2026-08-31T14:52:53.264041252Z",
+  "model": "glm-5.3"
+}

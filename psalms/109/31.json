@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 109,
+  "translation": "Fa mitsangana eo ankavanan'ny malahelo Izy hanafaka azy amin'izay mitsara ny ainy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "mitsangana"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "eo ankavanan'ny"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "malahelo"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "hanafaka"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "amin'izay mitsara ny"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ainy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:38.782604938Z",
+  "model": "glm-5.3"
+}

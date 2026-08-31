@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary Davida latsaka tamin'ny razany, ka nalevina tao amin'ny tanànan'i Davida.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "latsaka tamin'ny razany"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "razany"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ka nalevina"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "tao amin'ny tanànan'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    }
+  ],
+  "timestamp": "2026-08-31T14:39:26.372682028Z",
+  "model": "glm-5.3"
+}

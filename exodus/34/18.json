@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 34:18",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ny fety ⟨את⟩ amin'ny mofo tsy misy masirasira no tandremano: fito andro no hihinananao mofo tsy misy masirasira, araka izay nandidiako anao, amin'ny fotoana voatetra, dia ny volana Abiba; fa tamin'ny volana Abiba no nivoahanao avy tamin'i Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fety"
+    },
+    {
+      "surface": "חג",
+      "gloss": "fety"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "amin'ny mofo tsy misy masirasira"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "tandremano"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "fito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "hihinananao"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mofo tsy misy masirasira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "araka izay"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "nandidiako anao"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "amin'ny fotoana voatetra"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "volana"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abiba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "tamin'ny volana"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abiba"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "nivoahanao"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "avy tamin'i Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T13:08:43.891599726Z",
+  "model": "glm-5.3"
+}

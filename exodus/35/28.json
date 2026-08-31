@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Sy ⟨את⟩ zava-manitra sy ⟨את⟩ diloilo, ho an'ny fanaovan-mazava, sy ho an'ny diloilo fanosorana, ary ho an'ny ditin-kazavana manitra.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zava-manitra"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "zava-manitra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "diloilo"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "diloilo"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ho an'ny fanaovan-mazava"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "sy ho an'ny diloilo"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "fanosorana"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "ary ho an'ny ditin-kazavana"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "manitra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:08:14.730572982Z",
+  "model": "glm-5.3"
+}

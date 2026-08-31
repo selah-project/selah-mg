@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ataovy manakaiky ny foko Levì, ka ataony hitsangana eo anoloan'i Aharon mpisorona, mba hanompo azy izy ireo.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "Ataovy manakaiky"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny foko Levì"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "foko"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levì"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "ka ataony hitsangana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "izy (Levì) eo anoloan'i Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anoloan'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "mba hanompo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (Aharon)"
+    }
+  ],
+  "timestamp": "2026-08-31T13:24:40.991820787Z",
+  "model": "glm-5.3"
+}

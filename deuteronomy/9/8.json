@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary tany Horeb koa ianareo nampahatezitra ⟨את⟩ an'i Yahveh, ka tezitra taminareo Yahveh ka saika handripaka anareo.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "Ary tany Horeb"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "ianareo nampahatezitra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "ka tezitra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "taminareo"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "ka saika handripaka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:43:38.414905359Z",
+  "model": "glm-5.3"
+}

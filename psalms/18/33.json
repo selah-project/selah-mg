@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "El no manao lam-baraka amiko hery, ka manao tanteraka ny lalako.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "המאזרני",
+      "gloss": "manao lam-baraka amiko"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hery"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ka manao"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tanteraka"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ny lalako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:33.543219259Z",
+  "model": "glm-5.3"
+}

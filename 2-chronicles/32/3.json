@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Dia niara-nihevitra tamin'ireo andrianany sy ireo lehilahy mahery izy hanidy ⟨את⟩ ny rano amin'ireo loharano izay ivelan'ny tanàna; ary nanampy azy ireo.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "niara-nihevitra"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tamin'ireo"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "andrianany"
+    },
+    {
+      "surface": "וגבריו",
+      "gloss": "sy ireo lehilahy mahery"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "hanidy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rano amin'ireo loharano"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "rano"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "loharano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ivelan'ny"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "nanampy azy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:52:08.850080462Z",
+  "model": "glm-5.3"
+}

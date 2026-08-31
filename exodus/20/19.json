@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary hoy ireo ⟨izy⟩ tamin'i Moshe: Ianao no miteny aminay, ka hihaino izahay; fa aza avela hiteny aminay Elohim, fandrao maty izahay.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "hoy ireo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "miteny"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ianao"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "aminay"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "ka hihaino izahay"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fa aza"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "miteny"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "aminay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "fandrao"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "maty izahay"
+    }
+  ],
+  "timestamp": "2026-08-31T17:57:04.524436764Z",
+  "model": "glm-5.3"
+}

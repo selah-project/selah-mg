@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 104:29",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 104,
+  "translation": "Manenjika ny tavonao izy ⟨ireo⟩; manaisotra ny rivotrany izy ⟨ireo⟩ dia maty, ka miverina amin'ny vovony izy ⟨ireo⟩.",
+  "tokens": [
+    {
+      "surface": "תסתיר",
+      "gloss": "manenjika"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ny tavonao"
+    },
+    {
+      "surface": "יבהלון",
+      "gloss": "izy ⟨ireo⟩"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "manaisotra"
+    },
+    {
+      "surface": "רוחם",
+      "gloss": "ny rivotrany"
+    },
+    {
+      "surface": "יגועון",
+      "gloss": "maty"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ka amin'ny"
+    },
+    {
+      "surface": "עפרם",
+      "gloss": "vovony"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "miverina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:16.808072383Z",
+  "model": "glm-5.3"
+}

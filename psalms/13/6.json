@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Fa izaho kosa matoky ny hesed-nao; mifaly ny foko amin'ny famonjenao; hihira ho an'i Yahveh aho, fa efa nanao soa amiko ⟨izy⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Fa izaho kosa"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "ny hesed-nao"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "matoky"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "mifaly"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "amin'ny famonjenao"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "hihira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "nanao soa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:56.592801651Z",
+  "model": "glm-5.3"
+}

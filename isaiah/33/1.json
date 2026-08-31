@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 33:1",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Endrey, ry mpandrava, fa ianao tsy voadrava; ry mpamadika, fa tsy nisy namadika anao! Raha vao tapitra ny fandraravanao, ho voadrava ianao; raha vao tapitra ny famadihanao, hiamadika anao ireo.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Endrey"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "ry mpandrava"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "fa ianao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "voadrava"
+    },
+    {
+      "surface": "ובוגד",
+      "gloss": "ry mpamadika"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "namadika"
+    },
+    {
+      "surface": "בו",
+      "gloss": "anao"
+    },
+    {
+      "surface": "כהתמך",
+      "gloss": "raha vao tapitra"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "ny fandraravanao"
+    },
+    {
+      "surface": "תושד",
+      "gloss": "ho voadrava"
+    },
+    {
+      "surface": "כנלתך",
+      "gloss": "raha vao tapitra"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "ny famadihanao"
+    },
+    {
+      "surface": "יבגדו",
+      "gloss": "hiamadika"
+    },
+    {
+      "surface": "בך",
+      "gloss": "anao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:11:50.056928331Z",
+  "model": "glm-5.3"
+}

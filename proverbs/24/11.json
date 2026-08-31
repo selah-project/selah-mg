@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 24:11",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Vonjeo izay entina ho any amin'ny fahafatesana, ary izay sombina ho famonoana — raha toa ka tanao izany!",
+  "tokens": [
+    {
+      "surface": "הצל",
+      "gloss": "vonjeo"
+    },
+    {
+      "surface": "לקחים",
+      "gloss": "izay entina"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ho any amin'ny fahafatesana"
+    },
+    {
+      "surface": "ומטים",
+      "gloss": "ary izay sombina"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "ho famonoana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha toa ka"
+    },
+    {
+      "surface": "תחשוך",
+      "gloss": "tanao izany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:56:00.133310383Z",
+  "model": "glm-5.3"
+}

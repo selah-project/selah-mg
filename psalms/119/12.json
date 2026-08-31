@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Isaorana hianao, ry Yahveh; ampianaro ahy ny didim-pitiavanao.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Isaorana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "hianao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ampianaro ahy"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ny didim-pitiavanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:03.076774563Z",
+  "model": "glm-5.3"
+}

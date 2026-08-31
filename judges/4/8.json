@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary Baraka nanao taminy hoe: Raha miaraka amiko ianao dia handeha aho; fa raha tsy miaraka amiko ianao dia tsy handeha aho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao taminy hoe"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Baraka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "miaraka amiko"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "dia handeha aho"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "fa raha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "miaraka amiko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "handeha aho"
+    }
+  ],
+  "timestamp": "2026-08-31T14:07:31.817820804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Aoka mba ho fampiononana ahy ny hesed-nao, araka ny teny nolazainao tamin'ny mpanomponao.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "aoka ho"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mba"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ny hesed-nao"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "ho fampiononana ahy"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "araka ny teny nolazainao"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "tamin'ny mpanomponao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:39.001398590Z",
+  "model": "glm-5.3"
+}

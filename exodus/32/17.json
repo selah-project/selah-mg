@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ary Yehoshoa nandre ⟨את⟩ ny feon'ny vahoaka tamin'ny fihobyana, ka nolazainy tamin'i Moshe: Feon'ady ⟨no⟩ ao an-toby.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nandre"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny feon'ny vahoaka"
+    },
+    {
+      "surface": "קול",
+      "gloss": "feo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "tamin'ny fihobyana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nolazainy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "feo"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ady"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ao an-toby"
+    }
+  ],
+  "timestamp": "2026-08-31T13:07:49.447159602Z",
+  "model": "glm-5.3"
+}

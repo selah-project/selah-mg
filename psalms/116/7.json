@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 116,
+  "translation": "Miverena, ry fanahiko, amin'ny fialanalanao, fa Yahveh efa nanao soa taminao.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Miverena"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ry fanahiko"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "amin'ny fialanalanao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "nanao soa"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "taminao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:41.811147446Z",
+  "model": "glm-5.3"
+}

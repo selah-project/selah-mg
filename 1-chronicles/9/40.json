@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary zanak'i Yehonatan dia Meriv-Baal; ary Meriv-Baal niteraka ⟨את⟩ Mikah.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Meriv-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "Meriv-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikah"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mikah"
+    }
+  ],
+  "timestamp": "2026-08-31T18:26:26.619841819Z",
+  "model": "glm-5.3"
+}

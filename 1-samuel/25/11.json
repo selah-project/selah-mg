@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary halaiko va ⟨את⟩ ny mofoiko sy ⟨את⟩ ny ranoko sy ⟨את⟩ ny hena natonoiko ho an'ny mpanety ondry amiko, ka homeko ho an'olona tsy fantatro avy amin'ny aiza ihany izy ireo?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "Ary halaiko va"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mofoiko"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mofoiko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny ranoko"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "ranoko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny hena"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "hena natonoiko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨izay⟩"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "natonoiko"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "ho an'ny mpanety ondry amiko"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ka homeko"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "ho an'olona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨izay⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "fantatro"
+    },
+    {
+      "surface": "אי",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "aiza ihany"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:24:02.703823685Z",
+  "model": "glm-5.3"
+}

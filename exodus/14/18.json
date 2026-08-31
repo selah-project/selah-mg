@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary ho fantatron'ny Mitsrayim fa izaho no Yahveh, rehefa mankalaza aho amin'i Parao, amin'ny kalesiny sy amin'ny mpitaingin-tsoavaly.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ary ho fantatro"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ny Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "rehefa mankalaza aho"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "amin'i Parao"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "amin'ny kalesiny"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "sy amin'ny mpitaingin-tsoavaly"
+    }
+  ],
+  "timestamp": "2026-08-31T17:56:45.128191441Z",
+  "model": "glm-5.3"
+}

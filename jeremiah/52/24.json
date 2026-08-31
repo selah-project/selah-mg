@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 52,
+  "translation": "Ary ny lehiben'ny mpandrary naka ⟨את⟩ an'i Serajah mpisorona voalohany sy ⟨את⟩ an'i Tsefanjah mpisorona faharoa ary ⟨את⟩ ireo mpiambina ny tokonana telo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ary ... naka"
+    },
+    {
+      "surface": "רב",
+      "gloss": "lehiben'ny"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "mpandrary"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serajah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serajah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "voalohany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsefanjah"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanjah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "faharoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mpiambina ny tokonana telo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "telo"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "mpiambina"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "ny tokonana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:46:24.123745408Z",
+  "model": "glm-5.3"
+}

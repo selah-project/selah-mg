@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 7:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ka azy efa nomaniny ny fitaovam-pahafatesana; ny zana-tsipìkany ataony ho an'ireo mirehetra.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "Ka azy"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "efa nomaniny"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "fitaovana"
+    },
+    {
+      "surface": "מות",
+      "gloss": "fahafatesana"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "ny zana-tsipìkany"
+    },
+    {
+      "surface": "לדלקים",
+      "gloss": "ho an'ireo mirehetra"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "ataony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:55.665758005Z",
+  "model": "glm-5.3"
+}

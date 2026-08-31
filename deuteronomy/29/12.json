@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 29:12",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "mba hananganana anao ⟨את⟩ anio ho firenena ho an'ny Tenany, ary Izy ho Elohim ho anao, araka ny nolazainy taminao, sy araka ny nianianany tamin'ny razanao, tamin'i Avraham, tamin'i Yitschak ary tamin'i Yaakov.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "mba"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "hananganana"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ anao",
+      "marks": "ianoa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "anio"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho an'ny Tenany"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ho firenena"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ary Izy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nolazainy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "taminao"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "sy araka ny"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "nianianany"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "tamin'ny razanao"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "tamin'i Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "tamin'i Yitschak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "ary tamin'i Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-31T13:51:04.526515589Z",
+  "model": "glm-5.3"
+}

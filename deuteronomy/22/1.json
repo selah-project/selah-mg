@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Tsy hahita ⟨את⟩ omby an'i rahalahinao na ⟨את⟩ ondry aman'osiny mitaly ianao ka hanafeninao tena amin'izy ireny; tsy maintsy hatolotrao any amin'i rahalahinao mihitsy izy ireny.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "hahita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omby"
+    },
+    {
+      "surface": "שור",
+      "gloss": "omby"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "an'i rahalahinao"
+    },
+    {
+      "surface": "או",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ondry aman'osiny"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "ondry aman'osiny"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "mitaly"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "ka hanafeninao tena"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "amin'izy ireny"
+    },
+    {
+      "surface": "השב",
+      "gloss": "tsy maintsy hatolotrao"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "hatolotrao"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "any amin'i rahalahinao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:47:39.623457762Z",
+  "model": "glm-5.3"
+}

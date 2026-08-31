@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Mahatsiaro mandrakizay ny fanekeny, ⟨ny⟩ teny izay nandidiany ho amin'ny arivo taranaka.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Mahatsiaro"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ny fanekeny"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "teny"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidiany"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "ho amin'ny arivo"
+    },
+    {
+      "surface": "דור",
+      "gloss": "taranaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:14.606210738Z",
+  "model": "glm-5.3"
+}

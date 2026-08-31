@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Ary hitan'ny vahoaka rehetra ⟨את⟩ ny tsangam-baton'ny rahona mijanona eo am-bavahadin'ny laina, dia nitsangana ny vahoaka rehetra ka niankohoka, samy olona teo am-bavahadin'ny lainany avy.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Ary hitan'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tsangam-baton'ny rahona"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "tsangam-bato"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ny rahona"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "mijanona"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "eo am-bavahadin'ny"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "laina"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "dia nitsangana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "ka niankohoka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "samy olona"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "teo am-bavahadin'ny"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "lainany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:08:20.533501366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Ary hanao ⟨את⟩ ny efoda izy: volamena, manga, ary volom-paritra, lamba volom-menarana ary rongony mifamby, asa nataon'ny mpanao sary.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Ary hanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny efoda"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ny efoda"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "manga"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ary volom-paritra"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "lamba volom-menarana"
+    },
+    {
+      "surface": "שני",
+      "gloss": "volom-menarana"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ary rongony"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "mifamby"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "asa"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "nataon'ny mpanao sary"
+    }
+  ],
+  "timestamp": "2026-08-31T13:05:09.060076068Z",
+  "model": "glm-5.3"
+}

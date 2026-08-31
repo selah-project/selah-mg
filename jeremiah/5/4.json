@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 5:4",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary hoy izaho: Tena mahantra tokoa izy ireo, efa adala ireo; fa tsy mahalala ny lalan'i Yahveh, na ny fitsaran'ny Elohim ⟨-n'ny azy ireo⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ary hoy izaho"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tena ... tokoa"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "mahantra"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izy ireo"
+    },
+    {
+      "surface": "נואלו",
+      "gloss": "efa adala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ny lalan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ny fitsaran'"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ny Elohim ⟨-n'ny azy ireo⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T15:26:06.440878044Z",
+  "model": "glm-5.3"
+}

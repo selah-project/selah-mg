@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Manja ny tsiaky, lavo ny voninkazo; fa ny tenin'ny Elohim hitoetra mandrakizay.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "Manja"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ny tsiaky"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "lavo"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "ny voninkazo"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "fa ny tenin'"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "hitoetra"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    }
+  ],
+  "timestamp": "2026-08-31T15:14:28.465607859Z",
+  "model": "glm-5.3"
+}

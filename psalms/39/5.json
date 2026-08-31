@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "Ampahafantariro ahy, ry Yahveh, ny faraiko, ary ny refy ny androko — inona izany? hahalala aho firy ny faharerahako.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "Ampahafantariro ahy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "ny faraiko"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "ary ny refy"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ny androko"
+    },
+    {
+      "surface": "מה",
+      "gloss": "inona"
+    },
+    {
+      "surface": "היא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "hahalala aho"
+    },
+    {
+      "surface": "מה",
+      "gloss": "firy"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "faharerahako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:41.175727862Z",
+  "model": "glm-5.3"
+}

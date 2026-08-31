@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary ny mpanjaka nanao taminy hoe: Nofy no nofinofiko, ary ny fanahy nihorohoro hahalala ⟨את⟩ ilay nofy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary ny mpanjaka nanao taminy hoe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tamin'izy ireo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "Nofy"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "no nofinofiko"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "ary ny fanahy nihorohoro"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "hahalala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay nofy"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ilay nofy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:20:36.015576150Z",
+  "model": "glm-5.3"
+}

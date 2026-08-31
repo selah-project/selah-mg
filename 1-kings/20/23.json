@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 20:23",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary ny mpanompon'ny mpanjakan'i Aram nanao taminy hoe: Elohim ny tendrombohitra no Elohiny; noho izany no nahery taminay izy; fa raha miady ⟨את⟩ aminy isika ao amin'ny tani-hay, tsy mahery aminay va izy?",
+  "tokens": [
+    {
+      "surface": "ועבדי",
+      "gloss": "Ary ny mpanompon'"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ny mpanjakan'"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ny tendrombohitra"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "no Elohiny"
+    },
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "no nahery"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "taminay"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "fa raha"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "miady"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ aminy",
+      "marks": "Izraely"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "ao amin'ny tani-hay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "va"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "aminay"
+    }
+  ],
+  "timestamp": "2026-08-31T14:48:43.326636133Z",
+  "model": "glm-5.3"
+}

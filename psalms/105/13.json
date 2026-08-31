@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Dia nitsidika nandeha izy ireo, avy amin'ny firenena ho any amin'ny firenena, avy amin'ny fanjakana ho any amin'ny vahoaka hafa.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "dia nitsidika nandeha"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "avy amin'ny firenena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "avy amin'ny fanjakana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "hafa"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:46.840380541Z",
+  "model": "glm-5.3"
+}

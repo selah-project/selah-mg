@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Niakatra setroka avy tamin'ny orony, ary afo avy tamin'ny vavany no nandevona; ireo jalakely nirehitra avy tamin'izany.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "niakatra"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "setroka"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "avy tamin'ny orony"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ary afo"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "avy tamin'ny vavany"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "no nandevona"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "ireo jalakely"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "nirehitra"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "avy tamin'izany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:39.219166880Z",
+  "model": "glm-5.3"
+}

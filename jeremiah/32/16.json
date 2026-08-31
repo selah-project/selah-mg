@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 32:16",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ary nivavaka tamin'i Yahveh aho, rehefa nomenako ⟨את⟩ ny bokin'ny fividianana an'i Baroka zanak'i Neria, ka nanao hoe:",
+  "tokens": [
+    {
+      "surface": "ואתפלל",
+      "gloss": "nivavaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rehefa"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "nomenako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny bokin'ny fividianana"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "boky"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "fividianana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an'i"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baroka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Neria"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T15:37:06.608831427Z",
+  "model": "glm-5.3"
+}

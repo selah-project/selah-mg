@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Lazao amin'ny fahendrena hoe: Rahavavy ⟨ianao⟩; ary ny fahalalana antsoio hoe: havana.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Lazao"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "amin'ny fahendrena"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "Rahavavy"
+    },
+    {
+      "surface": "את",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "ary ny fahalalana"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "amin'ny fahalalana"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "antsoio hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T16:50:22.893915284Z",
+  "model": "glm-5.3"
+}

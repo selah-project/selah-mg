@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 43,
+  "translation": "Holazaiko amin'ny avaratra: Omeo; ary amin'ny atsimo: Aza sakano; ento avy any lavitra ny zanako-lahy, ary ny zanako-vavy avy eo an-davantran'ny tany.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "holazaiko"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "amin'ny avaratra"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Omeo"
+    },
+    {
+      "surface": "ולתימן",
+      "gloss": "ary amin'ny atsimo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תכלאי",
+      "gloss": "sakano"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "Ento"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny zanako-lahy"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "avy any lavitra"
+    },
+    {
+      "surface": "ובנותי",
+      "gloss": "ary ny zanako-vavy"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "avy eo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "an-davantran'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:14:36.829257505Z",
+  "model": "glm-5.3"
+}

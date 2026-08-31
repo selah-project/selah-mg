@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary niantso tamin'i Moshe Izy, ary Yahveh niteny taminy avy tamin'ny trano fihaonana, ka nanao hoe:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "niteny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "avy tamin'ny trano"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe:"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:40.359342608Z",
+  "model": "glm-5.3"
+}

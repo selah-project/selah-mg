@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 40:3",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Dia namaly Iyoba ⟨את⟩ i Yahveh ka nanao hoe:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "namaly"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyoba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Yahveh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T17:08:46.741741514Z",
+  "model": "glm-5.3"
+}

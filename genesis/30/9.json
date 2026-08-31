@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 30:9",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary hitan'i Lea fa nijanona tsy miteraka izy, ka nalainy Zilpa mpanompony ⟨את⟩ ka nomena an'i Yaakov ho vady izy.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "hitan'i"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "nijanona"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "tsy miteraka"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "nalainy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpa"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "mpanompony"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "nomena"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yaakov"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "an'i Yaakov"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ho vady"
+    }
+  ],
+  "timestamp": "2026-08-31T12:44:07.020694039Z",
+  "model": "glm-5.3"
+}

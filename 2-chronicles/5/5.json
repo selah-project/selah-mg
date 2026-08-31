@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary nahazo ⟨את⟩ ny fiara ⟨את⟩ sy ny lay fihaonana ⟨את⟩ sy ny fanaka masina rehetra izay tao anaty lay; ireo no nentina niakatra ny mpisorona, ny Levita.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "nahazo niakatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiara"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ny fiara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny lay fihaonana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "lay"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanaka masina rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "fanaka"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "tao anaty lay"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "nentina niakatra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ireo",
+      "marks": "ny mpisorona, ny Levita"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ny Levita"
+    }
+  ],
+  "timestamp": "2026-08-31T17:44:00.776480975Z",
+  "model": "glm-5.3"
+}

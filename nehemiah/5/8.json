@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 5:8",
+  "book": "nehemiah",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary hoy izaho aminy: Izahay efa nividy ⟨את⟩ ny rahalahintsika Jiosy izay novidina ho any amin'ny firenena, araka ny herinay; ary ianareo koa hamidy ⟨את⟩ ny rahalahinareo, ka hivarotra azy amintsika? Dia nangina izy ireo, fa tsy nahita teny akory.",
+  "tokens": [
+    {
+      "surface": "ואמרה",
+      "gloss": "ary hoy izaho"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "izahay"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "efa nividy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rahalahintsika Jiosy"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "ny rahalahintsika"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Jiosy"
+    },
+    {
+      "surface": "הנמכרים",
+      "gloss": "izay novidina"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "ho any amin'ny firenena"
+    },
+    {
+      "surface": "כדי",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "herinay"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ary koa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ianareo"
+    },
+    {
+      "surface": "תמכרו",
+      "gloss": "hamidy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rahalahinareo"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ny rahalahinareo"
+    },
+    {
+      "surface": "ונמכרו",
+      "gloss": "ka hivarotra azy"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "amintsika"
+    },
+    {
+      "surface": "ויחרישו",
+      "gloss": "dia nangina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "nahita"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "teny akory"
+    }
+  ],
+  "timestamp": "2026-08-31T17:30:50.115336337Z",
+  "model": "glm-5.3"
+}

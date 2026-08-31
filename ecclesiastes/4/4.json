@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary hitako ⟨את⟩ ny ezaka rehetra sy ⟨את⟩ ny fahombiazana rehetra amin'ny asa — fa lava sain'ny olona amin'ny namany izany; koa ity koa dia hebel sy fangirifiriana amin'ny rivotra.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "Ary hitako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ezaka rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ny ezaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahombiazana rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "ny fahombiazana"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "amin'ny asa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "lava sain'"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "amin'ny namany"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "sy fangirifiriana"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "amin'ny rivotra"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:51.896092371Z",
+  "model": "glm-5.3"
+}

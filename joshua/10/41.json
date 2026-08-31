@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 10:41",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary Yehoshoa namely(){}nahafaty azy ireo hatramin'i Kadesh-Barnea ka hatramin'i Azzah, sy ⟨את⟩ ny tany rehetra atreon'i Goshen, ka hatramin'i Gibona.",
+  "tokens": [
+    {
+      "surface": "ויכם",
+      "gloss": "nahafaty"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoa"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "hatramin'i Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatramin'i"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany rehetra atreon'i Goshen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goshen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatramin'i"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibona"
+    }
+  ],
+  "timestamp": "2026-08-31T13:59:24.755023496Z",
+  "model": "glm-5.3"
+}

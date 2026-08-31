@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 116,
+  "translation": "Sarobidy eo imason'i Yahveh ⟨ny⟩ fahafatesan'ny hasidany.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "Sarobidy"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "eo imason'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "fahafatesan'ny"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "hasidany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:47.162918776Z",
+  "model": "glm-5.3"
+}

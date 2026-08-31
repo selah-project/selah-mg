@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Fa ny ratsy fanahy mirehareha amin'ny fanirian'ny fanahiny, ary ny tia tombontsoa manisa soa ⟨tenany⟩; manamavo an'i Yahveh izy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "mirehareha"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "fanirian'ny"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "fanahiny"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "ary ny tia tombontsoa"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "manisa soa"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "manamavo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:56.500278445Z",
+  "model": "glm-5.3"
+}

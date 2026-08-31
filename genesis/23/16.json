@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 23:16",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary nihaino an'i Efrona Abrahamra, ka nananafera tamin'i Efrona Abrahamra ny ⟨את⟩ volafotsy izay nolazainy tamin'ny sofin'ny zanak'i Heta — efajato sikla volafotsy, mety amin'ny mpivarotra.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an'i"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efrona"
+    },
+    {
+      "surface": "וישקל",
+      "gloss": "nananafera"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamra"
+    },
+    {
+      "surface": "לעפרן",
+      "gloss": "tamin'i Efrona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny volafotsy"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nolazainy"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "tamin'ny sofin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heta"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "efatra"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "zato"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sikla"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "mety"
+    },
+    {
+      "surface": "לסחר",
+      "gloss": "amin'ny mpivarotra"
+    }
+  ],
+  "timestamp": "2026-08-31T12:41:13.982121400Z",
+  "model": "glm-5.3"
+}

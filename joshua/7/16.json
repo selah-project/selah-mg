@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary Yehoshoa nifohaza maraina be, ka nampitolaka ⟨את⟩ an'i Yisraela araka ny foko-lehilahiny; dia voasambotra ny fokon'i Yehuda.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "nifohaza maraina be"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tamin'ny maraina"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "ka nampitolaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "araka ny foko-lehilahiny"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "dia voasambotra"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ny fokon-lehilahy"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-31T18:00:50.420642413Z",
+  "model": "glm-5.3"
+}

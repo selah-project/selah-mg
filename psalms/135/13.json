@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 135,
+  "translation": "Yahveh, amin'ny fisavana ny anaranao; Yahveh, amin'ny taranaka sy taranaka ny fahatsiarovana anao.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ny anaranao"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "amin'ny fisavana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "ny fahatsiarovana anao"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "amin'ny taranaka"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "sy taranaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:33.701106298Z",
+  "model": "glm-5.3"
+}

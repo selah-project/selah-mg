@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Efa nanao ⟨fanekena⟩ tamin'ny olom-boafidiko aho; efa nianiana tamin'i Davida mpanompoko aho.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "Efa nanao... aho"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "⟨fanekena⟩"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "tamin'ny olom-boafidiko"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "efa nianiana... aho"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "tamin'i Davida"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mpanompoko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:44.777749746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 86,
+  "translation": "Miverena manatona ahy, ary mamindra fo amiko; omeo ny herinao ny mpanomponao, ary vonjeo ny zanak'ny mpanompo-vavyo.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Miverena manatona"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ary mamindra fo amiko"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "omeo"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ny herinao"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ny mpanomponao"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "ary vonjeo"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ny zanak'ny"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "mpanompo-vavyo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:58.404377736Z",
+  "model": "glm-5.3"
+}

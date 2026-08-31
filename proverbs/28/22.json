@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Mihazakazaka mankatso amin'ny haren-karena ny lehibe maso ratsy, ary tsy mahalala fa ny fahoriana no ho tonga aminy.",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "mihazakazaka mankatso"
+    },
+    {
+      "surface": "להון",
+      "gloss": "amin'ny haren-karena"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ny lehibe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "raty"
+    },
+    {
+      "surface": "עין",
+      "gloss": "maso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "fahoriana"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "ho tonga aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:57:37.932157253Z",
+  "model": "glm-5.3"
+}

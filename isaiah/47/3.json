@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 47,
+  "translation": "Hiseho ny fahamenaranao, eny, ho hita koa ny fahafahakeloranao; hamaly faty Aho, fa tsy hangatahan'olombelona.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "Hiseho"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "ny fahamenaranao"
+    },
+    {
+      "surface": "גם",
+      "gloss": "eny"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ho hita"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "ny fahafahakeloranao"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "hamaly faty"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "Aho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "hangatahan'olombelona"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olombelona"
+    }
+  ],
+  "timestamp": "2026-08-31T15:17:46.509102014Z",
+  "model": "glm-5.3"
+}

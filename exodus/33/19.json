@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 33:19",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Ary hoy Izy: Izay dia hampandehanako alohan'ny tavanao ny soako rehetra, ary hiantsoiko amin'ny anaran'i Yahveh eo anatrehanao; ary homeko tso-dratsy ⟨את⟩ izay tso-dratsiko, ary hampanasoiko aloka ⟨את⟩ izay tian-kiantranoana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy Izy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izay"
+    },
+    {
+      "surface": "אעביר",
+      "gloss": "hampandehanako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "טובי",
+      "gloss": "ny soako"
+    },
+    {
+      "surface": "על",
+      "gloss": "alohan'ny"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tavanao"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "hiantsoiko"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "amin'ny anaran'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "eo anatrehanao"
+    },
+    {
+      "surface": "וחנתי",
+      "gloss": "homeko tso-dratsy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay tso-dratsiko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אחן",
+      "gloss": "tso-dratsiko"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "hampanasoiko aloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay tian-kiantranoana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "tian-kiantronoana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:08:37.003846215Z",
+  "model": "glm-5.3"
+}

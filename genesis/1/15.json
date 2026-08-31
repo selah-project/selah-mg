@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 1:15",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary hitoetra ho fanazavana izy ireo ao amin'ny habakabakan'ny lanitra, hanazava ny tany; ka dia izay no natao.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "Ary hitoetra ho"
+    },
+    {
+      "surface": "למאורת",
+      "gloss": "fanazavana izy ireo"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "ao amin'ny habakabaka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "hanazava"
+    },
+    {
+      "surface": "על",
+      "gloss": "ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ka dia"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izay no natao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:14.473666357Z",
+  "model": "glm-5.3"
+}

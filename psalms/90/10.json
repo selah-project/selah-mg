@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 90,
+  "translation": "Ny andron'ny taonanay amin'izany dia fito-polo taona, ary raha amin'ny hery kosa valo-polo taona; ny reharehany dia fiharatsiana sy tsy marina; fa voapaka faingana izy ka mandosira izahay.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "Ny andron'ny"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "taonanay"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "amin'izany"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "fito-polo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ary raha"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "amin'ny hery"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "valo-polo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "ny reharehany"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "fiharatsiana"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "tsy marina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "גז",
+      "gloss": "voapaka"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "faingana"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "ka mandosira izahay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:03.067098004Z",
+  "model": "glm-5.3"
+}

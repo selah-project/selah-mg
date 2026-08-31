@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary namaly Yoaba ka nanao hoe: Lavina, lavina ho ahy raha hiteliko na hanimboiko.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ary namaly"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoaba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Lavina"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "lavina"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "hiteliko"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "hanimboiko"
+    }
+  ],
+  "timestamp": "2026-08-31T14:35:59.771976230Z",
+  "model": "glm-5.3"
+}

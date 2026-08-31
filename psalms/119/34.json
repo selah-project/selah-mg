@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 119:34",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Homarihinao ahoy fa mahay, ary hitahiry ny Torah-nao aho; ary hitandrina azy amin'ny foko manontolo.",
+  "tokens": [
+    {
+      "surface": "הבינני",
+      "gloss": "Homarihinao ahoy fa mahay"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "ary hitahiry"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ny Torah-nao"
+    },
+    {
+      "surface": "ואשמרנה",
+      "gloss": "ary hitandrina azy"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... manontolo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "foko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:51.482546557Z",
+  "model": "glm-5.3"
+}

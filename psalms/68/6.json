@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 68,
+  "translation": "Rain'ny kamboty sady mpitsarin'ny mpitondra-tena vehivavy ⟨no⟩ Elohim, ao amin'ny fonenany masina.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Rain'ny"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "kamboty"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "sady mpitsarin'ny"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "mpitondra-tena vehivavy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "ao amin'ny fonenany"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "masina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:46.043993166Z",
+  "model": "glm-5.3"
+}

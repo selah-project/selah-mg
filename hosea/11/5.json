@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Tsy hiverina ho any amin'ny tany Mitsrayim izy, fa Ashur no ho mpanjaka azy, satria nanda ny hiverina izy.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "hiverina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "fa Ashur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "mpanjaka azy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "nanda"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ny hiverina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:09:30.732128451Z",
+  "model": "glm-5.3"
+}

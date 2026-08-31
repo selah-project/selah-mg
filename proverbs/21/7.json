@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ny herisetry ny ratsy fanahy handingo ⟨azy⟩; fa ⟨izy ireo⟩ nanda nanao fitsarana.",
+  "tokens": [
+    {
+      "surface": "שוד",
+      "gloss": "herisetra"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ratsy fanahy"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "handingo azy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "nanda"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "fitsarana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:15:24.722228553Z",
+  "model": "glm-5.3"
+}

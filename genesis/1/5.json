@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary nataon'i Elohim anaran'ny hazavana hoe Andro, ary ny aizina nataony anarana hoe Alina; dia efa nisy hariva ary efa nisy maraina — andro iray.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ary nataon'i... anarana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "anaran'ny hazavana"
+    },
+    {
+      "surface": "יום",
+      "gloss": "hoe Andro"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "ary ny aizina"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nataony anarana"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "hoe Alina"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dia efa nisy"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "hariva"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "efa nisy"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "maraina"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:03.191134277Z",
+  "model": "glm-5.3"
+}

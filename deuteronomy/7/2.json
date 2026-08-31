@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 7:2",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "dia homezy Yahveh Elohim-nao eo anatrehanao ireo, ka kaikao izy; haringanao tanteraka ⟨את⟩ ireo — aza manao fanekena aminy ianao, ary aza mamindra fo aminy.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "homezy ireo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nao"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "eo anatrehanao"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "kaikao izy"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "haringanao tanteraka (fanaovana cherem)"
+    },
+    {
+      "surface": "תחרים",
+      "gloss": "haringanao tanteraka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ireo (ny firenena)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "manao fanekena"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "fanekena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תחנם",
+      "gloss": "mamindra fo aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:42:16.558075947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Raha mitoetra ambanivohitra hiady amin'ny fahavalonao ianao, dia tandremo tsy ho amin'ny zava-dratsy rehetra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "mitoera ambanivohitra"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ambanivohitra"
+    },
+    {
+      "surface": "על",
+      "gloss": "hiady amin'ny"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "fahavalonao"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "tandremo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "tsy ho amin'ny ... rehetra"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "zava-"
+    },
+    {
+      "surface": "רע",
+      "gloss": "dratsy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:49:25.018932124Z",
+  "model": "glm-5.3"
+}

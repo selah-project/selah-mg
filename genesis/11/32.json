@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary ny andron'i Teraha dia dimy amby roaanjaty taona; ary maty tao Charana Teraha.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ary ny ... dia"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "andron'i"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teraha"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "dimy"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "amby"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "roaanjaty"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ary maty"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teraha"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "tao Charana"
+    }
+  ],
+  "timestamp": "2026-08-31T12:38:17.541875201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 77:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 77,
+  "translation": "Ahitako indray ny fihirako amin'ny alina; miady hevitra amin'ny foko aho, ary ny fanahiko nitady fatratra.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "Ahitako indray"
+    },
+    {
+      "surface": "נגינתי",
+      "gloss": "ny fihirako"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "amin'ny alina"
+    },
+    {
+      "surface": "עם",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "foko"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "miady hevitra aho"
+    },
+    {
+      "surface": "ויחפש",
+      "gloss": "ary ... nitady fatratra"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ny fanahiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:36.469001888Z",
+  "model": "glm-5.3"
+}

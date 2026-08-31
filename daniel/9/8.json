@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Yahveh, anay ny fahamenarana eo anatrehana — ho an'ny mpanjakantsika, ho an'ny mpanapaka antsika sy ho an'ny razantsika, izay nanao fahadisoana taminao.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anay"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "ny fahamenarana"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "eo anatrehana"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "ho an'ny mpanjakantsika"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "ho an'ny mpanapaka antsika"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "sy ho an'ny razantsika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "nanao fahadisoana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "taminao"
+    }
+  ],
+  "timestamp": "2026-08-31T17:23:38.637837987Z",
+  "model": "glm-5.3"
+}

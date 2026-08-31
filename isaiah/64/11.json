@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 64:11",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 64,
+  "translation": "Haharay fandeferana amin'ireo va Ianao, Yahveh? Hangina va, ka hanafidy antsika fatratra?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "amin'ireo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "תתאפק",
+      "gloss": "haharay fandeferana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "hangina"
+    },
+    {
+      "surface": "ותעננו",
+      "gloss": "ka hanafidy antsika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fatratra (hatramin'ny)"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "fatratra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:22:17.722333265Z",
+  "model": "glm-5.3"
+}

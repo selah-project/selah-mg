@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary izaho — indro — mampitsangana ⟨את⟩ ny fanekenako aminareo, sy ⟨את⟩ amin'ny taranakareo aorianareo:",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ary izaho"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "indro"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "mampitsangana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanekenako"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ny fanekenako"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aminareo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "amin'ny taranakareo"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "aorianareo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:36:24.447209776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "⟨את⟩ Manda ho anay izy ireo, indrindra amin'ny alina, indrindra amin'ny andro, tamin'ny andro rehetra niarahanay tamin'ireo tampon'ny ondry.",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "Manda"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ho anay izy ireo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "anay"
+    },
+    {
+      "surface": "גם",
+      "gloss": "indrindra"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "amin'ny alina"
+    },
+    {
+      "surface": "גם",
+      "gloss": "indrindra"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "andro"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "niarahanay"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "tamin'ireo"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "tampon'ny ondry"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ondry"
+    }
+  ],
+  "timestamp": "2026-08-31T14:25:06.639972264Z",
+  "model": "glm-5.3"
+}

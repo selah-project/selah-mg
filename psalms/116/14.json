@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 116,
+  "translation": "Ny voadiko ho an'i Yahveh haloako, azafady, eo anatrehan'ny vahoakany rehetra.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "ny voadiko"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "haloako"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "⟨eo anatrehan'ny⟩"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨azafady⟩"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vahoakany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:47.162717896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ny tavan'i Yahveh ⟨mitsangana⟩ amin'ny mpanao ratsy, hanangana famafana ny fahatsiarovany amin'ny tany.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "ny tavany"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "amin'ny mpanao"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "hanangana famafana"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ny fahatsiarovany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:04.862571489Z",
+  "model": "glm-5.3"
+}

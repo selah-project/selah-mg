@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Eo alohan'ny faharavana ny fieiram-panahy, ary eo alohan'ny tredremana ny fanahy avo.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "eo alohan'ny"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "faharavana"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "fieiram-panahy"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ary eo alohan'ny"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "tredremana"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "avo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fanahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:53:54.695234045Z",
+  "model": "glm-5.3"
+}

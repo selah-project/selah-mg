@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Fa raha vao tsy mahay miantso 'ray' sy 'reny' ilay zaza, dia hentitra ⟨את⟩ ny haren'i Damaseka sy ⟨את⟩ ny babon'i Shomronoa, ho anatrehan'ny mpanjakan'i Ashur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "raha vao tsy"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mahay"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ilay zaza"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "miantso"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "'ray'"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "sy 'reny'"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "hentitra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny haren'i Damaseka"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "harena"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaseka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny babon'i Shomronoa"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "babo"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomronoa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ho anatrehan'ny"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'ny"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-31T15:04:33.335759954Z",
+  "model": "glm-5.3"
+}

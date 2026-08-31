@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 17:22",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary nataonao ho firenenao mandrakizay ny olonao Isiraely ⟨את⟩; ary ianao, Yahveh, efa nomba azy ho Elohim.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "ary nataonao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny olonao Isiraely"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ny olonao"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ho firenena"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hatramin'ny"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ary ianao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "היית",
+      "gloss": "efa nomba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ho Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T17:39:40.502261319Z",
+  "model": "glm-5.3"
+}

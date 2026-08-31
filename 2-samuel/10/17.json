@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 10:17",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary noroisona tamin'i Davida izany, ka nanangona ⟨את⟩ Isiraely rehetra izy, ary niampita ny Yordana ka tonga tany Helama. Ary ny Arama nanitsy fandaminana hiady amin'i Davida, ka niady taminy ireo.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "noroisona"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "tamin'i Davida"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "nanangona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraely rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "niampita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Yordana"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ny Yordana"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "חלאמה",
+      "gloss": "tany Helama"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "nanitsy fandaminana"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "hiady amin'"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "niady"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "taminy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:31:25.295016100Z",
+  "model": "glm-5.3"
+}

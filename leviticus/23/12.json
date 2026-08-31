@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary amin'ny andro ihanatroanareo ⟨את⟩ ilay omema dia hanao zanak'ondry tsy manan-tsiny, zanaka lahy iray taona, ho doro-jiro ho an'i Yahveh ianareo.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "Ary hanao"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "ihanatroanareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay omema"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "ilay omema"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "zanak'ondry"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tsy manan-tsiny"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka lahy"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "iray taona"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ho doro-jiro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:50.623790794Z",
+  "model": "glm-5.3"
+}

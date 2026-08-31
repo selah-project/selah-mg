@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary Enosh nahay sivy taona, dia niteraka ⟨את⟩ an'i Kenan.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "nahay"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "sivy"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Kenan"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:52.707419219Z",
+  "model": "glm-5.3"
+}

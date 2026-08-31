@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "izay notapahiny ⟨את⟩ tamin'i Avraham, sy ny fianianany tamin'i Yitschak.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "notapahiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "sy ny fianianany"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "tamin'i Yitschak"
+    }
+  ],
+  "timestamp": "2026-08-31T17:38:25.747165277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Ry taranak'i Avraham mpanompony, ry zanak'i Yaakov olom-pidiny.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "taranaka"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mpanompony"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "olom-pidiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:14.605909837Z",
+  "model": "glm-5.3"
+}

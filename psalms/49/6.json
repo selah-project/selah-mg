@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 49,
+  "translation": "Nahoana no matahotra aho amin'ny andron'ny loza, rehefa manodidina ahy ny faharatsiana manenjika ny tongotraoko?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "nahoana no"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "matahotra aho"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "amin'ny andron'ny"
+    },
+    {
+      "surface": "רע",
+      "gloss": "loza"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ny faharatsiana"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "manenjika ny tongotraoko"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "manodidina ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:30:11.980422217Z",
+  "model": "glm-5.3"
+}

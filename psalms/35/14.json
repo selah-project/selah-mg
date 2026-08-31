@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Toy ny namana, toy ny rahalahy aho no nandeha; niondrika sady nisaona toy ny manina reniny aho.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "Toy ny namana"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "toy ny rahalahy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ah"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "no nandeha"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "toy ny manina"
+    },
+    {
+      "surface": "אם",
+      "gloss": "reniny"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "sady nisaona malailaka"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "niondrika aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:26.029832070Z",
+  "model": "glm-5.3"
+}

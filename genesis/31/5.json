@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary hoy izy taminy: Mahita aho ⟨את⟩ ny tavan'ny rainareo, fa tsy mba mitondra ahy intsony izy toy ny omaly sy ny omaly halavany; ary Elohin'ny raiko efa niaraka tamiko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy izy taminy"
+    },
+    {
+      "surface": "להן",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "mahita"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavan'ny rainareo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ny tava-"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "ny rainareo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "tsy mba"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mitondra ahy"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "toy ny omaly"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "sy ny omaly halavany"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ary Elohin'ny"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "raiko"
+    },
+    {
+      "surface": "היה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "niaraka tamiko"
+    }
+  ],
+  "timestamp": "2026-08-31T12:46:08.099504539Z",
+  "model": "glm-5.3"
+}

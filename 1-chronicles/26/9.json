@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 26:9",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary tamin'i Meshelemiahu zanaka sy rahalahy, zanaka mahery valo ambin'ny folo.",
+  "tokens": [
+    {
+      "surface": "ולמשלמיהו",
+      "gloss": "Ary tamin'i Meshelemiahu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "ואחים",
+      "gloss": "sy rahalahy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "valo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ambin'ny folo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:41:02.123119405Z",
+  "model": "glm-5.3"
+}

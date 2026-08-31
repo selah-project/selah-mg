@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 108,
+  "translation": "Elohim efa niteny tao amin'ny fahamasinany; higaga aho, hizarako Shekema, ary handrefesako ny lohasahan'i Sukota.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "efa niteny"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "tao amin'ny fahamasinany"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "higaga aho"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "hizarako"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekema"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ary ny lohasahan'i"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukota"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "handrefesako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:04.253573054Z",
+  "model": "glm-5.3"
+}

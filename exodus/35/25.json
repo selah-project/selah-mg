@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Ary ny vehivavy rehetra mahay fo dia nifototra tamin'ny tanany, ka nitondra ny fotofo ⟨את⟩ ny manga ⟨את⟩ sy ny volomparasy, ⟨את⟩ ny lokam-baratra ary ⟨את⟩ ny rongony tsara.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ary ny ... rehetra"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vehivavy"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "mahay"
+    },
+    {
+      "surface": "לב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "tamin'ny tanany"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "nifototra"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ka nitondra"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "ny fotofo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny manga"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "ny manga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny volomparasy"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "ny volomparasy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lokam-baratra"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ny lokam-baratra"
+    },
+    {
+      "surface": "השני",
+      "gloss": "(lokam-baratra)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny rongony tsara"
+    },
+    {
+      "surface": "השש",
+      "gloss": "ny rongony tsara"
+    }
+  ],
+  "timestamp": "2026-08-31T13:08:14.729811785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Fa raha tsy hovidiny mody ⟨את⟩ ny saha, na raha efa nivarotany ⟨את⟩ ny saha ho an'olona hafa, dia tsy azo vidina mody intsony izy.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Fa raha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "hovidiny mody"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny saha"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ny saha"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na raha"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "nivarotany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny saha"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ny saha"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ho an'olona"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "hafa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "azo vidina mody"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    }
+  ],
+  "timestamp": "2026-08-31T13:22:37.655575498Z",
+  "model": "glm-5.3"
+}

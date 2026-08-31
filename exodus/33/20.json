@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Ary hoy Izy: Tsy mahay hahita ⟨את⟩ ny tavako ianao; fa tsy mahita Ahy ny olombelona ka ho velona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy Izy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "mahay"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "hahita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavako"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ny tavako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "mahita Ahy"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ny olombelona"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ka ho velona"
+    }
+  ],
+  "timestamp": "2026-08-31T13:08:37.004012801Z",
+  "model": "glm-5.3"
+}

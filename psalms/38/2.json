@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Yahveh, aza anatroboaka amin'ny fahatezeranao, ary aza anazesao aho amin'ny fahaviniranao.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "amin'ny fahatezeranao"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "anatroboaka"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "amin'ny fahaviniranao"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "anazesao aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:29.372105849Z",
+  "model": "glm-5.3"
+}

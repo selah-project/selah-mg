@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 9:2",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary rehefa tonga any ianao, dia jereo any Yehu zanak'i Yehosafat zanak'i Nimshi; ary midira ianao, ka atsangano azy avy eo afovoan'ny rahalahiny, ary ento ⟨את⟩ izy ho anaty efitra anaty efitra.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "rehefa tonga any ianao"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "any"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "dia jereo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "any"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehosafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimshi"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ary midira ianao"
+    },
+    {
+      "surface": "והקמתו",
+      "gloss": "ka atsangano azy"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "avy eo afovoan'ny"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "rahalahiny"
+    },
+    {
+      "surface": "והביאת",
+      "gloss": "ary ento"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "izy (Yehu)"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "efitra"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "anaty efitra"
+    }
+  ],
+  "timestamp": "2026-08-31T14:53:52.183603576Z",
+  "model": "glm-5.3"
+}

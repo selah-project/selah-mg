@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 17:10",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Atsimo ho an'i Efrayima, ary avaratra ho an'i Menashe, ary ny ranomasina no fariny; ary mifanena amin'i Asher any avaratra ary amin'i Yissaskar any atsinanana.",
+  "tokens": [
+    {
+      "surface": "נגבה",
+      "gloss": "atsimo"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "ho an'i Efrayima"
+    },
+    {
+      "surface": "וצפונה",
+      "gloss": "ary avaratra"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "ho an'i Menashe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ary ny"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ranomasina"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "fariny"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "ary amin'i Asher"
+    },
+    {
+      "surface": "יפגעון",
+      "gloss": "mifanena"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "any avaratra"
+    },
+    {
+      "surface": "וביששכר",
+      "gloss": "ary amin'i Yissaskar"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "any atsinanana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:01:44.893465764Z",
+  "model": "glm-5.3"
+}

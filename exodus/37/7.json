@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary nanao kerobima roa volamena izy; asa voahitsakitsaka no nataony azy ⟨⟨את⟩⟩ ireo, tany amin'ny tendron'ny fandevenana roa tonta.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "שני",
+      "gloss": "roa"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerobima"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "asa voahitsakitsaka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ireo kerobima)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "roa tonta"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "tendron'ny"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "fandevenana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:12.354590803Z",
+  "model": "glm-5.3"
+}

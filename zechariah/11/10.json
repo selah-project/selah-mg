@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 11:10",
+  "book": "zechariah",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary nalaiko ny tehiko, dia ilay atao hoe Noam ⟨Fahafaham-po⟩, ka notapahiko ⟨את⟩ izany, mba hanafoana ⟨את⟩ ny fanekiko izay nataoko tamin'ny firenena rehetra.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "nalaiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tehiko"
+    },
+    {
+      "surface": "מקלי",
+      "gloss": "ny tehiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noam"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "Noam (Fahafaham-po)"
+    },
+    {
+      "surface": "ואגדע",
+      "gloss": "notapahiko"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ izany",
+      "marks": "izany"
+    },
+    {
+      "surface": "להפיר",
+      "gloss": "mba hanafoana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanekiko"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ny fanekiko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "nataoko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny firenena rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ny firenena"
+    }
+  ],
+  "timestamp": "2026-08-31T16:20:54.052141138Z",
+  "model": "glm-5.3"
+}

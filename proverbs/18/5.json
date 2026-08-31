@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 18:5",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Manandratra ny tavan'ny ratsy fanahy tsy tsara ⟨izany⟩, hanao fihemorana ny marina amin'ny fitsarana.",
+  "tokens": [
+    {
+      "surface": "שאת",
+      "gloss": "manandratra"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ny tavan'ny"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ratsy fanahy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "hanao fihemorana"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ny marina"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "amin'ny fitsarana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:54:09.061879538Z",
+  "model": "glm-5.3"
+}

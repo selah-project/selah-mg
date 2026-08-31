@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Nampandeha rivotra antsinananany tany an-danitra izy, ary tamin'ny heriny nitarika ny rivotra atsimo.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "Nampandeha"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "rivotra antsinananany"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "tany an-danitra"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "nitarika"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "tamin'ny heriny"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "rivotra atsimo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:18.467491443Z",
+  "model": "glm-5.3"
+}

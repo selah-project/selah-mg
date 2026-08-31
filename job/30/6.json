@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 30:6",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Eo amin'ny hantsana mahatsiravina no honenany, ⟨ao⟩ amin'ny lavaky ny tany sy ny vato.",
+  "tokens": [
+    {
+      "surface": "בערוץ",
+      "gloss": "eo amin'ny hantsana mahatsiravina"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "lohasaha (renirano maina)"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "honenany\/mivelaka"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "lavaka"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "tany (vovoka)"
+    },
+    {
+      "surface": "וכפים",
+      "gloss": "sy ny vato"
+    }
+  ],
+  "timestamp": "2026-08-31T17:06:11.303842917Z",
+  "model": "glm-5.3"
+}

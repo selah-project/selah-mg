@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 16:21",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ilay manana fo hendry antsoina ho ⟨mahay mandinika⟩, ary ny mamin'ny molotra mampitombo fampianarana.",
+  "tokens": [
+    {
+      "surface": "לחכם",
+      "gloss": "ho an'ny hendry"
+    },
+    {
+      "surface": "לב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "antsoina"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "⟨mahay mandinika⟩"
+    },
+    {
+      "surface": "ומתק",
+      "gloss": "ary ny mamin'ny"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "molotra"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "mampitombo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "fampianarana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:53:35.424097939Z",
+  "model": "glm-5.3"
+}

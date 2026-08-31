@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Hitako ⟨את⟩ ny tany, ary indro, tsy misy endrika sy foana; ary ny lanitra, ka tsy misy mazava eo.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "hitako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ary indro"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tsy misy endrika"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "sy foana"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary ny"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "lanitra"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ka tsy misy"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "mazava eo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:24:33.323873835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "ary ⟨את⟩ ny Negeva sy ⟨את⟩ ny tani-dalana, dia lohasahan'i Yeriko, tananan'ny palmie, hatrany Zoara.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny Negeva"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ny Negeva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tani-dalana"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "ny tani-dalana"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "lohasahan'"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yeriko"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tananan'ny"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "palmie"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hatrany"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Zoara"
+    }
+  ],
+  "timestamp": "2026-08-31T13:52:23.903754040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 132,
+  "translation": "Raha miditra ao amin'ny laytran'ny tranoko aho, raha mankadera ambonin'ny fandriana fatoriana aho —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "miditra"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ao amin'ny laytra"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ny tranoko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "mankadera"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "fandriana"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "fatoriana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:37.906041479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary hitandrina ⟨את⟩ ny Sabata ny zanak'i Yisrael, hanatanteraka ⟨את⟩ ny Sabata amin'ny taranany, dia fanekena mandrakizay izany.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Ary hitandrina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Sabata"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ny Sabata"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hanatanteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Sabata"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ny Sabata"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "amin'ny taranany"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "fanekena"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mandrakizay"
+    }
+  ],
+  "timestamp": "2026-08-31T13:06:44.382270231Z",
+  "model": "glm-5.3"
+}

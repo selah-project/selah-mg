@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary nisainany isa tao amin'i Bezek ireo; ary ny zanak'Isiraely dia telo hetsy, ary ny lehilahin'i Yehoda dia telo alina.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "Ary nisainany isa ireo"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "tao amin'i Bezek"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ary dia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny zanak'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "telo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "hetsy"
+    },
+    {
+      "surface": "אלף",
+      "gloss": ""
+    },
+    {
+      "surface": "ו איש",
+      "gloss": "ary ny lehilahin'i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehoda"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "telo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "alina"
+    }
+  ],
+  "timestamp": "2026-08-31T14:17:43.425119259Z",
+  "model": "glm-5.3"
+}

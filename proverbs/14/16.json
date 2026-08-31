@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ny hendry matahotra ka miala amin'ny ratsy, fa ny adala mirehitra ary matoky tena.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "ny hendry"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "matahotra"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "ka miala"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "amin'ny ratsy"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "fa ny adala"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "mirehitra"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "ary matoky tena"
+    }
+  ],
+  "timestamp": "2026-08-31T16:53:15.893903449Z",
+  "model": "glm-5.3"
+}

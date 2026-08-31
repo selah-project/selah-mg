@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 68,
+  "translation": "Hita ny fandehanao, ry Elohim, ny fandehan'ny Eliko, mpanjakako, ao amin'ny fahamasinana.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "hita"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "ny fandehanao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "ny fandehan'ny"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eliko"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mpanjakako"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ao amin'ny fahamasinana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:44.990128583Z",
+  "model": "glm-5.3"
+}

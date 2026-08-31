@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Amin'ny hiverenan'ny fahavalo mihemotra, hangovitra izy ka ho ringana noho ny fanatrehanao.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "amin'ny hiverenan'ny"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "fahavalo"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "mihemotra"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "hangovitra"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "ka ho ringana"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "noho ny fanatrehanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:55.723435620Z",
+  "model": "glm-5.3"
+}

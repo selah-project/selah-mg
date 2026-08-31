@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Elazar niteraka ⟨את⟩ Pinechas, Pinechas niteraka ⟨את⟩ Abishua.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinechas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abishua"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Abishua"
+    }
+  ],
+  "timestamp": "2026-08-31T17:34:57.877464654Z",
+  "model": "glm-5.3"
+}

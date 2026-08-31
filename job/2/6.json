@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary hoy Yahveh tamin'i HaSatana: Indro, eo an-tananao izy; fa ⟨את⟩ ny ainy no tandremonao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "HaSatana"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Indro, izy"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "eo an-tananao"
+    },
+    {
+      "surface": "אך",
+      "gloss": "fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ainy"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ny ainy"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "tandremonao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:59:01.385932382Z",
+  "model": "glm-5.3"
+}

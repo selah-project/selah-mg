@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "⟨את⟩ Ny zatra rehetra dia hitako tamin'ny andron'ny hevel-ko: misy marina mangetaheta amin'ny fahamarinany, ary misy ratsy fanahy maharitra ela amin'ny ratsy fanahiny.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zatra rehetra"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ny zatra rehetra"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "hitako"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "tamin'ny andron'"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "hevel-ko (fahatavanana)"
+    },
+    {
+      "surface": "יש",
+      "gloss": "misy"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "marina"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "mangetaheta"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "amin'ny fahamarinany"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ary misy"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ratsy fanahy"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "maharitra ela"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "amin'ny ratsy fanahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:13.299462111Z",
+  "model": "glm-5.3"
+}

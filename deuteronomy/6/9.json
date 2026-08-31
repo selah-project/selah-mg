@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary hosoratanao amin'ny tolam-baravaranao sy amin'ny vavahadinao izy.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "Ary hosoratanao"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "tolam-baravaranao"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "(an'ny tranonao)"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "sy amin'ny vavahadinao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:42:07.887107127Z",
+  "model": "glm-5.3"
+}

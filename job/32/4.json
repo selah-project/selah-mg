@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ary Elihu niandry ⟨את⟩ an'i Iyov tamin'ny teny, satriy izy ireo no efa anti-panahy kokoa noho izy amin'ny andro.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "Ary Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "niandry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyov"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "an'i Iyov"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "tamin'ny teny"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satriy"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "efa anti-panahy"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy ireo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kokoa noho izy"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "amin'ny andro"
+    }
+  ],
+  "timestamp": "2026-08-31T17:06:36.113353601Z",
+  "model": "glm-5.3"
+}

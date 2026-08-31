@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Aoka ho mena sy ho sahirana miaraka izay mitady ny aiko mba handrava azy; aoka hisento miverina sy ho tra-pahamenarana izay faly amin'ny lozako.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Aoka ho mena"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "sy ho sahirana"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "miaraka"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "izay mitady"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "mba handrava azy"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "hisento"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "miverina"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "sy ho tra-pahamenarana"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "izay faly"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "amin'ny lozako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:38.536337493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 19:11",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Fa raha misy lehilahy mankahala ny namany sady miandry azy ambony, ka mitsangana hamely azy ka mahafaty aina, dia mandositra ho amin'ny anankiray amin'ireo tanàna ireo izy.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Fa raha misy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "misy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "mankahala"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "ny namany"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "sady miandry azy ambony"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ka mitsangana"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hamely azy"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "ka mahafaty"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "aina"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ka mahafaty azy — maty"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "dia mandositra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho amin'ny"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "anankiray amin'ny"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:46:58.918693012Z",
+  "model": "glm-5.3"
+}

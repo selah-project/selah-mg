@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary nosamborina ny fiaran'ny Elohim, ary maty ny zanak'i Eli roa lahy, Khofni sy Finea.",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "ny fiaran'ny"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "nosamborina"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "roa lahy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny zanak'i"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "maty"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Khofni"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "Finea"
+    }
+  ],
+  "timestamp": "2026-08-31T14:15:36.674476277Z",
+  "model": "glm-5.3"
+}

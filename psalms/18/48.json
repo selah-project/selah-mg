@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ilay El Izay manome famaliana amiko, sady manetry firenena ho eo ambaniko.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Ilay El"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "Izay manome"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "famaliana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "sady manetry"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "ho eo ambaniko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:27.128046187Z",
+  "model": "glm-5.3"
+}

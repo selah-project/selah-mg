@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Tsy hanaovanao ho anao Elohim mivaingana.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "mivaingana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hanaovanao"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:08:43.891248044Z",
+  "model": "glm-5.3"
+}

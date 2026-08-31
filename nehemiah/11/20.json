@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 11:20",
+  "book": "nehemiah",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary ny sisa amin'ny Isiraely, ny mpisorona sy ny Levita, dia tany amin'ny tanànan'i Yehuda rehetra, samy ⟨monina⟩ tamin'ny lovany avy.",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "Ary ny sisa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "amin'ny Isiraely"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "sy ny Levita"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tany amin'ny"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "tanànan'i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "samy"
+    },
+    {
+      "surface": "בנחלתו",
+      "gloss": "tamin'ny lovany avy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:32:58.688321337Z",
+  "model": "glm-5.3"
+}

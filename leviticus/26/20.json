@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary ho lanin-ko foana ny herinareo; fa tsy hanome ⟨את⟩ ny vokany ny taninareo, ary tsy hanome ny voany ny hazon'ny tany.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "Ary ho lanin-ko"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "foana"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "ny herinareo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "hanome"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ny taninareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vokany"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ny vokany"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ary ny hazo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "an'ny tany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "hanome"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ny voany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:22:44.780129343Z",
+  "model": "glm-5.3"
+}

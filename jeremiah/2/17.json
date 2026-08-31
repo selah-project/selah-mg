@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Tsy fa izao va no mitranga aminao, noho ny fandaozanao an'i Yahveh Elohim-nao tamin'izay nitondra anao tamin'ny lalana?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Tsy fa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izao"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "no mitranga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "noho ny fandaozanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nao"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "tamin'izay"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "nitondra anao"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tamin'ny lalana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:23:32.946412825Z",
+  "model": "glm-5.3"
+}

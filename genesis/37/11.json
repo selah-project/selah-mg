@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary nialona azy ny rahalahiny, fa ny rainy kosa nitandrina ⟨את⟩ ny teny.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "nialona"
+    },
+    {
+      "surface": "בו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ny rahalahiny"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "fa ny rainy kosa"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nitandrina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny teny"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ny teny"
+    }
+  ],
+  "timestamp": "2026-08-31T17:55:27.474322881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 102,
+  "translation": "Fa Yahveh nitsanganela avy tamin'ny hahavony masina, avy tamin'ny lanitra nijery ny tany.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "nitsanganela"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "avy tamin'ny hahavony"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "masina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "avy tamin'ny lanitra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho amin'ny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "nijery"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:31.539871265Z",
+  "model": "glm-5.3"
+}

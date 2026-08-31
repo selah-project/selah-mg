@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 43,
+  "translation": "Izaho no Yahveh, Masinareo, Mpanoron'i Isiraely, Mpanjakareo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "Masinareo"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "Mpanorona"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "Mpanjakareo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:15:01.111671530Z",
+  "model": "glm-5.3"
+}

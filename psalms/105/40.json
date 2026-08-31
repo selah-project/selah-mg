@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Nangataka izy ireo, dia nampidiny soava, ary ny mofo avy any an-danitra namahany azy araka ny fahafeny.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "nangataka izy ireo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dia nampidiny"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "soava"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "ary ny mofo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "avy any an-danitra"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "namahany azy araka ny fahafeny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:14.255427243Z",
+  "model": "glm-5.3"
+}

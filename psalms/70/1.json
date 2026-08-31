@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 70,
+  "translation": "Ho an'ny mpitarika. Fihiran'i Davide. Ho fahatsiarovana.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho an'ny mpitarika"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Fihiran'i Davide"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "Ho fahatsiarovana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:55.027113044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 102,
+  "translation": "Ry Yahveh, henoy ny fivavahako, ary aoka ny fitarainako hankao aminao.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Ry Yahveh"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "henoy"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ny fivavahako"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "ary ny fitarainako"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "hankao aminao"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "aoka ... hankao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:45.056703632Z",
+  "model": "glm-5.3"
+}

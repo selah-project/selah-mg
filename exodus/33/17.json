@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Ary Yahveh nanao tamin'i Moshe: Hataoko koa ⟨את⟩ ny teny izay nolazainao; fa hitanao tso-dratsy eo imasoniko, ary fantatro ianao araka ny anarana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao tamin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny teny"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "nolazainao"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "hataoko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "hitanao"
+    },
+    {
+      "surface": "חן",
+      "gloss": "tso-dratsy"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "eo imasoniko"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "fantatro ianao"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "araka ny anarana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:08:37.003443965Z",
+  "model": "glm-5.3"
+}

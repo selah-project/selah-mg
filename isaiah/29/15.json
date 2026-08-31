@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 29:15",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Loa amin'izay midalina hanafina tetika tsy ho eo anatrehan'i Yahveh, ka ao anaty maizina no anaovany ny asany, ary hoy izy: Iza no mahita antsika? ary iza no mahalala antsika?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Loa"
+    },
+    {
+      "surface": "המעמיקים",
+      "gloss": "amin'izay midalina"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "tsy ho eo anatrehan'i Yahveh"
+    },
+    {
+      "surface": "לסתר",
+      "gloss": "hanafina"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "tetika"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ka"
+    },
+    {
+      "surface": "במחשך",
+      "gloss": "ao anaty maizina"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ny asany"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ary hoy izy"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Iza no"
+    },
+    {
+      "surface": "ראנו",
+      "gloss": "mahita antsika"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ary iza no"
+    },
+    {
+      "surface": "יודענו",
+      "gloss": "mahalala antsika"
+    }
+  ],
+  "timestamp": "2026-08-31T15:11:21.577730333Z",
+  "model": "glm-5.3"
+}

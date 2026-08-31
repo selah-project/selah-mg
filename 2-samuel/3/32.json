@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary nalevina tao Hebrona ⟨את⟩ Avnera; ary ny mpanjaka nanandratra ⟨את⟩ ny feony ka nitomany teo amin'ny fasan'i Avnera; ary ny vahoaka rehetra dia nitomany.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "nalevina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avnera"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnera"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "tao Hebrona"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "nanandratra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny feony"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "ny feony"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "nitomany"
+    },
+    {
+      "surface": "אל",
+      "gloss": "teo amin'ny"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "fasan'i"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnera"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "nitomany"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:29:21.752764040Z",
+  "model": "glm-5.3"
+}

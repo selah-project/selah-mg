@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "Vonjeo aho amin'ny rà, ry Elohim, Elohin'ny famonjena ahy, ary ny lelako hihira mafy ny fahamarinanao.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Vonjeo aho"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "amin'ny rà"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'ny"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "famonjena ahy"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "hihira mafy"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ny lelako"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ny fahamarinanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:25.706451539Z",
+  "model": "glm-5.3"
+}

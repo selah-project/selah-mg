@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 65:13",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 65,
+  "translation": "Noho izany, izao no lazin'i Adonay Yahveh: Indro, hanina ny mpanompoko fa ianareo kosa ho noana; indro, hisotro ny mpanompoko fa ianareo kosa ho mangetaheta; indro, hafaly ny mpanompoko fa ianareo kosa ho tonga mena sahala.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Noho izany"
+    },
+    {
+      "surface": "כה",
+      "gloss": "izao"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nataon'"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ny mpanompoko"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "hanina"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "fa ianareo kosa"
+    },
+    {
+      "surface": "תרעבו",
+      "gloss": "ho noana"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ny mpanompoko"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "hisotro"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "fa ianareo kasa"
+    },
+    {
+      "surface": "תצמאו",
+      "gloss": "ho mangetaheta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ny mpanompoko"
+    },
+    {
+      "surface": "יישמחו",
+      "gloss": "hafaly"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "fa ianareo kosa"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "ho tonga mena sahala"
+    }
+  ],
+  "timestamp": "2026-08-31T18:07:14.548016680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 14:1",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary Yahveh niteny tamin'i Moshe hanao hoe:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "niteny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hanao hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T13:00:11.324367848Z",
+  "model": "glm-5.3"
+}

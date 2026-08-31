@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary Davida naka (Vavahady! vavy) indray tao Yeroshalayim, ary Davida niteraka zanaka lahy sy zanaka vavy indray.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "naka"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "indray"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "vavy"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "tao Yeroshalayim"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "indray"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zanaka lahy"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "sy zanaka vavy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:38:04.123483378Z",
+  "model": "glm-5.3"
+}

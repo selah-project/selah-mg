@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Ary hitan'i Yaakov fa misy vary ⟨את⟩ tao Mitsrayim, ary hoy Yaakov ho an'ny zanany: Nahoana no mifanjery ianareo?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hitan'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "misy"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "vary"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "tao Mitsrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "ho an'ny zanany"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Nahoana no"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "mifanjery ianareo"
+    }
+  ],
+  "timestamp": "2026-08-31T18:27:53.513039909Z",
+  "model": "glm-5.3"
+}

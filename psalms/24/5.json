@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Izy hahazo fitahiana avy amin'i ⟨את⟩ Yahveh, sy fahamarinana avy amin'ny Elohim ⟨את⟩ famonjena azy.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "hahazo (hitondra)"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "fitahiana"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "avy amin'i ⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "sy fahamarinana"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "avy amin'ny Elohim"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "famonjena azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:16.356509230Z",
+  "model": "glm-5.3"
+}

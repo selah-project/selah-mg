@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ho an'ny zanak'i Yosefa: ho an'i Efraima, Elishama zanak'i Amihoda; ho an'i Manase, Gamliela zanak'i Pedatsora.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "ho an'ny zanak'i"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "ho an'i Efraima"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Amihoda"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "ho an'i Manase"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedatsora"
+    }
+  ],
+  "timestamp": "2026-08-31T13:23:23.130719727Z",
+  "model": "glm-5.3"
+}

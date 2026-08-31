@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 7:36",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "izay nandidian'i Yahveh homena azy tamin'ny andro nanosany azy ⟨את⟩, avy amin'⟨את⟩ ny Zanak'i Isiraely — lalana maharitra amin'ny taranany.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "homena"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "nanosana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy (Aharon sy ny zanany)"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "avy amin'⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny Zanak'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "maharitra"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "amin'ny taranany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:57:34.515245914Z",
+  "model": "glm-5.3"
+}

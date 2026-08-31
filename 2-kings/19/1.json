@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary rehefa ren'ny mpanjaka Chizkiáhu izany, dia nandratra ⟨את⟩ ny akanjony izy, ka niakanja saka, ary niditra tao an-tranon'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "rehefa ren'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiáhu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "dia nandratra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akanjony"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "akanjony"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "ka niakanja"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "saka"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ary niditra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T14:58:59.614768937Z",
+  "model": "glm-5.3"
+}

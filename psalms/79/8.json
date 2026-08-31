@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 79,
+  "translation": "Aza mahatsiahy ny fahotantsika taloha izy; faingana hahatongavao amintsika ny famindrampoanao, fa efa nogadrain-dratsy be izahay.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "mahatsiahy"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aminay ny fahotantsika"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "fahotantsika"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "taloha"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "faingana"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "hahatongavao amintsika"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "ny famindrampoanao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "efa nogadrain-dratsy"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "be izahay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:39.568477003Z",
+  "model": "glm-5.3"
+}

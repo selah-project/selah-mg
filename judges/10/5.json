@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary maty Yaïr ka nalevina tao Kamona.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "maty"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yaïr"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "nalevina"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "tao Kamona"
+    }
+  ],
+  "timestamp": "2026-08-31T14:09:39.312323983Z",
+  "model": "glm-5.3"
+}

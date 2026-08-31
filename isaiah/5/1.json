@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 5:1",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Hihira aho ⟨mba⟩ ho an'ny tiaiko, hiran'ny tiako ny amin'ny tanim-boalavany: nanana tanim-boalava ny tiako tao amin'ny tandroka, zanak'ny menaka.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "hihira aho"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨mba⟩"
+    },
+    {
+      "surface": "לידידי",
+      "gloss": "ho an'ny tiako"
+    },
+    {
+      "surface": "שירת",
+      "gloss": "hira"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ny tiako"
+    },
+    {
+      "surface": "לכרמו",
+      "gloss": "ny amin'ny tanim-boalavany"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "tanim-boalava"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nanana"
+    },
+    {
+      "surface": "לידידי",
+      "gloss": "ny tiako"
+    },
+    {
+      "surface": "בקרן",
+      "gloss": "tao amin'ny tandroka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "menaka"
+    }
+  ],
+  "timestamp": "2026-08-31T18:32:40.186605572Z",
+  "model": "glm-5.3"
+}

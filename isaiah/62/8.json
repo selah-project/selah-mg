@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 62:8",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 62,
+  "translation": "Nianiana tamin'ny tanany ankavanana sy tamin'ny sandrinny heriny Yahveh hoe: Tsy homenaiko intsony ⟨את⟩ ny vary hohanin'ny fahavalonao, ary tsy hisotro ny zanaky ny vahiny ny divy vaovao nosasatanao.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Nianiana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "tamin'ny tanany ankavanana"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "sy tamin'ny sandrinny"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "heriny"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hoe tsy"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "homenaiko intsony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vary"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "ny vary"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "hohanin'ny"
+    },
+    {
+      "surface": "לאיביך",
+      "gloss": "fahavalonao"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "hisotro"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanaky ny"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "vahiny"
+    },
+    {
+      "surface": "תירושך",
+      "gloss": "divy vaovao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "nosasatanao"
+    },
+    {
+      "surface": "בו",
+      "gloss": "-anao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:21:52.675824073Z",
+  "model": "glm-5.3"
+}

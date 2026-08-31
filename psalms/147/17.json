@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 147,
+  "translation": "Mandatsaka ranomandry izy tahaka ny sombintsombiny; ialohan'ny hatsiaka avy aminy iza no mahatohitra?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "mandatsaka"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "ranomandry"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "tahaka ny sombintsombiny"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ialohan'ny"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "hatsiaka avy aminy"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "no mahatohitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:35.033411840Z",
+  "model": "glm-5.3"
+}

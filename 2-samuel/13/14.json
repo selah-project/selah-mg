@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Nefa tsy nety nihaino ny feony izy, fa nanamby azy tamin'ny heriny ka nanitsakitsaka azy, dia natory ⟨את⟩ azy.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Nefa tsy"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "nety"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "ny feony"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "fa nanamby"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "azy tamin'ny heriny"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "ka nanitsakitsaka"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "dia natory"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:33:08.207830271Z",
+  "model": "glm-5.3"
+}

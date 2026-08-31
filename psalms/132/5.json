@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 132,
+  "translation": "Ambara-pahitaiko toerana ho an'i Yahveh, trano fonenana ho an'ny Mahery an'i Yaakov.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ambara-pahitaiko"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "hitaiko"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "toerana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "trano fonenana"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "ho an'ny Mahery"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "an'i Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:46.696992011Z",
+  "model": "glm-5.3"
+}

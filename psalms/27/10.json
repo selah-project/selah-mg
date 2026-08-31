@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Fa na dia ny raiko sy ny reniko aza manao ahy, dia Yahveh no hangona ahy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ny raiko"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "sy ny reniko"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "aza manao ahy"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "dia Yahveh"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "no hangona ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:54.292975597Z",
+  "model": "glm-5.3"
+}

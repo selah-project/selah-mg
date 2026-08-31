@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 3:10",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary na amin'izany rehetra izany aza, tsy niverina nanatona ahy amin'ny fony rehetra Yehudah rahavavy mpivadika, fa amin'ny fitaka ihany, lazain'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ary na"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "niverina"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "nanatona ahy"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "mpivadika"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "rahavavy"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "לבה",
+      "gloss": "fony rehetra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ihany"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "amin'ny fitaka"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "lazain'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T15:23:56.931865317Z",
+  "model": "glm-5.3"
+}

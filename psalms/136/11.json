@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 136,
+  "translation": "Ary nampivoaka an'i Isiraely tany afovoany ireo, fa ho an-foreverona ny hesediny.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Ary nampivoaka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "an'i Isiraely"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "tany afovoany ireo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho an-foreverona"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ny hesediny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:17.781806886Z",
+  "model": "glm-5.3"
+}

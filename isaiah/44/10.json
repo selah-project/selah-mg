@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Iza no hamolavola andriamanitra, sy hanatsatra sarivongana, ka tsy mahasoa akory?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Iza"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "hamolavola"
+    },
+    {
+      "surface": "אל",
+      "gloss": "andriamanitra"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "sy sarivongana"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "hanatsatra"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "mahasoa akory"
+    }
+  ],
+  "timestamp": "2026-08-31T15:16:34.508693931Z",
+  "model": "glm-5.3"
+}

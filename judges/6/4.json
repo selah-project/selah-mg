@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 6:4",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary nitoby teo amboniny ireo ka nanimba ⟨את⟩ ny vokatry ny tany hatrany hatramin'ny fidiranao Gaza, ary tsy navelany fihinana akory ao amin'ny Yisraela na ondry na omby na boriky.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "nitoby"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "teo amboniny"
+    },
+    {
+      "surface": "וישחיתו",
+      "gloss": "manimba nanimba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vokatry ny tany"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "ny vokatry"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hatramin'ny"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "fidiranao"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "navelany"
+    },
+    {
+      "surface": "מחיה",
+      "gloss": "fihinana"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ao amin'ny Yisraela"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "na ondry"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "na omby"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "na boriky"
+    }
+  ],
+  "timestamp": "2026-08-31T14:06:40.355067331Z",
+  "model": "glm-5.3"
+}

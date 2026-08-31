@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 71,
+  "translation": "Elohim ô, aza lavitra ahy; Andriamanitro ô, fa ho amin'ny famonjena aroaory.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim ô"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "lavitra"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Andriamanitro ô"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "famonoana ny famonjena ahy"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "aroaory"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:49.040240932Z",
+  "model": "glm-5.3"
+}

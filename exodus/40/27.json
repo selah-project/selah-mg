@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary natsipy eo amboniny ny fanitran'ny zava-manitra mandaitra izy, araka ny nandidian'i Yahveh an'i Moshe ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "natsipy fanitrana"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "eo amboniny"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "fanitrana"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "zava-manitra"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidian'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:31.379233247Z",
+  "model": "glm-5.3"
+}

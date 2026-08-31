@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 29:10",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary Davida nitso-drano ⟨את⟩ Yahveh teo anatrehan'ny fiangonana rehetra, ary Davida nanao hoe: Laninao ho masina Hianana, Yahveh, Elohim'i Yisraela, rainay, hatrizay taloha ka hatramin'ny fiafarana.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "nitso-drano"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "teo anatrehan'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ny fiangonana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Laninao ho masina"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Hianana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "rainay"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "hatrizay taloha"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "fiafarana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:42:03.119518451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "Ary Yahveh nomba ⟨את⟩ an'i Yosefa, ka nanitatra hesed taminy, ary nomena fahasoavana izy tamin'ny maso hitsaran'ny lehiben'ny tranon'ny tsoara.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nisy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yosefa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "an'i Yosefa"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "nanitatra"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tamininy"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ary nanome"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "fahasoavana"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "tamin'ny maso"
+    },
+    {
+      "surface": "שר",
+      "gloss": "lehiben'ny"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon'ny"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "tsoara"
+    }
+  ],
+  "timestamp": "2026-08-31T12:48:58.688779218Z",
+  "model": "glm-5.3"
+}

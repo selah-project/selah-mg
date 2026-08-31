@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 133,
+  "translation": "Toy ny oram-panala Chernona izay midina eo ambonin'ny tendrombohitra Ziona; fa any no nandidian'i Yahveh ⟨את⟩ ny fitahiana — ⟨fiainana⟩ mandrapahatapitra ny fiafarany.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Toy ny oram-panala"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chernona"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "izay midina"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambonin'ny"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ziona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "any"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidiana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitahiana"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ny fitahiana"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "fiainana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandrapahatapitra"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "ny fiafarany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:35.756953156Z",
+  "model": "glm-5.3"
+}

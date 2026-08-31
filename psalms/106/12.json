@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Ary nino ny teniny izy ireo, dia nankalaza azy tamin'ny fihirana.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "nino"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "ny teniny"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "nankalaza tamin'ny fihirana"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ny fiderana azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:51.873643082Z",
+  "model": "glm-5.3"
+}

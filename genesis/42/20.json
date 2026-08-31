@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Ary ny rahalahinareo faralahy hitondirianareo ⟨את⟩ aty amiko, mba hamarinina ny teninareo ka tsy ho faty ianareo. Ary nataony izany.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny rahalahinareo faralahy"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ny rahalahinareo"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "faralahy"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "hitondirianareo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aty amiko"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "mba hamarinina"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "ny teninareo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "ho faty"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:51:45.405813050Z",
+  "model": "glm-5.3"
+}

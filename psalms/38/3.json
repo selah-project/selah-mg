@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Fa ny zana-tsipikanao efa latsaka tamiko ⟨⟨⟩⟩ ary ny tananao mandina tamiko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "ny zana-tsipikanao"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "efa latsaka"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "ary mandina"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ny tananao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:29.372660086Z",
+  "model": "glm-5.3"
+}

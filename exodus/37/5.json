@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary nampidiriny tao anatiny ⟨⟨את⟩⟩ ny tsorakazo tao amin'ny peratra, eo ambony tavolobe ilana ny fiara, hitondrana ⟨⟨את⟩⟩ ny fiara.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "nampidiriny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tsorakazo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ny tsorakazo"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "tao amin'ny peratra"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "tavolobe ilana"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ny fiara"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "hitondrana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiara"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ny fiara"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:12.354246805Z",
+  "model": "glm-5.3"
+}

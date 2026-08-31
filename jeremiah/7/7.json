@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 7:7",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "dia hipetraka ⟨את⟩ ianareo amin'ity toerana ity, amin'ny tany izay nomenako ho an'ny razanao, hatramin'ny fiandohan'ny fotoana ka hatramin'ny faran'ny fotoana.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "dia hipetraka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ianareo"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "amin'ity"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "toerana ity"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nomenako"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "ho an'ny razanao"
+    },
+    {
+      "surface": "למן",
+      "gloss": "hatramin'ny"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "fiandohan'ny fotoana"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "faran'ny fotoana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:25:15.422122293Z",
+  "model": "glm-5.3"
+}

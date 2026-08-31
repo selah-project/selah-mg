@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ny lehilahy hendry dia mahery, ary ny olona manam-pahalalana manamafy hery.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "hendry"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ary ny olona"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "manam-pahalalana"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "manamafy"
+    },
+    {
+      "surface": "כח",
+      "gloss": "hery"
+    }
+  ],
+  "timestamp": "2026-08-31T16:56:02.730463191Z",
+  "model": "glm-5.3"
+}

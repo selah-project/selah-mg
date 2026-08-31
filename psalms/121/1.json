@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 121,
+  "translation": "Hira fiantsoana ho avo. Manandratra ny masoko mankany amin'ny tendrombohitra aho — avy aiza no ho avy ny famonjena ahy?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "hira"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "fiantsoana ho avo"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "manandratra"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ny masoko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mankany amin'ny"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "avy aiza"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "no ho avy"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ny famonjena ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:02.382087885Z",
+  "model": "glm-5.3"
+}

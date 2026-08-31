@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "Ho an'ny mpitarika ⟨ny⟩. Fihirana nataon'i David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho an'ny mpitarika"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Fihirana"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nataon'i David"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:45.314981672Z",
+  "model": "glm-5.3"
+}

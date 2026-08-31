@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Ary nataony ⟨את⟩ ny mpanompo vavy sy ⟨את⟩ ny zanany tamin'ny voalohany, ary ⟨את⟩ Lea mbamin'ny zanany taorian'izany, ary ⟨את⟩ Rahela sy ⟨את⟩ Yosefa farany.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Ary nataony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanompo vavy"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "ny mpanompo vavy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "tamin'ny voalohany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "mbamin'ny zanany"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "taorian'izany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Rahela"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Yosefa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "farany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:47:12.730208778Z",
+  "model": "glm-5.3"
+}

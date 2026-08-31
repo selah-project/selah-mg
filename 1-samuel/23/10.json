@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary hoy Davida: Yahveh, Elohin'i Isiraely, efa re mihitsy ny mpanomponao fa Shaol mitady hidina any Keila hanapotaka ilay tanàna noho izahaho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "efa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "re mihitsy"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ny mpanomponao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "mitady"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "hidina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "any"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "hanapotaka"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ilay tanàna"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "noho izahaho"
+    }
+  ],
+  "timestamp": "2026-08-31T14:24:48.449881675Z",
+  "model": "glm-5.3"
+}

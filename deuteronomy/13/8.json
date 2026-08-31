@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 13:8",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "(An'i) ireo elohey ny fireneny manodidina anareo, izay akaiky anareo na lavitra anareo, avy amin'ny faran'ny tany ka hatramin'ny faran'ny tany,",
+  "tokens": [
+    {
+      "surface": "מאלהי",
+      "gloss": "ireo elohey"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ny fireneny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "manodidina anareo"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "akaiky"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "או",
+      "gloss": "na"
+    },
+    {
+      "surface": "הרחקים",
+      "gloss": "lavitra"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "avy amin'ny faran'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "faran'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T19:02:02.120173768Z",
+  "model": "glm-5.3"
+}

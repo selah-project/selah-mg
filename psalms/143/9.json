@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 143,
+  "translation": "Vonjeo aho amin'ny fahaviloako, ry Yahveh; ho eo aminao no mialoko.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "vonjeo aho"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "amin'ny fahaviloako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "eo aminao"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "mialoko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:33.547195497Z",
+  "model": "glm-5.3"
+}

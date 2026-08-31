@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary toy izay no hohaninare ⟨את⟩: ny takolakao misikina, ny kapanao ao an-tongatrao, ary ny tehinao eo an-tananao; ary hohaninare ⟨את⟩ azy amin'ny faingana; Pesaka ho an'i Yahveh izy.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "toy izay"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "no hohaninare"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "ny takolakao"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "misikina"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "ny kapanao"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "ao an-tongatrao"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "ary ny tehinao"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "eo an-tananao"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ary hohaninare"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "amin'ny faingana"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesaka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:39.167238825Z",
+  "model": "glm-5.3"
+}

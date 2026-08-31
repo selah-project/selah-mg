@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Aza ho marina be loatra, ary aza manao-tena ho hendry mihoatra; nahoana ianao no haharingana?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ho"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "marina"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "be loatra"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "manao-tena ho hendry"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "mihoatra"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nahoana"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "haharingana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:13.299816095Z",
+  "model": "glm-5.3"
+}

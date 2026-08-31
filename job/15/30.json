@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 15:30",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Tsy hiala amin'ny maizina izy; hanamaizina ny tsimokany ny lelafo, ary ho levona amin'ny fofon'ny vavany.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "hiala"
+    },
+    {
+      "surface": "מני",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "maizina"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "ny tsimokany"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "hanamaizina"
+    },
+    {
+      "surface": "שלהבת",
+      "gloss": "ny lelafo"
+    },
+    {
+      "surface": "ויסור",
+      "gloss": "ary ho levona"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "amin'ny fofon'ny"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "vavany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:03:11.387400430Z",
+  "model": "glm-5.3"
+}

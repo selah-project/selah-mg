@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ahy no niandry ny ratsy fanahy hanrangy ahy; ny featsionao kosa no saintsaintsiko.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "niandry"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "hanrangy ahy"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ny featsionao"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "no saintsaintsiko"
+    }
+  ],
+  "timestamp": "2026-08-31T18:15:03.123227304Z",
+  "model": "glm-5.3"
+}

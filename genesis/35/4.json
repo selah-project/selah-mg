@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 35:4",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Ary nomen'izy ireo ho an'i Yaakov ⟨את⟩ ny andriamanitra vahiny rehetra izay tao an-tanany, ary ⟨את⟩ ny peratra sofina izay tao amin'ny sofiny; dia nafenin'i Yaakov ⟨את⟩ ireo ambany ilay hazo terebinta izay eo amoron'i Shekema.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "nomen'izy ireo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho an'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny andriamanitra vahiny rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "andriamanitra"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "vahiny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "tao an-tanany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny peratra sofina"
+    },
+    {
+      "surface": "הנזמים",
+      "gloss": "peratra sofina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "tao amin'ny sofiny"
+    },
+    {
+      "surface": "ויטמן",
+      "gloss": "dia nafenin'i"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ireo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ambany"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ilay hazo terebinta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עם",
+      "gloss": "eo amoron'i"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekema"
+    }
+  ],
+  "timestamp": "2026-08-31T12:47:39.301643726Z",
+  "model": "glm-5.3"
+}

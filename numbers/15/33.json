@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 15:33",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary ny mp hita azy nanatatra ⟨את⟩ azy, ilay mitety hazo, ho amin'i Moshe sy ho amin'i Aharon ary ho amin'ny fiangonana rehetra.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "nanatatra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ilay lehilahy)"
+    },
+    {
+      "surface": "המצאים",
+      "gloss": "ny mp hita azy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "מקשש",
+      "gloss": "mitety hazo"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho amin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sy ho amin'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary ho amin'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "fiangonana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:31:07.345205015Z",
+  "model": "glm-5.3"
+}

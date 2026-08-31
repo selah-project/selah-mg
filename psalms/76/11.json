@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 76,
+  "translation": "Fa ny fahatezeran'ny olombelona hidera anao; ny ambiny amin'ny fahatezerana dia hofenoinao fehilomba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ny fahatezeran'ny"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olombelona"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "hidira anao"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "ny ambiny amin'ny"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "fahatezerana"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "hofenoinao fehilomba"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:41.857171815Z",
+  "model": "glm-5.3"
+}

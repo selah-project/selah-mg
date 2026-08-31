@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary Jaakob nandositra ho any amin'ny sahan'i Arama, ary Isiraely niasa noho ny vady, eny, noho ny vady dia niantoka ondry izy.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "nandositra"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "saha"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "niasa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "noho ny vady"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "eny, noho ny vady"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "niantoka ondry"
+    }
+  ],
+  "timestamp": "2026-08-31T16:08:16.404471074Z",
+  "model": "glm-5.3"
+}

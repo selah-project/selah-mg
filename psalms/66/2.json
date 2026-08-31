@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 66,
+  "translation": "Mihira malaza ny voninahitry ny anarany; ataovy manana voninahitra ny fiderana azy.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "mihira"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "voninahitra"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "ataovy"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "voninahitra"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ny fiderana azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:02.064020015Z",
+  "model": "glm-5.3"
+}

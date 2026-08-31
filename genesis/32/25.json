@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ary Jaakob nijanona irery ihany, ary lehilahy iray niady tamin'izy, mandra-piakaran'ny maraina.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "Ary ... nijanona"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "irery ihany"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "ary ... niady"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy iray"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tamin'izy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "fiakaran'ny"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "maraina"
+    }
+  ],
+  "timestamp": "2026-08-31T12:47:08.694823542Z",
+  "model": "glm-5.3"
+}

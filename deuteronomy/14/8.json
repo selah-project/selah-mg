@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "sy ⟨את⟩ ny kisoa; fa manana kitra misaraka izy nefa tsy mirehitra; maloto izy ho anareo; ny henany tsy hohaninareo ary ny fatiny tsy hotspotinareo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny kisoa"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "ny kisoa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "manana kitra misaraka"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kitra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nefa tsy"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "mirehitra"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "maloto"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "ny henany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "hohaninareo"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "ary ny fatiny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "hotspotinareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:45:05.546691530Z",
+  "model": "glm-5.3"
+}

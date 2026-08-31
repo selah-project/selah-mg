@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Ary izay rehetra mahay fo aminareo, avia ary ka hataony ⟨את⟩ izay rehetra nandidian'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ary izay rehetra"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mahay"
+    },
+    {
+      "surface": "לב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "aminareo"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "avia"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ka hataony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay rehetra nandidian'i Yahveh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidian'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T17:56:36.636574680Z",
+  "model": "glm-5.3"
+}

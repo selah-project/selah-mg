@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 3:7",
+  "book": "song-of-songs",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Indro ny fandriany, dia an'i Shelomo: enim-polo lehilahy mahery no manodidina azy, avy amin'ny mahery amin'ny Isiraely.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "ny fandriany"
+    },
+    {
+      "surface": "שלשלמה",
+      "gloss": "dia an'i Shelomo"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "enim-polo"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "lehilahy mahery"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "לה",
+      "gloss": "azy",
+      "marks": "fandriany"
+    },
+    {
+      "surface": "מגברי",
+      "gloss": "avy amin'ny mahery"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    }
+  ],
+  "timestamp": "2026-08-31T19:13:04.147429482Z",
+  "model": "glm-5.3"
+}

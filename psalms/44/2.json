@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Elohim, tamin'ny sofinay no renay; ny razantsika nantantatra tamimay ny asa nataonao tamin'ny androny, tamin'ny andro fahagola.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "tamin'ny sofinay"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "renay"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ny razantsika"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "nantdantatra"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tamimay"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ny asa"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "nataonao"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "tamin'ny androny"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "fahagola"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:56.642784172Z",
+  "model": "glm-5.3"
+}

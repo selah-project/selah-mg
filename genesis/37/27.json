@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 37:27",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Andeha isika ka hamidy azy amin'ny Ishmaelita, ary aza iasantsika tanana aminy, fa rahalahintsika izy, nofo antsika ⟨izy⟩. Ary ny rahalahiny nihaino.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "andeha isika"
+    },
+    {
+      "surface": "ונמכרנו",
+      "gloss": "ka hamidy azy"
+    },
+    {
+      "surface": "לישמעאלים",
+      "gloss": "amin'ny Ishmaelita"
+    },
+    {
+      "surface": "וידנו",
+      "gloss": "tanantsika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "iasa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "rahalahintsika"
+    },
+    {
+      "surface": "בשרנו",
+      "gloss": "nofo antsika"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ny rahalahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T12:50:05.128631436Z",
+  "model": "glm-5.3"
+}

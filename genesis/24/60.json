@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "genesis 24:60",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary nitso-drano an'i ⟨את⟩ Rivka izy ka nanao taminy hoe: Hianao rahavavintsika, ho an'arivo alina maro hianao, ary ny taranakao handova ⟨את⟩ vavahadin'ny fahavalony.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "nitso-drano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "לה",
+      "gloss": "tamininy"
+    },
+    {
+      "surface": "אחתנו",
+      "gloss": "rahavavintsika"
+    },
+    {
+      "surface": "את",
+      "gloss": "hianao"
+    },
+    {
+      "surface": "היי",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לאלפי",
+      "gloss": "an'arivo"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "alina maro"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "handova"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "taranakao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vavahadin'ny fahavalony"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vavahady"
+    },
+    {
+      "surface": "שנאיו",
+      "gloss": "fahavalony"
+    }
+  ],
+  "timestamp": "2026-08-31T17:54:54.469062380Z",
+  "model": "glm-5.3"
+}

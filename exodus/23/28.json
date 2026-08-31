@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary hanirika amin'ny fananganana ⟨את⟩ ny fanenina eo anatrehanao, ary handroaka izy ⟨את⟩ ny Hivita, ⟨את⟩ ny Kanaanita, sy ⟨את⟩ ny Hitita hiala eo anatrehanao.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ary hanirika amin'ny fananganana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanenina"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "ny fanenina"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "eo anatrehanao"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "ary handroaka izy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Hivita"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ny Hivita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Kanaanita"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ny Kanaanita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny Hitita"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ny Hitita"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "hiala eo anatrehanao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:45.196773399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 17:9",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary ny zanak'i Isiraela nanao zavatra tsy marina momba an'i Yahveh Elohim-ny; ary nanorenany bamota ho an'ny tenany tao amin'ny tanànany rehetra, avy amin'ny tilikambon'ny mpiambina ka hatramin'ny tanàna mimanda.",
+  "tokens": [
+    {
+      "surface": "ויחפאו",
+      "gloss": "nanao zavatra tsy marina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraela"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "zavatra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "כן",
+      "gloss": "marina"
+    },
+    {
+      "surface": "על",
+      "gloss": "momba an'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim-ny"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "ary nanorenany"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho an'ny tenany"
+    },
+    {
+      "surface": "במות",
+      "gloss": "bamota"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tao amin'ny... rehetra"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "tanànany"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "avy amin'ny tilikambon'ny"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "mpiambina"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "mimanda"
+    }
+  ],
+  "timestamp": "2026-08-31T14:58:03.372619038Z",
+  "model": "glm-5.3"
+}

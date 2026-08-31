@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Aza hoatra ny soavaly sy ny boriky tsy manan-tsaina fotsiny, izay tsy maintsy fehezina amin'ny famaizana sy ny tady fingotra ny vavany, raha tsy izany tsy hanatona anao.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "hoatra"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "ny soavaly"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "sy ny boriky"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "manan-tsaina"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "amin'ny famaizana"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "sy ny tady fingotra"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "ny fihaingany"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "hofehezina"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "hanatona"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:44.489653727Z",
+  "model": "glm-5.3"
+}

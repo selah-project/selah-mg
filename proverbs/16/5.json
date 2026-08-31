@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Fahavainoana amin'i Yahveh ny fo miavatra rehetra; tanana amin'ny tanana, tsy hahazo famelan-keloka izy.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "fahavainoana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "miavatra"
+    },
+    {
+      "surface": "לב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tanana"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "amin'ny tanana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "hahazo famelan-keloka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:53:30.808444771Z",
+  "model": "glm-5.3"
+}

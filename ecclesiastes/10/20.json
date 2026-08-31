@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 10:20",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Na dia ao an-tsainao aza, aza ozonina ny mpanjaka, ary ao amin'ny efitrano fandrianao, aza ozonina ny mpanan-karena; fa ny voratry ny lanitra hitondra ⟨את⟩ ny feo, ary ilay manana elanela hambaro ny teny.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "na dia... aza"
+    },
+    {
+      "surface": "במדעך",
+      "gloss": "ao an-tsainao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "ozonina"
+    },
+    {
+      "surface": "ובחדרי",
+      "gloss": "ary ao amin'ny efitrano"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "fandrianao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "ozonina"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ny mpanan-karena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "vorona"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "יוליך",
+      "gloss": "hitondra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny feo"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "ny feo"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ary ilay tompon'"
+    },
+    {
+      "surface": "הכנפים",
+      "gloss": "elanela"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "hambaro"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ny teny"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:10.305076716Z",
+  "model": "glm-5.3"
+}

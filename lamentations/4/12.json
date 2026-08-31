@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 4:12",
+  "book": "lamentations",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Tsy mino ny mpanjakan'ny tany, na mponina rehetra amin'izao tontolo izao, fa miditra amin'ny vavahadin'i Yeroshalayim ny fahavalo sy ny mpifanandrina.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "mino"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mpanjakan'ny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na... rehetra"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mponina"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "izao tontolo izao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "miditra"
+    },
+    {
+      "surface": "צר",
+      "gloss": "fahavalo"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "mpifanandrina"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "amin'ny vavahady"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    }
+  ],
+  "timestamp": "2026-08-31T17:13:13.048646564Z",
+  "model": "glm-5.3"
+}

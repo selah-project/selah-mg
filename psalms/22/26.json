@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Momba anao ⟨את⟩ no ho fiarahabaiko amin'ny fiangonana lehibe; ny voadiko hatsimbina aho eo anatrehan'ireo matahotra azy.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ momba anao"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "ny fiarahabaiko"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "amin'ny fiangonana"
+    },
+    {
+      "surface": "רב",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "ny voadiko"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "hatsimbina aho"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "eo anatrehan'"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ireo matahotra azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:35.052141004Z",
+  "model": "glm-5.3"
+}

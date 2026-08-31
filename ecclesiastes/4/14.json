@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Fa avy tao an-tranon'ny mpifatotra noivoaka hitondra mpanjaka; fa na dia tao amin'ny fanjakany aza no teraka malahelo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "avy tao an-tranon'ny"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "mpifatotra"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "nivoaka"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "hitondra mpanjaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na dia"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "tao amin'ny fanjakany"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "no teraka"
+    },
+    {
+      "surface": "רש",
+      "gloss": "malahelo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:14:42.795593545Z",
+  "model": "glm-5.3"
+}

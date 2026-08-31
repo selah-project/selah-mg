@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 96,
+  "translation": "Lazao amin'ny firenena: Yahveh no nanjaka; voatoraka koa ny tontolo, tsy hangovitra; hitsara ny fireneny amin'ny fahitsiana.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Lazao"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "amin'ny firenena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nanjaka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "koa"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "voatoraka"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ny tontolo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "hangovitra"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "hitsara"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ny fireneny"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "amin'ny fahitsiana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:12.167229660Z",
+  "model": "glm-5.3"
+}

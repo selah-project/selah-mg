@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary tsy hisy asa ho an'i Mitsrayim, izay hataon'ny loha sy ny rambo, na ny rantsan-kazo na ny zozoro.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hisy"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "ho an'i Mitsrayim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "asa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hataony"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ny loha"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "sy ny rambo"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "na ny rantsan-kazo"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "na ny zozoro"
+    }
+  ],
+  "timestamp": "2026-08-31T15:07:42.073745985Z",
+  "model": "glm-5.3"
+}

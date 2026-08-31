@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "ary ⟨את⟩ Kedemota sy ⟨את⟩ ny kijany, ary ⟨את⟩ Mefaata sy ⟨את⟩ ny kijany.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Kedemota"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny kijany"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ny kijany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Mefaata"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefaata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny kijany"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ny kijany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:36:09.399106421Z",
+  "model": "glm-5.3"
+}

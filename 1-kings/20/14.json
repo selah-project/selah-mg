@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 20:14",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary hoy Achab: Amin'iza? Ka hoy izy: Izao no lazain'i Yahveh: Amin'ny zatovon'ny mpanapakan'ny faritra. Dia hoy izy: Iza no hanomboka ny ady? Ary hoy izy: Ianao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "במי",
+      "gloss": "Amin'iza"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ka hoy izy"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Izao"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "no lazain'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בנערי",
+      "gloss": "Amin'ny zatovon'ny"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mpanapakan'ny"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "faritra"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dia hoy izy"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Iza"
+    },
+    {
+      "surface": "יאסר",
+      "gloss": "no hanomboka"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ny ady"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ianao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:48:33.213935653Z",
+  "model": "glm-5.3"
+}

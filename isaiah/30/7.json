@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 30:7",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary Mitsrayim dia fahatalaona sy foana no hanampy; koa izany no nataoko hoe: Rahab izy no mijanona fotsiny.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Ary Mitsrayim"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "fahatalaona"
+    },
+    {
+      "surface": "וריק",
+      "gloss": "sy foana"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "hanampy"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "koa"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nataoko hoe"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "izany"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izy"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "mijanona fotsiny"
+    }
+  ],
+  "timestamp": "2026-08-31T15:11:18.783503220Z",
+  "model": "glm-5.3"
+}

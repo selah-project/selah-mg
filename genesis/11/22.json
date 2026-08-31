@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary Seruga velona telo-polo taona, ka niteraka an'i Nahora ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "velona"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Seruga"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "telo-polo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Nahora"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahora"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:55.078964211Z",
+  "model": "glm-5.3"
+}

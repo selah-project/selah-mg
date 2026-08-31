@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Inona no tombontsoa ho an'ny olona amin'ny ezaka rehetra izay ataony ambanin'ny masoandro?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Inona"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "tombontsoa"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ho an'ny olona"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ezaka"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "izay ataony"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ambanin'ny"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ny masoandro"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:11.309812004Z",
+  "model": "glm-5.3"
+}

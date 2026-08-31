@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 150,
+  "translation": "Miderà an'i Yahveh amin'ny fitsofana shofar; miderà an'i Yahveh amin'ny nevel sy kinora.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "miderà an'i Yahveh"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "amin'ny fitsofana"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "miderà an'i Yahveh"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "amin'ny nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "sy kinora"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:50.803548242Z",
+  "model": "glm-5.3"
+}

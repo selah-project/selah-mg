@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Foana izy ireo, asan'ny fitaka; amin'ny andro hizahiana azy dia ho levona izy.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "foana"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy ireo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "asan'ny"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "fitaka"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "hizahiana azy"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ho levona"
+    }
+  ],
+  "timestamp": "2026-08-31T15:27:33.399361774Z",
+  "model": "glm-5.3"
+}

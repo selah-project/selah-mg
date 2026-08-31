@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 13:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Izaho efa nandidy ny voamasinaiko, eny, efa niantso ny mahery Aho ho amin'ny fahatezerako, dia izay mifaly amin'ny fahavonian'ny voninahitro.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "efa nandidy"
+    },
+    {
+      "surface": "למקדשי",
+      "gloss": "ny voamasinaiko"
+    },
+    {
+      "surface": "גם",
+      "gloss": "eny"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nantso"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "ny mahery"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "ho amin'ny fahatezerako"
+    },
+    {
+      "surface": "עליזי",
+      "gloss": "izay mifaly"
+    },
+    {
+      "surface": "גאותי",
+      "gloss": "amin'ny fahavonian'ny voninahitro"
+    }
+  ],
+  "timestamp": "2026-08-31T15:05:56.269149909Z",
+  "model": "glm-5.3"
+}

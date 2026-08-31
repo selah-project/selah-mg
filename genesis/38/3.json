@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Dia hitoe-jaza ka niteraka zanakalahy; ary nataony hoe Era ny anarany.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "hitoe-jaza"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanakalahy"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anarany"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Era"
+    }
+  ],
+  "timestamp": "2026-08-31T12:49:38.493550539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Amin'ny olona be hesed ⟨ianao⟩ maneho hesed; amin'ny lehilahy tanteraka ⟨ianao⟩ maneho fahatanterahana.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "olona be hesed"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "maneho hesed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tanteraka"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "maneho fahatanterahana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:50.264012713Z",
+  "model": "glm-5.3"
+}

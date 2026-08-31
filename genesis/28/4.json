@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Ary homeny anao ny tso-dranon'i Avraham ⟨את⟩ — anao sy ny taranakao miaraka aminao — mba hahafahananao mandova ⟨את⟩ ny tany ivelan'ny onenanao, izay nomen'i Elohim an'i Avraham.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ary homeny"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tso-dranon'i Avraham"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "tso-dranon'"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "sy ny taranakao"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "miaraka aminao ⟨את⟩"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "mba hahafahananao mandova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany ivelan'ny onenanao"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "ivelan'ny onenanao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nomen'"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "an'i Avraham"
+    }
+  ],
+  "timestamp": "2026-08-31T12:43:38.180909303Z",
+  "model": "glm-5.3"
+}

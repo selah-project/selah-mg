@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Raha avy hahita ny tavako ianareo, iza moa no nangataka izany tamin'ny tananareo — fandripahana ny kianjako?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "raha"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "avy ianareo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hahita"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ny tavako"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza moa"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "no nangataka"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izany"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "tamin'ny tananareo"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "fandripahana"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "ny kianjako"
+    }
+  ],
+  "timestamp": "2026-08-31T15:01:57.252328454Z",
+  "model": "glm-5.3"
+}

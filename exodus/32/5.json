@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 32:5",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ka hitan'i Aharon izany, dia nanao alitara teo anoloany izy; ary niantso Aharon ka nanao hoe: Fety ho an'i Yahveh rahampitso.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hitany"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "teo anoloany"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "חג",
+      "gloss": "fety"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "rahampitso"
+    }
+  ],
+  "timestamp": "2026-08-31T13:07:53.278582058Z",
+  "model": "glm-5.3"
+}

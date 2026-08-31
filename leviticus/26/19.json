@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary havakiako ny fiavonavonan'ny herinareo; ary hamboatra ny lanitonareo ho toy ny vy aho, sy ⟨את⟩ ny taninareo ho toy ny varahina.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "Ary havakiako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiavonavonan'ny herinareo"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ny fiavonavonana"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "ny herinareo"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ary hamboatra aho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lanitonareo"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "ny lanitonareo"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "ho toy ny vy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny taninareo"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ny taninareo"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "ho toy ny varahina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:22:44.779993350Z",
+  "model": "glm-5.3"
+}

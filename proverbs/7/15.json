@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 7:15",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Koa izany no ivoako hitsena anao, hitsanga-tarehy anakiroa anao, ka hita koa ianao.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "koa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany no"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "ivoako"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "hitsena anao"
+    },
+    {
+      "surface": "לשחר",
+      "gloss": "hitsanga-tarehy"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "anakiroa anao"
+    },
+    {
+      "surface": "ואמצאך",
+      "gloss": "ka hita koa ianao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:50:34.488161696Z",
+  "model": "glm-5.3"
+}

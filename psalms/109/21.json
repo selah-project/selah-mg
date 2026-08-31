@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 109,
+  "translation": "Fa ianao Yahveh Adonay, manao ⟨amin'ny ahy⟩ noho ny anaranao, fa tsara ny hesed-nao — vonjeo aho.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Fa ianao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "manao"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "amin'ny ahy"
+    },
+    {
+      "surface": "למען",
+      "gloss": "noho"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ny anaranao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ny hesed-nao"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "vonjeo aho"
+    }
+  ],
+  "timestamp": "2026-08-31T18:35:33.129024974Z",
+  "model": "glm-5.3"
+}

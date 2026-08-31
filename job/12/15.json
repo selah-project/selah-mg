@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Indro, raka ny rano amintsatry Izy dia maina; ary raha alefany izy dia avadiky ny tany.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "mitsatry"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ny rano"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "dia maina"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "ralefany izy"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "dia avadiky"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:01:21.499183161Z",
+  "model": "glm-5.3"
+}

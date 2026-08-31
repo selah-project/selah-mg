@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary Yoktana niteraka ⟨את⟩ an'i Almodada sy ⟨את⟩ an'i Shelefa sy ⟨את⟩ an'i Hatsarmaveta sy ⟨את⟩ an'i Yerakha.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "ary Yoktana"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Almodada"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Shelefa"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelefa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Hatsarmaveta"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hatsarmaveta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yerakha"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerakha"
+    }
+  ],
+  "timestamp": "2026-08-31T17:33:56.085614115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 130,
+  "translation": "Fihiram-piakatra. Avy any lalina no niantso anao aho, ry Yahveh.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Fihira"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "fiakatra"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "Avy any lalina"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "niantso anao aho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:31.025989303Z",
+  "model": "glm-5.3"
+}

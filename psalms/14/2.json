@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Yahveh avy any an-danitra nitsidika ny zanak'olombelona, mba hahita raha misy manan-tsaina, misy mitady ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "avy any an-danitra"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "nitsidika"
+    },
+    {
+      "surface": "על",
+      "gloss": "ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olombelona"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "mba hahita"
+    },
+    {
+      "surface": "היש",
+      "gloss": "raha misy"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "manan-tsaina"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "misy mitady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:44.539485516Z",
+  "model": "glm-5.3"
+}

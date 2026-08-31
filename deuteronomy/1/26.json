@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary tsy nety niakatra ianareo, fa niodina tamin'ny ⟨את⟩ vavan'i Yahveh Elohinareo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ary tsy"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "nety"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "niakatra"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "fa niodina tamin'ny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vavan'i Yahveh Elohinareo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "vavan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:39:44.954937467Z",
+  "model": "glm-5.3"
+}

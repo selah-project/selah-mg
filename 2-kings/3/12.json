@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary hoy Yehoshafat: Misy aminy ⟨את⟩ tenin'i Yahveh. Ary nidina nankany aminy ny mpanjakan'i Yisraely sy Yehoshafat ary ny mpanjakan'i Edoma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Misy"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "tenin'i Yahveh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "teny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "nidina"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "nankany aminy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraely"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ary ny mpanjaka"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoma"
+    }
+  ],
+  "timestamp": "2026-08-31T18:32:30.076261243Z",
+  "model": "glm-5.3"
+}

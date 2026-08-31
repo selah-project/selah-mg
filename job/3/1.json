@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Rehefa afaka izany Iyoba nanokatra ⟨את⟩ ny vavany ka nanozona ⟨את⟩ ny androny.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Rehefa afaka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "nanokatra"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyoba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vavany"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ny vavany"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "ka nanozona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny androny"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ny androny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:58:42.847428008Z",
+  "model": "glm-5.3"
+}

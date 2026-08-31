@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 67,
+  "translation": "Hanankaliza anao ny firenena, ry Elohim; hanankaliza anao ny firenena rehetra.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "hanankaliza anao"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ny firenena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "hanankaliza anao"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ny firenena"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "rehetra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:01.247605005Z",
+  "model": "glm-5.3"
+}

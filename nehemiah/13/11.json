@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 13:11",
+  "book": "nehemiah",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary niady hevitra tamin'ny manampahefana aho ka nanao hoe: Nahoana no nolavina ny tranon'i Elohim? Dia namory azy aho ka nametraka azy ⟨teo⟩ amin'ny toerany.",
+  "tokens": [
+    {
+      "surface": "ואריבה",
+      "gloss": "niady hevitra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny manampahefana"
+    },
+    {
+      "surface": "הסגנים",
+      "gloss": "ny manampahefana"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "nahoana"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "nolavina"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואקבצם",
+      "gloss": "namory azy"
+    },
+    {
+      "surface": "ואעמדם",
+      "gloss": "nametraka azy"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo"
+    },
+    {
+      "surface": "עמדם",
+      "gloss": "amin'ny toerany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:19:01.959156011Z",
+  "model": "glm-5.3"
+}

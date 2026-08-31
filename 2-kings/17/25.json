@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 17:25",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary tamin'ny fiandohan'ny fonenany tany dia tsy natahotra ⟨את⟩ an'i Yahveh izy; ka naniraka tao aminy ⟨את⟩ ny liona Yahveh, ka nisy namono tamin'izy ireo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary tonga tamin'ny"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "fiandohan'ny"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "fonenany"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "natahotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ka naniraka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "tao aminy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny liona"
+    },
+    {
+      "surface": "האריות",
+      "gloss": "ny liona"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ka nisy"
+    },
+    {
+      "surface": "הרגים",
+      "gloss": "namono"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "tamin'izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:58:22.093092892Z",
+  "model": "glm-5.3"
+}

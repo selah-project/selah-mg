@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Mihainoa ry lanitra, ary tandremo ry tany, fa Yahveh efa niteny: Zanaka nitsanganaaho sy nampiakatra, fa izy kosa niodina tamiko.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mihainoa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ry lanitra"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "ary tandremo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ry tany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "efa niteny"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "Zanaka"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "nitsanganaaho"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "sy nampiakatra"
+    },
+    {
+      "surface": "והם",
+      "gloss": "fa izy kosa"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "niodina"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tamiko"
+    }
+  ],
+  "timestamp": "2026-08-31T15:02:31.837493610Z",
+  "model": "glm-5.3"
+}

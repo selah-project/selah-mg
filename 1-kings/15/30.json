@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Noho ny fahotan'i Yarovama izay nataony, sy izay nampahotany ⟨את⟩ an'i Yisraela, amin'ny fahatezerany izay nampahatezerany ⟨את⟩ an'i Yahveh, Elohin'i Yisraela.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "noho \/ amin'ny"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "ny fahotan'i"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "nataony (fahota)"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "sy izay"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "nampahotany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "amin'ny fahatezerany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "nampahatezerany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    }
+  ],
+  "timestamp": "2026-08-31T18:32:17.144128130Z",
+  "model": "glm-5.3"
+}

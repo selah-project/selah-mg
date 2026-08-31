@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 136:24",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 136,
+  "translation": "Ary nanavotra antsika tamin'ny fahavavalontsika izy, fa ho amin'ny faharetana mandrakizay no hesed-ny.",
+  "tokens": [
+    {
+      "surface": "ויפרקנו",
+      "gloss": "nanavotra antsika"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "tamin'ny fahavavalontsika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "amin'ny faharetana mandrakizay"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-ny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:17.063052414Z",
+  "model": "glm-5.3"
+}

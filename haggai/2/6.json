@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Fa izao no lazain'i Yahveh Tsabaot: indray monja, kely ⟨izy⟩, ary izaho mampihorohoro ⟨את⟩ ny lanitra sy ⟨את⟩ ny tany sy ⟨את⟩ ny ranomasina sy ⟨את⟩ ny tany maina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "izao"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "lazain'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsabaot"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mbola"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "indray monja"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kely"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨izy⟩"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ary izaho"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "mampihorohoro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lanitra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny ranomasina"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ny ranomasina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany maina"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "ny tany maina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:17:56.391914980Z",
+  "model": "glm-5.3"
+}

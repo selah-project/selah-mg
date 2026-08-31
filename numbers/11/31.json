@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 11:31",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary rivotra niainga avy amin'⟨את⟩ Yahveh, ka nandroaka sakafobaravy avy tamin'ny ranomasina, ka namela azy hamono ho eo amin'ny toby, toy ny dia andro iray ato, ary toy ny dia andro iray aro, manodidina ny toby, ary roa hakiho ambonin'ny endrik'ny tany.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "Ary rivotra"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "niainga"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "avy amin'⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "ka nandroaka"
+    },
+    {
+      "surface": "שלוים",
+      "gloss": "sakafobaravy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy tamin'ny"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ranomasina"
+    },
+    {
+      "surface": "ויטש",
+      "gloss": "ka namela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho eo amin'ny"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "toby"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "toy ny dia"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "כה",
+      "gloss": "iray ato"
+    },
+    {
+      "surface": "וכדרך",
+      "gloss": "ary toy ny dia"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "כה",
+      "gloss": "iray aro"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "toby"
+    },
+    {
+      "surface": "וכאמתים",
+      "gloss": "ary roa hakiho"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "פני",
+      "gloss": "endrik'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:29:23.832270368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 45:19",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 45,
+  "translation": "Ary ianao kosa, efa nandidiana: ity no ataovy — makà ho anareo avy amin'ny tany Mitsrayim kalesy ho an'ny zanakareo madinika sy ho an'ny vadinareo, ary ento ⟨את⟩ ny rainareo, ary avio.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ary ianao kosa"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "efa nandidiana"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ity"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ataovy"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "makà"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "avy amin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "kalesy"
+    },
+    {
+      "surface": "לטפכם",
+      "gloss": "zanakareo madinika"
+    },
+    {
+      "surface": "ולנשיכם",
+      "gloss": "sy ho an'ny vadinareo"
+    },
+    {
+      "surface": "ונשאתם",
+      "gloss": "ary ento"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rainareo"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "ny rainareo"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "ary avio"
+    }
+  ],
+  "timestamp": "2026-08-31T12:52:43.428126550Z",
+  "model": "glm-5.3"
+}

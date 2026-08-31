@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 2:20",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary hoy izy: Ento amiko vilia vaovao, ary asio sira ao anatiny. Dia nentiny tao aminy izany.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Ento"
+    },
+    {
+      "surface": "לי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "צלחית",
+      "gloss": "vilia"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "vaovao"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "ary asio"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ao anatiny"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "sira"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "Dia nentiny"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tao aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:50:21.491844950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary Yosef nanofa nofy, ka nambarany tamin'ny rahalahiny, ary niampy fankizizy azy indray izy ireo.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "nanofa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "nofy"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "nambarany"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "tamin'ny rahalahiny"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "niampy indray izy ireo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "indray"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "fankizizy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (Yosef)"
+    }
+  ],
+  "timestamp": "2026-08-31T12:47:57.882204416Z",
+  "model": "glm-5.3"
+}

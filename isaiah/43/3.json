@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 43,
+  "translation": "Fa Izaho no Yahveh, Elohim-nao, ny Masina amin'ny Isiraely, Mpamonjy anao; efa nomena ho ⟨onitra⟩ i Mitsrayim, Kosy sy Seba no nomena ho solonao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nao"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ny Masina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "amin'ny Isiraely"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "Mpamonjy anao"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "efa nomena"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "ho ⟨onitra⟩"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "i Mitsrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kosy"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "sy Seba"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "ho solonao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:15:46.354538271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary nandeha avy tao izy nankany amin'ny mponina ⟨ao amin'ny⟩ Devira — ary anaran'i Devira fahiny dia Kiryat-Sefera.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "משם",
+      "gloss": "avy tao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nankany amin'ny"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mponina"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "⟨ao amin'ny⟩ Devira"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ary anaran'i"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devira"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "fahiny"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefera"
+    }
+  ],
+  "timestamp": "2026-08-31T14:04:02.078682224Z",
+  "model": "glm-5.3"
+}

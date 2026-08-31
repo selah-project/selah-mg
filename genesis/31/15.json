@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Tsy vahiny va no isainany mihitsy izahay? Fa efa namidy izahay, ary nohaniny tanteraka koa ⟨את⟩ ny volafotsintsika.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Tsy...va"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "vahiny"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "no isainany izahay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Azy (Lavana)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "efa namidy izahay"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ary nohaniny"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "tanteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny volafotsintsika"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "ny volafotsintsika"
+    }
+  ],
+  "timestamp": "2026-08-31T12:46:25.374648669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 94,
+  "translation": "Ary hamerina amin'ny lohany izy ⟨ny⟩ haratsian'izy ireo ⟨את⟩, ary amin'ny ratsy ataony dia hofongorany tsy hisy sisa: hofongorany tsy hisy sisa Yahveh, Elohintsika.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ary hamerina"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "amin'izy ireo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny haratsian'izy ireo"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ny haratsian'izy ireo"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "ary amin'ny ratsy ataony"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "hofongorany tsy hisy sisa"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "hofongorany tsy hisy sisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohintsika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:00.438769798Z",
+  "model": "glm-5.3"
+}

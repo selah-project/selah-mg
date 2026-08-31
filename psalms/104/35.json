@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 104,
+  "translation": "Ho lany amin'ny tany ny mpanota, ary ny ratsy fanahy tsy hisy intsony. Isaora, ry fanahiko, ⟨את⟩ Yahveh. Miderà an'i Yah.",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "ho lany"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ny mpanota"
+    },
+    {
+      "surface": "מן",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ary ny ratsy fanahy"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "tsy hisy"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "isaora"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ry fanahiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "miderà"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:18.654523933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "dia hivoaka ny anti-panahinao sy ny mpitsaranao, ka hametra ny elanelana mankany amin'ireo tanàna manodidina ilay faty,",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "hivoaka"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "ny anti-panahinao"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "sy ny mpitsaranao"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "hametra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mankany amin'ny"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "ilay faty"
+    }
+  ],
+  "timestamp": "2026-08-31T13:47:00.824748633Z",
+  "model": "glm-5.3"
+}

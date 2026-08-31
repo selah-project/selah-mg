@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 7:9",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary ho ren'ny Kanaanita sy ny mponina rehetra amin'ny tany izany, ka hiady ho fatra antsika izy ka hamafa ny anarantsika hiala amin'ny tany; ary inona no hataonao ho an'ny anaranao lehibe?",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ho ren'ny"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanita"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ny ... rehetra"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mponina"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "ונסבו",
+      "gloss": "hiady ho fatra"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "antsika"
+    },
+    {
+      "surface": "והכריתו",
+      "gloss": "hamafa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anarantsika"
+    },
+    {
+      "surface": "שמנו",
+      "gloss": "anarantsika"
+    },
+    {
+      "surface": "מן",
+      "gloss": "hiala amin'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ary inona"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "no hataonao"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ho an'ny anaranao"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "lehibe"
+    }
+  ],
+  "timestamp": "2026-08-31T13:58:12.996776368Z",
+  "model": "glm-5.3"
+}

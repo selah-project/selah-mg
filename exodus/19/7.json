@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 19:7",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary tonga Moshe ka niantso ny lohalaharan'ny vahoaka, dia nametraka teo anatrehany izao teny rehetra izao izay nandidian'i Yahveh azy.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ary tonga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ka niantso"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "ny lohalaharan'ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dia nametraka"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "teo anatrehany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teny rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "teny"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "izao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "nandidiana ... azy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:01:07.933956219Z",
+  "model": "glm-5.3"
+}

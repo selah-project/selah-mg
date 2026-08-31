@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Faran'ny teny, efa henoy avokoa: matahora an'i Elohim ⟨את⟩, ary tandremo ny didiny ⟨את⟩, fa izany no ⟨fytontan'ny⟩ olona rehetra.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "farany"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "teny"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "henoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "matahora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny didiny"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "ny didiny"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "tandremo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izany"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "olona"
+    }
+  ],
+  "timestamp": "2026-08-31T17:17:26.942483359Z",
+  "model": "glm-5.3"
+}

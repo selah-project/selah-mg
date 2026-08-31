@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 7:10",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary Moshe sy Ahsona nankeo amin'i Parao, ka nataony araka izay nandidian'i Yahveh; ary Aharon nariany ⟨את⟩ ny tehiny teo anoloan'i Parao sy teo anoloan'ny mpanompony, dia tonga taninina izy.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "nankeo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "sy Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "כן",
+      "gloss": "araka izany"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka izay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidian'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "nariany"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tehiny"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "ny tehiny"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anoloan'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "sy teo anoloan'ny"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "mpanompony"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "לתנין",
+      "gloss": "taninina"
+    }
+  ],
+  "timestamp": "2026-08-31T12:56:27.169814085Z",
+  "model": "glm-5.3"
+}

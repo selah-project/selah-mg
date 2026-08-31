@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Fa ny fanerena mamohafoha ny hendry, ary ny fanomezana mandrava ⟨את⟩ ny fo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "ny fanerena"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "mamohafoha"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ny hendry"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "ary mandrava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ny fo"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "ny fanomezana (kolikoly)"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:53.167075941Z",
+  "model": "glm-5.3"
+}

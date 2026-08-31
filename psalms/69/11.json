@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 69,
+  "translation": "Ary nitomany aho tamin'ny fifadian-kanina nataoko ho an'ny ahiko, ka tonga fanalam-baraka ho ahy izany.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "Ary nitomany aho"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "tamin'ny fifadian-kanina"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ho an'ny ahiko"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ka tonga"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "fanalam-baraka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:59.281083339Z",
+  "model": "glm-5.3"
+}

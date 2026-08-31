@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 2:19",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary akanjo kely no nataon'ilay reniny ho azy, ary nitondra ho azy izany isaky ny taona izy, rehefa niakatra niaraka tamin'⟨את⟩ ny vadiny hanao ⟨את⟩ fanatitra ny isan-taona.",
+  "tokens": [
+    {
+      "surface": "ומעיל",
+      "gloss": "akanjo"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "kely"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ny reniny"
+    },
+    {
+      "surface": "והעלתה",
+      "gloss": "nitondra niakatra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "בעלותה",
+      "gloss": "rehefa niakatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vadiny"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "vadiny"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "hanao fanatitra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fanatitra"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "fanatitra"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ny isan-taona"
+    }
+  ],
+  "timestamp": "2026-08-31T18:02:55.487655193Z",
+  "model": "glm-5.3"
+}

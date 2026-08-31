@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Ary Zakry, lehilahy mahery avy amin'ny Efraima, namono an'i Maaseia zanak'ny mpanjaka, sy ⟨את⟩ i Azrika mpanapaka ny lapa, ary ⟨את⟩ i Elkana faharoa amin'ny mpanjaka.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "namono"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zakry"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "lehilahy mahery"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Maaseia"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maaseia"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i Azrika"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azrika"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "mpanapaka"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ny lapa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i Elkana"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "faharoa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "amin'ny mpanjaka"
+    }
+  ],
+  "timestamp": "2026-08-31T17:50:23.943129787Z",
+  "model": "glm-5.3"
+}

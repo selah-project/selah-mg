@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 3:11",
+  "book": "habakkuk",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Nijanona tao amin'ny fonenany ny masoandro sy ny volana; tamin'ny fahazavan'ny zana-tsipìkanao ⟨izy⟩ nandeha, tamin'ny famirapiratana ny velatry ny janakaranao.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "masoandro"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "volana"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nijanona"
+    },
+    {
+      "surface": "זבולה",
+      "gloss": "fonenany"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "tamin'ny fahazavana"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "zana-tsipìkanao"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "tamin'ny famirapiratana"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "velatra"
+    },
+    {
+      "surface": "חניתך",
+      "gloss": "janakaranao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:17:30.808218793Z",
+  "model": "glm-5.3"
+}

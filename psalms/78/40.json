@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Firy che amin'ny efitra no nanoherana Azy, sy nampalahelo Azy tany amin'ny tany efitra!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "Firy che"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "nanoherana Azy"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "amin'ny efitra"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "nampalahelo Azy"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "tany amin'ny tany efitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:34.699595815Z",
+  "model": "glm-5.3"
+}

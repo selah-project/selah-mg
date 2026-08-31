@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary hametraka ianao ⟨את⟩ ny lavaka fanasan-damba eo anelanelan'ny trano-lay fihaonana sy ny alitara, ary hanisy rano ao ianao.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "hametraka ianao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lavaka fanasan-damba"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "lavaka fanasan-damba"
+    },
+    {
+      "surface": "בין",
+      "gloss": "eo anelanelan'ny"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "trano-lay"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ny alitara"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ary hanisy ianao"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ao"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:32.790179378Z",
+  "model": "glm-5.3"
+}

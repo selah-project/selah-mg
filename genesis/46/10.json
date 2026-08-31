@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 46:10",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 46,
+  "translation": "Ary ny zanak'i Shimeon: Yemuel, sy Yamin, sy Ohad, sy Yakin, sy Tsohar, ary Shaol zanak'⟨ny⟩ vavy Kenaanita.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ary ny zanak'i"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimeon"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Yemuel"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "sy Yamin"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "sy Ohad"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "sy Yakin"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "sy Tsohar"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ary Shaol"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "ny vavy Kenaanita"
+    }
+  ],
+  "timestamp": "2026-08-31T12:52:15.005842746Z",
+  "model": "glm-5.3"
+}

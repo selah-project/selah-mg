@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 63,
+  "translation": "Mifikitra aminao ny fanahiko; ny tananao havanana no manohana ahy.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "mifikitra"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny fanahiko"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "manohana"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ny tananao havanana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:40.933329130Z",
+  "model": "glm-5.3"
+}

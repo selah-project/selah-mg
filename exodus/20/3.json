@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Tsy hisy ho anao andriamanitra hafa eo anatrehako.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hisy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "andriamanitra"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "hafa"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anatrehako"
+    }
+  ],
+  "timestamp": "2026-08-31T13:01:46.461254428Z",
+  "model": "glm-5.3"
+}

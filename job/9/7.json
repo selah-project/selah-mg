@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Izay miteny amin'ny masoandro ka tsy mipoaka, ary ny kintana nofeniny.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "miteny"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "amin'ny masoandro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "mipoaka"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ary"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "ny kintana"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "nofeniny"
+    }
+  ],
+  "timestamp": "2026-08-31T17:00:39.527822586Z",
+  "model": "glm-5.3"
+}

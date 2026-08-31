@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Aoka honga tsy ampoizina sy ho mena ny tavanay izay mitady ny aiko; aoka hiverina mivadina sy ho mena ny tavanay izay manao tetika loza amiko.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "honga tsy ampoizina"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "sy ho mena ny tavanay"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "izay mitady"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "hiverina mivadina"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "mivadina"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "sy ho mena ny tavanay"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "izay manao tetika"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "loza amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:36.409986123Z",
+  "model": "glm-5.3"
+}

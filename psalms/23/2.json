@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Any an-kijana maitso Izy mampatory ahy; eo ambanin'ny rano mandeha amim-panekenana Izy mitondra ahy.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "Any an-kijana"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "maitso (bozaka)"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "mampatory ahy"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambanin'ny"
+    },
+    {
+      "surface": "מי",
+      "gloss": "rano"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "mandeha amim-panekenana"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "mitondra ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:08.592455182Z",
+  "model": "glm-5.3"
+}

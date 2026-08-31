@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary ny ampinga fitoerana nataony koa, ary ny lovia nataony eo ambonin'ireo ampinga fitoerana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny ampinga fitoerana"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ny ampinga fitoerana"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny lovia"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "ny lovia"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambonin'"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ireo ampinga fitoerana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:19:46.467933066Z",
+  "model": "glm-5.3"
+}

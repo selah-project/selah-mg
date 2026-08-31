@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Ny fahamarinanao tahaka ny tendrombohitran'El; ny fitsaranao lalina toy ny ranomasimbe; olona sy biby no ovianao, ry Yahveh.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "ny fahamarinanao"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "tahaka ny tendrombohitran'"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "ny fitsaranao"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "lalina toy ny ranomasimbe"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "be"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "sy biby"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "no ovianao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:02.893231514Z",
+  "model": "glm-5.3"
+}

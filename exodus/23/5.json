@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Raha hitanao ny ampondran'ny mpankahala anao mitañongoa eo ambany entany, ary mijanona tsy hamela azy ianao — hamela ⟨amin'ny⟩ azy tokoa hianao",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "hitanao"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ny ampondra"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "ny mpankahala anao"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "mitañongoa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "eo ambany"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "entany"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "ary mijanona"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "tsy hamela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "hamela"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "hianao tokoa hamela"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨amin'ny⟩ azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:21.189285268Z",
+  "model": "glm-5.3"
+}

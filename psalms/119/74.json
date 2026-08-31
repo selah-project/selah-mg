@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "psalms 119:74",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ho faly izay matahora anao rehefa mahita ahy izy ireo, fa ny teninao no niandrasako.",
+  "tokens": [
+    {
+      "surface": "יראיך",
+      "gloss": "izay matahora anao"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "mahita ahy"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ho faly"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "ny teninao"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "niandrasako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:39.001015759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 6:20",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary nalain'i Amram ho vady i Yokaved dadatoavy ⟨tamin'ny rain'i Amram⟩; ary niteraka taminy i Aaron sy Moshe ⟨izy⟩; ary ny taona nividian'ny aina n'i Amram dia fito amby telo-polo amby zato taona.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ary nalain'i Amram"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yokaved"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "i Yokaved"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "dadatoavy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ho vady"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ary niteraka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aaron"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "i Aaron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ary ny taona"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "nividian'ny aina"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "n'i Amram"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "fito"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "amby telo-polo"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "amby zato"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    }
+  ],
+  "timestamp": "2026-08-31T12:55:34.067055009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 137,
+  "translation": "Tsarovy, ry Yahveh, ny amin'ny zanak'i Edoma ⟨את⟩ ny andro an'i Yeroshalayim, izay nanao hoe: Ravao, ravao, hatramin'ny fototra ivelany!",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Tsarovy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ny amin'ny zanak'i"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny andro an'i Yeroshalayim"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ny andro"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "an'i Yeroshalayim"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "izay nanao hoe"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "Ravao"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "ravao"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hatramin'ny"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "fototra"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ivelany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:14.791601586Z",
+  "model": "glm-5.3"
+}

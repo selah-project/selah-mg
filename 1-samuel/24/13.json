@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 24:13",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Yahveh no hitsara eo amiko sy eo aminao, ary Yahveh no hamaly aho avy aminao; fa ny tanako tsy ho tonon'ianao.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "hitsara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "eo amiko"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "sy eo aminao"
+    },
+    {
+      "surface": "ונקמני",
+      "gloss": "hamaly aho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "avy aminao"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "fa ny tanako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בך",
+      "gloss": "eo aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:24:53.934836613Z",
+  "model": "glm-5.3"
+}

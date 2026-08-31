@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 13:5",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Tsy niakatra ianareo tao amin'ny fivalozana, ary tsy nanamboatra manda ho an'ny tranon'i Yisraela, hitoetra ho amin'ny ady amin'ny andron'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "עליתם",
+      "gloss": "niakatra ianareo"
+    },
+    {
+      "surface": "בפרצות",
+      "gloss": "tao amin'ny fivalozana"
+    },
+    {
+      "surface": "ותגדרו",
+      "gloss": "ary tsy nanamboatra manda"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "manda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho an'ny"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "hitoetra"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "amin'ny ady"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'ny andron'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T15:50:23.137269471Z",
+  "model": "glm-5.3"
+}

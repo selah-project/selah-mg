@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 57,
+  "translation": "Tsy misy shalom, hoy ny Eloahiko, ho an'ny ratsy fanahy.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Tsy misy"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ny Eloahiko"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "ho an'ny ratsy fanahy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:19:54.271558172Z",
+  "model": "glm-5.3"
+}

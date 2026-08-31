@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Hasiko azy amin'ny aretina mafy ka hofafako azy; ary hataoko anao ⟨את⟩ ho firenena lehibe sy mahery noho izy.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "hasiko azy"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "amin'ny aretina mafy"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "hofafako azy"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "hataoko"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ anao"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ho firenena"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "sy mahery"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "noho izy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:29:30.429164229Z",
+  "model": "glm-5.3"
+}

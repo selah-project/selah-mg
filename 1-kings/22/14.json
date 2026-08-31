@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary hoy Mikhayaho: Velona Yahveh, fa ⟨את⟩ izay holazain'i Yahveh amiko ⟨את⟩ no hitenyiko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikhayaho"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Velona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay holazain'i Yahveh amiko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "holazainy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "no hitenyiko"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "hiteny"
+    }
+  ],
+  "timestamp": "2026-08-31T14:51:27.418255933Z",
+  "model": "glm-5.3"
+}

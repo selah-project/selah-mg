@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary Yahveh nampivoaka antsika avy tany Mitsrayim tamin'ny tanana mahery sy tamin'ny sandry mivelatra sy tamin'ny fahatairana lehibe sy tamin'ny famantarana sy tamin'ny zava-mahagaga.",
+  "tokens": [
+    {
+      "surface": "ויוצאנו",
+      "gloss": "nampivoaka antsika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "avy tany Mitsrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "tamin'ny tanana"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "sy tamin'ny sandry"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "mivelatra"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "sy tamin'ny fahatairana"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "sy tamin'ny famantarana"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "sy tamin'ny zava-mahagaga"
+    }
+  ],
+  "timestamp": "2026-08-31T13:49:12.311124155Z",
+  "model": "glm-5.3"
+}

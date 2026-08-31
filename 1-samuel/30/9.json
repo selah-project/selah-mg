@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 30:9",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary Davide nandeha, izy sy lehilahy eninjato izay ⟨את⟩ tao aminy, ary tonga izy ireo tamin'ny lohasahan'i Besora; ary ny sisa ⟨את⟩ nijanona.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "sy enin-"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "jato"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ tao aminy",
+      "marks": "Davide"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hatrany amin'ny"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "lohasaha"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besora"
+    },
+    {
+      "surface": "והנותרים",
+      "gloss": "ary ny sisa"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "nijanona"
+    }
+  ],
+  "timestamp": "2026-08-31T14:27:41.400160343Z",
+  "model": "glm-5.3"
+}

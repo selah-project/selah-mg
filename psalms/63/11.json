@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 63,
+  "translation": "Havoaka ho amin'ny lelan'ny sabatra izy; ho anjaran'ny amboa no hahazo azy.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "havoaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho amin'ny"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "lelan'ny"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabatra"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "anjaran'ny"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "amboa"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:40.936004622Z",
+  "model": "glm-5.3"
+}

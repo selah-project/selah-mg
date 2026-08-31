@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 2:2",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "hanao eo amin'ny sofinao hihainoana ny fahendrena, ianao kosa hanatsori ny fonao ho amin'ny fahalalana,",
+  "tokens": [
+    {
+      "surface": "להקשיב",
+      "gloss": "hanao... hihainoana"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "ny fahendrena"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "eo amin'ny sofinao"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "hanatsori"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ny fonao"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "ho amin'ny fahalalana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:49:11.823469464Z",
+  "model": "glm-5.3"
+}

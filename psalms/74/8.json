@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 74,
+  "translation": "Hoy izy tamin'ny fontsany: Aingao izy rehetra miaraka; nandoro ny fihaonana rehetra'n ⟨ny⟩ El eto an-tany izy.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "hoy izy"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "tamin'ny fontsany"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "aingao izy"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "miaraka"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "nandoro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "fihaonana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "eto an-tany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:13:51.296376824Z",
+  "model": "glm-5.3"
+}

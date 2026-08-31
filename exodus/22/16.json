@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Raha manda mangingina ny rainy ka tsy hanome azy ho azy, dia volafotsy no laniny araka ny moharin'ny mente.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "manda"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "mangingina"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ny rainy"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "hanome azy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "laniny"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "araka ny moharin'ny"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "mente"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:02.046345493Z",
+  "model": "glm-5.3"
+}

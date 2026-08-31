@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary ny zanak'i Yisraela nanome ny Levita ⟨את⟩ ireto tanàna ireto sy ⟨את⟩ ny tany manodidina azy, araka ny nandidian'i Yahveh tamin'ny tanan'i Moshe, tamin'ny filokana.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Ary ... nanome"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ny Levita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ireto tanàna ireto"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireto ... ireto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tany manodidina azy"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "ny tany manodidina azy"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidian'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "tamin'ny tanan'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "tamin'ny filokana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:02:36.884313335Z",
+  "model": "glm-5.3"
+}

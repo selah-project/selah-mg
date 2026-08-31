@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "Averinao amiko ny fifalianan'ny famonjenao, ary fanahy nazare tsara an-tsaina no hahatantitra ahy.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "Averinao"
+    },
+    {
+      "surface": "לי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ny fifalianan'ny"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "famonjenao"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ary fanahy"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "nazare tsara an-tsaina"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "no hahatantitra ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:25.705224326Z",
+  "model": "glm-5.3"
+}

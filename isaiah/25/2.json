@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 25:2",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Fa efa nataonao ho tavolo ny tanàna, ny tanàna mimanda ho rava; ny trano fiarovàn'ny vahiny dia tsy ho tanàna intsony, tsy hosoratana mihitsy amin'ny mandrakizay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "efa nataonao"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ny tanàna"
+    },
+    {
+      "surface": "לגל",
+      "gloss": "ho tavolo"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "ny tanàna"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "mimanda"
+    },
+    {
+      "surface": "למפלה",
+      "gloss": "ho rava"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "ny trano fiarovana"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "n'ny vahiny"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "dia tsy ho tanàna intsony"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "amin'ny mandrakizay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "hosoratana mihitsy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:09:17.498190139Z",
+  "model": "glm-5.3"
+}

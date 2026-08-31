@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 25:12",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary ny fiarovana avo amin'ny manda fiarovanao dia hampidinina, hanaingana hatsaka, hampidina hidina ambanin'ny tany, ka ho vovoka.",
+  "tokens": [
+    {
+      "surface": "ומבצר",
+      "gloss": "ary ny fiarovana"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "avo"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "amin'ny manda fiarovanao"
+    },
+    {
+      "surface": "השח",
+      "gloss": "hampidinina"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "hanaingana hatsaka"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "hampidina hidina"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ambanin'ny tany"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka hatrany"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "vovoka"
+    }
+  ],
+  "timestamp": "2026-08-31T15:08:46.170720892Z",
+  "model": "glm-5.3"
+}

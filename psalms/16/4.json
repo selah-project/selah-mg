@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Hamaro be ny fanahy manahiny azy ireo izay mihazakazaka manaraka andriamani-kafa; tsy hanatitra ny fanatitra aidsy misy rà aho, ary tsy hitsonga ny anaran'izy ireo amin'ny moloko.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "Hamaro be"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "ny fanahy manahiny azy ireo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "manaraka"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "izay mihazakazaka"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "hanatitra ny fanatitra aidsy"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "aidtsy azy ireo"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "misy rà"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "hitsonga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anaran'izy ireo"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "ny anaran'izy ireo"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "moloko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:30.759354407Z",
+  "model": "glm-5.3"
+}

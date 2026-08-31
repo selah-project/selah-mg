@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 72,
+  "translation": "Hatahotra anao ⟨izy⟩ miaraka amin'ny masoandro, ary eo anoloan'ny volana, taranaka aman-taranaka.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "hatahotra anao"
+    },
+    {
+      "surface": "עם",
+      "gloss": "miaraka amin'ny"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "masoandro"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ary eo anoloan'ny"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "volana"
+    },
+    {
+      "surface": "דור",
+      "gloss": "taranaka"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "aman-taranaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:41.534680876Z",
+  "model": "glm-5.3"
+}

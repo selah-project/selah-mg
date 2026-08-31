@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 41:30",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Ary hitsangana taona fito mosaremy aorian'izany, ka hohadinoina ny fahavokatra rehetra ao amin'ny tany Mitsrayim, ary hahaty ny mosaremy ⟨את⟩ ny tany.",
+  "tokens": [
+    {
+      "surface": "וקמו",
+      "gloss": "hitsangana"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "fito"
+    },
+    {
+      "surface": "שני",
+      "gloss": "taona"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "mosaremy"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "aorian'izany"
+    },
+    {
+      "surface": "ונשכח",
+      "gloss": "ka hohadinoina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "ny fahavokatra"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ao amin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ary hahaty"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ny mosaremy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:49:35.150072485Z",
+  "model": "glm-5.3"
+}

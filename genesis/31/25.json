@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary Lavan nahazo ⟨את⟩ an'i Yaakov, ary Yaakov efa nampijoro ny lainy tao amin'ny tendrombohitra, ary Lavan kosa nampijoro ⟨את⟩ ny rahalahiny tao amin'ny tendrombohitra Gilad.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "nahazo"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ary Yaakov"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "nampijoro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lainy"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "ny lainy"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "tao amin'ny tendrombohitra"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "ary Lavan"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "nampijoro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rahalahiny"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ny rahalahiny"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "tao amin'ny tendrombohitra"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-08-31T12:46:13.092346559Z",
+  "model": "glm-5.3"
+}

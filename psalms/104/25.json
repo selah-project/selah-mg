@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 104,
+  "translation": "Ity ny ranomasina, lehibe sady malalaka ⟨davitra⟩, ao ny zava-mananaina mihetsika tsy hita isa, biby fiaina kely sy lehibe.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ity"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ny ranomasina"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "sady malalaka"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "⟨davitra⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ao"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "zava-mananaina mihetsika"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tsy hita"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "isa"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "biby fiaina"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "kely"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sy"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "lehibe"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:03.012478922Z",
+  "model": "glm-5.3"
+}

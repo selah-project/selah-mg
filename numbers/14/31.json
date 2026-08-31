@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 14:31",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary ny zanakareo kely, izay nolazainareo ho tonga babo, dia hitondra azy ⟨את⟩ hahalala ny tany ⟨את⟩ izay nolavinareo.",
+  "tokens": [
+    {
+      "surface": "וטפכם",
+      "gloss": "ary ny zanakareo kely"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "nolazainareo"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "ho tonga babo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "והביאתי",
+      "gloss": "dia hitondra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ireo zanaka kely)"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "hahalala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "מאסתם",
+      "gloss": "nolavinareo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "(azy)"
+    }
+  ],
+  "timestamp": "2026-08-31T18:29:46.850422763Z",
+  "model": "glm-5.3"
+}

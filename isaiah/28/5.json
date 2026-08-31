@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 28:5",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Amin'izay andro izay Yahveh Tsevaot ho satro-boninahitra mahafinaritra sy satro-kenatra voninahitra ho an'ny sisa amin'ny olony,",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "amin'izay andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לעטרת",
+      "gloss": "ho satro-boninahitra"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "mahafinaritra"
+    },
+    {
+      "surface": "ולצפירת",
+      "gloss": "sy satro-kenatra"
+    },
+    {
+      "surface": "תפארה",
+      "gloss": "voninahitra"
+    },
+    {
+      "surface": "לשאר",
+      "gloss": "ho an'ny sisa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "amin'ny olony"
+    }
+  ],
+  "timestamp": "2026-08-31T15:09:38.572530517Z",
+  "model": "glm-5.3"
+}

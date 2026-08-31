@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Fa nanao mafy ho azy izany tamin'ny masony, mba hitady ny helony ka hankahala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "nanao mafy"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "tamin'ny masony"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "mba hitady"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ny helony"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "hankahala"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:22.448216502Z",
+  "model": "glm-5.3"
+}

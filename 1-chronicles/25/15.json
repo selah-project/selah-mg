@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 25:15",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ny fahavalo: Yeshayahu, ny zanany sy ny rahalahiny ⟨—⟩ roa ambin'ny folo.",
+  "tokens": [
+    {
+      "surface": "השמיני",
+      "gloss": "ny fahavalo"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "sy ny rahalahiny"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "roa (ambin'ny)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "folo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:40:22.972434811Z",
+  "model": "glm-5.3"
+}

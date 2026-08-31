@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 39:7",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "Ary ⟨את⟩ ny mason'i Tsidkiahu dia nohamaininy, ka nogadrainy tamin'ny sofina varahina mba hitondra azy ⟨את⟩ ho any Babylona.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ary ⟨את⟩",
+      "marks": "ny mason'i Tsidkiahu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mason'i"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "nohamaininy"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "nogadrainy"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "tamin'ny sofina varahina"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "mba hitondra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "ho any Babylona"
+    }
+  ],
+  "timestamp": "2026-08-31T15:38:55.685401930Z",
+  "model": "glm-5.3"
+}

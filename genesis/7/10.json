@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary nony afaka fito andro, dia ny ranon'ilay lozam-be no tonga tao ambonin'ny tany.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nony"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "afaka fito"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "dia ny ranon'ilay"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "lozam-be"
+    },
+    {
+      "surface": "היו",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "על",
+      "gloss": "tao ambonin'"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:56.992748191Z",
+  "model": "glm-5.3"
+}

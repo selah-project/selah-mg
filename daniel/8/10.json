@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 8:10",
+  "book": "daniel",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Nitombo izy ka hatrany amin'ny tafiky ny lanitra, ka nandavo ny sasany tamin'ny tafy sy tamin'ny kintana tety an-tany, ka nitsipaka azy.",
+  "tokens": [
+    {
+      "surface": "ותגדל",
+      "gloss": "nitombo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka hatrany amin'ny"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "tafiky"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "ka nandavo"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "tety an-tany"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ny sasany tamin'ny"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ny tafy"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "sy tamin'ny"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "ny kintana"
+    },
+    {
+      "surface": "ותרמסם",
+      "gloss": "ka nitsipaka azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:23:09.555044410Z",
+  "model": "glm-5.3"
+}

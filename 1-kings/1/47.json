@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-kings 1:47",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary tonga koa ny mpanompon'ny mpanjaka hitso-drano an'i ⟨את⟩ tomponay, ny mpanjaka Davida, hoe: Hataon'ny Elohim ⟨את⟩ ny anaran'i Shelomoha ho tsara noho ny anaranao, ary hampitomboiny ⟨את⟩ ny seza fiandrianany mihoatra ny seza fiandriananao. Ary niankohoka teo am-pandriana ny mpanjaka.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ary ... koa"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ny mpanompon'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "hitso-drano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i tomponay, ny mpanjaka Davida"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "tomponay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "hataony ho tsara"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ny Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anaran'i Shelomoha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ny anarana"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "i Shelomoha"
+    },
+    {
+      "surface": "משמך",
+      "gloss": "noho ny anaranao"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "ary hampitomboiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny seza fiandrianany"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ny seza fiandrianany"
+    },
+    {
+      "surface": "מכסאך",
+      "gloss": "mihoatra ny seza fiandriananao"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "Ary niankohoka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo am-"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "pandriana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:39:44.617416172Z",
+  "model": "glm-5.3"
+}

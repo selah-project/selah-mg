@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Fa eo am-pelatananao ⟨⟨ny⟩⟩ loharanon'ny fiainana; amin'ny fahazavanao no hahitantsika fahazavana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "eo am-pelatananao"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "loharanon'ny"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "fiainana"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "amin'ny fahazavanao"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "no hahitantsika"
+    },
+    {
+      "surface": "אור",
+      "gloss": "fahazavana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:57.295866318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary nandrantana ny jiro eo anatrehan'i Yahveh izy, araka ny nandidian'i Yahveh an'i Moshe ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "nandrantana"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "ny jiro"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anatrehan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidian'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:31.378799845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "dia handeha aminareo amin'ny fahateirana amin'ny fanoherana, ary hanasazy ⟨את⟩ ianareo izaho mihitsy, impito noho ny fahotanareo.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "dia handeha"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "aminareo"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "amin'ny fahateirana"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "amin'ny fanoherana"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "ary hanasazy"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ianareo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mihitsy ⟨na⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "impito"
+    },
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "ny fahotanareo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:57:44.571842471Z",
+  "model": "glm-5.3"
+}

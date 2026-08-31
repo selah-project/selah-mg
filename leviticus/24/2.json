@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Mandidy ny zanak'i Yisrael ⟨את⟩ ianao, ka haka ho aminao menaka oliva madio, voatoto, hanao fanazavana, hanentana jiro foana izy.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Mandidy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zanak'i Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "haka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho aminao"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "menaka"
+    },
+    {
+      "surface": "זית",
+      "gloss": "oliva"
+    },
+    {
+      "surface": "זך",
+      "gloss": "madio"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "voatoto"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "hanao fanazavana"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "hanentana"
+    },
+    {
+      "surface": "נר",
+      "gloss": "jiro"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "foana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:20:38.896476040Z",
+  "model": "glm-5.3"
+}

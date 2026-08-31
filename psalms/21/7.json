@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Fa manao azy tso-drano mandrakizay ianao, mamelabelatra amin'ny fifaliana ⟨eo anatrehanao⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "manao azy"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "tso-drano"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "mamelabelatra azy"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "amin'ny fifaliana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavanao"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "eo anatrehanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:41.959502195Z",
+  "model": "glm-5.3"
+}

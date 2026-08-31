@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Dia nanao fisaonana Davida ny fisaonana ity momba an'i Shaol sy momba an'i Yehonatanana zanany.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "nanao fisaonana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fisaonana"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "ny fisaonana"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ity"
+    },
+    {
+      "surface": "על",
+      "gloss": "momba an'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy momba an'i"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatanana"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:28:31.787227188Z",
+  "model": "glm-5.3"
+}

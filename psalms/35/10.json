@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Ny taolako rehetra hilaza hoe: Yahveh, iza no tahaka anao, izay manafaka ny malahelo amin'ny mahery noho izy, sy ny malahelo sy ny mahantra amin'ny mpangalatra azy?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "ny taolako"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "hilaza hoe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "tahaka anao"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "manafaka"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ny malahelo"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "amin'ny mahery"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "noho izy"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "sy ny malahelo"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "sy ny mahantra"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "amin'ny mpangalatra azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:43.877334477Z",
+  "model": "glm-5.3"
+}

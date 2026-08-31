@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 73,
+  "translation": "Fa izaho dia mpibedibedy ka tsy mahalala; toy ny biby fiompy no nataoko tao anatrehanao.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "fa izaho"
+    },
+    {
+      "surface": "בער",
+      "gloss": "mpibedibedy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "toy ny biby fiompy"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "no nataoko"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "tao anatrehanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:32.816791082Z",
+  "model": "glm-5.3"
+}

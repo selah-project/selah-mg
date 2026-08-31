@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 49,
+  "translation": "Ka hitany fa tsara ny fialan-tsasatra, ary ⟨את⟩ ny tany fa mahafinaritra; ka niondrika ny sorony hitondra entana, ka lasa mpanompo manao fanompoam-panjakana izy.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ka hitany"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ny fialan-tsasatra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "mahafinaritra"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ka niondrika"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ny sorony"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "hitondra entana"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ka lasa"
+    },
+    {
+      "surface": "למס",
+      "gloss": "mpanompo manao fanompoam-panjakana"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mpanompo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:54:25.071565741Z",
+  "model": "glm-5.3"
+}

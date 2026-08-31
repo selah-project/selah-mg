@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary ianao, ry zanak'olona, mandàfa ho anao biriky iray, ka ataovy eo anatrehanao izy, ary sorafo eo amboniny tanàna, dia ⟨את⟩ an'i Yeroshalayim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ary ianao"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "קח",
+      "gloss": "mandàfa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "biriky"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ka ataovy"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "biriky (ataovy eo anatrehanao izy)"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "eo anatrehanao"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "ary sorafo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "eo amboniny"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeroshalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    }
+  ],
+  "timestamp": "2026-08-31T15:48:51.621551211Z",
+  "model": "glm-5.3"
+}

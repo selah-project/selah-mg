@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 10:11",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary Jeho namely ⟨את⟩ izay sisa rehetra tamin'ny taranak'i Ahaba tao Jizreela, sy ny lehibeny rehetra, sy ny olona fantatray, ary ny mpisorony, mandra-pitsy navelany ho azy sisa akory.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "namely"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jeho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay sisa rehetra tamin'ny taranak'i Ahaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "izay sisa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "tamin'ny taranaky"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaba"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "tao Jizreela"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ... rehetra"
+    },
+    {
+      "surface": "גדליו",
+      "gloss": "ny lehibeny"
+    },
+    {
+      "surface": "ומידעיו",
+      "gloss": "sy ny olona fantatray"
+    },
+    {
+      "surface": "וכהניו",
+      "gloss": "ary ny mpisorony"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-pitsy"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "navelany"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "sisa akory"
+    }
+  ],
+  "timestamp": "2026-08-31T18:04:50.959561448Z",
+  "model": "glm-5.3"
+}

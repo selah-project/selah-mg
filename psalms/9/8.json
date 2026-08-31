@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary Yahveh mipetraka ho mandrakizay; efa nanorina ho fitsarana ny sezony Izy.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ary Yahveh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho mandrakizay"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "mipetraka"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "efa nanorina"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "ho fitsarana"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ny sezony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:39.256662071Z",
+  "model": "glm-5.3"
+}

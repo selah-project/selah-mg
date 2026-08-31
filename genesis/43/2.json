@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 43:2",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 43,
+  "translation": "Ary nony efa lany ny nihinanany ⟨את⟩ ny hanina izay nentiny avy any Mitsrayim, dia hoy ny rainy taminy: Miverenareo, mividiano antsika kely hanina.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nony"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "rehefa"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "efa lany"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "nihinanany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny hanina"
+    },
+    {
+      "surface": "השבר",
+      "gloss": "ny hanina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "nentiny"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "avy any Mitsrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dia hoy"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ny rainy"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Miverenareo"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "mividiano"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "antsika"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kely"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "hanina"
+    }
+  ],
+  "timestamp": "2026-08-31T12:51:09.615558259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary ⟨את⟩ ny tranon'i Yeroshalayim no nisainareo ho isa, ary noravanareo ny trano hanamafisana ny manda.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tranon'i Yeroshalayim"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "tranon'i"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "nisainareo ho isa"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "noravanareo"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "ny trano"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "hanamafisana"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "ny manda"
+    }
+  ],
+  "timestamp": "2026-08-31T15:07:59.823555341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Torihevi-javaro an'i Yahveh sy ny heriny, tadiavo ny taviny mivantana.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Torihevi-javaro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "sy ny heriny"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "tadiavo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ny taviny"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mivantana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:39.065812633Z",
+  "model": "glm-5.3"
+}

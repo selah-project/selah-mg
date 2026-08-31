@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary Elohim nihaino ⟨את⟩ ny fisaonany, ary Elohim nahatsiaro ⟨את⟩ ny fanekeny, ⟨את⟩ Avraham, ⟨את⟩ Yitschak, ary ⟨את⟩ Yaakov.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fisaonany"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "ny fisaonany"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "nahatsiaro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanekeny"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ny fanekeny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-31T12:54:49.430057523Z",
+  "model": "glm-5.3"
+}

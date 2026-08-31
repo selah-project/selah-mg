@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 43,
+  "translation": "Ary halainao ⟨את⟩ ilay ombilahy manota, ary hosothy eo amin'ny toerana voatendrin'ny tempoly, ivelan'ny fitoerana masina.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "halainao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay ombilahy manota"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ombilahy"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "manota"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "hosothy"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "eo amin'ny toerana voatendry"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ny tempoly"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ivelan'ny"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "fitoerana masina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:04:59.368201905Z",
+  "model": "glm-5.3"
+}

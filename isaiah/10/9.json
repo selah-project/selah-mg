@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Tsy toy an'i Karkemish va Kalno? Tsy toy an'i Arpad va Hamat? Tsy toy an'i Damaseka va Shomeron?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "toy an'i Karkemish"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "va Kalno?"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "toy"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "an'i Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "va Hamat?"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "toy"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "an'i Damaseka"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "va Shomeron?"
+    }
+  ],
+  "timestamp": "2026-08-31T15:04:49.948543709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 142:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 142,
+  "translation": "Ento miala amin'ny gefa ny aiko hidera ⟨את⟩ ny anaranao; amin'izay ho faly manodidina ahy ny marina, fa hahazo soa ianao amiko.",
+  "tokens": [
+    {
+      "surface": "הוציאה",
+      "gloss": "Ento miala"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "amin'ny gefa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "hidera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anaranao"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ny anaranao"
+    },
+    {
+      "surface": "בי",
+      "gloss": "amin'izay"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "ho faly manodidina"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ny marina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תגמל",
+      "gloss": "hahazo soa ianao"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:01.723911600Z",
+  "model": "glm-5.3"
+}

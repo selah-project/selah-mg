@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Ary homeko toerana amin'ny ranomasina ny tànany, ary amin'ny ony ny tanana-dakony.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Ary homeko toerana"
+    },
+    {
+      "surface": "בים",
+      "gloss": "amin'ny ranomasina"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ny tànany"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "amin'ny ony"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ny tanana-dakony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:47.632649814Z",
+  "model": "glm-5.3"
+}

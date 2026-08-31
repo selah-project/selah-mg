@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 100,
+  "translation": "Aoka ho fantatry ny rehetra fa Yahveh no Elohim; Izy no nahary antsika fa tsy izahay; olony isika sy ondry ampelatanany.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Aoka ho fantatry ny rehetra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Izy no"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "nahary antsika"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "izahay"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "olony"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "sy ondry"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "ampelatanany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:33.214915661Z",
+  "model": "glm-5.3"
+}

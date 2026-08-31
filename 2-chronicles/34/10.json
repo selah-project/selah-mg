@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 34:10",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ary nanome azy ho eo an-tanan'ny mpanao ny asa voatendry ao amin'ny tranon'i Yahveh ireo, ary ny mpanao ny asa izay miasa ao amin'ny tranon'i Yahveh dia nanome ⟨את⟩ izany hanitsiana sy hanamafisana ny trano.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "nanome"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho eo an-"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tanan'ny"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mpanao"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ny asa"
+    },
+    {
+      "surface": "המפקדים",
+      "gloss": "voatendry"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ao amin'ny trano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "nanome"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "izany (azy)"
+    },
+    {
+      "surface": "עושי",
+      "gloss": "mpanao"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ny asa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "miasa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ao amin'ny trano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לבדוק",
+      "gloss": "hanitsiana"
+    },
+    {
+      "surface": "ולחזק",
+      "gloss": "sy hanamafisana"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ny trano"
+    }
+  ],
+  "timestamp": "2026-08-31T17:53:20.778209102Z",
+  "model": "glm-5.3"
+}

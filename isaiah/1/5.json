@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Nahoana no mbola hovahana ianareo? Mampitombo fiodinana foana; ny loha rehetra marary, ary ny fo rehetra dify.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "amin'"
+    },
+    {
+      "surface": "מה",
+      "gloss": "inona"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "hovahana"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mbola"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "mampitombo"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "fiodinana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "loha"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "marary"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary rehetra"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "dify"
+    }
+  ],
+  "timestamp": "2026-08-31T15:02:03.909131064Z",
+  "model": "glm-5.3"
+}

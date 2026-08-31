@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "⟨את⟩ Yahveh Tsevaot no hanamasinainareo, ary Izy no hatahoranareo, ary Izy no hitomoranareo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh Tsevaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hanamasinainareo"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "hanamasinainareo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ary Izy"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "hatahoranareo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ary Izy"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "hitomoranareo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:04:40.482868754Z",
+  "model": "glm-5.3"
+}

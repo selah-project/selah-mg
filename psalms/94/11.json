@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 94,
+  "translation": "Yahveh mahalala ⟨ny⟩ fisainan'ny olombelona, fa zava-poana ⟨izy ireo⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "fisaina"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olombelona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy ireo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "zava-poana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:09.139710728Z",
+  "model": "glm-5.3"
+}

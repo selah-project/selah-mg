@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Dia tonga tao amin'i Yeroshalayim aho, ary nitoetra teo aho telo andro.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "dia tonga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tao amin'i"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ary nitoetra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "teo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "telo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:29:58.309648137Z",
+  "model": "glm-5.3"
+}

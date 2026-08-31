@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Koa ianareo, ry mpiandry, henoy ⟨את⟩ tenin'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "koa"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ry mpiandry"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "henoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tenin'i Yahveh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "teny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T15:59:55.865586695Z",
+  "model": "glm-5.3"
+}

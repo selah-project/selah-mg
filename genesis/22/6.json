@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary nitondra ⟨את⟩ ny hazo tsy may ho an'ny fanatitra dorana Avraham ka nametraka azy teo an-tsain'i Yitschaka zanany; ary nitondra tànany ⟨את⟩ ny afo sy ⟨את⟩ ny antsy; ary dia niara-nandeha izy roa lahy.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nitondra"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny hazo tsy may ho an'ny fanatitra dorana"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "tsy may ho an'ny fanatitra dorana"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ka nametraka"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo an-tsain'"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschaka"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nitondra"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "tànany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny afo"
+    },
+    {
+      "surface": "האש",
+      "gloss": "afo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny antsy"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "antsy"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dia niara-nandeha"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "izy roa lahy"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "niaraka"
+    }
+  ],
+  "timestamp": "2026-08-31T17:55:01.969928957Z",
+  "model": "glm-5.3"
+}

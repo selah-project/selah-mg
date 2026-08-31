@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "ary ⟨את⟩ ny volamena araka ny lanja ho an'ny latabatry ny mofo aseho, ho an'ny latabatra tsirairay; ary volafotsy ho an'ny latabatry ny volafotsy;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny volamena"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "araka ny lanja"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "ho an'ny latabatry"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "ny mofo aseho"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "ho an'ny latabatra"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "tsy amam-latabatra"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ary volafotsy"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "ho an'ny latabatry"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "volafotsy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:41:56.849573291Z",
+  "model": "glm-5.3"
+}

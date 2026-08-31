@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary nampifanatriko ⟨את⟩ ny tavako tamin'i Adonay, Elohim, hitady vavaka sy fangatahana, amin'ny fifadian-kanina sy ny lamba magnify sy ny vovoka.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "nampifanatriko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavako"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ny tavako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "hitady"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "vavaka"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "sy fangatahana"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "amin'ny fifadian-kanina"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "sy ny lamba magnify"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "sy ny vovoka"
+    }
+  ],
+  "timestamp": "2026-08-31T18:17:51.309295775Z",
+  "model": "glm-5.3"
+}

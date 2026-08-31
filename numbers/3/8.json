@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary izy ireo hitandrina ⟨את⟩ ny fanaka rehetra ao amin'ny lain'ny fihaonana sy ⟨את⟩ ny fitandremana ny zanak'i Israely, hanatanteraka ny fanompoam-poana ao amin'ny trano-lay.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Ary izy ireo hitandrina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanaka rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "fanaka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ao amin'ny lain'ny"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitandremana ny zanak'i Israely"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ny fitandremana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israely"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "hanatanteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanompoam-poana ao amin'ny trano-lay"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "ny fanompoam-poana"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ao amin'ny trano-lay"
+    }
+  ],
+  "timestamp": "2026-08-31T13:24:40.992144738Z",
+  "model": "glm-5.3"
+}

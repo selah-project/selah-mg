@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary nanana vady roa izy: ny anaran'ny iray dia Hana, ary ny anaran'ny faharoa Penina; ary nanan-janaka Penina, fa an'i Hana kosa tsy nanan-janaka.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "Ary nanana"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "roa"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "vady"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ny anaran'ny"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "iray"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ary ny anaran'ny"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "faharoa"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ary nisy"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "ho an'i Penina"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "janaka"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "fa an'i Hana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "nanan-janaka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:14:50.923753841Z",
+  "model": "glm-5.3"
+}

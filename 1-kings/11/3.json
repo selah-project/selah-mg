@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary nanana ⟨⟩ vehivavy andriambavy fito-janahary izy, sy amparihy telo-janahary; ary ny vadiny nampivadika ⟨את⟩ ny fony.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nanana…izy"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "vehivavy"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "andriambavy"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "fito"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "janahary"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "sy amparihy"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "telo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "janahary"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "nampivadika"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ny vadiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fony"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "fony"
+    }
+  ],
+  "timestamp": "2026-08-31T14:45:12.728234643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 3:4",
+  "book": "zephaniah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Mpaminaniny mpanao zava-poana, lehilahy mpanao fitaka; mpisorony nanoto ⟨את⟩ ny masina, nitsakitsaka ⟨את⟩ ny Lalàna.",
+  "tokens": [
+    {
+      "surface": "נביאיה",
+      "gloss": "Mpaminaniny"
+    },
+    {
+      "surface": "פחזים",
+      "gloss": "mpanao zava-poana"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "בגדות",
+      "gloss": "mpanao fitaka"
+    },
+    {
+      "surface": "כהניה",
+      "gloss": "mpisorony"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "nanoto"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ny masina"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "nitsakitsaka"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "ny Lalàna"
+    }
+  ],
+  "timestamp": "2026-08-31T16:18:11.878024429Z",
+  "model": "glm-5.3"
+}

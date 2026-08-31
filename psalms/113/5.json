@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 113,
+  "translation": "Iza no tahaka an'i Yahveh Elohinay, ilay manetry tena miakatra hiara-hitoe-paka ⟨amin'ny⟩ avo?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Iza"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "tahaka an'i Yahveh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohinay"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "manetry tena miakatra"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "hiara-hitoe-paka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:28.811317160Z",
+  "model": "glm-5.3"
+}

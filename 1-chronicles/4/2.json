@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary Reayah zanak'i Shoval niteraka ⟨את⟩ i Yachat, ary Yachat niteraka ⟨את⟩ i Achumai sy ⟨את⟩ i Lahad. Ireo no fianakavian'ny Tsoraati.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "Ary Reayah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Shoval"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Yachat"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yachat"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "ary Yachat"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Achumai"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Achumai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "i Lahad"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ireo"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "fianakavian'ny"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "Tsoraati"
+    }
+  ],
+  "timestamp": "2026-08-31T17:35:17.832945993Z",
+  "model": "glm-5.3"
+}

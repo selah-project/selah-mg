@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Iza no hampianatra fahalalana, ary ⟨את⟩ iza no hampahazo ny teny rena? Izay efa voatsimboka amin'ny ronono, izay esorina amin'ny nono.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iza"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "hampianatra"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "fahalalana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ary",
+      "marks": "iza"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "hampahazo"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "teny rena"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "voatsimboka"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "amin'ny ronono"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "esorina"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "amin'ny nono"
+    }
+  ],
+  "timestamp": "2026-08-31T15:08:49.129794803Z",
+  "model": "glm-5.3"
+}

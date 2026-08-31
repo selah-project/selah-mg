@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Nohenafohinao ny andron'ny fahatanorany, ka voafenona fahafahana izy. Selah.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "nohenafohinao"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ny andron'ny"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "fahatanorany"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "voafenona"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "izy"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "fahafahana"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:14.351096218Z",
+  "model": "glm-5.3"
+}

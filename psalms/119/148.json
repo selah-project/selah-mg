@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 148,
+  "ref": "psalms 119:148",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Nialoha ny fiambenana alina ny masoko, hanao fisaintsainana amin'ny teninao.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "Nialoha"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ny masoko"
+    },
+    {
+      "surface": "אשמרות",
+      "gloss": "ny fiambenana alina"
+    },
+    {
+      "surface": "לשיח",
+      "gloss": "hanao fisaintsainana"
+    },
+    {
+      "surface": "באמרתך",
+      "gloss": "amin'ny teninao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:11.809613114Z",
+  "model": "glm-5.3"
+}

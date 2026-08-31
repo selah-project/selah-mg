@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Ilay mpanoratra ny fontsany miaraka, Izy mahay ny asany rehetra.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Ilay mpanoratra"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "miaraka"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ny fontsany"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "mahay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "asan'izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:51.992708944Z",
+  "model": "glm-5.3"
+}

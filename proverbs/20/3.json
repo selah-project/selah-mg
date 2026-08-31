@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Voninahitra ho an'ny olona ny fialana amin'ny fifandirana, fa ny adala rehetra mifandray amin'ny fifanenonana.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "voninahitra"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ho an'ny olona"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ny fialana"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "amin'ny fifandirana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fa ny ... rehetra"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "adala"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "mifandray amin'ny fifanenonana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:15:46.937772582Z",
+  "model": "glm-5.3"
+}

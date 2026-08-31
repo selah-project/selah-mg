@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary tsy natao fanisana ⟨את⟩ ny lehilahy izay nomena ⟨את⟩ ny volafotsy ho an'ny tanany hovaina ho an'ny mpanao ny asa, fa amin'ny fahatokiana no miasa ⟨izy⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "natao fanisana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lehilahy"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ny lehilahy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "nomena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny volafotsy"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ny volafotsy"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho an'ny"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "tanany"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "hovaina"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "ho an'ny mpanao"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ny asa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "amin'ny fahatokiana"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izy"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "miasa"
+    }
+  ],
+  "timestamp": "2026-08-31T14:55:53.595428634Z",
+  "model": "glm-5.3"
+}

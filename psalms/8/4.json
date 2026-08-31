@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Raha mahita ny lanitrao aho, asan'ny rantsan-tananao, ny volana sy ny kintana izay noreninao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "raha"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "mahita"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "ny lanitrao"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "asan'ny"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "rantsan-tananao"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ny volana"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "sy ny kintana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "noreninao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:36.651439280Z",
+  "model": "glm-5.3"
+}

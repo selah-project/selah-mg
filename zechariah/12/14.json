@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 12:14",
+  "book": "zechariah",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ny fianakaviana rehetra sisa tavela — fianakaviana an-tsy fianakaviana ho tonga ihany, ary ny vadiny ho tonga ihany.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "המשפחות",
+      "gloss": "ny fianakaviana"
+    },
+    {
+      "surface": "הנשארות",
+      "gloss": "sisa tavela"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fianakaviana"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "an-tsy fianakaviana"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ho tonga ihany"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "ary ny vadiny"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ho tonga ihany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:20:30.761419220Z",
+  "model": "glm-5.3"
+}

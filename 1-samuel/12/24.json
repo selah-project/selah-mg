@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Fa hobiao ihany Yahveh, ary manompoa Azy amin'ny fahamarinana amin'ny fonareo rehetra; fa jereo izay lehibe nataony tamianareo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ihany"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "hobiao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "ary manompoa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "Azy ⟨את⟩"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "amin'ny fahamarinana"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "fonareo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "jereo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay lehibe nataony"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "tamianareo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:17:49.222772523Z",
+  "model": "glm-5.3"
+}

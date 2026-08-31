@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Fa noho izany kosa no nampitsanganako anao, mba haneho anao ⟨את⟩ heriko, ary mba ho toriana ny anarako amin'ny tany rehetra.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Fa ... kosa"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "noho"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izany"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "nampitsanganako anao"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "mba"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "haneho anao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heriko"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "heriko"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ary mba ho"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "toriana"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ny anarako"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "rehetra"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:37.451802035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 60,
+  "translation": "Amin'i Elohim no hahavita herim-po, ary Izy no hanofoho ny fahavalontsika.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "amin'i Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "hahavita"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "herim-po"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "fa Izy"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "hanofoho"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "ny fahavalontsika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:20.703640853Z",
+  "model": "glm-5.3"
+}

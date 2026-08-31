@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Rehefa tonga tany Mitsrayim i Yaakov, dia nikiakiaka tamin'i Yahveh ny razanareo, ary Yahveh naniraka ⟨את⟩ an'i Moshe sy ⟨את⟩ an'i Aharona, ka nampivoaka ny razanareo tamin'i Mitsrayim izy roa, dia nampitoetra azy tao amin'ity tany ity.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "rehefa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "i Yaakov"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "tany Mitsrayim"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "dia nikiakiaka"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ny razanareo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ary naniraka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "an'i Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "an'i Aharona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "an'i Aharona"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "ka nampivoaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny razanareo"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "ny razanareo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "tamin'i Mitsrayim"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "dia nampitoetra azy"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "tao amin'ny"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tany ity"
+    }
+  ],
+  "timestamp": "2026-08-31T18:02:15.219880606Z",
+  "model": "glm-5.3"
+}

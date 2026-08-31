@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Fa nahatsiaro Izy ⟨את⟩ ny teny masiny, ⟨את⟩ Avraham mpanompony.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nahatsiaro Izy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny teny masiny"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "teny"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "masiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mpanompony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:13.791286939Z",
+  "model": "glm-5.3"
+}

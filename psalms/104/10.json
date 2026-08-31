@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 104,
+  "translation": "Ilay mandefa loharano any amin'ny lohasaha; eo anelanelan'ny tendrombohitra no iandalanany.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "ilay mandefa"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "loharano"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "any amin'ny lohasaha"
+    },
+    {
+      "surface": "בין",
+      "gloss": "anelanelan'ny"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "iandalanany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:13.731570680Z",
+  "model": "glm-5.3"
+}

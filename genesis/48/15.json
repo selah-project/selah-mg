@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 48:15",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 48,
+  "translation": "Ary nitso-drano an'i ⟨את⟩ Josefa izy ka nanao hoe: Ilay Elohim izay nandeha ny razako eo anatrehany, Avraham sy Yitsaka; ilay Elohim mpandey ny ahy ⟨את⟩ hatramin'ny foko am-poany ka ambaraka anio,",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "nitso-drano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josefa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josefa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Ilay Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "התהלכו",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "ny razako"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "eo anatrehany"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "sy Yitsaka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ilay Elohim"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "mpandey ny"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ahy",
+      "marks": "ahy"
+    },
+    {
+      "surface": "מעודי",
+      "gloss": "hatramin'ny foko am-poany"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka ambaraka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "anio"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    }
+  ],
+  "timestamp": "2026-08-31T12:53:22.357171995Z",
+  "model": "glm-5.3"
+}

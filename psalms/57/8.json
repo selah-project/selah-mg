@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 57,
+  "translation": "Vonona ny foko, ry Elohim; vonona ny foko; hihira aho ary hanoratra ⟨mozika⟩.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Vonona"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ry Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "vonona"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "hihira aho"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ary hanoratra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:19.385174301Z",
+  "model": "glm-5.3"
+}

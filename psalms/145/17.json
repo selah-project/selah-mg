@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 145,
+  "translation": "Marina Yahveh amin'ny lalana rehetra alehany, ary be hesed amin'ny asa rehetra ataony.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Marina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny … rehetra"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "lalana alehany"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "ary be hesed"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny … rehetra"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "asa ataony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:03.903782404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary nisy hariva, ary nisy maraina — andro fahadimy.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nisy"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "hariva"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ary nisy"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "maraina"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "fahadimy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:01.667279044Z",
+  "model": "glm-5.3"
+}

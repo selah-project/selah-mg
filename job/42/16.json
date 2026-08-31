@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Ary velona Ijob taorian'izany dimy amby efapolo sy zato taona, ka nahita ny zanany ⟨את⟩ sy ny zafiny ⟨את⟩, taranaka efatra.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Ary velona"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "taorian'ny"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izany"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "zato"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "sy efapolo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ka nahita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny zafiny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny zanak'ny"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "efatra"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "taranaka"
+    }
+  ],
+  "timestamp": "2026-08-31T17:09:51.601583708Z",
+  "model": "glm-5.3"
+}

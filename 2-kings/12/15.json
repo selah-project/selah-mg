@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Fa ⟨izany⟩ no nomena ho an'ny mpanao ny asa, ary nampahalehina taminy ⟨את⟩ ny tranon'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "ho an'ny mpanao"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ny asa"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "nomena"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "sy nampahalehina"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tamily"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny trano"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T14:55:53.595291176Z",
+  "model": "glm-5.3"
+}

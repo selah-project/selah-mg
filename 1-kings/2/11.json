@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 2:11",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary ny andro izay nanjakan'i Davida tamin'ny Isiraely dia efa-polo taona: tao Khebrona nanjaka fito taona izy, ary tao Yeroshalayim nanjaka telo-polo sy telo taona.",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "Ary ny andro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nanjakany"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "efa-polo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "tao Khebrona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nanjaka"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "fito"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "ary tao Yeroshalayim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nanjaka"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "telo-polo"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "sy telo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taona"
+    }
+  ],
+  "timestamp": "2026-08-31T14:39:26.372826541Z",
+  "model": "glm-5.3"
+}

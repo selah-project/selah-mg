@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary nangetaheta tao ny olona noho ny rano; dia nihomehy ny olona tamin'i Moshe ka nanao hoe: Nahoana ity no nampiakatra anay avy any Mitsrayim, hamono ahy ⟨את⟩ sy ny zanako ⟨את⟩ ary ny omby ⟨את⟩ amin'ny hetaheta?",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "nangetaheta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "למים",
+      "gloss": "noho ny rano"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "nihomehy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Nahoana"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "nampiakatra anay"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "avy any Mitsrayim"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "hamono"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ahy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanako"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny omby"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "omby"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "amin'ny hetaheta"
+    }
+  ],
+  "timestamp": "2026-08-31T13:00:30.893222195Z",
+  "model": "glm-5.3"
+}

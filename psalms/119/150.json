@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Efa akaiky izay manenjika ny lozana; lavitra ny lalànao izy.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "Efa akaiky"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "izay manenjika"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ny lozana"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "ny lalànao"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "lavitra ... izy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:12.637600639Z",
+  "model": "glm-5.3"
+}

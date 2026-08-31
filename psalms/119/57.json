@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Yahveh no anjarako; nilaza ⟨izaho⟩ hitandrina ny teninao.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "anjarako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nilaza"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "hitandrina"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ny teninao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:01.310559490Z",
+  "model": "glm-5.3"
+}

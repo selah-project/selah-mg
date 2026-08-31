@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 2:20",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Tsy nilaza ny fihavanany sy ⟨את⟩ ny fireneny Ester, araka ny nandidian'i Mordekay azy; fa ⟨את⟩ tenin'i Mordekay dia nataon'i Ester, toy ny fanaony fony tao aminy ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "מגדת",
+      "gloss": "nilaza"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "ny fihavanany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fireneny"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "sy ny fireneny"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidian'"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "azy"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tenin'i Mordekay"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "tenin'i"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataon'i"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "toy ny"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "fanaony fony"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "tao aminy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T17:18:17.191328263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "An'i Elohim aza tsy hosvozoinao, ary ny mpifehy ao amin'ny firenenao aza tsy ozoinao.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza tsy"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "hosvozoinao"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "sy ny mpifehy"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "ao amin'ny firenenao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza tsy"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ozoinao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:01.699849745Z",
+  "model": "glm-5.3"
+}

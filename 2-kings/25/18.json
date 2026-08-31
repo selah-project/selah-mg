@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary ny lehiben'ny mpamondy naka ⟨את⟩ an'i Seraya mpisoratra lehibe, sy ⟨את⟩ an'i Tsefania mpisoratra faharoa, ary ⟨את⟩ ny mpitandrina varavarana telo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ary... naka"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ny lehiben'ny"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "mpamondy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Seraya"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "mpisoratra"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "an'i Tsefania"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefania"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "mpisoratra"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "faharoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny mpitandrina varavarana telo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "telo"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "mpitandrina"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "varavarana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:02:54.135007255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 83:18",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 83,
+  "translation": "Ho very todika izy ary hikorontana mandrakizay, ka ho mena ary ho levona.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ho very todika"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "ary hikorontana"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "hatramin'"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "ka ho mena"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "ary ho levona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:58.361271519Z",
+  "model": "glm-5.3"
+}

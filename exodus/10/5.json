@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 10:5",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "sady handrakotra ⟨את⟩ ny mason'ny tany, ka tsy ho vitanao hijerena ⟨את⟩ ny tany; ary hihinana ⟨את⟩ izay sisa amin'izay nitsoaka ho anareo tamin'ny havandra, ary hihinana ⟨את⟩ ny hazo rehetra mitsiry ho anareo any an-tsaha",
+  "tokens": [
+    {
+      "surface": "וכסה",
+      "gloss": "handrakotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mason'ny tany"
+    },
+    {
+      "surface": "עין",
+      "gloss": "maso"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ho vitanao"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "hijerena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ary hihinana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay sisa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "izay sisa"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "amin'izay nitsoaka"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "nitsoaka"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "havandra"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ary hihinana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny hazo rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ny hazo"
+    },
+    {
+      "surface": "הצמח",
+      "gloss": "mitsiry"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "any"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "an-tsaha"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:48.317675786Z",
+  "model": "glm-5.3"
+}

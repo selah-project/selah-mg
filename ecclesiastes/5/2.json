@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Fa avy amin'ny asa be no ihavian'ny nofy, ary avy amin'ny teny be no ihavian'ny feon'ny adala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ihavian'ny"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ny nofy"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "avy amin'ny be"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "asa"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ary ... feon'ny"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "adala"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "avy amin'ny be"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "teny be"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:30.823663186Z",
+  "model": "glm-5.3"
+}

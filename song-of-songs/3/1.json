@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Tamin'ny fandriako, indray mandeha tamin'ny alina, no nitadiavako ⟨את⟩ ilay tian'ny fanahiko; nitady azy aho fa tsy hita.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "fandriako"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "indray mandeha tamin'ny alina"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "nitadiavako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay tian'ny fanahiko"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "ilay tian-"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "-ny fanahiko"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "nitady azy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "hita"
+    }
+  ],
+  "timestamp": "2026-08-31T17:10:14.807623356Z",
+  "model": "glm-5.3"
+}

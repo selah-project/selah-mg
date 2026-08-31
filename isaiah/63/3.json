@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 63:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 63,
+  "translation": "Ny famiazana divay dia nitsahiko irery ihany, ary tamin'ny firenena tsy nisy olona ⟨את⟩ amiko; ka nitsahako azy tamin'ny fahatezerako, ary nitsotsoriko azy tamin'ny fahaviniranaoko; dia niparitaka ny ran'ainany tamin'ny fitafiako, ary ny fitafiako rehetra dia nohlako.",
+  "tokens": [
+    {
+      "surface": "פורה",
+      "gloss": "famiazana divay"
+    },
+    {
+      "surface": "דרכתי",
+      "gloss": "nitsahiko"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "irery ihany"
+    },
+    {
+      "surface": "ומעמים",
+      "gloss": "tamin'ny firenena"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy nisy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ amiko",
+      "marks": "olona (amin'ny firenena)"
+    },
+    {
+      "surface": "ואדרכם",
+      "gloss": "nitsahako azy"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "tamin'ny fahatezerako"
+    },
+    {
+      "surface": "וארמסם",
+      "gloss": "nitsotsoriko azy"
+    },
+    {
+      "surface": "בחמתי",
+      "gloss": "tamin'ny fahaviniranaoko"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "niparitaka"
+    },
+    {
+      "surface": "נצחם",
+      "gloss": "ny ran'ainany"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "fitafiako"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "מלבושי",
+      "gloss": "fitafiako"
+    },
+    {
+      "surface": "אגאלתי",
+      "gloss": "nohlako"
+    }
+  ],
+  "timestamp": "2026-08-31T15:21:00.561823762Z",
+  "model": "glm-5.3"
+}

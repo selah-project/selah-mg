@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 28:28",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Hanedy anao i Yahveh amin'ny fahalemen-tsaina sy amin'ny fahajambana ary amin'ny fahatalanjana ny fonao.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "Hanedy anao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Yahveh"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "amin'ny fahalemen-tsaina"
+    },
+    {
+      "surface": "ובעורון",
+      "gloss": "sy amin'ny fahajambana"
+    },
+    {
+      "surface": "ובתמהון",
+      "gloss": "ary amin'ny fahatalanjana"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ny fonao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:50:35.355988295Z",
+  "model": "glm-5.3"
+}

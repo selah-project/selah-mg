@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary ny lehilahy rehetra amin'ny Isiraely, nony nahita ⟨את⟩ ilay lehilahy izy ireo, dia nandositra miala aminy ary raiki-tahotra mafy.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ary ... rehetra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "amin'ny Isiraely"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "nony nahita ... izy ireo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay lehilahy"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ilay lehilahy"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "dia nandositra"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "miala aminy (tsy te-hitratra azy)"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ary raiki-tahotra"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mafy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:21:04.292804853Z",
+  "model": "glm-5.3"
+}

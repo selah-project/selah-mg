@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 41:34",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Aoka hanao Parao izany, ka hanendy mpitsipika amin'ny tany, ary hisaina ny ampahadimin'ny tany Mitsrayim amin'ny fito taona fahavokarana.",
+  "tokens": [
+    {
+      "surface": "יעשה",
+      "gloss": "Aoka hanao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "hanendy"
+    },
+    {
+      "surface": "פקדים",
+      "gloss": "mpitsipika"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "ויחמש",
+      "gloss": "hisaina ny ampahadimin'ny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tany Mitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "amin'ny fito"
+    },
+    {
+      "surface": "שני",
+      "gloss": "taona"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "fahavokarana"
+    }
+  ],
+  "timestamp": "2026-08-31T12:50:37.435092708Z",
+  "model": "glm-5.3"
+}

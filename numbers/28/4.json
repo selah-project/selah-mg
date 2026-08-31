@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "⟨את⟩ ilay zanak'ondry iray atao amin'ny maraina, ary ⟨את⟩ ilay zanak'ondry faharoa atao eo anelanelan'ny hariva roa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay zanak'ondry iray"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ilay zanak'ondry"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "atao"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "amin'ny maraina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ilay zanak'ondry faharoa"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ilay zanak'ondry"
+    },
+    {
+      "surface": "השני",
+      "gloss": "faharoa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "atao"
+    },
+    {
+      "surface": "בין",
+      "gloss": "eo anelanelan'ny"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "hariva roa"
+    }
+  ],
+  "timestamp": "2026-08-31T13:35:17.856402006Z",
+  "model": "glm-5.3"
+}

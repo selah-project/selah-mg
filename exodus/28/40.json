@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 28:40",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Ary ho an'ny zanak'i Aharon dia ataovy akanjo, ary ataovy fehezan-kibo ho azy ireo, ary satroka madinika ataovy ho azy ireo, ho voninahitra sy ho faharemana.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Ary ho an'ny zanak'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ataovy"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "akanjo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ary ataovy"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho azy ireo"
+    },
+    {
+      "surface": "אבנטים",
+      "gloss": "fehezan-kibo"
+    },
+    {
+      "surface": "ומגבעות",
+      "gloss": "ary satroka madinika"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ataovy"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho azy ireo"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "ho voninahitra"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "sy ho faharemana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:06:14.159638878Z",
+  "model": "glm-5.3"
+}

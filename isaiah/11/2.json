@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 11:2",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary hijanona eo aminy ny fanahin'i Yahveh, fanahy fahendrena sy fahalalana, fanahy hevitra sy hery, fanahy fahalalana sy fankatokovana an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ונחה",
+      "gloss": "hijanona"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "eo aminy"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "fahendrena"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "sy fahalalana"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "hevitra"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "sy hery"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "fahalalana"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "sy fankatokovana an'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T15:05:41.914212644Z",
+  "model": "glm-5.3"
+}

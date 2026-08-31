@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 11:9",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary hivoahaniko hianareo avy eo anatiny, ary homeko ⟨את⟩ hianareo ho eo an-tanan'ny vahiny aho, ary hitsara ⟨את⟩ hianareo aho.",
+  "tokens": [
+    {
+      "surface": "והוצאתי",
+      "gloss": "hivoahaniko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ hianareo",
+      "marks": "hianareo"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "avy eo anatiny"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "homeko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ hianareo",
+      "marks": "hianareo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "an-tanan'ny"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "vahiny"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "hitsara"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "hianareo"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "fitsarana"
+    }
+  ],
+  "timestamp": "2026-08-31T19:13:04.185971341Z",
+  "model": "glm-5.3"
+}

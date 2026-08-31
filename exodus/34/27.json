@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 34:27",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ary Yahveh nanao tamin'i Moshe hoe: Soraty ho anao ⟨את⟩ ireto teny ireto, fa araka ny vavan'ireto teny ireto no efa nanaovako fanekena ⟨את⟩ aminao sy ⟨את⟩ amin'i Yisraela.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary nanao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Soraty"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ireto teny ireto"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ireto teny"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "על",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "פי",
+      "gloss": "vavan'ny"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "teny"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireto"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "efa nanaovako"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ aminao"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "fanekena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "amin'i Yisraela"
+    }
+  ],
+  "timestamp": "2026-08-31T13:08:53.581505299Z",
+  "model": "glm-5.3"
+}

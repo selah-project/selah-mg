@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary nataony tamin'ny vato ⟨את⟩ ny vato ho alitara amin'ny anaran'i Yahveh; ary nanaovany lavaka manodidina ny alitara, fahabeny sata roa voa.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "nanamboarany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vato"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ny vato"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ho alitara"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "amin'ny anaran'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "nanaovany"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "lavaka"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "fahabeny"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "sata roa"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "voa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "ny alitara"
+    }
+  ],
+  "timestamp": "2026-08-31T14:48:21.862763848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary hoy ny mpanjakan'i Yisraela: Indrisy! fa Yahveh efa niantso ireo mpanjaka telo ireo hanolotra azy ⟨את⟩ ho an'ny tanan'i Moaba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ny mpanjakan'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Indrisy!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nantso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "telo"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ireo mpanjaka"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "hanolotra"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ho an'ny tanan'"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    }
+  ],
+  "timestamp": "2026-08-31T18:32:27.208186864Z",
+  "model": "glm-5.3"
+}

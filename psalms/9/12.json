@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Mihirà ho an'i Yahveh mipetraka ao Zionia, ambarao amin'ny firenena ny asa nataony.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Mihirà"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "mipetraka"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ao Zionia"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "ambarao"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "amin'ny firenena"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ny asa nataony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:13.023712719Z",
+  "model": "glm-5.3"
+}

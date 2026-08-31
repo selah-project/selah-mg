@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 50,
+  "translation": "Ary hoy Parao: Miakatra, ka alevo ny rainao, araka izay nampianianany anao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Miakatra"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "alevo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rainao"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ny rainao"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka izay"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "nampianianany anao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:54:07.025161953Z",
+  "model": "glm-5.3"
+}

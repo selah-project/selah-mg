@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 91,
+  "translation": "Fa Izy no hanafaka anao amin'ny fandriky ny mpibetratra, sy amin'ny aretina mpanimba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Izy"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "hanafaka anao"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "amin'ny fandriky"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "ny mpibetratra"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sy amin'ny aretina"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "mpanimba"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:55.044358550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Araka ny fahatongavan'ny vaovao tany Mitsrayim, izy rehetra mangiwiwiny rehefa mandre ny vaovao momba an'i Tsora.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Araka ny"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "fahatongavan'ny vaovao"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "tany Mitsrayim"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "mangiwiwiny"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "rehefa mandre ny vaovao"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsora"
+    }
+  ],
+  "timestamp": "2026-08-31T18:05:12.607090831Z",
+  "model": "glm-5.3"
+}

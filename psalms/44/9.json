@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Tamin'i Elohim dia nankalaza izahay tamin'ny andro rehetra, ary ny anaranao hankalazainay mandrakizay. Selah.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "tamin'i Elohim"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "nankalaza izahay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "ary ny anaranao"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "hankalazainay"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:30:06.940844096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary raha mandeha fanorenana vato Ianao hanao amiko dia aza manao azy vato voapaitra: fa ny sabanao no nasiantsinao tamby, ka voatokoina izy.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ary raha"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "vato"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "לי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "manao fanorenana"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "vato voapaitra"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "vato voapaitra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "ny sabanao"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "no nasiantsinao"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "tamby"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "ka voatokoina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:02:26.983611051Z",
+  "model": "glm-5.3"
+}

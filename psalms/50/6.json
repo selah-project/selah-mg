@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 50,
+  "translation": "Ary ny lanitra mambara ny fahamarinany, fa Elohim no mpitsara. Selah.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "mambara"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ny fahamarinany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "mpitsara"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:30:35.617466351Z",
+  "model": "glm-5.3"
+}

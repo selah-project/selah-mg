@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Dia nirehitra ny fahatezeran'i Yahveh tamin'ny olony, ary nankahala ⟨את⟩ ny lovan'ny razany Izy.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "Dia nirehitra"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ny fahatezerana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "tamin'ny olony"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "ary nankahala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lovan'ny razany"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ny lovan'ny razany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:19.305050468Z",
+  "model": "glm-5.3"
+}

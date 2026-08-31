@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary nitsara ⟨את⟩ an'i Isiraely izy tamin'ny andron'ny Filistina, roa amby folo taona.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Ary nitsara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Isiraely"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "tamin'ny andron'ny"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistina"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "roa amby folo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    }
+  ],
+  "timestamp": "2026-08-31T14:11:07.532867326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 95,
+  "translation": "Izay nanandrana Ahy ny razanareo, nanadinana Ahy izy, nefa hitany mihitsy ny asako.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "nanandrana Ahy"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ny razanareo"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "nanadinana Ahy"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mihitsy"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "hitany"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ny asako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:02.412834543Z",
+  "model": "glm-5.3"
+}

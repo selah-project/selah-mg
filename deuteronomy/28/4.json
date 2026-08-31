@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Voatahy ny vokatry ny kibonao, sy ny vokatry ny tanyinao, ary ny vokatry ny biby fiompin: ny zanak'ny ombinao sy ny zanak'ny ondry aman'osinao.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Voatahy"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "voka-"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "ny kibonao"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "sy ny voka-"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ny tanyinao"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ary ny voka-"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "ny biby fiompin"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "zanak'"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "ny ombinao"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "sy zanak'"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "ny ondry aman'osinao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:50:25.508322552Z",
+  "model": "glm-5.3"
+}

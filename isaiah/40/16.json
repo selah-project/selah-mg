@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 40:16",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary Libanona tsy ampy hodorana, ary ny bibiny tsy ampy ho tatitra doraya.",
+  "tokens": [
+    {
+      "surface": "ולבנון",
+      "gloss": "Ary Libanona"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "די",
+      "gloss": "ampy"
+    },
+    {
+      "surface": "בער",
+      "gloss": "hodorana"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "ary ny bibiny"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "די",
+      "gloss": "ampy"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ho tatitra dorana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:14:47.448914214Z",
+  "model": "glm-5.3"
+}

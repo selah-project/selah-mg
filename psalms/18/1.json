@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ho an'ny mpitarika ⟨hira⟩, ho an'ny mpanompon'i Yahveh, ho an'i David, izay niteny tamin'i Yahveh ⟨את⟩ ny tenin'ny hira ity, tamin'ny andro nanavotan'i Yahveh ⟨את⟩ azy tamin'ny tàn'ny fahavalony rehetra sy tamin'ny tàn'i Shaol.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho an'ny mpitarika ⟨hira⟩"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ho an'ny mpanompo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ho an'i David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "niteny"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "tamin'i Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tenin'ny hira ity"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ny hira"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ity"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "nanavotana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (David)"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "tamin'ny tànay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "fahavalony"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "sy tamin'ny tanany"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:05.598684551Z",
+  "model": "glm-5.3"
+}

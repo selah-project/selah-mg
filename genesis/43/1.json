@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 43,
+  "translation": "Ary ny mosary dia mavesatra tao amin'ny tany.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "Ary ny mosary"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "mavesatra"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tao amin'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:51:09.615286275Z",
+  "model": "glm-5.3"
+}

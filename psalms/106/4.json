@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Tsarovy aho, ry Yahveh, amin'ny fanilihana ny olonao, tandremano aho amin'ny famonjenao.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Tsarovy aho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "amin'ny fanilihana"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ny olonao"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "tandremano aho"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "amin'ny famonjenao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:34.565487202Z",
+  "model": "glm-5.3"
+}

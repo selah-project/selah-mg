@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 121,
+  "translation": "Ny famonjena ahy dia avy amin'i Yahveh, mpanao ⟨את⟩ ny lanitra sy ⟨את⟩ ny tany.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "ny famonjena ahy"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "avy amin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mpanao"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "sy ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:02.382466875Z",
+  "model": "glm-5.3"
+}

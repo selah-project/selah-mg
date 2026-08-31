@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 53:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 53,
+  "translation": "Teo izy natahotahotra lehibe, tsy nisy tahotra: fa Elohim efa nampielezana ny taolan'izay manenty miady aminao; efa nampangidyinareo azy ianao, satria Elohim efa nandavana azy.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "teo"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "natahotahotra"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "tahotra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nisy"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "tahotra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פזר",
+      "gloss": "nampielezana"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ny taola"
+    },
+    {
+      "surface": "חנך",
+      "gloss": "izay manenty miady"
+    },
+    {
+      "surface": "הבשתה",
+      "gloss": "nampangidyinareo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מאסם",
+      "gloss": "nandavana azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:45.736073517Z",
+  "model": "glm-5.3"
+}

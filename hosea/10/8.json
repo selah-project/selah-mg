@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 10:8",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Mbola ho rava ny fitoerana avo an'i Aven, ny fahotan'ny Isiraely; tsilo sy songosongo hiakatra ho amin'ny alitarany; ary hitany amin'ny tendrombohitra: Sarona, ary amin'ny havoana: Lavo aminay.",
+  "tokens": [
+    {
+      "surface": "ונשמדו",
+      "gloss": "Mbola ho rava"
+    },
+    {
+      "surface": "במות",
+      "gloss": "ny fitoerana avo"
+    },
+    {
+      "surface": "און",
+      "gloss": "an'i Aven"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ny fahotan'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "קוץ",
+      "gloss": "tsilo"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "sy songosongo"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "hiakatra"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho amin'ny"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "alitarany"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ary hitany"
+    },
+    {
+      "surface": "להרים",
+      "gloss": "amin'ny tendrombohitra"
+    },
+    {
+      "surface": "כסונו",
+      "gloss": "Sarona"
+    },
+    {
+      "surface": "ולגבעות",
+      "gloss": "amin'ny havoana"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "Lavo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "aminay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:09:39.454273982Z",
+  "model": "glm-5.3"
+}

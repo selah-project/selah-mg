@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 6:8",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary hangotraka amin'izany izy amin'ny tantanany feno, amin'ny lafarin-tsara tsy voatsangana sy ny menakenan'ny fanatitra, ary ⟨את⟩ ny emboka manontolo izay eo ambonin'ny fanatitra; ary hampandoa afo ny alitara, ho fandahorana mahafaly, ho fahatsiarovana ho an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "והרים",
+      "gloss": "hangotraka"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "amin'izany"
+    },
+    {
+      "surface": "בקמצו",
+      "gloss": "amin'ny tantanany feno"
+    },
+    {
+      "surface": "מסלת",
+      "gloss": "lafarin-tsara tsy voatsangana"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ny fanatitra"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "sy ny menakenany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ary",
+      "marks": "ny emboka manontolo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "manontolo"
+    },
+    {
+      "surface": "הלבנה",
+      "gloss": "emboka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambonin'ny"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "fanatitra"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "hampandoa afo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ny alitara"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "fandahorana"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "mahafaly"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "fahatsiarovana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:12:15.623261662Z",
+  "model": "glm-5.3"
+}

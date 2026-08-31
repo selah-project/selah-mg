@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary hoy izy: Inona no otako, ka ianao no manolotra ⟨את⟩ ny mpanomponao ho an'i Ahaba mba hamonoana ahy?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Inona"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "no otako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "manolotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanomponao"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ny mpanomponao"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ho an'i"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaba"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "mba hamonoana ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:04:21.175503174Z",
+  "model": "glm-5.3"
+}

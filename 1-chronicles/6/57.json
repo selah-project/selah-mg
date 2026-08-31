@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary avy amin'ny firenen'i Yissaskar ⟨את⟩ Kedesh sy ⟨את⟩ tany manodidina azy, ⟨את⟩ Dabrath sy ⟨את⟩ tany manodidina azy.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "avy amin'ny firenen'"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "tany manodidina azy"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tany manodidina azy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dabrath"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Dabrath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "tany manodidina azy"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tany manodidina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:35:37.602659796Z",
+  "model": "glm-5.3"
+}

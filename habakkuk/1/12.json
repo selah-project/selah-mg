@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 1:12",
+  "book": "habakkuk",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Tsy ⟨avy⟩ hatramin'ny fony ela va Hianao, Yahveh, Eloahiko, Masinako? Tsy ho faty izahay. Yahveh, hanao fitsarana ⟨no⟩ nataonao azy, ary ry Vato, hanao fananarana no nanorenanao azy.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Tsy ... va"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Hianao"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "hatramin'ny fony ela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloahiko"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "Masinako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "ho faty izahay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "hanao fitsarana"
+    },
+    {
+      "surface": "שמתו",
+      "gloss": "nataonao azy"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ary ry Vato"
+    },
+    {
+      "surface": "להוכיח",
+      "gloss": "hanao fananarana"
+    },
+    {
+      "surface": "יסדתו",
+      "gloss": "nanorenanao azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:15:46.652453341Z",
+  "model": "glm-5.3"
+}

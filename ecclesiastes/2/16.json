@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 2:16",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Fa tsy misy fahatsiarovana ny hendry miaraka amin'ny adala mandrakizay; amin'ny andro ho avy dia hadinoina ny zavatra rehetra, ary toy ny fahafatesan'ny adala no fahafatesan'ny hendry.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "fahatsiarovana"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ny hendry"
+    },
+    {
+      "surface": "עם",
+      "gloss": "miaraka amin'ny"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "adala"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "בשכבר",
+      "gloss": "efa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "ho avy"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ny zavatra rehetra"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "hadinoina"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "ary toy ny"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "fahafatesan'ny"
+    },
+    {
+      "surface": "החכם",
+      "gloss": "hendry"
+    },
+    {
+      "surface": "עם",
+      "gloss": "miaraka amin'ny"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "adala"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:08.161874634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Hatramin'ny oviana, Yahveh, no hiantsoako ka tsy mandre ianao? Mikiakiaka aminao aho: herisetra! fa tsy mamonjy ianao.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Hatramin'ny"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "oviana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "hiantsoako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "mandre ianao"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "Mikiakiaka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "aminoao"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "herisetra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "mamonjy ianao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:16:31.281374418Z",
+  "model": "glm-5.3"
+}

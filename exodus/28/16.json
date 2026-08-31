@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Efazoro ⟨ho⟩ roa sosona: diltana ny lavany ary diltana ny sarakany.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "Efazoro"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨ho⟩"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "roa sosona"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "diltana"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ny lavany"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "ary diltana"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ny sarakany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:05:23.542220545Z",
+  "model": "glm-5.3"
+}

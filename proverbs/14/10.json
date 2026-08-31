@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ny fo mahalala ny fanaintainan'ny fanahiny, ary amin'ny fifaliany tsy mba mifangaro ny vahiny.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ny fo"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "ny fanaintainana"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ny fanahiny"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "ary amin'ny fifaliany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "mba mifangaro"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ny vahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:52:36.943292471Z",
+  "model": "glm-5.3"
+}

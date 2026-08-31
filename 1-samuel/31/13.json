@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ka nalainy ⟨את⟩ ny taolany, dia naleviny teo ambany hazo tamariska tao Yaveshà, ka nifady hanina fito andro.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "nalainy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny taolany"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "ny taolany"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "naleviny"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "teo ambany"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "hazo tamariska"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "tao Yaveshà"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "nifady hanina"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "fito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    }
+  ],
+  "timestamp": "2026-08-31T14:27:44.538631563Z",
+  "model": "glm-5.3"
+}

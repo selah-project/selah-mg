@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary hanatona ⟨את⟩ i Aharon sy ⟨את⟩ ny zanany eo am-baravaran'ny trano-lan'ny fihaonana, ary sasanao ⟨את⟩ izy ireo amin'ny rano.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "ary hanatona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ sy",
+      "marks": "zanany"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "am-baravaran'ny"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "trano-lan'ny"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "ary sasanao"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ izy ireo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "amin'ny rano"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:50.322458699Z",
+  "model": "glm-5.3"
+}

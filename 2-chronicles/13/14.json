@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 13:14",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary ny Yehoda nitodika ka indro, teo aminy ny ady eo aloany sy eo aoriany; ary niantso tamin'i Yahveh izy ireo, ary ny mpisorona nitsofodaka tamin'ny trompetra.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "Ary ... nitodika"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ny Yehoda"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ka indro"
+    },
+    {
+      "surface": "להם",
+      "gloss": "teo aminy"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ny ady"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "eo aloany"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "sy eo aoriany"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "ary niantso"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "tamin'i Yahveh"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "ary ny mpisorona"
+    },
+    {
+      "surface": "מחצצרים",
+      "gloss": "nitsofodaka"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "tamin'ny trompetra"
+    }
+  ],
+  "timestamp": "2026-08-31T17:46:29.319745107Z",
+  "model": "glm-5.3"
+}

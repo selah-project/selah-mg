@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 3:22",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Fa ny vehivavy tsirairay dia hangataka amin'ny mponina eo an-tranony sy amin'ny monina ao an-tranony, fanaka volafotsy sy fanaka volamena ary fitafiana; ary hathareo ireo amin'ny zanakareo lahy sy amin'ny zanakareo vavy; ary hanabaka ⟨את⟩ Mitsrayim ianareo.",
+  "tokens": [
+    {
+      "surface": "ושאלה",
+      "gloss": "dia hangataka"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ny vehivavy"
+    },
+    {
+      "surface": "משכנתה",
+      "gloss": "amin'ny mponina eo an-tranony"
+    },
+    {
+      "surface": "ומגרת",
+      "gloss": "sy amin'ny monina"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ao an-tranony"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "fanaka"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "sy fanaka"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "ary fitafiana"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "ary hathareo ireo"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "zanakareo lahy"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy amin'ny"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "zanakareo vavy"
+    },
+    {
+      "surface": "ונצלתם",
+      "gloss": "ary hanabaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T12:55:03.837570630Z",
+  "model": "glm-5.3"
+}

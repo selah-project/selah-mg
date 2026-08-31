@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 83,
+  "translation": "Izay nanao hoe: Andao haka ho anananay ⟨את⟩ ny fonenana mahafaly an'i Elohim.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Izay"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "haka ho ananana"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho anananay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fonenana mahafaly an'i Elohim"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "fonenana mahafaly (pastiora)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:10.084360717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary amin'izany izy hiantso ahy fa tsy hamaly Aho; hitady ahy mafy fa tsy hita Aminy izy.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ary amin'izany"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "izy hiantso ahy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "hamaly Aho"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "hitady ahy mafy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "hita Aminy izy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:47.662776449Z",
+  "model": "glm-5.3"
+}

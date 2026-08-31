@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ny ipetrahanao sy ny fivoahanao sy ny fidiranao dia fantatro, ary ⟨את⟩ ny fahatezeranao amiko.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "Ny ipetrahanao"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "sy ny fivoahanao"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "sy ny fidiranao"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "fantatro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahatezeranao amiko"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "ny fahatezeranao"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T14:59:32.108383608Z",
+  "model": "glm-5.3"
+}

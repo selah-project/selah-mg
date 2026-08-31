@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary niteny tamin'i Eliyahu ny irak'i Yahveh hoe: Midina ⟨miaraka⟩ aminy, aza matahotra azy; dia nitsangana izy ka nidina ⟨miaraka⟩ aminy ho any amin'ny mpanjaka.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ary niteny"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ny iraka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "רד",
+      "gloss": "Midina"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "⟨miaraka⟩ aminy (ilay mpitondra dimam-polo)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "matahotra"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "dia nitsangana izy"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ka nidina"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "⟨miaraka⟩ aminy (ilay mpitondra dimam-polo)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    }
+  ],
+  "timestamp": "2026-08-31T18:05:00.115593608Z",
+  "model": "glm-5.3"
+}

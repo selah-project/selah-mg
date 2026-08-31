@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 59:2",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 59,
+  "translation": "Fa ny tsi-fahamarinanareo no efa nisaraka nanelanelana anareo amin'Andriamanitrareo, ary ny fahotanareo efa nafeniny ny tavany aminareo, ka tsy mandre.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨efa⟩"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "ny tsi-fahamarinanareo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "efa"
+    },
+    {
+      "surface": "מבדלים",
+      "gloss": "nisaraka nanelanelana"
+    },
+    {
+      "surface": "בינכם",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "לבין",
+      "gloss": "amin'"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Andriamanitrareo"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "ary ny fahotanareo"
+    },
+    {
+      "surface": "הסתירו",
+      "gloss": "nafeniny"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ny tavany"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "aminareo"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "tsy mandre"
+    }
+  ],
+  "timestamp": "2026-08-31T15:21:14.285347106Z",
+  "model": "glm-5.3"
+}

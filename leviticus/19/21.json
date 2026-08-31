@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary hitondra ⟨את⟩ ny ashany ho an'i Yahveh ho any am-bavahadín'ny trano fihaonana izy: ondrilahy ho asham.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Ary hitondra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ashany"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "ny ashany"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "am-bavahadín'"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "trano"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ondrilahy"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "asham"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:19.480724662Z",
+  "model": "glm-5.3"
+}

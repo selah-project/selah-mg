@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Sambatra ilay lehilahy izay tsy nandeha tamin'ny sain'ny meloka, ary tsy nijanona tamin'ny lalan'ny mpanota, ary tsy nipetraka tamin'ny fipetrahan'ny mpanatsipy tsiny.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Sambatra"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ilay lehilahy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "tamin'ny sain'"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ny meloka"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "ary tamin'ny lalan'"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ny mpanota"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nijanona"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "ary tamin'ny fipetrahan'"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "ny mpanatsipy tsiny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nipetraka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:26.463082581Z",
+  "model": "glm-5.3"
+}

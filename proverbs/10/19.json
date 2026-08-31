@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 10:19",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Amin'ny be teny tsy mitsahatra ny fandikana, fa izay mahatana ny molony dia mahay.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "amin'ny be"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "teny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "mitsahatra"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ny fandikana"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "fa izay mahatana"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ny molony"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mahay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:52:11.198538631Z",
+  "model": "glm-5.3"
+}

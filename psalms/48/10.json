@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 48,
+  "translation": "Efa noheroinay, ry Elohim, ny hesed-nao, ao an-kivanjan'ny tempolinao.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "efa noheroinay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ny hesed-nao"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ao an-kivanjan'ny"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "tempolinao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:30:07.720709829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 40:2",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Dia tezitra Parao tamin'ireo mpandimby roa lahy, dia tamin'ny lohan'ny mpisotro mpanompo sy tamin'ny lohan'ny mpandroso mofo.",
+  "tokens": [
+    {
+      "surface": "ויקצף",
+      "gloss": "Dia tezitra"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ireo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "roa lahy"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "mpandimby"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "שר",
+      "gloss": "lohan'ny"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "mpisotro mpanompo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy tamin'ny"
+    },
+    {
+      "surface": "שר",
+      "gloss": "lohan'ny"
+    },
+    {
+      "surface": "האופים",
+      "gloss": "mpandroso mofo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:49:08.816851647Z",
+  "model": "glm-5.3"
+}

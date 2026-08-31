@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary ny Filistina nanenana fatratra an'i Shaol sy ny zanany lahy, ary ny Filistina namono an'i Yehonatana sy an'i Avinadaba sy an'i Malki-shoa, zanak'i Shaol.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "nanenana fatratra"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Filistina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Shaol"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanany lahy"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy ny zanany lahy"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ary namono"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Filistina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yehonatana"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Avinadaba"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Malki-shoa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "shoa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    }
+  ],
+  "timestamp": "2026-08-31T14:28:10.256457374Z",
+  "model": "glm-5.3"
+}

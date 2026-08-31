@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary ⟨את⟩ ilay ondry iray no halainao, ary Aharon mbamin'ny zanany hametraka ny tanany eo ambony lohan'ilay ondry.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ary ⟨את⟩",
+      "marks": "ilay ondry iray"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ilay ondry"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "halainao"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "hametraka"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "mbamin'ny zanany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tanany"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ny tanany"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "lohan'ilay"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ondry"
+    }
+  ],
+  "timestamp": "2026-08-31T13:05:32.979352184Z",
+  "model": "glm-5.3"
+}

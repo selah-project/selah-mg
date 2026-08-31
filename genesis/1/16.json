@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary nanao Elohim ⟨את⟩ ny fanazavana roa lehibe: ⟨את⟩ ilay fanazavana lehibe ho mpanapaka ny andro, ary ⟨את⟩ ilay fanazavana kely ho mpanapaka ny alina, ary ⟨את⟩ ny kintana.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ary nanao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanazavana roa lehibe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "roa"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "ny fanazavana"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay fanazavana lehibe"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ilay fanazavana"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "ho mpanapaka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ny andro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ilay fanazavana kely"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ilay fanazavana"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "kely"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "ho mpanapaka"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ny alina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny kintana"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "ny kintana"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:14.473905861Z",
+  "model": "glm-5.3"
+}

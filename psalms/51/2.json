@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "Tamin'ny fahatongan' ⟨i⟩ Natanany mpaminany taminy, rehefa tonga tany amin'i Bat-Shea.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Tamin'ny fahatongan'"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tamy"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natanany"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mpaminany"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "rehefa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tany amin'i"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Shea"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:45.315875017Z",
+  "model": "glm-5.3"
+}

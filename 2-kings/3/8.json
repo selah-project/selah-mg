@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary hoy izy: Inona no lalana hiakarana? Dia hoy izy: Ny lalan'ny efitr'i Edoma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Inona no"
+    },
+    {
+      "surface": "זה",
+      "gloss": "…"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "hiakarana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dia hoy izy"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "Ny lalan'ny"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "efitr'i"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoma"
+    }
+  ],
+  "timestamp": "2026-08-31T14:50:28.880034689Z",
+  "model": "glm-5.3"
+}

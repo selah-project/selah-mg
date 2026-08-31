@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Fa amin'izany andro izany no hanaovana fanavotana ho anareo hanadiovana anareo ⟨את⟩ amin'ny fahotanareo rehetra; eo anoloan'i Yahveh no hadiovanareo tena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'izany andro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "izany"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "hanaovana fanavotana"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "hanadiovana"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo",
+      "marks": "anareo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "fahotanareo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anoloan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "hadiovanareo tena"
+    }
+  ],
+  "timestamp": "2026-08-31T13:17:28.874661694Z",
+  "model": "glm-5.3"
+}

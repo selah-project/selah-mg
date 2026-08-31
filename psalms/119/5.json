@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Enga anie hampijanona tsara ny lalako mba hitandrina ny didinao.",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "enga anie"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "hampijanona tsara"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ny lalako"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "mba hitandrina"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ny didinao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:32.060500753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary nametraka ⟨את⟩ ny iray tao amin'ny Bet-El izy, ary ⟨את⟩ ny iray nametraka tao Dana.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "nametraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny iray"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ny iray"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "tao amin'ny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Bet-El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny iray"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ny iray"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nametraka"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "tao Dana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:45:12.175342202Z",
+  "model": "glm-5.3"
+}

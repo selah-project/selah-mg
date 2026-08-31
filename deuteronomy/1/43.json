@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 1:43",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary niresaka taminareo aho fa tsy nihaino ianareo; fa niodina tamin'ny vavan'i Yahveh ianareo ⟨את⟩, ka niavonavona ary niakatra an-tendrombohitra.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "niresaka"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "taminareo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "niodina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vavan'i Yahveh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ny vava"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ותזדו",
+      "gloss": "niavonavona"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "niakatra"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "an-tendrombohitra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:40:31.822262760Z",
+  "model": "glm-5.3"
+}

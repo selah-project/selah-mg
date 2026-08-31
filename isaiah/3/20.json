@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 3:20",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ny satroka fanavezana, sy ny fehy tongotra, sy ny fehin-kibo, ny vata fanangonana zava-manitra ⟨tranon'aina⟩, ary ny tara-maso fitaomana.",
+  "tokens": [
+    {
+      "surface": "הפארים",
+      "gloss": "satroka fanavezana"
+    },
+    {
+      "surface": "והצעדות",
+      "gloss": "sy ny fehy tongotra"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "sy ny fehin-kibo"
+    },
+    {
+      "surface": "ובתי",
+      "gloss": "vata... (tranon')"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "aina (zava-manitra)"
+    },
+    {
+      "surface": "והלחשים",
+      "gloss": "ary ny tara-maso fitaomana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:03:45.417723383Z",
+  "model": "glm-5.3"
+}

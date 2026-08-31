@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 148,
+  "translation": "Miderà Azy, anjely rehetra; miderà Azy, tafiny rehetra!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Miderà Azy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "anjely"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Miderà Azy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "tafiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:59.063755468Z",
+  "model": "glm-5.3"
+}

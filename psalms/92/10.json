@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 92,
+  "translation": "Fa indro ny fahavilonao, Yahveh; fa indro ny fahavilonao ho very avokoa; hizara tsy ho tonga lafatra ny mpanao ratsy rehetra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ny fahavilonao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ny fahavilonao"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ho very avokoa"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "hizara tsy ho tonga lafatra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ny mpanao"
+    },
+    {
+      "surface": "און",
+      "gloss": "ratsy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:01.393123946Z",
+  "model": "glm-5.3"
+}

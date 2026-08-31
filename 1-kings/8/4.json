@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nentiny niakatra ⟨את⟩ fiaran'i Yahveh sy ⟨את⟩ ny lay fihaonana ary ⟨את⟩ ny fanaka masina rehetra izay ao anaty lay; ary ny mpisoratra sy ny Levita no nampiakatra ⟨את⟩ azy ireo.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "Ary nentiny niakatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiaran'i Yahveh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny lay fihaonana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "lay"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny fanaka masina rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "fanaka"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ao anaty lay"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "Ary nampiakatra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azy ireo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ny mpisoratra"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "sy ny Levita"
+    }
+  ],
+  "timestamp": "2026-08-31T14:42:53.437589149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 10:19",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary ny sisa amin'ny hazon'ilala-alany ho ⟨vitsy⟩ isan-isa, ka zazalahy no hanoratra azy.",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "sisa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "ilala-ala"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "isan-isa"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "zazalahy"
+    },
+    {
+      "surface": "יכתבם",
+      "gloss": "hanoratra azy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:05:52.112653352Z",
+  "model": "glm-5.3"
+}

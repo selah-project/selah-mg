@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 102,
+  "translation": "Fa vovoka toy ny mofo no nihinanako, ary tamin'ny fitarainana no nampifangaroako ny fisotroako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "vovoka (doro-kena)"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "toy ny mofo"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "nihinana ahy (izao: nihinanako)"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "ary ny fisotroko"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "tamin'ny fitarainana"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "nampifangaroako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:17.627029840Z",
+  "model": "glm-5.3"
+}

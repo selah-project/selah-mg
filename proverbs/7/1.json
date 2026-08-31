@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Anaka, tano ny teniko, ary ny didiko afeno ⟨ao aminao⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Anaka"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "tano"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ny teniko"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ary ny didiko"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "afeno"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ao aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:50:22.893250271Z",
+  "model": "glm-5.3"
+}

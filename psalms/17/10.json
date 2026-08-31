@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ny tavyrazy dia voahidy; ny vavany miteny amin'ny fiavonavonana.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "ny tavyrazy"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "voahidy"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "ny vavany"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "miteny"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "amin'ny fiavonavonana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:59.673838717Z",
+  "model": "glm-5.3"
+}

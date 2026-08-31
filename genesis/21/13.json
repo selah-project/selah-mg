@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary ⟨את⟩ zanak'ilay mpanompo vavy hataoko firenena koa, fa taranakao izy.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ary ... koa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zanak'ilay mpanompo vavy"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ilay mpanompo vavy"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "hataoko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "taranakao"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:40:42.620345081Z",
+  "model": "glm-5.3"
+}

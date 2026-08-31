@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Rehefa neson'i Lo-Rahama ny ronono, dia nisintoana indray izy ka niteraka lahy.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "neson'i ... ny ronono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Rahama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Rahama"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "nisintoana indray izy"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "lahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:07:30.432268249Z",
+  "model": "glm-5.3"
+}

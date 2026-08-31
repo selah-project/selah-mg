@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 9:7",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary Shaol nanao teny tamin'ny zatavony hoe: Ary indro, andeha isika — ary inona no entinay ho an'ilay lehilahy? Fa efa lany ny mofo amin'ny entantsika, ary tsy misy fanatitra entina ho an'ilay lehilahin'i Elohim — inona no ⟨את⟩ aminay?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary nanao teny"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "tamin'ny zatavony"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "Ary indro"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "andeha isika"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ary inona"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "no entinay"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ho an'ilay lehilahy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "ny mofo"
+    },
+    {
+      "surface": "אזל",
+      "gloss": "efa lany"
+    },
+    {
+      "surface": "מכלינו",
+      "gloss": "amin'ny entantsika"
+    },
+    {
+      "surface": "ותשורה",
+      "gloss": "ary fanatitra"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "entina"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ho an'ilay lehilahy"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "inona"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ aminay"
+    }
+  ],
+  "timestamp": "2026-08-31T14:17:59.332703182Z",
+  "model": "glm-5.3"
+}

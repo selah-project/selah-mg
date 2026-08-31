@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 82,
+  "translation": "Izaho no nanao hoe: Elohim hianareo, ary zanak'⟨ilay⟩ Elyon avokoa hianareo rehetra.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hianareo"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ary zanaka"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "hianareo rehetra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:35.149394381Z",
+  "model": "glm-5.3"
+}

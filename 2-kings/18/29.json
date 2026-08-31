@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 18:29",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Toy izao no lazain'ny mpanjaka: Aza avela hampirehitra anareo Hizkiyahu, fa tsy mahay hanafaka ⟨את⟩ anareo amin'ny tanany izy.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "toy izao"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "lazain'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "ישיא",
+      "gloss": "hampirehitra"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "mahay"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "hanafaka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo",
+      "marks": "anareo"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "amin'ny tanany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:59:08.065472619Z",
+  "model": "glm-5.3"
+}

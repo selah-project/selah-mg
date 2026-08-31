@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 18:36",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary nangina ny vahoaka ka tsy namaly azy teny akory, fa didin'ny mpanjaka no nanao azy hoe: Aza mamaly azy.",
+  "tokens": [
+    {
+      "surface": "והחרישו",
+      "gloss": "Ary nangina"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "namaly"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "teny"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "teny"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "didin'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "היא",
+      "gloss": "no nanao azy"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "mamaly azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:58:15.092322474Z",
+  "model": "glm-5.3"
+}

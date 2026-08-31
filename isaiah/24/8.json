@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 24:8",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Nitsahatra ny fifalian'ny tavolo, nitsahatra ny tabataban'ny mifaly, nitsahatra ny fifalian'ny lokanga.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Nitsahatra"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "fifalian"
+    },
+    {
+      "surface": "תפים",
+      "gloss": "tavolo"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "nitsahatra"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "tabataba"
+    },
+    {
+      "surface": "עליזים",
+      "gloss": "mifaly"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "nitsahatra"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "fifalin"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "lokanga"
+    }
+  ],
+  "timestamp": "2026-08-31T15:09:04.320460628Z",
+  "model": "glm-5.3"
+}

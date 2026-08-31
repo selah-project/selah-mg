@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Fa hafeniny ahy ⟨Izy⟩ ao anaty tranolainy amin'ny andron'ny loza; hafeniny aho ao amin'ny miafin'ny lainy; ary ambonin'ny vatolampy no hanandraatra ahy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "יצצפנני",
+      "gloss": "hafeniny ahy"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "ao anaty tranolainy"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'ny andron'ny"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "loza"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "hafeniny aho"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ao amin'ny miafin'ny"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "lainy"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ambonin'ny vatolampy"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "hanandraatra ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:35.168378762Z",
+  "model": "glm-5.3"
+}

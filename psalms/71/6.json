@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 71,
+  "translation": "Tamim-panohanana no niankinako taminao hatramin'ny kibo, avy tao an-kibon-dreniko ianao no nandray ahy; ny fiderana anao no tsy misy farany eo am-bavako.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "taminao"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "no niankinako"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "hatramin'ny kibo"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "avy tao an-kibo"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "reniko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "no nandray ahy"
+    },
+    {
+      "surface": "בך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "fiderana"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tsy misy farany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:53.022799639Z",
+  "model": "glm-5.3"
+}

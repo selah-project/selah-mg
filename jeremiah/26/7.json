@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 26:7",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary ny mpisorona sy ny mpaminany ary ny vahoaka rehetra nihaino an'i Yirmeyahu ⟨ilay⟩ niteny ⟨את⟩ ny teny ireo tao an-tranon'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "sy ny mpaminany"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ny ... rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yirmeyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "niteny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny teny ireo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "tao an-tranon'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T18:07:54.837856008Z",
+  "model": "glm-5.3"
+}

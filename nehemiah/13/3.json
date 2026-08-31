@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary rehefa ren'izy ireo ⟨את⟩ ny lalàna, dia nisaraka tamin'ny Isiraely ny taranaka mifangaro tsy rehetra re.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ary"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "rehefa ren'izy ireo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lalàna"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "lalàna"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "nisaraka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsy rehetra re"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "taranaka mifangaro"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "tamin'ny Isiraely"
+    }
+  ],
+  "timestamp": "2026-08-31T17:33:17.093116905Z",
+  "model": "glm-5.3"
+}

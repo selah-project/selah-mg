@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 147,
+  "translation": "Ilay manarona ny lanitra amin'ny rahona, ilay manamboa ny ranonorana ho an'ny tany, ilay mampitsiry ahitra eny an-tendrombohitra.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "Ilay manarona"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "amin'ny rahona"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "ilay manamboa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ho an'ny tany"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ny ranonorana"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "ilay mampitsiry"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "eny an-tendrombohitra"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ahitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:06.672189617Z",
+  "model": "glm-5.3"
+}

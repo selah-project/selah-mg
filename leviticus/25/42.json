@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Fa mpanompoko izy, izay nentiko mivoaka ⟨את⟩ avy amin'ny tany Mitsrayim; tsy hamidy amin'ny fivarotana mpanompo izy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mpanompoko"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "nentiko mivoaka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "avy amin'ny tany Mitsrayim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "avy amin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "hamidy"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "amin'ny fivarotana"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mpanompo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:21:25.058847196Z",
+  "model": "glm-5.3"
+}

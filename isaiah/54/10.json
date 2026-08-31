@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 54,
+  "translation": "Fa ny tendrombohitra dia hiaingana, ary ny havoana hihozongozona; fa ny hesediko ⟨את⟩ anao tsy hiala, ary ny faneken'ny fiadanako tsy hozongozoina, hoy Yahveh mpanindra fo anao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ny tendrombohitra"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "hiaingana"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "ary ny havoana"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "hihozongozona"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "fa ny hesediko"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ anao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "hiala"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "ary ny fanekena"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "ny fiadanako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "hozongozoina"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "mpanindra fo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T15:18:43.403094248Z",
+  "model": "glm-5.3"
+}

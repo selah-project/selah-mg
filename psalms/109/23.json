@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 109,
+  "translation": "Nandeha aho toy ny aloka rehefa mivadika izy; voatsipy aho toy ny valalala.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "toy ny aloka"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "rehefa mivadika izy"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "nandeha aho"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "voatsipy aho"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "toy ny valalala"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:29.805929671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 18:1",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary nonina tamin'ny andro maro, dia tonga ny tenin'i Yahveh tamin'i Eliyahu, tamin'ny taona fahatelo, ka nanao hoe: Mandehana, asehoy ny tenanao amin'i Ahaba, ary homeko ny ranonorina eo ambonin'ny tavan'ny tany.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nonina"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maro"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ary ny tenin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "tamin'ny taona"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "fahatelo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Mandehana"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "asehoy ny tenanao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'i"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaba"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ary homeko"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ny ranonorina"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambonin'ny"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tavan'ny"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:47:30.393422683Z",
+  "model": "glm-5.3"
+}

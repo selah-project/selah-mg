@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary ⟨את⟩ ny nofo sy ⟨את⟩ ny hoditra natsipy tamin'ny afo ivelan'ny toby.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny nofo"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ny nofo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny hoditra"
+    },
+    {
+      "surface": "העור",
+      "gloss": "ny hoditra"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "natsipy"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tamin'ny afo"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ivelan'ny"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "toby"
+    }
+  ],
+  "timestamp": "2026-08-31T13:13:29.582299784Z",
+  "model": "glm-5.3"
+}

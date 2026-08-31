@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 85,
+  "translation": "Mandra-pahavelona ve ianao tezitra amintsika, hanitaranao va ny fahatezeranao amin'ny taranaka mandimby?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Mandra-pahavelona ve"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "tezitra"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "amintsika"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "hanitaranao va"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ny fahatezeranao"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "amin'ny taranaka"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "mandimby"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:13.291583556Z",
+  "model": "glm-5.3"
+}

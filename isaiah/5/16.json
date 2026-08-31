@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 5:16",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Fa Yahveh Tsevaot no hasandratra amin'ny fitsarana, ary El Masina no ho masina amin'ny fahamarinana.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "fa ... no hasandratra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "amin'ny fitsarana"
+    },
+    {
+      "surface": "והאל",
+      "gloss": "ary El"
+    },
+    {
+      "surface": "הקדוש",
+      "gloss": "Masina"
+    },
+    {
+      "surface": "נקדש",
+      "gloss": "ho masina"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "amin'ny fahamarinana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:03:52.573536571Z",
+  "model": "glm-5.3"
+}

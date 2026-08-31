@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Zebolona tsy nandroaka ⟨את⟩ ny mponina any Kitrona sy ⟨את⟩ ny mponina any Nahalala; fa ny Kanaanita nitoetra teo afovoany, ka lasa mandoa hetra.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zebolona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "nandroaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mponina any Kitrona"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ny mponina"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "any Kitrona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny mponina any Nahalala"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ny mponina"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "any Nahalala"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "fa nitoetra"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ny Kanaanita"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "teo afovoany"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ka lasa"
+    },
+    {
+      "surface": "למס",
+      "gloss": "mandoa hetra"
+    }
+  ],
+  "timestamp": "2026-08-31T14:04:35.809040359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 122,
+  "translation": "Fa any no fiakaran'ny foko, ny foko an'i Yah, fanamarinana ho an'i Isiraely, hitsofod-pankasitrahana an'ilay anaran'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "any"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "fiakaran'ny"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "foko"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "fanamarinana"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ho an'i Isiraely"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "hitsofod-pankasitrahana"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "an'ilay anarana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:24.217215541Z",
+  "model": "glm-5.3"
+}

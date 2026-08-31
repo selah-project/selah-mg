@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary hiseho ny voninahitr'i Yahveh, ka ho hitan'ny nofo rehetra miaraka; fa ny vavan'i Yahveh no efa niteny.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "Ary hiseho"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ny voninahitra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ka ho hitan'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ny nofo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "miaraka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ny vava"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "no efa niteny"
+    }
+  ],
+  "timestamp": "2026-08-31T15:14:28.464945569Z",
+  "model": "glm-5.3"
+}

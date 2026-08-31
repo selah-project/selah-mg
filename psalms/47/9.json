@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 47,
+  "translation": "Elohim manjaka amin'ny firenena, Elohim mipetraka amin'ny seza fiandrianam-panjakany masina.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "manjaka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "mipetraka"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "seza fiandrianam-panjakana"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "masina (ny fahamasinany)"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:55.159486143Z",
+  "model": "glm-5.3"
+}

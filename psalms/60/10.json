@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 60,
+  "translation": "Moaba no vilanin-drasako; ambonin'i Edoma no hanaryko ⟨…⟩ kianjako: amiko, Filistia, mifalia.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "vilany"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "fanasako"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonina"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoma"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "hanaryko"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "kianjako"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Filistia"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "mifalia"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:51.850758755Z",
+  "model": "glm-5.3"
+}

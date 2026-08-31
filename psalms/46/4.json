@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 46,
+  "translation": "Miboridana sy mamitaka ny rano, mihozongozona ny tendrombohitra amin'ny fiavonavany. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "miboridana"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "mamitaka"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "ny rano"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "mihozongozona"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ny tendrombohitra"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "amin'ny fiavonavany"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:30:17.634244469Z",
+  "model": "glm-5.3"
+}

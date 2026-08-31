@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Voatahy ianao ⟨ry hianao⟩ amin'ny fidiranao, ary voatahy ianao amin'ny fivoahanao.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Voatahy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "amin'ny fidiranao"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ary voatahy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "amin'ny fivoahanao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:50:09.678700408Z",
+  "model": "glm-5.3"
+}

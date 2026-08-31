@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 3:4",
+  "book": "daniel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary ny mpitory niantso tamin'ny feo mahery: Ho anareno voalaza, ry vahoaka, firenena, sy fiteny",
+  "tokens": [
+    {
+      "surface": "וכרוזא",
+      "gloss": "Ary ny mpitory"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "tamin'ny feo mahery"
+    },
+    {
+      "surface": "לכון",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "voalaza"
+    },
+    {
+      "surface": "עממיא",
+      "gloss": "ry vahoaka"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "ולשניא",
+      "gloss": "sy fiteny"
+    }
+  ],
+  "timestamp": "2026-08-31T18:37:10.136061843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Tsy tolotra miady va no an'ny olombelona ambonin'ny tany, ary toy ny andron'ny mpivady karama no androny?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Tsy... va"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "tolotra miady"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "olombelona"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "ary toy ny andron'ny"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "mpivady karama"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "androny"
+    }
+  ],
+  "timestamp": "2026-08-31T17:00:26.009616974Z",
+  "model": "glm-5.3"
+}

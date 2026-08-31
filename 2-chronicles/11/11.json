@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary nampahaleo io izy ⟨את⟩ ny mimanda, ary nametraka tao amin'ireo mpitarika sy fitehirizam-pananin-tsakafo sy diloilo sy divay.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "nampahaleo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mimanda"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "ny mimanda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nametraka"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "tao amin'ireo"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "mpitarika"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "fitehirizam-pananina"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "sakafo"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "diloilo"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "divay"
+    }
+  ],
+  "timestamp": "2026-08-31T17:44:32.712604234Z",
+  "model": "glm-5.3"
+}

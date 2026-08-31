@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joel 4:20",
+  "book": "joel",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Fa Yehuda kosa honina ho mandrakizay, ary Yeroshalayim taranaka mandimby.",
+  "tokens": [
+    {
+      "surface": "ויהודה",
+      "gloss": "Fa Yehuda"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho mandrakizay"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "honina"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ary Yeroshalayim"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "taranaka"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "mandimby"
+    }
+  ],
+  "timestamp": "2026-08-31T16:10:53.944441750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary manao fifaliana amin'i Yahveh, dia homeny anao ny fangatahan'ny fonao.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "Ary manao fifaliana"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dia homeny"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "ny fangatahan'ny"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "fonao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:40.082590374Z",
+  "model": "glm-5.3"
+}

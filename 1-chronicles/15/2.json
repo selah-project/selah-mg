@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 15:2",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary tamin'izay Davida nanao hoe: Tsy ⟨את⟩ ny fiaran'ny Elohim no tokony hitondrena, fa ny Levita; fa azy Yahveh no nifidy hitondra ⟨את⟩ fiaran'i Yahveh sy hanompo Azy hatramin'ny fé.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ary tamin'izay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "tokony hitondrena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiaran'ny Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ny Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "afa-tsy"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ny Levita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "nifidy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "hitondra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiaran'i Yahveh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ולשרתו",
+      "gloss": "sy hanompo Azy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hatramin'ny"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "fé"
+    }
+  ],
+  "timestamp": "2026-08-31T17:38:10.646176774Z",
+  "model": "glm-5.3"
+}

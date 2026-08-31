@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 11:12",
+  "book": "zechariah",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary hoy izaho taminy: Raha mety amin'ny masonareo izany, omeo ny karamako; fa raha tsy izany, aza. Ka nandanjana izy ny karamako ⟨את⟩: volafotsy telo-polo.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ary hoy izaho taminy"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "tamin'ny olona"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "mety"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "amin'ny masonareo"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "omeo"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "ny karamako"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "fa raha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "aza"
+    },
+    {
+      "surface": "וישקלו",
+      "gloss": "nandanjana izy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny karamako"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "ny karamako"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "telo-polo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:20:54.052442667Z",
+  "model": "glm-5.3"
+}

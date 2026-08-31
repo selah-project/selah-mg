@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 50,
+  "translation": "Ary nandidy ⟨את⟩ ny mpanompony Yosefa — ⟨את⟩ ireo mpitsabo mpanao fanafody — hanam-paty amin'ny zava-manitra ny rainy; dia nanam-paty ⟨את⟩ Isiraely ireo mpitsabo.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "nandidy"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanompony"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ny mpanompony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ireo mpitsabo mpanao fanafody"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "ireo mpitsabo mpanao fanafody"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "hanam-paty amin'ny zava-manitra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rainy"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ny rainy"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "nanam-paty"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "ireo mpitsabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraely"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    }
+  ],
+  "timestamp": "2026-08-31T12:53:46.449470877Z",
+  "model": "glm-5.3"
+}

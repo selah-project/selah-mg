@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 17:6",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Tamin'ny taona fahasivy an'i Hoshea dia nahafaty ⟨את⟩ an'i Shomeron ny mpanjakan'i Ashshur, ka nisesitany tany Ashshur ⟨את⟩ Isiraely, ka napetrany ⟨את⟩ azy tany Halah sy tany Habor, renirano any Gozan, sy tany amin'ny tanànan'i Medy.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "tamin'ny taona"
+    },
+    {
+      "surface": "התשיעית",
+      "gloss": "fahasivy"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "an'i Hoshea"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "nahafaty"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shomeron"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "nisesitany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraely"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "tany Ashshur"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "napetrany"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "tany Halah"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "sy tany Habor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "renirano"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "tanànan'"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Medy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:57:55.047755367Z",
+  "model": "glm-5.3"
+}

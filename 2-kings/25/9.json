@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary nandoro ⟨את⟩ ny tranon'i Yahveh sy ⟨את⟩ ny tranon'ny mpanjaka ary ⟨את⟩ ny trano rehetra tao Yeroshalayim; ary ⟨את⟩ trano lehibe tsirairay nandoro tamin'ny afo izy.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "nandoro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tranon'i Yahveh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ny trano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tranon'ny mpanjaka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ny trano"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny trano rehetra tao Yeroshalayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "trano"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "trano lehibe tsirairay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsirairay"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "nandoro"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tamin'ny afo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:01:08.985596540Z",
+  "model": "glm-5.3"
+}

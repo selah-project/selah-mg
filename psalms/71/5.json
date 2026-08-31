@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 71,
+  "translation": "Fa ianao no fanantenanaiko, ry Adonay Yahveh, fiantokoanaiko hatramin'ny fahatanorako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "fanantenanaiko"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "fiantokoanaiko"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "hatramin'ny fahatanorako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:53.022511450Z",
+  "model": "glm-5.3"
+}

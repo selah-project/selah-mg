@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 11:5",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary vo hitondra voky ny vehivavy ka naniraka ka nilaza tamin'i Davida hoe: Miteraka zaza ao an-kibo aho.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "vo hitondra voky"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ny vehivavy"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "ka naniraka"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "ka nilaza"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "tamin'i Davida"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "hoy izy"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "mitsidika am-boky"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aho"
+    }
+  ],
+  "timestamp": "2026-08-31T14:31:43.703336559Z",
+  "model": "glm-5.3"
+}

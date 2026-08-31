@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 68,
+  "translation": "Toy ny setroka voatarika ho any, dia ho voatarika ⟨izy⟩; toy ny savoka miempo eo anoloan'ny afo, dia ho ringana ny ratsy fanahy eo anatrehan'ny Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "toy ny voatarika ho any"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "setroka"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "ho voatarika"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "toy ny miempo"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "savoka"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "eo anoloan'ny"
+    },
+    {
+      "surface": "אש",
+      "gloss": "afo"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ho ringana"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ratsy fanahy"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "eo anatrehan'ny"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:25.278998887Z",
+  "model": "glm-5.3"
+}

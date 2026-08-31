@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 2:13",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary ny tafiny sy ny voaisa taminy ⟨dia⟩ sivy amby dimam-polo arivo sy telonjato.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Ary ny tafiny"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "sy ny voaisa taminy"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "sivy"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "amby dimam-polo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "arivo"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "sy telo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "njato"
+    }
+  ],
+  "timestamp": "2026-08-31T13:24:29.115655958Z",
+  "model": "glm-5.3"
+}

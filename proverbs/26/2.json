@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Toy ny vorona mitsididina, toy ny hirondola manidina, dia toy izany ny ozona tsy antony tsy midina.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "toy ny vorona"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "mitsididina"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "toy ny hirondola manidina"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "manidina"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toy izany"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "ny ozona"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tsy antony"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "midina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:56:46.812320669Z",
+  "model": "glm-5.3"
+}

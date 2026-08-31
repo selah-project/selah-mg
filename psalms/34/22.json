@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ny faharatsiana hamono ny ratsy fanahy, ary izay mankahala ny marina ho voaheloka.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "hamono"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ny faharatsiana"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "ary izay mankahala"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ny marina"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ho voaheloka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:40.118253410Z",
+  "model": "glm-5.3"
+}

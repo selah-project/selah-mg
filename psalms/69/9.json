@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 69,
+  "translation": "Vahiny aho tonga tamin'ny rahalahiko, ary hafan-tanindrazana tamin'ny zanak'ny reniko.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "vahiny"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aho tonga"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "tamin'ny rahalahiko"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "ary hafan-tanindrazana"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "tamin'ny zanak'ny"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "reniko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:59.279725373Z",
+  "model": "glm-5.3"
+}

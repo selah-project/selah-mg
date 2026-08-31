@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary ampio ao anaty ny fiara ⟨את⟩ ny Vavolombelona izay homeko anao.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Ampio"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ao anaty"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Vavolombelona"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Vavolombelona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "homeko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "anao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:04:03.791476680Z",
+  "model": "glm-5.3"
+}

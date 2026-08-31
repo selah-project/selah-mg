@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Arahaba ny vahoaka rehetra amin'ny tany, ary nitoetra tamin'ny fiadanana ny tanàna; fa ⟨את⟩ Atalia dia novonoiny tamin'ny sabatra tao an-tranon'ny mpanjaka.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "Arahaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "ary ny tanàna"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "nitoetra tamin'ny fiadanana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fa ⟨את⟩",
+      "marks": "Atalia"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalia"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "novonoiny"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "tamin'ny sabatra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tao an-tranon'"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ny mpanjaka"
+    }
+  ],
+  "timestamp": "2026-08-31T18:05:04.960592325Z",
+  "model": "glm-5.3"
+}

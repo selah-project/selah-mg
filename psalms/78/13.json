@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Nisarahala ny ranomasina ka nampandeha azy ireo ⟨ihany⟩; ary nampijanona ny rano ho toy ny rendrarendra.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "nisarahala"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ny ranomasina"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "ka nampandeha azy ireo"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "ary nampijanona"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ny rano"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ho toy ny"
+    },
+    {
+      "surface": "נד",
+      "gloss": "rendrarendra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:22.207581682Z",
+  "model": "glm-5.3"
+}

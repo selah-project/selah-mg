@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Raha fanatitra dorana avy amin'ny omby ny fanatrany, lahy tsy misy tsiny no hateriny; eo am-baravaran'ny trano fihaonana no hentiny azy ⟨את⟩ hanandratana azy eo anatrehan'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "fanatitra dorana"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ny fanatrany"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "omby"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lahy"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tsy misy tsiny"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "no hateriny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "am-baravaran'ny"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tranoy"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "no hentiny"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "hanandratana azy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anatrehan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:40.359798082Z",
+  "model": "glm-5.3"
+}

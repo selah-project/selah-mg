@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Sokafy, ry Libanona, ny varavaranao, ary aoka ny afo hisaka ny sederao.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Sokafy"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ry Libanona"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "ny varavaranao"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ary aoka ... hisaka"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ny afo"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "ny sederao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:21:03.973746991Z",
+  "model": "glm-5.3"
+}

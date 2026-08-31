@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary nampody ⟨את⟩ ny fananana rehetra, ary koa ⟨את⟩ Lota rahalahiny sy ny fananany dia nampodiny, ary koa ⟨את⟩ ny vehivavy sy ⟨את⟩ ny vahoaka.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "nampody"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fananana rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "ny fananana"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ary koa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lota"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lota"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "rahalahiny"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "sy ny fananany"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "dia nampodiny"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ary koa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vehivavy"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ny vehivavy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:53.197111096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary Naara niteraka taminy ⟨את⟩ i Ahuzama sy ⟨את⟩ i Chefera sy ⟨את⟩ i Temeni ary ⟨את⟩ i Ahashtari; ireo no zanak'i Naara.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Ahuzama"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "i Ahuzama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i Chefera"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "i Chefera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i Temeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "i Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i Ahashtari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "i Ahashtari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naara"
+    }
+  ],
+  "timestamp": "2026-08-31T17:34:50.727174788Z",
+  "model": "glm-5.3"
+}

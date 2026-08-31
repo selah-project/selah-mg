@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary Yaakob nangalatra ⟨את⟩ fon'i Lavan ilay Arameana, satria tsy nambarany taminy fa izy dia mandositra.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "nangalatra"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fon'i Lavan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "i Lavan"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "illy Arameana"
+    },
+    {
+      "surface": "על",
+      "gloss": "satria"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "nambarany"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "mandositra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:45:43.590077797Z",
+  "model": "glm-5.3"
+}

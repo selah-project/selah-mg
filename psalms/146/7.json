@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 146,
+  "translation": "Izay manao fitsarana ho an'ny voataona, manome hanina ho an'ny noana; Yahveh manafaka ny voatoro:",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "manao"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "fitsarana"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "ho an'ny voataona"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "manome"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "hanina"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "ho an'ny noana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "manafaka"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "ny voatoro"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:22.118994988Z",
+  "model": "glm-5.3"
+}

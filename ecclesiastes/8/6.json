@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Fa misy fotoana sy fitsarana amin'ny sitrapo rehetra, fa lehibe ny lozan'ny olombelona amboniny.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "amin'ny...rehetra"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "sitrapo"
+    },
+    {
+      "surface": "יש",
+      "gloss": "misy"
+    },
+    {
+      "surface": "עת",
+      "gloss": "fotoana"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "sy fitsarana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "lozan'"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ny olombelona"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "amboniny"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:40.064939540Z",
+  "model": "glm-5.3"
+}

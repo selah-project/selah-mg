@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 34:10",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ary hanambara ho anareo ny fari-dalana mianatsimo ⟨avy⟩ Hatsar-Enan ka hatrany Shepham ⟨mianatsimo⟩.",
+  "tokens": [
+    {
+      "surface": "והתאויתם",
+      "gloss": "hanambara"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "ny fari-dalana"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "mianatsimo (kianatsimo)"
+    },
+    {
+      "surface": "מחצר",
+      "gloss": "avy Hatsar"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Enan"
+    },
+    {
+      "surface": "שפמה",
+      "gloss": "ka hatrany Shepham"
+    }
+  ],
+  "timestamp": "2026-08-31T13:38:18.775613466Z",
+  "model": "glm-5.3"
+}

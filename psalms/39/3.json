@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "Nangina tamim-pangina aho, nitoeria aho ⟨na⟩ tamin'ny soa; ary ny fanaintaiko dia nihorohoro.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "nangina"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "tamim-pangina"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "nitoeria"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "tamin'ny soa"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "ary ny fanaintaiko"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "nihorohoro"
+    }
+  ],
+  "timestamp": "2026-08-31T18:13:49.089489194Z",
+  "model": "glm-5.3"
+}

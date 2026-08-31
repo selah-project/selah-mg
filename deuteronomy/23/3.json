@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 23:3",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Tsy hiditra ao amin'ny fiangonan'i Yahveh ny zaza teraka tsy ara-dalàna; na dia taranaka fahafolo aza, tsy hiditra ao amin'ny fiangonan'i Yahveh izy.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "hiditra"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "zaza teraka tsy ara-dalàna"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ao amin'ny fiangonan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na dia"
+    },
+    {
+      "surface": "דור",
+      "gloss": "taranaka"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "fahafolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "hiditra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "izy"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ao amin'ny fiangonan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:48:37.968164647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Ary esoriko ⟨את⟩ ny tànako, dia ho hitanao ⟨את⟩ ny alohalohiko; fa ny tavoko kosa tsy ho hita.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "Ary esoriko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tànako"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ny tànako"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "dia ho hitanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny alohalohiko"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ny alohalohiko"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "fa ny tavoko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ho hita"
+    }
+  ],
+  "timestamp": "2026-08-31T13:07:28.161841359Z",
+  "model": "glm-5.3"
+}

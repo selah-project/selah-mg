@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 67,
+  "translation": "Hifaly amin'ny fihirana ny foko, fa Hitondra fitsarana marina ny firenena, Hitarihanao amin'ny tany ny foko. Selah.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "hifaly"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "amin'ny fihirana"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "Hitondra fitsarana"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ny firenena"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "marina"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "Hitarihanao"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:25.859730714Z",
+  "model": "glm-5.3"
+}

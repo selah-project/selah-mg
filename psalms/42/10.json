@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Hilaza amin'ny El, vatolampiko, aho: Nahoana no nanadino ahy ianao? Nahoana no mandeha maloko aho amin'ny fanenjehan'ny fahavalo?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "hilaza"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "amin'ny El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "vatolampiko"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nahoana"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "nanadino ahy ianao"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nahoana"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "mandeha maloko"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "amin'ny fanenjehana"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fahavalo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:23.438258312Z",
+  "model": "glm-5.3"
+}

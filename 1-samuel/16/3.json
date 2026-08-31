@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary antsoy amin'ny fanatitra i Yishay, ary izaho hampahalala anao ⟨את⟩ izay hataonao; ary hosoranao ho ahy ⟨את⟩ izay holazainako aminao.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "antsoy"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "i Yishay"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "amin'ny fanatitra"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ary izaho"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "hampahalala anao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay hataonao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hataonao"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "hosoranao"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay holazainako aminao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "holazainako"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:20:11.926406498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary nanao izay ratsy eo imason'i Yahveh izy; fa tsy tahaka ny rainy sy ny reniny akory; fa nesoriny ilay tsangam-baton'i Baala izay nataon'ny rainy.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "Ary nanao"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "izay ratsy"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "eo imason'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "רק",
+      "gloss": "fa tsy... akory"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "tahaka ny rainy"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "sy ny reniny"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "fa nesoriny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay tsangam-baton'i Baala"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "tsangam-bato"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataon'ny"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rainy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:50:28.017496800Z",
+  "model": "glm-5.3"
+}

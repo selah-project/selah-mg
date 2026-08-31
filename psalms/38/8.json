@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Fa ny takolakaiko feno aretin-may; ary tsy misy fahasalamana ao amin'ny nofoko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "ny takolakaiko"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "feno"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "aretin-may"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "fahasalamana"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "aomin'ny nofoko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:41.068799018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 6:6",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Noho izany lazao amin'ny zanak'i Yisrael hoe: Izaho no Yahveh, ary hentiko ⟨את⟩ ianareo hiala amin'ny enta-mavesatry'i Mitsrayim, ary hanavotako ⟨את⟩ ianareo amin'ny fanompoam-ponenany, ary hosodoko ⟨את⟩ ianareo amin'ny sandry mivelatra sy amin'ny fitsaran-dehibe.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Noho izany"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "lazao"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "amin'ny zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "hentiko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ianareo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "hiala amin'ny"
+    },
+    {
+      "surface": "סבלת",
+      "gloss": "enta-mavesatra"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והצלתי",
+      "gloss": "hanavotako"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ianareo"
+    },
+    {
+      "surface": "מעבדתם",
+      "gloss": "amin'ny fanompoam-ponenany"
+    },
+    {
+      "surface": "וגאלתי",
+      "gloss": "hosodoko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ianareo"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "amin'ny sandry"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "mivelatra"
+    },
+    {
+      "surface": "ובשפטים",
+      "gloss": "sy amin'ny fitsarana"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "dehibe"
+    }
+  ],
+  "timestamp": "2026-08-31T12:55:37.277665757Z",
+  "model": "glm-5.3"
+}

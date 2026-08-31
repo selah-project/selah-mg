@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Dia nahita ⟨את⟩ ny zanak'i Yisrael Elohim, ary Fantatr'i Elohim ⟨izy⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Dia nahita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanak'i Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ary Fantatr'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T12:53:29.219279067Z",
+  "model": "glm-5.3"
+}

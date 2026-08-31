@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 69,
+  "translation": "Idirano aminy ny fahatezeranao, ary ny hafanam-po ary amin'ny tavan dia tratraro azy.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Idirano"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "ny fahatezeranao"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "ary ny hafanam-po"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "amin'ny tavanao"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "tratraro azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:07.554762186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary izay sisa amin'ny mincha dia an'i Aharon sy ny zanany, masina indrindra ⟨no azy⟩, avy amin'ny fanatitra atao amin'ny afo ho an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "Ary izay sisa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "an'i Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "sy ny zanany"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "indrindra"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "avy amin'ny fanatitra atao amin'ny afo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:44.299112974Z",
+  "model": "glm-5.3"
+}

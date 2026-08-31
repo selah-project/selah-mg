@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Fa hoy Yehoshafat: Tsy misy mpaminanin'i Yahveh hafa eto, mba hitady fanazavana ⟨amin'iny⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Fa hoy"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "Tsy misy va"
+    },
+    {
+      "surface": "פה",
+      "gloss": "eto"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "mpaminany"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hafa"
+    },
+    {
+      "surface": "וינדרשה",
+      "gloss": "hitady fanazavana"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "amin'iny (Izy)"
+    }
+  ],
+  "timestamp": "2026-08-31T17:47:11.324646686Z",
+  "model": "glm-5.3"
+}

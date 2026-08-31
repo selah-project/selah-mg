@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary hoy izy: Tsy nampahorinao izahay, ary tsy nokapohinao izahay, ary tsy naka tamin'ny tànan'olona na inona na inona ianao.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "nampahorinao izahay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "nokapohinao izahay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "naka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tamin'ny tànan'"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "na inona na inona"
+    }
+  ],
+  "timestamp": "2026-08-31T14:17:24.955941422Z",
+  "model": "glm-5.3"
+}

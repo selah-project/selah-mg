@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 3:19",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Amin'ny eton'ny tavanao no hihinananao mofo, mandra-pody amin'ny tany ianao, fa avy aminy no nalaina ⟨ianao⟩; fa vovoka ianao, ary ho amin'ny vovoka ianao hiverina.",
+  "tokens": [
+    {
+      "surface": "בזעת",
+      "gloss": "amin'ny eton'ny"
+    },
+    {
+      "surface": "אפיך",
+      "gloss": "tavanao"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "hihananao"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mofo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "שובך",
+      "gloss": "pody"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "avy aminy"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "no nalaina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "vovoka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary ho amin'ny"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "vovoka"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "hiverina"
+    }
+  ],
+  "timestamp": "2026-08-31T17:55:06.635424101Z",
+  "model": "glm-5.3"
+}

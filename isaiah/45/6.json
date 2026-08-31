@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 45,
+  "translation": "Mba ho fantatry ny olona, hatramin'ny ipoahan'ny masoandro ka hatramin'ny mandefona azy, fa tsy misy fa Ahy ihany; Izaho Yahveh, ary tsy misy intsony.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Mba"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ho fantatry ny olona"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "hatramin'ny ipoahan'ny masoandro"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "masoandro"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "ka hatramin'ny mandefona azy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "fa Ahy ihany"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ary tsy misy"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    }
+  ],
+  "timestamp": "2026-08-31T15:17:22.615872851Z",
+  "model": "glm-5.3"
+}

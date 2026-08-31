@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Tandremo ⟨את⟩ ny volana Abib, ary ataovy Pesaha ho an'i Yahveh Elohim-nao; fa tamin'ny volana Abib no nampivoahan'i Yahveh Elohim-nao anao avy tany Mitsrayim, amin'ny alina.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Tandremo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny volana Abib"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "volana"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abib"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ary ataovy"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesaha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "tamin'ny volana"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abib"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "nampivoatra anao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nao"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "avy tany Mitsrayim"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "amin'ny alina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:45:49.368106066Z",
+  "model": "glm-5.3"
+}

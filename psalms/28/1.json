@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "An'i Davida. Aminao, ry Yahveh, no hiantsoiko; vatom-piaro ahy, aza manery amiko, fandrao hangina amiko Hianao, ka hofanarahana amin'izay midina any an-davaky.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "An'i Davida"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Aminao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "no hiantsoiko"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "vatom-piaro ahy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "manery"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "פן",
+      "gloss": "fandrao"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "hangina"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "ka hofanarahana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "amin'izay"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "midina"
+    },
+    {
+      "surface": "בור",
+      "gloss": "any an-davaky"
+    }
+  ],
+  "timestamp": "2026-08-31T18:34:56.917698961Z",
+  "model": "glm-5.3"
+}

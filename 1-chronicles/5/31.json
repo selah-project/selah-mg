@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary Abishua niteraka ⟨את⟩ Bukki, ary Bukki niteraka ⟨את⟩ Uzzi.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "Ary Abishua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bukki"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Bukki"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "ary Bukki"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzzi"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uzzi"
+    }
+  ],
+  "timestamp": "2026-08-31T17:34:57.877693682Z",
+  "model": "glm-5.3"
+}

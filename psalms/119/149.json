@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 149,
+  "ref": "psalms 119:149",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Henoy ny feoko araka ny ⟨hesed⟩-nao, ry Yahveh; araka ny fitsaranao omeno aina aho.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "ny feoko"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Henoy"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "araka ny hesed-nao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "כמשפטך",
+      "gloss": "araka ny fitsaranao"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "omeno aina aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:12.637335570Z",
+  "model": "glm-5.3"
+}

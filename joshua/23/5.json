@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 23:5",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary Yahveh Elohinareo no handeha hanosintsy azy hiala aminareo, ka handrava azy ⟨את⟩ hiala eo anatrehanareo, ary ianareo handova ⟨את⟩ ny taniny, araka ny nolazain'i Yahveh Elohinareo taminao.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ary Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no ⟨izy⟩"
+    },
+    {
+      "surface": "יהדפם",
+      "gloss": "hanosintsy azy"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "hiala aminareo"
+    },
+    {
+      "surface": "והורישׁ",
+      "gloss": "ka handrava"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ireo firenena)"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "hiala eo anatrehanareo"
+    },
+    {
+      "surface": "וירשׁתם",
+      "gloss": "ary ianareo handova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny taniny"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ny taniny"
+    },
+    {
+      "surface": "כאשׁר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "דבּר",
+      "gloss": "nolazain'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "taminao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:05:01.583331928Z",
+  "model": "glm-5.3"
+}

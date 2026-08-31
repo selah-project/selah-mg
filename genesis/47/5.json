@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 47,
+  "translation": "Ary hoy Parao tamin'i Yossea: ⟨Tsy afa-tsy⟩ ny rainao sy ny rahalahinao no tonga aty aminao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yossea"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨Tsy afa-tsy⟩"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ny rainao"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "sy ny rahalahinao"
+    },
+    {
+      "surface": "באו",
+      "gloss": "no tonga"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "aty aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:28:00.972856603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Ary nisehoana indray Elohim i Yaakov, rehefa avy tany Padan-Arama izy, ka nambaraka azy.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nisehoana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "indray"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "rehefa avy"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "tany Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ka nambaraka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (Yaakov)"
+    }
+  ],
+  "timestamp": "2026-08-31T12:47:36.991808006Z",
+  "model": "glm-5.3"
+}

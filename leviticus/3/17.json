@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 3:17",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "⟨This is⟩ lalana maharitra ho an'ny taranakareo amin'ny fonenana rehetra anananareo: tavy rehetra sy rà rehetra dia tsy hohaninareo.",
+  "tokens": [
+    {
+      "surface": "חקת",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "maharitra"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "ho an'ny taranakareo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "fonenana anananareo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "tavy"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ... rehetra"
+    },
+    {
+      "surface": "דם",
+      "gloss": "rà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "hohaninareo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:57:24.588012838Z",
+  "model": "glm-5.3"
+}

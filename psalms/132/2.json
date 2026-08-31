@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 132,
+  "translation": "Ilay nianiana tamin'i Yahveh, nivoady tamin'ny Maherin'i Yaakov:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ilay"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "nianiana tamin'i"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nivoady tamin'ny"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "Maherin'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:37.905849748Z",
+  "model": "glm-5.3"
+}

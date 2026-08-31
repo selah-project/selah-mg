@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 87,
+  "translation": "Yahveh tia ny vavahadin'i Tsiona mihoatra noho ny fonenana rehetra'i Yaakov.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "tia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "ny vavahadin'i"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiona"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mihoatra noho ny ... rehetra"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "fonenana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:43.418666675Z",
+  "model": "glm-5.3"
+}

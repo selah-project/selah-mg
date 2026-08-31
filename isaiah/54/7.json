@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 54:7",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 54,
+  "translation": "Amin'ny indray mhetsy nahafoy Aho anao, fa amin'ny famindram-po lehibe no hangonoiko anao.",
+  "tokens": [
+    {
+      "surface": "ברגע",
+      "gloss": "amin'ny indray mhetsy"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "kely"
+    },
+    {
+      "surface": "עזבתיך",
+      "gloss": "nahafoy Aho anao"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "fa amin'ny famindram-po"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "hangonoiko anao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:18:42.914985218Z",
+  "model": "glm-5.3"
+}

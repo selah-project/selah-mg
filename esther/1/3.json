@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 1:3",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "tamin'ny taona fahatelon'ny nanjakany, nanao fanasana ho an'ny mpanapaka rehetrany sy ny mpanompony izy — ny herin'i Paras sy Madai, ny Partema sy ny mpanapaka ny faritra — hitsaina eo anatrehany",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "tamin'ny taona"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "fahatelo"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "ny nanjakany"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "fanasana"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho an'ny ... rehetra"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "mpanapaka rehetrany"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "sy ny mpanompony"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ny herin'i"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Paras"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "sy Madai"
+    },
+    {
+      "surface": "הפרתמים",
+      "gloss": "ny Partema"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "sy ny mpanapaka"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "ny faritra"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "eo anatrehany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:18:56.974102307Z",
+  "model": "glm-5.3"
+}

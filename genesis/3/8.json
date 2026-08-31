@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary nandre izy roa ⟨את⟩ ny feon'i Yahveh Elohim mitsidika ny saha amin'ny rivotran'ny andro; dia niafina ny lehilahy sy ny vadiny tsy hitan'i Yahveh Elohim teo anivon'ny hazo ao amin'ny saha.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Ary nandre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feon'i Yahveh Elohim"
+    },
+    {
+      "surface": "קול",
+      "gloss": "feo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "mitsidika"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "ny saha"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "amin'ny rivotra"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ny andro"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "dia niafina"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ny lehilahy"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "sy ny vadiny"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tsy hitan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "teo anivon'ny"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ao amin'ny saha"
+    }
+  ],
+  "timestamp": "2026-08-31T17:54:50.533446383Z",
+  "model": "glm-5.3"
+}

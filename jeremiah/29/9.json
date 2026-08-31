@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 29:9",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Fa amin'ny lainga no maminany izy ireo aminareo amin'ny anarako; tsy izy no nirahiko, lazain'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "amin'ny lainga"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izy ireo"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "no maminany"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aminareo"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "amin'ny anarako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שלחתים",
+      "gloss": "no nirahiko"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "lazain'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T15:35:21.873057846Z",
+  "model": "glm-5.3"
+}

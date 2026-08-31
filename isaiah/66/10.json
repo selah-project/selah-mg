@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 66:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 66,
+  "translation": "Mifalia ⟨את⟩ amin'i Yeroshalayim, ary mifalia aminy ianareo rehetra tia azy; mifalia aminy am-pifaliana ianareo rehetra misaona noho izy.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Mifalia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeroshalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "ary mifalia"
+    },
+    {
+      "surface": "בה",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ianareo rehetra"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "tia azy"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "mifalia"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ aminy",
+      "marks": "aminy (miaraka aminy)"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "am-pifaliana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ianareo rehetra"
+    },
+    {
+      "surface": "המתאבלים",
+      "gloss": "misaona"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "noho izy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:22:48.747633416Z",
+  "model": "glm-5.3"
+}

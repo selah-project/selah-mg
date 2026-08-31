@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Inona no hanampin'i David aminao ho amin'ny voninahitry ny mpanomponao? Fa ianao no mahalala ⟨את⟩ ny mpanomponao, sady ⟨את⟩ ny mpanomponao no efa fantatrao.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "inona"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "no hanampiny"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "tahoatra"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "ho amin'ny voninahitry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanomponao"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ny mpanomponao"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "fa ianao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanomponao"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ny mpanomponao"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "no mahalala"
+    }
+  ],
+  "timestamp": "2026-08-31T17:39:11.903435310Z",
+  "model": "glm-5.3"
+}

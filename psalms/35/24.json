@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Itsarao ahy araka ny fahamarinanao, ry Yahveh Elohay, ka aza mifaly amiko izy.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Itsarao ahy"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "araka ny fahamarinanao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohay"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ka aza"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "mifaly"
+    },
+    {
+      "surface": "לי",
+      "gloss": "amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:58.454844059Z",
+  "model": "glm-5.3"
+}

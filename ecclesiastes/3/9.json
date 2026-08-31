@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Inona no tombony azon'ny mpanao amin'izay itekezan'ny tenany?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "inona"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "tombony"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "ny mpanao"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "amin'izay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ny tenany"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "itekezan'ny"
+    }
+  ],
+  "timestamp": "2026-08-31T17:14:44.259600250Z",
+  "model": "glm-5.3"
+}

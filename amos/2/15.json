@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 2:15",
+  "book": "amos",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary ilay mitana ny tsipika tsy hijanona, ary ny maingana tongotra tsy hiala, ary ny mpitaingina soavaly tsy hamonjy ny ainy.",
+  "tokens": [
+    {
+      "surface": "ותפש",
+      "gloss": "Ary ilay mitana"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "ny tsipika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "hijanona"
+    },
+    {
+      "surface": "וקל",
+      "gloss": "ary ny maingana"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "tongotra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "hiala"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ary ny mpitaingina"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "soavaly"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "hamonjy"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ny ainy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:10:29.681810929Z",
+  "model": "glm-5.3"
+}

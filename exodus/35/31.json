@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Ary nameno ⟨את⟩ azy fanahy avy amin'i Elohim izy — amin'ny fahendrena, amin'ny fahalalana lalina, ary amin'ny fahalalana, ary amin'ny asa rehetra.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Ary nameno"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (Betsalel)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "amin'ny fahendrena"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "amin'ny fahalalana lalina"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "amin'ny fahalalana"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "asa rehetra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:09:28.181002719Z",
+  "model": "glm-5.3"
+}

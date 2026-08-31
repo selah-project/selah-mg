@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Ary izy no haka ⟨את⟩ ny volamena sy ⟨את⟩ ny manga sy ⟨את⟩ ny volom-paritra sy ⟨את⟩ ny lamba volom-menarana ary ⟨את⟩ ny rongony matsyaka.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Ary izy"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "no haka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny volamena"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ny volamena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny manga"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "ny manga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny volom-paritra"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "ny volom-paritra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny lamba volom-menarana"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "lamba volom-menarana"
+    },
+    {
+      "surface": "השני",
+      "gloss": "volom-menarana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny rongony matsyaka"
+    },
+    {
+      "surface": "השש",
+      "gloss": "ny rongony matsyaka"
+    }
+  ],
+  "timestamp": "2026-08-31T13:05:09.059736470Z",
+  "model": "glm-5.3"
+}

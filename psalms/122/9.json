@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 122,
+  "translation": "Noho ny tranon'i Yahveh Elohim antsika no hitady soa ho anao.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "noho"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim antsika"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "hitady"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "soa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:01.109019472Z",
+  "model": "glm-5.3"
+}

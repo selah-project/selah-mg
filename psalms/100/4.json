@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 100,
+  "translation": "Midira amin'ny vavahadiny amin'ny fankasitrahana, sy amin'ny kianjany amin'ny fiderana; miderà azy, manaova soa ny anarany.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Midira"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "amin'ny vavahadiny"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "amin'ny fankasitrahana"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "amin'ny kianjany"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "amin'ny fiderana"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "miderà"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "manaova soa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ny anarany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:33.215065832Z",
+  "model": "glm-5.3"
+}

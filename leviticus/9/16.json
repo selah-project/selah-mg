@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary nanatitra ⟨את⟩ ny fanatitra dorana izy ka nataony araka ny lalàna.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Ary nanatitra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanatitra dorana"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ny fanatitra dorana"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "araka ny lalàna"
+    }
+  ],
+  "timestamp": "2026-08-31T13:13:37.507508835Z",
+  "model": "glm-5.3"
+}

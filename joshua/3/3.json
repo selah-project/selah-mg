@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 3:3",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Dia nandidy ⟨את⟩ ny olona izy ka nanao hoe: Rehefa mahita ⟨את⟩ ny fiaran'ny fanekenan'i Yahveh Elohinareo ianareo, sy ny mpisorona Levita mitondra ⟨את⟩ azy, dia miaingà avy amin'ny tondrozareo, ary mandehanà araka izy.",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "nandidy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny olona"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "כראותכם",
+      "gloss": "Rehefa mahita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiaran'ny fanekena"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fiaran'ny"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "fanekenan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "sy ny mpisorona"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levita"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "mitondra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "zy (ny fiara)"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ianareo"
+    },
+    {
+      "surface": "תסעו",
+      "gloss": "miaingà"
+    },
+    {
+      "surface": "ממקומכם",
+      "gloss": "avy amin'ny tondrozareo"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "mandehanà"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "araka izy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:54:56.992099040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 57,
+  "translation": "Handefatra avy any an-danitra Izy ka hamonjy ahy; ⟨Izy⟩ hanameloka ilay manafintohina ahy, ilay mitsofoka amiko. Selah. Elohim handefa ny hesed sy ny fahamarinany.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "handefatra"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "avy any an-danitra"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "ka hamonjy ahy"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "hanameloka"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "ilay mitsofoka amiko"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "handefa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ny hesed"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "sy ny fahamarinany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:13.488293717Z",
+  "model": "glm-5.3"
+}

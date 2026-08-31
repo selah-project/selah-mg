@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary ny zanany lahimatoa Abdonona, sy Tsur, sy Kish, sy Baala, sy Nadaba.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "Ary ny zanany"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "lahimatoa"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdonona"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "sy Tsur"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "sy Kish"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "sy Baala"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "sy Nadaba"
+    }
+  ],
+  "timestamp": "2026-08-31T17:36:09.042186948Z",
+  "model": "glm-5.3"
+}

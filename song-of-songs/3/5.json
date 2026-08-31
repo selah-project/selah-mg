@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Nianiana taminareo aho, ry zanakavavin'i Yeroshalayim, amin'ny gazela sy amin'ny diera any an-tsaha: aza mifoha na manetsa ⟨את⟩ ny fitiavana, mandra-pahatongan'ny fotoana tiany.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Nianiana taminareo aho"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ taminareo",
+      "marks": "zanakavavin'i Yeroshalayim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "zanakavavy"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "amin'ny gazela"
+    },
+    {
+      "surface": "או",
+      "gloss": "sy"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "amin'ny diera"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "any an-tsaha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "mifoha"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "manetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitiavana"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "ny fitiavana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-pahatongan'ny"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "fotoana tiany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:10:40.911519274Z",
+  "model": "glm-5.3"
+}

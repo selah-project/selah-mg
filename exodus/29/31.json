@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary ⟨את⟩ ny jidron'ny fanokafana dia halainao, ary hatotozinao ⟨את⟩ ny nofony ao amin'ny toerana masina.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ary ⟨את⟩"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ny jidro"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "fanokafana"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "halainao"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "ary hatotozinao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny nofony"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ny nofony"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "ao amin'ny toerana"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "masina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:05:31.055534664Z",
+  "model": "glm-5.3"
+}

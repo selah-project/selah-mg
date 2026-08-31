@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Mifalia, mifalia ry olonaiko, hoy Elohinareo.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "Mifalia"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "mifalia"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ry olonaiko"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:15:12.063533517Z",
+  "model": "glm-5.3"
+}

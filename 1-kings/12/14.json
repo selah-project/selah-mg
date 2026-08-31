@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary niteny tamin'izy ireo araka ny sain'ny tanora, ka nanao hoe: Raiko nampitombo mavesatra ⟨את⟩ ny zi-draretsy, ary izaho hanampy amin'ny zy-draretsy; raiko nananatra ⟨את⟩ anareo tamin'ny saistry, ary izaho hananatra ⟨את⟩ anareo amin'ny maifinky.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ary niteny"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "tamin'izy ireo"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "araka ny sain'"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ny tanora"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Raiko"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "nampitombo mavesatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zi-draretsy"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "ny zi-draretsy"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ary izaho"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "hanampy"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "zy-draretsy"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Raiko"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "nananatra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo",
+      "marks": "anareo"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "tamin'ny saistry"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ary izaho"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "hananatra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo",
+      "marks": "anareo"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "amin'ny maifinky"
+    }
+  ],
+  "timestamp": "2026-08-31T14:45:03.379590380Z",
+  "model": "glm-5.3"
+}

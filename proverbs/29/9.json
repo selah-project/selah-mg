@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Olona hendry miady fitsarana ⟨את⟩ olona adala; ka tezitra izy na mihomehy, fa tsy misy fiatoana.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "hendry"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "miady fitsarana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olona adala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "adala"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "tezitra"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "na mihomehy"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "fa tsy misy"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "fiatoana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:56:58.635621253Z",
+  "model": "glm-5.3"
+}

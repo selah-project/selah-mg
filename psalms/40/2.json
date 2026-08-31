@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Niandry tokoa aho tamin'i Yahveh, ary niondana tamiko Izy ka nihaino ny fiantsoako.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "toko"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "niandry aho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "ary niondana"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ka nihaino"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ny fiantsoako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:30.990759498Z",
+  "model": "glm-5.3"
+}

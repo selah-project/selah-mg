@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ny mpivahiny sy ny mpikarama tsy hihinana aminy.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "mpivahiny"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "sy ny mpikarama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hihinana"
+    },
+    {
+      "surface": "בו",
+      "gloss": "aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:59:13.382228712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Tsy nesorina ny andrian-kitampony antoandro, na ny andrian'afo amin'ny alina, teo alohan'ny vahoaka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "nesorina"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "ny andrian-"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "kitampony"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "antoandro"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "na ny andrian-"
+    },
+    {
+      "surface": "האש",
+      "gloss": "afo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "amin'ny alina"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo alohan'"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    }
+  ],
+  "timestamp": "2026-08-31T12:59:00.091785755Z",
+  "model": "glm-5.3"
+}

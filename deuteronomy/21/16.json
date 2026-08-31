@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 21:16",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "dia amin'ny andro ilazany ho lova amin'ny zanany ⟨את⟩ izay ananany, tsy azony atao ny manao lahimatoa ⟨את⟩ zanaky ny tiana eo anoloan'ny zanaky ny halana, ilay lahimatoa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "הנחילו",
+      "gloss": "ilazany ho lova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay ananany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "misy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "azony atao"
+    },
+    {
+      "surface": "לבכר",
+      "gloss": "manao lahimatoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zanaky ny tiana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "האהובה",
+      "gloss": "ny tiana"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo anoloan'ny"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anoloana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaky"
+    },
+    {
+      "surface": "השנואה",
+      "gloss": "ny halana"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "ilay lahimatoa"
+    }
+  ],
+  "timestamp": "2026-08-31T13:48:06.784526725Z",
+  "model": "glm-5.3"
+}

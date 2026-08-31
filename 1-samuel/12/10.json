@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Dia nitaraina tamin'i Yahveh izy ireo ka nanao hoe: Efa nanota izahay, fa efa nahafoy ⟨את⟩ Yahveh izahay ka nanompo ⟨את⟩ ny Baalima sy ⟨את⟩ ny Ashtarota; ankehitriny kosa, vonjeo izahay amin'ny tanan'ny fahavalonay, mba hanompoana anao.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Dia nitaraina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "Efa nanota izahay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "efa nahafoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "ka nanompo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Baalima"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "ny Baalima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny Ashtarota"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "ny Ashtarota"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ankehitriny kosa"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "vonjeo izahay"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "amin'ny tanan'ny"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "fahavalonay"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "mba hanompoana anao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:17:25.750946808Z",
+  "model": "glm-5.3"
+}

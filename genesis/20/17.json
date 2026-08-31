@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Nivavaka tamin'i Elohim Avrahama, dia nitsabo Elohim ⟨את⟩ an'i Avimeleka sy ⟨את⟩ vadiny sy ny mpanompany vavy ka niteraka izy.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "Nivavaka"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "dia nitsabo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Avimeleka"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "an'i Avimeleka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "vadiny"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vadiny"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "sy ny mpanompany vavy"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "ka niteraka izy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:40:15.968853011Z",
+  "model": "glm-5.3"
+}

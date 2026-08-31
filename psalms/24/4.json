@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Izay madio tanana sy madio fo, izay tsy nanandra-tra ny fanahiny amin'ny zava-dratsy, ary tsy nianiana tamin'ny fitaka.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "madio"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "tanana"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "sy madio"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nanandra-tra"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "amin'ny zava-dratsy"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny fanahiny"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "nianiana"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "tamin'ny fitaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:07.611358053Z",
+  "model": "glm-5.3"
+}

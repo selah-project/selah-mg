@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary ny Levita sy Benjamina tsy nokainany tamin'izy ireo, fa loa teo amin'i Joaba ⟨את⟩ ny tenin'ny mpanjaka.",
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "Ary ny Levita"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "sy Benjamina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "nokainany"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "tamin'izy ireo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "loa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "teny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joaba"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaba"
+    }
+  ],
+  "timestamp": "2026-08-31T17:39:22.274341633Z",
+  "model": "glm-5.3"
+}

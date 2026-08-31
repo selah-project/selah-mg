@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Fa Yahveh nahita ⟨את⟩ ny fahorian'i Isiraely, dia mangidy indrindra; ka tsy nisy voatetra, ary tsy nisy navela, ary tsy nisy mpamonjy ho an'i Isiraely.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nahita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahorian'i Isiraely"
+    },
+    {
+      "surface": "עני",
+      "gloss": "fahorian'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "mangidy"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "indrindra"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "ka tsy nisy"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "voatetra"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "tsy nisy"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "navela"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ary tsy nisy"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mpamonjy"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ho an'i Isiraely"
+    }
+  ],
+  "timestamp": "2026-08-31T14:56:42.296933142Z",
+  "model": "glm-5.3"
+}

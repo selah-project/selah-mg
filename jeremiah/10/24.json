@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 10:24",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Faoso ahoy, ry Yahveh, fa amin'ny fitsara ihany; fa amin'ny fahatezeranao kosa — aza; fandrao hampihena Hianao ahy.",
+  "tokens": [
+    {
+      "surface": "יסרני",
+      "gloss": "Faoso ahoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אך",
+      "gloss": "fa ... ihany"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "amin'ny fitsara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "amin'ny fahatezeranao"
+    },
+    {
+      "surface": "פן",
+      "gloss": "fandrao"
+    },
+    {
+      "surface": "תמעטני",
+      "gloss": "hampihena Hianao ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:26:57.884024735Z",
+  "model": "glm-5.3"
+}

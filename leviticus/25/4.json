@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Fa amin'ny taona fahafito dia sabbath, fitsaharana feno, ho an'ny tany — sabbath ho an'i Yahveh; ny sahanao tsy hofafaina sy ny tanimboalobokao tsy hotezaina.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Fa amin'ny taona"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "fahafito"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sabbath"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "fitsaharana feno"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dia ho"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ho an'ny tany"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sabbath"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ny sahanao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "hofafaina"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "sy ny tanimboalobokao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "hotezaina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:21:37.017253580Z",
+  "model": "glm-5.3"
+}

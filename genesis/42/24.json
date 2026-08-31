@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 42:24",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Ary nivadika niala tamin'izy ireo izy ka nitomany; ary niverina ho amin'izy ireo izy, ka niresaka tamin'izy ireo; ary naka tamin'izy ireo ⟨את⟩ Shimeona izy, ka namatotra ⟨את⟩ azy teo imason'izy ireo.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Ary nivadika niala"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "tamin'izy ireo"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "ka nitomany"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ary niverina ho amin'"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "izy ireo"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ka niresaka tamin'"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "izy ireo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ary naka"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ tamin'izy ireo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shimeona"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimeona"
+    },
+    {
+      "surface": "ויאסר",
+      "gloss": "ka namatotra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "teo imason'izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:51:35.507988817Z",
+  "model": "glm-5.3"
+}

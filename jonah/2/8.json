@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Rehefa namaizina tao amiko ny aiko, dia nahatsiaro an'i ⟨את⟩ Yahveh aho; ary tonga nanatona anao ny fivavako, ho any amin'ny tempolinao masina.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "rehefa namaizina"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tao amiko"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "nahatsiaro aho"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ary tonga"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nanatona anao"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ny fivavako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tempoly"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "masina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:13:51.211481278Z",
+  "model": "glm-5.3"
+}

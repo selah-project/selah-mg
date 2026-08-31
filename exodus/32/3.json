@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ary nesorin'ny vahoaka rehetra ⟨את⟩ ny peratra volamena izay tamin'ny sofiny, ka nentiny tany amin'i Aharon.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "Ary nesorin'ny tenany"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peratra volamena"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "ny peratra"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "tamin'ny sofiny"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ka nentiny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tany amin'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-31T13:07:55.400098101Z",
+  "model": "glm-5.3"
+}

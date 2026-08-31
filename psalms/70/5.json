@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 70,
+  "translation": "Hifaly sy hiravoravo aminao izay rehetra mitady anao, ary hanao hoe mandrakizay: aoka ho lehibe Elohim, izay tia ny famonjena ⟨nao⟩.",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "hifaly"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "sy hiravoravo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "mitady anao"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ary hanao hoe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "aoka ho lehibe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "izay tia"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "ny famonjena anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:46.237880015Z",
+  "model": "glm-5.3"
+}

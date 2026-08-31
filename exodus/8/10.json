@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nangonina ⟨את⟩ izy ho fandrambana aman-dandramba, ary notsimoina ny tany.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "Ary nangonina"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izy (ny saobakaka maty)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "ho fandrambana"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "aman-dandramba"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "ary notsimoina"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:42.430684715Z",
+  "model": "glm-5.3"
+}

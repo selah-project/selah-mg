@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Eo anamben'ny fanaivan-java-madio no handaminany ny jiro ⟨את⟩, eo anoloan'i Yahveh foana.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Eo anamben'ny"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "fanaivan-zava-"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "madio"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "handaminany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny jiro"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "jiro"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anoloan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "foana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:20:38.896781830Z",
+  "model": "glm-5.3"
+}

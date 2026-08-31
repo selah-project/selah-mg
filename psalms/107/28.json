@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 107,
+  "translation": "Dia nikiakiaka tamin'i Yahveh izy tamin'ny fahoriany, ary nentiny nivoaka tamin'ny fahoriany izy.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "nikiakiaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "tamin'ny fahoriana"
+    },
+    {
+      "surface": "להם",
+      "gloss": "(ny azy)"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "tamin'ny fahoriany (mamafa)"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "nentiny nivoaka izy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:12.547413479Z",
+  "model": "glm-5.3"
+}

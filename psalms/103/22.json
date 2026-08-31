@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 103,
+  "translation": "Misaora an'i Yahveh asa rehetra ataony, any amin'ny toerana rehetra ety fanjakany; misaora ⟨את⟩ Yahveh, ry fanahiko.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Misaora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "asa ataony"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "any amin'ny rehetra"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "toerana"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "fanjakany"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "misaora"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ry fanahiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:16.128410712Z",
+  "model": "glm-5.3"
+}

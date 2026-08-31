@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 16:1",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary Yahveh niteny tamin'i Moshe taorian'ny nahafatesan'i Aharon roa lahy zanaka, tamin'ny nanatonany teo anatrehan'i Yahveh ka nahafatesany.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ary niteny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "taorian'ny"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nahafatesan'i"
+    },
+    {
+      "surface": "שני",
+      "gloss": "roa lahy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בקרבתם",
+      "gloss": "tamin'ny nanatonany"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anatrehan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "ka nahafatesany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:17:24.961011163Z",
+  "model": "glm-5.3"
+}

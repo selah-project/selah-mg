@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Voamarina amin'ny fitsarana natao Yahveh; tafangatra amin'ny asan'ny tanany ny ratsy fanahy. Higayona. Selah.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "voamarina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "amin'ny fitsarana"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "natao"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "amin'ny asa"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "ny tanany"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "tafangatra"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higayona"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:44.069502613Z",
+  "model": "glm-5.3"
+}

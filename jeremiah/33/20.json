@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Izao no lazain'i Yahveh: Raha mifaty ianareo ⟨את⟩ ny fanekeniako amin'ny andro sy ⟨את⟩ ny fanekeniako amin'ny alina, ka tsy hisy intsony andro sy alina amin'ny fotoanany,",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Izao"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "lazain'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "mifaty ianareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanekeniako amin'ny andro"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ny fanekeniako"
+    },
+    {
+      "surface": "היום",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny fanekeniako amin'ny alina"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ny fanekeniako"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "amin'ny alina"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "ka tsy hisy intsony"
+    },
+    {
+      "surface": "היות",
+      "gloss": "hisy"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "andro"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "sy alina"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "amin'ny fotoanany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:37:06.528651844Z",
+  "model": "glm-5.3"
+}

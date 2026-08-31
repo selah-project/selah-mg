@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary hihinana antitra be taona ianareo, ary ny antitra haloan'ny vaovao ho entina mivoaka:",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "hihinana ianareo"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "antitra"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "be taona"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "ny antitra"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nohon'ny"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "vaovao"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "entina mivoaka"
+    }
+  ],
+  "timestamp": "2026-08-31T13:21:30.580130203Z",
+  "model": "glm-5.3"
+}

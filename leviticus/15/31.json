@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 15:31",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary halavanareo ⟨את⟩ ny Zanak'Isiraely amin'ny fahadelovany, mba tsy hahafaty azy amin'ny fahadelovany, amin'ny fandotoany ⟨את⟩ ny Lalovako izay eo afovoany.",
+  "tokens": [
+    {
+      "surface": "והזרתם",
+      "gloss": "halavanareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Zanak'Isiraely"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Zanak'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "מטמאתם",
+      "gloss": "amin'ny fahadelovany"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mba tsy"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "hahafaty azy"
+    },
+    {
+      "surface": "בטמאתם",
+      "gloss": "amin'ny fahadelovany"
+    },
+    {
+      "surface": "בטמאם",
+      "gloss": "amin'ny fandotoany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Lalovako"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "Lalovako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "eo afovoany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:18:16.339136930Z",
+  "model": "glm-5.3"
+}

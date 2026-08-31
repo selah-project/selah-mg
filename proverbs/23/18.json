@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Fa misy farany ⟨ho anao⟩, ary ny fanantenanao tsy ho voapaka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨marihina⟩"
+    },
+    {
+      "surface": "יש",
+      "gloss": "misy"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "farany"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "ary ny fanantenanao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "ho voapaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:56:02.282855756Z",
+  "model": "glm-5.3"
+}

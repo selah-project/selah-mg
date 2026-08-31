@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 51:1",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "Mihainoa ahy ianareo izay manaraka ny fahamarinana, izay mitady an'i Yahveh: Jerey ny vatolampy natao hadio anareo, ary ny lavaka fantsakana no nesianareo.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mihainoa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "izay manaraka"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ny fahamarinana"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "izay mitady"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "Jerey"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ny"
+    },
+    {
+      "surface": "צור",
+      "gloss": "vatolampy"
+    },
+    {
+      "surface": "חצבתם",
+      "gloss": "natao hadio anareo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary"
+    },
+    {
+      "surface": "מקבת",
+      "gloss": "ny lavaka"
+    },
+    {
+      "surface": "בור",
+      "gloss": "fantsakana"
+    },
+    {
+      "surface": "נקרתם",
+      "gloss": "no nesianareo"
+    }
+  ],
+  "timestamp": "2026-08-31T19:13:04.212452157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 124,
+  "translation": "Dia nandalo ⟨את⟩ tamin'ny ainay ny rano miavonavona.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nandalo"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ainay"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ny rano"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "miavonavona"
+    }
+  ],
+  "timestamp": "2026-08-31T18:36:18.355825666Z",
+  "model": "glm-5.3"
+}

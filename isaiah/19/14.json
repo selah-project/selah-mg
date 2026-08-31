@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Yahveh nafangaro tao anatiny fanahy fihembona, ka nampivily an'i Mitsrayim ⟨את⟩ amin'ny asa rehetra izy, toy ny mamo mivezivezy eo anivon'ny rivom-ponony.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "nafangaro"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "tao anatiny"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "fihembona"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "ka nampivily"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "asa"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "toy ny fividianan'ny"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "mamo"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "eo anivon'ny rivom-ponony"
+    }
+  ],
+  "timestamp": "2026-08-31T15:07:42.073600214Z",
+  "model": "glm-5.3"
+}

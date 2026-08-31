@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 29:1",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary ity no teny izay hataonao azy ireo mba hanamasinana azy ⟨את⟩ ho mpisoratra ho Ahy: raiso omby iray, zanak'omby, sy ramo roa tsy misy tsiny.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Ary ity"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hataonao"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy ireo"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "mba hanamasinana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ireo"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ho mpisoratra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho Ahy"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "raiso"
+    },
+    {
+      "surface": "פר",
+      "gloss": "omby"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "'omby"
+    },
+    {
+      "surface": "ואילם",
+      "gloss": "sy ramo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "roa"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "tsy misy tsiny"
+    }
+  ],
+  "timestamp": "2026-08-31T18:28:39.704935081Z",
+  "model": "glm-5.3"
+}

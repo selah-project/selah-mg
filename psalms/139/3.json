@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 139,
+  "translation": "Ny lalako sy ny fatorianao ⟨ahy⟩ no aviavy amin'ny zavona; mahafantatra ny lalako rehetra ianao.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "lalako"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "sy ny fatorianao ⟨aho⟩"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "aviavy amin'ny zavona"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "lalako rehetra"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "lalako"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "mahafantatra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:48.165712803Z",
+  "model": "glm-5.3"
+}

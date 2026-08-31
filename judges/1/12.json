@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary Kaleba nanao hoe: Izay hamely ⟨את⟩ Kiryat-Sefera ka hahazo azy, dia homeko ho vadiny i Aksa zanako vavy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Izay"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "hamely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Sefera"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefera"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "ka hahazo azy"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "dia homeko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho vadiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aksa zanako vavy"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "zanako vavy"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ho vady"
+    }
+  ],
+  "timestamp": "2026-08-31T14:04:02.078863966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ary hanavakavaka azy ny mpisorona ⟨את⟩, na tsara na ratsy; araka ny tombontsoa ataonao, ry mpisorona, dia izay no ho izy.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "Ary hanavakavaka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "בין",
+      "gloss": "na"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "araka ny tombontsoa ataonao"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ry mpisorona"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dia izay"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "no ho izy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:24:06.634374949Z",
+  "model": "glm-5.3"
+}

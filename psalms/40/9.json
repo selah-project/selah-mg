@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Hanao ny sitrakao, Elohim ahiko, no hafinaritra ahy; ary ny lalànao ⟨dia⟩ ao anivon'ny kiboko.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "ny sitrakao"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ahiko"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "hafinaritra ahy"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ary ny lalànao"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ao anivon'ny"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "kiboko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:19.678474175Z",
+  "model": "glm-5.3"
+}

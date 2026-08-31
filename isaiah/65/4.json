@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 65,
+  "translation": "Izay mipetraka amin'ny fasana, ary mitoetra amin'ny toerana voahidy no mandry; izay mihinana henan-kisoa, ary lera maimbo no ao anaty vilany.",
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "Izay mipetraka"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "amin'ny fasana"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "ary amin'ny toerana voahidy"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "no mandry"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "izay mihinana"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "hena"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "kisoa"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "lera"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "maimbo"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "ao anaty vilany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:23:01.558216939Z",
+  "model": "glm-5.3"
+}

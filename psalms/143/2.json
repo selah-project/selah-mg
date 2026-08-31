@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 143,
+  "translation": "Ary aza miditra amin'ny fitsarana ⟨את⟩ ny mpanomponao, fa tsy ho marina eo anatrehanao izay velona rehetra.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ary aza"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "miditra"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "amin'ny fitsarana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanomponao"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ny mpanomponao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "ho marina"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "eo anatrehanao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "חי",
+      "gloss": "izay velona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:54.277328684Z",
+  "model": "glm-5.3"
+}

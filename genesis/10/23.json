@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 10:23",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary ny zanak'i Arama dia Utsy sy Hola sy Getera ary Masha.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ary ny zanak'i"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Utsy"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "sy Hola"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "sy Getera"
+    },
+    {
+      "surface": "ומש",
+      "gloss": "ary Masha"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:10.946347210Z",
+  "model": "glm-5.3"
+}

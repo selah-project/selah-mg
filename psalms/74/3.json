@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 74,
+  "translation": "Afoso ny dinganao mankany amin'ny faharavan'ny mandrakizay: ny zava-dratsy rehetra nataon'ny fahavalo tao amin'ny fitoerana masina.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Afoso"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "ny dinganao"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "mankany amin'ny faharavan'ny"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "zava-dratsy"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fahavalo"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "tao amin'ny fitoerana masina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:18.329482027Z",
+  "model": "glm-5.3"
+}

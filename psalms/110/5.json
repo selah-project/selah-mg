@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 110,
+  "translation": "Adonay eo amin'ny tananao ankavanana: manorotoro mpanjaka amin'ny andro fahatezerany Izy.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tananao ankavanana"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "manorotoro"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "fahatezerany"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mpanjaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:34.685831343Z",
+  "model": "glm-5.3"
+}

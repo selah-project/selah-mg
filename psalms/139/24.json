@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 139,
+  "translation": "Ka jereo raha misy lalana maharary ⟨faharatsiana⟩ ato amiko, ary tondrio aho amin'ny lalana fara mandimby.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Ka jereo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "maharary ⟨faharatsiana⟩"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ato amiko"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "ary tondrio aho"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "amin'ny lalana"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "fara mandimby"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:38.932014242Z",
+  "model": "glm-5.3"
+}

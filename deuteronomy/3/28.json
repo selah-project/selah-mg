@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 3:28",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Fa mandràny ⟨את⟩ an'i Yehoshoa, amafy azy sy mampahery azy; fa izy no hiampita eo alohan'ity firenena ity, ary izy no hampandova azy ⟨את⟩ ⟨את⟩ ny tany izay hitanao.",
+  "tokens": [
+    {
+      "surface": "וצו",
+      "gloss": "mandràny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yehoshoa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "an'i Yehoshoa"
+    },
+    {
+      "surface": "וחזקהו",
+      "gloss": "amafy azy"
+    },
+    {
+      "surface": "ואמצהו",
+      "gloss": "sy mampahery azy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "hiampita"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo alohan'"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ity firenena"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ary izy"
+    },
+    {
+      "surface": "ינחיל",
+      "gloss": "hampandova"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ity firenena ity)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "hitanao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:40:07.545678424Z",
+  "model": "glm-5.3"
+}

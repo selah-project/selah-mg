@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ny lovantsika dia voaodina ho an'ny vahiny, ny tranonkalo ho an'ny firenena vahiny.",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "lovantsika"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "voaodina"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "ho an'ny vahiny"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "tranonkalo"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "ho an'ny firenena vahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T17:14:36.837789632Z",
+  "model": "glm-5.3"
+}

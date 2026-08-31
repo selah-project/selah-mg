@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 11:7",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary ny oloko anelanelany amin'ny fiverenako; na dia antsoina ho any amin'ny Avo aza, tsy misy miantoatra akory.",
+  "tokens": [
+    {
+      "surface": "ועמי",
+      "gloss": "ary ny oloko"
+    },
+    {
+      "surface": "תלואאים",
+      "gloss": "anelanelany"
+    },
+    {
+      "surface": "למשובתי",
+      "gloss": "amin'ny fiverenako"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na dia ... ho any amin'ny"
+    },
+    {
+      "surface": "על",
+      "gloss": "ny Avo"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "antsoina"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "⟨miaraka⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ירומם",
+      "gloss": "miantoatra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:09:30.733181674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary ⟨את⟩ izay mihemotra manalavitra an'i Yahveh, sy izay tsy nitady ⟨את⟩ an'i Yahveh ary tsy nanao fanontaniana taminy",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izay mihemotra"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "izay mihemotra"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "manalavitra an'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "sy izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "nitady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "nanao fanontaniana taminy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:18:02.994833287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 4:18",
+  "book": "ruth",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary ireto ny taranak'i Perets: Perets niteraka ⟨את⟩ an'i Hetserona.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ary ireto"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "ny taranaka"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "an'i Perets"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Hetserona"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Hetserona"
+    }
+  ],
+  "timestamp": "2026-08-31T17:11:39.331935499Z",
+  "model": "glm-5.3"
+}

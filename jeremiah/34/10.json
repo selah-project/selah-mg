@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 34:10",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ary nihaino ny mpanapaka rehetra sy ny vahoaka rehetra izay niditra tao amin'ny fanekena hitondra olona tsirairay ⟨את⟩ mpanompony sy olona tsirairay ⟨את⟩ mpanampy vavy ho afaka, mba tsy hanompoana azy intsony; dia nihaino izy ka nanafaka.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "mpanapaka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ny ... rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "באו",
+      "gloss": "niditra"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "tao amin'ny fanekena"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "hitondra (hanafaka)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona tsirairay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpanompony"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mpanompony"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "sy olona tsirairay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpanampy vavy"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "mpanampy vavy"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "afaka"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "mba tsy"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "hanompoana"
+    },
+    {
+      "surface": "בם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "nihaino (niaiky)"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "nanafaka"
+    }
+  ],
+  "timestamp": "2026-08-31T15:37:30.683227176Z",
+  "model": "glm-5.3"
+}

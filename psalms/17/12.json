@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ny endriny dia tahaka ny liona mitsiririaka hanimba; ary tahaka ny zanak'iona mipetraka miafina.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "ny endriny"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "tahaka ny liona"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "mitsiririaka"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "hanimba"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "ary tahaka ny zanak'iona"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "mipetraka"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "miafina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:59.675304317Z",
+  "model": "glm-5.3"
+}

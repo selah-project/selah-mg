@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 102,
+  "translation": "Aza manafenanao ny tavanao amiko amin'ny andron'ny fahoriany; miondrena mankeo ahy ny sofinao; amin'ny andro iantorako, faingana valio aho.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "manafenanao"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ny tavanao"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'ny andron'ny"
+    },
+    {
+      "surface": "צר",
+      "gloss": "fahoriany"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ami(n)ko"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "miondrena"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mankeo"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ny sofinao"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "iantorako"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "faingana"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "valio aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:45.056907655Z",
+  "model": "glm-5.3"
+}

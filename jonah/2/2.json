@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary Yonah nivavaka tamin'i Yahveh, ny Elohiny, avy tao an-kibon'ilay hazandrano.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "nivavaka"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ny Elohiny"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "avy tao an-kibon'"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "ilay hazandrano"
+    }
+  ],
+  "timestamp": "2026-08-31T16:13:54.096305333Z",
+  "model": "glm-5.3"
+}

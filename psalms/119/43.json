@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Aza esorina tanteraka amin'ny vavako ny teny marina; fa ny fitsaranao no andrasako.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "esorina"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "amin'ny vavako"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "marina"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tanteraka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tanteraka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "ny fitsaranao"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "andrasako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:39.303934021Z",
+  "model": "glm-5.3"
+}

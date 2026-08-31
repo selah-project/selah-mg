@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary Tsipporah naka vato sara ka nanapaka ⟨את⟩ ny hoditry ny zanany, ka nanendra ny hoditra tamin'ny tongony, ary nanao hoe: Fa vinanto-dra ianao ho ahy!",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Ary ... naka"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsipporah"
+    },
+    {
+      "surface": "צר",
+      "gloss": "vato sara"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "ka nanapaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny hoditry ny zanany"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "hoditra"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "ka nanendra"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "tamin'ny tongony"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ary nanao hoe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "vinanto"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "-dra"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:56:18.091425431Z",
+  "model": "glm-5.3"
+}

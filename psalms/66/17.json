@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 66,
+  "translation": "Aminy ny vavako niantso, ary ⟨⟨ny fiderana⟩⟩ teo ambany ny lelako.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "Aminy"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ny vavako"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "ary ny fiderana"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "teo ambany"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ny lelako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:06.312534207Z",
+  "model": "glm-5.3"
+}

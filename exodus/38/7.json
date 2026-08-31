@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 38:7",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Ary nampidiriny tao amin'ny peratra ⟨את⟩ ny tsorakazo, eo amin'ny ilany ilan'ny alitara, hitondrana azy amin'izy ireo; alitara foana tamin'ny tara-dahatra no nataony ⟨את⟩ izy.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "nampidiriny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tsorakazo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ny tsorakazo"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "tao amin'ny peratra"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "ilan'ny"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "hitondrana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "amin'izy ireo"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "foana"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "tamin'ny tara-dahatra"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "izy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:09:02.987734052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 96,
+  "translation": "Hiady hafaliana ny saha mbamin'izay rehetra ao aminy; dia hihira faly ny hazo rehetra ao an'ala.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "Hiady hafaliana"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ny saha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mbamin'izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ao aminy"
+    },
+    {
+      "surface": "אז",
+      "gloss": "dia"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "hihira faly"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ny hazo"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ao an'ala"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:12.167724387Z",
+  "model": "glm-5.3"
+}

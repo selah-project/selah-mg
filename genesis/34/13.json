@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ka namaly tamin'ny fitaka ny zanak'i Yaakov ⟨את⟩ Shekema sy ⟨את⟩ Chamora rainy, ka niresaka, satria efa nandoto ⟨את⟩ an'i Dina rahavaviny izy.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "ka namaly"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekema"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Chamora"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamora"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rainy"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "tamin'ny fitaka"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ka niresaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "satria"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nandoto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "rahavaviny"
+    }
+  ],
+  "timestamp": "2026-08-31T12:47:23.567637658Z",
+  "model": "glm-5.3"
+}

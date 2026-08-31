@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Dia nandeha Amasa hampiantso ⟨את⟩ Joda, fa tara izy tamin'ny fotoana voafetra izay noraiketiny.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Dia nandeha"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "hampiantso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Joda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "fa tara izy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "fotoana voafetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "noraiketiny"
+    }
+  ],
+  "timestamp": "2026-08-31T18:03:17.316511166Z",
+  "model": "glm-5.3"
+}

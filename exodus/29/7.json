@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary haka ⟨את⟩ ny diloilo fanosana ianao, ka handatsaka eo ambony ny lohany, ary hanosy azy.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Ary haka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny diloilo fanosana"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ny diloilo"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "fanosana"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "ka handatsaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ny lohany"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ary hanosy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (Aharon)"
+    }
+  ],
+  "timestamp": "2026-08-31T13:05:44.850136540Z",
+  "model": "glm-5.3"
+}

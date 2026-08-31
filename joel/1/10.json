@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Voatatatra ny saha, miadam-adama ny tany; fa voatatatra ny vary, maina ny divay vaovao, malemy ny diloilo.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "voatatatra"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ny saha"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "miadam-adama"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "voatatatra"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "ny vary"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "maina"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "ny divay vaovao"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "malemy"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ny diloilo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:10:27.639558628Z",
+  "model": "glm-5.3"
+}

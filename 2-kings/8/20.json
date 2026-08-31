@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Tamin'ny androny dia niodina tetsy ambany tanan'i Yehudah i Edoma, dia nampandroso mpanjaka hitondra azy.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "tamin'ny androny"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "niodina"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "i Edoma"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "tetsy ambany"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tanan'i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "dia nampandroso mpanjaka"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "hitondra azy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:54:43.710559271Z",
+  "model": "glm-5.3"
+}

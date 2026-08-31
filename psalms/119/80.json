@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Aoka ho tanteraka ny foko amin'ny didim-pitiavanao, mba tsy ho mena tavony aho.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "aoka ho"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tanteraka"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "amin'ny didim-pitiavanao"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ho mena tavony aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:41.518243673Z",
+  "model": "glm-5.3"
+}

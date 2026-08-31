@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Aza mandray ⟨את⟩ anaran'i Yahveh Elohim-nao ho zava-mahamenatra; fa Yahveh tsy hamela tsy voasazy izay mandray ⟨את⟩ ny anarany ho zava-mahamenatra.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "mandray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anaran'i Yahveh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "anarana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nao"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ho zava-mahamenatra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "hamela tsy voasazy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay mandray ny anarany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "mandray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anarany"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ho zava-mahamenatra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:01:14.999493616Z",
+  "model": "glm-5.3"
+}

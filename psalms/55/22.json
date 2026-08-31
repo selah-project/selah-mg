@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 55:22",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 55,
+  "translation": "Mihamora mihoatra ny tafondro ny vavany, fa ady kosa ny fony; malemy mihoatra ny menaka ny teniny, fa antsamby misokatra kosa izy.",
+  "tokens": [
+    {
+      "surface": "חלקו",
+      "gloss": "mihamora"
+    },
+    {
+      "surface": "מחמאת",
+      "gloss": "mihoatra ny tafondro"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ny vavany"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "fa ... kosa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ny fony"
+    },
+    {
+      "surface": "רכו",
+      "gloss": "malemy"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ny teniny"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "mihoatra ny menaka"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "fa izy kosa"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "antsamby misokatra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:10.099683303Z",
+  "model": "glm-5.3"
+}

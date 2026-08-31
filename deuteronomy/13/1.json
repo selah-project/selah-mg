@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "⟨את⟩ ny teny rehetra izay andidiako ⟨את⟩ anareo — izany no tehirizinao hatao; aza mampitombo aminy, ary aza manamaivana aminy.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny teny rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "mandidy"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ izany"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "tehirizinao"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hatao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "mampitombo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "manamaivana"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:45:15.436745703Z",
+  "model": "glm-5.3"
+}

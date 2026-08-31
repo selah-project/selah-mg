@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 92,
+  "translation": "Amin'ny déca-cord ⟨zehira-tady⟩ sy amin'ny nevel, amin'ny figaion miaraka amin'ny kinora.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "déca-cord ⟨zehira-tady⟩"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "sy amin'ny"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "figaion"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "miaraka amin'ny kinora"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:28.785395216Z",
+  "model": "glm-5.3"
+}

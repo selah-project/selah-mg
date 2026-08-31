@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "dia hasain'ny mpisorona hosasana ⟨את⟩ izay itoeran'ny aretina, ary hohidy indray fito andro.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "hasain'ny"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "hosasana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay itoeran'ny aretina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בו",
+      "gloss": "itoeran'ny"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "aretina"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "hohidy"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "fito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "indray"
+    }
+  ],
+  "timestamp": "2026-08-31T13:15:24.051188066Z",
+  "model": "glm-5.3"
+}

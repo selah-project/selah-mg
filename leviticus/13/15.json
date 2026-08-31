@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary hitan'ny mpisoro ⟨את⟩ ny nofo velona, ary hapoiziny ho tsy madio izy; ny nofo velona tsy madio izy; ramoka izany.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Ary hitan'ny"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mpisoro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny nofo velona"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nofo"
+    },
+    {
+      "surface": "החי",
+      "gloss": "velona"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "ary hapoiziny ho tsy madio izy"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nofo"
+    },
+    {
+      "surface": "החי",
+      "gloss": "velona"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "tsy madio"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ramoka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:58:04.824017865Z",
+  "model": "glm-5.3"
+}

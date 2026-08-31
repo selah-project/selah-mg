@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary nanorina ⟨את⟩ ny trano ka nahavita azy; ary nasiana rindrina ⟨את⟩ ny trano tamin'elanelam-baratra sy andalana sedera.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "nanorina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny trano"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ny trano"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "nahavita azy"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "nasiana rindrina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny trano"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ny trano"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "elanelam-baratra"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "sy andalana"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "sedera"
+    }
+  ],
+  "timestamp": "2026-08-31T18:03:20.035581198Z",
+  "model": "glm-5.3"
+}

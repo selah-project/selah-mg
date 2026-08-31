@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ry fahavalo, vita farany ny faharavana mandrakizay; ary ny tanàna noravanao, very ny fahatsiarovana azy ireo.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "ry fahavalo"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "vita farany"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ny faharavana"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "ary ny tanàna"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "noravanao"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "very"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ny fahatsiarovana azy"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:39.256446244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary ren'i Shaol sy Isiraely rehetra ⟨את⟩ ireo tenin'ilay Filistina ireo, dia talanjona izy ka natahotra mafy.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ary ren'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ... rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ireo tenin'ilay Filistina ireo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ireo tenin'i"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ilay Filistina"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "dia talanjona izy"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ka natahotra"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mafy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:20:52.388168417Z",
+  "model": "glm-5.3"
+}

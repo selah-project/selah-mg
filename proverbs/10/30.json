@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ny marina ho mandrakizay tsy ho vikitra, fa ny ratsy fanahy tsy hitoetra amin'ny tany.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "ny marina"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho mandrakizay"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ho vikitra"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "fa ny ratsy fanahy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "hitoetra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "amin'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:52:24.895702938Z",
+  "model": "glm-5.3"
+}

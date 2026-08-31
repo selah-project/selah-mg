@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Fa na ilay lehilahy mandria amiko, izay itokiako, mihinana mofo amiko, dia nanandratra ny tongony ny tamiko.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Fa na"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "mandria amiko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "itokiako"
+    },
+    {
+      "surface": "בו",
+      "gloss": "—"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mihinana"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mofo amiko"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "nanandratra"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ny tamiko"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "tongony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:10.083087815Z",
+  "model": "glm-5.3"
+}

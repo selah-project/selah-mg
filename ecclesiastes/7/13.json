@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Jereo ⟨את⟩ ny asan'i Elohim, fa iza no mahay mahitsy ⟨את⟩ izay nolalovany?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Jereo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny asan'i Elohim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "asa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "mahay"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "mahitsy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay nolalovany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "nolalovany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:13.298455058Z",
+  "model": "glm-5.3"
+}

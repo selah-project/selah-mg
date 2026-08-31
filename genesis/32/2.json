@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ary Yaakov nandeha tamin'ny lalany, ka ny malakin'i Elohim nihaona taminay.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Ary Yaakov"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "tamin'ny lalany"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "ka nihaona"
+    },
+    {
+      "surface": "בו",
+      "gloss": "taminay"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "ny malakin'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T19:02:16.312380218Z",
+  "model": "glm-5.3"
+}

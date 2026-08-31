@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 111,
+  "translation": "Fahatsiarovana natao ho an'ny zava-mahagagany; be famindram-po sy miantra Yahveh.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Fahatsiarovana"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "natao"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "ho an'ny zava-mahagagany"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "be famindram-po"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "sy miantra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:01.666753871Z",
+  "model": "glm-5.3"
+}

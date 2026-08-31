@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Ary hotehereko eo anatrehany ny fahavalo mihanona azy; ary izay mankahala azy hosimbako.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "Ary hotehereko"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "eo anatrehany"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "ny fahavalo mihanona azy"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "ary izay mankahala azy"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "hosimbako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:40.683645525Z",
+  "model": "glm-5.3"
+}

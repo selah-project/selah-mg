@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary Yahveh nidina hitsidika ⟨את⟩ ny tanàna sy ⟨את⟩ ny tilikambo izay nataon'ny zanak'olombelona.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "nidina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "hitsidika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tanàna"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ny tanàna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tilikambo"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "ny tilikambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nataon'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "olombelona"
+    }
+  ],
+  "timestamp": "2026-08-31T12:38:14.264785602Z",
+  "model": "glm-5.3"
+}

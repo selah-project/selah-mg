@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 145,
+  "translation": "Lehibe i Yahveh ary mendrika hoderaina indrindra, ary tsy misy famantaniana ny fahalehibehany.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Lehibe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ary mendrika hoderaina"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "indrindra"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "ary ny fahalehibehany"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "famantaniana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:06.797580011Z",
+  "model": "glm-5.3"
+}

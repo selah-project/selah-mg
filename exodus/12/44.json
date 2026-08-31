@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Fa ny mpanompo rehetra, izay vidin'olona tamin'ny volafotsy, rehefa voafora ianao ⟨את⟩ azy, dia mahazo mihinana aminy izy.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Fa ny ... rehetra"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mpanompo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "vidin'"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "tamin'ny volafotsy"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "rehefa voafora ianao"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ilay mpanompo)"
+    },
+    {
+      "surface": "אז",
+      "gloss": "dia"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mahazo mihinana"
+    },
+    {
+      "surface": "בו",
+      "gloss": "aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:59:11.068115245Z",
+  "model": "glm-5.3"
+}

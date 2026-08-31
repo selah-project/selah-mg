@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 17:8",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary tsy hitodika amin'ny alitara, asan'ny tànany izy, ary izay nataon'ny rantsan-tànany tsy hojerony — ny Ashera sy ny endriky ny masoandro.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ary tsy"
+    },
+    {
+      "surface": "ישעה",
+      "gloss": "hitodika hijery"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "ny alitara"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "asa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ny tànany"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ary izay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "ny rantsan-tànany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "hojerony"
+    },
+    {
+      "surface": "והאשרים",
+      "gloss": "ny Ashera"
+    },
+    {
+      "surface": "והחמנים",
+      "gloss": "sy ny endriky ny masoandro"
+    }
+  ],
+  "timestamp": "2026-08-31T15:07:20.068342938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 16:8",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary niantso an'i Avinadaba Yishai, ka nampandeha azy teo anatrehan'i Shemuela; ary hoy izy: Io ihany koa dia tsy nofidin'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ary niantso"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an'i"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadaba"
+    },
+    {
+      "surface": "ויעברהו",
+      "gloss": "ka nampandeha azy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anatrehan'i"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuela"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ary hoy izy"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ihany koa"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "io"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "nofidin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T14:20:15.491990227Z",
+  "model": "glm-5.3"
+}

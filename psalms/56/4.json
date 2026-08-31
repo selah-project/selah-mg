@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 56,
+  "translation": "Amin'ny andro matahotra aho, izaho dia matoky Anao.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "matahotra aho"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Anao"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "matoky"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:50.183091711Z",
+  "model": "glm-5.3"
+}

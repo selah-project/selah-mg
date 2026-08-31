@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary Shemuela natory mandra-pahamarain'ny maraina, dia nanokatra ⟨את⟩ ny varavaran'ny tranon'i Yahveh; ary Shemuela natahotra hampilaza ⟨את⟩ ny fahitana ho an'i Eli.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "natory"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "fahamarain'ny maraina"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "nanokatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny varavarana"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ny varavaran'ny"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "ary Shemuela"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "natahotra"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "hampilaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahitana"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "ny fahitana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho an'i"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-08-31T14:15:27.689546982Z",
+  "model": "glm-5.3"
+}

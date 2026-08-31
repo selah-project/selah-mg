@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 45,
+  "translation": "Tia fahamarinana ianao ka mankahala ny ratsy; noho izany Elohim, Elohim anao, nanosotra anao tamin'ny menaky ny fifaliana mihoatra noho ny namanao.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Tia"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "fahamarinana"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "ka mankahala"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ny ratsy"
+    },
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "nanosotra anao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anao"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "tamin'ny menaky"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ny fifaliana"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "mihoatra noho ny namanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:00.145392408Z",
+  "model": "glm-5.3"
+}

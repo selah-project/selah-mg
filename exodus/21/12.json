@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Izay mamely olona ka maty, dia faty no hamonoana azy.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "Izay mamely"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ka maty"
+    },
+    {
+      "surface": "מות",
+      "gloss": "faty"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "no hamonoana azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:02:41.367778725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 137,
+  "translation": "Hataontsika ahoana ny hihira ny hiran'i Yahveh eo amin'ny tany vahiny?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Hataontsika ahoana"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "ny hihira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny hiran'i Yahveh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "hira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "tany"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "vahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:48.031469713Z",
+  "model": "glm-5.3"
+}

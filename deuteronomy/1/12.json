@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Hataoko ahoana no hitondrako irayaho ny entanareo sy ny vesatrao sy ny fifaninanareo?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Hataoko ahoana"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "no hitondrako"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "irayaho"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "ny entanareo"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "sy ny vesatrao"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "sy ny fifaninanareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:40:06.197796075Z",
+  "model": "glm-5.3"
+}

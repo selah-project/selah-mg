@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 115,
+  "translation": "Fa izahay kosa hihira fankasitrahana an'i Yah, hatramin'izao fotoana izao ka hatramin'ny fiainana mandrakizay. Miderà an'i Yah!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "Fa izahay kosa"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "hihira fankasitrahana"
+    },
+    {
+      "surface": "יה",
+      "gloss": "an'i Yah"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "hatramin'izao fotoana izao"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "fiainana mandrakizay"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Miderà"
+    },
+    {
+      "surface": "יה",
+      "gloss": "an'i Yah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:15.065601703Z",
+  "model": "glm-5.3"
+}

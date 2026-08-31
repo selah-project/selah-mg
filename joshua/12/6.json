@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 12:6",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Moshe mpanompon'i Yahveh sy ny zanak'i Isiraela no namely azy; ary Moshe mpanompon'i Yahveh nanome azy ho lova ⟨ahoana⟩ ho an'ny Robenita sy ny Gadita ary ny antsasaky ny foko Manase.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mpanompon'ny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "sy ny zanak'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraela"
+    },
+    {
+      "surface": "הכום",
+      "gloss": "no namely azy"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ary nanome azy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mpanompon'ny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "ho lova"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "ho an'ny Robenita"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "sy ny Gadita"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "ary ny antsasaky ny"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "foko"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "Manase"
+    }
+  ],
+  "timestamp": "2026-08-31T13:59:39.459207438Z",
+  "model": "glm-5.3"
+}

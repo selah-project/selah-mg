@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Aoka izy hanoroka ahy amin'ny fanorokana avy amin'ny vavany, fa tsara mihoatra noho ny divay ny fitiavanao.",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "aoka izy hanoroka ahy"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "amin'ny fanorokana"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "avy amin'ny vavany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "ny fitiavanao"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "mihoatra noho ny divay"
+    }
+  ],
+  "timestamp": "2026-08-31T17:09:55.150124386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary ⟨את⟩ tany lamban'ny trano dia nofeniny volamena, tao anatiny sy ivelany.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tany lamban'ny trano"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "tany lamba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ny trano"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "nofeniny"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "tao anatiny"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "sy ivelany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:41:27.421084487Z",
+  "model": "glm-5.3"
+}

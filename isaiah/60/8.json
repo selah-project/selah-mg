@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 60,
+  "translation": "Iza moa ireo manidina toy ny rahona, ary toy ny voro fanambin'ny mankany amin'ny varavarankely ambonin'ny tranony?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "iza moa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "toy ny rahona"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "manidina"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "ary toy ny voro fanambin'ny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mankany amin'ny"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "varavarankely ambonin'ny tranony"
+    }
+  ],
+  "timestamp": "2026-08-31T15:20:35.523607829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 107,
+  "translation": "Dia nikiakiaka tamin'i Yahveh tamin'ny fahoriany izy, ary namonjy azy tamin'ny fahoriana rehetra izy.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Dia nikiakiaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "tamin'ny fahoriany"
+    },
+    {
+      "surface": "להם",
+      "gloss": "izy"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "tamin'ny fahoriana rehetra"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "namonjy azy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:10.792774923Z",
+  "model": "glm-5.3"
+}

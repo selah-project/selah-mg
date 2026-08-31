@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 26:20",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Mandehana ry olonaiko, midira ao amin'ny efitranonao, ary hidio ny varavaranao; miafena kely dia kely mandra-pandalo ny fahatezerana.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Mandehana"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ry olonaiko"
+    },
+    {
+      "surface": "בא",
+      "gloss": "midira"
+    },
+    {
+      "surface": "בחדריך",
+      "gloss": "ao amin'ny efitranonao"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "ary hidio"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "ny varavaranao"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "⟨ao ambadikao⟩"
+    },
+    {
+      "surface": "חבי",
+      "gloss": "miafena"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "kely dia kely"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "⟨fanapotapotra⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "pandalo"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ny fahatezerana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:09:10.245653342Z",
+  "model": "glm-5.3"
+}

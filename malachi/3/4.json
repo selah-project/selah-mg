@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 3:4",
+  "book": "malachi",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary ho mahafinaritra amin'i Yahveh ny fanatitra avy amin'i Yehuda sy Yeroshalayim, toy ny andro fahiny sy toy ny taona fahagola.",
+  "tokens": [
+    {
+      "surface": "וערבה",
+      "gloss": "ary ho mahafinaritra"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "amin'i Yahveh"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ny fanatitra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "avy amin'i Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "sy Yeroshalayim"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "toy ny andro"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "fahiny"
+    },
+    {
+      "surface": "וכשנים",
+      "gloss": "sy toy ny taona"
+    },
+    {
+      "surface": "קדמניות",
+      "gloss": "fahagola"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:23.515071775Z",
+  "model": "glm-5.3"
+}

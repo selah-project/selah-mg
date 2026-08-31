@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 7:16",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary nandeha izy isan-taona tamin'ny taona, ka niodina nankany Bet-El sy Gilgala ary haMitspa, ary nanampingy ⟨את⟩ Isiraely tao amin'ireo toerana rehetra ireo.",
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "isan-"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "tamin'ny taona"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "niodina"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "והגלגל",
+      "gloss": "Gilgala"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "haMitspa"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "nanampingy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraely"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toerana rehetra ireo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "המקומות",
+      "gloss": "toerana"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T18:31:13.742298441Z",
+  "model": "glm-5.3"
+}

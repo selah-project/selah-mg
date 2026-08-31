@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary tamin'ny andron'i Achashverosh — izy io Achashverosh nanjaka hatramin'i Hodu ka hatrany Kush, faritra fito amby roa-polo sy zato —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary tamin'ny"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "andron'i"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy io"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nanjaka"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "hatramin'i Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatrany"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "fito"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "amby roa-polo"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "sy zato"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "faritra"
+    }
+  ],
+  "timestamp": "2026-08-31T17:18:56.973480530Z",
+  "model": "glm-5.3"
+}

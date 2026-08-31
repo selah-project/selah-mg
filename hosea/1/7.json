@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Fa ⟨את⟩ ny taranak'i Yehuda hovahako foana kosa, ary hovonjiko amin'i Yahveh Elohin'izy ireo, fa tsy amin'ipady na antsy na ady na soavaly na mpitaingin-soavaly no hovonjiko azy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ny",
+      "marks": "taranak'i Yehuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taranaka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "hovahako foana"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "ary hovonjiko"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "amin'i Yahveh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohin'izy ireo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "hovonjiko azy"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "amin'ipady"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "na antsy"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "na ady"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "na soavaly"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "na mpitaingin-soavaly"
+    }
+  ],
+  "timestamp": "2026-08-31T16:07:30.432135749Z",
+  "model": "glm-5.3"
+}

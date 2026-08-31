@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 78:46",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Nanolotra ny vokatr'izy ireo ho an'ny tsingisy, ny ezaka nataony ho an'ny valalala.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "nanolotra"
+    },
+    {
+      "surface": "לחסיל",
+      "gloss": "ho an'ny tsingisy"
+    },
+    {
+      "surface": "יבולם",
+      "gloss": "ny vokatr'izy ireo"
+    },
+    {
+      "surface": "ויגיעם",
+      "gloss": "ny ezaka nataony"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "ho an'ny valalala"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:09.409117176Z",
+  "model": "glm-5.3"
+}

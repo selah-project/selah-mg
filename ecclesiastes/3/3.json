@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ora hamonoana, ary ora hanasitranana; ora handravana, ary ora hanamboarana.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ora"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "hamonoana"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ary ora"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "hanasitranana"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ora"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "handravana"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ary ora"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "hanamboarana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:14:44.122790427Z",
+  "model": "glm-5.3"
+}

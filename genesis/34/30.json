@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 34:30",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ary hoy Yaakov tamin'i Shimona sy tamin'i Levy: Nampahory anakampo ianareo, ka nanao ahy maimbo teo amin'ny mponina amin'ny tany, amin'ny Kenanita sy ny Perizita; fa izaho olona vitsy isa, ka raha mivory hioko izy dia hamely ahy, ary ho ringana aho sy ny ankohonako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimona"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sy tamin'i"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levy"
+    },
+    {
+      "surface": "עכרתם",
+      "gloss": "Nampahory anakampo ianareo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ahy",
+      "marks": "ahy"
+    },
+    {
+      "surface": "להבאישני",
+      "gloss": "ka nanao ahy maimbo"
+    },
+    {
+      "surface": "בישב",
+      "gloss": "teo amin'ny mponina"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "בכנעני",
+      "gloss": "amin'ny Kenanita"
+    },
+    {
+      "surface": "ובפרזי",
+      "gloss": "sy amin'ny Perizita"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "fa izaho"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "olona"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "vitsy isa"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "mivory"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "hioko"
+    },
+    {
+      "surface": "והכוני",
+      "gloss": "dia hamely ahy"
+    },
+    {
+      "surface": "ונשמדתי",
+      "gloss": "ho ringana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aho"
+    },
+    {
+      "surface": "וביתי",
+      "gloss": "sy ny ankohonako"
+    }
+  ],
+  "timestamp": "2026-08-31T12:47:21.381850307Z",
+  "model": "glm-5.3"
+}

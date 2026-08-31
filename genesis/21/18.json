@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 21:18",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Mitsangàna, ento ⟨את⟩ ilay zatovo, ary tano mafy ny tananao aminy, fa ho firenena lehibe no hataoko azy.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "mitsangàna"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "ento"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay zatovo"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ilay zatovo"
+    },
+    {
+      "surface": "והחזיקי",
+      "gloss": "tano mafy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tananao"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tananao"
+    },
+    {
+      "surface": "בו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ho firenena"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "hataoko azy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:40:23.635449407Z",
+  "model": "glm-5.3"
+}

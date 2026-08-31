@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 132,
+  "translation": "Raha omena torimaso ny masonao, ho an'ny tavan-keloko emboka —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "omena"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "torimaso"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ny masonao"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "ho an'ny tavan-keloko"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "emboka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:37.906196539Z",
+  "model": "glm-5.3"
+}

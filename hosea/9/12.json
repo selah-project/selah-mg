@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Fa na dia nitaiza ⟨את⟩ ny zanany aza izy, hosembeko tsy hisy olona sisa; eny, loza azy koa rehefa miala aminy Aho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "na dia... aza"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "nitaiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "hosembeko"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "tsy hisy olona sisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eny"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "loza"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "reefa miala aminy Aho"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:08:56.103831929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Elohiko, taminao no matoky aho; aza omena fahamenarana; aza mifaly amiko ny fahaválako.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohiko"
+    },
+    {
+      "surface": "בך",
+      "gloss": "taminao"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "no matoky aho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "omena fahamenarana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "mifaly"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ny fahaválako"
+    },
+    {
+      "surface": "לי",
+      "gloss": "amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:00.685447949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 59,
+  "translation": "Tsy misy heloka ⟨⟨amin'ny lafiny izay⟩⟩ — mihazakazaka izy ka miomana; mifohaza hanatrika ahy, ka jereo.",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "עון",
+      "gloss": "heloka"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "mihazakazaka izy"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "ka miomana"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "mifohaza"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "hanatrika ahy"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ka jereo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:19.147596031Z",
+  "model": "glm-5.3"
+}

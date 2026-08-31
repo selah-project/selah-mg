@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 129,
+  "translation": "Yahveh marina, izay nanapaka ny tadin'ny ratsy fanahy.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "marina"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "nanapaka"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "ny tadin'ny"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ratsy fanahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:45.405505783Z",
+  "model": "glm-5.3"
+}

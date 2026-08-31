@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 11:12",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary tao an-tanàna tsirairay dia ampinga lehibe sy lefona; ary nandeveziny azy io be dia izy; ary tonga ho azy i Yehuda sy ny Binjamina.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "tao an-tanàna tsirairay"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "tsyirairay"
+    },
+    {
+      "surface": "צנות",
+      "gloss": "ampinga lehibe"
+    },
+    {
+      "surface": "ורמחים",
+      "gloss": "lefona"
+    },
+    {
+      "surface": "ויחזקם",
+      "gloss": "nandeveziny"
+    },
+    {
+      "surface": "להרבה",
+      "gloss": "be"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dia izy"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "tonga ho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "i Yehuda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "sy ny Binjamina"
+    }
+  ],
+  "timestamp": "2026-08-31T17:44:32.712779760Z",
+  "model": "glm-5.3"
+}

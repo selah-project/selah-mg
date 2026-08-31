@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary nangataka tamin'ny tavan'i Yahveh Yehoachaz, ka nihaino azy Yahveh, satria hitany ny famoretan'ny Isiraely, fa mpanjakan'i Aram no namory azy.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "nangaka-taka"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavan'i Yahveh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tavana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "hitany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "famoretan'ny Isiraely"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "famoretana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "namory"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-31T18:05:03.757293579Z",
+  "model": "glm-5.3"
+}

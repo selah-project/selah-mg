@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary hitan'i Arama fa voaresaka teo anoloan'ny Isiraely izy, dia nivory tamin'ny tokana izy ireo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ary hitan'i"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "voaresaka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anoloan'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "dia nivory"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tamin'ny tokana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:31:21.163266718Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 56,
+  "translation": "Mamindrà fanahy amiko, ry Elohim, fa mitelina ahy ny olona mety maty; ady mandritra ny andro manontolo izy ka manenjika ahy.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "mamindrà fanahy amiko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ry Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "mitelina ahy"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "olona mety maty"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mandritra ny"
+    },
+    {
+      "surface": "היום",
+      "gloss": "andro manontolo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ady"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "manenjika ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:50.181073479Z",
+  "model": "glm-5.3"
+}

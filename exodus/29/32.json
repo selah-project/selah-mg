@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary Aharony sy ny zanany hihinana ⟨את⟩ ny nofon'ilay jidro sy ⟨את⟩ ny mofo izay ao anaty harona, eo am-baravaran'ny trano-lay fihaonana.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "Ary ... hihinana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharony"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "sy ny zanany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny nofon'ilay jidro"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ny nofo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "n'ilay jidro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "ny mofo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "ao anaty harona"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "eo am-baravaran'ny"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "trano-lay"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:05:31.055681833Z",
+  "model": "glm-5.3"
+}

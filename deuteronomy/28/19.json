@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Voaozona ianao amin'ny fidirananao, ary voaozona ianao amin'ny fivoahananao.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Voaozona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "amin'ny fidirananao"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "ary voaozona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "amin'ny fivoahananao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:50:02.370675369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Mifoha ary mitsangana ho amin'ny fitsarana ahy, ry Elohay sy Adonay, ho amin'ny raharahako.",
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "Mifoha"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "ary mitsangana"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "ho amin'ny fitsarana ahy"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ry Elohay"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "sy Adonay"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "ho amin'ny raharahako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:58.454732024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 59,
+  "translation": "Vonjeo aho amin'ny mpanao ratsy, ary vonjeo aho amin'ny lehilahy mandrora ra.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Vonjeo aho"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "amin'ny mpanao"
+    },
+    {
+      "surface": "און",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "amin'ny lehilahy"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "mandrora ra"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "vonjeo aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:11.502251199Z",
+  "model": "glm-5.3"
+}

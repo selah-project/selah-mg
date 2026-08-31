@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 17:14",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary ny lehilahy tsy voaforahy, izay tsy voaforahy ⟨את⟩ ny nofon'ny fony, dia hotapahina amin'ny olony io aina io; ⟨את⟩ ny fanekiko no nolaviny.",
+  "tokens": [
+    {
+      "surface": "וערל",
+      "gloss": "Ary ny tsy voaforahy"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "voaforahy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny nofon'ny fony"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ny nofo"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "n'ny fony"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "dia hotapahina"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ny aina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "io"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "amin'ny olony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanekiko"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ny fanekiko"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "nolaviny"
+    }
+  ],
+  "timestamp": "2026-08-31T12:39:00.677856640Z",
+  "model": "glm-5.3"
+}

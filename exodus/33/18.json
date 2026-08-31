@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Ary hoy izy: Asehoy azafady ⟨את⟩ ny voninahitrao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "Asehoy ahy"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny voninahitrao"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "ny voninahitrao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:08:37.003666847Z",
+  "model": "glm-5.3"
+}

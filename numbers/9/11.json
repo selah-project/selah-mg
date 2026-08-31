@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Amin'ny volana faharoa, amin'ny andro fahefatra ambin'ny folo, eo anelanelan'ny hariva no hatao azy ⟨את⟩; mofo tsy misy masirasira sy anamamy mangidy no hohanina miaraka aminy.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Amin'ny volana"
+    },
+    {
+      "surface": "השני",
+      "gloss": "faharoa"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "amin'ny fahefatra"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ambin'ny folo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "בין",
+      "gloss": "anelanelan'ny"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "hariva"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "hatao"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "על",
+      "gloss": "miaraka amin'"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mofo tsy misy masirasira"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "sy anamamy mangidy"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "no hohanina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:28:10.240458080Z",
+  "model": "glm-5.3"
+}

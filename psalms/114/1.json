@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 114,
+  "translation": "Tamin'ny fivoahan'i Yisraela avy tao Mitsrayim, ny taranak'i Yaakov avy tamin'ny olona miteny vahiny ⟨⟨lel-biflashed⟩⟩",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "Tamin'ny fivoahan'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "avy tao Mitsrayim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taranak'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "avy tamin'ny olona"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "miteny vahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:00.870008216Z",
+  "model": "glm-5.3"
+}

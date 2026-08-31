@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 110,
+  "translation": "Ny olonao ho fanatitra an-tsitrapo amin'ny andron'ny tafinao, amin'ny fiakanjoana masina masina; avy ao amin'ny kibon'ny maraina antsoandro anao ny orambangan'ny fahatanoranao.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "Ny olonao"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "ho fanatitra an-tsitrapo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'ny andron'ny"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "tafinao"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "amin'ny fiakanjoana"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "masina masina"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "avy ao amin'ny kibon'ny"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "maraina antsoandro"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ny orambangan'ny"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "fahatanoranao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:06.320825312Z",
+  "model": "glm-5.3"
+}

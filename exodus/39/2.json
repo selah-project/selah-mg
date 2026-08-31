@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "Ary nataony ⟨את⟩ ny ephoda: volamena, manga, volomparasy ary diona mena, sy landy tsara voataly.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ary nataony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ephoda"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ephoda"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "manga"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "volomparasy"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "ary diona"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mena"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "sy landy"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "tsara voataly"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:36.427285309Z",
+  "model": "glm-5.3"
+}

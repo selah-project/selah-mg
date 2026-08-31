@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary nidina nanke ny amin'ny Pelishtim ny Isiraely rehetra, hanitsy samy olona ny antsangany ⟨את⟩ sy ny efeliny ⟨את⟩ sy ny famakiny ⟨את⟩ ary ny vangony ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Ary nidina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ny Isiraely"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "nanke ny amin'ny Pelishtim"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "hanitsy (hanazava)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "samy olona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny antsangany"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "antsangany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny efeliny"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "efeliny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny famakiny"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "famakiny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny vangony"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "vangony"
+    }
+  ],
+  "timestamp": "2026-08-31T14:19:01.177156974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "dia tapao ⟨את⟩ ny tanany; aza mantra-po ny masonao.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "dia tapao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tanany"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "ny tanany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "mantra-po"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ny masonao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:00:15.222223230Z",
+  "model": "glm-5.3"
+}

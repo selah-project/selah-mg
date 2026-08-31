@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ka tamin'izany no sasan'i Moshe sy Aharona mbamin'ny zanany ⟨את⟩ ny tànany sy ⟨את⟩ ny tongony.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "no sasan'i"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "tamin'izany"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "mbamin'ny zanany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tànany"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ny tànany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tongony"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ny tongony"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:49.064657624Z",
+  "model": "glm-5.3"
+}

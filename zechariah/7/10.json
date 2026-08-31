@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 7:10",
+  "book": "zechariah",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Aza mampahory ⟨⟨ny⟩⟩ mpitondra vady maty sy ny kamboty, ny vahiny ary ny malahelo; ary aza mamorona hevi-dratsy amin'ny rahalahinareo ao am-ponareo.",
+  "tokens": [
+    {
+      "surface": "ואלמנה",
+      "gloss": "sy ny mpitondra vady maty"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "sy ny kamboty"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ny vahiny"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ary ny malahelo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תעשקו",
+      "gloss": "mampahory"
+    },
+    {
+      "surface": "ורעת",
+      "gloss": "ary hevi-dratsy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "samy"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "amin'ny rahalahiny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תחשבו",
+      "gloss": "mamorona"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "ao am-ponareo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:19:17.938059719Z",
+  "model": "glm-5.3"
+}

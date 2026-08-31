@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 10:13",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary Mitsrayim niteraka ⟨את⟩ ny Lodima sy ⟨את⟩ ny Anamima sy ⟨את⟩ ny Lehabima ary ⟨את⟩ ny Naftokhima.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Ary Mitsrayim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Lodima"
+    },
+    {
+      "surface": "לודים",
+      "gloss": "ny Lodima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny Anamima"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "ny Anamima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny Lehabima"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "ny Lehabima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny Naftokhima"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "ny Naftokhima"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:49.251208112Z",
+  "model": "glm-5.3"
+}

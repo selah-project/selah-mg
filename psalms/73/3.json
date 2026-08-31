@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 73,
+  "translation": "Fa ninamako ireo mibadoka mirehareha, rehefa hitako ny fiadanana fahelezana ny mpanao ratsy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "ninamako"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "ireo mibadoka mirehareha"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fiadanana"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ny mpanao ratsy"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "rehefa hitako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:01.777872651Z",
+  "model": "glm-5.3"
+}

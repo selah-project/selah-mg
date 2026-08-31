@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 111,
+  "translation": "Ny asan'ny tanany ⟨dia⟩ marina sy araka ny fitsarana; azo itokisana ny didy rehetra.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "ny asan'ny"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tanany"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "marina"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "sy araka ny fitsarana"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "azo itokisana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "ny didy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:45.917401502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Sambatra Yahveh ⟨mandrakizay⟩. Amina, ary amina.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Sambatra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "⟨mandrakizay⟩"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amina"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ary amina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:48.866617176Z",
+  "model": "glm-5.3"
+}

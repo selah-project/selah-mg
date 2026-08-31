@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 95,
+  "translation": "Andeh, isika hihira (⟨hiratra⟩) ho an'i Yahveh, hisy fitarainana faly ho amin'ny Vato famonjena antsika.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Andeh"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "isika hihira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "hisy fitarainana faly"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ho amin'ny Vato"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "famonjena antsika"
+    }
+  ],
+  "timestamp": "2026-08-31T18:35:29.574957195Z",
+  "model": "glm-5.3"
+}

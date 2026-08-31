@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Fa ny vahoaka ihany no namono biby fanatitra tamin'ny fitoerana avo, satria tsy mbola nisy trano natsangana ho an'ny anaran'i Yahveh am-pianiana mandra-pahatongan'izany andro izany.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ihany"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "namono biby fanatitra"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "tamin'ny fitoerana avo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "natsangana"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ho an'ny anaran'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-pahatongan'"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "izany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:40:08.211863785Z",
+  "model": "glm-5.3"
+}

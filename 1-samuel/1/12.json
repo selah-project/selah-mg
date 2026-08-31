@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary nony efa ela izy nivavaka teo anatrehan'i Yahveh, dia Eli niambina ⟨את⟩ ny vavany.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ary nony"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efa"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "ela"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "nivavaka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anatrehan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "dia Eli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "niambina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vavany"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ny vavany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:14:34.189395856Z",
+  "model": "glm-5.3"
+}

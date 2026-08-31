@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Fandrehitra ho an'ny tongotro ny teninao, ary fahazavana ho an'ny lalako.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "fandrehitra"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "ho an'ny tongotro"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ny teninao"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ary fahazavana"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "ho an'ny lalako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:52.276606241Z",
+  "model": "glm-5.3"
+}

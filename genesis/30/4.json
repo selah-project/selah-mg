@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ka natolony taminy ⟨את⟩ Bilhah mpanompovaviny ho vady; ary niditra tamin'i Bilhah Yaakov.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "natolony"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tamy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilhah"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilhah"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "mpanompovaviny"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ho vady"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "niditra"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "tamin'i Bilhah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-31T12:44:32.626473437Z",
+  "model": "glm-5.3"
+}

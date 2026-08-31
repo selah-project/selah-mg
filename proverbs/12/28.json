@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Amin'ny lalan'ny fahamarinana dia ⟨misy⟩ fiainana, ary amin'ilay lalana dia tsy misy fahafatesana.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "amin'ny lalan'ny"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "fahamarinana"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "fiainana"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ary amin'ny lalana"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "ilay lalana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "מות",
+      "gloss": "fahafatesana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:53:06.278278199Z",
+  "model": "glm-5.3"
+}

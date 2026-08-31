@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 124,
+  "translation": "Ny fanampiantsika dia amin'ny anaran'i Yahveh, Mpanao ny lanitra sy ny tany.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Ny fanampiantsika"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "amin'ny anaran'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Mpanao"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "sy ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:30.770758831Z",
+  "model": "glm-5.3"
+}

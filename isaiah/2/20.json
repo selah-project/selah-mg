@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Amin'izay andro izay dia hanary ny olona ⟨את⟩ ny sampy volafotsiny sy ⟨את⟩ ny sampy volamenany, izay nataony ho an'ny tenany hiankohaka aminy, ho an'ny sokina sy ho an'ny fanhy.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Amin'ny andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "hanary"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny sampy volafotsiny"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "sampy"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "volafotsiny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny sampy volamenany"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "sampy"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "volamenany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho an'ny tenany"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "hiankohaka"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "ho an'ny"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "sokina"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "sy ho an'ny fanhy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:01:46.195859736Z",
+  "model": "glm-5.3"
+}

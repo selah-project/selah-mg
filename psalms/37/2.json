@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Fa haingana toy ny ahitra hovakiana izy, ary toy ny volo maitso hihelany.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "toy ny ahitra"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "haingana"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "hovakiana"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "ary toy ny"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "volo maitso"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "hihelany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:40.081424905Z",
+  "model": "glm-5.3"
+}

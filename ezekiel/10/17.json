@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 10:17",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Rehefa nitsangana izy ireo, dia nitsangana ireo; ary rehefa niakatra ireo, dia niakatra miaraka ⟨את⟩-izy ireo; fa ny fanahin'ilay zava-mananaina no tao aminy.",
+  "tokens": [
+    {
+      "surface": "בעמדם",
+      "gloss": "rehefa nitsangana izy ireo"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "dia nitsangana ireo"
+    },
+    {
+      "surface": "וברומם",
+      "gloss": "ary rehefa niakatra ireo"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "dia niakatra ireo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩-izy ireo",
+      "marks": "ny fanahin'ilay zava-mananaina \/ ny kodia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ilay zava-mananaina"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "tao aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:50:02.910691940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 116,
+  "translation": "Ho anao hanatitra aho zavatra hatao fanatitra fisaorana, ary amin'ny anaran'i Yahveh hiantso.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Ho anao"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "hanatitra aho"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zavatra hatao fanatitra"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "fisaorana"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "ary amin'ny anaran'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "hiantso"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:16.635317280Z",
+  "model": "glm-5.3"
+}

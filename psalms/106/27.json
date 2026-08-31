@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 106:27",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Ary hampianjera ⟨את⟩ taranany amin'ny firenena, ary hampielezana azy amin'ny tany.",
+  "tokens": [
+    {
+      "surface": "ולהפיל",
+      "gloss": "hampianjera"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "taranany"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "amin'ny firenena"
+    },
+    {
+      "surface": "ולזרותם",
+      "gloss": "hampielezana azy"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "amin'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:07.041495332Z",
+  "model": "glm-5.3"
+}

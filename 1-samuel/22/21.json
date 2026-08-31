@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary Ebjathar nanambara tamin'i David fa Shaol namono ⟨את⟩ ny mpisoron'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "nanambara"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebjathar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "tamin'i David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "namono"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpisoron'i Yahveh"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "ny mpisoron'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T14:24:32.122929296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 149,
+  "translation": "Hamatotra amin'ny rojo ny mpanjakany, sy ny olona malaza amin'ny gadra vy.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "hamatotra"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "ny mpanjakany"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "amin'ny rojo"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "sy ny olona malaza"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "amin'ny gadra"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "vy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:44.462179686Z",
+  "model": "glm-5.3"
+}

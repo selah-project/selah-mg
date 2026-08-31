@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 10:3",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary nitambara ny ady tamim'i Shaol, ka nahita azy ny mpandefa tsipika, ka narary noho ny mpandefa tsipika izy.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "nitambara"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ny ady"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "nahita azy"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "ny mpandefa tsipika"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "amin'ny tsipika"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "narary"
+    },
+    {
+      "surface": "מן",
+      "gloss": "noho ny"
+    },
+    {
+      "surface": "היורים",
+      "gloss": "mpandefa tsipika"
+    }
+  ],
+  "timestamp": "2026-08-31T18:19:24.373465576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 171,
+  "ref": "psalms 119:171",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Aoka ny moloko hitetezana tonon-teny fiderana; fa ianao no mampianatra ahy ny lalànao.",
+  "tokens": [
+    {
+      "surface": "תבענה",
+      "gloss": "aoka... hitetezana"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ny moloko"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "tonon-teny fiderana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "ianao no mampianatra ahy"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ny lalànao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:51.510045501Z",
+  "model": "glm-5.3"
+}

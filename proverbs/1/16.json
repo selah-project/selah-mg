@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "fa ny tongony mihazakazaka mankany amin'ny loza, ary maika izy hanao fandatsahan-drà",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ny tongony"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "mankany amin'ny loza"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "mihazakazaka"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "maika izy"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "hanao fandatsahana"
+    },
+    {
+      "surface": "דם",
+      "gloss": "rà"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:17.063417919Z",
+  "model": "glm-5.3"
+}

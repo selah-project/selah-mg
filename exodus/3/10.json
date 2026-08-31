@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary ankehitriny, avia, fa haniraka anao aho ho any amin'i Parao, ka ento mivoaha ⟨את⟩ ny oloko, dia ny zanak'i Isiraely, avy any Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ary ankehitriny"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "avia"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "haniraka anao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "ento mivoaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny oloko"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ny oloko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "avy any Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T12:55:20.466061292Z",
+  "model": "glm-5.3"
+}

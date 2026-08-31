@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary ny kerobima faharoa dia folo hao: fandrefesana iray sy endrika iray ho an'ireo kerobima roa.",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "folo"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "hao"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "ny kerobima"
+    },
+    {
+      "surface": "השני",
+      "gloss": "faharoa"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "fandrefesana"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "iray"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "sy endrika"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "ho an'ireo roa"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerobima"
+    }
+  ],
+  "timestamp": "2026-08-31T14:41:14.410650576Z",
+  "model": "glm-5.3"
+}

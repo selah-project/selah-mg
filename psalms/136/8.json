@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 136,
+  "translation": "⟨את⟩ ny masoandro ho fanapahana amin'ny antoandro, fa ho amin'ny fiainana mandrakizay ny hesediny.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny masoandro"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ny masoandro"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "ho fanapahana"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'ny antoandro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho amin'ny fiainana mandrakizay"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ny hesediny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:20.955339600Z",
+  "model": "glm-5.3"
+}

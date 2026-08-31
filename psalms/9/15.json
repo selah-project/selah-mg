@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Mba hitoryiko ny fideranao rehetra amin'ny vavahadin'ny zanakavavin'i Ziona; ho faly aho amin'ny famonjenao.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Mba"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "hitoryiko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "fideranao"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "amin'ny vavahadin'ny"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanakavavin'i"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ziona"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "ho faly aho"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "amin'ny famonjenao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:27.350813980Z",
+  "model": "glm-5.3"
+}

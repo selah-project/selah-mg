@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary hoy ny mpanjakan'i Mitsrayim taminy: Nahoana no ianao, ry Moshe sy Aharona, manafoana ⟨את⟩ ny vahoaka mba tsy hanao ny asany? Mandehana miverina amin'ny enta-mavesatry.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ny mpanjakan'i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Nahoana no"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "sy Aharona"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "manafoana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "mba tsy hanao ny asany"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Mandehana"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "miverina amin'ny enta-mavesatry"
+    }
+  ],
+  "timestamp": "2026-08-31T12:55:38.685707521Z",
+  "model": "glm-5.3"
+}

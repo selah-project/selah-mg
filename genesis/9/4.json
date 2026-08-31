@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Fa ny nofo mbola misy ny ainy, dia ny rany, kosa aza tsy hohaninareo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "fa\/kosa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nofo"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "mbola misy ny ainy"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ny rany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "haninareo\/hohaninareo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:26.823503759Z",
+  "model": "glm-5.3"
+}

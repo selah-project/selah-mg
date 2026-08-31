@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary hitan'ny mpanjakavavin'i Sheba ⟨את⟩ ny fahendren'i Shelomoh sy ny trano nataony teny",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Ary hitan'ny"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "mpanjakavavin'i"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahendren'i Shelomoh"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ny fahendren'i"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "sy ny trano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nataony"
+    }
+  ],
+  "timestamp": "2026-08-31T17:45:37.067178554Z",
+  "model": "glm-5.3"
+}

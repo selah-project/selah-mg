@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 24:16",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary ilay zazavavy tsara tarehy indrindra, virijina, ary tsy mbola nahalala lehilahy izy; ary nidina ho any amin'ny loharano izy, nameno ny tavoahanginy, dia niakatra.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "Ary ilay zazavavy"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "tarehy"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "indrindra"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "virijina"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "nahalala azy"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "nidina"
+    },
+    {
+      "surface": "העינה",
+      "gloss": "ho any amin'ny loharano"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "nameno"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "ny tavoahanginy"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "niakatra"
+    }
+  ],
+  "timestamp": "2026-08-31T12:41:51.825398579Z",
+  "model": "glm-5.3"
+}

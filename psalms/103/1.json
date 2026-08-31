@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 103,
+  "translation": "An'i Davida. Isisao, ry fanahiko, an'i Yahveh, ary izay ao anatinao rehetra dia isaoy ny anarany masina.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "An'i Davida"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Isisao"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ry fanahiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ... rehetra"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "izay ao anatiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anarany masina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "masina"
+    }
+  ],
+  "timestamp": "2026-08-31T18:25:52.085708410Z",
+  "model": "glm-5.3"
+}

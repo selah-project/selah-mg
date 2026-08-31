@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 71,
+  "translation": "Fa izaho kosa dia miandry fatratra mandrakariva, ary hanampy fanomezam-baovao amin'ny fiderana anao rehetra.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Fa izaho kosa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mandrakariva"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "miandry fatratra"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "hanampy fanomezam-baovao"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ny fiderana anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:11.250343172Z",
+  "model": "glm-5.3"
+}

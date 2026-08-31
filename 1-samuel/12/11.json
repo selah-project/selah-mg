@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Dia naniraka an'i Yerubaala sy ⟨את⟩ Bedana sy ⟨את⟩ Yiftaha ary ⟨את⟩ Shemuel Yahveh, ka namonjy anareo tamin'ny tanan'ny fahavalonareo manodidina izy, ary nitoetra tamin-k Fiadanana ianareo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Dia naniraka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerubaala"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubaala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Bedana"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Yiftaha"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "ka namonjy"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo",
+      "marks": "anareo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tamin'ny tanan'ny"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "fahavalonareo"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "ary nitoetra"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "tamin-k Fiadanana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:17:25.751132323Z",
+  "model": "glm-5.3"
+}

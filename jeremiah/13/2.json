@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary nividy ny fehilamba aho araka ny tenin'i Yahveh, ka nametraka azy tamin'ny valahanao.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "nividy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fehilamba"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "ny fehilamba"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "araka ny tenin'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "nametraka azy"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "valahanao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:07:59.859917344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 97,
+  "translation": "Nandre ka nifaly Ziona, ary ravoravo ny zanakavavin'i Yehuda, noho ny fitsaranao, ry Yahveh.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "nandre"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "ka nifaly"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ziona"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "ary ravoravo"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "zanakavavin'i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "noho"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ny fitsaranao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:48.115779579Z",
+  "model": "glm-5.3"
+}

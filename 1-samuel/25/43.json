@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-samuel 25:43",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary David efa naka ⟨את⟩ i Achinoham avy any Yizreela; ary izy roa vavy dia tonga vadiny avokoa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Achinoham"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Achinoham"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "naka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מיזרעאל",
+      "gloss": "avy any Yizreela"
+    },
+    {
+      "surface": "ותהיין",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "גם",
+      "gloss": "efa"
+    },
+    {
+      "surface": "שתיהן",
+      "gloss": "roa vavy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vadiny"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "vady avokoa"
+    }
+  ],
+  "timestamp": "2026-08-31T14:27:37.015691220Z",
+  "model": "glm-5.3"
+}

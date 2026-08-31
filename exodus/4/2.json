@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary hoy Yahveh taminy: Inona no ao an-tananao? Dia hoy izy: Tehy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "inona no"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ao an-tananao"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy izy"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "Tehy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:55:11.184002279Z",
+  "model": "glm-5.3"
+}

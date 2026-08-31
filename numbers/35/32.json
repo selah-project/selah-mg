@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 35:32",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Ary aza mandray onitra ho an'ilay nandositra nankany amin'ny tanàna fialokalofany mba hiverenana hitoetra amin'ny tany, mandra-pahafatin'ny mpisorona.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ary aza"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "mandray"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "onitra"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "ho an'ilay nandositra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nankany amin'ny"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "fialokalofany"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "mba hiverenana"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "hitoetra"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-pahafatin'ny"
+    },
+    {
+      "surface": "מות",
+      "gloss": "fahafatesan'ny"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mpisorona"
+    }
+  ],
+  "timestamp": "2026-08-31T13:38:22.249765839Z",
+  "model": "glm-5.3"
+}

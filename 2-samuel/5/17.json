@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 5:17",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary ren'ny Filistina fa nohosorana ho mpanjakan'i Isiraela Davida, dia niakatra ny Filistina rehetra hitady an'i Davida; ary Davida ren izany, dia nidina tany amin'ny mimanda.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": " ary ren"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Filistina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "nohosorana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ho mpanjaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ny \/ eo ambony"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraela"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "dia niakatra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistina"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "hitady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ary ren"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "dia niditra\/nidina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tany amin'ny"
+    },
+    {
+      "surface": "המצודה",
+      "gloss": "mimanda"
+    }
+  ],
+  "timestamp": "2026-08-31T14:30:09.997383121Z",
+  "model": "glm-5.3"
+}

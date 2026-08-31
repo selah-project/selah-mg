@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ari Eli niantso ⟨את⟩ an'i Shemuela ka nanao hoe: Shemuela, anaka. Dia hoy izy: Indro aho.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Shemuela"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuela"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anaka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy izy"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Indro aho"
+    }
+  ],
+  "timestamp": "2026-08-31T14:15:27.689700227Z",
+  "model": "glm-5.3"
+}

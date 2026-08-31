@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary ⟨את⟩ ny fidirana ho any amin'ny Debir dia nataony varavarana tsarak'oliva; ny sakamandimby sy ny tolam-baravarana dia fahadimin'ny ⟨rindrina⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fidirana"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "fidirana"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "ny Debir"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "varavarana"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "tsaraka"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "oliva"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ny sakamandimby"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "tolam-baravarana"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "fahadimin'ny rindrina"
+    }
+  ],
+  "timestamp": "2026-08-31T14:41:27.421233960Z",
+  "model": "glm-5.3"
+}

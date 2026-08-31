@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 54,
+  "translation": "Indro, izy miangona avokoa, nefa tsy ⟨את⟩ avy amiko; izay miangona hanohitra anao dia ho lavo noho ny aminao.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "indro"
+    },
+    {
+      "surface": "גור",
+      "gloss": "miangona"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "miangona avokoa"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "nefa tsy"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩ avy amiko"
+    },
+    {
+      "surface": "מי",
+      "gloss": "izay"
+    },
+    {
+      "surface": "גר",
+      "gloss": "miangona"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "hanohitra anao"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ho lavo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:18:14.060760735Z",
+  "model": "glm-5.3"
+}

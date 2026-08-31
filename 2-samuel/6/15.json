@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary Davida sy ny taranak'i Yisrael rehetra niakatra nitondra ⟨את⟩ ny fiaran'i Yahveh tamin'ny fihobiana sy ny feon'ny tory.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Ary Davida"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ... rehetra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taranak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "niakatra nitondra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiaran'i Yahveh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ny fiaran'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "tamin'ny fihobiana"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "sy ny feon'ny"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "tory"
+    }
+  ],
+  "timestamp": "2026-08-31T14:30:34.128163914Z",
+  "model": "glm-5.3"
+}

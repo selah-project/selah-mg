@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary nahafoy an'i Yahveh izy ka nanompo ⟨את⟩ an'i Baal sy ny Asherah.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "ka nahafoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ka nanompo"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "an'i Baal"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "sy ny Asherah"
+    }
+  ],
+  "timestamp": "2026-08-31T14:04:44.359611262Z",
+  "model": "glm-5.3"
+}

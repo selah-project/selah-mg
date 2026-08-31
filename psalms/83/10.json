@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 83,
+  "translation": "Ataovy amin'ireo toy ny tamin'i Midianina, toy ny tamin'i Sisera, toy ny tamin'i Yavin, eo amoron'ny renirano Kishon:",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Ataovy"
+    },
+    {
+      "surface": "להם",
+      "gloss": "amin'ireo"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "toy ny tamin'i Midianina"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "toy ny tamin'i Sisera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "toy ny tamin'i Yavin"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "eo amoron'ny renirano"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kishon"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:57.777600483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Marina tokoa, ry Yahveh, fa efa nampanjavy ny firenena sy ny taniny ny mpanjakan'i Ashshur.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Marina tokoa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "efa nampanjavy"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ny mpanjakan'i"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny firenena"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ny firenena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny taniny"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ny taniny"
+    }
+  ],
+  "timestamp": "2026-08-31T14:59:37.762942955Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Kanefa amin' ny andronao tsy hataoko izany, noho Davida rainao; fa amin' ny tànan' ny zanakao no hofisihiko azy.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kanefa"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "amin' ny andronao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "hataoko"
+    },
+    {
+      "surface": "למען",
+      "gloss": "noho"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "rainao"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "amin' ny tànan'"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ny zanakao"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "hofisihiko azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:44:47.712076725Z",
+  "model": "glm-5.3"
+}

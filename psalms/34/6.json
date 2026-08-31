@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Nijery Azy ireo ka niviravira ⟨izy⟩, ary ny tarehiny tsy hahamenatra.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Nijery"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "Azy"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "ka niviravira"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "ny tarehiny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "hahamenatra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:22.574250287Z",
+  "model": "glm-5.3"
+}

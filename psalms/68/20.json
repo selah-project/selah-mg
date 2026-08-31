@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 68,
+  "translation": "Itsarahana Adonay, andro aman'andro, Izy mitondra ny enta-mavesatra ho anay; ⟨Izy no⟩ El, famonjenay. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Itsarahana"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "יום",
+      "gloss": "aman'andro"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "mitondra ny enta-mavesatra"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho anay"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "famonjenay"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:09.435312188Z",
+  "model": "glm-5.3"
+}

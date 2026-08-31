@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 132,
+  "translation": "Ary ny mpisorony hitafiko famonjena; ary ny olona masina aminy hihobiana hihobiana.",
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "Ary ny mpisorony"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "hitafiko"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "famonjena"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "ary ny olona masina aminy"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "hihobiana"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "hihobiana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:19.994288096Z",
+  "model": "glm-5.3"
+}

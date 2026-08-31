@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Fa nandeha izy ireo ka nanao fanompoam-pivavahana tamin'andriamani-kafa ary niankohoka tamin'ireo — andriamitra tsy fantatr'izy ireo, izay tsy nomena azy ireo.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "nanao fanompoam-pivavahana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "andriamani-"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "kafa"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "niankohoka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tamin'ireo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "andriamitra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "fantatr'izy ireo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "nomena"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:51:24.901134725Z",
+  "model": "glm-5.3"
+}

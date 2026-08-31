@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ary hoy Aharon: Aza mirehitra ny fahatezeran'ny tompoko; ianao no mahalala ⟨את⟩ ny vahoaka, fa ⟨tao amin'ny⟩ ratsy izy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "mirehitra"
+    },
+    {
+      "surface": "אף",
+      "gloss": "fahatezerana"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tompoko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "tao amin'ny ratsy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:08:24.989930144Z",
+  "model": "glm-5.3"
+}

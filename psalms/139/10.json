@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 139,
+  "translation": "dia any koa no hitarihan'ny tananao ahy sy hifikirihan'ny tananao ankavanana ahy.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "any"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tananao"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "hitarihan…ahy"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "sy hifikirihan…ahy"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tananao ankavanana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:33.311287515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 79,
+  "translation": "Nadrainy toy ny rano ny ran'ireo manodidina an'i Yeroshalayim, ka tsy nisy nandevina azy.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "Nadrainy"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "ny rà"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "toy ny rano"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ka tsy nisy"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "nandevina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:36.047091222Z",
+  "model": "glm-5.3"
+}

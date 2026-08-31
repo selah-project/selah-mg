@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 59,
+  "translation": "Ary hiverina amin'ny hariva izy, hisioka toy ny alika, ary hitodididina ny tanàna.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "Ary hiverina"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "amin'ny hariva"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "hisioka"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "toy ny alika"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "ary hitodididina"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ny tanàna"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:04.552168604Z",
+  "model": "glm-5.3"
+}

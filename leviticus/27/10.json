@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Tsy hanolo azy izy ary tsy hamadika ⟨את⟩ azy, tsara amin'ny ratsy, na ratsy amin'ny tsara; ary raha mifanaty mamadika biby amin'ny biby, dia izy sy ny solony no ho masina.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "hanolo azy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "hamadika"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "amin'ny ratsy"
+    },
+    {
+      "surface": "או",
+      "gloss": "na"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "amin'ny tsara"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ary raha"
+    },
+    {
+      "surface": "המר",
+      "gloss": "mifanaty"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "mamadika"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "biby"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "amin'ny biby"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dia"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "sy ny solony"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "masina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:24:06.634093395Z",
+  "model": "glm-5.3"
+}

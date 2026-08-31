@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary ⟨את⟩ ny tanànan'izy ireo rehetra tao amin'ny fonenany ary ⟨את⟩ ny tanàna mimanda rehetra dia nodorany tamin'ny afo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny tanànan'izy ireo rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "ny tanànan'izy ireo"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "tao amin'ny fonenany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny tanàna mimanda rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "ny tanàna mimanda"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "nodorany"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tamin'ny afo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:37:33.593882282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Omeo anjara ny fito, ary koa ny valo, fa tsy hahalala ianao inona no ho avy ho amin'ny tany.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Omeo"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "anjara"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "ny fito"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ary koa"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "ny valo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "hahalala"
+    },
+    {
+      "surface": "מה",
+      "gloss": "inona"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "no ho avy"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "loza ⟨faharatsiana⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho amin'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:49.264148758Z",
+  "model": "glm-5.3"
+}

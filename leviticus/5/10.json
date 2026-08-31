@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary ⟨את⟩ ny faharoa hataony fanatitra dorana araka ny lalàna, ary ny mpisorona hanao fanavotana ho azy noho ny otany izay nataony, ary ho voafela izy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny faharoa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ny faharoa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hataony"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "fanatitra dorana"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "araka ny lalàna"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "hanao fanavotana"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "noho ny otany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "ho voafela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "izy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:12:50.674691736Z",
+  "model": "glm-5.3"
+}

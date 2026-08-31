@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Ary ny tsimaitso rehetra ho an'ny lay trano fitoerana sy ho an'ny kianja manodidina dia varahina.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ary ny ... rehetra"
+    },
+    {
+      "surface": "היתדת",
+      "gloss": "tsimaitso"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ho an'ny lay trano fitoerana"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "sy ho an'ny kianja"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "varahina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:09.877222455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary aza mampahory olona ny namany ⟨את⟩, ary matahora ny Elohinareo, fa Izaho Yahveh no Elohinareo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ary aza"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "mampahory"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny namany"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "ny namany"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "ary matahora"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "ny Elohinareo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:20:28.947253190Z",
+  "model": "glm-5.3"
+}

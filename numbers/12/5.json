@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 12:5",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary Yahveh nidina tamin'ny tsangam-baton'ny rahona, ka nitsangana teo am-baravaran'ny lay, ary niantso an'i Aharon sy Miryam; ary izy roa lahy no nivoaka.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ary nidina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "tamin'ny tsangam-bato"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "rahona"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ka nitsangana"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "varavarana"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "lay"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ary niantso"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "sy Miryam"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "ary nivoaka"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "izy roa"
+    }
+  ],
+  "timestamp": "2026-08-31T13:28:37.955959309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary ity no taranak' i Teraha: niteraka an' i Avraha, an' i Nahor, ary an' i Harana i Teraha; ary Harana niteraka an' i Lota.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ary ity"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "no taranaka"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "i Teraha"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "i Teraha"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an' i Avraha"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "an' i Avraha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an' i Nahor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "an' i Nahor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "an' i Harana"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "an' i Harana"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "ary Harana"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an' i Lota"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "an' i Lota"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:40.182135792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary ny mpisorona nampiditra ⟨את⟩ fiaran'ny faneken'i Yahveh ho amin'ny toerany, ho any amin'ny debirin'ny trano, any amin'ny Masin'ny masina, ambanin'ny elatry ny kerobima.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "nampiditra"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiaran'ny faneken'i Yahveh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "faneken'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho amin'ny"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "toerany"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "debirin'"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ny trano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "any amin'ny"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Masin'ny"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "masina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ambanin'ny"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ao ambany"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "elatry ny"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerobima"
+    }
+  ],
+  "timestamp": "2026-08-31T14:43:02.710163937Z",
+  "model": "glm-5.3"
+}

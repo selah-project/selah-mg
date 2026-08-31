@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary vizana ⟨את⟩ ny vato tsangana, ary notapahina ⟨את⟩ ny Ashera, ka nofenoiny taolan'olona ⟨את⟩ ny fitoerany.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "vizana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vato tsangana"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "ny vato tsangana"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "notapahina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ny Ashera"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "nofenoiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitoerany"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "ny fitoerany"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "taolan'olona"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olona"
+    }
+  ],
+  "timestamp": "2026-08-31T15:00:48.534948121Z",
+  "model": "glm-5.3"
+}

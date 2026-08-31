@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary nalainao ⟨את⟩ ny zanakao lahy sy ⟨את⟩ ny zanakao vavy, izay naterakao tamiko, ka noloranao azy ireo hohanin'izy ireo — moa vitsy va noho ny fijangajanganao?",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "Ary nalainao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanakao lahy"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "zanakao lahy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanakao vavy"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "zanakao vavy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "naterakao"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "noloranao"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy ireo"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "hohanin'"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "vitsy va"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "noho ny fijangajanganao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:51:58.170594918Z",
+  "model": "glm-5.3"
+}

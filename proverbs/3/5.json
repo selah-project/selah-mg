@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Matokia Yahveh amin'ny fonao rehetra, ary amin'ny fahalalanao àza aza miankina.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Matokia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ny fonao"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary amin'ny"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "ny fahalalanao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "miankina"
+    }
+  ],
+  "timestamp": "2026-08-31T18:15:07.336651715Z",
+  "model": "glm-5.3"
+}

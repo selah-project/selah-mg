@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary hoy ny hazo tamin'ny voalohoka: Avia, ianao ⟨את⟩, panjaka aminay.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ny hazo"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "tamin'ny voalohoka"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Avia"
+    },
+    {
+      "surface": "את",
+      "gloss": "ianao",
+      "marks": "panjaka"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "panjaka"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "aminay"
+    }
+  ],
+  "timestamp": "2026-08-31T19:13:04.106457577Z",
+  "model": "glm-5.3"
+}

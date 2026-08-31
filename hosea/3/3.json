@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 3:3",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary hoy izaho taminy: Andro maro no hitoeranao ho ahy; aza mijangaina, ary aza ho an'ny lehilahy iray; ary izaho koa ⟨ho anao⟩.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "hoy izaho"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "tamininy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maro"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "hitoeranao"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תזני",
+      "gloss": "mijangaina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תהיי",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "an'ny lehilahy iray"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ary ... koa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "(ho anao)"
+    }
+  ],
+  "timestamp": "2026-08-31T16:07:44.554179208Z",
+  "model": "glm-5.3"
+}

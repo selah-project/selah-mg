@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary hoy izy: Andray. Dia nanentsa tanana izy ka naka azy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "Andray"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨hipetraka eo aminao⟩"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "nanentsa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tanana"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "naka azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:51:53.810740404Z",
+  "model": "glm-5.3"
+}

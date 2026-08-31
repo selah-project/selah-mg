@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Zanaka iray taona i Shaol fony ⟨nanjaka⟩, ary roa taona izy nanjaka tamin'i Yisrael.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "fony nanjaka"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ary roa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nanjaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-31T14:18:03.054246836Z",
+  "model": "glm-5.3"
+}

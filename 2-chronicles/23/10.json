@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary nampitoetra ⟨את⟩ ny vahoaka rehetra izy, ary samy nanana ny lefa tao an-tanany avokoa, hatramin'ny tananan'ny trano ankavanana ka hatramin'ny tananan'ny trano ankavia, eo akaikin'ny alitara sy eo akaikin'ny trano, manodidina ny mpanjaka.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "nampitoetra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ary samy"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ny lefa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "tao an-tanany"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "hatramin'ny tananan'ny"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ankavanana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "tananan'ny"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ankavia"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "eo akaikin'ny alitara"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "sy eo akaikin'ny trano"
+    },
+    {
+      "surface": "על",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    }
+  ],
+  "timestamp": "2026-08-31T18:20:15.786561512Z",
+  "model": "glm-5.3"
+}

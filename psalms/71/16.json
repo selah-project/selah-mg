@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 71,
+  "translation": "Ho avy amin'ny herin'i Adonay Yahveh aho, hahatsiaro ny fahamarinanao — anao irery ihany.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "Ho avy"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "amin'ny herin-"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "hahatsiaro"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ny fahamarinanao"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "anao irery ihany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:11.251377188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary Shemuela nanao hoe: Angonio ⟨את⟩ ny Isiraely rehetra ho any Mitspa, ary hivavaka ho anareo aho amin'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuela"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "Angonio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Isiraely rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "ho any Mitspa"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "ary hivavaka aho"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T14:16:22.265817412Z",
+  "model": "glm-5.3"
+}

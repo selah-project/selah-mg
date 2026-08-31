@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Enta-mavesatra ny lohasaha Hitomajy. Inona no hafatra aminao ankehitriny, fa niakatra avokoa ianao rehetra ho any amin'ny tampony?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "enta-mavesatra"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "lohasaha"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "fahitana"
+    },
+    {
+      "surface": "מה",
+      "gloss": "inona"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "ankehitriny"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "niakatra"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "ianao rehetra"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "ho any amin'ny tampony"
+    }
+  ],
+  "timestamp": "2026-08-31T15:08:05.315349229Z",
+  "model": "glm-5.3"
+}

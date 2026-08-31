@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 41:5",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Ary nandrefy ⟨izy⟩ ny rindrin'ny trano, enimina kiobita; ary ny sakan'ny efi-toby dia efatra kiobita, manodidina manodidina no ho an'ny trano, manodidina.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "nandrefy"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "ny rindrina"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ny trano"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enimina"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kiobita"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ary ny sakan'ny"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "efi-toby"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "efatra"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kiobita"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ho an'ny trano"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:04:09.165607802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Avy amin'ny zanaka roa-polo taona no ho miakatra, izay mivoaka ho amin'ny tafika rehetra amin'ny Isiraely, dia hotanisinareo ⟨את⟩ izy araka ny tafiny — ianao sy Aharona.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "Avy amin'ny zanaka"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "roa-polo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "no ho miakatra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "izay mivoaka"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ho amin'ny tafika"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "amin'ny Isiraely"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "hotanisinareo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izy (ireo mivoaka ho amin'ny tafika)"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "araka ny tafiny"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharona"
+    }
+  ],
+  "timestamp": "2026-08-31T13:23:48.258742360Z",
+  "model": "glm-5.3"
+}

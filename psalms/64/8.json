@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 64,
+  "translation": "Ary Elohim hitifitra azy tsipìka tampoka; tampoka no ho tonga ny fahavoazany.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "Ary ... hitifitra azy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "tsipìka"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "tampoka"
+    },
+    {
+      "surface": "היו",
+      "gloss": "no ho tonga"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "ny fahavoazany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:20.079527271Z",
+  "model": "glm-5.3"
+}

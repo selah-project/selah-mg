@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Ary Shaol nahita ⟨את⟩ toby ny Plisitiana, ka natahotra izy ary nientanentana fatratra ny fony.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nahita"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toby ny Plisitiana"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "toby"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Plisitiana"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "natahotra"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "nientanentana"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ny fony"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "fatratra"
+    }
+  ],
+  "timestamp": "2026-08-31T14:27:08.752959021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nanao izany koa ny mpanao ody tamin'ny fahaizany mba hamoaka ⟨את⟩ ny kinina, fa tsy nahony; dia nisy kinina tao amin'ny olona sy tao amin'ny biby fiompy.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ary nanao"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "ny mpanao ody"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "tamin'ny fahaizany"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "mba hamoaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny kinina"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "ny kinina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "nahony"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "dia nisy"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "kinina"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "tao amin'ny olona"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "sy tao amin'ny biby fiompy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:08.242099727Z",
+  "model": "glm-5.3"
+}

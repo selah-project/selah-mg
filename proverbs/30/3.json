@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary tsy nianatra fahendrena aho, ary ny fahalalana ny Olon-Kendry amin'ny fahalalana;",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ary tsy"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "nianatra"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "fahendrena"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ary ny fahalalana"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ny Olon-Kendry (masina)"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "amin'ny fahalalana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:57:58.134972803Z",
+  "model": "glm-5.3"
+}

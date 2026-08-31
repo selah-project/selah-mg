@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Hidera anao ny olona hafa fa tsy ny vavanao; ny vahiny fa tsy ny molotrao.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "Hidera anao"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ny olona hafa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ny vavanao"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "ny vahiny"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "ny molotrao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:57:21.751593025Z",
+  "model": "glm-5.3"
+}

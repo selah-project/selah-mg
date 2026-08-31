@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 62:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 62,
+  "translation": "Aza mianteha amin'ny fanolanana, ary amin'ny halatra aza manao zava-poana; na dia mamony aza ny harena, aza mametraka fonareo amin'izany.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "mianteha"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "amin'ny fanolanana"
+    },
+    {
+      "surface": "ובגזל",
+      "gloss": "amin'ny halatra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "manao zava-poana"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "harena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "na dia"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "mamony"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תשיתו",
+      "gloss": "mametraka"
+    },
+    {
+      "surface": "לב",
+      "gloss": "fonareo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:42.159279567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Eny, ny teni-pifaneketanao no fifalianako sy olom-panolo-tsainako.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Eny"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ny teni-pifaneketanao"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "no fifalianako"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "olona"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "mpanolo-tsaina ho ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:11.253760238Z",
+  "model": "glm-5.3"
+}

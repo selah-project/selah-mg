@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 71,
+  "translation": "Afeny ny vavako amin'ny fiderana anao, ny voninahitrao amin'ny andro rehetra.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "afeny"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ny vavako"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "fiderana anao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "היום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "voninahitrao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:53.025025525Z",
+  "model": "glm-5.3"
+}

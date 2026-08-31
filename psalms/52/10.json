@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 52,
+  "translation": "Fa izaho kosa dia tahaka ny oliva maitso eo an-tranon'ny Elohim; matoky ny hesedin'ny Elohim aho mandrakizay amandravaravara.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "fa izaho kosa"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "tahaka ny oliva"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "maitso"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "eo an-tranon'ny"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "matoky aho"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "ny hesedin'ny"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "amandravaravara"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:22.060934079Z",
+  "model": "glm-5.3"
+}

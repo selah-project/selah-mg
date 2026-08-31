@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 57,
+  "translation": "Izaho hampilaza ny fahamarinanao sy ⟨את⟩ ny asanao, fa tsy hahasoava anao ireo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "hampilaza"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ny fahamarinanao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny asanao"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ny asanao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "hahasoava anao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:19:59.892324862Z",
+  "model": "glm-5.3"
+}

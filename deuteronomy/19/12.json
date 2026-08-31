@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Dia haniraka ny anti-panahin'ny tanàny izy ireo, ka hakatra ⟨את⟩ azy avy any, ary hanolotra ⟨את⟩ azy ho tongovelon'ny mpanavotra ny ra, ary dia ho faty izy.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "Dia haniraka"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ny anti-panahin'ny"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "tanàny"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "ka hakatra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "משם",
+      "gloss": "avy any"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ary hanolotra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy ho tongovelon'ny mpanavotra ny ra"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ho tongovelon'ny"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "mpanavotra"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ny ra"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ary dia ho faty"
+    }
+  ],
+  "timestamp": "2026-08-31T13:46:58.918851355Z",
+  "model": "glm-5.3"
+}

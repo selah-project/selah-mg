@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ho an'ny mpitan-tsoratra ⟨amin'ny⟩ zava-maneno tady. Fihirana nataon'i David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho an'ny mpitan-tsoratra"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "⟨amin'ny⟩ zava-maneno tady"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "fihirana"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nataon'i David"
+    }
+  ],
+  "timestamp": "2026-08-31T18:13:28.165176037Z",
+  "model": "glm-5.3"
+}

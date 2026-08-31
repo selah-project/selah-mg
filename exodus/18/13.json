@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary tamin'ny ampitso Moshe nipetraka hitsara ⟨את⟩ ny olona, ary ny olona nitsangana teo anivon'i Moshe, hatramin'ny maraina ka hatramin'ny hariva.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary tamin'ny"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ampitso"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nipetraka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "hitsara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny olona"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ary nitsangana"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo anivon'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "hatramin'ny"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "maraina"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "hariva"
+    }
+  ],
+  "timestamp": "2026-08-31T13:02:09.204626118Z",
+  "model": "glm-5.3"
+}

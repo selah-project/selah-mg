@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary miposaka ny masoandro, ary midina ny masoandro, sady miaina mafy mankany amin'ny toerany izy — mipoitra any izy.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "ary miposaka"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ny masoandro"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ary midina"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ny masoandro"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sady mankany amin'ny"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "toerany"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "miaina mafy"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "mipoitra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "שם",
+      "gloss": "any"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:28.535447496Z",
+  "model": "glm-5.3"
+}

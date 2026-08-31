@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Fa rary ny ondry kosa, dia tsy napetrany; ka ny malemy ho an'i Lavan, ary ny mafy ho an'i Yaakov.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "Fa rary kosa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ny ondry"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "napetrany"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ka lasa"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "ny malemy"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ho an'i Lavan"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "ary ny mafy"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ho an'i Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-31T12:46:20.304723984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Mandra-pihavinako ka haka ⟨את⟩ anareo ho any amin'ny tany tahaka ny taninareo: tany vary sy divay vaovao, tany mofo sy voaloboka.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Mandra-pihavinako"
+    },
+    {
+      "surface": "באי",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "ka haka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo",
+      "marks": "anareo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "tahaka ny taninareo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "vary"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "sy divay vaovao"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mofo"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "sy voaloboka"
+    }
+  ],
+  "timestamp": "2026-08-31T15:13:08.884218965Z",
+  "model": "glm-5.3"
+}

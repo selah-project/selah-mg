@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Indro, amin'ny fahamarinana no hanjakan'ny mpanjaka, ary ny mpanapaka ho amin'ny fitsarana no hanapaka.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "amin'ny fahamarinana"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "hanjaka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "ary ny mpanapaka"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "amin'ny fitsarana"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "hanapaka"
+    }
+  ],
+  "timestamp": "2026-08-31T18:06:59.890065538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary Elohim nanendry kankana tamin'ny niposahan'ny maraina, nony maraina ny ampitso, ka namely ⟨את⟩ ilay kikaiona izy, dia maina ilay izy.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "nanendry"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "kankana"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "tamin'ny niposahan'ny"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "maraina"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "nony maraina ny ampitso"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "namely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay kikaiona"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "ilay kikaiona"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "maina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:14:46.737973591Z",
+  "model": "glm-5.3"
+}

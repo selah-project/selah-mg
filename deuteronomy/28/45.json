@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 28:45",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Ary ho tonga aminao izao ozona ireto rehetra ireto, ary hanenjika anao ireo ary hahatratra anao, ambara-paharinganana anao; satria tsy nihaino ny feon'i Yahveh Elohiminao hianao hanaraka ny didiny sy ny fitsipiny izay nandidiany anao.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "Ary ho tonga"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הקללות",
+      "gloss": "ozona"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireto"
+    },
+    {
+      "surface": "ורדפוך",
+      "gloss": "hanenjika anao"
+    },
+    {
+      "surface": "והשיגוך",
+      "gloss": "hahatratra anao"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ambara-"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "faharinganana anao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "feon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminao"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "hanaraka"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "didiny"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "sy ny fitsipiny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "nandidiany anao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:50:48.459665504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 109,
+  "translation": "Rehefa tsarainy dia hoivoaka meloka izy, ary ny vavany ho tonga ota.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "Rehefa tsarainy"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "hoivoaka"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "meloka"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "ary ny vavany"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ho tonga"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "ota"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:48.177734209Z",
+  "model": "glm-5.3"
+}

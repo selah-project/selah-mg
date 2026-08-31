@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 30:11",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Miala amin'ny lalana, maneso amin'ny lalandava, ajanona tsy ho eo anatrehantsika ⟨את⟩ Iray Masina amin'ny Isiraely.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Miala"
+    },
+    {
+      "surface": "מני",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "maneso"
+    },
+    {
+      "surface": "מני",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "lalandava"
+    },
+    {
+      "surface": "השביתו",
+      "gloss": "ajanona"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "tsy ho eo anatrehantsika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iray Masina amin'ny Isiraely"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Iray Masina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "amin'ny Isiraely"
+    }
+  ],
+  "timestamp": "2026-08-31T15:10:27.893771432Z",
+  "model": "glm-5.3"
+}

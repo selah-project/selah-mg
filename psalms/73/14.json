@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 73,
+  "translation": "Ka lasa voa manjo ahy ny andro maharay, ary ny fananarana ahy isambolan'andro.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "ka lasa"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "voa manjo ahy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "maharay"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ny andro"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "ary ny fananarana ahy"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "isambolan'andro"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:29.861264449Z",
+  "model": "glm-5.3"
+}

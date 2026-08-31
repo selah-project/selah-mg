@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Tsy miresaka tsiky amin'ny lelany izy, tsy manao loza ho an'ny namany, ary tsy mandray tsiny hevitra manafody ny havana.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "miresaka tsiky"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "lelany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "manao"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "ho an'ny namany"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "loza"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "tsy hevitra manafody"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mandray"
+    },
+    {
+      "surface": "על",
+      "gloss": "(amin')"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ny havana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:55.946542460Z",
+  "model": "glm-5.3"
+}

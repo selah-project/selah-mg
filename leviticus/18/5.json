@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary hitandrina ny fari-panjakako ⟨את⟩ sy ny fitsaranko ⟨את⟩ ianareo, izay hataon'ny olona ka ho velona amin'izany; Izaho Yahveh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "hitandrina ianareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fari-panjakako"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ny fari-panjakako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitsaranko"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ny fitsaranko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hataony"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ny olona"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ka ho velona"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "amin'izany"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:17:18.339171940Z",
+  "model": "glm-5.3"
+}

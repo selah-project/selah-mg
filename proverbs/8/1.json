@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Tsy miantso va ny fahendrena, ary ny fahalalana tsy manome va ny feony?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "tsy ... va"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "fahendrena"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "miantso"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "ary ny fahalalana"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "manome"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "ny feony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:50:51.455749431Z",
+  "model": "glm-5.3"
+}

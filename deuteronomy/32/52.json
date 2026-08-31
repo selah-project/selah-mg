@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Fa eny hitanao ⟨את⟩ ilay tany lavitra, nefa tsy hiditra any ianao, ho any amin'ny tany izay omeko ho an'ny zanak'i Isiraela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "lavitra"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "hitranao eny hitanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilay tany"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "any"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "hiditra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "omeko izay omeko"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "omeko"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ho an'ny zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraela"
+    }
+  ],
+  "timestamp": "2026-08-31T13:52:39.153634511Z",
+  "model": "glm-5.3"
+}

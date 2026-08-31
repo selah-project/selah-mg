@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Ary hoy izy taminy: Raha tsy mandeha ny tavanao, aza manentana antsika miala avy eto.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ary hoy izy"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ny tavanao"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "manentana antsika"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "miala avy eto"
+    }
+  ],
+  "timestamp": "2026-08-31T13:07:30.701123040Z",
+  "model": "glm-5.3"
+}

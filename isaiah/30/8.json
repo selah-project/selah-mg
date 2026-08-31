@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ankehitriny, mandehana, soraty ⟨את⟩ amin'ny tabilao eo anatrehany, ary hosorana ⟨את⟩ amin'ny boky, ary izany ho an'ny andro farany, ho vavolombelona mandrakizay aman-mpandrosoana.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Ankehitriny"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "mandehana"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "soraty"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tabilao"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "eo anatrehany"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ary amin'ny"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "boky"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "hosorana"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ary izany ho"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ho an'ny andro"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "farany"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ho vavolombelona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandrakizay aman-"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mpandrosoana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:47:22.543589378Z",
+  "model": "glm-5.3"
+}

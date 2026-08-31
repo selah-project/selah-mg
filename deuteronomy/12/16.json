@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Fa ny rà ihany no tsy hohaninare; aidîo ambonin'ny tany izy toy ny rano.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Fa ... ihany"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ny rà"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "hohaninare"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "aidîo"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "toy ny rano"
+    }
+  ],
+  "timestamp": "2026-08-31T13:44:28.593261050Z",
+  "model": "glm-5.3"
+}

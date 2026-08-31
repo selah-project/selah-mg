@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 21:2",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary Davida tonga tao Noba, tao amin'i Ahimeleka mpisorona; ary Ahimeleka nihorohoro nitsena an'i Davida, ka nanao taminy hoe: Nahoana no ianao irery, ary tsy misy olona momba ⟨את⟩ anao?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "נבה",
+      "gloss": "Noba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tao amin'i"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimeleka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "nihorohoro"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimeleka"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "nitsena"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "an'i Davida"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Nahoana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "irery"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ary olona"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "momba ⟨את⟩ anao",
+      "marks": "anao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:23:58.642737850Z",
+  "model": "glm-5.3"
+}

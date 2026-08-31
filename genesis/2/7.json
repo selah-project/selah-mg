@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Dia namorona Yahveh Elohim ⟨את⟩ ny olona, vovoka avy amin'ny tany, ka tsopoka tamin'ny vavorony ny ran'ny aina velona; ary lasa fanahy velona ny olona.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "namorona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny olona"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "vovoka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tany"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "ka tsopoka tamin'ny"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "vavorony"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "ny ran'ny aina"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "velona"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ary lasa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "velona"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:28.009589889Z",
+  "model": "glm-5.3"
+}

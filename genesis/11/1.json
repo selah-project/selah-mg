@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary ⟨⟩ ny tany rehetra nanao vava iray sy teny iray ⟨ihany⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nilahatra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "vava (fiteny)"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "iray"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "sy teny"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "iray (mitambatra)"
+    }
+  ],
+  "timestamp": "2026-08-31T12:38:02.704320058Z",
+  "model": "glm-5.3"
+}

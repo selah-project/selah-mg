@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 133,
+  "translation": "Shira ham'ma'alot, an'i David. Indro, tsara fanda raha hatsiara ny rahalahy mitoetra miara-miompy.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "hira"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ham'ma'alot (fianarana)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "an'i David"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "מה",
+      "gloss": "tsara fanda raha"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "hatsiara raha"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "hatsiara"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "mitoetra"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ny rahalahy"
+    },
+    {
+      "surface": "גם",
+      "gloss": "miara-"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "miompy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:36:04.714334761Z",
+  "model": "glm-5.3"
+}

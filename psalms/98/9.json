@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 98,
+  "translation": "Eo anatrehan'i Yahveh, fa efa tonga izy hiteny fitsarana ⟨את⟩ ny tany; hitsara izy ⟨את⟩ izao tontolo izao amin'ny fahamarinana, sy ⟨את⟩ ny fireneny amin'ny fahitsiana.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "eo anatrehan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "efa tonga"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "hiteny fitsarana"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "hitsara"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "izao tontolo izao"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "amin'ny fahamarinana"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "sy ny fireneny"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "amin'ny fahitsiana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:02.270211177Z",
+  "model": "glm-5.3"
+}

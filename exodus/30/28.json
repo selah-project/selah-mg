@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Sy ⟨את⟩ ny alitara fandoroana fanatitra dorana mbamin'⟨את⟩ ny fanaka rehetra mandraky azy, sy ⟨את⟩ ny lavaka fanesorana havozo sy ⟨את⟩ ny fotony.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny alitara fandoroana fanatitra dorana"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "fandoroana fanatitra dorana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mbamin'⟨את⟩",
+      "marks": "ny fanaka rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "fanaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny lavaka fanesorana havozo"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "lavaka fanesorana havozo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny fotony"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "fotony"
+    }
+  ],
+  "timestamp": "2026-08-31T13:06:56.353061369Z",
+  "model": "glm-5.3"
+}

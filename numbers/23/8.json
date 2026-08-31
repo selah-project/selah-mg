@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ahoana no hanozonako izay tsy nozonin'El? Ary ahoana no hanteziriko izay tsy niezakin'i Yahveh?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ahoana no"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "hanozonako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "nozonin'"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Ary ahoana no"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "hanteziriko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "niezakin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:34:13.138483196Z",
+  "model": "glm-5.3"
+}

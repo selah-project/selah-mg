@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Arahaba ny fon'ny mpisorona, ka naka ⟨את⟩ ny ephod sy ⟨את⟩ ny terafima sy ⟨את⟩ ny pesel izy, ary niditra tao anivon'ny vahoaka.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "Arahaba"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ny fo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "naka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ephod"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ny ephod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny terafima"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "ny terafima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny pesel"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "ny pesel"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "niditra"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "tao anivon'ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:11:49.303701514Z",
+  "model": "glm-5.3"
+}

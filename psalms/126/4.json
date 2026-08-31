@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 126,
+  "translation": "Miverena, ry Yahveh, ⟨את⟩ ny fahafahantsa, toy ny renirano any atsimo.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Miverena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahafahantsa"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "ny fahafahantsa"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "toy ny renirano"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "any atsimo (Neguev)"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:47.198435490Z",
+  "model": "glm-5.3"
+}

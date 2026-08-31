@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 9:4",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary Yahveh hanao fahasamihafana ⟨eo⟩ anelanelan'ny biby fiompin'i Isiraely sy ny biby fiompin'i Mitsrayim; ary tsy ho faty akory na inona na inona amin'izay an'ny zanak'i Isiraely.",
+  "tokens": [
+    {
+      "surface": "והפלה",
+      "gloss": "hanao fahasamihafana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בין",
+      "gloss": "anelanelan'ny"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "biby fiompin'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "biby fiompin'i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ho faty"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "na inona na inona"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "an'ny zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "na inona na inona"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:18.331357142Z",
+  "model": "glm-5.3"
+}

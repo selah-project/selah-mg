@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 23:18",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "ho an'i Avraham ho fananganana ⟨nomery tafiditra ao amin'ny vavahadin'ny tanàna rehetra⟩ — teo imason'ny zanak'i Heta, dia amin'izay rehetra miditra amin'ny vavahadin'ny tanànany.",
+  "tokens": [
+    {
+      "surface": "לאברהם",
+      "gloss": "ho an'i Avraham"
+    },
+    {
+      "surface": "למקנה",
+      "gloss": "ho fananganana"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "teo imason'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "באי",
+      "gloss": "miditra"
+    },
+    {
+      "surface": "שער",
+      "gloss": "amin'ny vavahady"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ny tanànany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:40:57.824759493Z",
+  "model": "glm-5.3"
+}

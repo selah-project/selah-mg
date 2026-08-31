@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary ny tafiny sy ny voaisa taminy ⟨dia⟩ dimy amby efapolo arivo sy eninjato amby dimam-polo.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Ary ny tafiny"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "sy ny voaisa taminy"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "dimy"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "amby efapolo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "arivo"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "sy enin"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "njato"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "amby dimam-polo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:24:29.116071478Z",
+  "model": "glm-5.3"
+}

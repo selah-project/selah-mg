@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary hoy Davida tamin'i Yehonatan: Iza no hilaza amiko? Ary inona raha mamaly anao mafy ny rainao?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Iza"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "no hilaza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "או",
+      "gloss": "Ary (na)"
+    },
+    {
+      "surface": "מה",
+      "gloss": "inona raha"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "mamaly anao"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ny rainao"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "mafy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:22:58.223783276Z",
+  "model": "glm-5.3"
+}

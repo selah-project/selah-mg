@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Hakiho iray ny halavany, ary hakiho iray ny habeny; efazoro no ho azy; ary hakiho roa ny haavony; avy aminy no ho avy ny tandrony.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "hakiho iray"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ny halavany"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ary hakiho iray"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ny habeny"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "efazoro"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "no ho azy"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "ary hakiho roa"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ny haavony"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "avy aminy"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ny tandrony"
+    }
+  ],
+  "timestamp": "2026-08-31T13:07:02.776188826Z",
+  "model": "glm-5.3"
+}

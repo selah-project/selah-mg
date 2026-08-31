@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 8:14",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Dia nandao an'i ⟨את⟩ Elisa izy ka tonga nankeo amin'ny tompony; ary hoy io taminy: Inona no nolazain'i Elisa taminao? Dia hoy izy: Nolazainy tamiko hoe: Velona tokoa ianao.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nandao... izy"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Elisa (niaraka taminy)"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nankeo amin'ny"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "tompony"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ary hoy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "מה",
+      "gloss": "inona"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nolazainy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "taminao"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dia hoy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nolazainy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "velona tokoa"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ianao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:54:19.585618117Z",
+  "model": "glm-5.3"
+}

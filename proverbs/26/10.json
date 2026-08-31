@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Be ny fandotoana ny zavatra rehetra; ary izy mibaby ny adala, sy izy mibaby izay mandalo.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "be"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "ny fandotoana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny zavatra rehetra"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ary izy mibaby"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ny adala"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "sy izy mibaby"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "izay mandalo"
+    }
+  ],
+  "timestamp": "2026-08-31T18:15:16.640481473Z",
+  "model": "glm-5.3"
+}

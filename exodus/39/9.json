@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "Efa-mora ⟨izy⟩, natao avo-roa ⟨את⟩ ny Hoshena: aman-tanana ny lavany ary aman-tanana ny sakany, avo-roa.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "efa-mora"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨izy⟩"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "avo-roa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "natao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Hoshena"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "Hoshena"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "aman-tanana"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ny lavany"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "aman-tanana"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ny sakany"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "avo-roa"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:06.045947900Z",
+  "model": "glm-5.3"
+}

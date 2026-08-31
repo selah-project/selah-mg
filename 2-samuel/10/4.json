@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Dia noraisin'i Hanun ⟨את⟩ ny mpanompon'i Davida, ka nendasiny ny antsasaky ny volombavany, ary notapahiny ⟨את⟩ fitafiany amin'ny antsasany ka hatramin'ny fenony ambany, dia nampodiany izy ireo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Dia noraisin'i"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanompon'i Davida"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ny mpanompon'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "ka nendasiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny antsasaky ny volombavany"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ny antsasaky"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "ny volombavany"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ary notapahiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fitafiany"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "fitafiany"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "amin'ny antsasany"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "fenony ambany"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "dia nampodiany izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:31:30.390366722Z",
+  "model": "glm-5.3"
+}

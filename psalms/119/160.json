@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ny fizaran'ny teninao dia marina; ary mandrakizay ny fitsarana marina rehetra avy aminao.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Ny fizaran'ny"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "teninao"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "dia marina"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "ary mandrakizay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "fitsarana"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "marina avy aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:28.665110387Z",
+  "model": "glm-5.3"
+}

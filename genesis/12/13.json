@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 12:13",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Lazao azafady fa rahavaviko ianao, mba hatao tsara ho ahy noho ny aminao, ary hivelona ny aiko noho ny aminao.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "Lazao"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "rahavaviko"
+    },
+    {
+      "surface": "את",
+      "gloss": "ianao",
+      "marks": "rahavaviko"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mba"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "hatao tsara"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "בעבורך",
+      "gloss": "noho ny aminao"
+    },
+    {
+      "surface": "וחיתה",
+      "gloss": "ary hivelona"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "בגללך",
+      "gloss": "noho ny aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:34.357577384Z",
+  "model": "glm-5.3"
+}

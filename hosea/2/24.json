@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary ny tany hamaly ⟨את⟩ ny vary, sy ⟨את⟩ ny divaina vaovao, ary ⟨את⟩ ny menaka; ary ireo hamaly ⟨את⟩ an'i Yizreela.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Ary ny tany"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "hamaly"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vary"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "ny vary"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny divaina vaovao"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "ny divaina vaovao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny menaka"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "ny menaka"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ary ireo"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "hamaly"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yizreela"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreela"
+    }
+  ],
+  "timestamp": "2026-08-31T18:10:34.761012355Z",
+  "model": "glm-5.3"
+}

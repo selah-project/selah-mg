@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Zanaka mahay no mandray ny fampianaran'ny rainy, fa ny mpanamory tsy mandre fananaranana.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mahay"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "fampianarana"
+    },
+    {
+      "surface": "אב",
+      "gloss": "rainy"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "fa ny mpanamory"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mandre"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "fananaranana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:53:06.624784211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ny liona tanora dia mahantra sy noana; fa izay mitady an'i Yahveh dia tsy hangataka zava-tsoa akatoky.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "Ny liona tanora"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "mahantra"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "sy noana"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "fa izay mitady"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "hangataka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "akatoky"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zava-tsoa"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:45.924623112Z",
+  "model": "glm-5.3"
+}

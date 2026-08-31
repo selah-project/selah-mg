@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary nandeha ⟨izy⟩ avy teo ho any an-tendrombohitra ⟨an'i⟩ Karmela, ary avy teo niverina ho any Shomeron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "משם",
+      "gloss": "avy teo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmela"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ary avy teo"
+    },
+    {
+      "surface": "שב",
+      "gloss": "niverina"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-31T14:49:38.061624603Z",
+  "model": "glm-5.3"
+}

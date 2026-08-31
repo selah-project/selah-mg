@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Tsy vaovao ve ⟨⟨?⟩⟩ ny tany rehetra eo anatrehanao? Misaraha azafady amiko; raha ⟨mankany⟩ avaratra, izaho ho atsimo; ary raha ⟨mankany⟩ atsimo, izaho ho avaratra.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "tsy vaovao ve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "eo anatrehanao"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "misaraha"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "⟨mankany⟩ avaratra"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "izaho ho atsimo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ary raha"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "⟨mankany⟩ atsimo"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "izaho ho avaratra"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:32.520060797Z",
+  "model": "glm-5.3"
+}

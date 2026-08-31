@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 17:19",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Fa na dia Yehuda aza tsy nitandrina ⟨את⟩ ny didin'i Yahveh Elohiminy fa nandeha araka ny lalàn'i Yisrael izay nataony.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "na dia ... aza"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nitandrina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny didin'i Yahveh"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ny didin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohiminy"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "araka ny lalàn'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nataony"
+    }
+  ],
+  "timestamp": "2026-08-31T14:57:37.302502138Z",
+  "model": "glm-5.3"
+}

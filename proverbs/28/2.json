@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 28:2",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Amin'ny habokan'ny tany dia maro ny mpitondra azy; fa amin'ny olona mahay sy mahalala ⟨ny filaminana⟩ dia maharitra.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "amin'ny haboka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maro"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "ny mpitondra azy"
+    },
+    {
+      "surface": "ובאדם",
+      "gloss": "fa amin'ny olona"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "mahay"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨toa izany⟩"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "dia maharitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:57:45.757846544Z",
+  "model": "glm-5.3"
+}

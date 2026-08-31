@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Mandrafitsangà, ry vavahady, ny lohanareo, ary mandrafitsangà ianareo, ry varavarana fahagola, ary hiditra ny Mpanjakan'ny voninahitra.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Mandrafitsangà"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ry vavahady"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "ny lohanareo"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "ary mandrafitsangà ianareo"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "ry varavarana"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "fahagola"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ary hiditra"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Mpanjaka"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ny voninahitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:16.357925378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 79,
+  "translation": "Fa efa lanin'izy ireo ⟨את⟩ i Yaakov, ary ny fonenany efa nataony ho tany efa-trano.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "efa lanin'izy ireo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "i Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fonenany"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "ny fonenany"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "nataony ho tany efa-trano"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:39.568272351Z",
+  "model": "glm-5.3"
+}

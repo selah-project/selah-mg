@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 13:24",
+  "book": "nehemiah",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary ny anankiray tamin'ny zanany dia miteny amin'ny fitenin'i Ashdod, fa tsy mahay miteny amin'ny fitenin'ny Jiosy akory, fa araka ny fitenin'ny vahoaka tsirairay.",
+  "tokens": [
+    {
+      "surface": "ובניהם",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ny anankiray tamin'ny"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "miteny"
+    },
+    {
+      "surface": "אשדודית",
+      "gloss": "amin'ny fitenin'i Ashdod"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "מכירים",
+      "gloss": "mahay"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "miteny"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "amin'ny fitenin'ny Jiosy"
+    },
+    {
+      "surface": "וכלשון",
+      "gloss": "fa araka ny fitenin'ny"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "tsirairay"
+    }
+  ],
+  "timestamp": "2026-08-31T17:33:51.114433540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Loza amin'ny mpiandry ondry mandrava sy manaparitaka ⟨את⟩ ny ondrin'ny fiandrasako, lazain'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Loza amin'ny"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "mpiandry ondry"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "mandrava"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "sy manaparitaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ondrin'ny fiandrasako"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ny ondrin'ny fiandrasako"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "fiandrasako"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "lazain'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T18:33:31.788219050Z",
+  "model": "glm-5.3"
+}

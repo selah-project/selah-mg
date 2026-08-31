@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 139,
+  "translation": "Aoriana sy aloha nanodidina ahy ⟨Ianao⟩, ary nametraka ny falanjinao amiko.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "aoriana"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "sy aloha"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "nanodidina ahy"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "ary nametraka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "ny falanjinao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:41.509041364Z",
+  "model": "glm-5.3"
+}

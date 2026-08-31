@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary ho isanareo avy amin'ny ampitson'ny Sabata, avy amin'ny andro iampidirinare ny ⟨את⟩ omer ahenika, fito Sabata feno no ho tanteraka.",
+  "tokens": [
+    {
+      "surface": "וסספרתם",
+      "gloss": "Ary ho isanareo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "avy aminareo"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "avy amin'ny ampitson'ny"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabata"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "avy amin'ny andro"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "iampidirinare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny omer"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "ahenika"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "fito"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "Sabata"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "feno"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ho tanteraka"
+    }
+  ],
+  "timestamp": "2026-08-31T13:21:35.238072589Z",
+  "model": "glm-5.3"
+}

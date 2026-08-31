@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Dia naniraka Achab tamin'ny Zanak'i Yisraela rehetra, ka nampivory ⟨את⟩ ny mpaminany ho eo an-tendrombohitra Karmaela.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Dia naniraka"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tamin'ny... rehetra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Zanaky ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "ka nampivory"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpaminany"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ny mpaminany"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho eo an-"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmaela"
+    }
+  ],
+  "timestamp": "2026-08-31T14:48:24.150804814Z",
+  "model": "glm-5.3"
+}

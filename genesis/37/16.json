@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary izy nanao hoe: ⟨את⟩ ny rahalahiko no mitady aho; lazao azafady amiko izay misehoany izy miandry ondry.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rahalahiko"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ny rahalahiko"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aho"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "no mitady"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "lazao"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "לי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "izay misehoany izy"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izy"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "miandry ondry"
+    }
+  ],
+  "timestamp": "2026-08-31T12:48:01.878588892Z",
+  "model": "glm-5.3"
+}

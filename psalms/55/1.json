@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 55,
+  "translation": "Ho an'ny mpitarika ⟨amin'ny zava-maneno tady⟩, tononkalo mampianatra, an'i Davida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho an'ny mpitarika"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "⟨amin'ny zava-maneno tady⟩"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "tononkalo mampianatra"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "an'i Davida"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:04.556802534Z",
+  "model": "glm-5.3"
+}

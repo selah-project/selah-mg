@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 20:11",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary nomeiko ho azy ⟨את⟩ ny lalàko voatetra, ary ny fitsaranko efa nampahafantiariko azy: izay raha ataon'ny olona dia velona noho izy ireo.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "nomeiko"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lalàko voatetra"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "lalàko voatetra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitsaranko"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "fitsaranko"
+    },
+    {
+      "surface": "הודעתי",
+      "gloss": "nampahafantiariko"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ azy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "rataon'ny"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "izy ireo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "velona"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "noho izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:53:53.311233600Z",
+  "model": "glm-5.3"
+}

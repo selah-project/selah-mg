@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 3:5",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Hitahiry mandrakizay va ⟨izy⟩, hitandrina azy ho any farany va? Indro, ianao efa niteny, nefa nanao ny zava-dratsy ka nahita vaha ny ratsy rehetra.",
+  "tokens": [
+    {
+      "surface": "הינטר",
+      "gloss": "hitahiry-va"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "va"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "hitandrina"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ho any farany"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "efa niteny ianao"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "nefa nanao"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "ny zava-dratsy"
+    },
+    {
+      "surface": "ותוכל",
+      "gloss": "ka nahita vaha ny ratsy rehetra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:24:09.233815016Z",
+  "model": "glm-5.3"
+}

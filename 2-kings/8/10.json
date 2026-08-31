@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary Elisa nanao taminy hoe: Mandehana, lazao azy hoe: Tsy ho velona tokoa izy; fa Yahveh efa naneho tamiko fa maty tokoa izy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao taminy hoe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Mandehana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "lazao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "velona"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ho ... tokoa"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "efa naneho tamiko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maty"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "tokoa"
+    }
+  ],
+  "timestamp": "2026-08-31T14:54:08.488647849Z",
+  "model": "glm-5.3"
+}

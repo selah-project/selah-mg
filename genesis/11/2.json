@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 11:2",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary nony niainga avy any atsinanana izy ireo, dia hitany lohasaha tany amin'ny tany Shinar, ka nonina tao.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nony"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "niainga izy ireo"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "avy any atsinanana (Kedema)"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "dia hitany"
+    },
+    {
+      "surface": "בקעה",
+      "gloss": "lohasaha"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tany amin'ny tany"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinar"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ka nonina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:38:02.704574369Z",
+  "model": "glm-5.3"
+}

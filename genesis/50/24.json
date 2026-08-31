@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 50:24",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 50,
+  "translation": "Ary hoy i Yosefa tamin'ny rahalahiny: Izaho dia maty; ary Elohim hitsidika tokoa ⟨את⟩ anareo ka hanentina avy amin'ity tany ity ⟨את⟩ hianareo mankany amin'ny tany izay nianianany tamin'i Avraham, tamin'i Isaka ary tamin'i Jakoba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "i Yosefa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "rahalahiny"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dia maty"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "ary Elohim"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "hitsidika tokoa"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "hitsidika"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "ka hanentina"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "hianareo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy amin'ity"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ity"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mankany amin'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "nianianany"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "tamin'i Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "tamin'i Isaka"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "ary tamin'i Jakoba"
+    }
+  ],
+  "timestamp": "2026-08-31T12:54:30.023725027Z",
+  "model": "glm-5.3"
+}

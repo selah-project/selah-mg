@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 20:3",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ho toerana ialofan'ny mpamono olona, izay mamono aina amin'ny fahadisoam-panantenana, tsy nahalala, handosirany any; ary ho fialofana ho anareo izy ireo tsy ho amin'ny mpanavotra rà.",
+  "tokens": [
+    {
+      "surface": "לנוס",
+      "gloss": "handosirany"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "any"
+    },
+    {
+      "surface": "רוצח",
+      "gloss": "mpamono olona"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "mamono"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "aina"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "amin'ny fahadisoana"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "nahalala"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "למקלט",
+      "gloss": "fialofana"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "mpanavotra"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "rà"
+    }
+  ],
+  "timestamp": "2026-08-31T14:02:32.338120444Z",
+  "model": "glm-5.3"
+}

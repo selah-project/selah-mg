@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 18:24",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary ianareo hiantso amin'ny anaran'ny andriamanitrareo; fa izaho hiantso amin'ny anaran'i Yahveh; ary ilay Elohim hamaly amin'ny afo, dia Izy no Elohim. Ary namaly ny vahoaka rehetra ka nanao hoe: Tsara ny teny.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "Ary ianareo hiantso"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "amin'ny anaran'"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ny andriamanitrareo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "fa izaho"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "hiantso"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "amin'ny anaran'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ilay Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יענה",
+      "gloss": "hamaly"
+    },
+    {
+      "surface": "באש",
+      "gloss": "amin'ny afo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Izy"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "Ary namaly"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Tsara"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ny teny"
+    }
+  ],
+  "timestamp": "2026-08-31T14:48:03.467644423Z",
+  "model": "glm-5.3"
+}

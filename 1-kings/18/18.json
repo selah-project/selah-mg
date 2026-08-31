@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Dia hoy izy: Tsy izy no nampahory an'i Yisraela fa hianao sy ny taranak'ny rainao, satria nahafoy ⟨את⟩ ny didin'i Yahveh hianareo ka nanaraka ny Baalima.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dia hoy izy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "izy no nampahory"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "hianao"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "sy ny taranaky ny"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "rainao"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "nahafoy hianareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny didin'i Yahveh"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "didiny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "ka nanaraka"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nanaraka"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "ny Baalima"
+    }
+  ],
+  "timestamp": "2026-08-31T14:48:24.150469899Z",
+  "model": "glm-5.3"
+}

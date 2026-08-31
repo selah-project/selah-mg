@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Nampivelatra ny tànany ho an'ny malahelo, ary nanitatra ny tànany ho an'ny tsy manana.",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "ny tànany"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "nampivelatra"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ho an'ny malahelo"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "ary ny tànany"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "nanitatra"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "ho an'ny tsy manana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:58:13.949253804Z",
+  "model": "glm-5.3"
+}

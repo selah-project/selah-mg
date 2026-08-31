@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary hoy ny mpanjakan'i Yisraela tamin'ny mpanompony: Tsy fantatrareo va fa anay Ramot-Gilada, ary izahay mangina fotsiny ka tsy maka ⟨את⟩ azy amin'ny tànan'ny mpanjakan'i Aram?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ny mpanjakan'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "mpanompony"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Tsy fantatrareo va"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anay"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot-"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilada"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ary izahay"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "mangina fotsiny"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "ka tsy maka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy (Ramot-Gilada)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "amin'ny tànan'ny"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'i"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-31T14:49:58.267842822Z",
+  "model": "glm-5.3"
+}

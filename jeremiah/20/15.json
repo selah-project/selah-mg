@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Voaozona ilay lehilahy izay nilaza tamin'ny rainy fa nitranga taminy zaza lahy, ka nampifaly azy be ilay lehilahy.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Voaozona"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ilay lehilahy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nilaza vaovao mahafaly \/ nanambara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny raiko"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ny raiko"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ianao \/ taminao"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zaza"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lahy"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "nampifaly"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "azy be \/ nahafaly azy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:31:22.813603308Z",
+  "model": "glm-5.3"
+}

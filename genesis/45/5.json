@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 45:5",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 45,
+  "translation": "Ary izao, aza mialonena ianareo, ary aza mamaly loatra ao amin'ny masonareo, fa ianareo no nivarotra ahy ⟨את⟩ teto; fa mba hampiaina no naniraka ahy Elohim talohanareo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ary izao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תעצבו",
+      "gloss": "mialonena ianareo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "mamaly loatra (hirehitra)"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "ao amin'ny masonareo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "nivarotra ianareo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ahy teto"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "teto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "למחיה",
+      "gloss": "mba hampiaina"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "no naniraka ahy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "talohanareo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:53:09.266556789Z",
+  "model": "glm-5.3"
+}

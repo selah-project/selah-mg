@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 44:20",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Ary ny lohany tsy hamelina, ary ny volony tsy hangidiainy halavana; fa hetezina no heteziny ⟨את⟩ ny lohany.",
+  "tokens": [
+    {
+      "surface": "וראשם",
+      "gloss": "Ary ny lohany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "hamelina"
+    },
+    {
+      "surface": "ופרע",
+      "gloss": "ary ny volony"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "hangidiainy halavana"
+    },
+    {
+      "surface": "כסום",
+      "gloss": "hetezina"
+    },
+    {
+      "surface": "יכסמו",
+      "gloss": "no heteziny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lohany"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "lohany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:06:07.077722590Z",
+  "model": "glm-5.3"
+}

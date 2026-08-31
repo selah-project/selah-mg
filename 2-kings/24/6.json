@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 24:6",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary Yehojakim nodi-mandry tamin'ny razany, ary Yehojakinin zanany nanjaka nandimby azy.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "nodi-mandry"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehojakim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "razany"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "nanjaka"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehojakinin"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "nandimby azy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:02:08.673566498Z",
+  "model": "glm-5.3"
+}

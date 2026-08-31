@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Raha hoy izy: Avia miaraka aminay ⟨את⟩, hitsiri-mono isika, hifosa ho an'ny marina tsy manan-antony isika;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "hoy izy"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Avia"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "miaraka aminay ⟨את⟩",
+      "marks": "isika"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "hitsiri-mono isika"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "ho an'ny ra"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "hifosa isika"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "ho an'ny marina"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tsy manan-antony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:42.742393079Z",
+  "model": "glm-5.3"
+}

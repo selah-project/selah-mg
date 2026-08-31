@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 30:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Nivadika ho dihy ho ahy ianao ny fisaonako; navohana ny lambalesiako, ary noravany tamin'ny hafaliana aho.",
+  "tokens": [
+    {
+      "surface": "הפכת",
+      "gloss": "Nivadika"
+    },
+    {
+      "surface": "מספדי",
+      "gloss": "ny fisaonako"
+    },
+    {
+      "surface": "למחול",
+      "gloss": "ho dihy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "navohana"
+    },
+    {
+      "surface": "שקי",
+      "gloss": "ny lambalesiako"
+    },
+    {
+      "surface": "ותאזרני",
+      "gloss": "ary noravany tamin'ny"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "hafaliana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:33.478255944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 96,
+  "translation": "Hifaly ny lanitra ary hiravoravo ny tany; hangovitra ny ranomasina sy ny fenoany.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "Hifaly"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ary hiravoravo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "hangovitra"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ny ranomasina"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "sy ny fenoany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:12.167413567Z",
+  "model": "glm-5.3"
+}

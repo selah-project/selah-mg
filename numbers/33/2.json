@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Ary Moshe nanoratra ⟨את⟩ ny fivoahany araka ny akanjo-dalana tsirairay, araka ny didin'i Yahveh; ary ireto ny akanjo-dalanany araka ny fivoahany.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Ary nanoratra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fivoahany"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "ny fivoahany"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "araka ny akanjo-dalana tsirairay"
+    },
+    {
+      "surface": "על",
+      "gloss": "araka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ny didin'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ary ireto"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "ny akanjo-dalanany"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "araka ny fivoahany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:38:48.910662451Z",
+  "model": "glm-5.3"
+}

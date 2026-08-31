@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary ampianaro ⟨את⟩ ireo ⟨את⟩ ny zanakareo hiresaka azy, raha mipetraka ao an-tranonao ianao, sy rafa mandeha am-pihinanana, sy rafa mandry, ary rafa matsangana.",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "ampianaro"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ireo (ny teny)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanakareo"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ny zanakareo"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "hiresaka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "raha mipetraka"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "ao an-tranonao"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "sy rafa mandeha"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "am-pihinanana"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "sy rafa mandry"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "rafa matsangana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:42:38.235920401Z",
+  "model": "glm-5.3"
+}

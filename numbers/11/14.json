@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Tsy mahazo mitondra ⟨את⟩ ny vahoaka rehetra ity aho irery, fa mavesatra loatra amiko izy.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mahazo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aho"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "irery"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "mitondra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka rehetra ity"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "mavesatra loatra"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T13:28:41.895369875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 109,
+  "translation": "Aza misy mpanentana hesed ho azy, ary aza misy mamindra fo amin'ny kambotiny.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Aza misy"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "misy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "משך",
+      "gloss": "mpanentana"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary aza misy"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "misy"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "mamindra fo"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "amin'ny kambotiny"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:58.839158193Z",
+  "model": "glm-5.3"
+}

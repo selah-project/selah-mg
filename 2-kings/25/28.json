@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 25:28",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary niresaka taminy soa izy, ka napetrany ⟨את⟩ ny seza fiafilahany ambony ny seza fiafilahan'ny mpanjaka izay tao aminy tany Babylona.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ary niresaka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ taminy"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "soa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ka napetrany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny seza fiafilahany"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ny seza fiafilahany"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ambony"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ny seza fiafilahan'ny"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ tao aminy"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "tany Babylona"
+    }
+  ],
+  "timestamp": "2026-08-31T15:01:15.474757769Z",
+  "model": "glm-5.3"
+}

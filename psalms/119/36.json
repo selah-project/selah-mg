@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Atombohy ho amin'ny vavolombelonao ny foko, fa tsy ho amin'ny fiakin'navadika.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "Atombohy"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho amin'ny"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "vavolombelonao"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fa tsy ho amin'ny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "fiakin'navadika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:51.482841521Z",
+  "model": "glm-5.3"
+}

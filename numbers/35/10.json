@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Mitenao amin'ny zanak'i Yisraela, ka lazao azy hoe: Raha mampita ⟨את⟩ i Yardenianareo ho any amin'ny tany Kenaana,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Mitenao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ka lazao"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ianareo"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "mampita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "i Yardeni"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ho any amin'ny tany"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:38:19.417117927Z",
+  "model": "glm-5.3"
+}

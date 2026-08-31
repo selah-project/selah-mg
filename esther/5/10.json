@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Nefa Hamana nitana tena ka tonga tao an-tranony, dia nanafika ka nampaka ⟨את⟩ ny namany sy ⟨את⟩ Zeresa vadiny.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "nitana tena"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamana"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ka tonga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tao an-"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "tranony"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "nanafika"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nampaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny namany"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "ny namany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zeresa"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeresa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vadiny"
+    }
+  ],
+  "timestamp": "2026-08-31T17:18:34.639023382Z",
+  "model": "glm-5.3"
+}

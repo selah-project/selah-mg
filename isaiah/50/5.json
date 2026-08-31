@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 50,
+  "translation": "Adonay Yahveh nanokatra ny sofiniko, ary izaho tsy niodina, tsy nihemotra mihitsy.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "nanokatra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ny sofiniko"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "sofina"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ary izaho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "niodina"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "mihitsy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "nihemotra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:18:51.610447768Z",
+  "model": "glm-5.3"
+}

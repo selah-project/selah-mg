@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Tsy nety nanala ho azy Davida ⟨את⟩ ny fiaran'i Yahveh hankany amin'ny tanànan'i Davida; fa Davida nampiboridana ⟨את⟩ azy tao an-tranon'i Obed-Edoma ilay Gitita.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "nety"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "nanala"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiaran'i Yahveh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "על",
+      "gloss": "hankany amin'ny"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "nampiboridana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obed"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoma"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Gitita"
+    }
+  ],
+  "timestamp": "2026-08-31T14:30:50.877465244Z",
+  "model": "glm-5.3"
+}

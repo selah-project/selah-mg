@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 65,
+  "translation": "Mitsidika ⟨את⟩ ny tany ianao ka manondraka azy; manam-be azy ianao; farihin'i Elohim ⟨feno⟩ rano; mamboatra ny vary ho antsika ianao, fa izany no fanamboaranao ⟨azy⟩.",
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "mitsidika"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "ka manondraka azy"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "be"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "manam-be azy"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "farihin'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "⟨feno⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "mamboatra"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "ny vary ho antsika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "fanamboaranao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:11.975469099Z",
+  "model": "glm-5.3"
+}

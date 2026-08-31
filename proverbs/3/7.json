@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Aza manao ⟨tena⟩ hendry eo amin'ny masonao; matahora ⟨את⟩ Yahveh, ary mialà amin'ny ratsy.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "manao"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "hendry"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "eo amin'ny masonao"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "matahora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "ary mialà"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "amin'ny ratsy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:38.186128119Z",
+  "model": "glm-5.3"
+}

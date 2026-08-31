@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ao an-tananao ny androko rehetra; vonjeo aho amin'ny tanan'ny fahavaloiko, sy amin'izay manenjika ahy.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "ao an-tananao"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "ny androko rehetra"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "vonjeo aho"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "amin'ny tanan'ny"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "fahavaloiko"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "sy amin'izay manenjika ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:05.515348277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 136:21",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 136,
+  "translation": "Ary nomeny ho lova ny taniny, fa ho amin'ny faharetana mandrakizay no hesed-ny.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "nomeny"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ny taniny"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "ho lova"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "amin'ny faharetana mandrakizay"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-ny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:17.062249452Z",
+  "model": "glm-5.3"
+}

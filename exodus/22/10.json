@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 22:10",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "fanianan'i Yahveh no ho eo ambonelovan'izy roa lahy, raha tsy naninona ny tafondrony tamin'ny fananany ny namany; ary ny tompon'ny biby handray ny fianana, fa tsy maintsy onenana izy.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "fianana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "no ho"
+    },
+    {
+      "surface": "בין",
+      "gloss": "eo ambonelovan'ny"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "izy roa lahy"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha tsy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "naninona"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ny tafondrony"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "tamin'ny fananany"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ny namany"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "handray"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ny tompon'ny biby"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "onenana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:02:36.525846675Z",
+  "model": "glm-5.3"
+}

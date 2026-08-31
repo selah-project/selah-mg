@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary ankehitriny, ry mpanjaka, mahay foto-kevitra; ary mianatra, ry mpitsara ny tany.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ary ankehitriny"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ry mpanjaka"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "mahay foto-kevitra"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "mianatra\/andramana"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "ry mpitsara"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:35.894539173Z",
+  "model": "glm-5.3"
+}

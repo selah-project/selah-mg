@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 63,
+  "translation": "Izany no hifaliana anarako mandritra ny aiko; amin'ny anaranao no hasandratro ny tanako.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Izany no"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "hifaliana anarako"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "mandritra ny aiko"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "amin'ny anaranao"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "no hasandratro"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ny tanako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:16.001082938Z",
+  "model": "glm-5.3"
+}

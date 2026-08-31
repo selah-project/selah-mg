@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Efa niteny mafy tamin'ny firenena Ianao, nampanao ho very ny ratsy fanahy; nofafonao ny anarany ho mandrakizay sy ho ela.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "niteny mafy"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "tamin'ny firenena"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "nampanao ho very"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "nofafonao"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho mandrakizay"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sy ho ela"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:39.255527825Z",
+  "model": "glm-5.3"
+}

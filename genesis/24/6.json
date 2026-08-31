@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary Abrahama nanao taminy hoe: Tandremo sao hampody hianao ⟨את⟩ ny zanako ho any.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary ... nanao hoe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahama"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Tandremo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hianao"
+    },
+    {
+      "surface": "פן",
+      "gloss": "sao"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "hampody"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanako"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny zanako"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ho any"
+    }
+  ],
+  "timestamp": "2026-08-31T12:41:26.376036292Z",
+  "model": "glm-5.3"
+}

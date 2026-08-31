@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary ny mpanompony nitondra azy maty avy any Megido, ka nitondra azy ho any Yeroshalayim, ka nandevina azy tao amin'ny fasany; ary ny vahoakan'ny tany naka ⟨את⟩ an'i Yehoahaza zanak'i Yoashia, dia nohosoriny ⟨את⟩ izy ka nampanjaka ⟨את⟩ izy ho solon'ny rainy.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "nitondra azy (tamin'ny kalesy)"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ny mpanompony"
+    },
+    {
+      "surface": "מת",
+      "gloss": "maty"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "avy any Megido"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "nitondra azy ho any"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "nandevina azy"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "tao amin'ny fasany"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "naka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yehoahaza"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahaza"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoashia"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "nohosoriny"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "izy (i Yehoahaza)"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "nampanjaka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "izy (i Yehoahaza)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ho solon'ny"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rainy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:00:45.763301792Z",
+  "model": "glm-5.3"
+}

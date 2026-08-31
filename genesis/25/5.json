@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Dia nanome ⟨את⟩ izay rehetra nananany Avraham ho an'i Yitsjak.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Dia nanome"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay rehetra nananany"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nananany"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ho an'i Yitsjak"
+    }
+  ],
+  "timestamp": "2026-08-31T12:42:46.374564759Z",
+  "model": "glm-5.3"
+}

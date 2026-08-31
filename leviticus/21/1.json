@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 21:1",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary Yahveh nanao teny tamin'i Moshe hoe: Lazao amin'ny mpisorona, zanak'i Aharon, ka ataovy aminy hoe: ho an'ny fanahy maty aza tsy ho maloto izy amin'ny fireneny.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao teny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Lazao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ka ataovy aminy hoe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ho an'ny fanahy maty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ho maloto"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "amin'ny fireneny"
+    }
+  ],
+  "timestamp": "2026-08-31T18:29:15.049420250Z",
+  "model": "glm-5.3"
+}

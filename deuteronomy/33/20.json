@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 33:20",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Ary ho an'i Gada izy nanao hoe: Isaorana izay mampivelatra an'i Gada; mitaona toy ny liona izy, ka mandidy sandry sy an-tampon-doha.",
+  "tokens": [
+    {
+      "surface": "ולגד",
+      "gloss": "Ary ho an'i Gada"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Isaorana"
+    },
+    {
+      "surface": "מרחיב",
+      "gloss": "izay mampivelatra"
+    },
+    {
+      "surface": "גד",
+      "gloss": "an'i Gada"
+    },
+    {
+      "surface": "כלביא",
+      "gloss": "toa liona"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "mitaona"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "ka mandidy"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "sandry"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sy"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "an-tampon-doha"
+    }
+  ],
+  "timestamp": "2026-08-31T13:52:55.874215714Z",
+  "model": "glm-5.3"
+}

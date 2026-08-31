@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Faharetan'ny andro maro eo an-tanany havanana, ary harena sy voninahitra ao amin'ny tanany ankavia.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "Faharetan'ny"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro maro"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "eo an-tanany havanana"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "ao amin'ny tanany ankavia"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "harena"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "sy voninahitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:40.503480435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary ren'i Davidy izany, ka naniraka an'i Joaba sy ⟨את⟩ ny tafika rehetra, dia ny mahery fo.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ary ren'"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "i Davidy"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ka naniraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "an'i ⟨את⟩",
+      "marks": "Joaba"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tafika rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ny tafika"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "ny mahery fo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:31:30.577502153Z",
+  "model": "glm-5.3"
+}

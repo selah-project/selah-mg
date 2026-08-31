@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary Mordekai nanazava taminy ⟨את⟩ ny zavatra rehetra izay nahazo azy, sy ⟨את⟩ ny havezan'ny volafotsy izay nolazain'i Haman handoa ho amin'ny rakitry ny mpanjaka momba ny Jiosy, handringana azy ireo.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "nanazava"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zavatra rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "nahazo azy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny havezan'ny volafotsy"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "havezan'ny"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nolazain'i"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "handoa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho amin'ny"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "rakitra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "momba ny Jiosy"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "handringana azy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:18:43.460397298Z",
+  "model": "glm-5.3"
+}

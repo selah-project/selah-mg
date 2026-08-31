@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 138,
+  "translation": "Hanankatra anao Yahveh ny mpanjaka rehetra amin'ny tany, fa efa reny ny tenin'ny vavanao.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Hanankatra anao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "efa reny"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ny tenin'ny"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "vavanao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:36:03.196758507Z",
+  "model": "glm-5.3"
+}

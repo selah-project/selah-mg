@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ny ratsy fanahy manao tetika hamonoana ny marina, sady mikitika nify mifanohitra aminy.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "manao tetika"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Ny ratsy fanahy"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ny marina"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "sady mikitika"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mifanohitra aminy"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "nify"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:55.862458185Z",
+  "model": "glm-5.3"
+}

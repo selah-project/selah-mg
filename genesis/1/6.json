@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary hoy Elohim: Habeo habakabaka eo afovoan'ny rano, ary aoka ho mampisaraka eo anelanelan'ny rano sy ny rano.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "Habeo"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "habakabaka"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "eo afovoan'ny"
+    },
+    {
+      "surface": "המים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ary aoka ho"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "mampisaraka"
+    },
+    {
+      "surface": "בין",
+      "gloss": "eo anelanelan'ny"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "למים",
+      "gloss": "sy ny rano"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:01.789149677Z",
+  "model": "glm-5.3"
+}

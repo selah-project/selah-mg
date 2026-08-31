@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary ny tavy rehetra hesoriny eo aminy ⟨את⟩ ka hatsipy ao amin'ny alitara ho setrin'ny afo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavy rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "ny taviny"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "hesoriny"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "eo aminy"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ka hatsipy ho setrin'ny afo"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ao amin'ny alitara"
+    }
+  ],
+  "timestamp": "2026-08-31T13:12:04.795199909Z",
+  "model": "glm-5.3"
+}

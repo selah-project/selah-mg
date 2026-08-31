@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ny lahy rehetra amin'ireo mpisorona no homana ⟨את⟩ azy; masina masina indrindra ⟨izo⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lahy"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "amin'ireo mpisorona"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "homana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ny fanatitra)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "masina indrindra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨izo⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T18:46:46.218409525Z",
+  "model": "glm-5.3"
+}

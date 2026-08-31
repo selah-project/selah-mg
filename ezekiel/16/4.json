@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 16:4",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary ny fahaterahanao, amin'ny andro nahaterahanao ⟨את⟩ dia tsy notapahina ny lototrao, ary tamin'ny rano tsy nisasaana hanelanelanao, ary tsy nasiana sira, ary tsy nampifety lamba.",
+  "tokens": [
+    {
+      "surface": "ומולדותיך",
+      "gloss": "Ary ny fahaterahanao"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "nahaterahanao"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ianao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "notapahina"
+    },
+    {
+      "surface": "שרך",
+      "gloss": "ny lototrao"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ary tamin'ny rano"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "nisasaana"
+    },
+    {
+      "surface": "למשעי",
+      "gloss": "hanelanelanao"
+    },
+    {
+      "surface": "והמלח",
+      "gloss": "ary nasiana sira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "המלחת",
+      "gloss": "nasiana sira"
+    },
+    {
+      "surface": "והחתל",
+      "gloss": "ary nampifety lamba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "חתלת",
+      "gloss": "nampifety lamba"
+    }
+  ],
+  "timestamp": "2026-08-31T15:51:24.833724938Z",
+  "model": "glm-5.3"
+}

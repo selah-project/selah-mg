@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary hatramin'ny zanaka dimy amby roa-polo taona dia hiverina izy avy amin'ny miaramila miandraikitra ny fanompoam-poana, ary tsy hanompo intsony.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "hatramin'ny zanaka"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "dimy amby roa-polo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "hiverina izy"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "avy amin'ny miaramila"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "fanompoam-poana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "hanompo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    }
+  ],
+  "timestamp": "2026-08-31T13:26:53.857157985Z",
+  "model": "glm-5.3"
+}

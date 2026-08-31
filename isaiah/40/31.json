@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 40:31",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Fa izay miandry an'i Yahveh dia havaozina hery; hiakatra manana elatra toy ny noketra; hihazakazaka fa tsy ho reraka; handeha fa tsy ho tafafy.",
+  "tokens": [
+    {
+      "surface": "וקוי",
+      "gloss": "fa izay miandry"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "יחליפו",
+      "gloss": "havaozina"
+    },
+    {
+      "surface": "כח",
+      "gloss": "hery"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "hiakatra"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "elatra"
+    },
+    {
+      "surface": "כנשרים",
+      "gloss": "toy ny noketra"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "hihazakazaka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "ייגעו",
+      "gloss": "ho reraka"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "handeha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "ייעפו",
+      "gloss": "ho tafafy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:14:57.117627768Z",
+  "model": "glm-5.3"
+}

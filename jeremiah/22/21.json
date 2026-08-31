@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 22:21",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Niresaka taminao Aho tamin'ny fiadananao; fa hoy ianao: Tsy hihaino. Izany no lalanao hatramin'ny fahatanoranao, fa tsy nihaino ny feoko ianao.",
+  "tokens": [
+    {
+      "surface": "דברתי",
+      "gloss": "Niresaka taminao Aho"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "taminao"
+    },
+    {
+      "surface": "בשלותיך",
+      "gloss": "tamin'ny fiadananao"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "hoy ianao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "hihaino"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Izany"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "no lalanao"
+    },
+    {
+      "surface": "מנעוריך",
+      "gloss": "hatramin'ny fahatanoranao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "ny feoko"
+    }
+  ],
+  "timestamp": "2026-08-31T15:31:34.881501766Z",
+  "model": "glm-5.3"
+}

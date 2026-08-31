@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Omeo ⟨את⟩ ny vadyiko sy ⟨את⟩ ny zanako izay efa nokokoanao ⟨את⟩ taminy, ary handeha aho; fa ianao mahalala ⟨את⟩ ny fanompoako izay nokokoanao.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Omeo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vadyiko"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "ny vadyiko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanako"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "ny zanako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "efa nokokoanao"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "taminy"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "ary handeha aho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanompoako"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "ny fanompoako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "nokokoanao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:44:28.818431416Z",
+  "model": "glm-5.3"
+}

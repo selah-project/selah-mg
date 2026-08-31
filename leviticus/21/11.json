@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary amin'ny fatin'olona rehetra tsy hankany; ho an-drainy sy ho an-dreniny tsy handoto tena izy.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Ary amin'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "olona"
+    },
+    {
+      "surface": "מת",
+      "gloss": "fatin'"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "hankany"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "ho an-drainy"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "sy ho an-dreniny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "handoto tena"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:55.602358105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary hanompo ianareo ⟨את⟩ i Yahveh Elohinareo, ary hotahiny ⟨את⟩ ny mofoinareo sy ⟨את⟩ ny ranonareo; ary hesoriko ny aretina eo amin'ny fitoavanareo.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "ary hanompo ianareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ary hotahiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mofoinareo"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "mofoinareo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny ranonareo"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "ranonareo"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "ary hesoriko"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "aretina"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "eo amin'ny fitoavanareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:45.196064586Z",
+  "model": "glm-5.3"
+}

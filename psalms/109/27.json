@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 109,
+  "translation": "Ary hahalala izy fa ny tananao no nanao izany; ianao, Yahveh, no efa nanao azy.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Ary hahalala izy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ny tananao"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "no nanao izany"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "no efa nanao azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:33.391310683Z",
+  "model": "glm-5.3"
+}

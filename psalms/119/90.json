@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ho an'ny taranaka sy taranaka ⟨no⟩ ny fahatokianao; nanorina ny tany Hianao, ary mijoro izy.",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "ho an'ny taranaka"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "sy taranaka"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ny fahatokianao"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "nanorina"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ary mijoro izy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:50.983876160Z",
+  "model": "glm-5.3"
+}

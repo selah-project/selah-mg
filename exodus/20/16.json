@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Tsy hamaly ⟨ampanga⟩ ho tonga sofina mandainga ianao ny amin'ny namanao.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "hamaly"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ny amin'ny namanao"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tonga sofina"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "mandainga"
+    }
+  ],
+  "timestamp": "2026-08-31T13:01:35.140355985Z",
+  "model": "glm-5.3"
+}

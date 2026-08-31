@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Tsy hanao fotala amin'ny lohany izy, ary ny zoron'ny zabany tsy hesoriny, ary ny nofony tsy hesorany sorate.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "hanao fotala"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "fotala"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "amin'ny lohany"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "ary ny zorony"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "zabany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "hesoriny"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "ary ny nofony"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "hesorany sorate"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "sorate"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:25.960720316Z",
+  "model": "glm-5.3"
+}

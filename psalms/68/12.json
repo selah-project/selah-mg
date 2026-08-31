@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 68,
+  "translation": "Adonay no manome ⟨את⟩ ny teny; be dia be no isan'ireo vavy mpitory vaovao.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "no manome"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "ireo vavy mpitory vaovao"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "⟨isan'ireo⟩ antoko"
+    },
+    {
+      "surface": "רב",
+      "gloss": "be dia be"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:00.787636750Z",
+  "model": "glm-5.3"
+}

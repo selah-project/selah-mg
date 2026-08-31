@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "sy ny gepko, sy ny draloka, sy ny androngo, sy nyandia kely, ary ny tanalahy.",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "sy ny gepko"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "sy ny draloka"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "sy ny androngo"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "sy nyandia kely"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "ary ny tanalahy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:15:01.784341987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary Davida niteny tamin'i Yahveh ⟨את⟩ ny tenin'ity hira ity, tamin'ny andro nanavotra an'i Yahveh ⟨את⟩ ⟨aho⟩ tamin'ny tanan'ny fahavalo rehetra sy tamin'ny tanan'i Shaol.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "niteny"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "tamin'i Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tenin'ity hira ity"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ny tenin'"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "hira"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ity ... ity"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "nanavotra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨aho⟩",
+      "marks": "⟨aho⟩ (famaritan'ny אתו)"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "tamin'ny tanan'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ny fahavalo ... -ny"
+    },
+    {
+      "surface": "ו מכף",
+      "gloss": "sy tamin'ny tanan'"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    }
+  ],
+  "timestamp": "2026-08-31T18:03:13.141852615Z",
+  "model": "glm-5.3"
+}

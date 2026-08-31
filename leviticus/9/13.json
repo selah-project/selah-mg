@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 9:13",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary ny efa nampiharina taminy ny fanatitra dorana ⟨⟨את⟩⟩ tamin'izay voazarazy azy sy ⟨⟨את⟩⟩ ny lohany, ary natsipy teo ambonin'ny alitara izy hodorana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanatitra dorana"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ny fanatitra dorana"
+    },
+    {
+      "surface": "המציאו",
+      "gloss": "nampiharina"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "tamin'izay voazarazy azy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny lohany"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ny lohany"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "natsipy hodorana"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo ambonin'ny"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alitara"
+    }
+  ],
+  "timestamp": "2026-08-31T13:13:37.506871898Z",
+  "model": "glm-5.3"
+}

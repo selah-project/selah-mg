@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Avy amin'ny fonenana mipetrany Izy manao maso mibanjina ny mponina rehetra ambonin'ny tany.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "Avy amin'ny fonenana"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "mipetrany"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "manao maso mibanjina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mponina"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ambonin'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:51.992415097Z",
+  "model": "glm-5.3"
+}

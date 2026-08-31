@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 7:8",
+  "book": "micah",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Aza mifaly amin'ny ahy, ry fahaviloiko, fa lavo aho fa nitsangana; raha mipetraka amin'ny maizina aho, Yahveh no fanazavana ho ahy.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "mifaly"
+    },
+    {
+      "surface": "איבתי",
+      "gloss": "ry fahaviloiko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "amin'ny ahy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נפלתי",
+      "gloss": "lavo aho"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "fa nitsangana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "raha"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "mipetraka"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "amin'ny maizina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אור",
+      "gloss": "no fanazavana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:15:49.682574755Z",
+  "model": "glm-5.3"
+}

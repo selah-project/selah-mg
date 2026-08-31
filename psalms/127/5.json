@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 127,
+  "translation": "Sambatra ilay lehilahy izay nofenoiny ⟨את⟩ ny sompitrany aminy; tsy hahamenatra izy, fa miresaka ⟨את⟩ amin'ny fahavalo ao amin'ny vavahady.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "sambatra"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ilay lehilahy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "nofenoiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny sompitrany"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "sompitrany"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "hahamenatra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "miresaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahavalo"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "fahavalo"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ao amin'ny vavahady"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:10.053756446Z",
+  "model": "glm-5.3"
+}

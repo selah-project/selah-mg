@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 83,
+  "translation": "Gebala sy Amona sy Amaleka, Palestina mbamin'ny mponina any Tsora.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gebala"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "sy Amona"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "sy Amaleka"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Palestina"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mbamin'ny"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mponina"
+    },
+    {
+      "surface": "צור",
+      "gloss": "any Tsora"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:11.853657537Z",
+  "model": "glm-5.3"
+}

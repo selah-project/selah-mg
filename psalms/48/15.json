@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 48,
+  "translation": "Fa ity no Elohim, Elohimntsika, mandrakizay aman-kafka; Izy no hitarika antsika ⟨hatramin'ny⟩ fahafatesana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimntsika"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "aman-kafka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Izy"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "no hitarika antsika"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨hatramin'ny⟩"
+    },
+    {
+      "surface": "מות",
+      "gloss": "fahafatesana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:30:26.972180863Z",
+  "model": "glm-5.3"
+}

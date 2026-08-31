@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Mandroso, lazao amin'i Parao, mpanjakan'i Mitsrayim, mba handefa ny zanak'i Isiraely hivoaka avy amin'ny taniny.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Mandroso"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lazao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "mba handefa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanak'i Isiraely"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "hivoaka avy amin'ny taniny"
+    }
+  ],
+  "timestamp": "2026-08-31T12:55:24.428204683Z",
+  "model": "glm-5.3"
+}

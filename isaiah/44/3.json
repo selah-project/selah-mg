@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Fa handatsaka rano aho ho an'ny mangetaheta, ary milatsaka amin'ny tany maina; handatsaka ny Fanahiko amin'ny taranakao, ary ny fitahiana amin'ny zanakao:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "handatsaka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho an'ny"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "mangetaheta"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "ary milatsaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "tany maina"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "handatsaka"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ny Fanahiko"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "taranakao"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "ary ny fitahianiko"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "zanakao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:15:55.018080813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Aza mba miaraka amin'ny mpisotro divay, na amin'ny mpanhinana hena ⟨miaraka⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "mba"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "miaraka amin'ny mpisotro"
+    },
+    {
+      "surface": "יין",
+      "gloss": "divay"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "amin'ny mpanhinana"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "hena"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨miaraka⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T16:56:02.283227552Z",
+  "model": "glm-5.3"
+}

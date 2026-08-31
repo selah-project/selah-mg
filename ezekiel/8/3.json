@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 8:3",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nampanoatra tarehimarika tànana Izy, ka nahazo ahy tamin'ny tsangatsangana tamin'ny fohana; ary nanandratra ⟨את⟩ ahy fanahy ⟨ronina⟩ teo anelanelan'ny tany sy ny lanitra, ka nitondra ⟨את⟩ ahy ho any Yeroshalayim, tamin'ny fahitana avy amin'ny Elohim, ho eo anoloan'ny varavaran'ny vavahady anatiny, ilay mitodikaavaratra, izay ao no misy ny seza fiampangana ny endrika fahatezeran'ny fanahiana, ilay mampahatezerana.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "nampanoatra"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "tarehimarika"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tànana"
+    },
+    {
+      "surface": "ויקחני",
+      "gloss": "nahazo ahy"
+    },
+    {
+      "surface": "בציצת",
+      "gloss": "tamin'ny tsangatsangana tamin'ny fohana"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "fohana"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "nanandratra"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ahy (izay notondrain'ny fanahy)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "בין",
+      "gloss": "teo anelanelan'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "lanitra"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "nitondra"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ahy (izay nentina ho any Yeroshalayim)"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "ho any Yeroshalayim"
+    },
+    {
+      "surface": "במראות",
+      "gloss": "tamin'ny fahitana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "avy amin'ny Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "eo anoloan'ny varavaran'ny"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vavahady"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "anatiny"
+    },
+    {
+      "surface": "הפונה",
+      "gloss": "mitodika"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "avaratra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ao"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "misy ny seza fiampangana"
+    },
+    {
+      "surface": "סמל",
+      "gloss": "endrika fahatezeran'ny fanahiana"
+    },
+    {
+      "surface": "הקנאה",
+      "gloss": "fahatezeran'ny fanahiana"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "mampahatezerana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:33:54.142408357Z",
+  "model": "glm-5.3"
+}

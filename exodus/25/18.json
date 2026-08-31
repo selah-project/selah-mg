@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary hanao kerobima roa volamena ianao; asa voaofana no hatao an'ireo ⟨את⟩, eo amin'ny tendrony roan'ny rakitra fanavotana.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "aryana hanao"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "roa"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerobima"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "asa voaofana"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "no hatao"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ireo (ny kerobima roa)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "roa"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "tendrony"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ny rakitra fanavotana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:28:50.900368330Z",
+  "model": "glm-5.3"
+}

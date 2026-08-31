@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 42:8",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Ary niantso Yochanan zanak'i Karea, sy ny mpanapaka ny miaramila rehetra izay ⟨את⟩ taminy, ary ny vahoaka rehetra, hatramin'ny kely ka hatramin'ny lehibe.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ary niantso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho an'i"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yochanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Karea"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sy ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mpanapaka ny"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "miaramila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ taminy",
+      "marks": "taminy"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ary ny ... rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "למקטן",
+      "gloss": "hatramin'ny kely"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lehibe"
+    }
+  ],
+  "timestamp": "2026-08-31T15:41:30.198771515Z",
+  "model": "glm-5.3"
+}

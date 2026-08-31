@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Tavao-tavanao i Yahveh niresaka taminareo tany an-tendrombohitra, avy ao afovoan'ny afo.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "tavao"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "-tavanao"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "niresaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Yahveh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "taminareo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "tany an-tendrombohitra"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "avy ao afovoan'ny"
+    },
+    {
+      "surface": "האש",
+      "gloss": "afo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:40:59.775007358Z",
+  "model": "glm-5.3"
+}

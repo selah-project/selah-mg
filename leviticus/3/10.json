@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "sy ⟨את⟩ ny voa roa, ary ⟨את⟩ ny tavy izay eo amboniny, izay eo ambonin'ny valan-damosiny, ary ⟨את⟩ ilay fifantenana eo ambony ny aty, eo ambony ny voa no hanalany azy",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny voa roa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "roa"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ny voa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny tavy"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ny tavy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "eo amboniny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambonin'ny"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "valan-damosiny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ilay fifantenana"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ilay fifantenana"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ny aty"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ny voa"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "hanalany azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:17.107130285Z",
+  "model": "glm-5.3"
+}

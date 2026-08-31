@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Aoka ho mena ny tavony ny miavonavona, fa sandry no nampivadika ahy; fa izaho kosa dia mandinika ny didinao.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "aoka ho mena ny tavony"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "ny miavonavona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sandry"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "no nampivadika ahy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "fa izaho kosa"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "mandinika"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "ny didinao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:41.517932225Z",
+  "model": "glm-5.3"
+}

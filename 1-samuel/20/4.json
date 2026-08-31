@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary hoy Yehonatana tamin'i Davida: Inona no lazain'ny ainao, ka hataoko ho anao?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Inona"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "no lazain'ny"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ainao"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "hataoko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:22:41.227500054Z",
+  "model": "glm-5.3"
+}

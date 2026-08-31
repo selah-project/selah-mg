@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary han trotraka aminao ho ahy amin'ny fahatokiana; ary ho fantatrao ⟨את⟩ Yahveh.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "han trotraka aminao"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "amin'ny fahatokiana"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "ary ho fantatrao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T18:11:06.762146477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 8:1",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary Yahveh niresaka tamin'i Moshe hanao hoe:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "niresaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hanao hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T13:13:27.459875606Z",
+  "model": "glm-5.3"
+}

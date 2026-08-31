@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Aza mialona ny olona ratsy, ary aza maniry ny ho ⟨miaraka⟩ ⟨את⟩ azy ireo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "mialona"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "maniry"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ny ho"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azy ireo",
+      "marks": "azy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:56:19.439164448Z",
+  "model": "glm-5.3"
+}

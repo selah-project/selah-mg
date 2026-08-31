@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 84,
+  "translation": "Yahveh Elohim Tsevaot, mihainoa ny fivavahako; tondreo, ry Elohin'i Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "mihainoa"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ny fivavahako"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "tondreo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ry Elohin'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:58.036201663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Mpandà lalàna tamin'i Yahveh ianareo, hatramin'ny andro nahalalako ⟨את⟩ anareo.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "Mpandà lalàna"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ianareo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "hatramin'ny andro"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "nahalalako"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:43:36.483563303Z",
+  "model": "glm-5.3"
+}

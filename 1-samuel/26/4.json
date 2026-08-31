@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Dia nanafaingana naniraka mpisava tany Davida, ka nahalala fa efa tonga mihitsy Shaol.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Dia naniraka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "mpisava tany"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ka nahalala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "efa tonga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mihitsy ⟨tany⟩"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "mihitsy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:27:16.232489901Z",
+  "model": "glm-5.3"
+}

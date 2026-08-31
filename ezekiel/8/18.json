@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 8:18",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary izaho koa dia hanao amin'ny fahatezerana; tsy hiantra ny masonko, ary tsy hamindra fo; ary na mioby amin'ny sofiniko feo be aza izy, dia tsy hihaino ⟨את⟩ azy ireo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ary koa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "amin'ny fahatezerana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "hiantra"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ny masonko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "hamindra fo"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "na mioby aza"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "amin'ny sofiniko"
+    },
+    {
+      "surface": "קול",
+      "gloss": "feo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "be"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "dia tsy"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "hihaino"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "azy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:49:39.797556653Z",
+  "model": "glm-5.3"
+}

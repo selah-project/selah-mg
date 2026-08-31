@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Fa ⟨את⟩ ny ziogan'ny entany sy ⟨את⟩ ny tehin'ny sorokany, ny tehin'ny mpampahory azy, efa noravanao toy ny tamin'ny andron'i Midiana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ziogan'ny entany"
+    },
+    {
+      "surface": "על",
+      "gloss": "zioga"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "ny entany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tehin'ny sorokany"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tehin'ny"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "sorokany"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ny tehin'ny"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "mpampahory"
+    },
+    {
+      "surface": "בו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "efa noravanao"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "toy ny tamin'ny andron'i"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:04:58.254237933Z",
+  "model": "glm-5.3"
+}

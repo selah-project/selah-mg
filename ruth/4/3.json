@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 4:3",
+  "book": "ruth",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary hoy izy tamin'ilay mpanavotra: Ny tany tsy voazara, izay an'i Elimeleka rahalahintsika, dia navidian'i Naomi ilay niverina avy tany an-tsahan'i Moaba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "לגאל",
+      "gloss": "tamin'ilay mpanavotra"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "tsy voazara"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לאחינו",
+      "gloss": "an'i rahalahintsika"
+    },
+    {
+      "surface": "לאלימלך",
+      "gloss": "Elimeleka"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "dia navidian'i"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "השבה",
+      "gloss": "ilay niverina"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "avy tany an-tsahan'i"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    }
+  ],
+  "timestamp": "2026-08-31T17:11:47.334628380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Sy ⟨את⟩ Hadorama sy ⟨את⟩ Ozala sy ⟨את⟩ Dikla.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Sy ⟨את⟩",
+      "marks": "Hadorama"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadorama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Ozala"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Ozala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Dikla"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Dikla"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:07.828749963Z",
+  "model": "glm-5.3"
+}

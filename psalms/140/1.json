@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 140,
+  "translation": "Ho an'ny mpitan-tsoratra mozika. Miziva nataon'i Davida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho an'ny mpitan-tsoratra mozika"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "miziva"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nataon'i Davida"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:05.391003422Z",
+  "model": "glm-5.3"
+}

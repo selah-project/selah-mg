@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary nandeha aho ka nandevina azy tao Perath, araka ny nandidian'i Yahveh ahy ⟨tamin'izany⟩.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "nandeha aho"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "nandevina azy"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "tao Perath"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidian'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "ahy ⟨את⟩",
+      "marks": "ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:29:31.498599284Z",
+  "model": "glm-5.3"
+}

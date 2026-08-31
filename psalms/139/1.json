@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 139,
+  "translation": "Ho an'ny mpibandinka. Miziva nataon'i Davida. Yahveh, nofizainao ahy, ka fantatrao ⟨aho⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho an'ny mpibandinka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nataon'i Davida"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "miziva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "nofizainao ahy"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "ka fantatrao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:48.165309855Z",
+  "model": "glm-5.3"
+}

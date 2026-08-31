@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 10:14",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary ny adala mamitombo teny; tsy mahalala ny olona inona no ho tonga, ary izay ho tonga aoriany, iza no mahay milaza azy?",
+  "tokens": [
+    {
+      "surface": "והסכל",
+      "gloss": "ary ny adala"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "mamitombo"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "teny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "מה",
+      "gloss": "inona"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "no ho tonga"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ary izay"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ho tonga"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "aoriany"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "mahay milaza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:51.597453808Z",
+  "model": "glm-5.3"
+}

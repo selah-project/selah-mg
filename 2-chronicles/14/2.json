@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ka nanaisotra ny alitara vahiny sy ny fitoerana avo izy, ary nazarany ny tsangam-baton'ireo, ary notapahiny ny Asherima.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "nanaisotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alitara vahiny"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "vahiny"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "ny fitoerana avo"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "nazarany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsangam-baton'ireo"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "tsangam-bato"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "notapahiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asherima"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Asherima"
+    }
+  ],
+  "timestamp": "2026-08-31T17:46:30.351130369Z",
+  "model": "glm-5.3"
+}

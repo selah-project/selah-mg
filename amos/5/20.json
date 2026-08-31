@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Tsy maizina va ny andron'i Yahveh, fa tsy mazava, sy aizim-pito sy tsy misy fahazavana ho azy?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Tsy... va"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "maizina"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andron'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "אור",
+      "gloss": "mazava"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "aizim-pito"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "fahazavana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:12:27.562926947Z",
+  "model": "glm-5.3"
+}

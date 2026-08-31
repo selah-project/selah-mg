@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 64,
+  "translation": "Ka nampidina ho tafintohina taminy izy — ny lelany no mifanohitra aminy; mihetsika ny lohany izay rehetra mahita azy.",
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "nampidina ho tafintohina"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ny lelany"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "mihetsika ny lohany"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "mahita"
+    },
+    {
+      "surface": "בם",
+      "gloss": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:30.530682538Z",
+  "model": "glm-5.3"
+}

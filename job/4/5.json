@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Fa ankehitriny, rehefa tonga aminao izany dia voalana; rehefa mipaka aminao izany dia torana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ankenhitriny"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "voalana"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "mipaka"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "ותבהל",
+      "gloss": "torana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:58:24.837406519Z",
+  "model": "glm-5.3"
+}

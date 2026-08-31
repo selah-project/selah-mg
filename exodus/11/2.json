@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Mitenena an-tsokosoko amin'ny sofin'ny vahoaka, ary hangataka ⟨את⟩ ny lehilahy avy amin'ny namany ary ny vehivavy avy amin'ny namany ⟨את⟩ fanaka volafotsy sy fanaka volamena.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Mitenena"
+    },
+    {
+      "surface": "נא",
+      "gloss": "an-tsokosoko"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "amin'ny sofin'ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "ary hangataka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ny lehilahy"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "avy amin'ny namany"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "namany"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "ary ny vehivavy"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "avy amin'ny namany"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "namany"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "fanaka"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "sy fanaka"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:53.560873527Z",
+  "model": "glm-5.3"
+}

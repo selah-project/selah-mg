@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary ny Mitsrayim nanery ny zanak'i Yisrael hanao fanompoana mafy ⟨amin'ny fangezana⟩.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "nanery...hanao fanompoana"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanak'i Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "amin'ny fangezana"
+    }
+  ],
+  "timestamp": "2026-08-31T12:53:52.365178101Z",
+  "model": "glm-5.3"
+}

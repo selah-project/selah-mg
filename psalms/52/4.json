@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 52,
+  "translation": "Loza no heverin'ny lelanao, toy ny antsy voatosika sisa, mpanao fitaka.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Loza"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "no heverin'ny"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "lelanao"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "toy ny antsy"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "voatosika sisa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mpanao"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "fitaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:57.973807006Z",
+  "model": "glm-5.3"
+}

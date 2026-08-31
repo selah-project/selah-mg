@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary ny zava-masin'ny olona tsirairay ⟨את⟩ dia ho azy ⟨isany⟩; izay homen'olona ny mpisorona dia ho an'ny mpisorona.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ary ny olona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zava-masin'ny olona tsirairay"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "zava-masiny"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "dia ho"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "homeny"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho an'ny mpisorona"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dia ho"
+    }
+  ],
+  "timestamp": "2026-08-31T13:25:42.902713563Z",
+  "model": "glm-5.3"
+}

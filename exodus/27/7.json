@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ampidirina ⟨ao amin'ny⟩ ⟨את⟩ tsatò ny bara, ary ny bara ho eo amin'ny tara-droa roan'ny alitara, rehefa entina izy.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "ampidirina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsatò"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ny barany"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "ao amin'ny tsatò"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ary ho"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ny bara"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "roa"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "tara-droa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ny alitara"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "rehefa entina"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ny alitara"
+    }
+  ],
+  "timestamp": "2026-08-31T17:56:35.368206565Z",
+  "model": "glm-5.3"
+}

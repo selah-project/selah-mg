@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 66,
+  "translation": "Isaorana anie Elohim, izay tsy niala tamin'ny fivavako sy tamin'ny hesed ⟨⟹⟩ ⟨את⟩ tamiko.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Isaorana anie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "niala tamin'ny"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "fivavako"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "sy tamin'ny hesed"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ tamiko",
+      "marks": "tamiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:06.312991286Z",
+  "model": "glm-5.3"
+}

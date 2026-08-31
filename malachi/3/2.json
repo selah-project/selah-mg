@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "malachi 3:2",
+  "book": "malachi",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Fa iza no maharitra ny andro fiaviany? Ary iza no mahajanona rehefa miseho izy? Fa izy dia tahaka ny afo mahandro volafotsy, ary tahaka ny savon'ny mpibontosy.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "fa iza"
+    },
+    {
+      "surface": "מכלכל",
+      "gloss": "no maharitra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny andro"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "בואו",
+      "gloss": "fiaviany"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ary iza"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "no mahajanona"
+    },
+    {
+      "surface": "בהראותו",
+      "gloss": "rehefa miseho izy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "tahaka ny afo"
+    },
+    {
+      "surface": "מצרף",
+      "gloss": "mahandro volafotsy"
+    },
+    {
+      "surface": "וכברית",
+      "gloss": "ary tahaka ny savon'"
+    },
+    {
+      "surface": "מכבסים",
+      "gloss": "ny mpibontosy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:23.514538562Z",
+  "model": "glm-5.3"
+}

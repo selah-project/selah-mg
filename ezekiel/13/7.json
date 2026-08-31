@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 13:7",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Tsy jery foana va no nahitanareo, ary sikidy mandainga va no nolazainareo, rehefa milaza hoe: Fanambaràn'i Yahveh — nefa izaho tsy niteny?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "va... tsy"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "jery"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "foana"
+    },
+    {
+      "surface": "חזיתם",
+      "gloss": "no nahitanareo"
+    },
+    {
+      "surface": "ומקסם",
+      "gloss": "ary sikidy"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "mandainga"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "no nolazainareo"
+    },
+    {
+      "surface": "ואמרים",
+      "gloss": "rehefa milaza hoe"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "fanambaràn'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "nefa izaho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "niteny"
+    }
+  ],
+  "timestamp": "2026-08-31T15:50:23.137652163Z",
+  "model": "glm-5.3"
+}

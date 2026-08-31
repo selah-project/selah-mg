@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Fa izaho kosa amin'ny habetsahan'ny hesed anao no hiditra ao an-tranonao; hianko am-pankahalalahanao mankany amin'ny tempolin'ny fahamasinanao.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Fa izaho kosa"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "amin'ny habetsahan'ny"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed anao"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "no hiditra"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ao an-tranonao"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "hianko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mankany amin'ny"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tempolin'ny"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "fahamasinanao"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "am-pankahalalahanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:41.821287153Z",
+  "model": "glm-5.3"
+}

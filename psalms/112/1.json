@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 112,
+  "translation": "Miderà an'i Yah ianareo. Sambatra ny lehilahy matahotra an'i Yahveh, sady faly indrindra amin'ny didiny.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Miderà"
+    },
+    {
+      "surface": "יה",
+      "gloss": "an'i Yah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Sambatra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ny lehilahy"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "matahotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "amin'ny didiny"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "faly"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "indrindra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:46.791945670Z",
+  "model": "glm-5.3"
+}

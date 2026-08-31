@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 57,
+  "translation": "Efa namboatra ⟨את⟩ harato ho an'ny fipihako izy; niondrika ny aiko; efa nihady ⟨את⟩ lavaka teo anoloako izy, fa izy mihidy no latsaka ao anatiny. Selah.",
+  "tokens": [
+    {
+      "surface": "רשת",
+      "gloss": "harato"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "Efa namboatra izy"
+    },
+    {
+      "surface": "לפעמי",
+      "gloss": "ho an'ny fipihako"
+    },
+    {
+      "surface": "כפף",
+      "gloss": "niondrika"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "efa nihady izy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anoloako"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "lavaka"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "latsaka"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ao anatiny"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:19.384335228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Niondika ny olona, nihena ny lehilahy — fa ianao aza manandratra azy.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "niondika"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "nihena"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ny lehilahy"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fa aza"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "manandratra"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:01:38.801817435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 55,
+  "translation": "Mihainoa, ry Elohim, ny fivavahako, ary aza manafina ny tenanao amin'ny fangatahako.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Mihainoa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ny fivavahako"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "manafina ny tenanao"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "amin'ny fangatahako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:04.557019549Z",
+  "model": "glm-5.3"
+}

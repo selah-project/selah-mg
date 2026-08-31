@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ary ⟨את⟩ aminay no hitoeranareo, ary ny tany ho eo anatrehanareo; mitoera ary,ivaratrao izy, ary tahao fananana ⟨ao⟩ aminy.",
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "⟨את⟩ aminay"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "hitoeranareo"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ary ny tany"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "eo anatrehanareo"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "mitoera"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "ivaratrao izy"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "tahao fananana"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨ao⟩ aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:48:03.229317369Z",
+  "model": "glm-5.3"
+}

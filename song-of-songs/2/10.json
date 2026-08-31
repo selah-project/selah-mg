@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Namaly ny tiaiko ka nanao tamiko hoe: Mitsangàna, ry tiaiko, ry tsara tarehy, ka mandehana.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "namaly"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ny tiaiko"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ka nanao"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "mitsangàna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "àry"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "ry tiaiko"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "ry tsara tarehy"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "ka mandehana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "àry"
+    }
+  ],
+  "timestamp": "2026-08-31T17:09:53.812447981Z",
+  "model": "glm-5.3"
+}

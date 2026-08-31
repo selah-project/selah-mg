@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 40:10",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary tao amin'ilay voalobely dia nisy sampana telo; ary raha vao nitsimoka izy, dia niakatra ny voniny, dia matoy ny ampondra-ifiny, ka voaloboka.",
+  "tokens": [
+    {
+      "surface": "ובגפן",
+      "gloss": "tao amin'ilay voalobely"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "telo"
+    },
+    {
+      "surface": "שריגם",
+      "gloss": "sampana"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "כפרחת",
+      "gloss": "raha vao nitsimoka"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "niakatra"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "ny voniny"
+    },
+    {
+      "surface": "הבשילו",
+      "gloss": "dia matoy"
+    },
+    {
+      "surface": "אשכלתיה",
+      "gloss": "ny ampondra-ifiny"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "voaloboka"
+    }
+  ],
+  "timestamp": "2026-08-31T12:49:21.100085069Z",
+  "model": "glm-5.3"
+}

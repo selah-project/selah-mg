@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Dia naka azy ka nandatsaka ⟨את⟩ azy tao anaty lavaka; ary ny lavaka foana, tsy nisy rano tao anatiny.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "naka azy"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "nandatsaka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "tao anaty lavaka"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "ary ny lavaka"
+    },
+    {
+      "surface": "רק",
+      "gloss": "foana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy nisy"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tao anatiny"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    }
+  ],
+  "timestamp": "2026-08-31T12:49:53.815402078Z",
+  "model": "glm-5.3"
+}

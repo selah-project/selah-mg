@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Araka ny nandidian'i Yahveh ⟨את⟩ an'i Moshe no nataon'ny zanakavavin'i Tselofehada.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Araka ny"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidian'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "no"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nataon'ny"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "zanakavavin'i"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselofehada"
+    }
+  ],
+  "timestamp": "2026-08-31T13:39:51.050395671Z",
+  "model": "glm-5.3"
+}

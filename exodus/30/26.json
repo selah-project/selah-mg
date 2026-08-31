@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary hosoranao aminy ⟨את⟩ ny lain'ny fihaonana sy ⟨את⟩ ny fiaran'ny fambariana.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "hosoranao"
+    },
+    {
+      "surface": "בו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lain'ny fihaonana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "lay"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny fiaran'ny fambariana"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "fambariana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:06:56.352765775Z",
+  "model": "glm-5.3"
+}

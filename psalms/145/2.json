@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 145,
+  "translation": "Isan'andro hitsofako tsara ianao, ary hiderako ny anaranao mandrakizay ary ho fatrany.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "isaky ny"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "hitsofako tsara ianao"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "ary hiderako"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ny anaranao"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ary ho fatrany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:06.797433123Z",
+  "model": "glm-5.3"
+}

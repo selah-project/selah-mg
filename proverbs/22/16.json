@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Mampahory ny malahelo hanampy hanan-karena, manome harena ho an'ny manankarena — tsy ho fananan-tsy-kena ihany ve?",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "mampahory"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ny malahelo"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "hanampy hanan-karena"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "manome"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "ho an'ny manankarena"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tsy ... ihany"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "fanan-tsy-kena"
+    }
+  ],
+  "timestamp": "2026-08-31T16:55:27.372128660Z",
+  "model": "glm-5.3"
+}

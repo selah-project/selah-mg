@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary hahafoizany ⟨את⟩ ny trano, ⟨את⟩ vatoniny sy ⟨את⟩ hazony ary ⟨את⟩ ny vovoka rehetra amin'ny trano, ka hitondra izany ho any ivelan'ny tanàna, ho any amin'ny tany maloto.",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "hahafoizany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny trano"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ny trano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vatoniny"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "vatoniny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "hazony"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "hazony"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny vovaka rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "vovoka"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "amin'ny trano"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "hitondra ivelany"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ivelan'ny"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tany"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "maloto"
+    }
+  ],
+  "timestamp": "2026-08-31T13:16:07.627498329Z",
+  "model": "glm-5.3"
+}

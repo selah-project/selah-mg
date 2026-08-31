@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Fa noho ny afa-vectorana dia nandositra izy; noho ny sabatra tantanina, ary noho ny tsipìka voatsilo, ary noho ny lanjan'ny ady.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "noho ny (face an)"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "afa-vectorana (fandotoana\/fandringanana)"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "nandositra"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "noho ny"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabatra"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "tantanina (voatsilo\/novoizinina)"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ary noho ny"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "tsipìka"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "voatsilo"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ary noho ny"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "lanja (mavesatra)"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ady"
+    }
+  ],
+  "timestamp": "2026-08-31T15:07:38.683161658Z",
+  "model": "glm-5.3"
+}

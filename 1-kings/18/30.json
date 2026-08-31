@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary hoy Eliyahu tamin'ny vahoaka rehetra: Manatona eto amiko. Dia nanatona ny vahoaka rehetra teo aminy; ary nanamboatra ⟨את⟩ alitara an'i Yahveh, ilay rava.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tamin'ny ... rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Manatona"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "eto amiko"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "Dia nanatona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "teo aminy"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "nanamboatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alitara an'i Yahveh"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "ilay rava"
+    }
+  ],
+  "timestamp": "2026-08-31T14:48:21.862396384Z",
+  "model": "glm-5.3"
+}

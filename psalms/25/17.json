@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 25:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ny fahorian'ny foko no efa nampitombo; ento miala ahy amin'ny fahorako.",
+  "tokens": [
+    {
+      "surface": "צרות",
+      "gloss": "fahorian'ny"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "foko"
+    },
+    {
+      "surface": "הרחיבו",
+      "gloss": "efa nampitombo"
+    },
+    {
+      "surface": "ממצוקותי",
+      "gloss": "amin'ny fahorako"
+    },
+    {
+      "surface": "הוציאני",
+      "gloss": "ento miala ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:30.577015693Z",
+  "model": "glm-5.3"
+}

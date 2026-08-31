@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary hoy izy: Azafady, ry rahalahy, aza manao ratsy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ry rahalahy"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "manao ratsy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:38:59.016300926Z",
+  "model": "glm-5.3"
+}

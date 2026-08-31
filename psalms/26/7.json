@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Mba hampandre feo fisaorana, sy hitory ny zava-mahagaganao rehetra.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "mba hampandre"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "feo"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "fisaorana"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "sy hitory"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ny zava-mahagaganao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:46.828912312Z",
+  "model": "glm-5.3"
+}

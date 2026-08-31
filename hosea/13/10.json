@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Aiza ny mpanjakanao ⟨izao⟩, ka hamonjy anao amin'ny tanànanao rehetra? Ary ny mpitsarao, izay nanaoanao hoe: Omeo ahy mpanjaka sy mpanapaka?",
+  "tokens": [
+    {
+      "surface": "אהי",
+      "gloss": "aiza"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "ny mpanjakanao"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "⟨izao⟩"
+    },
+    {
+      "surface": "ויושיעך",
+      "gloss": "ka hamonjy anao"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "tanànanao"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "Ary ny mpitsarao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "nanaoanao hoe"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Omeo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "sy mpanapaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:08:45.659338395Z",
+  "model": "glm-5.3"
+}

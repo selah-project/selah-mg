@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary Yahveh namely namely nanelanelana an'i Parao ⟨את⟩ sy ny tranony ⟨את⟩ tamin'ny aretina lehibe, noho ny amin'i Saray, vadin'i Abrama.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "namenety aretina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "aretina"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tranony"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ny tranony"
+    },
+    {
+      "surface": "על",
+      "gloss": "noho ny amin'ny"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rahatra"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vadin'i"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrama"
+    }
+  ],
+  "timestamp": "2026-08-31T18:27:07.968337918Z",
+  "model": "glm-5.3"
+}

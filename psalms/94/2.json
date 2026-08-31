@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 94,
+  "translation": "Miangatra ianao, ry Mpitsara ⟨ny⟩ tany; omeo valiny ny mpiavonavona.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Miangatra"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Mpitsara"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "השב",
+      "gloss": "omeo"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "valiny"
+    },
+    {
+      "surface": "על",
+      "gloss": "ny"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "mpiavonavona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:47.283772488Z",
+  "model": "glm-5.3"
+}

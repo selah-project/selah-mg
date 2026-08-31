@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Lafarina sy famianan-divay tsy hanihinana azy ireo, ary ny ranom-boaloboka vaovao handa azy.",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "lafarina"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "sy famianan-divay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "hanihinana azy"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "ary ny ranom-boaloboka vaovao"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "handa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:09:09.428879818Z",
+  "model": "glm-5.3"
+}

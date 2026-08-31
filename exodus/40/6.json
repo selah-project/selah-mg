@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary hametraka ianao ⟨את⟩ ny alitara fanatitra dorana eo anoloan'ny fidirana ny trano-lay, dia ny trano-lay fihaonana.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "hametraka ianao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny alitara fanatitra dorana"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "fanatitra dorana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anoloan'ny"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "fidirana"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "trano-lay"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "trano-lay"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:32.790048275Z",
+  "model": "glm-5.3"
+}

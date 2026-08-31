@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Nandositra niaraka tamin'ny tsy nisy tsipìka ny mpanapaka rehetra; voasazy ny hita rehetra taminao, voataona niaraka izy; lavitra izy no nandositra.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "mpanapaka"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "nandositra"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "niaraka"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "tsy nisy tsipìka"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "voasazy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "ny hita taminao"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "voasazy"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "niaraka"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "lavitra"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "nandositra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:08:05.315719907Z",
+  "model": "glm-5.3"
+}

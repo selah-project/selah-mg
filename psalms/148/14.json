@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 148:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 148,
+  "translation": "Ary efa nandroatra tandroka ho an'ny olony Izy, fiderana ho an'ny ḥasidim rehetra, ho an'ny zanak'i Yisrael, olona akaiky Azy. Miderà an'i Yah!",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "efa nandroatra avo"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "tandroka"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ho an'ny olony"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "fiderana"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho an'ny ... rehetra"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ḥasidim (tia-vavolo-poko) Azy"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ho an'ny zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "akaiky Azy"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Miderà"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:28.555679443Z",
+  "model": "glm-5.3"
+}

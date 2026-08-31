@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary nanjakan-tsara ⟨את⟩ ny Isiraely azy i.e. Ivtsana avy any Bet-lehema.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "nanjakan-tsara"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "Ary azy i.e. aoriany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Isiraely"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ny Isiraely"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ivtsana"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "avy any"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bet-lehema"
+    }
+  ],
+  "timestamp": "2026-08-31T14:10:21.488289240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 1:32",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ka ny Aserita nitoetra teo afovoan'ny Kanaanita, mponina ⟨⟨tany⟩⟩ amin'ny tany; fa tsy nandroaka azy ireo izy.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ka nitoetra"
+    },
+    {
+      "surface": "האשרי",
+      "gloss": "ny Aserita"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "teo afovoan'ny"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ny Kanaanita"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mponina"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "nandroaka azy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:04:35.809385683Z",
+  "model": "glm-5.3"
+}

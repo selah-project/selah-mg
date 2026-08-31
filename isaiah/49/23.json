@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 49:23",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 49,
+  "translation": "Ary ny mpanjaka ho mpitaiza anao, ary ny mpanjakavaviny ho mpanono anao; taventy amin'ny tany izy miankohoka aminao, ary ny vovaky ny tongotrao holany; ary ho fantatrao fa izaho no Yahveh — fa tsy ho very mai-ka izay miandry Ahy.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "אמניך",
+      "gloss": "mpitaiza anao"
+    },
+    {
+      "surface": "ושרותיהם",
+      "gloss": "ary ny mpanjakavaviny"
+    },
+    {
+      "surface": "מיניקתיך",
+      "gloss": "mpanono anao"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "tarefa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "miankohoka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "ary ny vovaka"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "ny tongotrao"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "holany"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "ary ho fantatrao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ho very mai-ka"
+    },
+    {
+      "surface": "קוי",
+      "gloss": "izay miandry Ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:17:43.685899296Z",
+  "model": "glm-5.3"
+}

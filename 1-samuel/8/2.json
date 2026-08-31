@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary ny anaran'ny zanany lahivelona voalohany dia Yoël, ary ny anaran'ny faharoa dia Aviyah; mpitsara tao Beër-Sheva izy ireo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ny anaran'ny"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany lahivelona"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "voalohany"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoël"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ary ny anaran'ny"
+    },
+    {
+      "surface": "משנהו",
+      "gloss": "faharoa"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviyah"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "mpitsara"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "tao Beër-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-08-31T14:15:54.442975179Z",
+  "model": "glm-5.3"
+}

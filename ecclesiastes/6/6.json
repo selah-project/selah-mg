@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary na dia velona arivo taona indroa aza, raha tsy nahita soa: tsy mandeha ho any amin'ny toerana iray va ny zava-drehetra?",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "ary na dia"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "velona"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "arivo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taona"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "indroa"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "raha tsy nahita soa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nahita"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "toerana"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ny zava-drehetra"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "mandeha"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:28.169307319Z",
+  "model": "glm-5.3"
+}

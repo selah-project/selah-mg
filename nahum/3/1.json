@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Fahoriana ho an'ny tanàna mpandatsa-dra! feno fitaka sy fandrobana avokoa ⟨izy⟩; tsy miala ny haza.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Fahoriana"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ho an'ny tanàna"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "mpandatsa-dra"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "avokoa"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "fitaka"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "sy fandrobana"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "feno"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "miala"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ny haza"
+    }
+  ],
+  "timestamp": "2026-08-31T16:16:11.346933750Z",
+  "model": "glm-5.3"
+}

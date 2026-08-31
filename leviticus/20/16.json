@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary raha misy vehivavy manakaiky biby fiompy rehetra hiray ambanin'io ⟨את⟩, dia vonoinao ⟨את⟩ ilay vehivavy sy ⟨את⟩ ilay biby fiompy; faty no hovahelany; ny ràany dia ho azy.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "Ary raha misy vehivavy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "manakaiky"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨amin'⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biby fiompy rehetra"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "biby fiompy"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "hiray ambanin'io"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "biby fiompy"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "dia vonoinao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay vehivavy"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ilay vehivavy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ilay biby fiompy"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ilay biby fiompy"
+    },
+    {
+      "surface": "מות",
+      "gloss": "faty"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "no hovahelany"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ny ràany"
+    },
+    {
+      "surface": "בם",
+      "gloss": "dia ho azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:15.444194207Z",
+  "model": "glm-5.3"
+}

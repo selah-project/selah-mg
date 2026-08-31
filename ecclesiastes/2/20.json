@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary nivadika aho ka nampahavery fanantenana ⟨את⟩ ny foko ny amin'ny fikelezan-kako rehetra izay nohatariko tao ambanin'ny masoandro.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "Ary nivadika"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aho"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "ka nampahavery fanantenana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny foko"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "על",
+      "gloss": "ny amin'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "fikelezan-kako"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "izay nohatariko"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tao ambanin'ny"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "masoandro"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:11.674492290Z",
+  "model": "glm-5.3"
+}

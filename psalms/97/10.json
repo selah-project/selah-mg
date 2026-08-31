@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 97,
+  "translation": "Ry tia an'i Yahveh, halavo ny ratsy; ⟨Izy⟩ mitandrina ny aina ⟨amin'ny⟩ hasidiny, manafaka azy amin'ny tanan'ny ratsy fanahy.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "Ry tia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "halavo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ny ratsy"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "mitandrina"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "aina"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hasidiny"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "amin'ny tanan'ny"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ratsy fanahy"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "manafaka azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:16.691386285Z",
+  "model": "glm-5.3"
+}

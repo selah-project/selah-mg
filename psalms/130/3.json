@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 130,
+  "translation": "Raha mitana ny fahotana ianao, ry Yah, iza, ry Adonay, no hahatomedaka?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "ny fahotana"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "mitana"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "no hahatomedaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:31.027640976Z",
+  "model": "glm-5.3"
+}

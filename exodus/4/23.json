@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary lazaiko aminao: Alefaso ⟨את⟩ zanako mba hanompo Ahy; fa ianao kosa nanda handefa azy — indro, Izaho mamono ⟨את⟩ zanakao, dia ny lahim-beninao.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "lazaiko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Alefaso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zanako"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanako"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "mba hanompo Ahy"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "nanda ianao"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "handefa azy"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "mamono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zanakao"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "zanakao"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "lahim-beninao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:55:09.943408164Z",
+  "model": "glm-5.3"
+}

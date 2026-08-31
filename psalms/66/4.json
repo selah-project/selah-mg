@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 66,
+  "translation": "Ny tany rehetra hiankohoka hianatra aminao, ary hihira ho anao; hihira ho an'ny anaranao ianao. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "hiankohoka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hianatra aminao"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "ary hihira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "hihira"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ho an'ny anaranao"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:02.065330416Z",
+  "model": "glm-5.3"
+}

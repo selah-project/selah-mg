@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary nataon'i Moshe araka izay rehetra nandidian'i Yahveh ⟨את⟩ azy; dia toy izay no nataony.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "araka izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨izay⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidian'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (Moshe)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toy izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "no nataony"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:02.846179617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 6:10",
+  "book": "zechariah",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Raiso amin'ireo babo ⟨את⟩ an'i Heldai, sy ⟨את⟩ amin'i Toviya, ary ⟨את⟩ amin'i Yedaya; ary ianao no ho avy amin'izay andro izany, ary hiditra ao an-tranon'i Yoshiya zanak'i Tsefanya, izay tonga avy tany Babylona.",
+  "tokens": [
+    {
+      "surface": "לקוח",
+      "gloss": "Raiso"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "amin'ireo babo ⟨את⟩"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ireo babo"
+    },
+    {
+      "surface": "מחלדי",
+      "gloss": "an'i Heldai"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "sy ⟨את⟩"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "amin'i Toviya",
+      "marks": "Toviya"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ary ⟨את⟩"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "amin'i Yedaya",
+      "marks": "Yedaya"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ary ho avy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao no"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'izay andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ary hiditra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ao an-tranon'i"
+    },
+    {
+      "surface": "יאשיה",
+      "gloss": "Yoshiya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "avy tany Babylona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:19:07.337735813Z",
+  "model": "glm-5.3"
+}

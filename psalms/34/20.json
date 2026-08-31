@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Be ny loza mahazo ny marina, fa Yahveh manafaka amin'izy rehetra izy.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "Be"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "ny loza"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ny marina"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "amin'izy rehetra"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "manafaka izy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:04.864532447Z",
+  "model": "glm-5.3"
+}

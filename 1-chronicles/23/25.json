@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 23:25",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Fa hoy Davida: Yahveh, Elohin'i Isiraela, efa nampahiala ny olony, ary ⟨izy⟩ mitoetra ao Yeroshalayim ho mandrakizay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "efa nampahiala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraela"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ny olony"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "ary mitoetra"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ao Yeroshalayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    }
+  ],
+  "timestamp": "2026-08-31T17:40:54.854497353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Tsy hanao amin'i Yerushalayim sy ny sampy aminy va Aho, araka ny efa nataoko tamin'i Shomeron sy ny sampy aminy?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny efa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nataoko"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "tamin'i Shomeron"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "sy ny sampy aminy"
+    },
+    {
+      "surface": "כן",
+      "gloss": "araka izany"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "amin'i Yerushalayim"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "sy ny sampy aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:04:49.949004979Z",
+  "model": "glm-5.3"
+}

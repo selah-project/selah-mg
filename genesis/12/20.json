@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary nanome didy ho an'i Avraham tamin'ireo lehilahy Parao, ka nampandeha izy ireo azy ⟨את⟩ sy ny vadiny ⟨את⟩ sy izay rehetra nananany ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "nanome didy"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ho an'i Avraham (aminy)"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ireo lehilahy"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "ka nampandeha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (Avraham)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ sy",
+      "marks": "ny vadiny"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ny vadiny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ sy",
+      "marks": "izay rehetra nananany"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nananany (azy)"
+    }
+  ],
+  "timestamp": "2026-08-31T17:54:27.544114601Z",
+  "model": "glm-5.3"
+}

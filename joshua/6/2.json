@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary Yahveh nanao tam'i Yehoshoa hoe: Jereo, efa natolotro ho an'ny tananao ⟨את⟩ Yeriko sy ⟨את⟩ ny mpanjaka aminy, ny mahery fo amin'ny ady.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary ... nanao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Jereo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "efa natolotro"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ho an'ny tananao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeriko"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny mpanjaka aminy"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ny mpanjaka aminy"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "ny mahery fo"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "amin'ny ady"
+    }
+  ],
+  "timestamp": "2026-08-31T13:54:26.945072965Z",
+  "model": "glm-5.3"
+}

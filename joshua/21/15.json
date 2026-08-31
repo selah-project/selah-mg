@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary ⟨את⟩ Cholon sy ⟨את⟩ tany manodidina azy, ary ⟨את⟩ Devir sy ⟨את⟩ tany manodidina azy,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ary ⟨את⟩",
+      "marks": "Cholon"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Cholon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "tany manodidina azy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tany manodidina azy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Devir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "tany manodidina azy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tany manodidina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:02:44.282304544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Yahveh no manohana azy ambonin'ny farafara fahoriany; ny fandriany rehetra efa novanao tamin'ny aretiny.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "manohana azy"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "farafara"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "fahoriany"
+    },
+    {
+      "surface": "כל",
+      "gloss": "reo ... rehetra"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "fandriany rehetra"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "efao novanao"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "tamin'ny aretiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:41.810012796Z",
+  "model": "glm-5.3"
+}

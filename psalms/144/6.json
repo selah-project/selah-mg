@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 144,
+  "translation": "Mandatsaka varatra ka manely azy ireo; manipy zana-tsipìka nao ka mampihetsihetsika azy ireo.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "mandatsaka"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "varatra"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "ka manely azy ireo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "manipy"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "zana-tsipìka nao"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "ka mampihetsihetsika azy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:37.113159454Z",
+  "model": "glm-5.3"
+}

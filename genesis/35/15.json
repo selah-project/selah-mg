@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Ary Jaakob nanao ny anaran'ilay toerana izay niresaka ⟨את⟩ aminy tao Elohim: Bet-El.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "nanao ny anarana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anaran'ilay toerana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "anarana"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ilay toerana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "niresaka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ aminy"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-31T17:55:58.001972439Z",
+  "model": "glm-5.3"
+}

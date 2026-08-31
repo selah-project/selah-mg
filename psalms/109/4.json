@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 109,
+  "translation": "Soloy ny fitiavako dia mifanohitra amiko izy; fa izaho kosa dia fivavahana.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Soloy"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ny fitiavako"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "dia mifanohitra amiko izy"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "fa izaho kosa"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "dia fivavahana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:58.041403126Z",
+  "model": "glm-5.3"
+}

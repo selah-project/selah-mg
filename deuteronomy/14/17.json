@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "sy ny pelikana, sy ⟨את⟩ ny rachama, sy ⟨את⟩ ny shalak",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "sy ny pelikana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny rachama"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "ny rachama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny shalak"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "ny shalak"
+    }
+  ],
+  "timestamp": "2026-08-31T13:44:42.562701066Z",
+  "model": "glm-5.3"
+}

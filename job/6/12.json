@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Moa va vato no heriko, sa varahina no nofooko?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Moa va"
+    },
+    {
+      "surface": "כח",
+      "gloss": "herin'ny"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "vato"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ny heriko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "nofooko"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "varahina"
+    }
+  ],
+  "timestamp": "2026-08-31T17:00:08.158441988Z",
+  "model": "glm-5.3"
+}

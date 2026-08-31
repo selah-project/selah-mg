@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 59,
+  "translation": "Fa, indro, efa miantsana hiantsy ⟨ny aina⟩ izy ireo; miangona amiko ny mahery, tsy ny fikomiko no antony, ary tsy ny otaoko, ry Yahveh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "efo miantsana"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "hiantsy ⟨ny aina⟩"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "miangona"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ny mahery"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ny fikomiko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ny otaoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:11.503547421Z",
+  "model": "glm-5.3"
+}

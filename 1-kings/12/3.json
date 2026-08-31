@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 12:3",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "dia naniraka ary niantso azy ireo; ary tonga Yarobeama sy ny fiangonan'ny Isiraely rehetra ka niresaka tamin'i Rehabeama hanao hoe:",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "naniraka"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeama"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ny rehetra"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "fiangonana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "niresaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeama"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hanao hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T14:44:49.634280986Z",
+  "model": "glm-5.3"
+}

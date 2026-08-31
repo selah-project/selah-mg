@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary ny mpanompo nilaza tamin'i Yitschak ⟨את⟩ ny zava-drehetra izay nataony.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "nilaza"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "ny mpanompo"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "tamin'i Yitschak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zava-drehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny zava-drehetra"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "zava-(rehetra)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    }
+  ],
+  "timestamp": "2026-08-31T12:41:24.809273837Z",
+  "model": "glm-5.3"
+}

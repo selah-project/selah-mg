@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ampianaro ahy fisiana tsara sy fahalalana, fa ny didinao no ninoako.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "fisiana"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "sy fahalalana"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ampianaro ahy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "ny didinao"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "no ninoako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:16.883639006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 19:13",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Fa manimba ity tany ity izahay, fa efa lehibe ny fitarainany eo anatrehan'i Yahveh, ka Yahveh efa naniraka anay hanimba azy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "משחתים",
+      "gloss": "manimba"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "izahay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ity tany ity"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "tany"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "efa lehibe"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "ny fitarainany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eo anatrehan'i Yahveh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "anatrehan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וישלחנו",
+      "gloss": "naniraka anay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לשחתה",
+      "gloss": "hanimba azy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:39:55.853090899Z",
+  "model": "glm-5.3"
+}

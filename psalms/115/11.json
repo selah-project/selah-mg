@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 115,
+  "translation": "Ianao mpanahatahotra an'i Yahveh, matokia amin'i Yahveh; Izy no fanampana azy sy ampingany.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "mpanahatahotra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "matokia"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "amin'i Yahveh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "fanampana azy"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "sy ampingany"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Izy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:21.568919250Z",
+  "model": "glm-5.3"
+}

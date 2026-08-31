@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 48,
+  "translation": "Ary Isiraely nahita ⟨את⟩ zanak'i Yosefa, ka nanao hoe: Iza moa ireo?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nahita"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zanak'i Yosefa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Iza moa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:52:59.445618319Z",
+  "model": "glm-5.3"
+}

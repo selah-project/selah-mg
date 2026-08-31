@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 14:20",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary niantso Shaul sy ny vahoaka rehetra izay ⟨teo⟩ aminy, ary tonga hatrany tamin'ny ady; ary indro, samy nanana sabatra ny tsirairay tamin'ny namany — korontana lehibe indrindra ⟨fatratra⟩.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "nantsoina"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ny rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ aminy",
+      "marks": "aminy (preposition את, not the DOM)"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hatrany tamin'ny"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ady"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "samy nanana"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabatra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ny tsirairay"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "tamin'ny namany"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "korontana"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "indrindra"
+    }
+  ],
+  "timestamp": "2026-08-31T14:20:14.544540423Z",
+  "model": "glm-5.3"
+}

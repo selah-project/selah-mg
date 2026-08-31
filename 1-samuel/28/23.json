@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 28:23",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Ary nandà izy ka nanao hoe: Tsy hihinana aho. Ary ny mpanompony niady hevitra taminy, ary koa ilay vehivavy, ka nihaino ny feony izy; dia nitsangana tamin'ny tany izy ka nipetraka teo am-pandriana.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "Ary nandà"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "hihinana"
+    },
+    {
+      "surface": "ויפרצו",
+      "gloss": "niady hevitra taminy"
+    },
+    {
+      "surface": "בו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ny mpanompony"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ary koa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ilay vehivavy"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ka nihaino"
+    },
+    {
+      "surface": "לקלם",
+      "gloss": "ny feony"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "dia nitsangana"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "tamin'ny tany"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ka nipetraka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "teo"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "am-pandriana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:26:45.389795706Z",
+  "model": "glm-5.3"
+}

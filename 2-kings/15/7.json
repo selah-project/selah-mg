@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 15:7",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary Azariaha nodi-mandry tamin'ny razany, dia nalevina tamin'ny razany tao amin'ny tanànan'i Davida; ary Yotama zanany nnanjaka nandimby azy.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "nodi-mandry"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azariaha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "razany"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "dia nalevina"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "razany"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "tao amin'ny tanànan'ny"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ary ... nanjaka"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotama"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "nandimby azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:55:48.043032233Z",
+  "model": "glm-5.3"
+}

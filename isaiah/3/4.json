@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary izaho hametraka zazalahy ho mpanapaka azy, ary zaza madinika no hitondra azy.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ary izaho hametraka"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "zazalahy"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "ho mpanapaka azy"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "ary zaza madinika"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "no hitondra"
+    },
+    {
+      "surface": "בם",
+      "gloss": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:01:42.140193159Z",
+  "model": "glm-5.3"
+}

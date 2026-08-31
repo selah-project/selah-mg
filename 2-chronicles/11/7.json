@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "sy ⟨את⟩ Beit-Tsura sy ⟨את⟩ Sokhoa sy ⟨את⟩ Adullama;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Beit-Tsura"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "-Tsura"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Sokhoa"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "Sokhoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Adullama"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adullama"
+    }
+  ],
+  "timestamp": "2026-08-31T17:44:44.366513133Z",
+  "model": "glm-5.3"
+}

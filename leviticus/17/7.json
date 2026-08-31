@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary tsy hamono intsony ⟨את⟩ ny zava-bidiny ho an'ireo osiny izy, izay mijangajanga manaraka azy; ity no ho lalàna mandrakizay ho azy amin'ny taranany.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ary tsy"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "hamono"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zava-bidiny"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "zava-bidiny"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "ho an'ireo osiny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izy"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "mijangajanga"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "manaraka azy"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "lalàna"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ity"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "amin'ny taranany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:18:21.968169185Z",
+  "model": "glm-5.3"
+}

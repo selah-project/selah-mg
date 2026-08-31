@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary Boaza niteraka ⟨את⟩ Obeda; ary Obeda niteraka ⟨את⟩ Yishay.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Ary Boaza"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obeda"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obeda"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "ary Obeda"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishay"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    }
+  ],
+  "timestamp": "2026-08-31T17:34:04.884349132Z",
+  "model": "glm-5.3"
+}

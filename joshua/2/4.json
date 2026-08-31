@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary ilay vehivavy naka ⟨את⟩ ireo lehilahy roa ka nafeniny, ary hoy izy: Eny tokoa, tonga aty amiko ireo lehilahy, fa tsy fantatro avy aiza izy ireo.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "naka"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ilay vehivavy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ireo lehilahy roa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "roa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ireo lehilahy"
+    },
+    {
+      "surface": "ויצפנו",
+      "gloss": "ka nafeniny"
+    },
+    {
+      "surface": "ויתאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Eny tokoa"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aty amiko"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ireo lehilahy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "fantatro"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "avy aiza"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:54:36.511285336Z",
+  "model": "glm-5.3"
+}

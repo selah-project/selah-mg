@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 82,
+  "translation": "Mitsangàna ry Elohim, mitsarà ⟨ny⟩ tany; fa hianao no handova ny jenty rehetra.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Mitsangàna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ry Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "mitsarà"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "hianao"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "handova"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ny... rehetra"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "jenty"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:35.149718821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 89:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Hianao no nampanjavo an'i Rahab toy ny faty iray; tamin'ny sandronao mahery no nafafy ny fahavalonao.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Hianao"
+    },
+    {
+      "surface": "דכאת",
+      "gloss": "nampanjavo"
+    },
+    {
+      "surface": "כחלל",
+      "gloss": "toy ny faty iray"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "tamin'ny sandry"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "mahery anao"
+    },
+    {
+      "surface": "פזרת",
+      "gloss": "nafafy"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "ny fahavalonao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:43.946484895Z",
+  "model": "glm-5.3"
+}

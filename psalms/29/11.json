@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Yahveh manome hery ny olony; Yahveh miresaka soa ⟨את⟩ ny olony amin'ny fiadanana.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hery"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ny olony"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "manome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "miresaka soa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny olony"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ny olony"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "amin'ny fiadanana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:39.693846763Z",
+  "model": "glm-5.3"
+}

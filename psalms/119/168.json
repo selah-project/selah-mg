@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Noteziko ny didy ampanao sy ny vakitenivavolombeloninao, fa eo anatrehanao ny lalàlako rehetra.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "noteziko"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ny didy ampanao"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "sy ny vakitenivavolombeloninao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ny lalàlako"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "eo anatrehanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:41.528000328Z",
+  "model": "glm-5.3"
+}

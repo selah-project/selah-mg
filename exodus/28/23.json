@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Ary hanao eo amin'ny hazon-tratra pera roa volamena, ary hametraka ⟨את⟩ ny pera roa eo amin'ny tendrony roan'ny hazon-tratra.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ary hanao"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hazon-tratra"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "roa"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "pera"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ary hametraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pera roa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "roa"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "pera"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "שני",
+      "gloss": "roan'ny"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "tendrony"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hazon-tratra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:05:45.669655993Z",
+  "model": "glm-5.3"
+}

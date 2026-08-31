@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "dia hirehitra ny fahatezerako, ary hamono anareo ⟨את⟩ amin'ny sabatra Aho, ary ho mpitondra tena ny vadinareo, ary ny zaninareo ho kamboty.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "dia hirehitra"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ny fahatezerako"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "ary hamono"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "amin'ny sabatra"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ary ho"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "ny vadinareo"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "mpitondra tena"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "ary ny zaninareo"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "kamboty"
+    }
+  ],
+  "timestamp": "2026-08-31T13:02:40.764246229Z",
+  "model": "glm-5.3"
+}

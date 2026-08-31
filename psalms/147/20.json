@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 147,
+  "translation": "Tsy nanao toy izany tamin'ny firenena rehetra izy; ary ny fitsarany tsy fantatry ireo. Miderà an'i Yah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toy izany"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tamin'ny... rehetra"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ary ny fitsarany"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tsy... mihitsy"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "fantatry ireo"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "miderà"
+    },
+    {
+      "surface": "יה",
+      "gloss": "an'i Yah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:35.034129588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 45,
+  "translation": "Myrra sy aloe sy kazia — ny fitafianao rehetra; avy amin'ny lapon'ny taolam-nify ⟨ny zava-maneno tady⟩ no nampifaly anao.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "myrra"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "sy aloe"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "sy kazia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "ny fitafianao"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "lapon'ny"
+    },
+    {
+      "surface": "שן",
+      "gloss": "taolam-nifin'"
+    },
+    {
+      "surface": "מני",
+      "gloss": "zava-maneno tady"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "nampifaly anao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:13:54.789449535Z",
+  "model": "glm-5.3"
+}

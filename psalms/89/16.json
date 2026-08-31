@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Sambatra ny vahoka mahalala ny fihobiahiana; Yahveh, eny amin'ny fahazavan'ny tavanao no mandeha.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Sambatra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "ny fihobiahiana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "באור",
+      "gloss": "amin'ny fahazavan'ny"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tavanao"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "no mandeha"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:30.407958191Z",
+  "model": "glm-5.3"
+}

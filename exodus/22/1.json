@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Raha ao amin'ny fanaovana fanitsakitsahana no hita ny mpangalatra, ka voatezo ka maty, tsy misy rà ⟨ho⟩ azy.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "ao amin'ny fanaovana fanitsakitsahana"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "hita"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "ny mpangalatra"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ka voatezo"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ka maty"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "rà"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:47.808108713Z",
+  "model": "glm-5.3"
+}

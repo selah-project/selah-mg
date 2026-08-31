@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 95,
+  "translation": "Ka dia nianiana tamin'ny fahatezerako Aho: Tsy hiditra amin'ny fialan-tsi-fatoko mihitsy izy.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ka dia"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nianiana Aho"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "tamin'ny fahatezerako"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mihitsy"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "tsy hiditra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "fialan-tsi-fatoko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:02.413388431Z",
+  "model": "glm-5.3"
+}

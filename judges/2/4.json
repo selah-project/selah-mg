@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 2:4",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary nony efa voalazan'ny irak'i Yahveh ⟨את⟩ ireo teny ireo tamin'ny Zanak'i Isiraela rehetra, dia nanandratra ny vahoaka ⟨את⟩ ny feony ka nitomany.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nony"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "efa voalazan'"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ny irak'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ireo teny ireo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ireo teny"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraela"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "dia nanandratra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny feony"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ny feony"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ka nitomany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:04:45.398135124Z",
+  "model": "glm-5.3"
+}

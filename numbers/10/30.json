@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Fa hoy izy taminy: Tsy handeha aho, fa ho any amin'ny taniko sy ho any amin'ny firenekiko no handeha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Fa hoy"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "handeha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "taniko"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sy ho any amin'ny"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "firenekiko"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "no handeha"
+    }
+  ],
+  "timestamp": "2026-08-31T13:27:19.975925874Z",
+  "model": "glm-5.3"
+}

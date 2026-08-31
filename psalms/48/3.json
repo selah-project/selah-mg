@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 48,
+  "translation": "Tsara ny toerana ambony, fifalian'ny tany rehetra ⟨izy⟩: ny tendrombohitra Ziona, ny lalindalina avaratra, tanànan'ny mpanjaka lehibe.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Tsara"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "toerana ambony"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "fifalian'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ziona"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "ny lalindalina"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "avaratra"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "tanànan'ny"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "רב",
+      "gloss": "lehibe"
+    }
+  ],
+  "timestamp": "2026-08-31T16:30:55.196503365Z",
+  "model": "glm-5.3"
+}

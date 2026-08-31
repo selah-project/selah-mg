@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 144,
+  "translation": "Hesediko sy manda-fiarovanaiko, toerana avo iankohoko ary mpamonjy ahy, ampingako, ary ataoko fialokalana izy, ilay manetry ny olona amiko.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "Hesediko"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "sy manda-fiarovanaiko"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "toerana avo iankohoko"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ary mpamonjy ahy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ampingako"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "ary ataoko fialokalana izy"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "fialokalana"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "ilay manetry"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:08.621951635Z",
+  "model": "glm-5.3"
+}

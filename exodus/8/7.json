@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary hiala aminao sy amin'ny tranonao sy amin'ny mpanomponao ary amin'ny olonao ny sahona; fa amin'ny renirano ihany no hitoerany.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "ary hiala"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "ny sahona"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "sy amin'ny tranonao"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "sy amin'ny mpanomponao"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "ary amin'ny olonao"
+    },
+    {
+      "surface": "רק",
+      "gloss": "fa ihany"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "amin'ny renirano"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "no hitoerany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:20.172323389Z",
+  "model": "glm-5.3"
+}

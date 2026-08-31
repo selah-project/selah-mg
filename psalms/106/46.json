@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Ary nomeny ⟨את⟩ izy ireo ho fiantrana eo anatrehan'ny mpibabaka azy rehetra.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ary nomeny"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "izy ireo"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "ho fiantrana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anatrehan'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "ny mpibabaka azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:17.454691800Z",
+  "model": "glm-5.3"
+}

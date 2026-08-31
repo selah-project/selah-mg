@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Tamin'ny lalan'ny fanambaranao no faliako, toy ny fifaliana amin'ny haren'asa rehetra.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "tamin'ny lalan'ny"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "fanambaranao"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "faliako aho"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "toy ny fifaliana amin'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "... rehetra"
+    },
+    {
+      "surface": "הון",
+      "gloss": "haren'asa"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:42.683420871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 126,
+  "translation": "Efa nanao zavatra lehibe taminay Yahveh; izahay dia sambatra.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "Efa nanao zavatra lehibe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "(eo anivon'ny nanao)"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "taminay"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "izahay dia"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "sambatra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:47.198285039Z",
+  "model": "glm-5.3"
+}

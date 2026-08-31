@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary nitsangana izy tao anivon'ny alina ka naka ⟨את⟩ ny zanako tao anilanko, raha mbola natory ny mpanompovavakao, ka nametraka azy tao an-tratrany; ary ⟨את⟩ ny zanany maty no nametrany tao an-tratoko.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "Ary nitsangana"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "tao anivon'ny"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "alina"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ka naka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanako"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny zanako"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "tao anilanko"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ny mpanompovavakao"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "natory"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "ka nametraka azy"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "tao an-tratrany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanany maty"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "המת",
+      "gloss": "maty"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "nametraka"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "tao an-tratoko"
+    }
+  ],
+  "timestamp": "2026-08-31T14:40:49.937029074Z",
+  "model": "glm-5.3"
+}

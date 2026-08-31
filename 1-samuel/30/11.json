@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary hitan'izy ireo lehilahy Mitsrita tany an-tsaha, ka nentiny ho any amin'i Davide ⟨את⟩ izy; ary nomeny mofo ka nihinana, ary nampisotroiny rano.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "nahita"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Mitsrita"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "tany an-tsaha"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "nentiny"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ilay Mitsrita)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "nomeny"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mofo"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ka nihinana"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "nampisotroiny"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    }
+  ],
+  "timestamp": "2026-08-31T14:27:41.400534584Z",
+  "model": "glm-5.3"
+}

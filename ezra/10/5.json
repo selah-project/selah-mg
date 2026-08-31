@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 10:5",
+  "book": "ezra",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary nitsangana Ezra ka nampianiana ⟨את⟩ ireo mpanapaka ny mpisorona, ny Levita, sy Isiraely rehetra hanao araka ity teny ity; ary nianiana izy.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nitsangana"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ka nampianiana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ireo mpanapaka ny mpisorona"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ireo mpanapaka"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ny Levita"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ... rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "araka ity teny"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "nianiana izy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:28:23.291329192Z",
+  "model": "glm-5.3"
+}

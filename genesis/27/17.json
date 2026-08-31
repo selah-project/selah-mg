@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ary nanome ⟨את⟩ ny sakafo matsiro sy ⟨את⟩ ny mofo izay nataony tamin'ny tàn'i Yaakov zanany izy.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "nanone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny sakafo matsiro"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "ny sakafo matsiro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny mofo"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "ny mofo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "tamin'ny tanàn"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "zanany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:43:24.120564807Z",
+  "model": "glm-5.3"
+}

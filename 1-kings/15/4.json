@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Nefa noho ny amin'i Davida dia nomen'i Yahveh Elohiny ⟨את⟩ jiro ho azy tao Yeroshalayim izy, hanangana ny zanany hisolo azy, ary hanorenana an'i Yeroshalayim ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Nefa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "noho ny amin'ny"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nomen'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohiny"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "jiro"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "tao Yeroshalayim"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "hanangana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "hisolo azy"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "ary hanorenana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeroshalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    }
+  ],
+  "timestamp": "2026-08-31T14:46:25.721881641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 27:15",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ary ho an'ny rantin-tongotra faharoa dia dimy ambin'ny folo haky ny tsify; ny tsangany telo, ary ny fototry ny tsangany telo.",
+  "tokens": [
+    {
+      "surface": "ולכתף",
+      "gloss": "Ary ho an'ny rantin-tongotra"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "faharoa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "dimy"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ambin'ny folo"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "tsify"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "ny tsangany"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "telo"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ary ny fototry ny tsangany"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "telo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:05:23.358247423Z",
+  "model": "glm-5.3"
+}

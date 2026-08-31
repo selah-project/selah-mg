@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 107,
+  "translation": "Aoka hidera an'i Yahveh amin'ny hesed-Ny sy amin'ny zavatra mahagaga ataony amin'ny zanak'olombelona izy.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Aoka hidera"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "amin'ny hesed-Ny"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "sy amin'ny zavatra mahagaga ataony"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "amin'ny zanak'"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olombelona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:20.055981164Z",
+  "model": "glm-5.3"
+}

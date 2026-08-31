@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary namboleka zaridaina tao Edena, tany atsinanana, Yahveh Elohim; ary nametraka any ⟨את⟩ ilay olona izay namoronany.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "namboleka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "zaridaina"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "tao Edena"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "tany atsinanana"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "nametraka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "any"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay olona"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ilay olona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "namoronany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:28.009815563Z",
+  "model": "glm-5.3"
+}

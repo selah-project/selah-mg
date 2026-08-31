@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Mihainoa, ry Yahveh, ny feoko miantso; mamindra fo amiko ary valio aho.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Mihainoa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ny feoko"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "miantso"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "mamindra fo amiko"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ary valio aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:35.168841499Z",
+  "model": "glm-5.3"
+}

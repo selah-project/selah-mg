@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 55,
+  "translation": "Izaho hanatona an'i Elohim hiantso, ary Yahveh hamonjy ahy.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hanatona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "an'i Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "hiantso"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ary Yahveh"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "hamonjy ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:37.887020644Z",
+  "model": "glm-5.3"
+}

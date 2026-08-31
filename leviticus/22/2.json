@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 22:2",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Mitenena amin'i Aharon sy amin'ny zanany, ary aoka hisaraka amin'ny zava-masin'ny zanak'i Yisrael izy, ary aza hanoto ⟨את⟩ ny anarako masina, izay masina ho ahy izy; Izaho Yahveh.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Mitenena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sy amin'ny"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "וינזרו",
+      "gloss": "ary aoka hisaraka"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "amin'ny zava-masiny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "hanoto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anarako masina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "anaraka"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "masina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izy"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "masina"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:51.459003210Z",
+  "model": "glm-5.3"
+}

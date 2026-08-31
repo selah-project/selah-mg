@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Nampianianako anareo ⟨את⟩, ry zazavavavin'i Yeroshalayim: aza mampifoha na mampionona ⟨את⟩ ny fitiavana, mandra-pahatanteraka ny sitrapony.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Nampianianako"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo",
+      "marks": "zazavavavin'i Yeroshalayim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "zazavavavin'"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "mampifoha"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "na"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "mampionona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitiavana"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "ny fitiavana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "pahatanteraka ny sitrapony"
+    }
+  ],
+  "timestamp": "2026-08-31T17:11:11.772146977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Tamin'izany andro izany, rehefa nipetraka teo amin'ny seza fiandrianan'ny fanjakany ny mpanjaka Ahashverosh, ilay tao Shushan ⟨⟨ilay⟩⟩ bira.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "tamin'izany andro izany"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "izany"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "rehefa nipetraka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahashverosh"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo amin'ny"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "seza fiandrianana"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ny fanjakany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "tao Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "bira"
+    }
+  ],
+  "timestamp": "2026-08-31T18:37:21.175494039Z",
+  "model": "glm-5.3"
+}

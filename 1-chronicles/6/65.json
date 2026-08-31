@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary avy amin'ny firenen'ny Gad ⟨את⟩ Raamota any Giladada sy ⟨את⟩ ny tany manodidina azy, ary ⟨את⟩ Mahanaima sy ⟨את⟩ ny tany manodidina azy.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "avy amin'ny firenen'ny"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raamota"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Raamota"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "any Giladada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tany manodidina azy"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ny tany manodidina azy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Mahanaima"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Mahanaima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tany manodidina azy"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ny tany manodidina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:35:31.584588454Z",
+  "model": "glm-5.3"
+}

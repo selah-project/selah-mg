@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 144,
+  "translation": "Yahveh, inona no olombelona ka fantatrao? Zanak'olombelona ka isainao?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "inona"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olombelona"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "ka fantatrao"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Zanak'"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "olombelona"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "ka isainao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:08.622125065Z",
+  "model": "glm-5.3"
+}

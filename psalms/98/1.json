@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 98,
+  "translation": "Fihirana. Mihira ho an'i Yahveh ianareo, hira vaovao, fa nanao zava-mahagaga Izy; ny tànany ankavanana sy ny sandriny masina no nanomea famonjena Azy.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Fihirana"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Mihira ianareo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "hira"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "vaovao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "zava-mahagaga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "nanomea famonjena"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Azy"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ny tànany ankavanana"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "sy ny sandriny"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "masina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:39.878093855Z",
+  "model": "glm-5.3"
+}

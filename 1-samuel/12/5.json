@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 12:5",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary hoy izy taminy: Yahveh no vavolombelona aminareo, ary ny mpanosotra Azy no vavolombelona androany, fa tsy hitanareo na inona na inona ⟨na⟩ inona tao an-tanako. Ary hoy ireo: Vavolombelona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vavolombelona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "aminareo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ary vavolombelona"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "ny mpanosotra Azy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "androany"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "מצאתם",
+      "gloss": "hitanareo"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "tao an-tanako"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "na inona na inona"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy ireo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Vavolombelona"
+    }
+  ],
+  "timestamp": "2026-08-31T18:02:41.247187027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Fihirana nataon'i Davida. Yahveh, iza no hitoetra ao amin'ny lainao? Iza no hitoetra ao amin'ny tendrombohitra masinao?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Fihirana"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nataon'i Davida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "hitoetra"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "ao amin'ny lainao"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "hitoetra"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ao amin'ny tendrombohitra"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "masinao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:55.945354432Z",
+  "model": "glm-5.3"
+}

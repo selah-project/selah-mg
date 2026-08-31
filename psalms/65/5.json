@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 65,
+  "translation": "Sambatra izay tianao heterina ⟨sy⟩ ny hataonao manatona ⟨anao⟩: honina ao amin'ny kianjanao izy; voky hoby ny fahasoavan'ny tranonao, masina ny tempolinao.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "sambatra"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "tianao heterina"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "ny hataonao manatona"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "honina"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "ao amin'ny kianjanao"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "voky hoby"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ny fahasoavan'"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ny tranonao"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "ny tempolinao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:08.015030459Z",
+  "model": "glm-5.3"
+}

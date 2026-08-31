@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary hihiny fa tsy ho voky, hi fijangajangana fa tsy hitombo; fa ⟨את⟩ Yahveh efa nahafoy izy mba tsy hitandrina.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "ary hihiny"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ho voky"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "hijangajangana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "hitombo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "efa nahafoy"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "mba tsy hitandrina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:06:55.289536897Z",
+  "model": "glm-5.3"
+}

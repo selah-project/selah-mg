@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 42:18",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Ary tamin'ny andro fahatelo Yosefa nanao taminy hoe: Izao no ataovy, dia ho velona ianareo; fa ⟨את⟩ ny Elohim no matahora aho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao taminy hoe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "fahatelo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izao"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ataovy"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "dia ho velona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aho"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "matahora"
+    }
+  ],
+  "timestamp": "2026-08-31T12:51:45.405513756Z",
+  "model": "glm-5.3"
+}

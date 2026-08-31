@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 107,
+  "translation": "Dia niantsoantso ho any amin'i Yahveh izy tao amin'ny fahoriany; avy tamin'ny fahoriana mafy nanjo azy Izy namonjy ⟨azy⟩.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Dia niantsoantso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "tao amin'ny fahoriany"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "avy amin'ny fahoriana mafy nanjo azy"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "Izy namonjy ⟨azy⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:11.038005700Z",
+  "model": "glm-5.3"
+}

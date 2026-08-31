@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary hoy ny irak'i Elohim taminy: Raiso ⟨את⟩ ny hena sy ⟨את⟩ ny mofo tsy misy masirasira, ary apetraho ambonin'io vato io, ary aidino ⟨את⟩ ny ran'ny hena. Ka izany no nataony.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ny irak'i"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Raiso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny hena"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ny hena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny mofo tsy misy masirasira"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ny mofo tsy misy masirasira"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "ary apetraho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ambonin'"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "io vato io"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "io"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny ran'ny hena"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "ny ran'ny hena"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "aidino"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ka nataony"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:07:09.822739876Z",
+  "model": "glm-5.3"
+}

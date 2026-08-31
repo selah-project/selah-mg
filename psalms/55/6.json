@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 55,
+  "translation": "Tahotra sy fihenahena no miditra ato amiko, ary ny fahatsiravina manarona ahy.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "tahotra"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "sy fihenahena"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "no miditra"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ato amiko"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "manarona ahy"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "ny fahatsiravina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:27.299593289Z",
+  "model": "glm-5.3"
+}

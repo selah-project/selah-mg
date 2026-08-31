@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary Bat-Sheba niditra tao amin'ny mpanjika tao amin'ny efitrano; ary ny mpanjika efa antitra be; ary Avishaga tany Shunema no nanompo ⟨את⟩ ny mpanjika.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "niditra"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tao amin'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjika"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "tao amin'ny efitrano"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ary ny mpanjika"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "efa antitra"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "be"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "ary Avishaga"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "tany Shunema"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "nanompo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanjika"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjika"
+    }
+  ],
+  "timestamp": "2026-08-31T14:38:55.178416985Z",
+  "model": "glm-5.3"
+}

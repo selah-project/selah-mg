@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 36:38",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Ary ⟨את⟩ tsangam-batony dimy sy ⟨את⟩ voronany; ary voafono volamena ny lohany sy hazakany, fa ny fotony dimy kosa varahina.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tsangam-batony dimy"
+    },
+    {
+      "surface": "עמודיו",
+      "gloss": "tsangam-batony"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "dimy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "voronany"
+    },
+    {
+      "surface": "וויהם",
+      "gloss": "voronany"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "voafono"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "ny lohany"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "sy hazakany"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ny fotony"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "dimy"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "varahina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:09:01.547629145Z",
+  "model": "glm-5.3"
+}

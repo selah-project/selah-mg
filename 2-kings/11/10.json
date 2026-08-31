@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary ny mpisorona nanome tamin'ny mpifehy ⟨את⟩ ny zato ⟨את⟩ ny lefon'i Davida sy ⟨את⟩ ny ampingany, izay tao an-tranon'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "nanome"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "tamin'ny mpifehy"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "ny zato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lefona"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "ny lefona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny ampinga"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "ny ampinga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "nanan'ny mpanjaka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "tao an-tranon'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T14:56:07.975830703Z",
+  "model": "glm-5.3"
+}

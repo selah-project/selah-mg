@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 66,
+  "translation": "Ho an'ny mpitarika. Fihirana, Salamo. Mihobia ho an'i Elohim, ry tany rehetra.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho an'ny mpitarika"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "fihirana"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "salamo"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "mihobia"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ho an'i Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ry tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:02.062925022Z",
+  "model": "glm-5.3"
+}

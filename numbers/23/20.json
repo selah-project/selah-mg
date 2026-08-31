@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Indro, ny baiko hitsofoka no efa voarayiko, ary hitsofoka izy, ka tsy azo ahodinko izany.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "hitsofoka"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "efa voarayiko"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ary hitsofoka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy azo"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "ahodinko"
+    }
+  ],
+  "timestamp": "2026-08-31T13:34:30.411052309Z",
+  "model": "glm-5.3"
+}

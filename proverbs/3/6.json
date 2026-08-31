@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 3:6",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Amin'ny lalanao rehetra fantarero Azy, ary Izy no hanitsy ny lalanao.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Amin'ny ... rehetra"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "ny lalanao"
+    },
+    {
+      "surface": "דעהו",
+      "gloss": "fantarero Azy"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ary Izy no"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "hanitsy"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "ny lalanao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:15:07.336850709Z",
+  "model": "glm-5.3"
+}

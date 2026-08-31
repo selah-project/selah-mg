@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 88,
+  "translation": "Nanodidina ahy ⟨toy⟩ ny rano izy ⟨rehy⟩ ny andro; nanodidina ahy ⟨izy⟩ miaraka.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "nanodidina ahy"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "toy ny rano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ny andro"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "nanodidina"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "miaraka"
+    }
+  ],
+  "timestamp": "2026-08-31T18:35:35.792644626Z",
+  "model": "glm-5.3"
+}

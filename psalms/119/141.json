@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Kely izaho sy nolavina, nefa tsy nadinoako ny didinao.",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "kely"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "sy nolavina"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "ny didinao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "nadinoako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:33.215663499Z",
+  "model": "glm-5.3"
+}

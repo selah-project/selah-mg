@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ho an'ny fiainana mandrakizay, ry Yahveh, ny teninao mijoro ao amin'ny lanitra.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "ho an'ny fiainana mandrakizay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ny teninao"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "mijoro"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ao amin'ny lanitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:50.983406788Z",
+  "model": "glm-5.3"
+}

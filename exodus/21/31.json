@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Na zanakalahy no voatifitra tandroka, na zanakavavy no voatifitra tandroka, araka ity fitsipika ity no hatao ho azy.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Na"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanakalahy"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "voatifitra tandroka"
+    },
+    {
+      "surface": "או",
+      "gloss": "na"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanakavavy"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "voatifitra tandroka"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "araka ... fitsipika"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity ... ity"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hatao"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:19.096646981Z",
+  "model": "glm-5.3"
+}

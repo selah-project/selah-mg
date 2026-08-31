@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 11:5",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary ho faty ny lahimatoa rehetra ao amin'ny tany Mitsrayim, dia avy amin'ny lahimatoan'i Parao izay mipetraka eo amin'ny seza fiandrianany, ka hatramin'ny lahimatoan'ny mpanompo vavy izay ao ambadiky ny fanotrona, sy ny lahimatoan'ny biby fiompy rehetra.",
+  "tokens": [
+    {
+      "surface": "ומת",
+      "gloss": "ary ho faty"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ny lahimatoa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ao amin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבכור",
+      "gloss": "avy amin'ny lahimatoa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "izay mipetraka"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "seza fiandrianany"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ny lahimatoa"
+    },
+    {
+      "surface": "השפחה",
+      "gloss": "ny mpanompo vavy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ao ambadiky"
+    },
+    {
+      "surface": "הרחים",
+      "gloss": "ny fanotrona"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ny"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "lahimatoa"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "biby fiompy rehetra"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:26.560398626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Aorian'ireto zavatra ireto, rehefa nihena ny fahatezeran'i Achashverosh mpanjaka, dia nahatsiaro ⟨את⟩ an'i Vashti, sy ⟨את⟩ izay nataony, ary ⟨את⟩ izay voapetra taminy.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Aorian'"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "zavatra"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireto...ireto"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "rehefa nihena"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ny fahatezerana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nahatsiaro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Vashti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "izay nataony"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "izay voapetra taminy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "voapetra"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "tamin'ny azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:18:30.201000137Z",
+  "model": "glm-5.3"
+}

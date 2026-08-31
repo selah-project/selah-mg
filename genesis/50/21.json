@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 50,
+  "translation": "Ary ankehitriny, aza matahorahy; izaho no hohaniniko ⟨את⟩ anareo sy ⟨את⟩ ny zanakareo madinika. Dia nampionona ⟨את⟩ azy ireo izy ary niteny tamin'ny fon'ny.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ary ankehitriny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "matahorahy"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "hohaniniko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanakareo madinika"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "zanakareo madinika"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "Dia nampionona"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ azy ireo"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ary niteny"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "fon'ny"
+    }
+  ],
+  "timestamp": "2026-08-31T12:54:30.023060923Z",
+  "model": "glm-5.3"
+}

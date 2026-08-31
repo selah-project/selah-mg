@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Yahveh, aza avela ho mena amim-panahy aho, fa efa niantso anao aho; aoka ho mena amim-panahy ny ratsy fanahy, ary hangina ho any amin'ny Sheol izy.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "avela ho mena amim-panahy aho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "efa niantso anao aho"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "aoka ho mena amim-panahy"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "hangina"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ho any amin'ny Sheol"
+    }
+  ],
+  "timestamp": "2026-08-31T18:12:41.396290421Z",
+  "model": "glm-5.3"
+}

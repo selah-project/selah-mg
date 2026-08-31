@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary hisy fitarainana lehibe ao amin'ny tany Mitsrayim rehetra, izay tsy mitovy aminy tsy mbola nisy, ary tsy hisy mitovy aminy intsony.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ary hisy"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "fitarainana"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ao amin'ny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "mitovy aminy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "mbola nisy"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "ary mitovy aminy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "hisy intsony"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:26.560644976Z",
+  "model": "glm-5.3"
+}

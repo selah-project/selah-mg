@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 11:30",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary Yiftah nanao voady tamin'i Yahveh ka nanao hoe: Raha toa ka atolotranao ⟨את⟩ ny zanak'i Amona ho an'ny tanako",
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "nanao voady"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftah"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "voady"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "tamin'i Yahveh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha toa ka"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "atolotranao"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ka atolotranao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanak'i Amona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amona"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ho an'ny tanako"
+    }
+  ],
+  "timestamp": "2026-08-31T14:10:36.221842807Z",
+  "model": "glm-5.3"
+}

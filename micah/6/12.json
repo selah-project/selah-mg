@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 6:12",
+  "book": "micah",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Fa ny mpanana feno herisetra, ary ny mponina miteny mpandainga, ary ny lelany dia fitaka ao am-bavany.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "עשיריה",
+      "gloss": "ny mpanana"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "feno"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "herisetra"
+    },
+    {
+      "surface": "וישביה",
+      "gloss": "ary ny mponina"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "miteny"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "mpandainga"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "ary ny lelany"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "fitaka"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ao am-bavany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:15:28.968465606Z",
+  "model": "glm-5.3"
+}

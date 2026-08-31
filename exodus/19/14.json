@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary nidina avy tany an-tendrombohitra ho any amin'ny vahoaka Moshe, ka nanamasina ⟨את⟩ ny vahoaka, ary dia nanasa ny fitafiany izy.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "nidina"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "tany an-tendrombohitra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "nanamasina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "nanasa"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "ny fitafiany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:56:55.101306457Z",
+  "model": "glm-5.3"
+}

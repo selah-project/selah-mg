@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary niady tamin'i Moshe ny olona, ka nanao hoe: Omeo rano antsika ary hisotro. Ary Moshe nanao taminy hoe: Nahoana no mifanohitra amiko? Nahoana no manao fanandramana an'i Yahveh ⟨את⟩?",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "niady"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Omeo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "antsika"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "ary hisotro"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "להם",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Nahoana no"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "mifanohitra"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Nahoana no"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "manao fanandramana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:00:30.893037031Z",
+  "model": "glm-5.3"
+}

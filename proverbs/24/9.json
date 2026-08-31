@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 24:9",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ny tetik'adala dia ota, ary ny mpanamokatra dia fahavainoana amin'ny olona.",
+  "tokens": [
+    {
+      "surface": "זמת",
+      "gloss": "tetika"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "adala"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ota"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "ary fahavainoana"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "amin'ny olona"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "ny mpanamokatra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:56:00.132835843Z",
+  "model": "glm-5.3"
+}

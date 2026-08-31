@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 140,
+  "translation": "Fantatro fa Yahveh hanao fitsarana ho an'ny mahantra, hafatra ho an'ny malahelo.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Fantatro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "דין",
+      "gloss": "fitsarana"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mahantra"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hafatra"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "malahelo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:16.805973791Z",
+  "model": "glm-5.3"
+}

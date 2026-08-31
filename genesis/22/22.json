@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "ary ⟨את⟩ Keseda, ary ⟨את⟩ Hazo, ary ⟨את⟩ Pildasha, ary ⟨את⟩ Yidlafa, ary ⟨את⟩ Betuela;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Keseda"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "Keseda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Hazo"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "Hazo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Pildasha"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "Pildasha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Yidlafa"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "Yidlafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Betuela"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuela"
+    }
+  ],
+  "timestamp": "2026-08-31T12:41:21.217840302Z",
+  "model": "glm-5.3"
+}

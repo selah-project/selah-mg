@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 45,
+  "translation": "Ary namoaka ny feony tamin'ny fitomaniana izy; ka ren'ny mponina tao Mitsrayim izany, ary ren'ny ankohonan'i Parao.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "namoaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ny feony"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "tamin'ny fitomaniana"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ka ren'ny mponina tao Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ary ren'ny"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ankohonana"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:52:23.107316479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary nataon'i Moshe sy Aharonova araka ny nandidian'i Yahveh azy ⟨את⟩, dia izay no nataony.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ary nataon'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "sy Aharonova"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidian'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (Moshe sy Aharonova)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dia izay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "no nataony"
+    }
+  ],
+  "timestamp": "2026-08-31T17:56:08.786391389Z",
+  "model": "glm-5.3"
+}

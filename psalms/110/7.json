@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 110,
+  "translation": "Misotro avy amin'ny lohasaha eo an-dalana Izy; noho izany dia hasandratrany ny lohany.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "avy amin'ny lohasaha"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "eo an-dalana"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "misotro"
+    },
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "hasandratrany"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "loha"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:34.687282486Z",
+  "model": "glm-5.3"
+}

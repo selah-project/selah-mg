@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary hiditra ao amin'ny mpanjaka ianao ka hiteny aminy araka ity teny ity; ary Joaba nolovany tao am-bavany ⟨את⟩ ny teny.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "hiditra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ao amin'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "hiteny"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "araka ity teny ity"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "↔ ity"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "nolovany tao"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny teny"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "am-bavany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:32:36.035524258Z",
+  "model": "glm-5.3"
+}

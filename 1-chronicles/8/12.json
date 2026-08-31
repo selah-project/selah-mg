@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary ny zanak'i Elpaala: Ebera sy Mishama sy Shameda; izy no nanorina ⟨את⟩ Ono sy ⟨את⟩ Loda mbamin'ny zanakavaviny.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ary ny zanak'i"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaala"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ebera"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "sy Mishama"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "sy Shameda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nanorina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Loda"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Loda"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "mbamin'ny zanakavaviny"
+    }
+  ],
+  "timestamp": "2026-08-31T17:35:38.188245244Z",
+  "model": "glm-5.3"
+}

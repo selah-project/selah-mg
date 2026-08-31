@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary nanontaniaka tamin'i Yahveh ho azy izy, sady nomeny sakafo, ary ⟨את⟩ ny sabat'i Goliata Filistina nomena ho azy.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "nanontaniaka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "tamin'i Yahveh"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "sakafo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nomeny"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sabat'i Goliata Filistina"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabat'i"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Goliata"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistina"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nomena"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:23:41.761187555Z",
+  "model": "glm-5.3"
+}

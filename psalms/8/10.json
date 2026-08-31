@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Yahveh Adonay ⟨nay⟩, ô! ny anaranao mahaleo tena amin'ny tany rehetra.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonay ⟨nay⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ô!"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "mahaleo tena"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ny anaranao"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny... rehetra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:50.062638025Z",
+  "model": "glm-5.3"
+}

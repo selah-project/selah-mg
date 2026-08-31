@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary nony maraina, fony niakatra ny fanatitra, indro ny rano tonga avy amin'ny lalan'i Edoma, ka feno ⟨את⟩ ny rano ny tany.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nony"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "maraina"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "fony niakatra"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ny fanatitra"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ny rano"
+    },
+    {
+      "surface": "באים",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "avy amin'ny lalan'i"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoma"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ka feno"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rano"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ny rano"
+    }
+  ],
+  "timestamp": "2026-08-31T14:52:04.807683726Z",
+  "model": "glm-5.3"
+}

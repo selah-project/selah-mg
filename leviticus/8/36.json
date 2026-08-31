@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary Aharona sy ny zanany dia nanao ⟨את⟩ izay teny rehetra nandidian'i Yahveh tamin'ny tanan'i Moshe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "dia nanao"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "sy ny zanany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay teny rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "teny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidian'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "tamin'ny tanan'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-31T13:14:22.860933020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Fa iza moa no Eloahafaik'i Yahveh? Ary iza no Vato afa-tsy ny Elohim intsika?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "afaik'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Ary iza"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Vato"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "afa-tsy"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim intsika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:32.039746560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ny fanatitra sitrana avy amin'ny vavako, sitrào azafady ry Yahveh, ary ampianaro ahy ny fitsaranao.",
+  "tokens": [
+    {
+      "surface": "נדבות",
+      "gloss": "fanatitra sitrana"
+    },
+    {
+      "surface": "פי",
+      "gloss": "avy amin'ny vavako"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "sitrào"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "ary ny fitsaranao"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ampianaro ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:52.277234096Z",
+  "model": "glm-5.3"
+}

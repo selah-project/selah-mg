@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 131,
+  "translation": "Eny, efa nampanahy tony sy nangina ho an'ny tenako ny fanahiko, toy ny zaza voaisa amin'ny reniny; toy ny zaza voaisa no fanahiko amiko.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Eny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "efa"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "nampanahy tony"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "nangina"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny fanahiko"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "toy ny zaza voaisa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "reniny"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "toy ny zaza voaisa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "fanahiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:17.917002315Z",
+  "model": "glm-5.3"
+}

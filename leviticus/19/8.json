@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ny mihinanavy azy dia hitondra ny fahotany, satria nanoto ⟨את⟩ ny masoan'i Yahveh izy; ary hofongorana amin'ny olony izay nefesh.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "Ny mihinanavy azy"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ny fahotany"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "hitondra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny masoan'i Yahveh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "maso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "nanoto"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "hofongorana"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "izay nefesh"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izay"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "amin'ny olony"
+    }
+  ],
+  "timestamp": "2026-08-31T13:18:13.383593747Z",
+  "model": "glm-5.3"
+}

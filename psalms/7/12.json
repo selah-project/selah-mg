@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Elohim ⟨no⟩ mpitsara marina, ary El tezitra isan'andro.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "mpitsara"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "marina"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "tezitra"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "isan'"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:30.758671026Z",
+  "model": "glm-5.3"
+}

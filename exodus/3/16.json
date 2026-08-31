@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Mandehana, ary vorio ⟨את⟩ ny anti-panahin'i Yisraela, ka lazao aminy hoe: Yahveh, Elohim ny razanareo, Elohin'i Avraham, an'i Yitschak, sy an'i Yaakob, efa niseho tamiko ka nanao hoe: Namangy no namangy ⟨את⟩ anareo aho, sy ⟨את⟩ izay natao taminareo tao Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Mandehana"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ary vorio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anti-panahin'i Yisraela"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "anti-panahin'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ka lazao"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "ny razanareo"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "efa niseho"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'i"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "sy Yaakob"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "Namangy"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "no namangy"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo",
+      "marks": "ianareo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "izay natao taminareo tao Mitsrayim"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "izay natao"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "taminareo"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "tao Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T12:56:54.794030377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Inona no tombony amin'ny ràko, rehefa midina aho ho any amin'ny lavaka? Hanankalaza anao va ny vovoka? Hitory va ny marinao?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Inona"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "tombony"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "amin'ny ràko"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "rehefa midina aho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "lavaka"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "Hanankalaza anao va"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "vovoka"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "Hitory va"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ny marinao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:33.477836792Z",
+  "model": "glm-5.3"
+}

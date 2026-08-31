@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Iza no Mpanjakan'ny voninahitra? Yahveh, mahery sy mahery fo, Yahveh mahery amin'ny ady.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Iza"
+    },
+    {
+      "surface": "זה",
+      "gloss": "no"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Mpanjaka"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ny voninahitra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "sy mahery fo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "amin'ny ady"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:16.358760539Z",
+  "model": "glm-5.3"
+}

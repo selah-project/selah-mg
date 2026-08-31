@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Fa amin'ny alalan'ao no mandrahona miaramila ⟨amin'ny tafika⟩, ary amin'ny alalan'ny Elohim ako no mandingana manda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "amin'ny alalan'ao"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mandrahona"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "miaramila"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "ary amin'ny alalan'ny Elohim"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "mandingana"
+    },
+    {
+      "surface": "שור",
+      "gloss": "manda"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:32.038555947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ianao no mandalo androany ⟨את⟩ ny fari-dranon'i Moaba, dia ⟨את⟩ Ar",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ianao"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "no mandalo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "androany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fari-dranon'i Moaba"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "fari-dranony"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    }
+  ],
+  "timestamp": "2026-08-31T13:39:34.211271418Z",
+  "model": "glm-5.3"
+}

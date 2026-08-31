@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 43,
+  "translation": "Fa ianao no Elohim, fiarovako; nahoana no nahafoizanao aho? nahoana no mandeha malahelo aho amin'ny fanenjehan'ny fahavalo?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "firovako"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nahoana no"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "nahafoizanao aho"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nahoana no"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "mandeha malahelo"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "amin'ny fanenjehana"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ny fahavalo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:58.840088140Z",
+  "model": "glm-5.3"
+}

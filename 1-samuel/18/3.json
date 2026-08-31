@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary Yehonatan sy David nanao fanekena, tamin'ny fitiavany ⟨את⟩ azy toy ny ainy.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "sy David"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "fanekena"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "tamin'ny fitiavany"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (azy toy ny ainy)"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "toy ny ainy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:02:29.863390583Z",
+  "model": "glm-5.3"
+}

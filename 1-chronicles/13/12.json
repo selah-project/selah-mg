@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary natahotra an'i Elohim ⟨את⟩ Davida tamin'izay andro izany ka nanao hoe: Ahoana no hampidiako aty amiko ⟨את⟩ fiaran'i Elohim?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "natahotra"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'izay andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "היך",
+      "gloss": "Ahoana"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "hampidiako"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aty amiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiaran'i Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T17:38:13.329095864Z",
+  "model": "glm-5.3"
+}

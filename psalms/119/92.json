@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 92,
+  "ref": "psalms 119:92",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Raha tsy ny toratho no fifalianao, dia very tao amin'ny fahorianako izay tamin'izay.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "raha tsy"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ny toratho"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "fifalianao"
+    },
+    {
+      "surface": "אז",
+      "gloss": "izay tamin'izay"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "very aho"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "tao amin'ny fahorianako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:50.984431933Z",
+  "model": "glm-5.3"
+}

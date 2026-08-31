@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 4:13",
+  "book": "zechariah",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary nanao tamiko izy ka nanao hoe: Tsy fantatrao va ireto? Ary hoy izaho: Tsia, Adonay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary nanao"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "va"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Tsy fantatrao"
+    },
+    {
+      "surface": "מה",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ireto"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsia"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:18:46.308057802Z",
+  "model": "glm-5.3"
+}

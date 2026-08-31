@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 55,
+  "translation": "Noho ny feon'ny fahavalo, noho ny fanerena ny ratsy fanahy; fa mampirehitra faharatsiana amiko izy, ary amin'ny fahatezerana mankahala ahy izy.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Noho ny feon'ny"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fahavalo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "noho ny fanerena"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "ny fanerena"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ratsy fanahy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "mampirehitra"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "און",
+      "gloss": "faharatsiana"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "amin'ny fahatezerana"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "mankahala ahy izy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:04.558067953Z",
+  "model": "glm-5.3"
+}

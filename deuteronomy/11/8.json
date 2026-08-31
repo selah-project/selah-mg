@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 11:8",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Koa tandremo ⟨את⟩ ny didy rehetra izay andidiako anareo androany, mba ho mahery ianareo ka hankany hanana ⟨את⟩ ilay tany izay itetezanareo ho any hananana azy",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Koa tandremo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny didy rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ny didy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ango"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "andidiako"
+    },
+    {
+      "surface": "היום",
+      "gloss": "androany"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mba"
+    },
+    {
+      "surface": "תחזקו",
+      "gloss": "ho mahery"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "hankany"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "hanana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilay tany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ianareo"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "itetezanareo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ho any"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "hananana azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:43:18.301745479Z",
+  "model": "glm-5.3"
+}

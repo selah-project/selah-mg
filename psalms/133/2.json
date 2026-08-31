@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 133,
+  "translation": "Toy ny diloilo tsara ambonin'ny loha, midina eo amin'ny volcano, dia volcano an'i Aharon, izay midina ambonin'ny vavan'ny fitafiany.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "toy ny diloilo"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "loha"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "midina"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "volcano"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "volcano"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "an'i Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "izay midina"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "פי",
+      "gloss": "vavan'ny"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "fitafiany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:26:12.566046334Z",
+  "model": "glm-5.3"
+}

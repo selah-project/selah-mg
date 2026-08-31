@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 115,
+  "translation": "Nony inona no holazain'ny firenena taminga: Aiza moa no Elohiny?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Nony inona"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "holazain'ny"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "firenena taminga"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aiza"
+    },
+    {
+      "surface": "נא",
+      "gloss": "moa"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohiny"
+    }
+  ],
+  "timestamp": "2026-08-31T18:15:05.217713631Z",
+  "model": "glm-5.3"
+}

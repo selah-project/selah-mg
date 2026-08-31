@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary nanome ny zanak'i Yisraela ho an'ny Levita avy amin'ny lovany araka ny tenin'i Yahveh ⟨את⟩ ireo tanàna ireo sy ⟨את⟩ ny tany manodidina azy",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "nanome"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ho an'ny Levita"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "avy amin'ny lovany"
+    },
+    {
+      "surface": "אל",
+      "gloss": "araka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ny tenin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ireo tanàna ireo"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ireo tanàna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany manodidina azy"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "ny tany manodidina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:02:57.410266414Z",
+  "model": "glm-5.3"
+}

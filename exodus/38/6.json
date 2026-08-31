@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Ary nanambara ⟨את⟩ ny tsorakazo hazo akasia izy, ka nasi-dahatra tamin'ny varahina izy ireo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nanambara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tsorakazo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ny tsorakazo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "nasi-dahatra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izy ireo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "varahina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:09:02.987573194Z",
+  "model": "glm-5.3"
+}

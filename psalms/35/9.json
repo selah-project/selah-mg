@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Ary ny fanahiko ho faly amin'i Yahveh, hihomehy amin'ny famonjeny.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Ary ny fanahiko"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "ho faly"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "amin'i Yahveh"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "hihomehy"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "amin'ny famonjeny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:43.877091479Z",
+  "model": "glm-5.3"
+}

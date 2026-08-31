@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Hoy izy ao am-pony: Efa nolalinin'i El ⟨⟨ny zava-drehetra⟩⟩; nafeniny ny tavana; tsy hitany mihitsy ⟨izany⟩ mandrakizay.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Hoy izy"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ao am-pony"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "Efa nolalinina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "nafeniny"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ny tavana"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tsy ... mihitsy"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "hitany"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "mandrakizay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:03.666012155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 33:19",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "⟨את⟩ vahoaka masiaka tsy ho hitanao intsony, vahoka lalina ny fiteniny tsy azo henoina, miteny mitaka tsy azo takarina — tsy misy fahalalana.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vahoaka masiaka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "נועז",
+      "gloss": "masiaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ho hitanao"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "lalina"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ny fiteniny"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "azo henoina"
+    },
+    {
+      "surface": "נלעג",
+      "gloss": "miteny mitaka"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "miteny"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "fahalalana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:11:27.811355949Z",
+  "model": "glm-5.3"
+}

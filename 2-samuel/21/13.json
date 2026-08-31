@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 21:13",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary nampakatra avy tao ny taolan'i Shaol sy ny taolan'i Yehonatan zanany; ary nanangona ireo ⟨את⟩ ny taolan'ireo nohomboana.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "nampakatra avy tao"
+    },
+    {
+      "surface": "משם",
+      "gloss": "avy tao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny taola"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "taolan'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny taola"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "taolan'i"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "ary nanangona ireo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny taola"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "taolan'ireo"
+    },
+    {
+      "surface": "המוקעים",
+      "gloss": "nohomboana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:36:47.290023467Z",
+  "model": "glm-5.3"
+}

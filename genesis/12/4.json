@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary Avrahama nandeha araka ny nolazain'i Yahveh taminy; ary Lota koa nandeha ⟨את⟩ taminy; ary Avrahama dia dimy amby fito-polo taona tamin'ny fivoahany avy tany Harana.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ary nandeha"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nolazaina"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ary nandeha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ taminy",
+      "marks": "Avrahama (izay niaraka taminy Lota)"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lota"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "Ary Avrahama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "dimy"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "amby fito-polo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "tamin'ny fivoahany"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "avy tany Harana"
+    }
+  ],
+  "timestamp": "2026-08-31T12:38:03.249792819Z",
+  "model": "glm-5.3"
+}

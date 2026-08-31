@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 124,
+  "translation": "Ny fanahinay, toy ny vorona, efa voafoy tamin'ny fandriky ny mpandala; voatoraka ny fandrika, ary izahay efa voafoy.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Ny fanahinay"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "toy ny vorona"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "efa voafoy"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "tamin'ny fandriky"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "ny mpandala"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "ny fandrika"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "voatoraka"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ary izahay"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "efa voafoy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:30.770271019Z",
+  "model": "glm-5.3"
+}

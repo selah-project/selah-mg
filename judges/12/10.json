@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary maty Ibtzan ka nodevenina tao Bet-lehema.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Ary maty"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibtzan"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ka nodevenina"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "tao"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bet-lehema"
+    }
+  ],
+  "timestamp": "2026-08-31T14:09:35.220507975Z",
+  "model": "glm-5.3"
+}

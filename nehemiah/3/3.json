@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary ⟨את⟩ vavahadin'ny trondro no nataon'ny zanak'i Hasenaah; izy no nanitsy ny andry azy, ary nametraka ny varavarany, ny fanatonany ary ny tsorakazony.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "vavahadin'ny trondro"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vavahady"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "trondro"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nanamboatra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Hasenaah"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "nanitsy ny andry azy"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "nametraka"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "varavarany"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "fanatonany"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "tsorakazony"
+    }
+  ],
+  "timestamp": "2026-08-31T17:31:03.948458062Z",
+  "model": "glm-5.3"
+}

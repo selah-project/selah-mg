@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 90,
+  "translation": "Fa arivo taona amin'ny masonao dia toy ny omaly, raha lasa mandalo, sy toy ny fiambenana iray alina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "arivo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taona"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "amin'ny masonao"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "toy ny andro"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "omaly"
+    },
+    {
+      "surface": "כי",
+      "gloss": "raha"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "lasa mandalo"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "sy toy ny fiambenana"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "iray alina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:26.257828615Z",
+  "model": "glm-5.3"
+}

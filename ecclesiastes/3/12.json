@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Fantatro fa tsy misy soa ao amin'ireo fa ny hifaly sy hanao soa amin'ny androm-piainany.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "fantatro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "soa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ao amin'ireo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ny (tsy misy afa-tsy)"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "hifaly"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "sy hanao"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "soa"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "amin'ny androm-piainany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:14:44.260460205Z",
+  "model": "glm-5.3"
+}

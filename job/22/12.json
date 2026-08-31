@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 22:12",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Tsy va Eloah no miavatra amin'ny haavon'ny lanitra? Ary jereo ny tampon'ny kintana — fa avo be izy.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "tsy va"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "haavo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ary jereo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ny tampon'ny"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "kintana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "avo be izy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:03:49.184463047Z",
+  "model": "glm-5.3"
+}

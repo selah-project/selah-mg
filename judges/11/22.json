@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary laharana nanana ho lova izy ⟨את⟩ ny faritra rehetran'ny Emorita, hatramin'ny Arnona ka hatramin'ny Jaboka, ary hatramin'ny efitra ka hatramin'ny Yordana.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "Ary nanana ho lova izy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny faritra rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "faritra"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorita"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "hatramin'ny Arnona"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Jaboka"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ary hatramin'ny"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "efitra"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:01:04.268090528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 50:26",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 50,
+  "translation": "Ary maty i Yossef, zanaka lahy telo-polo amby zato taona, ka nataony tamin'ny zava-manitra izy ⟨את⟩, dia napetraka tao anaty trano fanatanterahana tany Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Ary maty"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "i Yossef"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka lahy"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "zato"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "telo-polo amby"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "ka nataony tamin'ny zava-manitra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (i Yossef)"
+    },
+    {
+      "surface": "ויישם",
+      "gloss": "dia napetraka"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "tao anaty trano fanatanterahana"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "tany Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T17:55:25.918319526Z",
+  "model": "glm-5.3"
+}

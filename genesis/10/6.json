@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary ny zanak'i Cham dia Kush sy Mitsrayim sy Puta sy Kenaana.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ary ny zanak'i"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "sy Mitsrayim"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "sy Puta"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "sy Kenaana"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:32.754286777Z",
+  "model": "glm-5.3"
+}

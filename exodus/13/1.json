@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary Yahveh niteny tamin'i Moshe ka nanao hoe:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "niteny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T12:59:27.683064992Z",
+  "model": "glm-5.3"
+}

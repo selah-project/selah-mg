@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary namely ⟨את⟩ i Moaba, ka ny Moabita dia tonga mpanompon'i Davida, mpitondra fanatitra.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "namely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Moaba"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ny Moabita"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "mpanompo"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "an'i Davida"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "mpitondra"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "fanatitra"
+    }
+  ],
+  "timestamp": "2026-08-31T17:38:50.703708932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary ny mpisorona hanatitra azy eo anatrehan'i Yahveh, ka hanao ⟨את⟩ fanatitra noho ny otany sy ⟨את⟩ fanatitra dorany.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Ary ... hanatitra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anatrehan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ka hanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fanatitra noho ny otany"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "fanatitra noho ny otany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fanatitra dorany"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "fanatitra dorany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:26:12.013832469Z",
+  "model": "glm-5.3"
+}

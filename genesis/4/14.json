@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 4:14",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Indro, efa noroahinao ⟨aho⟩ androany miala amin'ny tavin'ny tany, ary ho voafina miala amin'ny tavanao; dia ho mpandehandeha sy mitsingevana eto amin'ny tany aho; ary izay rehetra mahita ahi... ahy no hamono ahy.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "indro"
+    },
+    {
+      "surface": "גרשת",
+      "gloss": "noroahinao"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "aho"
+    },
+    {
+      "surface": "היום",
+      "gloss": "androany"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "miala amin'ny"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tavin'ny"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tany"
+    },
+    {
+      "surface": "ומפניך",
+      "gloss": "ary miala amin'ny tavanao"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ho voafina"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "dia ho"
+    },
+    {
+      "surface": "נע",
+      "gloss": "mpandehandeha"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "sy mitsingevana"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "eto amin'ny tany"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ary"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "mahita ahy"
+    },
+    {
+      "surface": "יהרגני",
+      "gloss": "hamono ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:28.015946688Z",
+  "model": "glm-5.3"
+}

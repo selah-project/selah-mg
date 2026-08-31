@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Mahagaga ⟨ny⟩ porofo narosonao ⟨izany⟩; noho izany no tehiriziko azy ny fanahiko.",
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "mahagaga"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "porofo narosonao"
+    },
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "tehiriziko azy"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny fanahiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:19.286688523Z",
+  "model": "glm-5.3"
+}

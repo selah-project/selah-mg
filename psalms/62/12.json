@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 62,
+  "translation": "Indray mandeha efa niteny Elohim, indroa no reniko izany: fa an'i Elohim ny hera.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Indray mandeha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "niteny"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "indroa"
+    },
+    {
+      "surface": "זו",
+      "gloss": "izany"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "no reniko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hera"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "an'i Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:42.159447060Z",
+  "model": "glm-5.3"
+}

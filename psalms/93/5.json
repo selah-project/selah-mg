@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 93,
+  "translation": "Ny fanatanterahanao efa ninoana fatratra; ho an'ny tranonao no mety ny fahamasinana, Yahveh, hatramin'ny faharetan'ny andro.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "ny fanatanterahanao"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "efa ninoana"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "fatratra"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "ho an'ny tranonao"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "no mety"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ny fahamasinana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "hatramin'ny faharetan'ny"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    }
+  ],
+  "timestamp": "2026-08-31T18:47:35.781058056Z",
+  "model": "glm-5.3"
+}

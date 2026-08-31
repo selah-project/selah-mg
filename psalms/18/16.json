@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 18:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Dia hita ny loharanon-drano, ary nivezivezy ny fandamenan'ny tany, tamin'ny fanananao Yahveh, tamin'ny tsifofofan'ny rivotan'ny tavoroanao.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "hita"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "ny loharanon-drano"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ויגלו",
+      "gloss": "nivezivezy"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "ny fandamenan'ny"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tany"
+    },
+    {
+      "surface": "מגערתך",
+      "gloss": "tamin'ny fanananao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מנשמת",
+      "gloss": "tamin'ny tsifofofan'ny"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rivotan'ny"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "tavoroanao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:13:25.150275349Z",
+  "model": "glm-5.3"
+}

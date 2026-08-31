@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary Hetserona niteraka ⟨את⟩ an'i Rama, ary Rama niteraka ⟨את⟩ an'i Aminadaba.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "Ary Hetserona"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Rama"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ary Rama"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Aminadaba"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadaba"
+    }
+  ],
+  "timestamp": "2026-08-31T17:11:39.332110186Z",
+  "model": "glm-5.3"
+}

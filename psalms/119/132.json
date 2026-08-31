@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Todraho ahy ary mamindrà fo amiko, araka ny fanaonao amin'izay tia ny anaranao.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "todraho"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ary mamindrà fo amiko"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "araka ny fanaonao"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "amin'izay tia"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ny anaranao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:19.287409205Z",
+  "model": "glm-5.3"
+}

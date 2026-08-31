@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "⟨את⟩ ny tavy noihinareo, ⟨את⟩ ny volon'ondry no ipetrahareo, ny matavy no namonoanareo, fa ny ondry tsy nojorianareo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavy"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ny tavy"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "noihinareo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny volon'ondry"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "ny volon'ondry"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "no ipetrahareo"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "ny matavy"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "no namonoanareo"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ny ondry"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "nojorianareo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:00:25.246902316Z",
+  "model": "glm-5.3"
+}

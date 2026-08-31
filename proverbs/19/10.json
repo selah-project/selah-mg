@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Tsy mety amin'ny adala ny fiainana mamirapiratra, ary mainka fa amin'ny mpanompo ny mpanjaka amin'ny mpanapaka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "mety"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "amin'ny adala"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "fiainana mamirapiratra"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ary mainka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "amin'ny mpanompo"
+    },
+    {
+      "surface": "משל",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "amin'ny mpanapaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:54:36.742617733Z",
+  "model": "glm-5.3"
+}

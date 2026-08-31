@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Fa izaho dia ho faty amin'ity tany ity; tsy hitsidika hoany aho ⟨את⟩ ny Yarden, fa ianareo no hitsidika ka handova ⟨את⟩ ilay tany tsara ity.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ho faty"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "amin'ity tany"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ity"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "hitsidika hoany aho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ny Yarden"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "fa ianareo"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "no hitsidika"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ka handova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilay tany"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ity"
+    }
+  ],
+  "timestamp": "2026-08-31T13:41:53.211433261Z",
+  "model": "glm-5.3"
+}

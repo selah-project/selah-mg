@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary aza miditra ao amin'ny trano fisotroana hankanesana hipetraka hisakafo ⟨את⟩ sy hisotro iry.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "Ary trano"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "fisotroana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "miditra"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "hipetraka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "hataka (hisakafo sy hisotro iry)"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "hisakafo"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "sy hisotro"
+    }
+  ],
+  "timestamp": "2026-08-31T15:29:26.042610831Z",
+  "model": "glm-5.3"
+}

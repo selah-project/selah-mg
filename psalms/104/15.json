@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 104,
+  "translation": "Ary divay mampifaly fo an'ny olona, sy diloilo mamirapiratra ny tavony, ary mofo mitoeran'ny fo an'ny olona.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "Ary divay"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "mampifaly"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "an'ny olona"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "mamirapiratra"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ny tavony"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "amin'ny diloilo"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "ary mofo"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "an'ny olona"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "mitoeran'ny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:39.379589143Z",
+  "model": "glm-5.3"
+}

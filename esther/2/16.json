@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 2:16",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary nalaina ho any amin'i Ahashverosh mpanjaka, ho any amin'ny tranony mpanjaka, i Estera, tamin'ny volana fahafolo, dia ny volana Tebeta, tamin'ny taona fahafito nanjakan'ny mpanjaka.",
+  "tokens": [
+    {
+      "surface": "ותלקח",
+      "gloss": "nalaina"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "i Estera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahashverosh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranony"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "tamin'ny volana"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "fahafolo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia ny"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "volana"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "Tebeta"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "tamin'ny taona"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "fahafito"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "nanjakan'ny mpanjaka"
+    }
+  ],
+  "timestamp": "2026-08-31T17:18:53.515943122Z",
+  "model": "glm-5.3"
+}

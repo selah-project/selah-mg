@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 85,
+  "translation": "Fa ⟨eny tokoa⟩ akaikin'ireo matahorahana azy ny famonjeny, mba honenan'ny voninahitra amin'ny tanyntsika.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "⟨eny tokoa⟩"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "akaiki"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ireo matahorahana azy"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "ny famonjeny"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "mba honenan'ny"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "voninahitra"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "amin'ny tanyntsika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:59.879956795Z",
+  "model": "glm-5.3"
+}

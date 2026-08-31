@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary raha misy lehilahy mandry ⟨amin'ny⟩ dadatoavaviny, ny fahamenaran'ny dadany no nampahamenarany; ny fahotany izy no hitondrany; ho faty tsy manan-taranaka izy.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ary raha misy lehilahy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "mandry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dadatoavaviny"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "dadatoavaviny"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ny fahamenaran'"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "ny dadany"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "no nampahamenarany"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "ny fahotany"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "no hitondrany"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "tsy manan-taranaka"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "ho faty"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:29.598377887Z",
+  "model": "glm-5.3"
+}

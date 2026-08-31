@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Fa ny hesediko tsy hesoriko aminy, ary tsy hitopy maso amin'ny fahatokisako.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "Fa ny hesediko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "hesoriko"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "hitopy maso"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "amin'ny fahatokisako"
+    }
+  ],
+  "timestamp": "2026-08-31T18:13:46.946209190Z",
+  "model": "glm-5.3"
+}

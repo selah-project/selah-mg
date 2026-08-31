@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 143,
+  "translation": "Mahatsiarovako ny andro taloha; mihibokihoaka aho amin'ny asanao rehetra; amin'ny asan'ny tananao no ihomehezako.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "mahatsiarovako"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "taloha"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "mihibokihoaka aho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny... rehetra"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "asanao"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "amin'ny asa"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ny tananao"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "ihomehezako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:17.056345405Z",
+  "model": "glm-5.3"
+}

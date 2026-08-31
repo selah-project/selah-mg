@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 17:14",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "mba ho fanjakana ambany izy, tsy hiakatra hanandratra, fa hitandrina ⟨את⟩ ny fanekenany mba hitoerany.",
+  "tokens": [
+    {
+      "surface": "להיות",
+      "gloss": "mba ho"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "fanjakana"
+    },
+    {
+      "surface": "שפלה",
+      "gloss": "ambany"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "התנשא",
+      "gloss": "hiakatra hanandratra"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "hitandrina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanekenany"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ny fanekenany"
+    },
+    {
+      "surface": "לעמדה",
+      "gloss": "mba hitoerany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:53:17.920506979Z",
+  "model": "glm-5.3"
+}

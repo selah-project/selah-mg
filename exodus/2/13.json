@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 2:13",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary nivoaka tamin'ny andro faharoa izy, ary indro, lehilahy roa Hebreo niady, ka hoy izy tamin'ilay ratsy fanahy: Nahoana no eranao ny namanao?",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "nivoaka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "השני",
+      "gloss": "faharoa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ary indro"
+    },
+    {
+      "surface": "שני",
+      "gloss": "roa"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "Hebreo"
+    },
+    {
+      "surface": "נצים",
+      "gloss": "niady"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka hoy izy"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "tamin'ilay ratsy fanahy"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nahoana no"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "eranao"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ny namanao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:54:31.622429159Z",
+  "model": "glm-5.3"
+}

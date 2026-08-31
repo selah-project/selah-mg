@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "mpanjakan'i Shimron-Merona, iray; mpanjakan'i Akeshafa, iray;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'i"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shimron-"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "Merona"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'i"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "Akeshafa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    }
+  ],
+  "timestamp": "2026-08-31T13:59:17.119212757Z",
+  "model": "glm-5.3"
+}

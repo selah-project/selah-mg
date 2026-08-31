@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary ireo voatendry ireo no nitondra ny sakafo ho an'ny mpanjaka Shelomo ⟨את⟩ sy ho an'ny rehetra ⟨את⟩ manakaiky ny latabatron'ny mpanjaka Shelomo, samy olona amin'ny volany avy; tsy nisy very na inona na inona.",
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "Ary nitondra ny sakafo"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "ireo voatendry"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanjaka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny rehetra"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "manakaiky"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ao amin'ny"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "latabatra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "samy olona"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "amin'ny volany avy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "nisy very"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "na inona na inona"
+    }
+  ],
+  "timestamp": "2026-08-31T14:41:02.387106964Z",
+  "model": "glm-5.3"
+}

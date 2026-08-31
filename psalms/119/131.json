@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 131,
+  "ref": "psalms 119:131",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Vohay ny vavako ka mikarantsana aho, fa manina ny didinao aho.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ny vavako"
+    },
+    {
+      "surface": "פערתי",
+      "gloss": "vohay"
+    },
+    {
+      "surface": "ואשאפה",
+      "gloss": "ka mikarantsana aho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "למצותיך",
+      "gloss": "ny didinao"
+    },
+    {
+      "surface": "יאבתי",
+      "gloss": "manina aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:19.287237521Z",
+  "model": "glm-5.3"
+}

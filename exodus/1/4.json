@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": " Dana, ary Naftaly, Gada, ary Asera.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Dana"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "ary Naftaly"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gada"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ary Asera"
+    }
+  ],
+  "timestamp": "2026-08-31T12:53:43.585282560Z",
+  "model": "glm-5.3"
+}

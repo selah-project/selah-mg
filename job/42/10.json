@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Ary Yahveh nampiverina ⟨את⟩ ny fahababoan'i Ijoba, fony izy nivavaka ho an'ny namany; ary Yahveh nanampy ⟨את⟩ izay rehetra an'i Ijoba ho fanampin'ny roa heny.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ary Yahveh"
+    },
+    {
+      "surface": "שב",
+      "gloss": "nampiverina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahababoan'i Ijoba"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "ny fahababoana"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "an'i Ijoba"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "fony izy nivavaka"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ho an'ny"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "namany"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "Ary... nanampy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay rehetra an'i Ijoba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "an'i Ijoba"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "ho fanampin'ny roa heny"
+    }
+  ],
+  "timestamp": "2026-08-31T17:10:07.982466749Z",
+  "model": "glm-5.3"
+}

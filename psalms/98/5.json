@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 98,
+  "translation": "Mihira amin'ny kinora ho an'i Yahveh, amin'ny kinora sy feon-kira.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Mihira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "amin'ny kinora"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "amin'ny kinora"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "sy feo"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "hira"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:26.382795516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary ho amin'ny ila faharoa amin'ny trano-lay, amin'ny tendrony avaratra: tapa-kazo roa amby folo.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "Ary ho amin'ny ila"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "amin'ny trano-lay"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "faharoa"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "amin'ny tendrony"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "avaratra"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "roa amby folo"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "tapa-kazo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:05:05.797772466Z",
+  "model": "glm-5.3"
+}

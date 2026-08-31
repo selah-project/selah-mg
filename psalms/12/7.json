@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Tenin'i Yahveh — teny madio; volafotsy voazaha tamin'ny fatapetra tety an-tany, voasara impito.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "Teny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "teny"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "madio"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "voazaha"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "tamin'ny fatapetra"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "an-tany"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "voasara"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "impito"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:38.463606775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ka ny andro rehetra niainan'i Adam, izay nentiny tamin'ny fiainana, dia antsiviny amby sivin-jato taona; ary maty izy.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ka [norefy] ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "reo hot rehetra"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "andro"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "חי",
+      "gloss": "niainany"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "sivy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "zato"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "sy antsiviny"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ary maty izy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:04.235185252Z",
+  "model": "glm-5.3"
+}

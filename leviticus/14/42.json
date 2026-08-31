@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary haka vato hafa izy ireo ka hitondra azy hisolo ireo vato ireo, ary vovo-bary hafa no hentiny hanafana ⟨את⟩ ilay trano.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "haka"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "vato"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "hafa"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "hitondra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hiseran'ny"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hisolo"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ireo vato ireo"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "vovo-bary"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "hafa"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "hentiny"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "hanafana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay trano"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ilay trano"
+    }
+  ],
+  "timestamp": "2026-08-31T13:16:43.822596087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Fa ny ràrany ⟨את⟩ kosa no aza hohaninao; amin'ny tany no aidinao, toy ny rano.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Fa... kosa no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ràrany"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ràrany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "hohaninao"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "aidinao"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "toy ny rano"
+    }
+  ],
+  "timestamp": "2026-08-31T13:45:02.207798917Z",
+  "model": "glm-5.3"
+}

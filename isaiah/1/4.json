@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Indry ry firenena mpanota, vahoaka mavesa-pahotana, taranak'olona lozabe, zanaka mpandringana! Nahafoy an'i Yahveh ⟨את⟩ izy, nanevateka ny Iray Masina amin'Isiraely ⟨את⟩, niverina nihemotra.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Indry ry"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "mpanota"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "mavesa-"
+    },
+    {
+      "surface": "עון",
+      "gloss": "fahotana"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "taranaka"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "olona lozabe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "mpandringana"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "Nahafoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "nanevateka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iray Masina amin'Isiraely"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Iray Masina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "amin'Isiraely"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "niverina nihemotra"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "nihemotra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:02:31.837785151Z",
+  "model": "glm-5.3"
+}

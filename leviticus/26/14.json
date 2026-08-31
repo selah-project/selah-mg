@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Fa raha tsy mihaino Ahy ianareo, ka tsy manao ⟨את⟩ izay didy rehetra ireto",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Fa raha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mihaino"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Ahy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "manao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay didy rehetra ireto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "didy"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireto"
+    }
+  ],
+  "timestamp": "2026-08-31T13:21:28.297243649Z",
+  "model": "glm-5.3"
+}

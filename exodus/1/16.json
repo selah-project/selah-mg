@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ka nanao hoe: Rehefa manampy miteraka ny vehivavy hebreo ianareo, ary mijery azy eo ambonin'ny biriky fiterahana — raha zaza lahy izy, dia mamono azy ianareo; fa raha vavy, dia avelao ho velona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "manampy miteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vehivavy hebreo"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "vehivavy hebreo"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "mijery azy"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambonin'ny"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "biriky fiterahana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zaza lahy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "mamono azy ianareo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (zaza lahy)"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "fa raha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "vavy"
+    },
+    {
+      "surface": "היא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "avelao ho velona"
+    }
+  ],
+  "timestamp": "2026-08-31T12:53:52.365849330Z",
+  "model": "glm-5.3"
+}

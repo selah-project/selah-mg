@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary ny mpanjakavavin'i Sheba nandre ⟨את⟩ ny lazan'i Shelomoh noho ny anaran'i Yahveh, ka tonga izy hanandrana azy amin'olana.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "Ary ny mpanjakavavy"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "nandre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny laz"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "laz"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "noho ny anarana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ka tonga"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "hanandrana azy"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "amin'olana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:43:34.738554504Z",
+  "model": "glm-5.3"
+}

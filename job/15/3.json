@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 15:3",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Moa ve mamaly amin'ny teny tsy mahasoa, sy amin'ny tenim-panerena izay tsy mahomby akory?",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "mamaly amin'ny tenim-panerena"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "amin'ny teny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יסכון",
+      "gloss": "mahasoa"
+    },
+    {
+      "surface": "ומלים",
+      "gloss": "sy amin'ny teny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "mahomby"
+    },
+    {
+      "surface": "בם",
+      "gloss": "akory"
+    }
+  ],
+  "timestamp": "2026-08-31T17:02:51.477853671Z",
+  "model": "glm-5.3"
+}

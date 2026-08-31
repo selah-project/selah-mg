@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 7:10",
+  "book": "song-of-songs",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary ny vilany ⟨⟨sisin'ny vavanao⟩⟩ tahaka ny divay tsara, mandeha ho an'ny Dodiko mahitsy, mampiresaka molotry ny matory.",
+  "tokens": [
+    {
+      "surface": "וחכך",
+      "gloss": "ary ny vilany"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "tahaka ny divay"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "ho an'ny Dodiko"
+    },
+    {
+      "surface": "למישרים",
+      "gloss": "mahitsy"
+    },
+    {
+      "surface": "דובב",
+      "gloss": "mampiresaka"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "molotry"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "ny matory"
+    }
+  ],
+  "timestamp": "2026-08-31T18:37:20.785824083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Izay efa taloha dia efa izy, ary izay ho tonga dia efa taloha; ary Elohim mitady ⟨את⟩ izay voaraharahana.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Izay"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "taloha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia izy"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ary izay"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ho tonga"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "taloha"
+    },
+    {
+      "surface": "היה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "ary Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "mitady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay voaraharahana"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "voaraharahana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:14:59.896188932Z",
+  "model": "glm-5.3"
+}

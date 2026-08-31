@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Lo amin'izay mmandriva lalàna ratsy, sy izay manoratra fahasarinana;",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Lo"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "izay mmandriva lalàna"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "lalàna"
+    },
+    {
+      "surface": "און",
+      "gloss": "ratsy (aoa)"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "sy izay manoratra"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "fahasarinana"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "nosoratany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:05:14.084436268Z",
+  "model": "glm-5.3"
+}

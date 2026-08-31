@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 40:7",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary nanontany tamin'ireo ⟨את⟩ eunokan'i Parao izay ⟨את⟩ taminy tao an-tranon'ny tompony, ka nanao hoe: Nahoana no ratsy tarehy tarehinaro androany?",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "nanontany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eunokan'i Parao"
+    },
+    {
+      "surface": "סריסי",
+      "gloss": "eunoka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ taminy"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "tao an-trano fiambenana"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ny tompony"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Nahoana"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "tarehinaro"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ratsy tarehy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "androany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:49:05.789185130Z",
+  "model": "glm-5.3"
+}

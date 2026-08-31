@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 20:18",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary Yehonatan nanao taminy hoe: Rahampitso ny tsinam-bolana, ka ho voatsinjo ianao, fa ho voatsinjo ny fitoeranao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao... hoe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "rahampitso"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "tsinam-bolana"
+    },
+    {
+      "surface": "ונפקדת",
+      "gloss": "ka ho voatsinjo ianao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "ho voatsinjo"
+    },
+    {
+      "surface": "מושבך",
+      "gloss": "ny fitoeranao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:22:58.114636712Z",
+  "model": "glm-5.3"
+}

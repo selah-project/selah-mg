@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 150,
+  "translation": "Miderà azy amin'ny tsilatsaly mamirapira-pihenoana, miderà azy amin'ny tsilatsaly fihobiana.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "miderà azy"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "amin'ny tsilatsaly"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mamirapira-pihenoana"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "miderà azy"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "amin'ny tsilatsaly"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "fihobiana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:24.286809025Z",
+  "model": "glm-5.3"
+}

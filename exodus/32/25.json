@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ary hitan'i Moshe ⟨את⟩ ny vahoaka fa efa nifoka izy, fa Aharona no nampifoka azy ho fahamenarana eo anatrehan'ny mpanohitra azy.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hitan'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "efa nifoka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "nampifoka"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "ho fahamenarana"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "eo anatrehan'ny mpanohitra azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:07:34.584760227Z",
+  "model": "glm-5.3"
+}

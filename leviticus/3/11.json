@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary handoro azy eo ambony ny alitara ny mpisorona, hanina doro-panatitra ho an'i Yahveh",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "handoro azy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "eo ambony ny alitara"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "hanina"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "doro-panatitra"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:17.107262576Z",
+  "model": "glm-5.3"
+}

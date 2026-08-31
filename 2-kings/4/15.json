@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary hoy izy: Antsoy izy. Ary niantso azy izy, ary nitsangana teo am-baravarahany izy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Antsoy"
+    },
+    {
+      "surface": "לה",
+      "gloss": "izy"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "Ary niantso"
+    },
+    {
+      "surface": "לה",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "ary nitsangana"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "teo am-baravarahany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:52:56.977821835Z",
+  "model": "glm-5.3"
+}

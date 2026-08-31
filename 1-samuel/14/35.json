@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Dia nanorina alitara ho an'i Yahveh Shaol; tamin'izany ⟨את⟩ no nataony voalohany nanoriana alitara ho an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Dia nanorina"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "izany (alitara)"
+    },
+    {
+      "surface": "החל",
+      "gloss": "no nataony voalohany"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "nanoriana"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T14:19:46.728618544Z",
+  "model": "glm-5.3"
+}

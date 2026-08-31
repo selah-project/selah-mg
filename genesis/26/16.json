@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary hoy Abimeleka tamin'i Yitsaka: Mialà amiko, fa efa mahery loatra ianao noho izahay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimeleka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Mialà"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "mahery loatra"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "noho izahay"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "indrindra"
+    }
+  ],
+  "timestamp": "2026-08-31T12:41:40.349370069Z",
+  "model": "glm-5.3"
+}

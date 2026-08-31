@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 33:5",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "⟨את⟩ ny feon'ny shofar no reny nefa tsy nizaha; ny rany ho azy ⟨⟨izy⟩⟩; fa izay mizaha dia afaka ny fanahiny.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feon'ny shofar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "feo"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "reny"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nefa tsy"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "nizaha"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ny rany"
+    },
+    {
+      "surface": "בו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "fa izay"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "mizaha"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "fanahiny"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "afaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:00:09.805530369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 37:10",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Amin'ny fofonain'i El dia omena ⟨ny⟩ fanala, ary ny haben'ny rano dia henjana.",
+  "tokens": [
+    {
+      "surface": "מנשמת",
+      "gloss": "amin'ny fofonain'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "omena"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "fanala"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ary ny haben'ny"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "במוצק",
+      "gloss": "henjana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:07:36.641094304Z",
+  "model": "glm-5.3"
+}

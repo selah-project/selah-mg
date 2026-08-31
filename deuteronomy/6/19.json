@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Hanosehana ny fahavalo rehetra hiala ⟨את⟩ eo anatrehanao, araka izay efa nolazain'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "Hanosehana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahavalo rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ny fahavalo"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "eo anatrehanao"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka izay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "efa nolazain'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T17:59:46.922454429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary Elohim niresaka ⟨את⟩ ny teny rehetra ireto, hoe:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ary niresaka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny teny rehetra ireto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "teny"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireto"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T13:01:46.460897720Z",
+  "model": "glm-5.3"
+}

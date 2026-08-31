@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary tamin'ny taona telo amby roa-polo teo amin'ny mpanjaka Yehoash, tsy nochizina ny mpisorona ⟨את⟩ ny fahavaky ny trano.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary tamin'ny"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "taona"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "telo amby roa-polo"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "(telo)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "teo amin'ny mpanjaka"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "nochezina"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fahavaky"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "fahavaky"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ny trano"
+    }
+  ],
+  "timestamp": "2026-08-31T14:56:16.469349057Z",
+  "model": "glm-5.3"
+}

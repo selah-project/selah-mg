@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 36:2",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Esav naka ⟨את⟩ ny vadiny tamin'ny zanakavavin'i Kenaana: ⟨את⟩ Adah zanakavavin'i Elon Hitita, ary ⟨את⟩ Aholibama zanakavavin'i Anah, zanakavavin'i Tsibon Hivita.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "naka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vadiny"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ny vadiny"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "tamin'ny zanakavaviny"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adah"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanakavavin'i"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Elon"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hitita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Aholibama"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Aholibama"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanakavavin'i"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanakavavin'i"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tsibon"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivita"
+    }
+  ],
+  "timestamp": "2026-08-31T12:47:48.140810345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-samuel 17:53",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary niverina ny zanak'i Isiraely avy amin'ny nanenjehany ny Filistina, ka nababony ⟨את⟩ ny toby niantranony.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Ary niverina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "מדלק",
+      "gloss": "avy amin'ny nanenjehany"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "⟨manenjeha⟩ ny"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistina"
+    },
+    {
+      "surface": "וישסו",
+      "gloss": "ka nababony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny toby niantranony"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "toby niantranony"
+    }
+  ],
+  "timestamp": "2026-08-31T14:21:48.944125374Z",
+  "model": "glm-5.3"
+}

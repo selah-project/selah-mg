@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 79,
+  "translation": "Fihirana nataon'i Asaf. Ryo Elohim, efa tonga tao amin'ny lovanao ny jentiloka, nanolotra fahalotoana ⟨את⟩ ny tempolinao masina, ka nataony teo amin'ilay nariana ⟨את⟩ i Yeroshalayim.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Fihirana"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "nataon'i Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ny jentiloka"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "tao amin'ny lovanao"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "nanolotra fahalotoana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tempolinao masina"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tempoly"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "masina"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeroshalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "teo amin'ilay nariana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:36.046622478Z",
+  "model": "glm-5.3"
+}

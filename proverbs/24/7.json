@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Avo loatra ho an'ny adala ny fahendrena; eo am-bavahady tsy hanokatra ny vavany.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "Avo loatra"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "ho an'ny adala"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "ny fahendrena"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "eo am-bavahady"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "hanokatra"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ny vavany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:56:02.730872494Z",
+  "model": "glm-5.3"
+}

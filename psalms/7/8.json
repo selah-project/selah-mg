@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "ary ny fiangonan'ny firenena hanodidina ⟨את⟩ anao, ka amboniny dia miverena any amin'ny haavo.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "ary ny fiangonan'ny"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "hanodidina anao"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "ka amboniny"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "any amin'ny haavo"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "miverena"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:19.640005907Z",
+  "model": "glm-5.3"
+}

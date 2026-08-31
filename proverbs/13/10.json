@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Amin'ny fiavonavonana ihany no misy fifandonana, fa amin'izay mandray hevitra no misy fahendrena ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ihany"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "amin'ny fiavonavonana"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "no misy"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "fifandonana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izay mandray hevitra"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "izay mandray hevitra"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "fahendrena"
+    }
+  ],
+  "timestamp": "2026-08-31T16:52:14.393618290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 116,
+  "translation": "Fa efa namarinao ny aiko tamin'ny fahafatesana, ⟨את⟩ ny masoko tamin'ny ranomaso, ⟨את⟩ ny tongotro tamin'ny fandaozana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "namarinao"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "tamin'ny fahafatesana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny masoko"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ny masoko"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "ranomaso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tongotro"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ny tongotro"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "tamin'ny fandaozana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:41.811488788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 27:10",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ary ny tsangambatony roa amby roapolo sy ny fototr'ireo roa amby roapolo varahina; ny kroman'ny tsangambato sy ny fehin-kianjan'ireo volafotsy.",
+  "tokens": [
+    {
+      "surface": "ועמדיו",
+      "gloss": "Ary ny tsangambatony"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "roa amby roapolo"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "sy ny fototr'ireo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "roa amby roapolo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "varahina"
+    },
+    {
+      "surface": "ווי",
+      "gloss": "ny kroman'"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ny tsangambato"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "sy ny fehin'ireo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:04:35.126926961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 37:17",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary manatòra ⟨את⟩ ireo ho tambatra iray amin'ny iray, ho anao, ho hazo iray, ary ho lasa iray ⟨izy⟩ eo an-tananao.",
+  "tokens": [
+    {
+      "surface": "וְקָרַ֨ב",
+      "gloss": "manatòra"
+    },
+    {
+      "surface": "אֹתָ֜ם",
+      "gloss": "⟨את⟩",
+      "marks": "ireo (ny hazo roa)"
+    },
+    {
+      "surface": "אֶחָ֧ד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "אֶחָ֛ד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "לְךָ֖",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "לְעֵ֣ץ",
+      "gloss": "ho hazo"
+    },
+    {
+      "surface": "אֶחָ֑ד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "וְהָי֥וּ",
+      "gloss": "ho lasa"
+    },
+    {
+      "surface": "לַאֲחָדִ֖ים",
+      "gloss": "iray"
+    },
+    {
+      "surface": "בְּיָדֶֽךָ",
+      "gloss": "eo an-tananao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:34:13.093355114Z",
+  "model": "glm-5.3"
+}

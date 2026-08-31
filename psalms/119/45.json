@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ary hitsangatsangana malalaka aho, fa ny didinao no nokarimako.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "hitsangatsangana aho"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "malalaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "ny didinao"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "nokarimako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:58.353196164Z",
+  "model": "glm-5.3"
+}

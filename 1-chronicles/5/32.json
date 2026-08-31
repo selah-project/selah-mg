@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary Uzzi niteraka ⟨את⟩ Zerachjah, ary Zerachjah niteraka ⟨את⟩ Merajoth.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "Ary Uzzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerachjah"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerachjah"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "ary Zerachjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merajoth"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merajoth"
+    }
+  ],
+  "timestamp": "2026-08-31T17:34:57.877945550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "⟨את⟩ Ireo amin'izy ireo no hohaninareo: ⟨את⟩ ny arbeh araka ny karazany, sy ⟨את⟩ ny selaam araka ny karazany, ary ⟨את⟩ ny hargol araka ny karazany, ary ⟨את⟩ ny hagab araka ny karazany.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ireo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ireo"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "amin'izy ireo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "no hohaninareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny arbeh"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "ny arbeh"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "araka ny karazany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny selaam"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "ny selaam"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "araka ny karazany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny hargol"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "ny hargol"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "araka ny karazany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny hagab"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "ny hagab"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "araka ny karazany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:14:58.059913220Z",
+  "model": "glm-5.3"
+}

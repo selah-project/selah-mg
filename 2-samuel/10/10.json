@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary ⟨את⟩ ny sisa amin'ny olona dia natolony ho eo an-tànan'i Abisaya rahalahiny, ka nametraka azy hifanindry amin'ny taranak'i Amona.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny sisa amin'ny olona"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "sisa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "amin'ny olona"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "natolony"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ho eo an-tànana"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Abisaya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "rahalahiny"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "ka nametraka"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "hifanindry amin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taranak'i"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amona"
+    }
+  ],
+  "timestamp": "2026-08-31T14:31:36.489422881Z",
+  "model": "glm-5.3"
+}

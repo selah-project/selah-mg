@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 69,
+  "translation": "Ianao no mahalala ny henatra aho sy ny fahamenarana aho ary ny fanalam-barako; eo anatrehanao ny fahavalo rehetra.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ianao"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ny henatra aho"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "sy ny fahamenarana aho"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "ary ny fanalam-barako"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "eo anatrehanao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ny fahavalo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:34.897519727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Aza avela hivehy amiko ny tongotry ny fiavonavonana, ary ny tànan'ny ratsy fanahy aza avela hanintsana ahy.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "avela hivehy amiko"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ny tongotry ny"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "fiavonavonana"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ary ny tànan'ny"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ratsy fanahy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "avela hanintsana ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:57.297463511Z",
+  "model": "glm-5.3"
+}

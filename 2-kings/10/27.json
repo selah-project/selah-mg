@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary noravan'izy ireo ⟨את⟩ ny tsangambaton'i Baala, sy ⟨את⟩ ny tranon'i Baala; ary nataony trano fivoahana izany, ambaraka ankehitriny.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "Ary noravan'izy ireo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tsangambaton'i Baala"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "tsangambato"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "i Baala"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "sy noravany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tranon'i Baala"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon'"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "i Baala"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "tranobe fivoahana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ambaraka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ankehitriny"
+    }
+  ],
+  "timestamp": "2026-08-31T14:55:28.786429924Z",
+  "model": "glm-5.3"
+}

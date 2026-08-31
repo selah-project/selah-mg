@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary Arfaksada niteraka ⟨את⟩ Shelaha, ary Shelaha niteraka ⟨את⟩ Ever.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Ary Arfaksada"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelaha"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelaha"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ary Shelaha"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:10.946504295Z",
+  "model": "glm-5.3"
+}

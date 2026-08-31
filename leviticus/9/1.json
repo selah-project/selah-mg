@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary tamin'ny andro fahavalo niantso Moshe an'i Aharona sy ny zanany ary ny anti-panahin'i Isiraely.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary tonga tao"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "fahavalo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "an'i Aharona"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "sy ny zanany"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "ary ny anti-panahin'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    }
+  ],
+  "timestamp": "2026-08-31T19:13:42.481321606Z",
+  "model": "glm-5.3"
+}

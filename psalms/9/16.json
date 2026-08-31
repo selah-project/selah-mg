@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Lavo tao an-davaky ny nataony ny jentilisa; tao an-drafitra nafeniny dia voazon'ny tongony.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "Lavo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ny jentilisa"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "tao an-davaka"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ny nataony"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "tao an-drafitra"
+    },
+    {
+      "surface": "זו",
+      "gloss": "io"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "nafeniny"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "voazon'ny"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "tongony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:27.351449309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 110,
+  "translation": "Nianiana Yahveh ka tsy hiova hevitra: Ianao no mpisoratra mandrakizay araka ny didin'i Malki-Tsedek.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Nianiana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "hiova hevitra"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ianao"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "no mpisoratra"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "על",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "didin'i"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:06.321131801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary noraisin'i Moshe ⟨את⟩ ny kalesy sy ⟨את⟩ ny omby, ka nomeny ho amin'ny Levita izy ireo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ary noraisin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny kalesy"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "ny kalesy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny omby"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ny omby"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ka nomeny"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ izy ireo",
+      "marks": "ho amin'ny Levita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho amin'ny"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levita"
+    }
+  ],
+  "timestamp": "2026-08-31T13:26:09.355234915Z",
+  "model": "glm-5.3"
+}

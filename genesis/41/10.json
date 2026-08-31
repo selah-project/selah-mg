@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Parao dia tezitra tamin'ny mpanompony ka nametraka ahy ⟨את⟩ tao an-tranon'ny lohan'ny mpandapa, ⟨את⟩ izaho sy ny lohan'ny mpamofo hono.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "tezitra"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "mpanompony"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ka nametraka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ahy tao an-tranon'ny lohan'ny mpandapa"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "tao an-trano"
+    },
+    {
+      "surface": "בית",
+      "gloss": "an-tranon'ny"
+    },
+    {
+      "surface": "שר",
+      "gloss": "lohan'ny"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "mpandapa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "izaho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny lohan'ny mpamofo"
+    },
+    {
+      "surface": "שר",
+      "gloss": "lohan'ny"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "mpamofo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:55:55.143570156Z",
+  "model": "glm-5.3"
+}

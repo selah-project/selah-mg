@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Fa tsy misy antony no nafeniny tamiko lavaka, ny haraton'izy ireo; tsy misy antony no nihady ho an'ny aiko izy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tsy misy antony"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "no nafeniny"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "lavaka"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "ny haraton'izy ireo"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "tsy misy antony"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "no nihady"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ho an'ny aiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:15.783603364Z",
+  "model": "glm-5.3"
+}

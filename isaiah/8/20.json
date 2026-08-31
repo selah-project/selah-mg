@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 8:20",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "⟨Ampifanaraho⟩ amin'ny Torah sy amin'ny fambarana! Raha tsy milaza araka ity teny ity izy, dia tsy misy vava alina ho azy.",
+  "tokens": [
+    {
+      "surface": "לתורה",
+      "gloss": "amin'ny Torah"
+    },
+    {
+      "surface": "ולתעודה",
+      "gloss": "sy amin'ny fambarana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "milaza"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "araka ny teny"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity ... ity"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "vava alina"
+    }
+  ],
+  "timestamp": "2026-08-31T15:04:50.645431396Z",
+  "model": "glm-5.3"
+}

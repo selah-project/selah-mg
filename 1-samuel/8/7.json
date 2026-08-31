@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary hoy Yahveh tamin'i Shemuela: Mihainoa ny feon'ny vahoaka amin'izay rehetra holazainy aminao; fa tsy ⟨את⟩ ianao no laviny, fa ⟨את⟩ Izaho no laviny, tsy hitondra fanjakana azy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuela"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Mihainoa"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ny feon'ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "amin'izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "holazainy"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "amin'ny laza"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ianao"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "no laviny"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ Izaho"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "no laviny"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "tsy hitondra fanjakana"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:16:21.776073629Z",
+  "model": "glm-5.3"
+}

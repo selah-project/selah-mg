@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Eny, izay rehetra mananty Anao dia tsy ho menamenarana; fa ny mpivadika no ho menamenarana, tsy misy antony.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Eny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "mananty Anao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ho menamenarana"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ho menamenarana"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "ny mpivadika"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "tsy misy antony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:00.686319431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary ankehitriny, raiko no nanentana enta-mavesatra taminareo, fa izaho kosa hanampy amin'ny joeanareo: raiko nananatra ⟨את⟩ anareo tamin'ny zozoro, fa izaho kosa hananatra ⟨את⟩ anareo amin'ny maingoka.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ary ankehitriny"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "raiko"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "nanentana enta-mavesatra"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "taminareo"
+    },
+    {
+      "surface": "על",
+      "gloss": "enta-mavesatra"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "mavesatra"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "fa izaho kosa"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "hanampy amin'ny"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "joeanareo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "raiko"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "nananatra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "tamin'ny zozoro"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "fa izaho kosa"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "hananatra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "amin'ny maingoka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:45:26.275170700Z",
+  "model": "glm-5.3"
+}

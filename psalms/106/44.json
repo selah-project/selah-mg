@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Nijery ny fahoriany Izy rè izy, rehefa nihaino ny fitarainany Izy.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nijery"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ny fahoriany"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "rehefa nihaino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitarainany"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "ny fitarainany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:28.094558622Z",
+  "model": "glm-5.3"
+}

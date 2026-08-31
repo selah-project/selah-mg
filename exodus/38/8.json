@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Ary nanao ⟨את⟩ ny lavabo varahina sy ⟨את⟩ ny fototra varahina izy, tamin'ny fitarainan'ilay vehivavy mirotra, izay nirotra teo am-baravaran'ny trano fihaonana.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lavabo"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "ny lavabo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "varahina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny fototra"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ny fototra"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "varahina"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "tamin'ny fitarainan'ilay"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "vehivavy mirotra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "nirotra"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "teo am-baravaran'ny"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "trano"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:09:02.987919078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 91,
+  "translation": "Amin'ny labany Izy hanarona anao, ary eo ambanin'ny elany ianao hialokalofa; ampinga sy fiarovan-tena no fahamarinany.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "Amin'ny labany"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "Izy hanarona"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ary eo ambaniny"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "ny elany"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "hialokalofa ianao"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ampinga"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "sy fiarovan-tena"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "fahamarinany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:55.044716167Z",
+  "model": "glm-5.3"
+}

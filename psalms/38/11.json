@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Mibaribary ny foko; nahafoiko ny heriko; ary ny fahazavan'ny masoko, dia tsy ⟨את⟩ amiko.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "mibaribary"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "nahafoiko"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ny heriko"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ary ny fahazavan'ny"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "masoko"
+    },
+    {
+      "surface": "גם",
+      "gloss": "dia"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izy"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:15.522849627Z",
+  "model": "glm-5.3"
+}

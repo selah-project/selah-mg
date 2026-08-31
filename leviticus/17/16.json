@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Fa raha tsy sasainy ny akanjony ary tsy mandro ny tenany, dia hitondra ny helony izy.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Fa raha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "sasainy ny akanjony"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "ny tenany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "mandro"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "dia hitondra"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ny helony"
+    }
+  ],
+  "timestamp": "2026-08-31T13:18:12.113878760Z",
+  "model": "glm-5.3"
+}

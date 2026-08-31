@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 8:8",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Amin'ny zanany izay sisa taorian'izy ireo tamin'ny tany, izay tsy fongotry ny zanak'Isiraely — dia izy ireo no nampiakaran'i Shelomo ho mpandoa hetra, hatramin'ny andro anio.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נותרו",
+      "gloss": "sisa"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "taorian'izy ireo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tamin'ny tany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "כלום",
+      "gloss": "fongotra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "nampiakarana"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "למס",
+      "gloss": "ho mpandoa hetra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hatramin'ny"
+    },
+    {
+      "surface": "היום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "anio"
+    }
+  ],
+  "timestamp": "2026-08-31T17:45:51.810334003Z",
+  "model": "glm-5.3"
+}

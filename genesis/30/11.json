@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary hoy Lea: Manana vintana soa! ka nataony ny anarany ⟨את⟩ Gad.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "manana vintana soa"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anarany"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    }
+  ],
+  "timestamp": "2026-08-31T12:44:07.021157193Z",
+  "model": "glm-5.3"
+}

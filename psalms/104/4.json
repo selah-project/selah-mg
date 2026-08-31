@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 104,
+  "translation": "Manao ny tsindrin'ny rivotra ho iraka Izy, ny mpanompony kosa afo mirehitra.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Manao"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "ho iraka"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "ny tsindrin'ny rivotra"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "ny mpanompony"
+    },
+    {
+      "surface": "אש",
+      "gloss": "afo"
+    },
+    {
+      "surface": "להט",
+      "gloss": "mirehitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:56.248978416Z",
+  "model": "glm-5.3"
+}

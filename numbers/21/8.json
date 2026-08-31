@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 21:8",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary Yahveh nanome teny tamin'i Moshe hoe: Manaova anao sarafa mirehitra, ka apetraho eo ambony famantarana; ary dia izao: izay voapaika rehetra, raha mijery azy dia velona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanome teny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Manaova"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "sarafa mirehitra"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "ka apetraho"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (ny sarafa)"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "נס",
+      "gloss": "famantarana"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ary dia izao:"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הנשוך",
+      "gloss": "izay voapaika"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "raha mijery"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (ny sarafa)"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "dia velona"
+    }
+  ],
+  "timestamp": "2026-08-31T13:32:07.950101998Z",
+  "model": "glm-5.3"
+}

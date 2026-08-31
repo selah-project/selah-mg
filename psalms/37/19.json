@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Tsy hohamenatra amin'ny fotoan-tsarotra izy, ary amin'ny andron'ny mosary ho voky.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "hohamenatra izy"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "amin'ny fotoan-'"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "sarotra"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "ary amin'ny andron'ny"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "mosary"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ho voky"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:58.331746631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 2:21",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary Yahveh Elohim nampianjera torana lalina tamin'ilay lehilahy, ka natory izy; ary naka iray amin'ny tandrony Izy, ka nanidy nofo ⟨teo⟩ nisolo azy.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "nampianjera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "torana lalina"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ilay"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "natory"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "naka"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "iray"
+    },
+    {
+      "surface": "מצלעתיו",
+      "gloss": "amin'ny tandrony"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "nanidy"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nofo"
+    },
+    {
+      "surface": "תחתנה",
+      "gloss": "nisolo azy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:03.080535622Z",
+  "model": "glm-5.3"
+}

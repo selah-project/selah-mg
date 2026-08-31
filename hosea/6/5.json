@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 6:5",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Noho izany namako aho tamin'ny mpaminany, namono azy tamin'ny tenin'ny vavako; ary ny fitsaranao mivoaka toy ny hazavana.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Noho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "חצבתי",
+      "gloss": "namako"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "tamin'ny mpaminany"
+    },
+    {
+      "surface": "הרגתים",
+      "gloss": "namono azy"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "tamin'ny tenin'ny"
+    },
+    {
+      "surface": "פי",
+      "gloss": "vavako"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "ary ny fitsaranao"
+    },
+    {
+      "surface": "אור",
+      "gloss": "toy ny hazavana"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "mivoaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:07:24.504136491Z",
+  "model": "glm-5.3"
+}

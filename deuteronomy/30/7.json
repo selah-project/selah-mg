@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary hametraka Yahveh Elohim-ninao ⟨את⟩ izao ozona rehetra izao amin'ny fahavalonao sy amin'izay mankahala anao, izay nanenjika anao.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "hametraka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ninao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izao ozona rehetra izao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "ozona"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "izao ... izao"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "fahavalonao"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy amin'ny"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "izay mankahala anao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "nanenjika anao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:51:04.276656744Z",
+  "model": "glm-5.3"
+}

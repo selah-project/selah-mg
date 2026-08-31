@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 3:6",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary hoy Yehoshoa tamin'ny mpisorona hoe: ento ⟨את⟩ fiaran'ny fanekena, ary mandalo alohan'ny vahoaka; ka nitondra ⟨את⟩ fiaran'ny fanekena ireo ka nandalo teo alohan'ny vahoaka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "ento"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiaran'ny fanekena"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fiaran'ny"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "fanekena"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "ary mandalo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "alohan'ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ka nitondra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiaran'ny fanekena"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fiaran'ny"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "fanekena"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ka nandalo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo alohan'ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    }
+  ],
+  "timestamp": "2026-08-31T13:54:58.639937195Z",
+  "model": "glm-5.3"
+}

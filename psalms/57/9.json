@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 57,
+  "translation": "Mifohaza, ry voninahitro; mifohaza, ry marovany sy lokanga; izaho kosa hampifohatra ny maraina ambony ⟨ishiangona amin'ny maraina be aloha⟩.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "mifohaza"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ry voninahitro"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "mifohaza"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "ry marovany"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "sy lokanga"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "hampifohatra"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ny maraina ambony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:35.975431122Z",
+  "model": "glm-5.3"
+}

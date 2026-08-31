@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ny aiko eo an-tanako mandrakariva, fa ny Torahinao tsy hadinoiko.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "eo an-tanako"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mandrakariva"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "fa ny Torahinao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "hadinoiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:44.661628305Z",
+  "model": "glm-5.3"
+}

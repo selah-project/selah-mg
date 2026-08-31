@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 12:6",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary ho voatahiry ho anareo izy hatramin'ny andro fahefatra ambin'ny folo amin'ity volana ity; ary izay fiangonana rehetra amin'ny fiangonan'i Yisraela no hiolahatra ⟨את⟩ azy eo antenantenin'ny hariva.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ary ho"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "voatahiry"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hatramin'ny"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "fahefatra"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "folo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "amin'ity volana ity"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "hiolahatra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "fiangonana"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "fiangonanan'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "בין",
+      "gloss": "eo antenantenin'ny"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "hariva"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:22.822007978Z",
+  "model": "glm-5.3"
+}

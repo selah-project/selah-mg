@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ny fiangonana rehetra ao Isiraely hanao ⟨את⟩ izany.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "fiangonana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "izany (ny Paska)"
+    }
+  ],
+  "timestamp": "2026-08-31T12:59:13.382636827Z",
+  "model": "glm-5.3"
+}

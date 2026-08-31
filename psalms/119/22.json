@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Avangy miala amiko ny fahaverezan-tsata sy ny fanamiana, fa ny teni-pifaneketanao no nitandremanaiko.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Avangy"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "miala amiko"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ny fahaverezan-tsata"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "sy ny fanamiana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ny teni-pifaneketanao"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "no nitandremanaiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:11.253411213Z",
+  "model": "glm-5.3"
+}

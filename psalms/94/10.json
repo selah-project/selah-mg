@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 94,
+  "translation": "Izay manitsy ⟨ny⟩ firenena, tsy mitsara va ⟨izy⟩? Izay mampianatra ⟨ny⟩ olombelona fahalalana, tsy mahalala va ⟨izy⟩?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "izay manitsy"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "tsy... va"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "mitsara"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "izay mampianatra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olombelona"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "fahalalana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:09.139422050Z",
+  "model": "glm-5.3"
+}

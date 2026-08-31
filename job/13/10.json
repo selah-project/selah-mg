@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Tsy amin-keriny hamaly ⟨את⟩ anareo Izy, raha mandraingina tavana amin'ny miafina hianareo?",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "tsy amin-keriny"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "hamaly"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo",
+      "marks": "anareo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "amin'ny miafina"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "tavana"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "mandraingina"
+    }
+  ],
+  "timestamp": "2026-08-31T17:01:06.822390617Z",
+  "model": "glm-5.3"
+}

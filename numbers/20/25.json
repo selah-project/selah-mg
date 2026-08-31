@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Raiso ⟨את⟩ Aharon sy ⟨את⟩ Elazara zanany, ka ento miakatra ⟨את⟩ ireo any amin'ny tendrombohitra Hor.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Raiso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Elazara"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazara"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "ento miakatra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ireo",
+      "marks": "Aharon sy Elazara"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Hor"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "⟨ny⟩ tendrombohitra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:31:57.321200800Z",
+  "model": "glm-5.3"
+}

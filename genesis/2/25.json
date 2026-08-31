@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary izy roa lahy no ⟨si⟩ noana, ilay lehilahy sy ny vadiny, ary tsy mena ny tavany.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ary izy no"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "roa lahy"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "noana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ilay lehilahy"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "sy ny vadiny"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "mena ny tavany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:33:50.075257326Z",
+  "model": "glm-5.3"
+}

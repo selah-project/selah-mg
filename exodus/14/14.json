@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Yahveh no hiady ho anareo, fa ianareo kosa dia hangina.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "hiady"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "fa ianareo kosa"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "hangina"
+    }
+  ],
+  "timestamp": "2026-08-31T12:59:07.506451003Z",
+  "model": "glm-5.3"
+}

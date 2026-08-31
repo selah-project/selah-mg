@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Ary izao no tonga: araka ny nanazavany tamintsika dia izao no nitranga; ahy ⟨את⟩ naveriny tamin'ny toerako, ary ny lehilahy sasany ⟨את⟩ no nampihantena.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary izao no tonga"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "nanazavany"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tamintsika"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dia izao"
+    },
+    {
+      "surface": "היה",
+      "gloss": "no nitranga"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ahy"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "naveriny"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "כני",
+      "gloss": "toerako"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "izy (ny lehilahy sasany)"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "nampihantena"
+    }
+  ],
+  "timestamp": "2026-08-31T12:50:04.931018788Z",
+  "model": "glm-5.3"
+}

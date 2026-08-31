@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Fa ianareo mahalala ⟨את⟩ izay noneninay tany amin'ny tany Mitsrayim, sy ⟨את⟩ izay nandalanay teto anivon'ny firenena izay nandalanareo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ianareo"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay noneninay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "noneninay"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tany amin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "izay nandalanay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "nandalanay"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "teto anivon'ny"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "nandalanareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:50:33.776597320Z",
+  "model": "glm-5.3"
+}

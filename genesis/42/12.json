@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Ary niteny tamin'izy ireo izy hoe: Tsia, fa hijery ny fahalemen'ny tany no tonga ianareo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ary niteny"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tamin'izy ireo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ny fahalemen'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "tonga ianareo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hijery"
+    }
+  ],
+  "timestamp": "2026-08-31T17:55:52.167641114Z",
+  "model": "glm-5.3"
+}

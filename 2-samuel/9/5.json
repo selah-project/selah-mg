@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary David mpanjaka naniraka ka naka azy tao an-tranon'i Makir zanak'i Ammiela, tany Lo-Debara.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ary...naniraka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "ka naka azy"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "tao an-tranon'"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiela"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "tany"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Lo-Debara"
+    }
+  ],
+  "timestamp": "2026-08-31T14:31:18.087337904Z",
+  "model": "glm-5.3"
+}

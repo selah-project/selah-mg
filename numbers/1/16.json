@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Izy ireo no nantsoina tao amin'ny fiangonana, andrianan'ny foko amin'ny razany, lohan'ny arivo an'i Isiraela izy.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "izy ireo"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "nantsoina"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "fiangonana"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "andrianan'ny"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "foko"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "razany"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "lohan'ny"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "arivo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:22:59.455823744Z",
+  "model": "glm-5.3"
+}

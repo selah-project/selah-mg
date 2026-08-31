@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ka Elohim no naka ⟨את⟩ ny ombin'ny rainareo, ka nomena ahy.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "naka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny omby"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "ny omby"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "ny rainareo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nomena"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:45:46.009253600Z",
+  "model": "glm-5.3"
+}

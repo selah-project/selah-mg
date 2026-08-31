@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 38:15",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Dia hitan'i Yehuda ⟨izy⟩ ka nataony ho janga mpivarotra tena, fa efa voasaron'ny sava ny tarehiny.",
+  "tokens": [
+    {
+      "surface": "ויראה",
+      "gloss": "hitan'i Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "לזונה",
+      "gloss": "ho janga mpivarotra tena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "voasaron'ny sava"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "tarehiny"
+    }
+  ],
+  "timestamp": "2026-08-31T12:49:15.567543844Z",
+  "model": "glm-5.3"
+}

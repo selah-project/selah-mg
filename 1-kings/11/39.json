@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary hanaratsika ⟨את⟩ taranak'i Davida Aho noho izany, nefa tsy amin'ny andro rehetra.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "hanaratsika Aho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taranak'i Davida"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "taranaka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "למען",
+      "gloss": "noho"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izany"
+    },
+    {
+      "surface": "אך",
+      "gloss": "efa tsy fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "andro"
+    }
+  ],
+  "timestamp": "2026-08-31T14:45:38.379981639Z",
+  "model": "glm-5.3"
+}

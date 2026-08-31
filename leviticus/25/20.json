@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary raha hoy ianareo: Inona no hohaninay amin'ny taona fahafito? Indro, tsy mamafy isika, ary tsy miangona ny vokatrantsika ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ary raha"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "hoy ianareo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Inona"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "no hohaninay"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "amin'ny taona"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "fahafito"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "mamafy isika"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "miangona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vokatrantsika"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "ny vokatrantsika"
+    }
+  ],
+  "timestamp": "2026-08-31T13:20:28.947955014Z",
+  "model": "glm-5.3"
+}

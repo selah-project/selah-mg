@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Tamin'ny alina nahatsiarovako ny anaranao, ry Yahveh, ary nitandrina ny Torahinao.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "nahatsiarovako"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "tamin'ny alina"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ny anaranao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "ary nitandrina"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ny Torahinao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:56.634713654Z",
+  "model": "glm-5.3"
+}

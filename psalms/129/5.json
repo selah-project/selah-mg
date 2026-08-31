@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 129,
+  "translation": "Aoka ho menatra sy hihemotra miankina aoriana izy rehetra izay mankahala an'i Tziyon.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ho menatra"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "sy hihemotra miankina aoriana"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "aoriana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izy rehetra"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "izay mankahala"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "an'i Tziyon"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:36.835049735Z",
+  "model": "glm-5.3"
+}

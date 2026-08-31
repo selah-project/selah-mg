@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 60,
+  "translation": "Nampihorohoro ny tany Hianao, namontsina azy; sitrano ny fahasimbany, fa miangovoangovehana izy.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "Nampihorohoro"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "namontsina azy"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "sitrano"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "ny fahasimbany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "miangovoangovehana izy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:31.232912531Z",
+  "model": "glm-5.3"
+}

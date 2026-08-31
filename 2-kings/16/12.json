@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary tonga ny mpanjaka avy tany Damaseka, ka hitan'ny mpanjaka ⟨את⟩ ny alitara, dia nanatona teo ambonin'ny alitara ny mpanjaka ary nanatitra teo amboniny.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "avy tany Damaseka"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "hitan'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny alitara"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ny alitara"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "nanatona"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo ambonin'ny"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "nanatitra"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "teo amboniny"
+    }
+  ],
+  "timestamp": "2026-08-31T14:58:03.013080739Z",
+  "model": "glm-5.3"
+}

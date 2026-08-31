@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 69,
+  "translation": "Ampio ny heloky amin'ny helony, ary aa miditra ao amin'ny fahamarinanao.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Ampio"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ny heloka"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "helony"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "miditra"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ao amin'ny fahamarinanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:07.558506547Z",
+  "model": "glm-5.3"
+}

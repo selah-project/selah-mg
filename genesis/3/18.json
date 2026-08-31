@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Tsilo sy songosongo no hitomboy ho anao ⟨amin'ny tany⟩; ary hihinana ⟨את⟩ ny voloalan'ny saha ianao.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Tsilo"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "sy songosongo"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "no hitomboy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ary hihinana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny voloalan'ny saha"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ny voloalan'ny"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "saha"
+    }
+  ],
+  "timestamp": "2026-08-31T17:55:13.917518819Z",
+  "model": "glm-5.3"
+}

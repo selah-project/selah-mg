@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary Aharon sy ny zanany hiditra rehefa mandeha ny toby, ka hampidina ⟨את⟩ ny efitra fatorian'ny fitoerana, ka hanarona aminy ⟨את⟩ ny fiara fisian'ny Vavolombelona.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "hiditra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "sy ny zanany"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "reefa mandeha"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ny toby"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "ka hampidina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny efitra fatoriana"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "efitra fatoriana"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ny fitoerana"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "ka hanarona"
+    },
+    {
+      "surface": "בה",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiara"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "fisian'ny Vavolombelona"
+    }
+  ],
+  "timestamp": "2026-08-31T13:25:28.386958260Z",
+  "model": "glm-5.3"
+}

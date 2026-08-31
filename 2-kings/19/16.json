@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 19:16",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Yahveh, miondria ny sofinao, ary henoy; sokafy, ry Yahveh, ny masonao, ka jereo; ary henoy ⟨את⟩ ny tenin'i Sanheriba, izay nanirahana azy hanatsatsika an'i Elohim velona.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "miondria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ny sofinao"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ary henoy"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "sokafy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ny masonao"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ka jereo"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ary henoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tenin'i Sanheriba"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ny tenin'i"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sanheriba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "nanirahana azy"
+    },
+    {
+      "surface": "לחרף",
+      "gloss": "hanatsatsika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "an'i Elohim"
+    },
+    {
+      "surface": "חי",
+      "gloss": "velona"
+    }
+  ],
+  "timestamp": "2026-08-31T18:05:09.953459844Z",
+  "model": "glm-5.3"
+}

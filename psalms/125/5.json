@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 125,
+  "translation": "Fa izay mivily ho amin'ny lalana mihodinkodinany, Yahveh hitondra azy miaraka amin'⟨את⟩ mpanao ny ratsy; fiadanana amin'i Yisrael.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "fa izay mivily"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "ho amin'ny lalana mihodinkodinany"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "hitondra azy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpanao ny ratsy"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mpanao"
+    },
+    {
+      "surface": "האון",
+      "gloss": "ny ratsy"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fiadanana"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:04.707146369Z",
+  "model": "glm-5.3"
+}

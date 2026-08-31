@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 56,
+  "translation": "Mitelina ahy mandritra ny andro manontolo izay manohy ahy, fa maro no miady amiko avy amin'ny haavo.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "mitelina ahy"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "izay manohy ahy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mandritra ny"
+    },
+    {
+      "surface": "היום",
+      "gloss": "andro manontolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maro"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "miady"
+    },
+    {
+      "surface": "לי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "avy amin'ny haavo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:50.182590837Z",
+  "model": "glm-5.3"
+}

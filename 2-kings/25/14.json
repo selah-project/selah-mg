@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 25:14",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary ⟨את⟩ ny vilany, sy ⟨את⟩ ny famafazana, sy ⟨את⟩ ny fanetezam-bitro, ary ⟨את⟩ ny lovia, mbamin'⟨את⟩ izay rehetra fanaka varahina izay nampiasain'izy ireo tamin'ny fanompoam-pivavahana — dia novonoin'ny nitondra azy ireo (nalainy).",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny vilany"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "vilany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny famafazana"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "famafazana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanetezam-bitro"
+    },
+    {
+      "surface": "המזמרות",
+      "gloss": "fanetezam-bitro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny lovia"
+    },
+    {
+      "surface": "הכפות",
+      "gloss": "lovia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izay rehetra fanaka varahina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "fanaka"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "varahina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "nampiasain'izy ireo tamin'ny fanompoam-pivavahana"
+    },
+    {
+      "surface": "בם",
+      "gloss": "azy ireo"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "nalainy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:01:06.899014190Z",
+  "model": "glm-5.3"
+}

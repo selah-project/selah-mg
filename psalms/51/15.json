@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "Dia hampianatra ny mpivadika aho ny lalanao, ary ny mpanota hiverina ho aminao.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "hampianatra"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "ny mpivadika"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "ny lalanao"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "ary ny mpanota"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho aminao"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "hiverina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:25.706214338Z",
+  "model": "glm-5.3"
+}

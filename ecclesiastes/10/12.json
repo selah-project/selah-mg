@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ny teny avy amin'ny vavan'ny hendry dia fahasoavana; fa ny molotry ny adala kosa mandevona azy.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "פי",
+      "gloss": "avy amin'ny vavan'ny"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "hendry"
+    },
+    {
+      "surface": "חן",
+      "gloss": "fahasoavana"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "fa ny molotry ny"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "adala"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "mandevona azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:00.468254760Z",
+  "model": "glm-5.3"
+}

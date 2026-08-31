@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary Yahveh nandatsaka rivotra mahery tamin'ny ranomasina, ka nisy tafio-drivotra lehibe teo an-dranomasina, ka ilay sambony nieritreritra efa ho ritra.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ary Yahveh"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "nandatsaka"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rivotra"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ranomasina,"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ka nisy"
+    },
+    {
+      "surface": "סער",
+      "gloss": "tafio-drivotra"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "בים",
+      "gloss": "teo an-dranomasina,"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "ka ilay sambony"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "nieritreritra"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "efa ho ritra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:14:28.896218862Z",
+  "model": "glm-5.3"
+}

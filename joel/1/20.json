@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joel 1:20",
+  "book": "joel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Eny fa na ny biby any an-tsaha aza manina anao, fa maina ny loharano rano, ary afo efa nandevona ny kijana any an-efitra.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "eny fa na ... aza"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "biby"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "any an-tsaha"
+    },
+    {
+      "surface": "תערוג",
+      "gloss": "manina"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "maina"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "ny loharano"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ary afo"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "efa nandevona"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "ny kijana"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "any an-efitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:10:28.614470330Z",
+  "model": "glm-5.3"
+}

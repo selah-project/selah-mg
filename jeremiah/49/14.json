@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 49:14",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 49,
+  "translation": "Vaovao nihainoako avy amin' ⟨את⟩ Yahveh, ary iraka nirahina any amin'ny jentilisa: Mivoria, ary mandehà manafika azy, ary matsahà ho amin'ny ady.",
+  "tokens": [
+    {
+      "surface": "שמועה",
+      "gloss": "vaovao"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nihainoako"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "avy amin'⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "ary iraka"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "any amin'ny jentilisa"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "nirahina"
+    },
+    {
+      "surface": "התקבצו",
+      "gloss": "mivoria"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ary mandehà"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "manafika azy"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "ary matsahà"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ho amin'ny ady"
+    }
+  ],
+  "timestamp": "2026-08-31T15:44:35.691047372Z",
+  "model": "glm-5.3"
+}

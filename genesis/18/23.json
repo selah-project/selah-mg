@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 18:23",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary nanatona Avrahama ka nanao hoe: Moa hofafanao va ny marina miaraka amin'ny ratsy fanahy?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "nanatona"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "האף",
+      "gloss": "mova"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "hofafanao"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ny marina"
+    },
+    {
+      "surface": "עם",
+      "gloss": "miaraka amin'"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ny ratsy fanahy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:39:20.196670286Z",
+  "model": "glm-5.3"
+}

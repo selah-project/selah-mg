@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 66,
+  "translation": "Avia, ary jereo ny asan'i Elohim: mahatahotra ny fihetsiny amin'ny zanak'olombelona.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Avia"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ary jereo"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "ny asa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "mahatahotra"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "ny fihetsiny"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olombelona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:27.509927610Z",
+  "model": "glm-5.3"
+}

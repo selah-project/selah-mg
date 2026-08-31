@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 108,
+  "translation": "Vonona ny foko, ry Elohim; hihira aho, eny, haneno zava-maneno aho, ary ny voninahitro koa.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Vonona"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ry Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "hihira aho"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "eny, haneno zava-maneno aho"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ary"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ny voninahitro koa"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:57.351466532Z",
+  "model": "glm-5.3"
+}

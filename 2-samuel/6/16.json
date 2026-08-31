@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 6:16",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary nonina tonga tao an-tanànan'i Davida ny fiaran'i Yahveh, dia nijery avy tao ambalinin'i Michal zanakavavin'i Shaol, ka nahita an'i Davida mpanjaka nitsambikina nilalao teo anatrehan'i Yahveh, ka nihanitsitra azy tao am-pony izy.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ary nonina"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ny fiaran'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tao an-tanànan'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ומיכל",
+      "gloss": "dia ... Michal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanakavavin'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "נשקפה",
+      "gloss": "nijery avy tao"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ambalinin'i"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "ny varavarana"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "ka nahita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Davida mpanjaka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "מפזז",
+      "gloss": "nitsambikina"
+    },
+    {
+      "surface": "ומכרכר",
+      "gloss": "nilalao"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anatrehan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ותבז",
+      "gloss": "ka nihanitsitra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "בלבה",
+      "gloss": "tao am-pony"
+    }
+  ],
+  "timestamp": "2026-08-31T14:30:34.128340278Z",
+  "model": "glm-5.3"
+}

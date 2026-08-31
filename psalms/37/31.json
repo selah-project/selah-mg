@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Torat'ny Elohiny ao an-tsainy; tsy hangovitra ny dingany.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Torat"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ny Elohiny"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ao an-tsainy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "hangovitra"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "ny dingany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:35:28.475553296Z",
+  "model": "glm-5.3"
+}

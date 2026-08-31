@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Fa raha tsy mihaino amintsika ianareo hovorana, dia halaintsika ⟨את⟩ zanakavavinay ka hiainga hianay.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Fa raha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mihaino"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "amintsika"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "hovorana"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "halaintsika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zanakavavinay"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "zanakavavinay"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "hiainga hianay"
+    }
+  ],
+  "timestamp": "2026-08-31T17:55:25.531027373Z",
+  "model": "glm-5.3"
+}

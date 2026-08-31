@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 101,
+  "translation": "Isakin'ny maraina hotapahiko ny ratsy fanahy rehetra amin'ny tany, hangolahiko amin'ny tanànan'i Yahveh ny mpanao ratsy rehetra.",
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "isakin'ny maraina"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "hotapahiko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "ratsy fanahy"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "hangolahiko"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "amin'ny tanànan'ny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "... rehetra"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mpanao"
+    },
+    {
+      "surface": "און",
+      "gloss": "ratsy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:58.264438337Z",
+  "model": "glm-5.3"
+}

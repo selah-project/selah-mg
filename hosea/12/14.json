@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary tamin'ny mpaminany Yahveh nampakatra ⟨את⟩ an'i Isiraely avy any Mitsrayim, ary tamin'ny mpaminany no nohazena izy.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "tamin'ny mpaminany"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nampakatra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Isiraely"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "avy any Mitsrayim"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "ary tamin'ny mpaminany"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "nohazena"
+    }
+  ],
+  "timestamp": "2026-08-31T16:08:16.404759054Z",
+  "model": "glm-5.3"
+}

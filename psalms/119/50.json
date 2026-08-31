@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ity no fampiononana ahy ao amin'ny fahoriano, fa ny teninao no namelomako.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ity"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "fampiononana ahy"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "ao amin'ny fahoriano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ny teninao"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "namelomako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:02.257158762Z",
+  "model": "glm-5.3"
+}

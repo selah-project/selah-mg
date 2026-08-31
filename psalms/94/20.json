@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 94,
+  "translation": "Hitambatra aminao ve ny seza fiandrianan'ny loza, izay mamorona asa ratsy amin'ny lalàna?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "Hitambatra aminao ve"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "seza fiandrianana"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "loza"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "mamorona"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "asa ratsy"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "חק",
+      "gloss": "lalàna"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:21.984097615Z",
+  "model": "glm-5.3"
+}

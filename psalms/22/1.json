@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ho an'ny mpihira filaharan'ny fanompoam-pivavahana, araka ny fihirana \"Diamin'ny maraina\" — salamo nataon'i David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho an'ny mpihira filaharan'ny fanompoam-pivavahana"
+    },
+    {
+      "surface": "על",
+      "gloss": "araka"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Diamin'ny"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "maraina"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "salamo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nataon'i David"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:53.094044816Z",
+  "model": "glm-5.3"
+}

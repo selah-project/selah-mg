@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 15:20",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary Miriama mpaminam-bavy, rahavavin'i Aarona, naka ⟨את⟩ ny tavolo tao an-tànany, ary nirivoetra ny vehivavy rehetra nanaraka azy, mitondra tavolo sy mandihy.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "naka"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miriama"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "mpaminam-bavy"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "rahavavin'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aarona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavolo"
+    },
+    {
+      "surface": "התף",
+      "gloss": "ny tavolo"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "tao an-tànany"
+    },
+    {
+      "surface": "ותצאן",
+      "gloss": "nirivoetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny rehetra amin'ny"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "vehivavy"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "nanaraka azy"
+    },
+    {
+      "surface": "בתפים",
+      "gloss": "mitondra tavolo"
+    },
+    {
+      "surface": "ובמחלת",
+      "gloss": "sy mandihy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:59:56.093047983Z",
+  "model": "glm-5.3"
+}

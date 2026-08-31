@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 113,
+  "translation": "Manomboka amin'ny ipoahan'ny masoandro ka mandra-pahatongan'ny filentehany, dia tsy misy afa-tsy ny fiderana ny anaran'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "manomboka amin'ny ipoahan'ny"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "masoandro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka mandra-pahatongan'ny"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "filentehany"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "tsy misy afa-tsy ny fiderana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "anaran'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:34.486954717Z",
+  "model": "glm-5.3"
+}

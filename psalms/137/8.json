@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 137,
+  "translation": "Ry zanakavavin'i Babylona, ilay voazava-maidana, sambatra izay hamaly anao ⟨את⟩ ny valy nataonao tamina ⟨izahay⟩.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "zanakavavin'i"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylona"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "voazava-maidana"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "sambatra"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "izay hamaly"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny valy nataonao"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "ny valy nataonao"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "nataonao"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tamina ⟨izahay⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:14.792037432Z",
+  "model": "glm-5.3"
+}

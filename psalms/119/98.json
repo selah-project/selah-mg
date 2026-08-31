@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Mahahendry ahy mihoatra noho ny fahavaloko ny didinao, fa mandrakizay izy no eo amiko.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "mihoatra noho ny fahavaloko"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "mahahendry ahy"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "ny didinao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "היא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:39.929248531Z",
+  "model": "glm-5.3"
+}

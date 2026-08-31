@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary tonga Yahveh ka nitsangana teo, ary niantso toy ny tamin'ny indray mandeha sy ny indray mandeha: Shemuel, Shemuel. Ary hoy Shemuel: Mitenina, fa mihaino ny mpanomponao.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ary tonga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "ka nitsangana teo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ary niantso"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "toy ny tamin'ny indray mandeha"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "sy ny indray mandeha"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Mitenina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mihaino"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ny mpanomponao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:15:26.217589607Z",
+  "model": "glm-5.3"
+}

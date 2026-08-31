@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Mandeha mankany amin'ny atsimo ny rivotra, ary mihodina mankany amin'ny avaratra; mihodina mihodina mandeha ny rivotra, ary amin'ny fihodinany miverina ny rivotra.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mankany amin'ny"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "atsimo"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "ary mihodina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mankany amin'ny"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "avaratra"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "mihodina"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "mihodina"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ny rivotra"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ary amin'ny"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "fihodinany"
+    },
+    {
+      "surface": "שב",
+      "gloss": "miverina"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ny rivotra"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:28.535962966Z",
+  "model": "glm-5.3"
+}

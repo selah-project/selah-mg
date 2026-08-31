@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 8:14",
+  "book": "daniel",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary hoy izy tamiko: Hatramin'ny hariva sy ny maraina, roa arivo sy telon-jato, ary hohamarinina ny fitoerana masina.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ary hoy izy"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hatramin'ny"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "hariva"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "maraina"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "roa arivo"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "sy telo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "zato"
+    },
+    {
+      "surface": "ונצדק",
+      "gloss": "hohamarinina"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ny fitoerana masina"
+    }
+  ],
+  "timestamp": "2026-08-31T17:23:11.396904145Z",
+  "model": "glm-5.3"
+}

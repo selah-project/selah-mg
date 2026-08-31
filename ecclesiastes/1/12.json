@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Izaho Koheleth dia efa naha-mpanjaka amin'ny Isiraely tany Yeroshalayim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Koheleth"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "efa naha-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "tany Yeroshalayim"
+    }
+  ],
+  "timestamp": "2026-08-31T17:14:19.346725413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ny rivotra namatonika ⟨את⟩ azy tamin'ny elany, ary ho mena izy noho ny alitara fanatitra nataony.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "namatonika"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ny rivotra"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "tamin'ny elany"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ary ho mena izy"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "noho ny alitara fanatitra nataony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:06:47.627632913Z",
+  "model": "glm-5.3"
+}

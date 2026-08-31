@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary izay mamely ny rainy na ny reniny, dia maty tokoa no hovonoina.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Ary izay mamely"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ny rainy"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "na ny reniny"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maty tokoa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "no hovonoina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:02:43.223677392Z",
+  "model": "glm-5.3"
+}

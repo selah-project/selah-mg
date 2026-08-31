@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary ny tany tsy nahafa-po ⟨את⟩ hitondra azy ireo ho mpiara-monina, fa be ny fananany ka tsy nahomby izy ireo ho mpiara-monina.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ary tsy"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nahafa-po hitondra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy ireo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ho mpiara-monina"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "miaraka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨nisy⟩"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "ny fananany"
+    },
+    {
+      "surface": "רב",
+      "gloss": "be"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "nahomby"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ho mpiara-monina"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "miaraka"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:31.825405698Z",
+  "model": "glm-5.3"
+}

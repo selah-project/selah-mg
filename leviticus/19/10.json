@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary ny tanimboalinão aza esorinao tanteraka, ary voankazon'olona lavelavela eo amin'ny tanimboalinão aza angoninao; ho an'ny malahelo sy ho an'ny vahiny no hafeno ⟨את⟩ ireo; izaho no Yahveh Elohim nareo.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "ary ny tanimboalinão"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "esorinao tanteraka"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "ary voankazon'olona lavelavela"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "eo amin'ny tanimboalinão"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "angoninao"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ho an'ny malahelo"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "sy ho an'ny vahiny"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "hafeno"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ireo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim nareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:17:15.196037376Z",
+  "model": "glm-5.3"
+}

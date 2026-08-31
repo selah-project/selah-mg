@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Fa hesed no sitrako, fa tsy fanatitra; ary ny fahalalana an'i Elohim mihoatra noho ny fanatitra dorana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "sitrako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "fanatitra"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ary ny fahalalana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "an'i Elohim"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "mihoatra noho ny fanatitra dorana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:07:24.504624722Z",
+  "model": "glm-5.3"
+}

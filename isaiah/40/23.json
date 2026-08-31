@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 40:23",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Izy no manao ny mpanapaka ho tsy misy, ny mpitsaran'ny tany dia nataony ho toy ny tsy misy.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "Ilay manome"
+    },
+    {
+      "surface": "רוזנים",
+      "gloss": "mpanapaka"
+    },
+    {
+      "surface": "לאין",
+      "gloss": "ho tsy misy"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "mpitsara"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "כתהו",
+      "gloss": "toy ny tsy misy"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    }
+  ],
+  "timestamp": "2026-08-31T15:15:11.849793620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary raha misy omby manindry ⟨את⟩ lehilahy na ⟨את⟩ vavavy ka maty, hatora-bato tsy azo toherina ny omby, ary tsy hohanina ⟨את⟩ ny henany, fa tompon'ny omby kosa dia tsy manan-tsala.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ary raha"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "manindry"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ombly"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lehilahy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "או",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vavavy"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vavavy"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ka maty"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "hatora-bato"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "tsy azo toherina"
+    },
+    {
+      "surface": "השור",
+      "gloss": "ny omby"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hohanina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny henany"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ny henany"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "fa tompon'ny"
+    },
+    {
+      "surface": "השור",
+      "gloss": "omby"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "tsy manan-tsala"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:10.219784034Z",
+  "model": "glm-5.3"
+}

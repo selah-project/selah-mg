@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ho anao hoy ny foko: Tadiavo ny tavako; ⟨את⟩ ny tavanao, ry Yahveh, no hitadiaviko.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Ho anao"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Tadiavo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ny tavako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavanao"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ny tavanao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "hitadiaviko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:35.169037351Z",
+  "model": "glm-5.3"
+}

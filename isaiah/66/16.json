@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 66,
+  "translation": "Fa amin'ny afo no hitsaran'i Yahveh, ary amin'ny sabany ⟨amin'ny⟩ nofo rehetra; ary be ny fatin'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "amin'ny afo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "no hitsaran'i Yahveh"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "amin'ny sabany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nofo rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nofo"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ary be"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "ny faty"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T15:23:07.289387053Z",
+  "model": "glm-5.3"
+}

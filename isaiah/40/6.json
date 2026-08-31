@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Feo iray manao hoe: Miantso. Ary ⟨izy⟩ nanao hoe: Inona no hiantsoiko? Ny nofo rehetra dia ahitra, ary ny hesed rehetra dia toy ny vonin'ny tsena.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Feo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "manao hoe"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Miantso"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Ary nanao hoe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Inona"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "no hiantsoiko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ny nofo"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ahitra"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ny ... rehetra"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "toy ny vonin'ny"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tsena"
+    }
+  ],
+  "timestamp": "2026-08-31T18:33:02.264292645Z",
+  "model": "glm-5.3"
+}

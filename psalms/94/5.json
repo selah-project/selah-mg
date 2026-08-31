@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 94,
+  "translation": "Ny olonao, Yahveh, no torotoroiny, ary ny lovanao no ampahoriny.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "ny olonao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "torotoroiny"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "ary ny lovanao"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ampahoriny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:04.963976930Z",
+  "model": "glm-5.3"
+}

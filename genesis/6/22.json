@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary Noà nanao araka ny zavatra rehetra izay nandidian'i Elohim azy ⟨את⟩; dia toy izay no nataony.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ary Noà nanao"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noà"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "araka ny ... rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidian'i"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dia toy izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "no nataony"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:14.912266639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 67,
+  "translation": "Nanome ny vokatr'iny ny tany; Hitahy anay Elohim, Elohinay.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "Nanome"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ny vokatr'iny"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "Hitahy anay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohinay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:25.861144279Z",
+  "model": "glm-5.3"
+}

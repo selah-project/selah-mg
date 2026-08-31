@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 3:15",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary fahavamana no hataoko eo aminao sy ny vehivavy, sy eo anelanelan'ny taranakao sy ny taranany; izy no hanindry ny lohanao, ary ianao no hanindry ny ombany.",
+  "tokens": [
+    {
+      "surface": "ואיבה",
+      "gloss": "Ary fahavamana"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "no hataoko"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "eo aminao sy"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy eo anelanelan'ny"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "vehivavy"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy eo anelanelan'ny"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "taranakao"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy eo anelanelan'ny"
+    },
+    {
+      "surface": "זרעה",
+      "gloss": "taranany"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "ישופך",
+      "gloss": "no hanindry anao"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "lohanao"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ary ianao"
+    },
+    {
+      "surface": "תשופנו",
+      "gloss": "no hanindry azy"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ombany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:08.121229013Z",
+  "model": "glm-5.3"
+}

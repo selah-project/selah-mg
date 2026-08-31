@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ry zanak'olona, mandra-pahoviana no hataon'ny voninahitro fahamenarana? Tia zava-poana ianareo, mitady lainga. Selah.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "zanak'"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-pahoviana"
+    },
+    {
+      "surface": "מה",
+      "gloss": ""
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "voninahitro"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "fahamenarana"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "tia"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "zava-poana"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "mitady"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "lainga"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T18:13:01.126217871Z",
+  "model": "glm-5.3"
+}

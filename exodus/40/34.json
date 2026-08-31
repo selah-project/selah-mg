@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary ny rahona nanao fitafiana ⟨את⟩ ny trano fihaonana, ary ny voninahitr'i Yahveh naneno feno ⟨את⟩ ny trano-lay.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "nanao fitafiana"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ny rahona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny trano fihaonana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "trano"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ary ny voninahitra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "naneno feno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny trano-lay"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ny trano-lay"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:45.351814523Z",
+  "model": "glm-5.3"
+}

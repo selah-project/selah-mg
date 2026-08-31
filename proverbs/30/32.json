@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 30:32",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Raha nanao adala ianao tamin'ny fiakarana ny tenanao, na raha efa namolavala ianao, ataovy eo am-bavanao ny tananao.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "nanao adala ianao"
+    },
+    {
+      "surface": "בהתנשא",
+      "gloss": "tamin'ny fiakarana ny tenanao"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na raha"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "efa namolavala ianao"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ataovy eo am-bavanao ny tananao"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "am-bavanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:57:55.025565652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 16:5",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary hoy izy: Fiadanana; avy hanatitra fanatitra amin'i Yahveh aho; masinavao, ary midira amiko ⟨את⟩ amin'ny fanatitra. Dia namasina ⟨את⟩ an'i Yishai sy ⟨את⟩ ny zanany izy, ary niantso azy ho amin'ny fanatitra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ary hoy izy"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fiadanana"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "hanatitra fanatitra"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "amin'i Yahveh"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "avy aho"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "masinavao"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "ary midira"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "amiko ⟨את⟩"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "amin'ny fanatitra"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "dia namasina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yishai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ary niantso"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ho amin'ny fanatitra"
+    }
+  ],
+  "timestamp": "2026-08-31T14:20:15.491344979Z",
+  "model": "glm-5.3"
+}

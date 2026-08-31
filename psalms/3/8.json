@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Mitsangàna, ry Yahveh; vonjeo aho, ry Eloahiko; fa efa namely ⟨את⟩ ny fahavalo rehetra ianao — ⟨tamin'ny⟩ takolany; ny nifin'ny ratsy fanahy no noravanao.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Mitsangàna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "vonjeo aho"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ry Eloahiko (Andriamanitro)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "efa namely ianao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahavalo rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ny fahavalo"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "takolany"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ny nify"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "noravanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:05.041707278Z",
+  "model": "glm-5.3"
+}

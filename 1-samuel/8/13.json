@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 8:13",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary ⟨את⟩ ny zanakavinareo dia halainy ho mpitoto zava-manitra, ho mpahandro hena, ary ho mpamofo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zanakavinareo"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "zanakavinareo"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "halainy"
+    },
+    {
+      "surface": "לרקחות",
+      "gloss": "ho mpitoto zava-manitra"
+    },
+    {
+      "surface": "ולטבחות",
+      "gloss": "ho mpahandro hena"
+    },
+    {
+      "surface": "ולאפות",
+      "gloss": "ary ho mpamofo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:15:51.718056030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 5:6",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ny lalan'ny fiainana ⟨tsy⟩ noheveriny, fa mihovitrovitra ny lalany, ka tsy fantany ⟨izany⟩.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "fiainana"
+    },
+    {
+      "surface": "פן",
+      "gloss": "⟨tsy⟩"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "noheveriny"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "mihovitrovitra"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "lalany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "fantany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:43.726298259Z",
+  "model": "glm-5.3"
+}

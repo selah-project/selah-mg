@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary hoy ny mpanjakan'i Yisraela tamin'i Elisha, rehefa nahatahiratra ⟨את⟩ azy: Raiko, mahaty aho, mahaty ⟨את⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ary hoy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ny mpanjakan'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "rehefa nahatahiratra"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "mahaty"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "mahaty"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Raiko"
+    }
+  ],
+  "timestamp": "2026-08-31T14:53:05.576356994Z",
+  "model": "glm-5.3"
+}

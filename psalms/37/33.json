@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Yahveh tsy hamela azy ao an-tànany, ary tsy hahameloka azy rehefa ⟨no⟩ fitsarana azy.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "hamela azy"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ao an-tànany"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "hahameloka azy"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "rehefa fitsarana azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:48.430671540Z",
+  "model": "glm-5.3"
+}

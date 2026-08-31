@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "⟨Tena izy⟩: ny vavan'ny mpanjaka tandremo, ary noho ny fianiana natao tamin'i Elohim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "⟨Tena izy⟩"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ny vavan'ny"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "tandremo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ary noho ny"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "fianiana"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "natao tamin'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:08.473403211Z",
+  "model": "glm-5.3"
+}

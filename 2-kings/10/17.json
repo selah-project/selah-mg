@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary tonga tao Shomeron izy ka namely ⟨את⟩ izay sisa rehetra tamin'ny an'i Ahab tao Shomeron, mandra-pahafaty azy tanteraka, araka ny tenin'i Yahveh izay nolazainy tamin'i Eliyahu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "namely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay sisa rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "izay sisa"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "tamin'ny an'i Ahab"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "tao Shomeron"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-pahafaty"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "afaty azy tanteraka"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "araka ny tenin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nolazainy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-08-31T14:54:46.742932057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 115,
+  "translation": "Fa ny Elohiny ⟨⟨dia⟩⟩ ao amin'ny lanitra; izay rehetra tiany dia nataony.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Fa ny Elohim antsika"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ao amin'ny lanitra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "tiany"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dia nataony"
+    }
+  ],
+  "timestamp": "2026-08-31T18:35:28.488106899Z",
+  "model": "glm-5.3"
+}

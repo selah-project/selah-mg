@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 2:4",
+  "book": "malachi",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Dia ho fantatrareo fa naniraka tany aminareo aho ⟨amin'ny⟩ ⟨את⟩ ity didy ity, mba hitoetra ho fanekiko ⟨את⟩ tamin'i Levi — hoy Yahveh Tsevaot.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "Dia ho fantatrareo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "naniraka"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "tany aminareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ity didy ity"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "didy"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ity"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "mba hitoetra ho"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "fanekiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levi"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-08-31T16:21:55.925213010Z",
+  "model": "glm-5.3"
+}

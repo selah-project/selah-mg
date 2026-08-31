@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 21:36",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary avy amin'ny foko Reobena: ⟨את⟩ Betsera sy ⟨את⟩ ny tany manodidina azy, ⟨את⟩ Yahatsa sy ⟨את⟩ ny tany manodidina azy.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Ary avy amin'ny foko"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reobena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betsera"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betsera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tany manodidina azy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ny tany manodidina azy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Yahatsa"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Yahatsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tany manodidina azy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ny tany manodidina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:02:32.521113944Z",
+  "model": "glm-5.3"
+}

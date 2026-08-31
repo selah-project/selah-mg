@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 86,
+  "translation": "Fa lehibe ny hesed-nao amiko, ary efa namonjy ny ainaiko ianao tamin'ny Sheol any ambany.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ny hesed-nao"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "ary efa namonjy"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny ainaiko"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "tamin'ny Sheol"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "any ambany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:58.403717332Z",
+  "model": "glm-5.3"
+}

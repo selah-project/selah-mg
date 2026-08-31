@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Dia hoy izaho tamin'ny anjely mpiteny tamiko: Inona ireo? Dia namaly izy nanao tamiko hoe: Ireo no tandroka izay nampanjavozavo ⟨את⟩ an'i Yehudah sy ⟨את⟩ ny Isiraely sy Yeroshalayim.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Dia hoy izaho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ny anjely"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mpiteny"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Inona"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dia namaly izy"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ireo"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "no tandroka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "nampanjavozavo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Isiraely"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ny Isiraely"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "sy Yeroshalayim"
+    }
+  ],
+  "timestamp": "2026-08-31T16:19:45.385226879Z",
+  "model": "glm-5.3"
+}

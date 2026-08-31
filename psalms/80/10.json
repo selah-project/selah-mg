@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 80,
+  "translation": "Nofilanao ⟨את⟩ ny toerana teo anoloany, ka naka faka lalina ny fakany, ary naneno ny tany izy.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "nofilanao"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "teo anoloany"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "ka naka faka lalina"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "ny fakany"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ary naneno"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:29.119255770Z",
+  "model": "glm-5.3"
+}

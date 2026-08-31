@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Ary nampifanaraka ⟨את⟩ ny fitaratra dimy, iray tamin'ny iray; ary ny fitaratra dimy hafa nampifanaraka iray tamin'ny iray.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "Ary nampifanaraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitaratra dimy"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "dimy"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "fitaratra"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "iray"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "iray"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ary dimy"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "fitaratra"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "nampifanaraka"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "iray"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "iray"
+    }
+  ],
+  "timestamp": "2026-08-31T13:09:50.678503631Z",
+  "model": "glm-5.3"
+}

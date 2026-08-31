@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Amin'ny noana no hanavotra anao amin'ny fahafatesana, ary amin'ny ady amin'ny tànana ny sabatra.",
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "Amin'ny noana"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "no hanavotra anao"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "amin'ny fahafatesana"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "ary amin'ny ady"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "amin'ny tànana"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ny sabatra"
+    }
+  ],
+  "timestamp": "2026-08-31T17:00:25.604443439Z",
+  "model": "glm-5.3"
+}

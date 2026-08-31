@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary nitora-bato tamin'i Davida ⟨את⟩ sy tamin'ny mpanompon'ny mpanjaka Davida ⟨את⟩ izy rehetra, ary ny vahoaka rehetra sy ny lehilahy mahery rehetra teo amin'ny ankaviany sy ny ankavanany.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "Ary nitora-bato tamin'i"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "vato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mpanompon'ny mpanjaka Davida rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mpanompon'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ... rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ... rehetra"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "ny lehilahy mahery"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "teo amin'ny ankaviany"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "sy ny ankavanany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:03:15.934157054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 146,
+  "translation": "Miderà an'i Yah, ry fanahiko; miderà ⟨את⟩ an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "miderà"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "miderà"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "fanahiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:13.091144635Z",
+  "model": "glm-5.3"
+}

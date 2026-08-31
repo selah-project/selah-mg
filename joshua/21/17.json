@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary avy amin'ny foko-n'i Binjamin ⟨את⟩ Gibeon sy ⟨את⟩ ny tany malalaka manodidina azy, ⟨את⟩ Geba sy ⟨את⟩ ny tany malalaka manodidina azy.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Ary avy amin'ny foko"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibeon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tany malalaka manodidina azy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ny tany malalaka manodidina azy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tany malalaka manodidina azy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ny tany malalaka manodidina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:02:40.538303893Z",
+  "model": "glm-5.3"
+}

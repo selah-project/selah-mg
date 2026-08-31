@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 12:5",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary niady tamin'ny anjely izy ka naharesy ⟨azy⟩; nitomany izy ka nifona taminy; tao Betela no hitan'i Yahveh azy, ary tao no niresahany ⟨tamintsika⟩",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "niady"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "anjely"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "ka naharesy"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "nitomany"
+    },
+    {
+      "surface": "ויתחנן",
+      "gloss": "ka nifona"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ela"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "no hitan'i Yahveh azy"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ary tao"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "no niresahany"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "tamintsika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:09:04.141371616Z",
+  "model": "glm-5.3"
+}

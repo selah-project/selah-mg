@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary nanao ⟨את⟩ ny tsorakazo amin'ny hazo akasià izy, ary nopoteiny tamin'ny volamena izy ireo, hitondrana ⟨את⟩ ny latabatra.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tsorakazo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ny tsorakazo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hazo amin'ny"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasià (shittim)"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "nopoteiny tamin'ny"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "volamena (ilay voapotsy)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "hitondrana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny latabatra"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ny latabatra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:09:21.891305912Z",
+  "model": "glm-5.3"
+}

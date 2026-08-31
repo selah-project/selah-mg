@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nanorina ⟨את⟩ i Bet-Horona Ambony sy ⟨את⟩ i Bet-Horona Ambany izy — tanàna mimanda, manda, vavahady ary baria.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "nanorina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Horona Ambony"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horona"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "Ambony"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Horona Ambany"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horona"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "Ambany"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "mimanda"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "manda"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "vavahady"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "sy baria"
+    }
+  ],
+  "timestamp": "2026-08-31T17:45:51.809070888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Fihirana nataon'i David, fony nandositra tamin'ny tavan'i Avshaloma zanany izy.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Fihirana"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nataon'i David"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "fony nandositra"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tamin'ny tavan'"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshaloma"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:58.153301513Z",
+  "model": "glm-5.3"
+}

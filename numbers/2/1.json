@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary Yahveh niteny tamin'i Moshe sy tamin'i Aharon, hoe:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "niteny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sy tamin'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T13:23:59.306655934Z",
+  "model": "glm-5.3"
+}

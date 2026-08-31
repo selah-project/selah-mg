@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 130,
+  "translation": "Nandrika tamin'i Yahveh aho, nandrika ny fanahiko, ary ny teniny no andrasako.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "nandrika (aho)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "nandrika"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny fanahiko"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "ary ny teniny"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "andrasako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:59.257306051Z",
+  "model": "glm-5.3"
+}

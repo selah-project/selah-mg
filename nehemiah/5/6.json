@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 5:6",
+  "book": "nehemiah",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary tezitra be aho nony reko ⟨את⟩ ny fitarainany sy ⟨את⟩ ireo teny ireo.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ary tezitra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aho"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "be"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nony"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "reko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitarainany"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "ny fitarainany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ireo teny ireo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ireo teny ireo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:30:50.114948268Z",
+  "model": "glm-5.3"
+}

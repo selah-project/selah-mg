@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 69,
+  "translation": "Hafafanao amin'ny bokin'ny velona izy ⟨izy⟩, ary aza voasoratra miaraka amin'ny marina.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "hafafanao"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "amin'ny boky"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ny velona"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ary miaraka amin'ny"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ny marina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "voasoratra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:38.067770696Z",
+  "model": "glm-5.3"
+}

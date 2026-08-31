@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary nomena ho azy ireo ⟨את⟩ Hebrona ao amin'ny tany Joda, sy ⟨את⟩ ny tany malalaka manodidina azy.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Ary nomena"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho azy ireo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebrona"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebrona"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ao amin'ny tany"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Joda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tany malalaka manodidina azy"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ny tany malalaka"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "manodidina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:35:45.555751060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 7:25",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Nivodika aho sy ny foko hahalala sy hitady ary hikaroka fahendrena sy ny hevitra, ary hahalala ny ratsin'ny fahadonana sy ny fahalegeran'ny fahatokerana.",
+  "tokens": [
+    {
+      "surface": "סבותי",
+      "gloss": "Nivodika"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aho"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "sy ny foko"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "hahalala"
+    },
+    {
+      "surface": "ולתור",
+      "gloss": "sy hitady"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "ary hikaroka"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "fahendrena"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "sy ny hevitra"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "ary hahalala"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ny ratsin'ny"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "fahadonana"
+    },
+    {
+      "surface": "והסכלות",
+      "gloss": "sy ny fahalegeran'ny"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "fahatokerana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:17:21.466528846Z",
+  "model": "glm-5.3"
+}

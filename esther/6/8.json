@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 6:8",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ampiaisao fitafiana mpanjaka izay efa natafin'ny mpanjaka, ary soavaly izay efa nodidian'ny mpanjaka, ary fametrahana fiakanjo mpanjaka eo an-dohany.",
+  "tokens": [
+    {
+      "surface": "יביאו",
+      "gloss": "Ampiaisao"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "fitafiana"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "efa natafin'"
+    },
+    {
+      "surface": "בו",
+      "gloss": "(natafineh)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "ary soavaly"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "efa nodidian'"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "(nodidian'ny mpanjaka azy)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ary"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "fametrahana"
+    },
+    {
+      "surface": "כתר",
+      "gloss": "fiakanjo"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "eo an-dohany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:18:22.867816107Z",
+  "model": "glm-5.3"
+}

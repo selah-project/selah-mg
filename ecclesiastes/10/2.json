@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Fon'ny hendry eo ankavanany ⟨⟨fa⟩⟩ fon'ny adala eo ankaviany.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ny hendry"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "eo ankavanany"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "fa fo"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ny adala"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "eo ankaviany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:29.181761136Z",
+  "model": "glm-5.3"
+}

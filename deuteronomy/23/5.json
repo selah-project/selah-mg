@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 23:5",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Noho izay tsy nandray ⟨את⟩ anareo tamin'ny mofo sy rano teny an-dalana, fony ianareo nivoaka avy tany Mitsrayim, sy noho ny nanofany hiady aminao ⟨את⟩ an'i Bilama zanak'i Beora, avy any Pthora any Arama-Naharayim, hanba anao.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Noho"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "nandray"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo",
+      "marks": "anareo"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "tamin'ny mofo"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "sy rano"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "teny an-dalana"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "fony ianareo nivoaka"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "avy tany Mitsrayim"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "sy noho"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ny nanofany"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "hiady aminao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Bilama"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "an'i Bilama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beora"
+    },
+    {
+      "surface": "מפתור",
+      "gloss": "avy any Pthora"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharayim"
+    },
+    {
+      "surface": "לקללך",
+      "gloss": "hanba anao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:49:32.934168828Z",
+  "model": "glm-5.3"
+}

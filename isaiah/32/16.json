@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ary hitoetra ao amin'ny efitra ny fitsarana, ary hitoetra amin'ny tany mamokatra ny fahamarinana.",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "Ary hitoetra"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ao amin'ny efitra"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ny fitsarana"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ary ny fahamarinana"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "amin'ny tany mamokatra"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "hitoetra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:10:30.858363041Z",
+  "model": "glm-5.3"
+}

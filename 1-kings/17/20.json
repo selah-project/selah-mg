@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 17:20",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary niantso tamin'i Yahveh izy ka nanao hoe: Yahveh, Elohiko, va ianao koa no manao ratsy ny mpitondra tena, ilay itoerako, ka mahafaty ⟨את⟩ ny zanany?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ary niantso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohiko"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "va ianao koa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ny"
+    },
+    {
+      "surface": "האלמנה",
+      "gloss": "mpitondra tena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aho"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "itoerako"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "eo anivany"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "manao ratsy"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "mahafaty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ny zanany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:48:05.377277410Z",
+  "model": "glm-5.3"
+}

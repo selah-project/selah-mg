@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Nahoana no mandina ianao, ry aiko, ary miboringina amiko? Manantena an'i Elohim ianao; fa mbola hankalaza Azy aho, fanafody ny tavany.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Nahoana"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "mandina ianao"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ry aiko"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "ary miboringina"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "Manantena ianao"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "an'i Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mbola"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "hankalaza Azy aho"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "fanafody"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ny tavany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:32.263950957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nalainy ho dimy arivo lahy, ka nataony ⟨את⟩ ho fihantsana teo anelanelan'i Bet-El sy ⟨ny⟩ Ay, eo andrefan'ny tanàna.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ary nalainy"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "arivo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lahy"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ka nataony"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ azy ireo",
+      "marks": "azy ireo — dimy arivo lahy"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "ho fihantsana"
+    },
+    {
+      "surface": "בין",
+      "gloss": "teo anelanelan'ny"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ny Ay"
+    },
+    {
+      "surface": "מים",
+      "gloss": "eo andrefan'ny"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "tanàna"
+    }
+  ],
+  "timestamp": "2026-08-31T13:57:54.421746781Z",
+  "model": "glm-5.3"
+}

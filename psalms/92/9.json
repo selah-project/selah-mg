@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 92,
+  "translation": "Fa ianao kosa, Yahveh, dia avo ⟨⟨⟩⟩ mandrakizay.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "fa ianao kosa"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "avo"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:01.392724490Z",
+  "model": "glm-5.3"
+}

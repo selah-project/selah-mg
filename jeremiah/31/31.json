@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 31:31",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Indro, andro avy, filazan'i Yahveh, fa izay ho nanao ⟨את⟩ amin'ny taranak'Isiraely sy ⟨את⟩ amin'ny taranak'i Yehudah fanekena vaovao.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "באים",
+      "gloss": "avy"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "filazan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וכרתי",
+      "gloss": "fa izay ho nanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taranak'Isiraely"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taranaka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "taranak'i Yehudah"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taranaka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "fanekena"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "vaovao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:36:28.990195095Z",
+  "model": "glm-5.3"
+}

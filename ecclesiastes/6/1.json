@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Misy loza izay hitako ambanin'ny masoandro, ary mavesatra izany amin'ny olombanona.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Misy"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "loza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "hitako"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ambanin'"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ny masoandro"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ary mavesatra"
+    },
+    {
+      "surface": "היא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ny olombanona"
+    }
+  ],
+  "timestamp": "2026-08-31T18:17:21.958246017Z",
+  "model": "glm-5.3"
+}

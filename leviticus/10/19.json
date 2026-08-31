@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 10:19",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary niteny i Aharon tamin'i Moshe: Indro, androany no nanatitra ⟨את⟩ ny fanatitra fahotany sy ⟨את⟩ ny fanatitra dorany teo anatrehan'i Yahveh, ary toy izao no efa nahazo ahy; ka raha mihinana fanatitra fahotana androany aho, moa ho tsara izany eo imason'i Yahveh?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ary niteny"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "היום",
+      "gloss": "androany"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "no nanatitra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanatitra fahotany"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "ny fanatitra fahotany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩"
+    },
+    {
+      "surface": "עלתם",
+      "gloss": "ny fanatitra dorany"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anatrehan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ותקראנה",
+      "gloss": "ary efa nahazo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ahy"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "toy izao"
+    },
+    {
+      "surface": "ואכלתי",
+      "gloss": "ka raha mihinana"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "fanatitra fahotana"
+    },
+    {
+      "surface": "היום",
+      "gloss": "androany"
+    },
+    {
+      "surface": "הייטב",
+      "gloss": "ho tsara"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "eo imason'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:13:59.954290346Z",
+  "model": "glm-5.3"
+}

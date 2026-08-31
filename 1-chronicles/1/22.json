@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "ary ⟨את⟩ Eval sy ⟨את⟩ Abimaela ary ⟨את⟩ Sheva",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Eval"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eval"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Abimaela"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Abimaela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-08-31T17:33:36.095275169Z",
+  "model": "glm-5.3"
+}

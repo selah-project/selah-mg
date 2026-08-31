@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 109,
+  "translation": "Fa malahelo sy kenaka aho, ary naratra ny foko ao anatiko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "malahelo"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "sy kenaka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aho"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "ary ny foko"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "naratra"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ao anatiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:29.805719152Z",
+  "model": "glm-5.3"
+}

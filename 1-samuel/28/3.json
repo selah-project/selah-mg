@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Ary Samoela efa maty, ary nisaizany azy ny Isiraely rehetra, dia nalevina tao Rama, tao amin'ny tanàny. Ary Shaola nanesotra ny mpanao obo sy ⟨את⟩ ny mpamoky hevitra hafa tamin'ny tany.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "ary Samoela"
+    },
+    {
+      "surface": "מת",
+      "gloss": "efa maty"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "nisaizany"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny Isiraely rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": ""
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "nalevina"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "tao Rama"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "tao amin'ny tanàny"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Ary Shaola"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "nanesotra"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ny mpanao obo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpamoky hevitra hafa"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "ny mpamoky hevitra hafa"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "tamin'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:26:52.370928609Z",
+  "model": "glm-5.3"
+}

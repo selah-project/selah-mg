@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Mampianatra ahy, Yahveh, ny lalan'ny didinao, ary hitahiry azy aho hatramin'ny farany.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Mampianatra ahy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ny lalan'ny"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "didinao"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "ary hitahiry azy aho"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "hatramin'ny farany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:51.482314315Z",
+  "model": "glm-5.3"
+}

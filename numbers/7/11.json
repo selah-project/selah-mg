@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary Yahveh niteny tamin'i Moshe hoe: Iray isan'andro — iray isan'andro — no hanao ⟨את⟩ ny fanatiny ny loholona, ho an'ny fanokanana ny alitara.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "niteny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "loholona iray"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "isan'andro"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "loholona iray"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "isan'andro"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanatiny"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "ny fanatiny"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "ho an'ny fanokanana"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ny alitara"
+    }
+  ],
+  "timestamp": "2026-08-31T13:26:31.086705774Z",
+  "model": "glm-5.3"
+}

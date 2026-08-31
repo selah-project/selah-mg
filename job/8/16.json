@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 8:16",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Maitso mamiratra izy eo anatrehan'ny masoandro, ary mivoaka eo amin'ny zaridainany ny tsimokany.",
+  "tokens": [
+    {
+      "surface": "רטב",
+      "gloss": "maitso mamiratra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anatrehan'ny"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "masoandro"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ary eo amin'ny"
+    },
+    {
+      "surface": "גנתו",
+      "gloss": "zaridainany"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "tsimoka"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "mivoaka"
+    }
+  ],
+  "timestamp": "2026-08-31T17:00:00.865442466Z",
+  "model": "glm-5.3"
+}

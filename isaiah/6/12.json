@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary Yahveh haneso ⟨את⟩ ny olona lavitra, ary ho be ny nolavina ⟨teo⟩ afovoan'ny tany.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "haneso lavitra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny olona"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ho be"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "ny nolavina"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "afovoan'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:03:37.597381510Z",
+  "model": "glm-5.3"
+}

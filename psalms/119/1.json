@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Sambatra ny mahitsy eo amin'ny lalana, izay mandeha amin'ny lalàn'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Sambatra"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "ny mahitsy"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "eo amin'ny lalana"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "izay mandeha"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "amin'ny lalàn'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:50.727372061Z",
+  "model": "glm-5.3"
+}

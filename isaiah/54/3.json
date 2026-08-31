@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 54:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 54,
+  "translation": "Fa hitetezanao ankavanana sy ankavia, ary ny taranakao handova firenena, ary ny tanàna voafafa honenina indray.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ankavanana"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "sy ankavia"
+    },
+    {
+      "surface": "תפרצי",
+      "gloss": "hitetezanao"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "ary ny taranakao"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "handova"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "ary ny tanàna"
+    },
+    {
+      "surface": "נשמות",
+      "gloss": "voafafa"
+    },
+    {
+      "surface": "יושיבו",
+      "gloss": "honenina indray"
+    }
+  ],
+  "timestamp": "2026-08-31T15:19:15.053488642Z",
+  "model": "glm-5.3"
+}

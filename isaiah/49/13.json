@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 49:13",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 49,
+  "translation": "Mihira, ry lanitra, ary mifalia, ry tany; mipoaka hira, ry tendrombohitra: fa efa nampionona i Yahveh ny olony, ary izay ory ⟨dia⟩ hamindram-po.",
+  "tokens": [
+    {
+      "surface": "רנו",
+      "gloss": "mihira"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ry lanitra"
+    },
+    {
+      "surface": "וגילי",
+      "gloss": "ary mifalia"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ry tany"
+    },
+    {
+      "surface": "יפצחו",
+      "gloss": "mipoaka hira"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ry tendrombohitra"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "hira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "efa nampionona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ny olony"
+    },
+    {
+      "surface": "ועניו",
+      "gloss": "ary izay ory"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "hamindram-po"
+    }
+  ],
+  "timestamp": "2026-08-31T15:17:00.831140687Z",
+  "model": "glm-5.3"
+}

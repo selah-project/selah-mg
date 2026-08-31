@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 49,
+  "translation": "Avy amin'El rainao ⟨את⟩ sy Shadday izay hanampy anao sy hitso-drano anao — fitsofan'ny lanitra avy any ambony, fitsofan'ny lalina miondrika eo ambany, fitsofan'ny nono sy ny kibo.",
+  "tokens": [
+    {
+      "surface": "מאל",
+      "gloss": "Avy amin'El"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "rainao"
+    },
+    {
+      "surface": "ויעזרך",
+      "gloss": "izay hanampy anao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shadday"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "ויברכך",
+      "gloss": "sy hitso-drano anao"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "fitsofan'ny"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "lanitra"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "avy any ambony"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "fitsofan'ny"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "lalina"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "miondrika"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "eo ambany"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "fitsofan'ny"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "nono"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "sy ny kibo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:54:22.557260439Z",
+  "model": "glm-5.3"
+}

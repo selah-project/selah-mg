@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 124,
+  "translation": "dia ny rano no efa nanafotra anay, ny renirano nitafoina tamboho ny aina;",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "dia"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ny rano"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "nanafotra anay"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ny renirano"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nitafoina"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamboho"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ny aina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:59.693147435Z",
+  "model": "glm-5.3"
+}

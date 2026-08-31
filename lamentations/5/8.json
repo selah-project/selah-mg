@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Mpanompo no nanapaka tamintsika, ary tsy misy mpanafaka amin'ny tànany.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "Mpanompo"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "no nanapaka"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "tamintsika"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "mpanafaka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "amin'ny tànany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:16:44.683600874Z",
+  "model": "glm-5.3"
+}

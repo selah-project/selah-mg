@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nalainy ⟨את⟩ ny loholohan'ny tanàna sy ⟨את⟩ tsilo an'efitra sy ⟨את⟩ ny tsilo-mafy; ary nampanaivy teo amin'ireo ⟨izy⟩ ⟨את⟩ lehilahin'i Sukota.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nalainy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny loholohan'ny tanàna"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "loholohan'ny"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tsilo an'efitra"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "tsilo"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "an'efitra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tsilo-mafy"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "tsilo-mafy"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "nampanaivy"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "teo amin'ireo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lehilahin'i Sukota"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "lehilahin'i"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukota"
+    }
+  ],
+  "timestamp": "2026-08-31T14:08:02.464246486Z",
+  "model": "glm-5.3"
+}

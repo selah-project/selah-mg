@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 57,
+  "translation": "Ny aiko dia eo ampovoan'ny liona; mandry aho eo anivon'ireo mirehitra ⟨את⟩ — zanak'olona; ny nifiny dia lefona sy zana-tsipìka, ary ny lelany dia sabatra maranitra.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "eo ampovoan'"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "liona"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "mandry aho"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "ireo mirehitra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ny nifiny"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "lefona"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "sy zana-tsipìka"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "ary ny lelany"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabatra"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "maranitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:19.383275369Z",
+  "model": "glm-5.3"
+}

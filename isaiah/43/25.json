@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 43,
+  "translation": "Izaho, izaho mihitsy no mamafa ny fikomianao ho an'ny tenantsako, ary ny fahotanao dia tsy hotsarovako.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "izaho mihitsy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "mamafa"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "ny fikomianao"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "ho an'ny tenantsako"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "ary ny fahotanao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "hotsarovako"
+    }
+  ],
+  "timestamp": "2026-08-31T15:15:41.800577787Z",
+  "model": "glm-5.3"
+}

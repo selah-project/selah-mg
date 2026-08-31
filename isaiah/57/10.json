@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 57,
+  "translation": "Visatra ianao tamin'ny haben'ny lalanao, nefa tsy nanao hoe: Very fanantenana aho; nahita velona tamin'ny tananao ianao, koa noho izany tsy nandroka.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "tamin'ny habeny"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ny lalanao"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "visatra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "very fanantenana aho"
+    },
+    {
+      "surface": "חית",
+      "gloss": "velona"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tamin'ny tananao"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "nahita"
+    },
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "nandroka"
+    }
+  ],
+  "timestamp": "2026-08-31T15:19:59.891705525Z",
+  "model": "glm-5.3"
+}

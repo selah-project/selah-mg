@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "ary hampoditsika ⟨את⟩ ny fiaran'i Elohimnta ho eto amintsika; fa tsy nohazontsika izy tamin'ny andron'i Shaola.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "hampoditsika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiaran'i Elohimnta"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fiarana"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimnta"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "eto amintsika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "nohazontsika izy"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "tamin'ny andron'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaola"
+    }
+  ],
+  "timestamp": "2026-08-31T17:38:07.011705217Z",
+  "model": "glm-5.3"
+}

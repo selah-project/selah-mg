@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary ratsy teo imason'ny Elohim ilay zavatra, ka namely ⟨את⟩ Isiraely Izy.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "teo imason'ny"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "momba"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "zavatra"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "namely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraely"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    }
+  ],
+  "timestamp": "2026-08-31T17:39:22.276211864Z",
+  "model": "glm-5.3"
+}

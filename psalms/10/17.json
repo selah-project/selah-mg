@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ny fanirian'ny mpietena efa renao, ry Yahveh; manamafy ny fony ianao, manitsongadina ny sofinao hihainoana.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "ny fanirian"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ny mpietena"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "efaq renao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "manamafy"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ny fony"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "manitsongadina hihainoana"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ny sofinao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:53.045057862Z",
+  "model": "glm-5.3"
+}

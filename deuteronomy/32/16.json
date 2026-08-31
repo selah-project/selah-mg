@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 32:16",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "They provoked him to jealousy with strange ones; with abominations they provoked him to wrath.",
+  "tokens": [
+    {
+      "surface": "יקנאהו",
+      "gloss": "They provoked him to jealousy"
+    },
+    {
+      "surface": "בזרים",
+      "gloss": "with strange ones"
+    },
+    {
+      "surface": "בתועבת",
+      "gloss": "with abominations"
+    },
+    {
+      "surface": "יכעיסהו",
+      "gloss": "they provoked him to wrath"
+    }
+  ],
+  "timestamp": "2026-08-31T13:52:05.807236289Z",
+  "model": "glm-5.3"
+}

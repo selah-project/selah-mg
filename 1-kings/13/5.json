@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 13:5",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary ny alitara nivaky, ka nalatsaka ny lavenona avy amin'ny alitara, araka ny famantarana nomen'ny lehilahin'ny Elohim amin'ny tenin'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "והמזבח",
+      "gloss": "Ary ny alitara"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "nivaky"
+    },
+    {
+      "surface": "וישפך",
+      "gloss": "ka nalatsaka"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "ny lavenona"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "כמופת",
+      "gloss": "araka ny famantarana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nomen'ny"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahin'ny"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "amin'ny tenin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T14:45:49.160422625Z",
+  "model": "glm-5.3"
+}

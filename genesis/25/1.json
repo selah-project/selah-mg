@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary Avraham nanampy ka naka vady, ary Keturah no anarany.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "nanampy ka"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "naka vady"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vady"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ary anarany"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keturah"
+    }
+  ],
+  "timestamp": "2026-08-31T12:41:43.379649538Z",
+  "model": "glm-5.3"
+}

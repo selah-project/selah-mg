@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Izay notsoahan'i Yahveh Tsevaot tamin'ny fiteny hoe: Notsoahina ny oloko Mitsrayim, ary Assora asan'ny tànako, ary Isiraely lovako.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Izay"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "notsoahan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "tamin'ny fiteny hoe"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Notsoahina"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ny oloko"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ary asan'"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ny tànako"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assora"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "ary lovako"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    }
+  ],
+  "timestamp": "2026-08-31T15:06:21.590559574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Tsarovy ⟨את⟩ izay nataon'i Amalek taminao tamin'ny lalana, fony ianareo nivoaka avy tany Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Tsarovy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay nataon'i Amalek taminao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "לך",
+      "gloss": "taminao"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tamin'ny lalana"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "fony ianareo nivoaka"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "avy tany Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T13:49:22.322617202Z",
+  "model": "glm-5.3"
+}

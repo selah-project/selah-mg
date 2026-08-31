@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary ho an'ny anabaviny virijina, ilay mby akaiky aminy, izay tsy efa nanan-vady: ho azy no mahazo maloto izy.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "Ary ho an'ny anabaviny"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "virijina"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "ilay mby akaiky"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "nanan-vady"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "mahazo maloto"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:38.283155075Z",
+  "model": "glm-5.3"
+}

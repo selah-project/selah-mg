@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 40:9",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary ny lehiben'ny mpisotro told ny nofiny tamin'i Yosefa, ka nanao taminy hoe: Tao an-kofiniko, indro, dia nisy voalobely teo anoloako.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "told"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ny lehiben'ny"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "mpisotro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny nofiny"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "nofiny"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "tamin'i Yosefa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "בחלומי",
+      "gloss": "Tao an-kofiniko"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "voalobely"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anoloako"
+    }
+  ],
+  "timestamp": "2026-08-31T12:49:21.099764402Z",
+  "model": "glm-5.3"
+}

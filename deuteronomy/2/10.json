@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ny Haemim taloha nonina tao, firenena lehibe sy be tamby ary avo tahaka ny Anakima.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "Ny Haemim taloha"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "taloha"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nonina tao"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tao"
+    },
+    {
+      "surface": "עם",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "sy be tamby"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ary avo"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "tahaka ny Anakima"
+    }
+  ],
+  "timestamp": "2026-08-31T18:29:50.999052184Z",
+  "model": "glm-5.3"
+}

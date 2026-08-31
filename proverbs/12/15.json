@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ny lalan'ny adala mahitsy eo amin'ny masony, fa izay mihaino torohevitra no hendry.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ny lalan-"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ny adala"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "mahitsy"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "eo amin'ny masony"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "fa izay mihaino"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "torohevitra"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "hendry"
+    }
+  ],
+  "timestamp": "2026-08-31T16:52:44.109448299Z",
+  "model": "glm-5.3"
+}

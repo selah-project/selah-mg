@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 14:8",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Raha maty antitra ao amin'ny tany ny fakany, ary maty amin'ny vovoka ny vatany.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "maty antitra"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ao amin'ny tany"
+    },
+    {
+      "surface": "שרשו",
+      "gloss": "ny fakany"
+    },
+    {
+      "surface": "ובעפר",
+      "gloss": "ary amin'ny vovoka"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "maty"
+    },
+    {
+      "surface": "גזעו",
+      "gloss": "ny vatany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:01:56.960064834Z",
+  "model": "glm-5.3"
+}

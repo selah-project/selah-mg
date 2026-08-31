@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary ho fahatsiarovana anareo ity andro ity, ka hankalazaareo azy ho lane-ben'ny fiangonana ho an'i Yahveh; ho lalana mandrakizay amin'ny taranakareo no hankalazana azy.",
+  "tokens": [
+    {
+      "surface": "וְהָיָה֩",
+      "gloss": "Ary ho"
+    },
+    {
+      "surface": "הַיּ֨וֹם",
+      "gloss": "andro"
+    },
+    {
+      "surface": "הַזֶּ֤ה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "לָכֶם֙",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "לְזִכָּר֔וֹן",
+      "gloss": "fahatsiarovana"
+    },
+    {
+      "surface": "וְחַגֹּתֶ֥ם",
+      "gloss": "hankalazaareo"
+    },
+    {
+      "surface": "אֹת֖וֹ",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "חַ֣ג",
+      "gloss": "lane-ben'ny fiangonana"
+    },
+    {
+      "surface": "לַֽיהוָ֑ה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "לְדֹרֹ֣תֵיכֶ֔ם",
+      "gloss": "amin'ny taranakareo"
+    },
+    {
+      "surface": "חֻקַּ֥ת",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "עוֹלָ֖ם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "תְּחַגֻּֽהוּ",
+      "gloss": "hankalazana azy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:28:08.574160076Z",
+  "model": "glm-5.3"
+}

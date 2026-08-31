@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 68,
+  "translation": "Ny vahoakanao dia nonina tao; tamin'ny hatsaranao, ry Elohim, ianao no nanamboatra ho an'ny malahelo.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "ny vahoakanao"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "dia nonina"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tao"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "nanamboatra"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "tamin'ny hatsaranao"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ho an'ny malahelo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ry Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:00.787404159Z",
+  "model": "glm-5.3"
+}

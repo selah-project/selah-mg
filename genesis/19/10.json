@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary ny lehilahy nanitsy ⟨את⟩ tànany, ka nampiditra ⟨את⟩ Lot ho azy ho an-trano, ary ⟨את⟩ ny varavarana nidakitra.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "nanitsy"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ny lehilahy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tànany"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "tànany"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "nampiditra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ho an-trano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny varavarana"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ny varavarana"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "nidakitra"
+    }
+  ],
+  "timestamp": "2026-08-31T12:39:25.131029070Z",
+  "model": "glm-5.3"
+}

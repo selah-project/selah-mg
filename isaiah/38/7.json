@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Ary ity no famantarana ho anao ⟨את⟩ avy amin'i Yahveh, fa hataon'i Yahveh ⟨את⟩ ny teny izay nolazainy.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Ary ity"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "האות",
+      "gloss": "famantarana"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ avy amin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hataon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny teny"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nolazainy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:32:46.422307248Z",
+  "model": "glm-5.3"
+}

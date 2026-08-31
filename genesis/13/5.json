@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary Lot koa, izay nandeha tamin'i Avram, nanana ondry aman'osy sy omby ary laina.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "Lota"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "izay nandeha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "tamin'i Avram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nanana"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ondry aman'osy"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "sy omby"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "ary laina"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:31.825118908Z",
+  "model": "glm-5.3"
+}

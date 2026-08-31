@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 16:10",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Mideraka amin'ny anarany masina ianareo; mifalia ny fon'ny mitady an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "mideraka"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "amin'ny anarany"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "masina"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "mifalia"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ny fon'ny"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "mitady"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T19:01:47.031774897Z",
+  "model": "glm-5.3"
+}

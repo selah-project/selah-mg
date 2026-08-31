@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 138,
+  "translation": "Fihiran'i Davida. Hankalaza Anao amin'nyoko fanirianiko rehetra hianao; eo anatrehana ny Elohim hankaingo Anao.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Fihiran'i Davida"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "hankalaza Anao"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "foko fanirianiko"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "eo anatrehana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "hankaingo Anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:02.888251178Z",
+  "model": "glm-5.3"
+}

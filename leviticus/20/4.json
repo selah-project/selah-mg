@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary raha mifidy hanafina ny masony ny vahoakan'ny tany ka tsy hahita ⟨את⟩ amin'ilay lehilahy rehefa manome iray amin'ny zanany ho an'i Moleka ary tsy mamono azy,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ary raha"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "hanafina"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "mifidy hanafina"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "an'ny tany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny masony"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ny masony"
+    },
+    {
+      "surface": "מן",
+      "gloss": "amin'"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ilay lehilahy"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "rehefa manome"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "amin'ny zanany"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ho an'i Moleka"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "המית",
+      "gloss": "mamono"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:29:07.194475841Z",
+  "model": "glm-5.3"
+}

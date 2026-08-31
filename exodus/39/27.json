@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 39:27",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "Ary nanao ⟨את⟩ ireo akanjo anatiny lamba tsy voarefy, asan'ny mpandady, ho an'i Aharona sy ho an'ireo zanany izy.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ireo akanjo anatiny"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "ireo akanjo anatiny"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lamba tsy voarefy"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "asan'ny"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "mpandady"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ho an'i Aharona"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "sy ho an'ireo zanany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:17.863810529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Azaovy famaliana ny zanak'i Isiraely amin'ny Midianita; avy eo dia havoaka amin'ny olonao ianao.",
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "Azaovy famaliana"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "famalianana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "amin'ny Midianita"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "Midianita"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "avy eo"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "havoaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "olonao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:37:05.838817610Z",
+  "model": "glm-5.3"
+}

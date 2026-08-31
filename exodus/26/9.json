@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary ampiarahinao ⟨את⟩ ny lamba dimy irery, ary ⟨את⟩ ny lamba enina irery; ary avadibadinao ⟨את⟩ ny lamba fahenina eo anoloan'ny tarehin'ny lay.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "ampiarahinao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lamba dimy"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "dimy"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "lamba"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "irery"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lamba enina"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enina"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "lamba"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "irery"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "avadibadinao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lamba fahenina"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "lamba"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "fahenina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mankany"
+    },
+    {
+      "surface": "מול",
+      "gloss": "manoloana"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tarehin'"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "lay"
+    }
+  ],
+  "timestamp": "2026-08-31T13:04:26.618232595Z",
+  "model": "glm-5.3"
+}

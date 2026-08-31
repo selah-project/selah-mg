@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "sy ⟨את⟩ ny daah sy ⟨את⟩ ny ayyah araka ny karazany.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny daah"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "ny daah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny ayyah"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ny ayyah"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "araka ny karazany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:14:33.783185516Z",
+  "model": "glm-5.3"
+}

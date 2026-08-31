@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 11:19",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary hitan'i Hadad fitia tsara tamin'ny mason'i Parao indrindra, ka nomeny vady azy ⟨את⟩ rahavavin'ny vadiny, rahavavin'i Tahpenesa lehibe.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "hitan'i"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "חן",
+      "gloss": "fitia tsara"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "tamin'ny mason'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "indrindra"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nomeny"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rahavavin'ny vadiny"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "rahavavin'ny"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vadiny"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "rahavavin'i"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "Tahpenesa"
+    },
+    {
+      "surface": "הגבירה",
+      "gloss": "lehibe"
+    }
+  ],
+  "timestamp": "2026-08-31T14:44:40.634520645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Samy hatahotra ny reniny sy ny rainy avokoa ianareo, ary ny Sabatiko no hitandrina ⟨את⟩; Izaho Yahveh no Elohinareo.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Samy...avokoa ianareo"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ny reniny"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "sy ny rainy"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "hatahotra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny Sabatiko"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "ny Sabatiko"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "no hitandrina"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:18:05.009230414Z",
+  "model": "glm-5.3"
+}

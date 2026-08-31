@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 3:5",
+  "book": "micah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Izao no lazain'i Yahveh momba ny mpaminany mampanota ⟨את⟩ ny oloniko, dia izay mikitika amin'ny nifiny sady miantso fiadanana, saingy izay tsy manome ho an'ny vavany, dia manamasina ady amin'izy ireo.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "izao"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "lazain'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "על",
+      "gloss": "momba"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ny mpaminany"
+    },
+    {
+      "surface": "המתעים",
+      "gloss": "mampanota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny oloniko"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ny oloniko"
+    },
+    {
+      "surface": "הנשכים",
+      "gloss": "izay mikitika"
+    },
+    {
+      "surface": "בשניהם",
+      "gloss": "amin'ny nifiny"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "sady miantso"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fiadanana"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "saingy izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "manome"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho an'ny"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "vavany"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "manamasina"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "amin'izy ireo"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ady"
+    }
+  ],
+  "timestamp": "2026-08-31T16:14:34.293426698Z",
+  "model": "glm-5.3"
+}

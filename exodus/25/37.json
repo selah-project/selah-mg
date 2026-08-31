@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary hanao ⟨את⟩ ny fanatony fito ianao, ary hampiakatra ⟨את⟩ ny fanatony mba hanazava eo anoloany.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanatony"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ny fanatony"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "fito"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "hampiakatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanatony"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ny fanatony"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "hanazava"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "anoloan-"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "-ny (ny tavany)"
+    }
+  ],
+  "timestamp": "2026-08-31T13:04:09.087185756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary hoy izy ⟨ihany⟩: Rahampitso. Ary hoy izy: Araka ny teninao no hatao, mba ho fantatrao fa tsy misy mitovy amin'i Yahveh, Elohim antsika.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy izy"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "rahampitso"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ary hoy izy"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "araka ny teninao"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mba"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ho fantatrao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "mitovy amin'i Yahveh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim antsika"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:20.172152823Z",
+  "model": "glm-5.3"
+}

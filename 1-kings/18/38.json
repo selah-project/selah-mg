@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 18:38",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Dia latsaka ny afo Yahveh, ka nihinana ⟨את⟩ ny fanatitra dorana sy ⟨את⟩ ny hazo sy ⟨את⟩ ny vato sy ⟨את⟩ ny vovoka, ary ⟨את⟩ ny rano tao anaty lakandia no nelininy.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "dia latsaka"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ny afo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ka nihinana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanatitra dorana"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ny fanatitra dorana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny hazo"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ny hazo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny vato"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ny vato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny vovoka"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ny vovoka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny rano"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ny rano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tao anaty"
+    },
+    {
+      "surface": "בתעלה",
+      "gloss": "lakandia"
+    },
+    {
+      "surface": "לחכה",
+      "gloss": "nelininy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:49:00.199760186Z",
+  "model": "glm-5.3"
+}

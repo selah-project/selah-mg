@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 23:4",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Jereo: izaho efa nampiankindrina ho anareo ⟨את⟩ ireo firenena sisa tavela ireo ho lova ho an'ny foko samihafa aminareo, manomboka amin'i Yarden ka hatramin'ny ranomasina lehibe, izay fiposahan'ny masoandro, sy ny firenena rehetra izay efa notapahiko.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Jereo"
+    },
+    {
+      "surface": "הפלתי",
+      "gloss": "efa nampiankindrina"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ireo firenena"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "sisa tavela"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "ho lova"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "ho an'ny foko samihafa aminareo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manomboka amin'"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ... rehetra"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "efa notapahiko"
+    },
+    {
+      "surface": "והים",
+      "gloss": "ka hatramin'ny ranomasina"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "fiposahan'ny"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "masoandro"
+    }
+  ],
+  "timestamp": "2026-08-31T18:00:22.758140374Z",
+  "model": "glm-5.3"
+}

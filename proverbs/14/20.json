@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Na ny namany aza dia halan'ny malahelo, fa ny tia ny manan-karena dia be.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "ny namany aza"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "halan'ny"
+    },
+    {
+      "surface": "רש",
+      "gloss": "malahelo"
+    },
+    {
+      "surface": "ואהבבי",
+      "gloss": "fa ny tia"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "manan-karena"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "be"
+    }
+  ],
+  "timestamp": "2026-08-31T16:53:06.640107046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Ary hoy izahay taminy: Olona marina izahay; tsy mpifosaky izahay.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "hoy izahay"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tamininy"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "olona marina"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "izahay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "izahay ⟨no⟩"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "mpifosaky"
+    }
+  ],
+  "timestamp": "2026-08-31T12:50:44.885315844Z",
+  "model": "glm-5.3"
+}

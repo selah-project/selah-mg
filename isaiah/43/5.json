@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 43,
+  "translation": "Aza matahotra, fa ⟨את⟩-o anatina ianao; avy any atsinanana hitondra ny taranakao, ary avy any andrefana hampivory anao.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "matahotra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩-o anatina"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ianao (am-pon'ny fehezanteny: izaho)"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "avy any atsinanana"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "hitondra"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ny taranakao"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ary avy any andrefana"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "hampivory anao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:14:36.828973646Z",
+  "model": "glm-5.3"
+}

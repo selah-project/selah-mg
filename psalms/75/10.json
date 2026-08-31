@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 75,
+  "translation": "Fa izaho kosa hitory mandrakizay, hihira ho an'ny Elohin'i Yaakov.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Fa izaho kosa"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "hitory"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "hihira"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ho an'ny Elohin'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:24.809499879Z",
+  "model": "glm-5.3"
+}

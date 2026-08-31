@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 21:10",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Raha vavy hafa kosa no alainy ho an'ny tenany, ny sakafony, ny fitafiany, ary ny zo atanany aminy dia tsy azo ahena.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "hafa"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "no alainy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho an'ny tenany"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "ny sakafony"
+    },
+    {
+      "surface": "כסותה",
+      "gloss": "ny fitafiany"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "ary ny zo atanany aminy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "azo ahena"
+    }
+  ],
+  "timestamp": "2026-08-31T13:02:41.367532861Z",
+  "model": "glm-5.3"
+}

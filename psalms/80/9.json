@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 80,
+  "translation": "Gefen avy any Mitsrayim no nentinao nivoaka; nandroahanao ny firenena ⟨את⟩ ary nambolenao izy.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "gefen"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "avy any Mitsrayim"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "nentinao nivoaka"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "nandroahanao"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ny firenena"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "ary nambolenao izy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:29.118970235Z",
+  "model": "glm-5.3"
+}

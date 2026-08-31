@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary hisy ho faty ny rano avy amin'ny ranomasina, ary ho maina sy ho hondry ny ony.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "ho faty"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "avy amin'ny ranomasina"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "ary ny ony"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "ho maina"
+    },
+    {
+      "surface": "ובש",
+      "gloss": "ho hondry"
+    }
+  ],
+  "timestamp": "2026-08-31T15:07:32.854197412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Fa tsy nahatsiaro ⟨את⟩ Yosefa akory ilay sarin'ny mpisotro, fa nanadino azy.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nahatsiaro"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ilay sarin'ny"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "mpisotro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "fa nanadino azy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:48:44.735221283Z",
+  "model": "glm-5.3"
+}

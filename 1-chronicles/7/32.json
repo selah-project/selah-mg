@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary Heber niteraka ⟨את⟩ an'i Yaflet sy ⟨את⟩ Shomer sy ⟨את⟩ Hotam ary ⟨את⟩ Shoa rahavaviny.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "Ary Heber"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaflet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Yaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Shomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Shomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Hotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Hotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Shoa"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Shoa"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "rahavaviny"
+    }
+  ],
+  "timestamp": "2026-08-31T18:19:07.629344964Z",
+  "model": "glm-5.3"
+}

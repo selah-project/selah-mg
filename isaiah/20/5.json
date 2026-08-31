@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Rhora ary mena noho i Kush fanantenana ⟨an'izy⟩, sy noho i Mitsrayim voninahitra ⟨an'izy⟩.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "rhora"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "mena"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "fanantenana ⟨an'izy⟩"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "sy noho"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "voninahitra ⟨an'izy⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T15:07:15.275067664Z",
+  "model": "glm-5.3"
+}

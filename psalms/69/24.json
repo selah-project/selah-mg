@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 69,
+  "translation": "Hahalataba ny masony ka tsy mahita, ary ny valahany hihemotra mandrakariva.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "hahalataba"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ny masony"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "tsy mahita"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "ary ny valahany"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mandrakariva"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "hihemotra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:02.256923952Z",
+  "model": "glm-5.3"
+}

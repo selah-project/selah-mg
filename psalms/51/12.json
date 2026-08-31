@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "Fo madio no anaohy ao amiko, ry Elohim, ary fanahy mahitsy havaozinao ao anatiko.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Fo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "madio"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "anaohy (amoroy)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ao amiko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ry Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ary fanahy"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "mahitsy (matoky)"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "havaozinao"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ao anatiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:56.825987384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary nanoratra Moshe ⟨את⟩ ny Tora ity, ka nanolotra azy ho an'ny mpisorona, zanak'i Levi, izay mitondra ⟨את⟩ fiaran'ny faneken'i Yahveh, sy ho an'ny lohalaholon'ny Isiraely rehetra.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "nanoratra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Tora ity"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ny Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ity"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ka nanolotra azy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho an'ny"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "izay mitondra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiaran'ny fanekena"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "fanekena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sy ho an'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "lohalaholon'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    }
+  ],
+  "timestamp": "2026-08-31T13:53:05.145260098Z",
+  "model": "glm-5.3"
+}

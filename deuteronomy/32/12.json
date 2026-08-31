@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Yahveh irery ihany no nitondra azy, fa tsy nisy andriamani-tafika hafa tao aminy.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "irery ihany"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "nitondra azy"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "fa tsy nisy"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tao aminy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "andriamani-tafika hafa"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "hafa (vahiny)"
+    }
+  ],
+  "timestamp": "2026-08-31T13:51:24.901644468Z",
+  "model": "glm-5.3"
+}

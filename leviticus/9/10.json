@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary ⟨את⟩ ny tavy sy ⟨את⟩ ny voa sy ⟨את⟩ ilay taova eo amin'ny aty, avy amin'ny fanatitra ho an'ny fahotana, nodorany tamin'ny alitara, araka ny nandidian'i Yahveh an'i Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavy"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ny tavy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny voa"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ny voa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilay taova"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ilay taova"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "aty"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "fanatitra ho an'ny fahotana"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "nodorany"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "tamin'ny alitara"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidian'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-31T13:13:29.582150451Z",
+  "model": "glm-5.3"
+}

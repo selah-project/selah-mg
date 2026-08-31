@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Na dia mipetraka aza ny mpanapaka ka mandratsy teny ahy, ny mpanomponao kosa mieritreritra ary miresaka amin'ny didim-panjakanao.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Na dia... aza"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "mipetraka"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ny mpanapaka"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "mandratsy teny"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ny mpanomponao"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "mieritreritra ary miresaka"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "amin'ny didim-panjakanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:11.253600847Z",
+  "model": "glm-5.3"
+}

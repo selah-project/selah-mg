@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary hanao baraka hazo akasia ianao, ka hanarona azy ambarahy ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "baraka"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "hanarona"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ny baraka)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ambarahy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:04:03.790944092Z",
+  "model": "glm-5.3"
+}

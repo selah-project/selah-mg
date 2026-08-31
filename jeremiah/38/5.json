@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 38:5",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Ary hoy Tsidkijah mpanjaka: Indro izy, eo an-tananao ⟨⟨את⟩⟩ fa tsy mahay manohitra anareo amin'ny teny akaty ny mpanjaka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijah"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "eo an-tananao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "mahay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo amin'ny teny akaty (אתכם דבר)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "teny"
+    }
+  ],
+  "timestamp": "2026-08-31T18:33:27.141552460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 149,
+  "translation": "Aoka hideraka ny anarany amin'ny dihy; amin'ny amponga sy lokanga hanelanelana ho azy.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Aoka hideraka"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "amin'ny dihy"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "amin'ny amponga"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "sy lokanga"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "hanelanelana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:56.210010249Z",
+  "model": "glm-5.3"
+}

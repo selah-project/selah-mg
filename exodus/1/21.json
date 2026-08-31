@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary tonga izany satria natahotra an'i Elohim ny mpampivelona, ka natao ⟨את⟩ trano ho azy ireo (Izy).",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "tonga izany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "natahotra"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "ny mpampivelona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "natao"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho azy ireo"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "trano"
+    }
+  ],
+  "timestamp": "2026-08-31T12:53:26.853571740Z",
+  "model": "glm-5.3"
+}

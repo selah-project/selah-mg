@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Vita ny lanitra sy ny tany ary ny tafiny rehetra.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "vita"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "sy ny tany"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ny ... rehetra"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "tafiny"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:35.978117274Z",
+  "model": "glm-5.3"
+}

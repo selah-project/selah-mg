@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 10:15",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Midera va ny famaky ilay manapaka aminy? Na manandratra va ny sahavaravarana ilay mpanelingelina azy? Toy ny tehin'ny mandona ny mpanandratra azy, sy ⟨את⟩ izay mandrafitra azy, toy ny maroka mampiakatra izay tsy hazo.",
+  "tokens": [
+    {
+      "surface": "היתפאר",
+      "gloss": "Midera va"
+    },
+    {
+      "surface": "הגרזן",
+      "gloss": "ny famaky"
+    },
+    {
+      "surface": "על",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "החצב",
+      "gloss": "manapaka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Na"
+    },
+    {
+      "surface": "יתגדל",
+      "gloss": "manandratra va"
+    },
+    {
+      "surface": "המשור",
+      "gloss": "ny sahavaravarana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "מניפו",
+      "gloss": "mpanelingelina azy"
+    },
+    {
+      "surface": "כהניף",
+      "gloss": "mandona"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tehin'ny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izay mandrafitra azy"
+    },
+    {
+      "surface": "מרימיו",
+      "gloss": "izay mandrafitra azy"
+    },
+    {
+      "surface": "כהרים",
+      "gloss": "mampiakatra"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "maroka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "hazo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:05:25.121333115Z",
+  "model": "glm-5.3"
+}

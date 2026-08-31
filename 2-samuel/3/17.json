@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 3:17",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary ny tenin'i Avnera dia tamin'ny anti-panahin'i Isiraela ka nanao hoe: Omaly sy omaly intelo no nitadiavanareo an'i Davida ho mpanjaka amanareo.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "ary ny tenin'i"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnera"
+    },
+    {
+      "surface": "היה",
+      "gloss": "dia"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "anti-panahin'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraela"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "גם",
+      "gloss": ""
+    },
+    {
+      "surface": "תמול",
+      "gloss": "omaly"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sy"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "omaly intelo"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "no"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "nitadiavanareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ho mpanjaka"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "amanareo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:29:19.268794226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary nalainy ⟨את⟩ ny babo rehetra sy ⟨את⟩ ny tratra rehetra, tamin'ny olona sy ny biby fiompy.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Ary nalainy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny babo rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "ny babo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tratra rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "ny tratra"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "tamin'ny olona"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "sy ny biby fiompy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:37:33.594074082Z",
+  "model": "glm-5.3"
+}

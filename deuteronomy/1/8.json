@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Jereo, efa napetrako teo anoloanareo ⟨את⟩ ny tany; midira ianareo kaLovao ⟨את⟩ ny tany izay nianianan'i Yahveh tamin'ny razanareo, tamin'i Avrahamama, tamin'i Yitschaka ary tamin'i Yaakoba, homena azy sy ny taranany aoriany izany.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Jereo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "efa napetrako"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "teo anoloanareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "באו",
+      "gloss": "midira ianareo"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "kaLovao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "nianianan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "tamin'ny razanareo"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "tamin'i Avrahamama"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "tamin'i Yitschaka"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "ary tamin'i Yaakoba"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "homena"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "sy ny taranany"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "aoriany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:40:19.426288281Z",
+  "model": "glm-5.3"
+}

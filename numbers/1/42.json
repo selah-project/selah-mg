@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ny taranak'i Naftali, araka ny taranany, araka ny fianakaviany, araka nytranain'ny razany, araka ny isan'ny anarana, hatramin'ny roa-polo taona no ho miakatra, izay rehetra mahay miady;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "taranak'i"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "araka ny taranany"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "araka ny fianakaviany"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "araka nytranain'ny"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "razany"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "araka ny isan'ny"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "anarana"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "hatramin'ny"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "roa-polo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "no ho miakatra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "mahay miady — mivoaka"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "miady (tafika)"
+    }
+  ],
+  "timestamp": "2026-08-31T13:23:10.555812959Z",
+  "model": "glm-5.3"
+}

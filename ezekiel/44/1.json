@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Ary nampiverina nampitondra ahy izy ⟨amin'ny⟩ lalana mankany amin'ny vavahadin'ny fivavahanana ivelany, ilay mitodika miakatra atsinanana, ary ⟨izy⟩ mihidy.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "nampiverina nampitondra ahy"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ahy",
+      "marks": " Lalana mankany amin'ny vavahadin'ny fivavahanana ivelany "
+    },
+    {
+      "surface": "דרך",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vavahady"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "ny fivavahanana"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "ivelany"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "mitodika"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "miakatra atsinanana"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ary izy"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "mihidy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:05:38.535046211Z",
+  "model": "glm-5.3"
+}

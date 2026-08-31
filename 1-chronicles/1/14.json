@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "sy ⟨את⟩ ny Jebosita sy ⟨את⟩ ny Amorita sy ⟨את⟩ ny Girgashita.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny Jebosita"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "ny Jebosita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny Amorita"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ny Amorita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny Girgashita"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ny Girgashita"
+    }
+  ],
+  "timestamp": "2026-08-31T17:33:51.918517960Z",
+  "model": "glm-5.3"
+}

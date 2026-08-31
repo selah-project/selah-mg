@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Tamin'ny fahaterahako no nariana ahy ho Aminao; avy tao an-kibo dia Adonay Andriamanitro Hianao, Elohay Hianao no Andriamanitro ka hatramin'ny fotoana tsy hita.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "ho Aminao"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "nariana ahy"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "avy tao an-kibo fanjakan'ny fotoana fohy"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "avy tao an-kibo"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ny reniko"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elohay (Andriamanitro)"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Hianao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:15.929954606Z",
+  "model": "glm-5.3"
+}

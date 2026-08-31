@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 135,
+  "translation": "Izay rehetra tian'i Yahveh dia nataony tany an-danitra sy ambonin'ny tany, ao an-dranomasina sy ny lalina rehetra.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Izay"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "tian'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "tany an-danitra"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "sy ambonin'ny tany"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ao an-dranomasina"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ny ... rehetra"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "lalina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:09.623555414Z",
+  "model": "glm-5.3"
+}

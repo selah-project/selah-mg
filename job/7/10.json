@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Tsy hiverina intsony ho any an-tranony, ary ny fitoerany tsy hamantatra azy intsony.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "hiverina"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ho any an-tranony"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "hamantatra azy"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "ny fitoerany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:59:55.839514107Z",
+  "model": "glm-5.3"
+}

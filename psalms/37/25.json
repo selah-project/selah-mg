@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Tanora aho fony, efa antitra koa izao, ary tsy hitako mihitsy ny marina navela ⟨na⟩ ny taranany mitady hanina.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "tanora"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aho fony"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koá"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "efa antitra izao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "hitako mihitsy"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ny marina"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "navela"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "na ny taranany"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "mitady"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "hanina"
+    }
+  ],
+  "timestamp": "2026-08-31T18:13:26.039042870Z",
+  "model": "glm-5.3"
+}

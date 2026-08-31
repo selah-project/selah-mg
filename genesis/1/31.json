@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary hitan'i Elohim ⟨את⟩ izay rehetra nataony, ka indro, tsara indrandra ⟨izany⟩; ary nisy hariva, ary nisy maraina, andro fahenina.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ary hitan'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay rehetra nataony"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ka indro"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "indrandra"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ary nisy"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "hariva"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ary nisy"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "maraina"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "fahenina"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:07.010737908Z",
+  "model": "glm-5.3"
+}

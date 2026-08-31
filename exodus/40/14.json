@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary ⟨את⟩ ny zanany dia haterinao, ary hitafy kotonjy ireo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "haterinao"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "hitafy"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ireo",
+      "marks": "ireo"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kotonjy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:02.845914896Z",
+  "model": "glm-5.3"
+}

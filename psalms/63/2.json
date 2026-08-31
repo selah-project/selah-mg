@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 63,
+  "translation": "Elohim, Hianao no Elohy; mamangy Anao aho maraina; mangetaheta Anao ny fanahiko, manina Anao ny nofo, amin'ny tany maina sady vizana, tsy misy rano.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elohy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Hianao"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "mamangy Anao aho maraina"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "mangetaheta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Anao"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny fanahiko"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "manina"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Anao"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ny nofo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "maina"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "sady vizana"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:06.294594894Z",
+  "model": "glm-5.3"
+}

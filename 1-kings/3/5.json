@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Tany Givona no nisehoan'i Yahveh tamin'i Shelomoh tamin'ny nofy, nony alina; ary hoy Elohim: Angataho izay hangatahinao — inona no homeko anao?",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "tany Givona"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "nisehoana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "tamin'ny nofy"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nony alina"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ary hoy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Angataho"
+    },
+    {
+      "surface": "מה",
+      "gloss": "inona"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "no homeko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:40:23.152938607Z",
+  "model": "glm-5.3"
+}

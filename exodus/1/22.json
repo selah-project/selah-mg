@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary nanome baiko Parao ho an'ny vahoakany rehetra hoe: Zanalahy rehetra teraka dia atsipiro ao amin'ny renirano, fa zananivavy rehetra kosa avelao ho velona.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "nanome baiko"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho an'ny ... rehetra"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vahoakany"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "zanalahy"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "teraka"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "ao amin'ny renirano"
+    },
+    {
+      "surface": "תשליכהו",
+      "gloss": "atsipiro"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "fa ... rehetra"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "zananivavy"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "avelao ho velona"
+    }
+  ],
+  "timestamp": "2026-08-31T12:53:26.854036083Z",
+  "model": "glm-5.3"
+}

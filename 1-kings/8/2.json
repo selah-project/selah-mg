@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nivory ho amin'ny mpanjaka Shelomoh ny lehilahy rehetra amin'ny Yisrael, amin'ny volana Ethanim, amin'ny fety — dia ny volana fahafito.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "Ary nivory"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho amin'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "amin'ny volana"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "Ethanim"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "amin'ny fety"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ny volana"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "fahafito"
+    }
+  ],
+  "timestamp": "2026-08-31T14:42:53.437236561Z",
+  "model": "glm-5.3"
+}

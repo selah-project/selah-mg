@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary nomeko tamin'i Yitsaka ⟨את⟩ Yaakoba sy ⟨את⟩ Esava; ary nomeko tamin'i Esava ⟨את⟩ tendrombohitra Seira hovanao; fa Yaakoba sy ny zanany kosa nidina nankany Mitsrayima.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "nomeko"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "tamin'i Yitsaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakoba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakoba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Esava"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esava"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "nomeko"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "tamin'i Esava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tendrombohitra Seira"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seira"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "hovanao"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ azy"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "Yaakoba"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "sy ny zanany"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "nidina"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "nankany Mitsrayima"
+    }
+  ],
+  "timestamp": "2026-08-31T14:03:57.406089616Z",
+  "model": "glm-5.3"
+}

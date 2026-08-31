@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 72,
+  "translation": "Hisy fahavokaran'ny vary amin'ny tany, eny amin'ny tampon'ny tendrombohitra; hangovitra ny vokany toy ny an'i Levanona, ary hitsiry avy ao an-tanàna toy ny ahitry ny tany.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "hisy"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "fahahavarian'ny"
+    },
+    {
+      "surface": "בר",
+      "gloss": "vary"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "amin'ny tampon'ny"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "hangovitra"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "toy ny an'i Levanona"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ny vokany"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "ary hitsiry"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "avy ao an-tanàna"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "toy ny ahitry"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:29.324581042Z",
+  "model": "glm-5.3"
+}

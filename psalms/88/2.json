@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 88,
+  "translation": "Yahveh, Elohin'ny famonjena ahy, andro izay nitoloko aho no alina no eo anatrehanao.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'ny"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "famonjena ahy"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "nitoloko aho"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "no alina no"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "eo anatrehanao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:35:35.406986404Z",
+  "model": "glm-5.3"
+}

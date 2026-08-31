@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary tamin'ny lalana, tao amin'ny trano fiantsonana, i Yahveh nihaona taminy ka nitady hamono azy.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary tamin'ny"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "tranon'ny fiantsonana"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "nihaona taminy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "nitady"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "hamono azy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:55:09.943566228Z",
+  "model": "glm-5.3"
+}

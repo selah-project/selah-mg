@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 21:39",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "⟨את⟩ Cheshbon sy ⟨את⟩ ny taniny malalaka, ⟨את⟩ Yazer sy ⟨את⟩ ny taniny malalaka; ny tanàna rehetra dia efatra.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cheshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny taniny malalaka"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ny taniny malalaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny taniny malalaka"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ny taniny malalaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "efatra"
+    }
+  ],
+  "timestamp": "2026-08-31T14:02:54.383020726Z",
+  "model": "glm-5.3"
+}

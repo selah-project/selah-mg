@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 11:45",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Fa izaho no Yahveh, ilay mampakatra anareo avy amin'ny tany Mitsrayim mba ho Elohim anareo; ary ho masina ianareo, fa masina Aho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "ilay mampakatra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo",
+      "marks": "anareo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "avy amin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "להית",
+      "gloss": "mba ho"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "ary ho"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "masina ianareo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aho"
+    }
+  ],
+  "timestamp": "2026-08-31T13:14:43.679666544Z",
+  "model": "glm-5.3"
+}

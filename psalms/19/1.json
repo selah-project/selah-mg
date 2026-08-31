@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ho an'ny mpitarika. Fihirana nataon'i David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho an'ny mpitarika"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Fihirana"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nataon'i David"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:03.169916123Z",
+  "model": "glm-5.3"
+}

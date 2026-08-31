@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "ary aoka Yahveh, ny Elohim anao, hampahafantatra antsika ⟨את⟩ ny lalana izay hizorantsika aminy, sy ⟨את⟩ ny teny izay hataontsika.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ary ... hampahafantatra"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "antsika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ny Elohim anao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lalana"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ny lalana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "hizorantsika"
+    },
+    {
+      "surface": "בה",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny teny"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "hataontsika"
+    }
+  ],
+  "timestamp": "2026-08-31T15:40:38.344432651Z",
+  "model": "glm-5.3"
+}

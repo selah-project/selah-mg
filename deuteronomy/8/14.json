@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "dia hiakatra amim-pon'ny saina ianao, ka hanadino an'i Yahveh Elohiminao, ilay mampivoaka anao avy amin'ny tany Mitsrayim, avy amin'ny tranon'ny mpanompo;",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "dia hiakatra"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "amim-pon'ny saina ianao"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "ka hanadino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminao"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "ilay mampivoaka anao"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "avy amin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "avy amin'ny trano"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ny mpanompo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:42:20.359324270Z",
+  "model": "glm-5.3"
+}

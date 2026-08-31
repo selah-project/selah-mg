@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 56:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 56,
+  "translation": "Fa efa namonjy ny aiko tamin'ny fahafatesana ianao; moa tsy valiana va ny tongotro tsy ho tafintohina, mba handeha ho anatrehan'ny Elohim amin'ny fahazavan'ny velona?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "efa namonjy ianao"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "tamin'ny fahafatesana"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "moa tsy ... va"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ny tongotro"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "tsy ho tafintohina"
+    },
+    {
+      "surface": "להתהלך",
+      "gloss": "mba handeha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ho anatrehan'ny"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באור",
+      "gloss": "amin'ny fahazavan'ny"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "velona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:12.430736705Z",
+  "model": "glm-5.3"
+}

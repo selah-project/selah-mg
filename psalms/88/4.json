@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 88,
+  "translation": "Fa efa voky loatra amin'ny loza ny aiko, ary ny aiko efa tonga any amin'ny fasana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "efa voky loatra"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "amin'ny loza"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "ary ny fiainako"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "any amin'ny Sheol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "efa tonga"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:31.644541895Z",
+  "model": "glm-5.3"
+}

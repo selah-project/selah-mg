@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Fa nangalarina tokoa aho tamin'ny tany ny Hebreo, ary eto koa tsy nanao inona na inona aho, fa nataony ⟨את⟩ ahy tao anaty lavaka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "tokoa"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "nangalarina"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "tamin'ny tany"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ny Hebreo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ary koa"
+    },
+    {
+      "surface": "פה",
+      "gloss": "eto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "inona na inona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ahy"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "tao anaty lavaka"
+    }
+  ],
+  "timestamp": "2026-08-31T12:49:54.876675564Z",
+  "model": "glm-5.3"
+}

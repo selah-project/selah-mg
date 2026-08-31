@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 35:9",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "ary vatosoamy shoham sy vatosoamy fametrahana, ho an'ny efoda sy ho an'ny vatimiravitra",
+  "tokens": [
+    {
+      "surface": "ואבני",
+      "gloss": "ary vatosoamy"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "sy vatosoamy"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "fametrahana"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "ho an'ny efoda"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "sy ho an'ny vatimiravitra"
+    }
+  ],
+  "timestamp": "2026-08-31T18:28:52.171602251Z",
+  "model": "glm-5.3"
+}

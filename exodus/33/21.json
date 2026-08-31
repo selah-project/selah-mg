@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Ary Yahveh nanao hoe: Indro, misy fitoerana eto amiko, ary hitsangana hianao eo ambony ilay vatolampy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary nanao hoe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "fitoerana"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ eto amiko"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "hitsangana hianao"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "ilay vatolampy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:07:28.161385256Z",
+  "model": "glm-5.3"
+}

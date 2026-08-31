@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nametraka taminy ny hoshen izy, ary nametraka tao anatin'ny hoshen ⟨את⟩ ny Urim sy ⟨את⟩ ny Thummim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Ary nametraka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny hoshen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ny hoshen"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ary nametraka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tao anatin'ny"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoshen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "ny Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny Thummim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "ny Thummim"
+    }
+  ],
+  "timestamp": "2026-08-31T13:13:59.581419272Z",
+  "model": "glm-5.3"
+}

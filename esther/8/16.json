@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ny Jiosy ⟨nanana⟩ fahazavana sy fifaliana, sy finaritra ary voninahitra.",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "Ny Jiosy"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨nanana⟩"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "fahazavana"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "sy fifaliana"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "sy finaritra"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "ary voninahitra"
+    }
+  ],
+  "timestamp": "2026-08-31T17:19:34.152731352Z",
+  "model": "glm-5.3"
+}

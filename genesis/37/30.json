@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary niverina tany amin'ny rahalahiny izy ka nanao hoe: Tsy hita intsony ny zazalahy; ary izaho, aiza kosa no hankanesako?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "niverina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tany amin'ny"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "rahalahiny"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ny zazalahy"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "tsy hita intsony"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ary izaho"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "aiza"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "בא",
+      "gloss": "no hankanesako"
+    }
+  ],
+  "timestamp": "2026-08-31T12:48:52.988200631Z",
+  "model": "glm-5.3"
+}

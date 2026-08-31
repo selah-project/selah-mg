@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 21:16",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary ⟨את⟩ Ayin sy ⟨את⟩ tany manodidina azy, ary ⟨את⟩ Yuta sy ⟨את⟩ tany manodidina azy, ⟨את⟩ Beit-Shemesh sy ⟨את⟩ tany manodidina azy — tanàna sivy ⟨את⟩ avy amin'ireo foko roa ireo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ary ⟨את⟩",
+      "marks": "Ayin"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ayin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "tany manodidina azy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tany manodidina azy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Yuta"
+    },
+    {
+      "surface": "יטה",
+      "gloss": "Yuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "tany manodidina azy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tany manodidina azy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Shemesh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "tany manodidina azy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tany manodidina azy"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "sivy"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ avy amin'ny",
+      "marks": "ireo foko roa ireo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "roa"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "foko"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:02:44.282508846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Fa Yahveh Elohinareo no mandeha momba anareo hiady ho anareo against ny fahavilonareo hanavotra ⟨את⟩ anareo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "no mandeha"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "momba anareo"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "hiady"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "against"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ny fahavilonareo"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "hanavotra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:47:12.090099906Z",
+  "model": "glm-5.3"
+}

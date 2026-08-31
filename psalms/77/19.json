@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 77,
+  "translation": "Ny feon'ny kotrokotroanao tao amin'ny fihodinana; nampiditra hazavana tamin'ny tontolo ny vakizoro; nangovitra ka nirohotra ny tany.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ny feo"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "ny kotrokotroanao"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "tao amin'ny fihodinana"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "nampiditra hazavana"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "ny vakizoro"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ny tontolo"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "nangovitra"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "ka nirohotra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:10.826360182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Fa na dia ny diera eny an-tsaha aza niteraka ka nahafoy ⟨zanany⟩, fa tsy nisy bozaka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na dia... aza"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "ny diera"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "eny an-tsaha"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "ka nahafoy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nisy"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "bozaka"
+    }
+  ],
+  "timestamp": "2026-08-31T15:29:15.713767787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 69:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 69,
+  "translation": "Fa izaho kosa, ny fivavahako dia ho anao, ry Yahveh, amin'ny fotoana ankasitrahana; ry Elohim, amin'ny betsan'ny hesed-nao, valio aho amin'ny fahamarinan'ny famonjenao.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Fa izaho kosa"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ny fivavahako"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עת",
+      "gloss": "amin'ny fotoana"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ankasitrahana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "amin'ny betsan'ny"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-nao"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "valio aho"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "amin'ny fahamarinan'ny"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "famonjenao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:58.323652026Z",
+  "model": "glm-5.3"
+}

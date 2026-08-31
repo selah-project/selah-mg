@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 6:14",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Amin'ny vilia-mahamay dia hatao amin'ny menaka; rehefa efa voaridrika amin'ny menaka dia ho entina; tapa-tsakafo ny mincha no hanatony ho hanitra mahafaly ho an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "vilia-mahamay"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "amin'ny menaka"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hatao"
+    },
+    {
+      "surface": "מרבכת",
+      "gloss": "voaridrika amin'ny menaka"
+    },
+    {
+      "surface": "תביאנה",
+      "gloss": "ho entina"
+    },
+    {
+      "surface": "תפיני",
+      "gloss": "tapa-tsakafo"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ny mincha"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "tapa-mofo"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "hanatony"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "hanitra"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "mahafaly"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:13:21.531721423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 60,
+  "translation": "Fa ny firenena sy ny fanjakana tsy hanompo anao dia ho ringana; eny, ho lo tanteraka ny firenena ireo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ny firenena"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "sy ny fanjakana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "hanompo anao"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "dia ho ringana"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "eny, ny firenena"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ho lo tanteraka"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:20:26.123092497Z",
+  "model": "glm-5.3"
+}

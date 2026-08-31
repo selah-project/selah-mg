@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 113,
+  "translation": "Mitsangana manangana ny malahelo avy amin'ny vovoka, avy amin'ny fako idranany ny tena aman'olona malahelo.",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "manangana"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "avy amin'ny vovoka"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ny malahelo"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "avy amin'ny fako idranany"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "manandratra"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ny tena aman'olona malahelo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:28.811760759Z",
+  "model": "glm-5.3"
+}

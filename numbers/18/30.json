@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 18:30",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary hanao amin'izy ireo ianao ka hilaza: Rehefa anandramanareo ⟨את⟩ ny tavy tsara indrindra avy aminy, dia ho isaina ho an'ny Levita izany, toy ny vokatry ny famafazana eo amin'ny lapam-bary sy ny vokatry ny fatsakana ranom-pary.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "hilaza ianao"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "amin'izy ireo"
+    },
+    {
+      "surface": "בהרימכם",
+      "gloss": "rehefa anandramanareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavy tsara indrindra"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "tavy tsara indrindra"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "avy aminy"
+    },
+    {
+      "surface": "ונחשב",
+      "gloss": "dia ho isaina"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ho an'ny Levita"
+    },
+    {
+      "surface": "כתבואת",
+      "gloss": "toy ny vokatry ny famafazana"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "lapam-bary"
+    },
+    {
+      "surface": "וכתבואת",
+      "gloss": "sy ny vokatry ny famafazana"
+    },
+    {
+      "surface": "יקב",
+      "gloss": "fatsakana ranom-pary"
+    }
+  ],
+  "timestamp": "2026-08-31T13:32:20.558689517Z",
+  "model": "glm-5.3"
+}

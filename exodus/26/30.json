@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary hitsangana hampetraka ianao ka hanangana ⟨את⟩ ny trano-lay araka ny fitsipiny izay naseho anao tamin'ny tendrombohitra.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "ary hanangana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny trano-lay"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ny trano-lay"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "araka ny fitsipiny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "naseho anao"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "tamin'ny tendrombohitra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:04:36.793452875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Dia hoy izaho: Tsara ny fahendrena noho ny hery; fa ny fahendren'ny malahelo dia bazoina, ary ny teniny tsy henoina.",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "dia hoy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ny fahendrena"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "noho ny hery"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "fa ny fahendren'ny"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "malahelo"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "bazoina"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "ary ny teniny"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "henoina"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:33.290617857Z",
+  "model": "glm-5.3"
+}

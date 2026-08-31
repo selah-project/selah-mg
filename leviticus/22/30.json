@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Amin'izay andro izay no homana azy; aza mamela zavatra aminy sisa mandra-pahamarain'ny maraina; izaho no Yahveh.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Amin'izay andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "no homana azy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "mamela sisa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "pahamarain'ny maraina"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "no Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:18.233469020Z",
+  "model": "glm-5.3"
+}

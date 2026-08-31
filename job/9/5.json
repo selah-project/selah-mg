@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 9:5",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Izay mampifindra ny tendrombohitra, ka tsy mahalala ⟨izy⟩, izay miolahatra azy amin'ny fahatezerany.",
+  "tokens": [
+    {
+      "surface": "המעתיק",
+      "gloss": "mampifindra"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ny tendrombohitra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הפכם",
+      "gloss": "miolahatra azy"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "amin'ny fahatezerany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:00:39.527199271Z",
+  "model": "glm-5.3"
+}

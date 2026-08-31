@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary Ravshake nody ka nahita ⟨את⟩ ny mpanjakan'i Ashur miady amin'i Livna, fa efa ren'ny fa efa niainga niala tamin'i Lakhish izy.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ary...nody"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "shake"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "ka nahita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanjakan'i Ashur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'i"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "miady"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'i"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "efa ren'ny fa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efa"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "niainga"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "niala tamin'i Lakhish"
+    }
+  ],
+  "timestamp": "2026-08-31T15:13:32.282696060Z",
+  "model": "glm-5.3"
+}

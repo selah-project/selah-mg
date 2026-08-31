@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary vahoaka mifangaro be koa niakatra ⟨את⟩ taminy, ary ondry aman'omby, fananana-biby mavesatra indrindra.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ary ... koa"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "vahoaka mifangaro"
+    },
+    {
+      "surface": "רב",
+      "gloss": "be"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "niakatra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "taminy"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ondry"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "omby"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "fananana-biby"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "mavesatra"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "indrindra"
+    }
+  ],
+  "timestamp": "2026-08-31T12:59:22.048441179Z",
+  "model": "glm-5.3"
+}

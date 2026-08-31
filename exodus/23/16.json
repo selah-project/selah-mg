@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 23:16",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Sy ny faky fijinjana, voaloham-bokatr'izay nambolenao ao an-tsaha; ary ny faky fihinjana, amin'ny fivoahan'ny tamin'ny taona, raha mijinjanao ⟨את⟩ ny vokatrao avy any an-tsaha.",
+  "tokens": [
+    {
+      "surface": "וחג",
+      "gloss": "sy ny faky"
+    },
+    {
+      "surface": "הקציר",
+      "gloss": "fijinjana"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "voaloham-bokatra"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ny vokatrao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "nambolenao"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ao an-tsaha"
+    },
+    {
+      "surface": "וחג",
+      "gloss": "ary ny faky"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "fihinjana"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "amin'ny fivoahan'ny"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "raha mijinjanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vokatrao"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ny vokatrao"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "any an-tsaha"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:15.576908570Z",
+  "model": "glm-5.3"
+}

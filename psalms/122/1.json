@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 122,
+  "translation": "Fihiran'ny fiakarana, an'i Davida. Nifaly aho tamin'izay nanao tamiko hoe: Any an-tranon'i Yahveh isika hankany.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Fihirana"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ny fiakarana"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "an'i Davida"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Nifaly aho"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "tamin'izay nanao"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "isika hankany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:24.216461961Z",
+  "model": "glm-5.3"
+}

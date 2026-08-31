@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 30:3",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary hoy izy: Indro ny mpanompovaviko Bilhah; midira eo aminy, mba hiteraka eo am-palohavohoko izy, dia hasandratra ho trano aho koa amin'ny alalany.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "ny mpanompovaviko"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilhah"
+    },
+    {
+      "surface": "בא",
+      "gloss": "midira"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "eo aminy"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "mba hiteraka"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo am-"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "palohavohoko"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "hasandratra ho trano"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aho"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "amin'ny alalany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:44:32.626330391Z",
+  "model": "glm-5.3"
+}

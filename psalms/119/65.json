@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Tsoa no nataonao tamin'ny mpanomponao, Yahveh, araka ny teninao.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tsoa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "no nataonao"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mpanomponao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "araka ny teninao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:16.883343344Z",
+  "model": "glm-5.3"
+}

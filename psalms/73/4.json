@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 73,
+  "translation": "Fa tsy misy famatoram-paintana amin'ny fahafatesany, ary matavy sady mafy orana ny tenany.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "famatoram-paintana"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "amin'ny fahafatesany"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "ary matavy"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "sady mafy orana ny tenany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:01.778509865Z",
+  "model": "glm-5.3"
+}

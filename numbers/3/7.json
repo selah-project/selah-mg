@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary izy ireo hitandrina ny fitandremana ù azy sy ny fitandremana ny fiangona manontolo eo anoloan'ny lain'ny fihaonana, hanatanteraka ny fanompoam-poana ao amin'ny trano-lay.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Ary izy ireo hitandrina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitandremana ù azy"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "ny fitandremana ù azy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitandremana ny fiangona"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ny fitandremana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "manontolo"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ny fiangona"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anoloan'ny"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "lain'ny"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "hanatanteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanompoam-poana ao amin'ny trano-lay"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "ny fanompoam-poana"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ao amin'ny trano-lay"
+    }
+  ],
+  "timestamp": "2026-08-31T13:24:40.992014263Z",
+  "model": "glm-5.3"
+}

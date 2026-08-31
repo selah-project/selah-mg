@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 150,
+  "translation": "Izay rehetra manana aina hanehoa an'i Yah, Yah hiderana; Haleloia ⟨⟨⟩⟩",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "manana aina"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "hiderana"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "miderà \/ Haleloia"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:24.287090299Z",
+  "model": "glm-5.3"
+}

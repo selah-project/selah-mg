@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary ankehitriny ry Yahveh, makao azafady ⟨את⟩ ny aiko amiko, fa tsara ny fahafatesako toy ny fiainako.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ary ankehitriny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "קח",
+      "gloss": "makao"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny aiko"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "aiko"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "ny fahafatesako"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "toy ny fiainako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:14:03.206745479Z",
+  "model": "glm-5.3"
+}

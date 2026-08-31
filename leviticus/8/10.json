@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Naka ⟨את⟩ ny diloilo fanosorana Moshe, ka nanosotra ⟨את⟩ ny tranolay sy ⟨את⟩ izay rehetra tao anatiny, ary nanamasina azy ireo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Naka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diloilo fanosorana"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "diloilo"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "fanosorana"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "nanosotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tranolay"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tranolay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "izay rehetra tao anatiny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tao anatiny"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "nanamasina"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azy ireo",
+      "marks": "azy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:13:50.584727654Z",
+  "model": "glm-5.3"
+}

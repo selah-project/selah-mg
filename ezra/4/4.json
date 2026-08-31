@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Dia ny vahoakan'ny tany nampihena ny tanan'ny vahoakan'i Yehudah ka nampahatahorana azy ⟨את⟩ tsy hanorina.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ny vahoakan'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "nampihena"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ny tanan'"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ny vahoakan'"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "ka nampahatahorana"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "tsy hanorina"
+    }
+  ],
+  "timestamp": "2026-08-31T17:26:50.343655103Z",
+  "model": "glm-5.3"
+}

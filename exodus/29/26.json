@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 29:26",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary halainao ⟨את⟩ ny tratry ilay ody fanokafana an'i Aharon, ka hozongozonao ⟨את⟩ azy ho fanatitra zongozona eo anoloan'i Yahveh; ary ho lasa anjaranao izy.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Ary halainao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tratry ilay ody"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "ny tratrany"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "avy amin'ilay ody"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "fanokafana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "an'i Aharon"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "ka hozongozonao"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (ny tratrany)"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "fanatitra zongozona"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anoloan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ary ho lasa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anjara"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "nao (anjara)"
+    }
+  ],
+  "timestamp": "2026-08-31T13:06:23.698007460Z",
+  "model": "glm-5.3"
+}

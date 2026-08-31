@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Yahveh no anjara lozako sy kapoakaiko; ianao no manohana ny lozako.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "anjara"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "lozako"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "sy kapoakaiko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "no manohana"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "ny lozako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:30.715482651Z",
+  "model": "glm-5.3"
+}

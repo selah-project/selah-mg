@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary izy nivoaka ka niady tamin'ny Filistina, ka nandrava ⟨את⟩ ny mandan'i Gata sy ⟨את⟩ ny mandan'i Yabne sy ⟨את⟩ ny mandan'i Ashdoda; ary nanao tanàna tao Ashdoda sy tany amin'ny Filistina izy.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ary izy nivoaka"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ka niady"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "tamin'ny Filistina"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "ka nandrava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mandan'i Gata"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ny mandan'i"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny mandan'i Yabne"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ny mandan'i"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Yabne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny mandan'i Ashdoda"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "ny mandan'i"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdoda"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "ary nanao"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "tao Ashdoda"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "sy tany amin'ny Filistina"
+    }
+  ],
+  "timestamp": "2026-08-31T17:49:52.333054598Z",
+  "model": "glm-5.3"
+}

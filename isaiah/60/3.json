@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 60,
+  "translation": "Ary ny firenena handeha ho amin'ny mazavao, ary ny mpanjaka ho amin'ny famirapiratry ny fiposahanao.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "Ary ... handeha"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ny firenena"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "ho amin'ny mazavao"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "ary ny mpanjaka"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "ho amin'ny famirapiratra"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "ny fiposahanao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:21:32.070852426Z",
+  "model": "glm-5.3"
+}

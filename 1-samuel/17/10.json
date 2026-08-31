@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary hoy ilay Filistina: Izaho no nanevatevy ⟨את⟩ ny andiana miaramilan'i Isiraely androany; omeo lehilahy iray ho ahy, ary hiady isika mifanotoka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ilay Filistina"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "no nanevatevy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny andiana miaramilan'i Isiraely"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "ny andiana miaramila"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "היום",
+      "gloss": "androany"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "omeo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy iray"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "ary hiady"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "isika mifanotoka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:20:52.388011959Z",
+  "model": "glm-5.3"
+}

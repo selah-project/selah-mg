@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 94,
+  "translation": "Izay namamboly ⟨ny⟩ sofina, tsy mandre va ⟨izy⟩? Izay namorona ⟨ny⟩ maso, tsy mamantatra amin'ny fanjaitra va ⟨izy⟩?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "izay namamboly"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "sofina"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "tsy... va"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "mandre"
+    },
+    {
+      "surface": "אם",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "namorona"
+    },
+    {
+      "surface": "עין",
+      "gloss": "maso"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "tsy... va"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "mamantatra amin'ny fanjaitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:09.139047251Z",
+  "model": "glm-5.3"
+}

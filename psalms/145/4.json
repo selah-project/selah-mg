@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 145,
+  "translation": "Tarika mankany amin'ny tarika hiderana ny asanao, ary ny herinao no hambarany.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Tarika"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "mankany amin'ny tarika"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "hiderana"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ny asanao"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "ary ny herinao"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "no hambarany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:06.797722290Z",
+  "model": "glm-5.3"
+}

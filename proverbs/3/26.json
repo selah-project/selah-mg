@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Fa Yahveh no hiantohana anao, ary hitandrina ny tongotrao tsy ho voasambotra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "fiantohana anao"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "ary hitandrina"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ny tongotrao"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "tsy ho voasambotra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:49:36.034469168Z",
+  "model": "glm-5.3"
+}

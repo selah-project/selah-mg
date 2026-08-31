@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 24:17",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Iray amby roa-polo ho an'i Yakhin, roa amby roa-polo ho an'i Gamul.",
+  "tokens": [
+    {
+      "surface": "ליכין",
+      "gloss": "ho an'i Yakhin"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "amby roa-polo"
+    },
+    {
+      "surface": "לגמול",
+      "gloss": "ho an'i Gamul"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "roa"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "amby roa-polo"
+    }
+  ],
+  "timestamp": "2026-08-31T18:19:39.104721851Z",
+  "model": "glm-5.3"
+}

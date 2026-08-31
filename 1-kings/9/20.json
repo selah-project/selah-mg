@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 9:20",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ny vahoaka rehetra sisa tavela tamin'ny Amorita, ny Hetita, ny Perizita, ny Hivita ary ny Yebosita, izay tsy avy amin'ny zanak'i Isiraely izy ireo —",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "sisa tavela"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorita"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hetita"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perizita"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivita"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ary Yebosita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "avy amin'ny zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:42:46.177436192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 140,
+  "translation": "Eny tokoa, ny marina hankasatra ny anaranao; ny mahitsy hitoetra eo anatrehanao.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Eny tokoa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "marina"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "hankasatra"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ny anaranao"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "hitoetra"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "mahitsy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eo anatrehanao"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "anatrehanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:16.806618130Z",
+  "model": "glm-5.3"
+}

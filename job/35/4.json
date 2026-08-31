@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Izaho hamaly anao amin'ny teny, ary ⟨את⟩ ny namanao miaraka aminao.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "hamaly anao"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "amin'ny teny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny namanao"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "ny namanao"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "miaraka aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T17:07:20.371552872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Fa hoy Akaza: Tsy hangataka aho, ary tsy hanandrana ⟨את⟩ an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Fa hoy"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Akaza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "hangataka aho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "hanandrana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T15:04:09.364136664Z",
+  "model": "glm-5.3"
+}

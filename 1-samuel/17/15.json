@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary Davida dia mandeha miverina avy amin'i Shaol hitondry ⟨את⟩ ny ondry aman'osin'ny rainy tao Beth-Lechem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Ary Davida"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "miverina"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "avy amin'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "hitondry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ondry aman'osin'ny rainy"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ondry aman'osin'ny"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rainy"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechem"
+    }
+  ],
+  "timestamp": "2026-08-31T14:20:50.590019576Z",
+  "model": "glm-5.3"
+}

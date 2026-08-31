@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 63,
+  "translation": "Fa ianao no efa nanampy ahy; ary ao anilan'ny elatrao no hihobiko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "היית",
+      "gloss": "efa"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "nanampy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "ary ao anilan'ny"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "elatrao"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "no hihobiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:16.002168082Z",
+  "model": "glm-5.3"
+}

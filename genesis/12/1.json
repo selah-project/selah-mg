@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary Yahveh nanao tena tamin'i Avrahama hoe: Mandehana ianao, mialà amin'ny taninao sy amin'ny fahaterahananao sy amin'ny tranon'ny rainao, ho any amin'ny tany izay hasehoko anao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary nanao tena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Mandehana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "amin'ny taninao"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "sy amin'ny fahaterahananao"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "sy amin'ny tranon'"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ny rainao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "hasehoko anao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:38:03.249228039Z",
+  "model": "glm-5.3"
+}

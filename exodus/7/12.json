@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Fa samy nariany ny tehiny avy, ka tonga taninina ireo; ary ny tehin'i Aharon nitelina ⟨את⟩ ny tehin'ireo.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "nariany"
+    },
+    {
+      "surface": "איש",
+      "gloss": "samy... avy"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "ny tehiny"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "taninina ireo"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "nitelina"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ny tehin'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tehin'ireo"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "ny tehin'ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:56:27.170141318Z",
+  "model": "glm-5.3"
+}

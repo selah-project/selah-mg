@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 6:11",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary nitoetra telo volana tao an-tranon'i Obed-Edoma Gitita ny fiaran'i Yahveh; ary nitahy ⟨את⟩ Obed-Edoma sy ⟨את⟩ ny ankohonany rehetra Yahveh.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "nitoetra"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tao an-trano"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obed"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edoma"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Gitita"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "telo"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "volana"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ary nitahy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obed-Edoma"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obed"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edoma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ sy",
+      "marks": "ny ankohonany rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ankohonany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:30:50.877604379Z",
+  "model": "glm-5.3"
+}

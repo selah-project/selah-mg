@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary ankehitriny, indro, ny fitarainan'ny zanak'i Yisraela efa tonga aty amiko; ary hitako koa ⟨את⟩ ny fanery izay manery ⟨את⟩ azy ny Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ary ankehitriny"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "ny fitarainana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "באה",
+      "gloss": "efa tonga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aty amiko"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ary ... koa"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "hitako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanery"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "ny fanery"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ny Mitsrayim"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "manery"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:46:47.469346397Z",
+  "model": "glm-5.3"
+}

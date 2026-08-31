@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ary Jaakob nangataka ka nanao hoe: Lazao azafady ny anaranao. Fa izy namaly hoe: Nahoana no anontanianao ny anarako? Dia nitso-drano ⟨azy⟩ tao izy.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "nangataka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaakob"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Lazao"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "anaranao"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "namaly hoe"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Nahoana no"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izao"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "anontanianao"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "ny anarako"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "nitso-drano"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:46:48.671257338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Moa va hanao elohim ho an'ny tenany ny olombelona, ka ireo kosa tsy elohim?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "Moa va hanao"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho an'ny tenany"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ny olombelona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ka ireo kosa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T15:29:53.147547160Z",
+  "model": "glm-5.3"
+}

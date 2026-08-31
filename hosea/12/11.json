@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 12:11",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary Izaho efa niteny tamin'ny mpaminany, sady nanitatra fahitana Aho, ary amin'ny tànany (ny mpaminany) no ampijahonako ny fanoharana.",
+  "tokens": [
+    {
+      "surface": "ודברתי",
+      "gloss": "Ary efa niteny Aho"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "mpaminany"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "sady Izaho"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "fahitana"
+    },
+    {
+      "surface": "הרביתי",
+      "gloss": "nanitatra"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "amin'ny tànany"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ny mpaminany"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ampijahonako ny fanoharana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:09:00.872448725Z",
+  "model": "glm-5.3"
+}

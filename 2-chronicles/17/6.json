@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary niakatra ny fony tamin'ny lalan'i Yahveh; ary mbola nesoriny ⟨את⟩ ny fitoerana avo sy ⟨את⟩ ny Ashera tamin'i Joda.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "niakatra"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ny fony"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "tamin'ny lalan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ary mbola"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "nesoriny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitoerana avo"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ny fitoerana avo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ny Ashera"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "tamin'i Joda"
+    }
+  ],
+  "timestamp": "2026-08-31T17:46:41.858056305Z",
+  "model": "glm-5.3"
+}

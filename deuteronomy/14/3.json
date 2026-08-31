@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Aza mihinana zavatra maharikoriko na inona na inona.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mihinana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "na inona na inona"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "zavatra maharikoriko"
+    }
+  ],
+  "timestamp": "2026-08-31T13:44:30.259065633Z",
+  "model": "glm-5.3"
+}

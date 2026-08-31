@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 4:1",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Mihainoa ny tenin'i Yahveh, ry zanak'i Yisrael, fa misy ririnina amin'i Yahveh amin'ny mponina amin'ny tany, fa tsy misy fahamarinana ary tsy misy hesed ary tsy misy fahalalana an'i Elohim amin'ny tany.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mihainoa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "teny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ririnina"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "amin'i Yahveh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mponina"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "fahamarinana"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ary tsy misy"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ary tsy misy"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "fahalalana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "an'i Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "amin'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:07:32.781110690Z",
+  "model": "glm-5.3"
+}

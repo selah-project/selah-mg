@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary ny loholon'izany tanàna hangaly ⟨את⟩ ny lehilahy ka hananatra ⟨את⟩ azy.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Ary hangaly"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ny loholon'"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ny tanàna"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lehilahy"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ny lehilahy"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "ka hananatra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:48:46.505308480Z",
+  "model": "glm-5.3"
+}

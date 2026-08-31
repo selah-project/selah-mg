@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary Noach zanak'enin-jato taona ⟨fico-teny⟩, ary ny safodrano tonga rano ambonin'ny tany.",
+  "tokens": [
+    {
+      "surface": "וונח",
+      "gloss": "Ary Noach"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'enina-jato"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enina"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "jato"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "ary ny safodrano"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:36:24.023147139Z",
+  "model": "glm-5.3"
+}

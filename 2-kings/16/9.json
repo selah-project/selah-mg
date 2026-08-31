@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary nihaino azy ny mpanjakan'i Ashur, dia niakatra ny mpanjakan'i Ashur nankany Damaseka, ka nahazona azy, ary nisesitra ho any Kira ⟨ny vahoakany⟩, ary namono an'i Retsin.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ny mpanjakan'i"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "niakatra"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ny mpanjakan'i"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nankany"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaseka"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "nahazona azy"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "nisesitra"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "ho any Kira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Retsin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "namono"
+    }
+  ],
+  "timestamp": "2026-08-31T14:58:03.012450999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 129,
+  "translation": "Matetika nanery ahy izy hatramin'ny fahatanorako, kanefa tsy naharesy ahy izy.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Matetika"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "nanery ahy izy"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "hatramin'ny fahatanorako"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kanefa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "naharesy izy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:45.405199154Z",
+  "model": "glm-5.3"
+}

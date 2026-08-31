@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Amin'ny fandrenesana sofina no nandreko anao, fa izao ny masoko no nahita anao.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "amin'ny fandrenesana"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "sofina"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "nandreko anao"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "fa izao"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ny masoko"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "nahita anao"
+    }
+  ],
+  "timestamp": "2026-08-31T17:10:45.435466528Z",
+  "model": "glm-5.3"
+}

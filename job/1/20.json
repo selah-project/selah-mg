@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary nitsangana Ijob ka nandratsy ny akanjony ivelany, ary nodorany ny volony, dia lavo tamin'ny tany izy ka niankohoka nanompo.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ka nitsangana"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ka nandratsy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny akanjony ivelany"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "ny akanjony ivelany"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "ary nodorany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny volony"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ny volony"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "dia lavo"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "tamin'ny tany"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "ka niankohoka nanompo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:59:08.599396608Z",
+  "model": "glm-5.3"
+}

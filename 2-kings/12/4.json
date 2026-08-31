@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Nefa ny fitoerana avo tsy nesorina; mbola namono fanatitra sy nandoro ditin-kazo manitra teo amin'ny fitoerana avo ny vahoaka.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "nefa"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ny fitoerana avo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "nesorina"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mbola"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "namono fanatitra"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "sy nandoro ditin-kazo manitra"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "teo amin'ny fitoerana avo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:55:42.572400172Z",
+  "model": "glm-5.3"
+}

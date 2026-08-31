@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 68,
+  "translation": "Avy ao amin'ny tempolinao eo ambonin'i Yeroshalayim no hitondran'ny mpanjaka fanomeana ho anao.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "Avy ao amin'ny tempolinao"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambonin'i"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "no hitondran'ny"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "שי",
+      "gloss": "fanomeana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:26.082975122Z",
+  "model": "glm-5.3"
+}

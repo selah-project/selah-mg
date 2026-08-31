@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 111,
+  "translation": "Miderà an'i Yah! Misaotra an'i Yahveh amin'ny foko manontolo aho, ao amin'ny fanafody ⟨fihavanana mangingina⟩ ny mahitsy sy ny fiangonana.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Miderà"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "Misaotra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... manontolo"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "foko"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "ao amin'ny fanafody"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ny mahitsy"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "sy ny fiangonana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:01.666228481Z",
+  "model": "glm-5.3"
+}

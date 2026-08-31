@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 148,
+  "translation": "Miderà Azy, ianareo lanitry ny lanitra, sy ny rano izay ambonin'ny lanitra!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Miderà Azy"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "lanitry ny"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "lanitra"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "sy ny rano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "lanitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:59.064269891Z",
+  "model": "glm-5.3"
+}

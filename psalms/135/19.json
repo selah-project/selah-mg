@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 135:19",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 135,
+  "translation": "Ry taranak'i Isiraela, manisa soa ⟨i⟩ Yahveh; ry taranak'i Aharona, manisa soa ⟨i⟩ Yahveh.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Ry taranak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraela"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "manisa soa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Ry taranak'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "manisa soa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:50.519356600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary nitoetra ⟨telo taona⟩ izy, tsy misy ady teo amin'i Aram sy teo amin'i Yisraela.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "nitoetra"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "telo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taona"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ady"
+    },
+    {
+      "surface": "בין",
+      "gloss": "teo amin'i"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy teo amin'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    }
+  ],
+  "timestamp": "2026-08-31T14:49:58.267359831Z",
+  "model": "glm-5.3"
+}

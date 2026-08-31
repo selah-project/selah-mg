@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary Davida nanontanian'i Yahveh indray mandeha; ary Yahveh namaly azy ka nanao hoe: Mitsangàna, midina any Qeila, fa izaho no manolotra ⟨את⟩ ny Filistita ho an-tananao.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "nanontanian'i"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "indrany mandeha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "nanontany"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "namaly azy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "קום",
+      "gloss": "mitsangàna"
+    },
+    {
+      "surface": "רד",
+      "gloss": "midina"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "any Qeila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho no"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "manolotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Filistita"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Filistita"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ho an-tananao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:23:32.821586912Z",
+  "model": "glm-5.3"
+}

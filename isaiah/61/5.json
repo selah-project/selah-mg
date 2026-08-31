@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 61:5",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 61,
+  "translation": "Ny vahiny hijanona ka hiandry ny ondry aman'osiny, ary ny zanak'ny vahiny no ho tantsaha sy mpiompy voalohaky ianareo.",
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "hijanona"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "Ny vahiny"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "hiandry"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "ny ondry aman'osiny"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ny zanak'ny"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "vahiny"
+    },
+    {
+      "surface": "אכריכם",
+      "gloss": "tantsaha"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "mpiompy voalohaky"
+    }
+  ],
+  "timestamp": "2026-08-31T15:21:26.672242516Z",
+  "model": "glm-5.3"
+}

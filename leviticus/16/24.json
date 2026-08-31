@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 16:24",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary hanasa ⟨את⟩ ny nofony amin'ny rano any amin'ny fitoerana masina, ary hitafy ⟨את⟩ ny fitafiany, ary hivoaka, ary hanatanteraka ⟨את⟩ ny dorany fanatitra sy ⟨את⟩ ny doran'ny vahoaka fanatitra, ary hanao fanavotana ho azy no ho an'ny vahoaka.",
+  "tokens": [
+    {
+      "surface": "ורחץ",
+      "gloss": "hanasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny nofony"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nofony"
+    },
+    {
+      "surface": "במים",
+      "gloss": "amin'ny rano"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "any amin'ny"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "fitoerana masina"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "hitafy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitafiany"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "fitafiany"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "hivoaka"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "hanatanteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny dorany fanatitra"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "dorany fanatitra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny doran'ny vahoaka"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "doran'ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "hanao fanavotana"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "no ho an'ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    }
+  ],
+  "timestamp": "2026-08-31T13:18:25.776163020Z",
+  "model": "glm-5.3"
+}

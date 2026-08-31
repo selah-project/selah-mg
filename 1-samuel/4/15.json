@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 4:15",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary Eli dia zanaka lahy sivy amby sivifolo taona, ary efaanjana ny masony ka tsy nahita intsony.",
+  "tokens": [
+    {
+      "surface": "ועלי",
+      "gloss": "Ary Eli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka lahy"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "sivifolo"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "sivy amby"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "ny masony"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "efaanjana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "nahita"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "intsony"
+    }
+  ],
+  "timestamp": "2026-08-31T14:15:41.853566284Z",
+  "model": "glm-5.3"
+}

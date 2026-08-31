@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Mipetraka ao amin'ny ambositry ny tokontany izy; ao amin'ny zava-miafina dia mamono ny tsy manan-tsiny; ny masony miambina miafina ⟨ny very hery⟩.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Mipetraka"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "ao amin'ny ambositry"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "ny tokontany"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "ao amin'ny zava-miafina"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "mamono"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ny tsy manan-tsiny"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ny masony"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "ny very hery"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "miambina miafina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:53.991298498Z",
+  "model": "glm-5.3"
+}

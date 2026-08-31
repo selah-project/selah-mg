@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-kings 8:50",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary hamela heloka ianao amin'ny olonao izay efa nanota taminao sy amin'ny famadihana rehetra izay nataony taminao, ka hanome fangorinana eo anatrehan'ny mpamosavy azy ireo ianao, mba hangorinao sy ho tondrainao famindram-po.",
+  "tokens": [
+    {
+      "surface": "וסלחת",
+      "gloss": "Ary hamela heloka ianao"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "amin'ny olonao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "efa nanota"
+    },
+    {
+      "surface": "לך",
+      "gloss": "taminao"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "sy amin'ny ... rehetra"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "ny famadihana rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "בך",
+      "gloss": "taminao"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ka hanome ... ianao"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "fangorinana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anatrehany"
+    },
+    {
+      "surface": "שביהם",
+      "gloss": "ny mpamosavy azy ireo"
+    },
+    {
+      "surface": "ורחמום",
+      "gloss": "mba hangorinao sy ho tondrainao famindram-po"
+    }
+  ],
+  "timestamp": "2026-08-31T14:42:52.780425023Z",
+  "model": "glm-5.3"
+}

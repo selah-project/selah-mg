@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 19:25",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Tsipazo ny mpaniratsira, dia hahataitra ny tsy ampy saina; ary anoaho ny manam-pahalalana, dia hahatakatra fahalalana izy.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "ny mpaniratsira"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "tsipazo"
+    },
+    {
+      "surface": "ופתי",
+      "gloss": "dia ny tsy ampy saina"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "hahataitra"
+    },
+    {
+      "surface": "והוכיח",
+      "gloss": "ary anoaho"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "ny manam-pahalalana"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "hahatakatra"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "fahalalana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:55:04.778860688Z",
+  "model": "glm-5.3"
+}

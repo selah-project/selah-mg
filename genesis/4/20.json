@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary Adà niteraka an'i Yabal; izy no rain'izay monina ao an-dralanela sy mpiompy biby fiompy.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yabal"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yabal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "היה",
+      "gloss": "no rain'"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rain'"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "monina"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ralanela"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "biby fiompy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:09.801683891Z",
+  "model": "glm-5.3"
+}

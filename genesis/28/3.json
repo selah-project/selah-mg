@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Ary El Shadday hitso-drano anao ⟨את⟩ sy hahavoky anao ary hampitombo anao, dia ho fivorian'ny firenena ianao.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ary El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "hitso-drano"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "anao (i Jakoba)"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "sy hahavoky anao"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "ary hampitombo anao"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "dia ho"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "fivorian'ny"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "firenena"
+    }
+  ],
+  "timestamp": "2026-08-31T12:43:38.180720438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 132,
+  "translation": "Nohon'i Davida mpanomponao aza, aza manamaizina ny tavin'ny Mesianao.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "noho"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "i Davida"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mpanomponao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "manamaizina"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ny taviny"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "ny Mesianao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:13.527221023Z",
+  "model": "glm-5.3"
+}

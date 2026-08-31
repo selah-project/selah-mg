@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 53,
+  "translation": "Tsy mahalala va ny mpanao faharatsana, izay mihinana ny oloko fa hanina mofo? Tsy niantso an'i Elohim izy.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "va"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tsy mahalala"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ny mpanao"
+    },
+    {
+      "surface": "און",
+      "gloss": "faharatsiana"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "izay mihinana"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ny oloko"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "fa hanina"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mofo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "niantso"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:45.735443776Z",
+  "model": "glm-5.3"
+}

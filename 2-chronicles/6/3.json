@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary ny mpanjaka nitarika ny tavany ka nitso-drano ⟨את⟩ ny fiangonana rehetra tamin'i Yisraela; ary ny fiangonana rehetra tamin'i Yisraela nijoro.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "nitarika"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavany"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ny tavany"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ka nitso-drano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiangonana rehetra tamin'i Yisraela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "fiangonana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ny … rehetra"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "fiangonana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "nijoro"
+    }
+  ],
+  "timestamp": "2026-08-31T18:38:05.626684938Z",
+  "model": "glm-5.3"
+}

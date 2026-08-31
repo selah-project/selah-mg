@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 27:5",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ary hanorina eo alitara ho an'i Yahveh Elohim ianao, alitara vato, tsy mba hanenjehanao vy amin'ireo.",
+  "tokens": [
+    {
+      "surface": "ובנית",
+      "gloss": "Ary hanorina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "eo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "vato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "mba hanenjehanao"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "amin'ireo"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "vy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:48:58.137070907Z",
+  "model": "glm-5.3"
+}

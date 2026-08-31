@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary niakatra maraina be izy, ary ny masoandro niposaka teo ambonin'ny rano, ary hitan'i Moab eny ambanin'ny rano ⟨את⟩ ny rano, fa mena toy ny ra.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "niakatra maraina be"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tamin'ny maraina"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "ary ny masoandro"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "niposaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo ambonin'ny"
+    },
+    {
+      "surface": "המים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ary hitan'i"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "eny ampitan'ny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rano"
+    },
+    {
+      "surface": "המים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "mena"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "toy ny ra"
+    }
+  ],
+  "timestamp": "2026-08-31T14:52:04.781288243Z",
+  "model": "glm-5.3"
+}

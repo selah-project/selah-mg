@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "ho an'i Hetsona — ny fianakavian'ny Hetsonita; ho an'i Karmia — ny fianakavian'ny Karmita.",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "ho an'i Hetsona"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fianakavian"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "ny Hetsonita"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "ho an'i Karmia"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "fianakavian"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "ny Karmita"
+    }
+  ],
+  "timestamp": "2026-08-31T13:33:46.480666455Z",
+  "model": "glm-5.3"
+}

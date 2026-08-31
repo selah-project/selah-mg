@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 88:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 88,
+  "translation": "Ho fantatra va ao amin'ny maizina ny mahagaganao, ary ny fahamarinanao ao amin'ny tany fandrianana?",
+  "tokens": [
+    {
+      "surface": "היודע",
+      "gloss": "ho fantatra va"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ao amin'ny maizina"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "ny mahagaganao"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "ary ny fahamarinanao"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ao amin'ny tany"
+    },
+    {
+      "surface": "נשיה",
+      "gloss": "fandrianana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:05.558714584Z",
+  "model": "glm-5.3"
+}

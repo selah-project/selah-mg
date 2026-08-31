@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 107,
+  "translation": "Dia mifaly izy ireo satria tonga tony, ary ⟨Izy⟩ mitondra azy ho any amin'ny seranana tiany.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "Dia mifaly izy ireo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "tonga tony"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "ary mitondra azy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "seranana"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "tiany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:20.055804102Z",
+  "model": "glm-5.3"
+}

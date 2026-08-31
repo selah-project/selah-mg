@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Izaho no niantso Anao, satria valio aminao aho, ô El; tehirizo mba hihainoana ny sofinao ahy, henoy ny teniko.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "no niantso Anao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "valio aminao aho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ô El"
+    },
+    {
+      "surface": "הט",
+      "gloss": "tehirizo mba hihainoana"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ny sofinao"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "henoy"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ny teniko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:17.545564246Z",
+  "model": "glm-5.3"
+}

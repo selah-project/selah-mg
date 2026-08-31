@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 64,
+  "translation": "Izay nanao maranitra ny lelany toy ny sabatra, ka nanitsy tsy hitoerany ny zana-tsipìka — teny mangidy.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Izay"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "nanao maranitra"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "toy ny sabatra"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ny lelany"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ka nanitsy tsy hitoerany"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "zana-tsipìkany"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "teny"
+    },
+    {
+      "surface": "מר",
+      "gloss": "mangidy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:24.390153668Z",
+  "model": "glm-5.3"
+}

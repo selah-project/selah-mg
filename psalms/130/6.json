@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 130,
+  "translation": "Ny fanahiko ⟨manandrats ny⟩ Adonay, mihoatra noho ny mpiambina manana ny maraina, mpiambina manana ny maraina.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "ny fanahiko"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "⟨manandrats ny⟩ Adonay"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "mihoatra noho ny mpiambina"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "manana ny maraina"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "mpiambina"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "manana ny maraina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:59.257556382Z",
+  "model": "glm-5.3"
+}

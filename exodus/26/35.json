@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 26:35",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary apetraho ivelan'ny farao ny ⟨את⟩ latabatra, ary ny ⟨את⟩ jiro hitsin-dalana eo anoloan'ny latabatra, eo amin'ny ilan'ny tranolay atsimo; ary ny latabatra apetraho amin'ny ilany avaratra.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "apetraho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "latabatra"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "latabatra"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ivelan'ny"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "farao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jiro hitsin-dalana"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "jiro hitsin-dalana"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "eo anoloan'ny"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "latabatra"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "ilan'ny"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tranolay"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "atsimo"
+    },
+    {
+      "surface": "והשלחן",
+      "gloss": "ary ny latabatra"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "apetraho"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "ilany"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "avaratra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:04:36.873301638Z",
+  "model": "glm-5.3"
+}

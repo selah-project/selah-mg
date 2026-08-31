@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 8:6",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Satria nolavin'ity olona ity ⟨את⟩ ny rano mahatsinjaky i Shiloah, sady mifaly amin'i Retsin sy amin'ny zanak'i Remaliahu",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "satria"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "nolavin'"
+    },
+    {
+      "surface": "העם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity ... ity"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rano mahatsinjaky i Shiloah"
+    },
+    {
+      "surface": "מי",
+      "gloss": "rano"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "Shiloah"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "mahatsinjaka"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "tsinyinaky"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "sady mifaly"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Retsin sy ny zanak'i Remaliahu"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "sy ny zanaka"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaliahu"
+    }
+  ],
+  "timestamp": "2026-08-31T15:04:35.148791195Z",
+  "model": "glm-5.3"
+}

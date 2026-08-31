@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary ny mpanjaka Shelomoh naniraka ⟨את⟩ tamin'ny tàn'i Benayahoa zanak'i Yehoyada, ka namely azy izy ka maty izy.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "naniraka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "tamin'ny tàna"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benayahoa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "ka namely"
+    },
+    {
+      "surface": "בו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ka maty"
+    }
+  ],
+  "timestamp": "2026-08-31T14:40:23.786559688Z",
+  "model": "glm-5.3"
+}

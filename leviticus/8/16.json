@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nalainy ⟨את⟩ ny tavy rehetra izay eo ambony ny tatavia-damosina, sy ⟨את⟩ ilay ampahan'ny aty, ary ⟨את⟩ ny voa roa sy ⟨את⟩ ny taviny; dia nampandoa setroka teo ambony ny alitara i Moshe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nalainy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavy rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ny tavy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ny tatavia-damosina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilay ampahan'ny aty"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "ampahan'ny aty"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "aty"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny voa roa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "roa"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ny voa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny taviny"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "ny taviny"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "nampandoa setroka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "i Moshe"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "teo ambony ny alitara"
+    }
+  ],
+  "timestamp": "2026-08-31T13:14:35.380515074Z",
+  "model": "glm-5.3"
+}

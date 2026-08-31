@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 113,
+  "translation": "Mba hampiarahany azy amin'ireo manamboninahitra, amin'ireo mpanapaka amin'ny olony.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "hampiarahany hitoe-paka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "amin'"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "ireo manamboninahitra"
+    },
+    {
+      "surface": "עם",
+      "gloss": "amin'"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "ireo mpanapaka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "amin'ny olony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:28.811906530Z",
+  "model": "glm-5.3"
+}

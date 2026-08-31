@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary Moshe naka ⟨את⟩ ny vadiny sy ⟨את⟩ ny zanany, ka nampitaingina azy teo ambony boriki, dia niverina nankany amin'ny tany Mitsrayim; ary Moshe naka ⟨את⟩ ny tsorakazon'i Elohim tao an-tànany.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "naka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vadiny"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ny vadiny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "nampitaingina azy"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo ambony"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "boriki"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "niverina"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "nankany amin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "naka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tsorakazo"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ny tsorakazo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "tao an-tànany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:56:14.567231908Z",
+  "model": "glm-5.3"
+}

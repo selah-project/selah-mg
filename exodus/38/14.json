@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 38:14",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Vorona [ambaadim-bava] dimy ambin'ny folo havoana ho amin'ny soroka iray, ary ny tsangambatony telo sy ny fotony telo.",
+  "tokens": [
+    {
+      "surface": "קלעים",
+      "gloss": "ambaadim-bava"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "dimy"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ambin'ny folo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "havoana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho amin'ny"
+    },
+    {
+      "surface": "הכתף",
+      "gloss": "soroka iray"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "ny tsangambatony"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "telo"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ary ny fotony"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "telo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:09:02.111124061Z",
+  "model": "glm-5.3"
+}

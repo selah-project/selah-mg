@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary niteny tamin'ny zanany izy ka nanao hoe: Ambenao ho ahy ⟨את⟩ ny boriky; ka nambena izany ireo.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ary niteny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "Ambenao"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny boriky"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "ny boriky"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "ka nambena izany ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:45:47.821530379Z",
+  "model": "glm-5.3"
+}

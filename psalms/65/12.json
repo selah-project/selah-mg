@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 65,
+  "translation": "Voasatro-boninahitra ny taona amin'ny soanao; ary ny lalanao dia mandriatra lanja be.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "voasatro-boninahitra"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ny taona"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "amin'ny soanao"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "ary ny lalanao"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "mandriatra"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "lanja be"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:11.976821897Z",
+  "model": "glm-5.3"
+}

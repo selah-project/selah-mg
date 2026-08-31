@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Hitako ⟨את⟩ ny asa rehetra izay natao ambanin'ny masoandro, ary indro, izy rehetra dia hevel sy fahorian'ny rivotr'ahitra.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Hitako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny asa rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "ny asa"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "izay natao"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ambanin'ny"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "masoandro"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ary indro"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "izy rehetra"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "sy fahorian'ny"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rivotr'ahitra"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:00.162035750Z",
+  "model": "glm-5.3"
+}

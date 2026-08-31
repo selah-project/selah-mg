@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 68,
+  "translation": "Nihorohano ny tany, eny, nitete mihitsy ny lanitra tamin'ny fanatrehana Elohim — ity no Sinay — tamin'ny fanatrehana Elohim, Elohin'i Yisrael.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "nihorohano"
+    },
+    {
+      "surface": "אף",
+      "gloss": "eny"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "nitete"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tamin'ny fanatrehana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "no Sinay"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tamin'ny fanatrehana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:00.786800192Z",
+  "model": "glm-5.3"
+}

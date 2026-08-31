@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 58,
+  "translation": "Ho an'ny mpiventy hira. Aza ravao. Salamo nataon'i David. Miktama.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho an'ny mpiventy hira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ravao"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nataon'i David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Miktama"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:13.988476050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 14:30",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary ady nisy teo anelanelan'i Rehabeama sy Yerobeama nandritra ny andro rehetra.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Ary ady"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nisy"
+    },
+    {
+      "surface": "בין",
+      "gloss": "teo anelanelan'i"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeama"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerobeama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "reo rehetra"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "andro"
+    }
+  ],
+  "timestamp": "2026-08-31T14:46:18.577252567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 82,
+  "translation": "Tsy mahalala ⟨izy⟩ ary tsy mandala; ao anatin'ny maizina no mandeha; mihozongozona ny fanorenana rehetra amin'ny tany.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "mandala"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "ao anatin'ny maizina"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "no mandeha"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "mihozongozona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "fanorenana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:35.149110034Z",
+  "model": "glm-5.3"
+}

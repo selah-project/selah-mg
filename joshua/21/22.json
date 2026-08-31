@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "sy ⟨את⟩ Kibtsayima sy ⟨את⟩ tany manodidina azy, ary ⟨את⟩ Beti-Horona sy ⟨את⟩ tany manodidina azy — tanàna efatra.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Kibtsayima"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kibtsayima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "tany manodidina azy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tany manodidina azy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Beti-Horona"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Horona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "tany manodidina azy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tany manodidina azy"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "efatra"
+    }
+  ],
+  "timestamp": "2026-08-31T14:02:29.551627127Z",
+  "model": "glm-5.3"
+}

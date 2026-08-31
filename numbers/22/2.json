@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary hitan'i Balaka zanak'i Tsipora ⟨את⟩ izay rehetra nataon'i Yisraela tamin'ny Emorita.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hitan'i"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balaka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tsipora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataon'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "tamin'ny Emorita"
+    }
+  ],
+  "timestamp": "2026-08-31T13:33:00.077425967Z",
+  "model": "glm-5.3"
+}

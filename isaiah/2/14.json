@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary amin'ny tendrombohitra avo rehetra, ary amin'ny havoitra mandrahatra rehetra,",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ary amin'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "avo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ary amin'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "havoitra"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "mandrahatra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:02:28.310553394Z",
+  "model": "glm-5.3"
+}

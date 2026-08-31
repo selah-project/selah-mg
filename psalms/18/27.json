@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Amin'ny madio ⟨ianao⟩ maneho fahadiovana; ary amin'ny miolikoly ⟨ianao⟩ maneho fiolikoly.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "madio"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "maneho fahadiovana"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ary amin'ny"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "miolikoly"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "maneho fiolikoly"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:50.264213593Z",
+  "model": "glm-5.3"
+}

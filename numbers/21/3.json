@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary nihaino ny feon'i Yisrael Yahveh, ka nanolotra ⟨את⟩ ny Kenaanita, dia nozongozony ⟨את⟩ ireo sy ⟨את⟩ ny tanànany, ary ny anaran'io toerana io dia nataony hoe Horma.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ny feon'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nanolotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Kenaanita"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ny Kenaanita"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "nozongozony"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ ireo",
+      "marks": "ny Kenaanita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tanànany"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "ny tanànany"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nataony hoe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ny anaran'"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "io toerana io"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Horma"
+    }
+  ],
+  "timestamp": "2026-08-31T13:32:07.480400645Z",
+  "model": "glm-5.3"
+}

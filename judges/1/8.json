@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary ny taranak'i Yehuda niady tamin'i Yeroshalayim ka naharesy ⟨את⟩ azy, ka namely azy tamin'ny lelan-tsabatra, ary ⟨את⟩ ny tanàna natsipy tao anaty afo.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "Ary ... niady"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny taranak'i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "tamin'i Yeroshalayim"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "ka naharesy"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ azy",
+      "marks": "Yeroshalayim"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "ka namely azy"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "tamin'ny lelan-"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tsabatra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny tanàna"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ny tanàna"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "natsipy"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tao anaty afo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:04:36.603310073Z",
+  "model": "glm-5.3"
+}

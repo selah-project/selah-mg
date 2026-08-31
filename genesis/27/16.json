@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ary ny hoditr'ilay zanak'osy nataony teo an-tanany sy teo amin'ny tendany lemaka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny hoditr'ilay zanak'osy"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "hoditra"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "zanak'osy"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "osy"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "nataony teo"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo an-"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tanany"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy teo amin'ny"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "lemaka"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "tendany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:43:28.966645121Z",
+  "model": "glm-5.3"
+}

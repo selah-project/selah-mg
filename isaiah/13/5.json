@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 13:5",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Mavy avy amin'ny tany lavitra, avy amin'ny faran'ny lanitra, Yahveh sy ⟨ny⟩ fitaovan'ny fahatezerany, handrava ⟨ny⟩ tany manontolo.",
+  "tokens": [
+    {
+      "surface": "באים",
+      "gloss": "mavy"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "avy amin'ny tany"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "lavitra"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "avy amin'ny farany"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "lanitra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "sy ny fitaovana"
+    },
+    {
+      "surface": "זעמו",
+      "gloss": "fahatezerany"
+    },
+    {
+      "surface": "לחבל",
+      "gloss": "handrava"
+    },
+    {
+      "surface": "כל",
+      "gloss": "manontolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:06:12.783521623Z",
+  "model": "glm-5.3"
+}

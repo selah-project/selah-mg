@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Maso muy noho ny fanavotanao sy ho an'ny tenin'ny fahamarinanao.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "maso"
+    },
+    {
+      "surface": "кלו",
+      "gloss": "muy"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "noho ny fanavotanao"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "sy ho an'ny tenin'ny"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "fahamarinanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:24.313914089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Halako ny fiangonan'ny mpanao ratsy, ary amin'ny meloka tsy hipetraka aho.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "halako"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "fiangonana"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ny mpanao ratsy"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ary amin'ny"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "meloka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "hipetraka aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:46.826963510Z",
+  "model": "glm-5.3"
+}

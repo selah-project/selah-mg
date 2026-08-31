@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary Yehonatan nanesotra ⟨את⟩ ilay akanjo lamba izay tafiditra taminy ka nanolotra an'i David izany, mbamin'ny fitafiany, hatramin'ny sabany, hatramin'ny tsipìkany, ary hatramin'ny fehikibony.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "nanesotra"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay akanjo lamba"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "ilay akanjo lamba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tafiditra taminy"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "ka nanolotra izany"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "an'i David"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "mbamin'ny fitafiany"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hatramin'ny"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sabany"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hatramin'ny"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "tsipìkany"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hatramin'ny"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "fehikibony"
+    }
+  ],
+  "timestamp": "2026-08-31T18:02:29.863665920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 139,
+  "translation": "izay milaza Anao amin'ny fikasana ratsy, ry fahavalo, mandray ny Anaranao amim-pahadisoana.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "milaza Anao"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "amin'ny fikasana ratsy"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mandray"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "amim-pahadisoana"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "ry fahavalo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:34.154178418Z",
+  "model": "glm-5.3"
+}

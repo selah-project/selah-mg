@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 55,
+  "translation": "Tandremano aho ka valio aho; very tetezana aho amin'ny fikarakarako ka mibetsibetsika.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Tandremano"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aho"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ka valio aho"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "very tetezana aho"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "amin'ny fikarakarako"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "ka mibetsibetsika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:04.557919668Z",
+  "model": "glm-5.3"
+}

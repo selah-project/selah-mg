@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Tsy hiorina amin'ny haratsiana ny olona; fa ny fakan'ny marina tsy hangovitra mihitsy.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "hiorina"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "amin'ny haratsiana"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "fa ny faka"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ny marina"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mihitsy"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "hangovitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:52:57.596838353Z",
+  "model": "glm-5.3"
+}

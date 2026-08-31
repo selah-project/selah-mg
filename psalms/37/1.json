@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Fihiran'i Davida. Aza mifohy fahatezerana amin'ny mpanao ratsy, aza mialona ny mpanao tsi-fahamarinana.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Fihiran'i Davida"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "mifohy fahatezerana"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "amin'ny mpanao ratsy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "mialona"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "ny mpanao"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "tsi-fahamarinana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:40.080954345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Fandrao hanamavo anao ilay mandre, ary ny tsaratsaranao tsy hisy hiala aminao.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "fandrao"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "hanamavo anao"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ilay mandre"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "ary ny tsaratsaranao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "hisy hiala aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:56:07.509093970Z",
+  "model": "glm-5.3"
+}

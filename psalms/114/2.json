@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 114,
+  "translation": "Lasa fivavahana ho an'i Yahveh i Yehuda, lasa fanjakany kosa i Yisraela",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "Lasa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "i Yehuda"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "fivavahana ho an'i Yahveh"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i Yisraela"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "fanjakany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:00.870259595Z",
+  "model": "glm-5.3"
+}

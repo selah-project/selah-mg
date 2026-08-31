@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 49,
+  "translation": "Fa ny fanahiny no itsofan-teny velona ihany izy, ary hankalaza anao ⟨ny olona⟩ noho izay tsara ataonao ho anao tenanao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ny fanahiny"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "velona ihany izy"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "itsofan-teny"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "ary hankalaza anao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "noho izay"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "tsara ataonao"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao tenanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:30:57.950437438Z",
+  "model": "glm-5.3"
+}

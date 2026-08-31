@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary Yahveh nitsangana mpanohitra ho an'i Shelomo, dia ⟨את⟩ Hadada Edomita, taranak'ny mpanjaka izy tao Edoma.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Ary ... nitsangana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "mpanohitra"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ho an'i Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadada Edomita"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadada"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Edomita"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "taranak'"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "tao Edoma"
+    }
+  ],
+  "timestamp": "2026-08-31T14:45:24.530115162Z",
+  "model": "glm-5.3"
+}

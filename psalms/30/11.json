@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Henoy, ry Yahveh, ka mamindra fo amiko; ry Yahveh, mijanòa hanao mpamonjy ahy.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Henoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ka mamindra fo amiko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "היה",
+      "gloss": "mijanòa ho"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mpamonjy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:33.478101931Z",
+  "model": "glm-5.3"
+}

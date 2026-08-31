@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ary raha te hivaina ny ilay nanamasina ⟨את⟩ ny tranony, dia hanampy ny ampahadimin'ny volafotsy amin'ny vidinareo izy, dia ho azy izany.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ary raha"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "ny ilay nanamasina"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "te hiviana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tranony"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ny tranony"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "dia hanampy"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "ny ampahadimin'ny"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "vidinareo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "amin'izany"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dia ho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy izany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:23:30.539756134Z",
+  "model": "glm-5.3"
+}

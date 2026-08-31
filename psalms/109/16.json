@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 109,
+  "translation": "Satria tsy nahatsiaro hanao hesed izy, fa nanenjika ny lehilahy mahantra sy ny malailay, sy izay torotoro fo, hamonoana azy.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Satria"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nahatsiaro"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "nanenjika"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mahantra"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "sy ny malailay"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "sy izay torotoro"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "hamonoana azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:51.552673928Z",
+  "model": "glm-5.3"
+}

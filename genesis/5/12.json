@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary Kenan nahay fito ambin'ny folo taona, dia niteraka ⟨את⟩ an'i Mahalalel.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "nahay"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "fito ambin'ny folo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Mahalalel"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:52.708620509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Efa matavy toy ny tavy ny fony, fa izaho kosa mifaly amin'ny Torahinao.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "Efa matavy (henjana)"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "toy ny tavy"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ny fony"
+    },
+    {
+      "surface": "אני",
+      "gloss": "fa izaho kosa"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "amin'ny Torahinao"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "mifaly"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:55.853212572Z",
+  "model": "glm-5.3"
+}

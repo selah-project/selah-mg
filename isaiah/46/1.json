@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 46:1",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 46,
+  "translation": "Niondrika Bel, niempo Nebo; lasa sampin'ireo ho an'ny biby sy ho an'ny biby fiompy; entinareo navesatra no nampakiana, enta-mavesatra ho an'izay efa vizana.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "niondrika"
+    },
+    {
+      "surface": "בל",
+      "gloss": "Bel"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "niempo"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nevo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "lasa"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "sampin'ireo"
+    },
+    {
+      "surface": "לחיה",
+      "gloss": "ho an'ny biby"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "sy ho an'ny biby fiompy"
+    },
+    {
+      "surface": "נשאתיכם",
+      "gloss": "entinareo"
+    },
+    {
+      "surface": "עמוסות",
+      "gloss": "navesatra no nampakiana"
+    },
+    {
+      "surface": "משא",
+      "gloss": "enta-mavesatra"
+    },
+    {
+      "surface": "לעיפה",
+      "gloss": "ho an'izay efa vizana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:17:28.463511997Z",
+  "model": "glm-5.3"
+}

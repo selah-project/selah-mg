@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 92,
+  "translation": "Ary nampakatra ho toy ny tandroky ny omby dia ny tandroko; notsipazina tamin'ny diloilo maitso mihitsy aho.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "nampakatra"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "toy ny an'ny omby dia"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "ny tandroko"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "notsipazina"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "tamin'ny diloilo"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "maitso (vaovao)"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:01.393565309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 6:24",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary dimy hatcho ⟨no⟩ nelatry ny kerobima voalohany, ary dimy hatcho ny elatry ny kerobima faharoa; folo hatcho hatramin'ny tendron'ny elany ka hatramin'ny tendron'ny elany.",
+  "tokens": [
+    {
+      "surface": "וחמש",
+      "gloss": "ary dimy"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hatcho"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "elatra"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "ny kerobima"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "voalohany"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ary dimy"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hatcho"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "elatra"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "ny kerobima"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "faharoa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "folo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hatcho"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "hatramin'ny tendron'ny"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "elany"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "tendron'ny"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "elany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:03:32.330604645Z",
+  "model": "glm-5.3"
+}

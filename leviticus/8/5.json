@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary hoy Moshe tamin'ny fiangonana: Ity no teny izay nandidian'i Yahveh hatao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "fiangonana"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Ity"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "no teny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidian'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hatao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:13:59.580671768Z",
+  "model": "glm-5.3"
+}

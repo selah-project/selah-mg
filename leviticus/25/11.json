@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 25:11",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Yovel izy, taona fahadimy amby efapolo no ho anareo; aza mamafy ianareo, ary aza jinjaina ⟨את⟩ ny voa teratery, ary aza voangona ⟨את⟩ ny paiso tsy notapahina.",
+  "tokens": [
+    {
+      "surface": "יובל",
+      "gloss": "yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "taona"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "fahadimy amby efapolo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "no ho"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תזרעו",
+      "gloss": "mamafy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תקצרו",
+      "gloss": "jinjaina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny voa teratery"
+    },
+    {
+      "surface": "ספיחיה",
+      "gloss": "voa teratery"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תבצרו",
+      "gloss": "voangona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny paiso tsy notapahina"
+    },
+    {
+      "surface": "נזריה",
+      "gloss": "paiso tsy notapahina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:21:08.666507628Z",
+  "model": "glm-5.3"
+}

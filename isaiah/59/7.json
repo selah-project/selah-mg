@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 59:7",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 59,
+  "translation": "Ny tongony mihazakazaka mankany amin'ny ratsy, ary maika handatsaka ra tsy manan-tsiny; ny fisainany dia fisainan-dratsy; fanimbana sy fandringanana eo amin'ny lalany.",
+  "tokens": [
+    {
+      "surface": "רגליהם",
+      "gloss": "ny tongony"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "mankany amin'ny ratsy"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "mihazakazaka"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "ary maika"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "handatsaka"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ra"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "tsy manan-tsiny"
+    },
+    {
+      "surface": "מחשבותיהם",
+      "gloss": "ny fisainany"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "fisainan-"
+    },
+    {
+      "surface": "און",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "שד",
+      "gloss": "fanimbana"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "sy fandringanana"
+    },
+    {
+      "surface": "במסלותם",
+      "gloss": "eo amin'ny lalany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:21:55.562748215Z",
+  "model": "glm-5.3"
+}

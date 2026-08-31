@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Toràhy iray no ho an'ny teratany ⟨sy⟩ ho an'ny vahiny mitoetra ao aminareo.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Toràhy iray"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "iray"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ho an'ny"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "teratany"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "sy ho an'ny vahiny"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "mitoetra"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "ao aminareo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:51.036231140Z",
+  "model": "glm-5.3"
+}

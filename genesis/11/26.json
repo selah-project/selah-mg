@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary Teraha velahany dimy amby enimpolo taona izy, ka niteraka an' i Avraha, an' i Nahor, ary an' i Harana.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "vela"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "i Teraha"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "dimy amby enimpolo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ka niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an' i Avraha"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "an' i Avraha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an' i Nahor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "an' i Nahor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "an' i Harana"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "an' i Harana"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:40.181978847Z",
+  "model": "glm-5.3"
+}

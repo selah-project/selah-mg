@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 13:12",
+  "book": "nehemiah",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary ny Joda rehetra nitondra ny fahafolon'ny vary sy ny divay vaovao ary ny diloilo ho any amin'ny tahiry.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Joda"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "nitondra"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "fahafolo"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "vary"
+    },
+    {
+      "surface": "והתירוש",
+      "gloss": "divay vaovao"
+    },
+    {
+      "surface": "והיצהר",
+      "gloss": "diloilo"
+    },
+    {
+      "surface": "לאוצרות",
+      "gloss": "ho any amin'ny tahiry"
+    }
+  ],
+  "timestamp": "2026-08-31T18:19:01.959495957Z",
+  "model": "glm-5.3"
+}

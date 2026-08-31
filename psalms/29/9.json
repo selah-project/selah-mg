@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ny feon'i Yahveh mampananatera ⟨את⟩ ny diera, ary manaisotra ny ala; ary ao amin'ny tempoliny izy rehetra manao hoe: Voninahitra!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "feo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "mampananatera"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "diera"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "manaisotra"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "ala"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "ao amin'ny tempoliny"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "izy rehetra"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "manao hoe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Voninahitra"
+    }
+  ],
+  "timestamp": "2026-08-31T18:35:11.609943389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Mibodivody ve ny liona ao an'ala ka tsy manana sakafo? Manome ny feony ve ny zana-liona avy ao amin'ny lavaka nitoerany raha tsy misy trandrahiny?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "Mibodivody ve"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ny liona"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "ao an'ala"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "ka tsy manana sakafo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy manana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "Manome ve"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "ny zana-liona"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "ny feony"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "avy ao amin'ny lavaka nitoerany"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "raha tsy"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "trandrahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:11:12.652184333Z",
+  "model": "glm-5.3"
+}

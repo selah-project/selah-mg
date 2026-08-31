@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "psalms 119:81",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Kelia ho an'ny famonjenao ny aiko, ho an'ny teninao no nandokoanako.",
+  "tokens": [
+    {
+      "surface": "כלתה",
+      "gloss": "Kelia ho an'ny"
+    },
+    {
+      "surface": "לתשועתך",
+      "gloss": "famonjenao"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "aiko"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "ho an'ny teninao"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "no nandokoanako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:45.681222273Z",
+  "model": "glm-5.3"
+}

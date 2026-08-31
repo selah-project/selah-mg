@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 97,
+  "translation": "Yahveh nanjaka — mifalia ry tany, mifalia ry nosy maro.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nanjaka"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "mifalia"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ry tany"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "mifalia"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ry nosy"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maro"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:44.901458448Z",
+  "model": "glm-5.3"
+}

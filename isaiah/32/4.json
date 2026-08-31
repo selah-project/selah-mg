@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ary ny fon'ireo faingana-lefitra ho hitany fahalalana, ary ny lelan'ireo mirengeza ho faingana hiteny mazava tsara.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "ary ny fon'"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "ireo faingana-lefitra"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ho hitany"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "fahalalana"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "ary ny lelan'"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "ireo mirengeza"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "ho faingana"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "hiteny"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "mazava tsara"
+    }
+  ],
+  "timestamp": "2026-08-31T18:06:41.165232599Z",
+  "model": "glm-5.3"
+}

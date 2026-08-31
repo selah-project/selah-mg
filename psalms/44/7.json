@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Fa tsy amin'ny tsipìka izahay matoky, ary ny sabatra tsy mamonjy antsika.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "amin'ny tsipìka"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "matoky"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "ary ny sabatra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "mamonjy antsika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:35.233713907Z",
+  "model": "glm-5.3"
+}

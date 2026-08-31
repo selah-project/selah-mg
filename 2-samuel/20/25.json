@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary Sheva no mpanoratra, ary Tsadoka sy Ebiatara no mpisoratra;",
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "mpanoratra"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ary Tsadoka"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "sy Ebiatara"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "mpisoratra"
+    }
+  ],
+  "timestamp": "2026-08-31T14:35:28.691068593Z",
+  "model": "glm-5.3"
+}

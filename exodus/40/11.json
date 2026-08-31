@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary hosoronao ⟨את⟩ ny savony ⟨את⟩ sy ny fototr'i-tsy ary hohamasinanao ⟨את⟩ izy.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "ary hosoronao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "savony"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "ny savony"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ sy",
+      "marks": "fotony"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "fotony"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "ary hohamasinanao"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ izy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:50.322330319Z",
+  "model": "glm-5.3"
+}

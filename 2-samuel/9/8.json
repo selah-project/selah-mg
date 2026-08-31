@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ka niankohoka indray izy ka nanao hoe: Inona moa ny mpanomponao, fa nitsikilo hianao tamin'ny alika maty toy izaho?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "Ka niankohoka indray izy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Inona moa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ny mpanompokanao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "nitsikilo hianao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "ny alika"
+    },
+    {
+      "surface": "המת",
+      "gloss": "maty"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "toy izaho"
+    }
+  ],
+  "timestamp": "2026-08-31T14:31:18.087864690Z",
+  "model": "glm-5.3"
+}

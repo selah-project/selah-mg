@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary norentsinay ⟨את⟩ ny taniny, ka nomena ho lova ho an'ny Robenita sy ny Gadita ary ny antsasaky ny fokon'i Manase.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "norentsinay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny taniny"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "taniny"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "nomena"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "ho lova"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "ho an'ny Robenita"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "sy ny Gadita"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "ary ny antsasaky"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "fokon'"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "Manase"
+    }
+  ],
+  "timestamp": "2026-08-31T13:50:27.823118719Z",
+  "model": "glm-5.3"
+}

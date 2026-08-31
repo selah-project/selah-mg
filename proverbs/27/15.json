@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 27:15",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ny fatra tsy mijanona amin'ny andro orana be sy ⟨ny⟩ vehivavy tia fifandirana dia mitovy.",
+  "tokens": [
+    {
+      "surface": "דלף",
+      "gloss": "fatra"
+    },
+    {
+      "surface": "טורד",
+      "gloss": "tsy mijanona"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "סגריר",
+      "gloss": "orana be"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "sy ny vehivavy"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "tia fifandirana"
+    },
+    {
+      "surface": "נשתוה",
+      "gloss": "dia mitovy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:57:02.846082861Z",
+  "model": "glm-5.3"
+}

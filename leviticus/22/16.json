@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "mba tsy hampibebany ⟨את⟩ ny heloky ny fahadisoana, rehefa mihinana ⟨את⟩ ny zava masiny izy; fa Izaho no Yahveh, Izaho no manamasina azy.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "mba tsy hampibebany"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ny heloky ny fahadisoana"
+    },
+    {
+      "surface": "עון",
+      "gloss": "heloky ny"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "fahadisoana"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "rehefa mihinana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zava masiny"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "ny zava masiny"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho no"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "manamasina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:22.013195950Z",
+  "model": "glm-5.3"
+}

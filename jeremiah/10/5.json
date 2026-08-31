@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 10:5",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Tahaka ny palmie voaofana amin'ny antsy izy ireo, fa tsy miteny; tsy maintsy entina izy, fa tsy mahazo mandeha. Aza matahotra azy, fa tsy mahay manao ratsy, ary tsy mahay manao soa koa ⟨את⟩ izy.",
+  "tokens": [
+    {
+      "surface": "כתמר",
+      "gloss": "tahaka ny palmie"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "voaofana amin'ny antsy"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy ireo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "miteny"
+    },
+    {
+      "surface": "נשוא",
+      "gloss": "entina"
+    },
+    {
+      "surface": "ינשוא",
+      "gloss": "tsy maintsy entina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יצעדו",
+      "gloss": "mahazo mandeha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "matahotra"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "mahay manao ratsy"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ary ... koa"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "manao soa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy mahay"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "izy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:26:57.930798761Z",
+  "model": "glm-5.3"
+}

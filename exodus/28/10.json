@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Enina amin'ny anarany amin'ny ⟨vato⟩ iray, ary ⟨את⟩ ny anaran'ny enina sisa amin'ny vato faharoa, araka ny fahaterahany.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "enina"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "amin'ny anarany"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "vato"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "iray"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny anaran'ny enina sisa"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ny anaran'ny"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "enina"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "sisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "vato"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "faharoa"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "araka ny fahaterahany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:05:34.692938038Z",
+  "model": "glm-5.3"
+}

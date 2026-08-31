@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 6:17",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Amin'ny fotoana izay mafana izy, dia levona; amin'ny hafanany dia maty maina avy amin'ny fitoerany.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "amin'ny fotoana"
+    },
+    {
+      "surface": "יזרבו",
+      "gloss": "mafanafana"
+    },
+    {
+      "surface": "נצמתו",
+      "gloss": "levona"
+    },
+    {
+      "surface": "בחמו",
+      "gloss": "amin'ny hafanany"
+    },
+    {
+      "surface": "נדעכו",
+      "gloss": "maty maina"
+    },
+    {
+      "surface": "ממקומם",
+      "gloss": "avy amin'ny fitoerany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:00:28.041546116Z",
+  "model": "glm-5.3"
+}

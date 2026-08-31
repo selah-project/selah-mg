@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "⟨את⟩ Ny kalesy roa sy ⟨את⟩ ny omby efatra no nomeny ny zanak'i Gereshona, araka ny fanompoany.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny kalesy roa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "roa"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "ny kalesy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny omby efatra"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "efatra"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ny omby"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "no nomeny"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ny zanak'i"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gereshona"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "fanompoany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:26:09.355417775Z",
+  "model": "glm-5.3"
+}

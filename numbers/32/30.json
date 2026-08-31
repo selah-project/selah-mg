@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 32:30",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Fa raha tsy mandalo miaraka aminareo ⟨את⟩ izy mitafy fiadiana, dia hisy fananany ho ao anivonareo ao amin'ny tany Kenaana.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Fa raha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "mandalo"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "mitafy fiadiana"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ miaraka aminareo",
+      "marks": "aminareo"
+    },
+    {
+      "surface": "ונאחזו",
+      "gloss": "dia hisy fananany"
+    },
+    {
+      "surface": "בתככם",
+      "gloss": "ho ao anivonareo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ao amin'ny tany"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:37:31.911520314Z",
+  "model": "glm-5.3"
+}

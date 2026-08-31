@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Izay mataora no hitarihany amin'ny fitsarana, ary ireo mataora no hanorohany ny lalany.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "hitarihany"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "mataora"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "amin'ny fitsarana"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "hanorohany"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "mataora"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ny lalany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:54.784607452Z",
+  "model": "glm-5.3"
+}

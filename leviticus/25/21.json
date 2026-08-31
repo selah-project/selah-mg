@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary hangidy ⟨את⟩ ny fitahianako ho anareo amin'ny taona fahenina, ka hitondra ⟨את⟩ ny vokatra ho an'ny telo taona izy.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "hangidy aho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitahianako"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "ny fitahianako"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "amin'ny taona"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "fahenina"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "ka hitondra izy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vokatra"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "ny vokatra"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "ho an'ny telo"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "taona"
+    }
+  ],
+  "timestamp": "2026-08-31T13:21:03.711579580Z",
+  "model": "glm-5.3"
+}

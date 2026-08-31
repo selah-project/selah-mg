@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 45:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 45,
+  "translation": "Amin'ny fahalehibeanao mandrosoa, miakatra amin'ny teny marina sy ny fanetren-tena ary ny fahamarinana; ary ny tànanao ankavanana hampianatra anao zava-mahatahotra.",
+  "tokens": [
+    {
+      "surface": "והדרך",
+      "gloss": "ary ny fahalehibeanao"
+    },
+    {
+      "surface": "צלח",
+      "gloss": "mandrosoa"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "miakatra"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "teny"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "marina"
+    },
+    {
+      "surface": "וענוה",
+      "gloss": "sy ny fanetren-tena"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "fahamarinana"
+    },
+    {
+      "surface": "ותורך",
+      "gloss": "ary ny tànanao ankavananao hampianatra anao"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "zava-mahatahotra"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "tànanao ankavanana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:00.143258859Z",
+  "model": "glm-5.3"
+}

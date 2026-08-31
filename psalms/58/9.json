@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 58,
+  "translation": "Toy ny sokina mihintsana no handehany; hoatra ny zaza lavo avy amin'ny vehivavy, tsy mba mahita masoandro akory izy.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "toy"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "sokina"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "mihintsana"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "handehany"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "zaza lavo"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "avy amin'ny vehivavy"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tsy mba"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "mahita"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "masoandro"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:55.727520938Z",
+  "model": "glm-5.3"
+}

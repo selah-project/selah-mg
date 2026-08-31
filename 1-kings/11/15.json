@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary tonga tao izany, nony Davida tao ⟨את⟩ Edoma, ary niakatra Yoaba, jeneralin'ny tafika, hanao fandevenana ⟨את⟩ ny faty, ka namely ny lehilahy rehetra tao Edoma.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary tonga tao izany"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "nony"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edoma"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoma"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "ary niakatra"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoaba"
+    },
+    {
+      "surface": "שר",
+      "gloss": "jeneralin'"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ny tafika"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "hanao fandevenana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny faty"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "ny faty (voalamina)"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ka namely"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "tao Edoma"
+    }
+  ],
+  "timestamp": "2026-08-31T14:45:24.530270082Z",
+  "model": "glm-5.3"
+}

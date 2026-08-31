@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 109,
+  "translation": "Ary teny fankiziziana no nanodidina ahy; niady tamiko foana.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "Ary teny"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "fankiziziana"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "no nanodidina ahy"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "niady tamiko"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "foana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:58.041207764Z",
+  "model": "glm-5.3"
+}

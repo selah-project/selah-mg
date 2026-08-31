@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 138,
+  "translation": "Hisatrohaka amin'ny heikala masinao aho, ka hisaotra ⟨את⟩ ny anaranao noho ny hesed-nao sy noho ny fahamarinanao; fa efa nampivelatra ny teninao ho ambonin'ny anaranao rehetra ianao.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "hisatrohaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "heikala"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "masinao"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "ka hisaotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anaranao"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "anaranao"
+    },
+    {
+      "surface": "על",
+      "gloss": "noho ny"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-nao"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy noho ny"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "fahamarinanao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "efa nampivelatra"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho ambonin'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "anaranao"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "teninao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:36:25.641175810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 21:11",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "ka hitanao eo amin'ny babo vehivavy tsara endrika ka tia azy ianao ka alao ho vadinao izy,",
+  "tokens": [
+    {
+      "surface": "וראית",
+      "gloss": "ka hitanao"
+    },
+    {
+      "surface": "בשביה",
+      "gloss": "eo amin'ny babo"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vehivavy"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "endrika"
+    },
+    {
+      "surface": "וחשקת",
+      "gloss": "ka tia"
+    },
+    {
+      "surface": "בה",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ka alao"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ho vadinao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:46:43.040483913Z",
+  "model": "glm-5.3"
+}

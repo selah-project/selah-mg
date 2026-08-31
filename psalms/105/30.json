@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Niswamoafota ny taniny sahala amin'ny sahona, tao anaty efitranon'ny mpanjakany.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "niswamoafota"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ny taniny"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "sahona"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "tao anaty efitranon'ny"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "mpanjakany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:13:43.218699565Z",
+  "model": "glm-5.3"
+}

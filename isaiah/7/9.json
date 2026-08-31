@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 7:9",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary ny lohan'i Efrayima dia Shomeron, ary ny lohan'i Shomeron dia zanak'i Remaljahu. Raha tsy mino ianareo, dia tsy hiorina tokoa.",
+  "tokens": [
+    {
+      "surface": "וראש",
+      "gloss": "Ary ny lohan'i"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayima"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "ary ny lohan'i"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaljahu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "mino ianareo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tokoa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תאמנו",
+      "gloss": "hiorina"
+    }
+  ],
+  "timestamp": "2026-08-31T15:04:09.363510137Z",
+  "model": "glm-5.3"
+}

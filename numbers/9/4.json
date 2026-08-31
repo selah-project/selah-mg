@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "And Moshe spoke to the children of Israel, to keep the passover.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "and ... spoke"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "the children"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Israel"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "to keep"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "the passover"
+    }
+  ],
+  "timestamp": "2026-08-31T13:27:13.194773643Z",
+  "model": "glm-5.3"
+}

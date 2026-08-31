@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 8:13",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary tsy ho tsara ⟨iny⟩ ho an'ny ratsy fanahy, ary tsy hahalonga andro izy, tahaka ny aloka, satria tsy matahotra eo anoloan'ny Elohim izy.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "Ary tsy ho tsara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ho an'ny ratsy fanahy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "hahalonga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "tahaka ny aloka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "satria"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "matahotra"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "eo anoloan'ny"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T18:18:35.142532052Z",
+  "model": "glm-5.3"
+}

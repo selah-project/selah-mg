@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 6:16",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary ireo mpanapaka dimy amin'ny Filistina nahita izany, dia niverina ho any Ekrona tamin'izay andro izay.",
+  "tokens": [
+    {
+      "surface": "וחמשה",
+      "gloss": "ary dimy"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "mpanapaka"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistina"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nahita"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "dia niverina"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "ho any Ekrona"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izay"
+    }
+  ],
+  "timestamp": "2026-08-31T14:16:25.307448019Z",
+  "model": "glm-5.3"
+}

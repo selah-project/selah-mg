@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 110,
+  "translation": "Hitsara eo amin'ny firenena Izy; mameno faty maro, manorotoro loha eo ambony tany midadasika.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "hitsara"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "eo amin'ny firenena"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "mameno"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "faty"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "manorotoro"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "loha"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "midadasika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:34.686621034Z",
+  "model": "glm-5.3"
+}

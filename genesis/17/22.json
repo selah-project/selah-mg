@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary nony efa nitsahatra [niresaka] ⟨את⟩ taminy Izy, dia niakatra Elohim avy teo ambony Avraham.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "nitsahatra"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "niresaka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ taminy"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "niakatra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "avy teo ambony"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-08-31T12:39:31.555978471Z",
+  "model": "glm-5.3"
+}

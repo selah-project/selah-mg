@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary hoy ny hazo tamin'ny aviavy: Avia, ianao ⟨את⟩, panjaka aminay.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ny hazo"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "tamin'ny aviavy"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Avia"
+    },
+    {
+      "surface": "את",
+      "gloss": "ianao",
+      "marks": "panjaka"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "panjaka"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "aminay"
+    }
+  ],
+  "timestamp": "2026-08-31T19:13:04.108616967Z",
+  "model": "glm-5.3"
+}

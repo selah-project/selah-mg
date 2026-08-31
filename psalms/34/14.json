@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Tehirizo ny lelanao tsy hanao ratsy, ary ny molotrao tsy hiteny fitaka.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Tehirizo"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "ny lelanao"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "amin'ny ratsy"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "ary ny molotrao"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "hiteny"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "fitaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:15.170212964Z",
+  "model": "glm-5.3"
+}

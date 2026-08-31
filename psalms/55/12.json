@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 55,
+  "translation": "Fahavoazana no ao anatiny, ary tsy miala amin'ny kianany ny fanery sy ny fitaka.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "fahavoazana"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ao anatiny"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "miala"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "amin'ny kianany"
+    },
+    {
+      "surface": "תך",
+      "gloss": "ny fanery"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "sy ny fitaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:19.715779303Z",
+  "model": "glm-5.3"
+}

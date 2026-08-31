@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 26:18",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary hataonao ⟨את⟩ ny tapa-kazo ho an'ny trano-lay: tapa-kazo roa amby folo ho amin'ny ilany atsimo, mianatsimo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ary hataonao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tapa-kazo"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ny tapa-kazo"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ho an'ny trano-lay"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "roa amby folo"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "tapa-kazo"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ho amin'ny ilany"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "atsimo"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "mianatsimo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:05:05.797487139Z",
+  "model": "glm-5.3"
+}

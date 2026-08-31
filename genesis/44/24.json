@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 44:24",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Ary tonga tany amin'ny mpanompoko, dia ny rainay izahay, ka nilaza tamin'ity ⟨את⟩ ny tenin'ny tompoko.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary tonga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tany"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "niakatra izahay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tany amin'ny"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mpanompoko"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ny rainay"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "ka nilaza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tamin'ity"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tenin'ny tompoko"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ny tenin'ny"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tompoko"
+    }
+  ],
+  "timestamp": "2026-08-31T12:51:28.774710680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary nampandeha izy ⟨את⟩ Rivka rahavaviny, ⟨sy⟩ ⟨את⟩ mpanono azy, ⟨sy⟩ ⟨את⟩ mpanompon'i Avraham ⟨sy⟩ ny lehilahiny.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "nampandeha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "rahavaviny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mpanono azy"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "mpanono azy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mpanompon'i Avraham"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mpanompo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny lehilahiny"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "lehilahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T17:54:54.468812328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Fangalarina iray ho an'ny zanak'ondry tsirairay, amin'ny zanak'ondry fito.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "fangalarina iray"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "iray"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "ho an'ny zanak'ondry"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "tsirairay"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "amin'ny fito"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "zanak'ondry"
+    }
+  ],
+  "timestamp": "2026-08-31T13:36:13.498406473Z",
+  "model": "glm-5.3"
+}

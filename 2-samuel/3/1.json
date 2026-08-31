@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 3:1",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary ny ady dia lava ⟨teo⟩ amin'ny tranon'i Shaol sy amin'ny tranon'i Davida; ary Davida nandeha sy nihahery, fa ny tranon'i Shaol nandeha sy nihalemy.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ary...dia"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ny ady"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "lava"
+    },
+    {
+      "surface": "בין",
+      "gloss": "amin'ny tranon'i"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy amin'ny tranon'i"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ary Davida"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "sy nihahery"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "fa ny tranon'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "ודלים",
+      "gloss": "sy nihalemy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:28:26.514256377Z",
+  "model": "glm-5.3"
+}

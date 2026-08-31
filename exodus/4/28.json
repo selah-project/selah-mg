@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary Moshe nanambara tamin'i Aharon ⟨את⟩ ny tenin'i Yahveh rehetra izay nanirahany azy, sy ⟨את⟩ ny famantarana rehetra izay nandidiany azy.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Ary ... nanambara"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "tamin'i Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tenin'i Yahveh rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ny tenin'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "nanirahany azy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny famantarana rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "ny famantarana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "nandidiany azy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:56:18.092011726Z",
+  "model": "glm-5.3"
+}

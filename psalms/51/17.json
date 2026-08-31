@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "Adonay, manokatra ny moloko, ary ny vavako hambara ny fankasitrahana anao.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ny moloko"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "manokatra"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ary ny vavako"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "hambara"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ny fankasitrahana anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:17.047652236Z",
+  "model": "glm-5.3"
+}

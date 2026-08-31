@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary hoy izy: Ity no haratsiana. Ka nariany ⟨את⟩ azy tao anivon'ny efa, ary narainy ⟨את⟩ ny vaton'ny fanitarana tamin'ny vavany.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Ity"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "no haratsiana"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "Ka nariany"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ilay vehivavy)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tao"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "anivon'ny"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "ary narainy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vaton'ny fanitarana"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "vato"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "ny fanitarana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "vavany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:19:54.654016544Z",
+  "model": "glm-5.3"
+}

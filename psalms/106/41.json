@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 106:41",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Ka natolotr'i Yahveh azy ho eo an-tanan'ny jentilisa, ary ireo nankafy azy dia nanapaka tamy.",
+  "tokens": [
+    {
+      "surface": "ויתנם",
+      "gloss": "natolotra azy"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "eo an-tanan'ny"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "jentilisa"
+    },
+    {
+      "surface": "וימשלו",
+      "gloss": "nanapaka tamy"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "שנאיהם",
+      "gloss": "ireo nankafy azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:28.093900384Z",
+  "model": "glm-5.3"
+}

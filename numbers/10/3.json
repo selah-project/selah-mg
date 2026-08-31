@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary rehefa mandatsaaka amin'ireo izy, dia miangona manatona anao ny fiangonana rehetra eo am-baravaran' ny trano fihaonana.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "mandatsaaka"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "amin'ireo"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "miangona manatona"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ny fiangonana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "baravaran'"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tranon'"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:27:03.519002597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Isaorana ho an'ny firenena rehetra ianao; tsy hisy lahy tsy mahay zaza na vavy tsy mahay zaza aminao, na amin'ny biby fiompinao.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Isaorana"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "an'ny rehetra"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hisy"
+    },
+    {
+      "surface": "בך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "lahy tsy mahay zaza"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "na vavy tsy mahay zaza"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "na amin'ny biby fiompinao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:44:06.088227411Z",
+  "model": "glm-5.3"
+}

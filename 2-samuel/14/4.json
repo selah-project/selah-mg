@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 14:4",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary ilay vehivavy Tekoita niteny tamin'ny mpanjaka, ka lavo tamin'ny tavany tamin'ny tany izy ka niankohoka, ka nanao hoe: Vonjeo, ry mpanjaka ô.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "niteny"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ilay vehivavy"
+    },
+    {
+      "surface": "התקעית",
+      "gloss": "Tekoita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "lavo"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "אפיה",
+      "gloss": "tavany"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "tamin'ny tany"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "niankohoka"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "הושעה",
+      "gloss": "Vonjeo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ry mpanjaka ô"
+    }
+  ],
+  "timestamp": "2026-08-31T14:32:36.035670239Z",
+  "model": "glm-5.3"
+}

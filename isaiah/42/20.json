@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Zahao zavatra maro ianao, nefa tsy mitandrina; sofina mihitsy no misokatra, nefa tsy mandre.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "Zahao zavatra maro ianao"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "zavatra maro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nefa tsy"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "mitandrina"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "misokatra"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "sofina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nefa tsy"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "mandre"
+    }
+  ],
+  "timestamp": "2026-08-31T15:15:18.060971045Z",
+  "model": "glm-5.3"
+}

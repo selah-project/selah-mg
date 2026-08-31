@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "An'i Davida — tamin'ny niovan'ny fitondran-tenany ⟨את⟩ teo anatrehan'i Avimeleka, ka nandroaka azy izy ka lasa izy.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "An'i Davida"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "tamin'ny niovan'ny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fitondran-tenany"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "fitondran-tenany"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anatrehan'i"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleka"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "ka nandroaka azy izy"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ka lasa izy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:04.609285220Z",
+  "model": "glm-5.3"
+}

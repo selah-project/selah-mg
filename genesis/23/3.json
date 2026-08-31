@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary nitsangana Avraham teo anivon'ny fatin'ny vadiny maty ka niresaka tamin'ny zanak'i Heth, ka nanao hoe:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "niaitsangana"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "teo anivon'ny"
+    },
+    {
+      "surface": "פני",
+      "gloss": "eo anoloan'ny"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ny fatin'ny vadiny maty"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ka niresaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heth"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe:"
+    }
+  ],
+  "timestamp": "2026-08-31T17:55:09.215624879Z",
+  "model": "glm-5.3"
+}

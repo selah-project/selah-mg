@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary niandry ⟨indray⟩ fito andro hafa izy, ka nanampy naniraka ⟨את⟩ ny voromailala hiala tamin'ny fiara.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ary niandry"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨indray⟩"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "fito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "hafa"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ka nanampy"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "naniraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny voromailala"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ny voromailala"
+    },
+    {
+      "surface": "מן",
+      "gloss": "hiala tamin'"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ny fiara"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:50.979902008Z",
+  "model": "glm-5.3"
+}

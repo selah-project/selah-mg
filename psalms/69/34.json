@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 69,
+  "translation": "Fa Yahveh mihaino ny malahelo, ary tsy manao tsinontsinona ⟨את⟩ ny baboany.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mihaino"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—\/amin'ny"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "malahelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny baboany"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "ny baboany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "manao tsinontsinona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:47.399692952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 6:49",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary ny zanak'i Yisraela dia nanome ho an'ny Levita ⟨את⟩ ny tanàna sy ⟨את⟩ ny tanimbalala manodidina azy.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "nanome"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ho an'ny Levita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tanàna"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ny tanàna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tanimbalala manodidina azy"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "ny tanimbalala manodidina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:35:55.703316336Z",
+  "model": "glm-5.3"
+}

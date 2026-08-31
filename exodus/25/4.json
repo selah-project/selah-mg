@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "ary volom-paraka rojo, lamba volombatofotsy, lamba mena avy amin'ny kankafotra, rongony tsara ary volon'osy.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "volom-paraka"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "lamba volombatofotsy"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "kankafotra"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lamba mena"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "rongony tsara"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "volon'osy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:04:32.087668389Z",
+  "model": "glm-5.3"
+}

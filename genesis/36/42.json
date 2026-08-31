@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Mpanapaka an'i Kenaza, mpanapaka an'i Temana, mpanapaka an'i Mibtsara.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "mpanapaka an'i"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Kenaz"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "mpanapaka an'i"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Teman"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "mpanapaka an'i"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "Mibtsar"
+    }
+  ],
+  "timestamp": "2026-08-31T12:47:36.767555352Z",
+  "model": "glm-5.3"
+}

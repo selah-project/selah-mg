@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary ankehitriny mijanona àry ianareo, fa hisodoko aminareo eo anatrehan'i Yahveh ⟨את⟩ ny fahamarinana rehetra nataon'i Yahveh ⟨את⟩ taminareo sy ⟨את⟩ ny razanareo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ary ankehitriny"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "mijanona àry ianareo"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "fa hisodoko aminareo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aminareo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anatrehan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahamarinana rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "fahamarinana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ taminareo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny razanareo"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ny razanareo"
+    }
+  ],
+  "timestamp": "2026-08-31T18:02:15.219621054Z",
+  "model": "glm-5.3"
+}

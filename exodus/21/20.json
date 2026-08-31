@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary raha misy lehilahy namely ⟨את⟩ mpanompony na ⟨את⟩ mpanompo-vaviny amin'ny teza, ka maty eo ambany tanany izy, dia hovaliana fatratra tokoa izy.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ary raha"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "namely"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpanompony"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mpanompony"
+    },
+    {
+      "surface": "או",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpanompo-vaviny"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "mpanompo-vaviny"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "amin'ny teza"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ka maty"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "eo ambany"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tanany"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "hovaliana fatratra"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "tokoa"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:08.959759493Z",
+  "model": "glm-5.3"
+}

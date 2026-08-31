@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Afa-tsy izao: araka ny fihinanana ⟨את⟩ ilay gazela sy ⟨את⟩ ilay seroly no hihinananao azy; ny maloto sy ny madio miara-mihinan'azy.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "afa-tsy"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "fihinanana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay gazela"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "ilay gazela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilay seroly"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ilay seroly"
+    },
+    {
+      "surface": "כן",
+      "gloss": "no"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "hihinananao azy"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ny maloto"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "sy ny madio"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "miara-"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "mihinan'azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:44:42.061350594Z",
+  "model": "glm-5.3"
+}

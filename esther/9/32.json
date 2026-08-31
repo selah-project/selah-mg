@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "esther 9:32",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary ny didin'i Ester nampitoetra ireo teny ny amin'ny Purim ireo, dia nosoratana tao anaty boky.",
+  "tokens": [
+    {
+      "surface": "ומאמר",
+      "gloss": "Ary ny didin'"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "קים",
+      "gloss": "nampitoetra"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "teny ny amin'ny"
+    },
+    {
+      "surface": "הפורים",
+      "gloss": "Purim"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "ונכתב",
+      "gloss": "dia nosoratana"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "tao anaty boky"
+    }
+  ],
+  "timestamp": "2026-08-31T17:19:47.573821653Z",
+  "model": "glm-5.3"
+}

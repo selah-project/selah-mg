@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Ary niantso an'i Jakoba i Itsaka ka nitso-drano azy ⟨את⟩ ary nandidy azy ka nanao taminy hoe: Aza mandray vavy amin'ny zanakavavin'i Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "i Itsaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jakoba"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ka nitso-drano"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (i Jakoba)"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "ary nandidy azy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tamininy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "mandray"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vavy"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "amin'ny zanakavavin'"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-31T12:43:38.180311764Z",
+  "model": "glm-5.3"
+}

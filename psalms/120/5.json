@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 120,
+  "translation": "Loa ahy, fa nitoetra tany Mesheka aho, nenenoa tao amin'ny lain'i Kedara.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Loa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "nitoetra"
+    },
+    {
+      "surface": "משך",
+      "gloss": "tany Mesheka"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "nenenoa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tao amin'ny"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "lain'i"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedara"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:56.853584699Z",
+  "model": "glm-5.3"
+}

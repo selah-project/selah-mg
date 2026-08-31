@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Hanandratra anao aho, ry Yahveh, satria nanintona ahy ianao ⟨teo⟩, ary tsy nampifaly ny fahavaloko ianao.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "hanandratra anao aho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "nanintona ahy ianao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "nampifaly"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ny fahavaloko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨teo⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:46.070129824Z",
+  "model": "glm-5.3"
+}

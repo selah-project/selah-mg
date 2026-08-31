@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary Joaba zanak'i Tseruja nahalala fa ny fon'ny mpanjaka dia tao amin'i Abshaloma.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "nahalala"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaba"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Tseruja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ny fon'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "tao amin'i"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshaloma"
+    }
+  ],
+  "timestamp": "2026-08-31T14:32:36.034997262Z",
+  "model": "glm-5.3"
+}

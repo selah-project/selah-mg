@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary hitandrina ⟨את⟩ fiandaniana ny lain'ny fihaonamana sy ⟨את⟩ fiandaniana ny zava-masina ary fiandaniana ny taranak'i Aharono rahalahiny, amin'ny fanompoana ny tranon'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "hitandrina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiandaniana ny lain'ny fihaonamana"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "fiandaniana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "lain'"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonamana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fiandaniana ny zava-masina"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "fiandaniana"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "zava-masina"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "ary fiandaniana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taranak'"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharono"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "rahalahiny"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "amin'ny fanompoana"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T17:41:13.647669084Z",
+  "model": "glm-5.3"
+}

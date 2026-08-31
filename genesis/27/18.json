@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ary nankany amin'ny rainy izy ka nanao hoe: Rainay! Ary izy namaly: Indro aho; iza ianao, anaka?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "nankany"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rainy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Rainay"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "namaly"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Indro aho"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "בני",
+      "gloss": "anaka"
+    }
+  ],
+  "timestamp": "2026-08-31T12:43:24.120811296Z",
+  "model": "glm-5.3"
+}

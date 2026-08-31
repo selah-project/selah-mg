@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary nony efa tonga izy ireo, dia nahita ⟨את⟩ an'i Eliaba Shemuela ka nanao hoe: Mazava ho azy fa eo anatrehan'i Yahveh ny Mesia.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ary nony efa"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "tonga izy ireo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "dia nahita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Eliaba"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliaba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "אך",
+      "gloss": "mazava ho azy fa"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "eo anatrehan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "ny Mesia"
+    }
+  ],
+  "timestamp": "2026-08-31T14:20:15.491604531Z",
+  "model": "glm-5.3"
+}

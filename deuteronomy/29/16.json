@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary efa hitanareo ⟨את⟩ ny fahavetavetany sy ⟨את⟩ ny sampy amin'ny hazo sy vato, volafotsy sy volamena, izay tao aminy.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "Ary efa hitanareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahavetavetany"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "fahavetavetany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny sampy"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "sampy"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "sy vato"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "sy volamena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "tao aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:50:33.776747980Z",
+  "model": "glm-5.3"
+}

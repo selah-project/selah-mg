@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 64,
+  "translation": "Hitifitra amin'ny miafina ny mahatoky; tampoka izy no mitifitra azy, fa tsy matahotra.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "hitifitra"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "amin'ny miafina"
+    },
+    {
+      "surface": "תם",
+      "gloss": "ny mahatoky"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "tampoka"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "no mitifitra azy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "matahotra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:20.078040157Z",
+  "model": "glm-5.3"
+}

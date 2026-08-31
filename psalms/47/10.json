@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 47,
+  "translation": "Ny loholona amin'ny firenena rehetra dia niangona ho ⟨fananam-bahoaka⟩ ny vahoakan'ny Elohin'i Avraham, fa an'i Elohim ny ampingan'ny tany; Izy dia niakatra amim-pahaverto loatra.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "loholona (ny manamboninahitra)"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "niangona"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'i"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "an'i Elohim"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ampinga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "lava loatra"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "niakatra (nohasina)"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:55.160052464Z",
+  "model": "glm-5.3"
+}

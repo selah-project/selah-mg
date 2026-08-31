@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ora hiterahana, ary ora hahafatesana; ora hambolena, ary ora hanongotana ny voaamboly.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "hiterahana"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ary ora"
+    },
+    {
+      "surface": "למות",
+      "gloss": "hahafatesana"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ora"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "hambolena"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ary ora"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "hanongotana"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "voaamboly"
+    }
+  ],
+  "timestamp": "2026-08-31T17:14:44.122581794Z",
+  "model": "glm-5.3"
+}

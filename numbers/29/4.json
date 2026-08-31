@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 29:4",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary fahafolon'ny efa iray ho an'ny ondry iray, ho an'ny ondry fito.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "Ary fahafolon'ny efa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "ho an'ny ondry"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "ho an'ny"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "ondry fito"
+    }
+  ],
+  "timestamp": "2026-08-31T13:36:00.182737701Z",
+  "model": "glm-5.3"
+}

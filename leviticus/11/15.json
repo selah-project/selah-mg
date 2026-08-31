@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "⟨את⟩ ny goaika rehetra araka ny karazany.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny goaika rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "goaika"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "araka ny karazany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:14:33.783313406Z",
+  "model": "glm-5.3"
+}

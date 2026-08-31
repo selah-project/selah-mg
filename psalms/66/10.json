@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 66,
+  "translation": "Fa nanadinana anay Elohim; efa norefina toy ny fanorefana volafotsy izahay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "nanadinana anay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "norefina izahay"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "toy ny fanorefana"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:42.387565935Z",
+  "model": "glm-5.3"
+}

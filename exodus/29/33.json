@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary hihininy izany ⟨את⟩ izay natao fanavotana tamin'ireo mba hamenoana ⟨את⟩ ny tànany hanamasinana azy, fa ny vahiny tsy hihinana, masina fa izy.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "ary hihininy"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izany (ny hena sy mofo)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "natao fanavotana"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "tamin'ireo"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "mba hamenoana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tànany"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ny tànany"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "hanamasinana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy (Aharona sy ny zanany)"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "fa ny vahiny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hihinana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:06:01.620449144Z",
+  "model": "glm-5.3"
+}

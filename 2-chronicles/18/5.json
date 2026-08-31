@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 18:5",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary ny mpanjakan'ny Yisraela nanangona ⟨את⟩ ny mpaminany, efajato lahy, ka nanao taminy hoe: Handeha hankany Ramot-Gilada homba ady va isika, sa hohena? Ary hoy izy ireo: Miakara, fa hanolotra ⟨io⟩ ho an-tànan'ny mpanjaka Elohim.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "nanangona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpaminany"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "ny mpaminany"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "efatra"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "jato"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lahy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "הנלך",
+      "gloss": "handeha va isika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hankany"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilada"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "homba ady"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אחדל",
+      "gloss": "hohena"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ary hoy izy ireo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Miakara"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "fa hanolotra"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ho an-tanana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    }
+  ],
+  "timestamp": "2026-08-31T17:47:11.324413955Z",
+  "model": "glm-5.3"
+}

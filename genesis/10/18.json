@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "sy ⟨את⟩ ny Arvadita sy ⟨את⟩ ny Zemarita ary ⟨את⟩ ny Hamatita; ary tatỳ aoriana niparitaka ny fianakavian'ny Kanaanita.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny Arvadita"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "ny Arvadita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny Zemarita"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "ny Zemarita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny Hamatita"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "ny Hamatita"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "tatỳ aoriana"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "niparitaka"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "fianakavian'ny"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanita"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:22.996949170Z",
+  "model": "glm-5.3"
+}

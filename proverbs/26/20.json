@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Amin'ny tsy fisian'ny hazo dia maty ny afo, ary amin'ny tsy fisian'ny mpitory tsiny dia mitsahatra ny fifandirana.",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "Amin'ny tsy fisian'ny"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "dia maty"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ny afo"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "ary amin'ny tsy fisian'ny"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "mpitory tsiny"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "dia mitsahatra"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "ny fifandirana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:56:49.482906038Z",
+  "model": "glm-5.3"
+}

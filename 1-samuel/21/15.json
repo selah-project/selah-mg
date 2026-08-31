@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 21:15",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary Akish nanao tamin'ny mpanompony hoe: Indro, hitanareo fa lehilahy very saina; nahoana no entinareo ⟨את⟩ azy ho amiko?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "mpanompony"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "hitanareo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "משתגע",
+      "gloss": "very saina"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nahoana"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "no entinareo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (Dawid)"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T14:25:22.713987450Z",
+  "model": "glm-5.3"
+}

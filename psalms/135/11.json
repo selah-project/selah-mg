@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 135,
+  "translation": "An'i Sichona mpanjakan'ny Amorita sy an'i Oga mpanjakan'i Bashana sy ny fanjakana rehetran'i Kenaana.",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "an'i Sichona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'ny"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorita"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "sy an'i Oga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'i"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashana"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "sy ny"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "fanjakana"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana rehetra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:21.115402505Z",
+  "model": "glm-5.3"
+}

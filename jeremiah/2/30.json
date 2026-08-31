@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 2:30",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ho an'ny zava-mahadiso lahatra namelezako ⟨את⟩ ny zanakareo, fa tsy nandray fampianarana izy; ny sabatrakareo efa nihinatra ⟨את⟩ ny mpaminaninareo, toy ny liona mpanimbola.",
+  "tokens": [
+    {
+      "surface": "לשוא",
+      "gloss": "ho an'ny zava-mahadiso lahatra"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "namelezako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanakareo"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ny zanakareo"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "fampianarana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "nandray"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "nihinatra"
+    },
+    {
+      "surface": "חרבכם",
+      "gloss": "ny sabatrakareo"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "ny mpaminaninareo"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "toy ny liona"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "mpanimbola"
+    }
+  ],
+  "timestamp": "2026-08-31T15:23:32.684187568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary hitoby manodidina anao aho, ary hanao fahirano anao amin'ny toby ⟨miaramila⟩, ary hanangana manda fahirano hanohitra anao.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "Ary hitoby"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "aryana hanao fahirano"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "amin'ny toby"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "aryana hanangana"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "hanohitra anao"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "manda fahirano"
+    }
+  ],
+  "timestamp": "2026-08-31T18:06:14.364745814Z",
+  "model": "glm-5.3"
+}

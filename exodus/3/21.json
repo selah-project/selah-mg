@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary Izaho dia homeko ⟨את⟩ sitrapo ⟨ny⟩ vahoaka ity eo imason'ny Mitsrayim; ary ho tonga izany, raha mandeha ianareo, dia tsy hananja ianareo.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "homeko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sitrapo"
+    },
+    {
+      "surface": "חן",
+      "gloss": "sitrapo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "eo imason'ny"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ary ho tonga izany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "raha"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "mandeha ianareo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "hananja ianareo"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "zanja"
+    }
+  ],
+  "timestamp": "2026-08-31T12:55:03.837280067Z",
+  "model": "glm-5.3"
+}

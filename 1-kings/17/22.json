@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary Yahveh nihaino ny feon'i Eliyahu, dia niverina ny fanahin'ny zaza ho ao amin'ny kibany ka velika.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ny feon'i"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "niverina"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "zaza"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho ao amin'ny"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "kibany"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "velika"
+    }
+  ],
+  "timestamp": "2026-08-31T14:47:39.963738880Z",
+  "model": "glm-5.3"
+}

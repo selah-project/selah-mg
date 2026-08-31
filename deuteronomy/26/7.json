@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary nikiakiaka tany amin'i Yahveh, Elohin'ny razanay izahay, ary Yahveh nihaino ⟨את⟩ ny feontsika, ary nahita ⟨את⟩ ny fahorianay sy ⟨את⟩ ny ezaka nataontsika sy ⟨את⟩ ny fanerena nahazo antsika.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "nikiakiaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tany amin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'ny"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "razanay"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny feontsika"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "feontsika"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nahita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahorianay"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "fahorianay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny ezaka nataontsika"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "ezaka nataontsika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanerena nahazo antsika"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "fanerena nahazo antsika"
+    }
+  ],
+  "timestamp": "2026-08-31T13:49:12.310956243Z",
+  "model": "glm-5.3"
+}

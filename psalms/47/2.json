@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 47,
+  "translation": "Ianareo firenena rehetra, mpijoro tanana, mihobia ho an'i Elohim amin'ny fe fieritreretana ⟨fihobiana⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ianareo firenena"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "mpijoro tanana"
+    },
+    {
+      "surface": "כף",
+      "gloss": "tanana"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "mihobia"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ho an'i Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "amin'ny fe"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "fihobiana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:30:28.480052358Z",
+  "model": "glm-5.3"
+}

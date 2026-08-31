@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Lalina manantso lalina amin'ny feon'ny rianao; ny fiparitan-dranonao rehetra sy onja miampy azy no nandalo amiko.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Lalina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "manantso"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "lalina"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "manantso"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "amin'ny feon'ny"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "rianao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "fiparitan-dranonao"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "sy onja"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "nandalo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:32.264870494Z",
+  "model": "glm-5.3"
+}

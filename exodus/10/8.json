@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Dia nampiverina tany amin'i Parao ⟨את⟩ i Moshe sy ⟨את⟩ i Aharon; ary hoy izy taminy: 'Mandehana, manompoa an'i Yahveh ⟨את⟩, ny Elohiminareo; iza sy iza avy no mandeha?'",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "Dia nampiverina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Moshe sy i Aharon"
+    },
+    {
+      "surface": "משה",
+      "gloss": "i Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "i Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tany amin'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tamin'izy ireo"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Mandehana"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "manompoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh, ny Elohiminareo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ny Elohiminareo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "sy iza avy"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "no mandeha"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:48.318354628Z",
+  "model": "glm-5.3"
+}

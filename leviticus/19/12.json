@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary aza mianiana amin'ny anarako amin'ny lainga, ka hanao tsy masina ⟨את⟩ anaran'ny Elohinao; izaho no Yahveh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "mianiana"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "amin'ny anarako"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "amin'ny lainga"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "ka hanao tsy masina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anaran'ny Elohinao"
+    },
+    {
+      "surface": "שם",
+      "gloss": "anarana"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ny Elohinao"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:17:15.196321235Z",
+  "model": "glm-5.3"
+}

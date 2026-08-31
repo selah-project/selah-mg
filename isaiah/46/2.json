@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 46:2",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 46,
+  "translation": "Niempo izy, niondrika miaraka; tsy nahavita afaka ny enta-mavesatra, ary ny ainy lasa ho babo.",
+  "tokens": [
+    {
+      "surface": "קרסו",
+      "gloss": "Niempo izy"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "niondrika"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "miaraka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "nahavita"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "afaka"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ny enta-mavesatra"
+    },
+    {
+      "surface": "ונפשם",
+      "gloss": "ary ny ainy"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "ho babo"
+    },
+    {
+      "surface": "הלכה",
+      "gloss": "lasa"
+    }
+  ],
+  "timestamp": "2026-08-31T15:17:28.463758766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary nikomy tamin'i Amono ny mpanompony, ka namono an'ny mpanjaka tao an-tranony ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "nikomy"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ny mpanompon'ny"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amono"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tamin'i Amono"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "namono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanjaka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "tao an-tranony"
+    }
+  ],
+  "timestamp": "2026-08-31T14:59:49.770842100Z",
+  "model": "glm-5.3"
+}

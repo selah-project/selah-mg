@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Mahaisa ny taolako rehetra aho; izy ireo mibanjika ka mijery ahy.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "Mahaisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "ny taolako"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy ireo"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "mibanjika"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "mijery"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:48.345981699Z",
+  "model": "glm-5.3"
+}

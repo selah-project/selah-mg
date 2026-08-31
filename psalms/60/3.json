@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 60,
+  "translation": "Ry Elohim, efa nahafoy anay Hianao, efa nandrava anay, efa tezitra; miverena kosa aminay!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Ry Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "efa nahafoy anay"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "efa nandrava anay"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "efa tezitra"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "miverena kosa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aminay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:31.232702222Z",
+  "model": "glm-5.3"
+}

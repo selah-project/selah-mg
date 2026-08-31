@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary Atalya nandre ⟨את⟩ ny feon'ny mpihazakazaka ⟨sy⟩ ny vahoaka, ka tonga izy tany amin'ny vahoaka tao amin'ny tranon'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "nandre"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny feon'ny mpihazakazaka"
+    },
+    {
+      "surface": "קול",
+      "gloss": "feo"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "ny mpihazakazaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨sy⟩ ny vahoaka"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ka tonga izy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tany amin'ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ao amin'ny trano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T14:55:49.918747774Z",
+  "model": "glm-5.3"
+}

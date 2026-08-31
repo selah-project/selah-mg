@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 145,
+  "translation": "Ny faharetsan'ny voninahitry ny fahaton'ao, ary ny tenin'ny zava-mahagaga ataonao no hofantariko ⟨fa hotoriko⟩.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "faharetsana"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "voninahitra"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ny fahaton'ao"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "ary ny tenin'ny"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "zava-mahagaga ataonao"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "hofantariko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:31.648041114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 75,
+  "translation": "Ary ny tandroky ny olona ratsy fanahy rehetra hesoriko, fa ny tandroky ny marina kosa hasandratro.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ary ny ... rehetra"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "tandroky"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ny olona ratsy fanahy"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "hesoriko"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "hasandratro"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "tandroky"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ny marina kosa"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:24.810139468Z",
+  "model": "glm-5.3"
+}

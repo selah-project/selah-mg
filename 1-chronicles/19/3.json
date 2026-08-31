@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 19:3",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary ny mpanapakan'ny zanak'i Ammon nanao teny tamin'i Hanun: Moa manaja ⟨את⟩ ny rainao i David ao amin'ny masonao va, ka naniraka mpanentana taminao? Tsy mba hizaha sy hodi-do ary handefa mpisava tany va no avy amin'ny mpanompony?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ary ... nanao teny"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ny mpanapakan'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "לחנון",
+      "gloss": "tamin'i Hanun"
+    },
+    {
+      "surface": "המכבד",
+      "gloss": "Moa manaja"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "i David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rainao"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ny rainao"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ao amin'ny masonao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "va"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ka naniraka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "taminao"
+    },
+    {
+      "surface": "מנחמים",
+      "gloss": "mpanentana"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Tsy mba"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "mba"
+    },
+    {
+      "surface": "לחקר",
+      "gloss": "hizaha"
+    },
+    {
+      "surface": "ולהפך",
+      "gloss": "sy hodi-do"
+    },
+    {
+      "surface": "ולרגל",
+      "gloss": "ary handefa mpisava"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "באו",
+      "gloss": "no avy"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "amin'ny mpanompony"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "…"
+    }
+  ],
+  "timestamp": "2026-08-31T17:39:45.801619530Z",
+  "model": "glm-5.3"
+}

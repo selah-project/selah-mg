@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Torah iray sy fitsipika iray no ho anareo sy ho an'ny vahini-monina monina ⟨את⟩ aminareo.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "iray"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "sy fitsipika"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "no ho"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "sy ho an'ny vahini-monina"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "monina"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aminareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:30:15.210566698Z",
+  "model": "glm-5.3"
+}

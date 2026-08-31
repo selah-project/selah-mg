@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary amin'ny andro fahavalo no hatsarain'ny hoditry ny tsy fofon'i ⟨io zaza io⟩.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Amin'ny andro"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "fahavalo"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "no hatsarain'ny"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "hoditry ny"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "tsy fofon'i ⟨io zaza io⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T13:14:43.803252237Z",
+  "model": "glm-5.3"
+}

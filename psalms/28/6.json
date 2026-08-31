@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Isaorana anie Yahveh, fa efa nihaino ny feon'ny fifonako izy.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Isaorana anie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "efa nihaino"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ny feon'ny"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "fifonako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:07.375490507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 147,
+  "translation": "Mideraha an'i Yah, fa tsara ny miady mozika ho an'ny Elohimantsika, fa mahafaly ary mahafinaritra ny fiderana.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Mideraha"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ny miady mozika"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ho an'ny Elohimantsika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "mahafaly"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ary mahafinaritra"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ny fiderana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:47:38.386259138Z",
+  "model": "glm-5.3"
+}

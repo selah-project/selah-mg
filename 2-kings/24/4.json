@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "ary ny ran'ny tsy manan-koa izay nalatsany; fa nameno an'i ⟨את⟩ Yeroshalayim amin'ny ran'ny tsy manan-koa izy; ary tsy nety namela heloka Yahveh.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ary koa"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ny ra"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "ny tsy manan-koa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "nalatsany"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "fa nameno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeroshalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    },
+    {
+      "surface": "דם",
+      "gloss": "amin'ny ra"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "tsy manan-koa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "nety"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "namela heloka"
+    }
+  ],
+  "timestamp": "2026-08-31T15:02:16.837743605Z",
+  "model": "glm-5.3"
+}

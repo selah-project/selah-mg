@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Yahveh, tsy misy tahaka anao, ary tsy misy Elohim afa-tsy ianao, araka izay rehetra renay tamin'ny sofinay.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "tahaka anao"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ary tsy misy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "afa-tsy ianao"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "araka izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "renay"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "tamin'ny sofinay"
+    }
+  ],
+  "timestamp": "2026-08-31T17:39:11.907531366Z",
+  "model": "glm-5.3"
+}

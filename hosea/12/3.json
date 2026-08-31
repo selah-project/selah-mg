@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 12:3",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary manana fifandirana Yahveh amin'i Joda, ary hitsidika an'i Yakoba araka ny lalany; araka ny fanaony no hamaliany azy.",
+  "tokens": [
+    {
+      "surface": "וריב",
+      "gloss": "ary manana fifandirana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "amin'i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Joda"
+    },
+    {
+      "surface": "ולפקד",
+      "gloss": "ary hitsidika"
+    },
+    {
+      "surface": "על",
+      "gloss": "an'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakoba"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "araka ny lalany"
+    },
+    {
+      "surface": "כמעלליו",
+      "gloss": "araka ny fanaony"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "hamaliany"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:08:37.360691579Z",
+  "model": "glm-5.3"
+}

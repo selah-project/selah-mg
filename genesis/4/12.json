@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Raha miasa ⟨את⟩ ny tany ianao, tsy hitohy hampanome ny heriny ho anao ⟨izy⟩; mifindrafindra sy manelanelana ianao ho amin'ny tany.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "miasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "hitohy"
+    },
+    {
+      "surface": "תת",
+      "gloss": "hampanome"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "ny heriny"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "נע",
+      "gloss": "mifindrafindra"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "sy manelanelana"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ho amin'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:03.609387648Z",
+  "model": "glm-5.3"
+}

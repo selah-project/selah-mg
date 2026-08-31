@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Ka naneson'ny zanak'i Yisraela ⟨את⟩ ny firavakany tany amin'ny tendrombohitra Horèba.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "naneson'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny firavakany"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ny firavakany"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "tany amin'ny tendrombohitra"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Horèba"
+    }
+  ],
+  "timestamp": "2026-08-31T13:07:58.011820396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ka niondrera ny olona tamin'ny andro fahafito.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "niondrera"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "fahafito"
+    }
+  ],
+  "timestamp": "2026-08-31T13:00:43.448744104Z",
+  "model": "glm-5.3"
+}

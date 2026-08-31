@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 121,
+  "translation": "Yahveh no mpiambina anao, Yahveh no aloky namanao eo amin'ny tananao havanana.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "mpiambina anao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "aloky namanao"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tananao"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "havanana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:15.411194205Z",
+  "model": "glm-5.3"
+}

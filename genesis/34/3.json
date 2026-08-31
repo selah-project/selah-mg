@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ary ny fanahiny dia nitombo tamin'i Dinah zanakavavin'i Yaakov ka tia ilay zazavavy izy ka niresaka tamin'ny fon'ilay zazavavy.",
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "nitombo tamin'"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ny fanahiny"
+    },
+    {
+      "surface": "בדינה",
+      "gloss": "Dinah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanakavavin'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "tia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay zazavavy"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ilay zazavavy"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "niresaka tamin'"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨tamin'ny⟩"
+    },
+    {
+      "surface": "לב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ilay zazavavy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:47:14.838742257Z",
+  "model": "glm-5.3"
+}

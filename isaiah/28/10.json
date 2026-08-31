@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Fa didy ambony didy, didy ambony didy; tsipika ambony tsipika, tsipika ambony tsipika; kely eto, kely any.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "צו",
+      "gloss": "didy"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "ambony didy"
+    },
+    {
+      "surface": "צו",
+      "gloss": "didy"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "ambony didy"
+    },
+    {
+      "surface": "קו",
+      "gloss": "tsipika"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "ambony tsipika"
+    },
+    {
+      "surface": "קו",
+      "gloss": "tsipika"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "ambony tsipika"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "kely"
+    },
+    {
+      "surface": "שם",
+      "gloss": "eto"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "kely"
+    },
+    {
+      "surface": "שם",
+      "gloss": "any"
+    }
+  ],
+  "timestamp": "2026-08-31T15:08:49.130095913Z",
+  "model": "glm-5.3"
+}

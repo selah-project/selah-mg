@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 7:26",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary tsy nihaino ahy izy, ary tsy namono ny sofiny fa nanamafy ny hatondrany; nanao ratsy mihoatra noho ny razany izy.",
+  "tokens": [
+    {
+      "surface": "ולוא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "namono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sofiny"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "sofiny"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "nanamafy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hatondrany"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "hatondrany"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "nanao ratsy"
+    },
+    {
+      "surface": "מאבותם",
+      "gloss": "mihoatra noho ny razany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:27:23.928944228Z",
+  "model": "glm-5.3"
+}

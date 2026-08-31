@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 5:7",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary nonin'i Sheta taorian'ny niterahany an'i Enosha ⟨את⟩ fito amby valon-jato taona; ary niteraka zazalahy sy zazavavy izy.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "nonina"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Sheta"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "taorian'ny"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "niterahany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Enosha"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosha"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "fito"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "sy valo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "zato"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zazalahy"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "sy zazavavy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:04.235734804Z",
+  "model": "glm-5.3"
+}

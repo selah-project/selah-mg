@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Izaho nanao hoe: Yahveh, mamindra anie ahy, sitrano ny fanahiko, fa nanota taminao izaho.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "mamindra anie ahy"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "sitrano"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny fanahiko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nanota"
+    },
+    {
+      "surface": "לך",
+      "gloss": "taminao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:44.503359751Z",
+  "model": "glm-5.3"
+}

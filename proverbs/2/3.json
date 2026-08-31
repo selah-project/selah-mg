@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Eny, rika manao antso ho amin'ny fahalalana ianao, ary mandidy ny feo ho amin'ny fahalalana,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Eny, rika"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "fahalalana"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "manao antso"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "ho amin'ny fahalalana"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mandidy"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ny feo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:49:11.823684104Z",
+  "model": "glm-5.3"
+}

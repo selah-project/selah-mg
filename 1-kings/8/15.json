@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary hoy izy: Isaorana anie Yahveh, Elohim'ny Isiraely, Izay niteny tamin'ny vavany ⟨tamin'i⟩ ⟨את⟩ Davida rainiko, ka notanterahin'ny tànany, nanao hoe:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Isaorana anie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Izay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "niteny"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "tamin'ny vavany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨tamin'i⟩ ⟨את⟩",
+      "marks": "Davida rainiko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rainiko"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "ka ... tànany"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "notanterahin'"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nanao hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T14:43:38.961901625Z",
+  "model": "glm-5.3"
+}

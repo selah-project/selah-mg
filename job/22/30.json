@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 22:30",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ho vonjy na dia ny tsy mahazo meloka, ary izy ho voavonjy amin'ny fahadiovan'ny tànanao.",
+  "tokens": [
+    {
+      "surface": "ימלט",
+      "gloss": "Ho vonjy"
+    },
+    {
+      "surface": "אי",
+      "gloss": "na dia ny tsy"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "mahazo meloka"
+    },
+    {
+      "surface": "ונמלט",
+      "gloss": "ary ho voavonjy"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "amin'ny fahadiovan'ny"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "tànanao"
+    }
+  ],
+  "timestamp": "2026-08-31T17:04:02.707418866Z",
+  "model": "glm-5.3"
+}

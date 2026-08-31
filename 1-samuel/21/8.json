@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 21:8",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary tao tamin'izany andro izany dia nisy lehilahy anisan'ny mpanompon'i Shaol, voasakana teo anatrehan'i Yahveh; Doega Edomita no anarany, mahery indrindra amin'ny mpiandry ondry an'i Shaol.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ary tao"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nisy lehilahy"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "anisan'ny mpanompon'"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izany izany"
+    },
+    {
+      "surface": "נעצר",
+      "gloss": "voasakana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anatrehan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "no anarany"
+    },
+    {
+      "surface": "דאג",
+      "gloss": "Doega"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Edomita"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "mahery indrindra"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "amin'ny mpiandry ondry"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "an'"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaol"
+    }
+  ],
+  "timestamp": "2026-08-31T14:23:55.337541413Z",
+  "model": "glm-5.3"
+}

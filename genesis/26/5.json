@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Satria nihaino ny feoko Avraham ka nankahery ny fitandremaniko, ny didiko, ny lalàko, ary ny toràlako.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "satria"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "ny feoko"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "ka nankahery"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "ny fitandremaniko"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ny didiko"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "ny lalàko"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "ary ny toràlako"
+    }
+  ],
+  "timestamp": "2026-08-31T17:54:53.499663766Z",
+  "model": "glm-5.3"
+}

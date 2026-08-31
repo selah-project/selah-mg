@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary hitondra azy ireo ⟨את⟩ ho any amin'ny mpisorona izy, ka hanatitra ⟨את⟩ izay ho fanatitra noho ny fahotana voalohany, ary hotsipahiny ⟨את⟩ ny lohany eo ambanin'ny vozonany nefa tsy hanasaraka azy.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "hitondra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy ireo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "hanatitra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay ho fanatitra noho ny fahotana voalohany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ho fanatitra noho ny fahotana"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "voalohany"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "hotsipahiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lohany"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ny lohany"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "eo ambanin'ny"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "vozonany"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "hanasaraka"
+    }
+  ],
+  "timestamp": "2026-08-31T18:46:56.888992079Z",
+  "model": "glm-5.3"
+}

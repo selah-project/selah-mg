@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ary hoy izy: Indro izao, efa antitra aho, tsy mahalala ny andro hahafatesana aho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "נא",
+      "gloss": "izao"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "efa antitra aho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ny andro"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "hahafatesana aho"
+    }
+  ],
+  "timestamp": "2026-08-31T12:43:00.445767761Z",
+  "model": "glm-5.3"
+}

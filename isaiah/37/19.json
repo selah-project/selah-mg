@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 37:19",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary efa nanipy ⟨את⟩ ny andriamanitriny tao anaty afo izy ireo; fa tsy andriamanitra ⟨izy ireo⟩, fa asan'ny tanan'olona ihany — hazo sy vato — koa nandringaniny izy ireo.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "efa nanipy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny andriamanitriny"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ny andriamanitriny"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tao anaty afo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "andriamanitra"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy ireo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ihany"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "asan'ny"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanan'"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "sy vato"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "koa nandringaniny izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:13:29.383313556Z",
+  "model": "glm-5.3"
+}

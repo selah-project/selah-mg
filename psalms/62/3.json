@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 62,
+  "translation": "Izy ihany no vatolampiko sy famonjena ahy, fiarovana avo ahoana; tsy ho sendra aho be.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ihany"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "vatolampiko"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "sy famonjena ahy"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "fiarovana avo ahoana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ho sendra"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "be"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:47.248132328Z",
+  "model": "glm-5.3"
+}

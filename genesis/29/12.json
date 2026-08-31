@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 29:12",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary nilaza tamin'i Rachel Yaakov fa rahalahin-drainy izy ary zanak'i Rivkah izy; dia nihazakazaka Rachel ka nilaza tamin-drainy.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "nilaza"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "tamin'i Rachel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "rahalahin-"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "drainy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ary fa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "nihazakazaka"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "nilaza"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "tamin-drainy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:44:42.196846534Z",
+  "model": "glm-5.3"
+}

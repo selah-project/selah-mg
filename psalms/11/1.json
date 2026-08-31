@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ho an'ny mpitarika hira. Nataon'i Davida. Tany amin'i Yahveh no nialaako fiarovana; ahoana no anaovanareo hoe amin'ny fanahiko: Mandosira ho any amin'ny tendrombohitra, toy ny vorona!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho an'ny mpitarika hira"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Nataon'i Davida"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "tany amin'i Yahveh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "no nialaako fiarovana"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ahoana"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "no anaovanareo hoe"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "amin'ny fanahiko"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "Mandosira"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "ho any amin'ny tendrombohitra"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "toy ny vorona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:48.644451517Z",
+  "model": "glm-5.3"
+}

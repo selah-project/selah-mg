@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary amintsany ⟨Izy⟩ hiteny amin'ireo amin'ny fahatezerany, ary amin'ny fahavinirany hampihorohorony azy.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "amintsany"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "hiteny"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "amin'ireo"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "amin'ny fahatezerany"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "amin'ny fahavinirany"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "hampihorohorony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:02.417547105Z",
+  "model": "glm-5.3"
+}

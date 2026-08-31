@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ny vorona madio rehetra dia azo haninareo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "vorona"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "madio"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "azo haninareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:44:42.563163733Z",
+  "model": "glm-5.3"
+}

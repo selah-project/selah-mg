@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Mandrakizay dia hametrahako hentitra ny taranakao, ary hanoratro amin'ny taranaka sy taranaka ny seza fiandriananao. Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Mandrakizay"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "(mandrakizay)"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "hametrahako hentitra"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ny taranakao"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "ary hanoratro"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "amin'ny taranaka"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "sy taranaka"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ny seza fiandriananao"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah."
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:32.512231014Z",
+  "model": "glm-5.3"
+}

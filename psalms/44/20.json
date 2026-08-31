@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Na dia efa nofenoinao amin'ny toeram-bararahinta aza, ka nafeninao tamin'ny aloka mahafaty.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Na dia"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "efa nofenoinao"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "amin'ny toera-"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "bararahinta"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ka nafeninao"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "antsika"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "tamin'ny aloka mahafaty"
+    }
+  ],
+  "timestamp": "2026-08-31T16:30:26.515857407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 35:12",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Ary ho fialofana ho anareo ireo tanàna ireo fialofana amin'ny mpanavotra ra, ary tsy ho faty ilay namono mandra-pitsangany eo anatrehan'ny fiangona hotsaraina.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "Ary ho"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ireo tanàna ireo"
+    },
+    {
+      "surface": "למקלט",
+      "gloss": "fialofana"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "amin'ny mpanavotra ra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ho faty"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ilay namono"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "pitsangany"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anatrehan'ny"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "fiangona"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "hotsaraina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:38:19.417480363Z",
+  "model": "glm-5.3"
+}

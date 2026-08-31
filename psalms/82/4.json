@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 82,
+  "translation": "Vonjeo ny mahery setry sy ny malahelo; ento mba ho afaka amin'ny tàn'ny ratsy fanahy izy.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "Vonjeo"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ny mahery setry"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "sy ny malahelo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "amin'ny tàn'ny"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ratsy fanahy"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "ento mba ho afaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:34.009942686Z",
+  "model": "glm-5.3"
+}

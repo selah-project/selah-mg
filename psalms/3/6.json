@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Izaho kosa nandry ary natory, nifoha aho, fa Yahveh no manohana ahy.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Izaho kosa"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "nandry"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "ary natory"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "nifoha aho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "no manohana ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:05.040663064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Tsarovy ny zava-mahagaga nataony, ny famantarana sy ny fitsarana avy amin'ny vavany.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Tsarovy"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "ny zava-mahagaga nataony"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izoay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "ny famantarana"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "sy ny fitsarana"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "avy amin'ny vavany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:14.605625490Z",
+  "model": "glm-5.3"
+}

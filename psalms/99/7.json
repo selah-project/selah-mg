@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 99,
+  "translation": "Tao amin'ny tsangam-batolampy rahona Izy niresaka taminy; nitandrina ny famantoniany ireo, ary lalàna nomeny azy.",
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "tao amin'ny tsangam-batolampy"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "rahona"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "Izy niresaka"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "nitandrina"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "ny famantoniany"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "ary lalàna"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nomeny"
+    },
+    {
+      "surface": "למו",
+      "gloss": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:53.983820935Z",
+  "model": "glm-5.3"
+}

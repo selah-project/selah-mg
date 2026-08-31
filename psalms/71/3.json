@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 71,
+  "translation": "Izahao ho vatolampy sy monina ho ahy, hidirako mandrakariva; nanome didy hahazoany ahy ianao; fa vatolampiko sy fiarovako ianao ⟨ianao⟩.",
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "Izahao ho"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "vatolampy"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "sy monina"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "hidirako"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mandrakariva"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "nanome didy"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "hahazoany ahy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "vatolampiko"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "sy fiarovako"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:19.235032125Z",
+  "model": "glm-5.3"
+}

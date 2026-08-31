@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 112,
+  "translation": "Mahery eo amin'ny tany ho tanteraka ny zanany lahy; ny taranaky ny marina ho fitahiana.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "eo amin'ny tany"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ho tanteraka"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ny zanany lahy"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ny taranaka"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ny marina"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ho fitahiana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:35:35.494392669Z",
+  "model": "glm-5.3"
+}

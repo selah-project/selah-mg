@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Midira ao amin'ny vato, ka miafina ao amin'ny vovoka, mialoa amin'ny fampitahorana an'i Yahveh sy amin'ny voninahitry ny fiandrianany.",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "midira"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ao amin'ny vato"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "ka miafina"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "ao amin'ny vovoka"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mialoa amin'ny"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "fampitahorana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "sy amin'ny voninahitry"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "ny fiandrianany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:01:38.802122875Z",
+  "model": "glm-5.3"
+}

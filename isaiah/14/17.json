@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 14:17",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Izay nanao ny tontolo ho efitra, ary nandrava ny tanànany, tsy nanokatra ny fonen'ny babony",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ny tontolo"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "ho efitra"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "ary ny tanànany"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "nandrava"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "ny babony"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "nanokatra"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ny fonen'ny babony"
+    }
+  ],
+  "timestamp": "2026-08-31T15:06:31.613959003Z",
+  "model": "glm-5.3"
+}

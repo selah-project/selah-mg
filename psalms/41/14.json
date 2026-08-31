@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Isaorana anie Yahveh, Elohin'i Yisraela, hatramin'ny fiandoham-potoana ka hatramin'ny fara mandimby. Amena sy hanao amena.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Isaorana anie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "hatramin'ny fiandoham-potoana"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "fara mandimby"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amena"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "sy hanao amena"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:41.115741904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "sy ho fanahy mitsara fitsarana ho an'izay mipetraka amin'ny fitsarana, ary ho herin'ny mampiverina ny ady ho any am-bavahady.",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "sy ho fanahy"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mitsara fitsarana"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "ho an'izay mipetraka"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "fitsarana"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "ary ho herin'ny"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "mampiverina"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ady"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "ho any am-bavahady"
+    }
+  ],
+  "timestamp": "2026-08-31T15:09:38.572764504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 62:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 62,
+  "translation": "Mianteha aminy amin'ny fotoana rehetra ianareo, ry vahoaka; aidifo eo anatrehany ny fonareo: Elohim no fialofana ho anay. Selah.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "Mianteha"
+    },
+    {
+      "surface": "בו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "עת",
+      "gloss": "fotoana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ry vahoaka"
+    },
+    {
+      "surface": "שפכו",
+      "gloss": "aidifo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "eo anatrehany"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ny fonareo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "fialofana"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho anay"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:42.157967769Z",
+  "model": "glm-5.3"
+}

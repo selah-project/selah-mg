@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary hikaroka avy any ianareo an'i ⟨את⟩ Yahveh Elohinareo, ary hahita, fa hitady Azy ianareo amin'ny fonareo rehetra sy amin'ny ainareo rehetra.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "hikaroka"
+    },
+    {
+      "surface": "משם",
+      "gloss": "avy any"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohinareo"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "ary hahita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "hitady Azy"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "fonareo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "sy amin'ny ... rehetra"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ainareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:41:54.894957931Z",
+  "model": "glm-5.3"
+}

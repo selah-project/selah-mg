@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ary naka ⟨את⟩ ny bokin'ny fividianana — ⟨את⟩ ilay voatombo-kase, araka ny didy sy ny fomba, sy ⟨את⟩ ilay misokatra —",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "naka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokin'ny fividianana"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "boky"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "ny fividianana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay voatombo-kase"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "voatombo-kase"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "didy"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "sy ny fomba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilay misokatra"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "misokatra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:37:06.696677568Z",
+  "model": "glm-5.3"
+}

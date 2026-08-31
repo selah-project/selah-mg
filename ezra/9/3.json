@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary rehefa reoko ⟨את⟩ ny teny ity, dia notasiko ⟨את⟩ ny akanjoko sy ny lambako, dia nolaniko ny volon-dohako sy ny volombavako, ary nipetraka momba-javatra aho.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "rehefa reoko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny teny ity"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "dia notasiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny akanjoko"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ny akanjoko"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "sy ny lambako"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "dia nolaniko"
+    },
+    {
+      "surface": "משער",
+      "gloss": "ny volon-dohako"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "dohako"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "sy ny volombavako"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "ary nipetraka"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "momba-javatra aho"
+    }
+  ],
+  "timestamp": "2026-08-31T17:29:08.604145594Z",
+  "model": "glm-5.3"
+}

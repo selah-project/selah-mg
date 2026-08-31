@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary tamin'ny faran'ny efapolo andro Noa nanokatra ⟨את⟩ ny varavarankelin'ny sambofia izay nataony.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary tonga ny"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "faran'ny"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "efapolo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "nanokatra"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny varavarankelin'ny sambofia"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "varavarankelin'ny"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "sambofia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:50.844077061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Aza mikasika ny Mesiako, ary ny mpaminaniko aza ataovy ratsy.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "mikasika"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "ny Mesiako"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "ary ny mpaminaniko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "ataovy ratsy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:46.840763722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary Moshe nampandeha ⟨את⟩ ny rafoany; ary lasa nankany amin'ny taniny izy.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "nampandeha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rafoany"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "rafoany"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lasa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨izy⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nankany amin'ny"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "taniny"
+    }
+  ],
+  "timestamp": "2026-08-31T13:00:27.675868579Z",
+  "model": "glm-5.3"
+}

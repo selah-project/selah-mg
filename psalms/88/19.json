@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 88:19",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 88,
+  "translation": "Nanalaviranao tsy ho ahy ny tia ahy sy ny namako; ny mahalala ahy dia ny maizina.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "nanalaviranao"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "tsy ho ahy"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ny tia ahy"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "sy ny namako"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "ny mahalala ahy"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "ny maizina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:55.506366173Z",
+  "model": "glm-5.3"
+}

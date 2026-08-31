@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary ianareo dia mahalala fa tamin'ny heriko rehetra no nanompoako ⟨את⟩ ny rainareo.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Ary ianareo"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tamin'ny ... rehetra"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "heriko"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "nanompoako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rainareo"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "ny rainareo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:46:08.099757454Z",
+  "model": "glm-5.3"
+}

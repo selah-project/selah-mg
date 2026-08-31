@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ny rehetra mandeha mankany amin'ny toerana iray; ny rehetra avy amin'ny vovoka, ary ny rehetra miverina amin'ny vovoka.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ny rehetra"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mankany amin'ny"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "toerana"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ny rehetra"
+    },
+    {
+      "surface": "היה",
+      "gloss": "avy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "vovoka"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "ary ny rehetra"
+    },
+    {
+      "surface": "שב",
+      "gloss": "miverina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "vovoka"
+    }
+  ],
+  "timestamp": "2026-08-31T17:14:59.520245569Z",
+  "model": "glm-5.3"
+}

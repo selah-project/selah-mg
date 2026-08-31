@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 8:14",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Nohanadinoan'i Yisrael ny Mpanao azy ⟨את⟩, ary nanao lapa izy; ary Yehouda nampitombo tanàna mimanda; fa Izaho handefa afo amin'ny tanànany, ary hihinana ny migadrany izany.",
+  "tokens": [
+    {
+      "surface": "וישכח",
+      "gloss": "nohanadinoan'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Mpanao azy"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "ny Mpanao azy"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ary nanao"
+    },
+    {
+      "surface": "היכלות",
+      "gloss": "lapa"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ary Yehouda"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "nampitombo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "mimanda"
+    },
+    {
+      "surface": "וישלחתי",
+      "gloss": "fa handefa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "afo"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "amin'ny tanànany"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ary hihinana"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "ny migadrany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:08:10.849944070Z",
+  "model": "glm-5.3"
+}

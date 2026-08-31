@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Ary dia faingana izy ka nampidinitra samirery ny entany ⟨את⟩ tamin'ny tany, ary samirery nanokatra ny entany.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "faingana izy"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "nampidinitra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "samirery"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny entany"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "ny entany"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "tamin'ny tany"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "nanokatra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "samirery"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "ny entany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:51:06.740149099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 111,
+  "translation": "Famonjena nanirahany tamin'ny olony; nasainy ⟨ho⟩ mandrakizay ny fanekeny; masina sady mahatahotra no maha-izy azy ny anarany.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "famonjena"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nanirahany"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "tamin'ny olony"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nasainy"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ny fanekeny"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "sady mahatahotra"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ny anarany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:23.157879011Z",
+  "model": "glm-5.3"
+}

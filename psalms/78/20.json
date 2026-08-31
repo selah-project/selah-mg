@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Indro, namely vato Izy ka nisintona rano, ary renirano nielsa be; Mahay va Izy manome mofo, ary vonona hanao hena ho an'ny olony?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "namely"
+    },
+    {
+      "surface": "צור",
+      "gloss": "vato"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "nisintona"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "renirano"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "nielsa be"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "Mahay va"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mofo"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "Mahay"
+    },
+    {
+      "surface": "תת",
+      "gloss": "manome"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ary"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "vonona hanao"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "hena"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "ho an'ny olony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:11.927257476Z",
+  "model": "glm-5.3"
+}

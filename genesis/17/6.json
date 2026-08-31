@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary hampitomboako be dia be ⟨את⟩ ianao, ary hataoko firenena ianao, ary mpanjaka no hivoaka avy aminao.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "hampitomboako"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ianao",
+      "marks": "ianao"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "be"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dia be"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "hataoko"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "ary mpanjaka"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "avy aminao"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "hivoaka"
+    }
+  ],
+  "timestamp": "2026-08-31T12:39:28.666361510Z",
+  "model": "glm-5.3"
+}

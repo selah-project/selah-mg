@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 147,
+  "translation": "Izy no mamono ny torotoro ⟨את⟩ fo, ka manamboatra ny faharavany.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "mamono"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "ny torotoro"
+    },
+    {
+      "surface": "leb",
+      "gloss": "fo"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "ka manamboatra"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "ny faharavany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:17.564862641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 11:3",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary ny loholona tao Yavesh nanao taminy hoe: Aza maika intsony, omeo fito andro antsika, mba haniraka iraka izahay any amin'ny faritany rehetran'ny Isiraely; ary raha tsy misy mpamonjy antsika, dia hivoaka ho any aminao izahay.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ary nanao hoe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ny loholona"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "tao Yavesh"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "Aza maika intsony"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "antsika"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "fito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "ונשלחה",
+      "gloss": "mba haniraka izahay"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "iraka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "any amin'ny ... rehetra"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "faritany"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ny Isiraely"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ary raha"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "mpamonjy"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "antsika"
+    },
+    {
+      "surface": "ויצאנו",
+      "gloss": "dia hivoaka izahay"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho any aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:17:25.640481964Z",
+  "model": "glm-5.3"
+}

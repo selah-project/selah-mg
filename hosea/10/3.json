@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Fa ankehitriny hiteny izy ireo: Tsy manana mpanjaka izahay, fa tsy natahotra ⟨את⟩ Yahveh izahay; ary ny mpanjaka, inona no hataony ho anay?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ankehitriny"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "hiteny izy ireo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Tsy manana"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "izahay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "natahotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ary ny mpanjaka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "inona"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "no hataony"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho anay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:09:13.929304972Z",
+  "model": "glm-5.3"
+}

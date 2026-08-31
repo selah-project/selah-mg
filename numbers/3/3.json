@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ireto no anaran'ny zanak'i Aharon, ireo mpisoratra voahosotra, izay voafeno tanana hiasa ho mpisoratra.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ireto"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "anaran'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mpisoratra"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "voahosotra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "voafeno"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "tanana"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "hiasa ho mpisoratra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:25:02.757990277Z",
+  "model": "glm-5.3"
+}

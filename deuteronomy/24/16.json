@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Tsyvonterina hovonoina ny ray noho ny zanaka, ary ny zanaka tsy vonterina hovonoina noho ny ray; samy ho faty amin'ny otany avy ny olona.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "vonterina hovonoina"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ny ray"
+    },
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ny zanaka"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "ary ny zanaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "vonterina hovonoina"
+    },
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ny ray"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "amin'ny otany"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ho faty"
+    }
+  ],
+  "timestamp": "2026-08-31T13:49:01.119988552Z",
+  "model": "glm-5.3"
+}

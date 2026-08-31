@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 59,
+  "translation": "Indro, tsy fohy ny tàn'i Yahveh ka tsy mahavonjy, ary tsy mavesatra ny sofiny ka tsy mahare,",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "fohy"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ny tàn'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "tsy mahavonjy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "mavesatra"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ny sofiny"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "tsy mahare"
+    }
+  ],
+  "timestamp": "2026-08-31T15:21:14.285093699Z",
+  "model": "glm-5.3"
+}

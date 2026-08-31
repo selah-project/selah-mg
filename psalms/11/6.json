@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Hampitrano ⟨fandrika⟩ sy afo sy solifara izy, sy rivotra mirehitra, ho an'ny ratsy fanahy; io no anjaran'ny kapoany.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "hampitrano"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho an'ny"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ratsy fanahy"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "⟨fandrika⟩"
+    },
+    {
+      "surface": "אש",
+      "gloss": "afo"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "sy solifara"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "sy rivotra"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "mirehitra"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "anjara"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "kapoany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:25.967537339Z",
+  "model": "glm-5.3"
+}

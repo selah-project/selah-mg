@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 119:48",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Hanandratra ny tanako mankany amin'ny didy am-pitiavana aho, izay tiako, ary hirehareha amin'ny didy vaovaoo.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "hanandratra"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ny tanako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mankany amin'ny"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "didy am-pitiavana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "tiako"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "hirehareha"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "amin'ny didy vaovaoo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:58.353748444Z",
+  "model": "glm-5.3"
+}

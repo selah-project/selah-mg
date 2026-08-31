@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Dia lasa ny iraka ka tonga ka nilaza tamin'i David ⟨את⟩ izay rehetra nirahan'i Yoab azy holazaina.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Dia lasa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ny iraka"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ka tonga"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ka nilaza"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "tamin'i David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "nirahan'i Yoab azy"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    }
+  ],
+  "timestamp": "2026-08-31T14:32:23.937481034Z",
+  "model": "glm-5.3"
+}

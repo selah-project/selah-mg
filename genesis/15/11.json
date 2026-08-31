@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 15:11",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary nidina tamin'ny faty ny voromahery, ka nampiverin'i Avraham ⟨את⟩ azy.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Ary nidina tamin'ny"
+    },
+    {
+      "surface": "העיט",
+      "gloss": "ny voromahery"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "הפגרים",
+      "gloss": "faty"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ka nampiverin'i"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-08-31T12:39:02.681934966Z",
+  "model": "glm-5.3"
+}

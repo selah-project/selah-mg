@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "An'i Davida. Itsarao aho, ry Yahveh, fa izaho amin'ny fahatsaranaoko no nandeha, ary tamin'i Yahveh no natoky; tsy hangovitra aho.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "An'i Davida"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Itsarao aho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "amin'ny fahatsaranaoko"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "ary tamin'i Yahveh"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "natoky"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "hangovitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:09.591311754Z",
+  "model": "glm-5.3"
+}

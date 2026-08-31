@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary Davida nandeha nitombo hatranihatrany hery, ary Yahveh, Elohin'ny tafika, tao aminy.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ary ... nandeha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "nitombo hatranihatrany"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "hery"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ary Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'ny"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "tafika"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tao aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:30:03.073222965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Tsy va ny fiandrianany mahatahotra ⟨את⟩ anareo, ary ny fahatahorana Azy milatsaka aminareo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "tsy va"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "fiandrianany"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "mahatahotra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo",
+      "marks": "anareo"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "ary ny fahatahorana Azy"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "milatsaka"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "aminareo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:01:06.822586817Z",
+  "model": "glm-5.3"
+}

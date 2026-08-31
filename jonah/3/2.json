@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Mitsangana, mandeha any amin'i Ninive, ilay tanàna lehibe, ary manambara aminy ⟨את⟩ ny fanaovana antso izay izaho miteny aminao.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "mitsangana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "any amin'i"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ilay tanàna"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "ary manambara"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanaovana antso"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "ny fanaovana antso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "miteny"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:26:06.628642131Z",
+  "model": "glm-5.3"
+}

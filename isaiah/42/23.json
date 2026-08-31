@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Iza aminareo no mandray sofina amin'ity? Iza no mandinihan-tsofina ka mihaino ho an'ny andro ho avy?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Iza"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "aminareo"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "mandray sofina"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "amin'ity"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "mandinihan-tsofina"
+    },
+    {
+      "surface": "וגישמע",
+      "gloss": "ka mihaino"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "ho an'ny andro ho avy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:15:32.150330141Z",
+  "model": "glm-5.3"
+}

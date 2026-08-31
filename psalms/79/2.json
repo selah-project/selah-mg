@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 79,
+  "translation": "Nomeny ho sakafon'ny voratry ny lanitra ⟨את⟩ fatin'ny mpanompoinao, ny nofon'ny mpanatoky aminao ho an'ny biby dia amin'ny tany.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "Nomeny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fatin'ny mpanompoinao"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "faty"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ny mpanompoinao"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ho sakafo"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "an'ny voratra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ny nofo"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "ny mpanatoky aminao"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "ho an'ny biby"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:36.046921284Z",
+  "model": "glm-5.3"
+}

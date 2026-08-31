@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "«Zava-dratsy dia aidina aminy; ary ilay mandry dia tsy hampiana hifoha intsony».",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "zava-dratsy"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ratsy (Belial)"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "aidina"
+    },
+    {
+      "surface": "בו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ary ilay"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "mandry"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "hampiana intsony"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "hifoha"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:10.082385153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Dia nandeha nihazakazaka nankany amin'i Eli izy ka nanao hoe: Itota aho, fa ianao no niantso ahy. Ary hoy kosa ilay iraka tamin'ny fianakaviany: Tsy izaho no niantso anao; miverena midina matory. Dia lasa izy ka mandry.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "nihazakazaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nankany amin'i"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Itota aho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "no niantso"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy kosa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "izaho no niantso"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "miverena"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "midina matory"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lasa"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "mandry"
+    }
+  ],
+  "timestamp": "2026-08-31T14:15:27.786026866Z",
+  "model": "glm-5.3"
+}

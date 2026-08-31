@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary ny olona nanome anaran'ny biby fiompy rehetra sy voron'ny lanitra sy bibin-tany rehetra; fa ho an'ny olona tsy hita mpamonjy mifanaraka aminy.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "nanome anaran'ny"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "anarana"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "biby fiompy"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "sy voron'ny"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "lanitra"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "sy ... rehetra"
+    },
+    {
+      "surface": "חית",
+      "gloss": "biby"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "an-tany"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "fa ho an'ny olona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "hita"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mpamonjy"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "mifanaraka aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:38.030568420Z",
+  "model": "glm-5.3"
+}

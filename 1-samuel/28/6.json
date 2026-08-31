@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Ary Shaol nanontania tamin'i Yahveh, fa tsy namaly azy Yahveh, na tamin'ny nofy, na tamin'ny Urim, na tamin'ny mpaminany.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "nanontania"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "tamin'i Yahveh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "namaly azy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "tamin'ny nofy"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "tamin'ny Urim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "tamin'ny mpaminany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:27:08.753186444Z",
+  "model": "glm-5.3"
+}

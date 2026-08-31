@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary ⟨את⟩ ilay ondry vavy kely dia hamalyiny valo-koatra, noho izay nataony tamin'ity zavatra ity, ary noho izay tsy nanam-pangoraka izy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilay ondry vavy kely"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "ilay ondry vavy kely"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "hamalyiny"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "valo-koatra"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "noho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ity zavatra ity"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "zavatra"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ary noho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "nanam-pangoraka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:32:08.346833300Z",
+  "model": "glm-5.3"
+}

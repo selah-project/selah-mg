@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Ny ranomasoko dia efa natao sakafo ho ahy andro aman'alina, rehefa manao amiko hatramin'ny andro izy ireo hoe: Aiza izay Elohiminao?",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "efa natao"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "Ny ranomasoko"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "sakafo"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "andro"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "aman'alina"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "rehefa manao"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hatramin'ny"
+    },
+    {
+      "surface": "היום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aiza"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "izay Elohiminao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:52.539456674Z",
+  "model": "glm-5.3"
+}

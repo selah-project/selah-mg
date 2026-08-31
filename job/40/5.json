@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Indray mandeha efa niteny aho ka tsy hamaly intsony; indroa impo, ka tsy hitohy.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "indray mandeha"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "efa niteny aho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "hamaly"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "indroa impo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "hitohy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:08:20.449056609Z",
+  "model": "glm-5.3"
+}

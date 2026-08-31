@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 6:13",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary Elohim nanao teny tamin'i Noa: Ny faran'ny nofo rehetra efa tonga eo anatrehako, fa efa feno herisetra ny tany noho ny ataony; ary indro Izaho mandrava azy miaraka amin'⟨את⟩ ny tany.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary ... nanao teny"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "tamin'i Noa"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "ny farany"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ny nofo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "efa tonga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anatrehako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "efa feno"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "herisetra"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "noho ny ataony"
+    },
+    {
+      "surface": "והנני",
+      "gloss": "ary indro Izaho"
+    },
+    {
+      "surface": "משחיתם",
+      "gloss": "mandrava azy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miaraka amin'ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:36:52.769856584Z",
+  "model": "glm-5.3"
+}

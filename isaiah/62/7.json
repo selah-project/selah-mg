@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 62,
+  "translation": "ary aza omenareo fahanginana Izy, mandra-pahatongan'ny hanorenany Azy ⟨⟨את⟩⟩ Yeroshalayim ho fiderana eto an-tany.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "omenareo"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "fahanginana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Izy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-pahatongan'ny"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "hanorenany"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "sy mandra-pahatongan'ny"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "hanendrenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeroshalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "fiderana"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "eto an-tany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:21:52.675625078Z",
+  "model": "glm-5.3"
+}

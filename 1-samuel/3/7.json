@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary Shemuela mbola tsy nahalala ⟨את⟩ an'i Yahveh, ary tsy mbola niseho taminy ny tenin'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Ary Shemuela"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "mbola tsy"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nahalala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "ary tsy mbola"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "niseho"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ny tenin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T14:15:27.786440851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary nony efa vita tamin'ny fanatitra dorana sy ny fanatitra fihavanana i David, dia nitsodrano ⟨את⟩ ny vahoaka tamin'ny anaran'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "nony efa vita"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "tamin'ny fanatitra"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "dorana"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "sy fihavanana"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "nitsodrano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "tamin'ny anaran'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T17:38:27.177587554Z",
+  "model": "glm-5.3"
+}

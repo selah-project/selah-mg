@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 94,
+  "translation": "Mazòna, ry olona adala ao amin'ny vahoaka, ary ry adala, rahoviana no hahay saina hianareo?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "Mazòna"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "ry olona adala"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "ao amin'ny vahoaka"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "ary ry adala"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "rahoviana"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "hahay saina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:04.968017931Z",
+  "model": "glm-5.3"
+}

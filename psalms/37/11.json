@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Fa ny fanahy malemy no handova ⟨ny⟩ tany, ary hifaly amin'ny bearn'ny fiadanana.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "Fa ny fanahy malemy"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "no handova"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "ary hifaly"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bearn'ny"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fiadanana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:55.862338677Z",
+  "model": "glm-5.3"
+}

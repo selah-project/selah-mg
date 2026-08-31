@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Fa ⟨את⟩ izay tian'i Yahveh dia itsarahany, ary tahaka ny ray ⟨את⟩ ny zanaka mahafaly azy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay tian'i Yahveh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "tian'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "dia itsarahany"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "ary tahaka ny ray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanaka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "mahafaly azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:51.724538025Z",
+  "model": "glm-5.3"
+}

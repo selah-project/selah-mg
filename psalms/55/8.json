@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 55,
+  "translation": "Indro, handeha lavitra aho, ary hitoetra any an-efitra. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "handeha lavitra"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "hatory miondrika"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "hitoetra"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "any an-efitra"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:27.300652240Z",
+  "model": "glm-5.3"
+}

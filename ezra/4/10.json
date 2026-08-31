@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 4:10",
+  "book": "ezra",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "sy ny firenena sisa izay nsesitany i Asnapara, lehibe sy mahatalanjona, ka nampitoeriny tao amin'ny tanànan'i Shomrain, sy ⟨ireo izay⟩ any an-dafin'ny ony, ⟨amin'izao fotoana izao⟩.",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "sy ny"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "firenena sisa"
+    },
+    {
+      "surface": "די",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הגלי",
+      "gloss": "nsesitany"
+    },
+    {
+      "surface": "אסנפר",
+      "gloss": "Asnapara"
+    },
+    {
+      "surface": "רבא",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "ויקירא",
+      "gloss": "sy mahatalanjona"
+    },
+    {
+      "surface": "והותב",
+      "gloss": "ka nampitoeriny"
+    },
+    {
+      "surface": "המו",
+      "gloss": "azy ireo"
+    },
+    {
+      "surface": "בקריה",
+      "gloss": "tao amin'ny tanàna"
+    },
+    {
+      "surface": "די",
+      "gloss": "an'"
+    },
+    {
+      "surface": "שמרין",
+      "gloss": "Shomrain"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "sy ireo"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "any an-dafin'"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "ny ony"
+    },
+    {
+      "surface": "וכענת",
+      "gloss": "⟨amin'izao fotoana izao⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T17:26:44.560200069Z",
+  "model": "glm-5.3"
+}

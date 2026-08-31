@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Fantatro fa hainao ny zavatra rehetra, ary tsy misy fisainana voasakana aminao.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Fantatro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny zavatra rehetra"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "hainao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "voasakana"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "fisainana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:09:35.834123704Z",
+  "model": "glm-5.3"
+}

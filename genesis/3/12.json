@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary hoy ny olona: Ilay vehivavy izay nomenao homba ahy, dia izy no nanome ahy ⟨amin'ny⟩ ilay hazo, ka dia nihinanako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Ilay vehivavy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "nomenao"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "homba ahy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia izy"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "no nanome"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨amin'ny⟩"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ilay hazo"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ka dia nihinanako"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:20.176368376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Isao ny zanak'i Levi araka ny tranon'ny razany, araka ny fianakaviany; ny lahy rehetra hatramin'ny zaza iray volana sy miakatra no hosainao.",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "Isao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanak'i Levi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "araka ny tranon'ny"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "razany"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "araka ny fianakaviany"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lahy"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "hatramin'ny zaza"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "iray volana"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "sy miakatra"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "hosainao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:24:38.011763562Z",
+  "model": "glm-5.3"
+}

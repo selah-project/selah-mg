@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Ary nanompo ⟨את⟩ ny sarin-tsampiny izy, ka lasa fandrika ho azy ireo.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "nanompo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny sarin-tsampiny"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "ny sarin-tsampiny"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ka lasa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho azy ireo"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "fandrika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:31.957689099Z",
+  "model": "glm-5.3"
+}

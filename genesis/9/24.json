@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary Noa nifoha tamin'ny divany, dia nahalala ⟨את⟩ izay nataon'ny zanany lahy madinika taminy.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "nifoha"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "tamin'ny divany"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "dia nahalala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay nataon'ny zanany lahy madinika taminy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataon'ny"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany lahy"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "madinika"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:52.628944511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 89:37",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Ho an'ny fandriana fahavelozany ny taranany, ary ny seza fiandrianany ho toy ny masoandro eo anatrehako.",
+  "tokens": [
+    {
+      "surface": "זרעו",
+      "gloss": "ny taranany"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho an'ny fandriana fahavelozany"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "ary ny seza fiandrianany"
+    },
+    {
+      "surface": "כשמש",
+      "gloss": "toy ny masoandro"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "eo anatrehako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:11.861728907Z",
+  "model": "glm-5.3"
+}

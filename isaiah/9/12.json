@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary ny vahoaka tsy niverina tany amin'izay namely azy, ary ⟨את⟩ an'i Yahveh Tsebaota tsy nofantariny.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "ary ny vahoaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שב",
+      "gloss": "niverina"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tany amin'izay"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "namely azy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yahveh Tsebaota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaota"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "nofantariny"
+    }
+  ],
+  "timestamp": "2026-08-31T15:04:54.143076919Z",
+  "model": "glm-5.3"
+}

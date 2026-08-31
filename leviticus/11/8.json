@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Amin'ny henany aza tsy hihinanareo, ary ny fatiny tsy hotombinareo; tsy madio izy ho anareo.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "amin'ny henany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "hihinanareo"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "ary ny fatiny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "hotombinareo"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "tsy madio"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:14:54.558022981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary Yahveh Elohim nandidy ny olona ka nanao hoe: Amin'ny hazo rehetra amin'ny saha mihinana ianao mihitsy no hihinananao.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ary... nandidy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ny"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "Amin'ny... rehetra"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "amin'ny saha"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mihinana"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "no hihinananao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:42.495383272Z",
+  "model": "glm-5.3"
+}

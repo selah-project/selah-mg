@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary nony efa vitan'i Moshe ny nanoratra ⟨את⟩ ny tenin'ity lalàna ity tamin'ny boky, ka hatramin'ny fahavitan'izy rehetra.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nony"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "efa vitan'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "ny nanoratra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tenin'ity lalàna ity"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tenin'ny"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "lalàna"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ity"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "boky"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hatramin'ny"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "fahavitan'izy rehetra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:53:12.067528068Z",
+  "model": "glm-5.3"
+}

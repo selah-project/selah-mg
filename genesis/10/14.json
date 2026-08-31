@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Sy ⟨את⟩ ny Patrosima sy ⟨את⟩ ny Kaslokhima — avy tao no nivoahan'ny Filistina — ary ⟨את⟩ ny Kaftorima.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Sy ⟨את⟩",
+      "marks": "ny Patrosima"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "ny Patrosima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny Kaslokhima"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "ny Kaslokhima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "no nivoahan'"
+    },
+    {
+      "surface": "משם",
+      "gloss": "avy tao"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Filistina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny Kaftorima"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "ny Kaftorima"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:49.251499093Z",
+  "model": "glm-5.3"
+}

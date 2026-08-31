@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 8:1",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary Yahveh nanao ho amin'i Moshe: Lazao amin'i Aharon: Ahitsio ⟨את⟩ ny tanao amin'ny tehinao, ambonin'ny renirano, ambonin'ny ony, sy ambonin'ny farihy; ary ampakaro ⟨את⟩ ny saobakana hankany amin'ny tany Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho amin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Lazao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Ahitsio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tanao"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ny tanao"
+    },
+    {
+      "surface": "במטך",
+      "gloss": "amin'ny tehinao"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "הנהרת",
+      "gloss": "renirano"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "היארים",
+      "gloss": "oney"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy ambonin'ny"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "farihy"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "ary ampakaro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny saobakana"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "ny saobakana"
+    },
+    {
+      "surface": "על",
+      "gloss": "hankany amin'ny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:18.276908403Z",
+  "model": "glm-5.3"
+}

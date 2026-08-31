@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "Ary nametraka azy ⟨את⟩ teo amin'ny sorony efoda izy, ho vaton-tsarovana ho an'ny zanak'i Yisraela; araka izay nandidian'i Yahveh an'i Moshe ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ary nametraka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azy"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo amin'ny"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "sorony"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ny efoda"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ho vaton-"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "tsarovana"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ho an'ny zanak'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka izay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidiany"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:03.110865418Z",
+  "model": "glm-5.3"
+}

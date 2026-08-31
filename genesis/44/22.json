@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Ary hoy izahay tamin'ny tompoko: Tsy mahazo mahafoy ny rainy ilay tanora, fa raha mahafoy ⟨את⟩ ny rainy izy, dia ho faty ny rainy.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "hoy izahay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tompoko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "mahazo"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ilay tanora"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "mahafoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rainy"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ny rainy"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "raha mahafoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rainy"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ny rainy"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dia ho faty"
+    }
+  ],
+  "timestamp": "2026-08-31T12:51:28.774438138Z",
+  "model": "glm-5.3"
+}

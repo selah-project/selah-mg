@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary Yahveh efa nanambara tamin'ny sofin'i Shemuël ⟨את⟩, indray andro talohan'ny fahatongan'i Shaol, ka nanao hoe:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ary Yahveh"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "nanambara (namoaka tsy misy sarotsoavana)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny sofin'i Shemuël"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "sofin'i"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "indray"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "talohan'ny"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "fahatongan'ny"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T18:02:32.346827316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ny lahy rehetra amin'ny mpisoro no hihinanana azy; any amin'ny fitoerana masina no hihinanana azy; masina indrindra izany.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lahy"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "amin'ny mpisoro"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "no hihinanana azy"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "any amin'ny fitoerana"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "no hihinanana"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "indrindra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:12:46.387852413Z",
+  "model": "glm-5.3"
+}

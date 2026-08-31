@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Rehefa niteny Efraima dia nisy fihovitrovitra; izy dia natsangana tao amin'i Isiraely; fa nony efa nanota tamin'i Baala izy dia maty.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "rehefa niteny"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraima"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "fihovitrovitra"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "natsangana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "tao amin'i Isiraely"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "fa nanota"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "tamin'i Baala"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dia maty"
+    }
+  ],
+  "timestamp": "2026-08-31T16:08:53.884684114Z",
+  "model": "glm-5.3"
+}

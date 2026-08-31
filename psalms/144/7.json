@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 144,
+  "translation": "Alefaso avy any ambony ny tànanao; vonjeho aho, ary afako aho amin'ny rano be, amin'ny tàn'ny zanaky ny vahiny.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Alefaso"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ny tànanao"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "avy any ambony"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "vonjeho aho"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ary afako aho"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "amin'ny rano"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "be"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "amin'ny tàn'"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanaky"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ny vahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:46.680373443Z",
+  "model": "glm-5.3"
+}

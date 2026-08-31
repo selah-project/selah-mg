@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Tsy misy fahatsiarovana ny momba ny efa tany fahiny; ary na ny amin'izay ho avy aza, tsy hisy fahatsiarovana azy amin'izay ho tonga afara.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "fahatsiarovana"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "ny efa tany fahiny"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ary na... aza"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "izay ho avy"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "ho tonga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hisy"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "fahatsiarovana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "amin'"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "izay ho tonga"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "afara"
+    }
+  ],
+  "timestamp": "2026-08-31T17:14:19.346553799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 12:12",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary hifaly ianareo eo anoloan'i Yahveh Elohimanareo: ianareo sy ny zanakareo lahy sy ny zanakareo vavy, ny mpanomponareo sy ny mpanompo vavinareo, ary ny Levita izay ao anaty vavahadynareo, fa tsy manana anjara sy lova ⟨את⟩ aminareo izy.",
+  "tokens": [
+    {
+      "surface": "ושמחתם",
+      "gloss": "Ary hifaly ianareo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anoloan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimanareo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ianareo"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "sy ny zanakareo lahy"
+    },
+    {
+      "surface": "ובנתיכם",
+      "gloss": "sy ny zanakareo vavy"
+    },
+    {
+      "surface": "ועבדיכם",
+      "gloss": "ny mpanomponareo"
+    },
+    {
+      "surface": "ואמהתיכם",
+      "gloss": "sy ny mpanompo vavinareo"
+    },
+    {
+      "surface": "והלוי",
+      "gloss": "ary ny Levita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בשעריכם",
+      "gloss": "ao anaty vavahadynareo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa satria"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy manana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "izy"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "anjara"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "sy lova"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aminareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:46:08.240403277Z",
+  "model": "glm-5.3"
+}

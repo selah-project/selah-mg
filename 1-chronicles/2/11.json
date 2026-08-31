@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary Nachshona niteraka ⟨את⟩ Salma; ary Salma niteraka ⟨את⟩ Boaza.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "Ary Nachshona"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salma"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salma"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "ary Salma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaza"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaza"
+    }
+  ],
+  "timestamp": "2026-08-31T17:34:04.884153002Z",
+  "model": "glm-5.3"
+}

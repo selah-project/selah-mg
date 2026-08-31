@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary niteny tamin'ny sesitany aho ⟨את⟩ ny teny rehetra'i Yahveh izay nasehony tamiko.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "Ary niteny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "sesitany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny teny rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "nasehony tamiko"
+    }
+  ],
+  "timestamp": "2026-08-31T15:49:15.063383023Z",
+  "model": "glm-5.3"
+}

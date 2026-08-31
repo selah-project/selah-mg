@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ka naniraka tamin'ny tanan'i Natan ny mpaminany izy, ary niantso ny anarany hoe Jedidejah, noho i Yahveh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ka naniraka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "tamin'ny tanan'i"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ny mpaminany"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ary niantso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anarany"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Jedidejah"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "noho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T14:32:41.912567503Z",
+  "model": "glm-5.3"
+}

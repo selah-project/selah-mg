@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ireto ny taranak'i Shem: Shem zanaka amby taona dimy amby zato raha niteraka an'i ⟨את⟩ Arpakshad, roa taona taorian'ny safodrano.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ireto"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ny taranaka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "zato"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "raha niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakshad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "roa taona"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "taorian'ny"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "safodrano"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:29.621765639Z",
+  "model": "glm-5.3"
+}

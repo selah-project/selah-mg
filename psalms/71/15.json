@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 71,
+  "translation": "Ny vavako hitsara ny fahamarinanao, ny famonjenaorahahivao — fa tsy mahalala isa aho.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Ny vavako"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "hitsara"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ny fahamarinanao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rahahivao (rehetra)"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ny andro"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "ny famonjenao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "isa"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:11.250795921Z",
+  "model": "glm-5.3"
+}

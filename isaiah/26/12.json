@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Yahveh ô, Hanao fiadanana ho anay ianao; fa na ny asanay rehetra aza dia nataonao ho anay.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "Hanao \/ hametraka"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fiadanana"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho anay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na ... aza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "ny asanay"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "nataonao"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho anay"
+    }
+  ],
+  "timestamp": "2026-08-31T15:08:30.179978981Z",
+  "model": "glm-5.3"
+}

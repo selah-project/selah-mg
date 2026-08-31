@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary ⟨את⟩ Aharoni sy ⟨את⟩ ny zanany hosoranao diavy, ary hanamasina azy ianao hitokyhan'ny mpanompo ahy, hanao mpisorona ho Ahy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "hosoranao diavy"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "hanamasina"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "hanao mpisorona"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho Ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:06:23.891295862Z",
+  "model": "glm-5.3"
+}

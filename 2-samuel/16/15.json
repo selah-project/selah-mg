@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary Abshaloma sy ny vahoaka rehetra, dia ny lehilahin'ny Isiraely, tonga tany Yeroshalayim; ary Akitofela ⟨את⟩ taminy.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Ary Abshaloma"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ny ... rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahin'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "tany Yeroshalayim"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "ary Akitofela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ taminy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:34:47.532516930Z",
+  "model": "glm-5.3"
+}

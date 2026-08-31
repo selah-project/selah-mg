@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary Yehudah nandeha nankany amin'ny Kanaanita monina ⟨ao amin'ny⟩ Hevrona — ary anaran'i Hevrona fahiny dia Kiryat-Arba — dia namely ⟨את⟩ i Sheshay sy ⟨את⟩ i Achiman ary ⟨את⟩ i Talmay.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nankany amin'ny"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ny Kanaanita"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "monina"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "⟨ao amin'ny⟩ Hevrona"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ary anaran'i"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevrona"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "fahiny"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "namely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshay"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Achiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Achiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Talmay"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmay"
+    }
+  ],
+  "timestamp": "2026-08-31T14:04:02.078507886Z",
+  "model": "glm-5.3"
+}

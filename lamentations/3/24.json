@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Yahveh no anjaraiko, hoy ny fanahiko; koa Azy no andrasako.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "anjaraiko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny fanahiko"
+    },
+    {
+      "surface": "על",
+      "gloss": "koa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(koa)"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "andrasako"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Azy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:16:51.269210252Z",
+  "model": "glm-5.3"
+}

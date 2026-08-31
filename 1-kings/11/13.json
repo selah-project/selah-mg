@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Fa ⟨את⟩ ny fanjakana manontolo tsy hesoriko; foko iray no homeko ho an'ny zanakao, noho i Davida mpanompoko, ary noho i Yeroshalayim izay nofidiko.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanjakana manontolo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "manontolo"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ny fanjakana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "hesoriko"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "foko"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "homeko"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "ho an'ny zanakao"
+    },
+    {
+      "surface": "למען",
+      "gloss": "noho"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mpanompoko"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ary noho"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "nofidiko"
+    }
+  ],
+  "timestamp": "2026-08-31T14:45:24.529863714Z",
+  "model": "glm-5.3"
+}

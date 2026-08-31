@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 55,
+  "translation": "Fa avo mihoatra noho ny tany ny lanitra, araka izany no avon'ny lalako mihoatra ny lalanareo, ary ny sainaiko mihoatra ny sainareo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "avo mihoatra"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "noho ny tany"
+    },
+    {
+      "surface": "כן",
+      "gloss": "araka izany"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "no avon'ny"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "lalako"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "mihoatra ny lalanareo"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "ary ny sainaiko"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "mihoatra ny sainareo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:19:15.132520548Z",
+  "model": "glm-5.3"
+}

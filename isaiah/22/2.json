@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 22:2",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Fiarakorontana feno ianao, tanàna mihoby, tanàna mandray soa: tsy novonoina tamin'ny sabatra ny voavono taminao, ary tsy maty an'ady ireo.",
+  "tokens": [
+    {
+      "surface": "תשאות",
+      "gloss": "fiarakorontana"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "feno"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "הומיה",
+      "gloss": "mihoby"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "mandray soa"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "ny voavono taminao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "voavono"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tamin'ny sabatra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "maty"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "an'ady"
+    }
+  ],
+  "timestamp": "2026-08-31T15:08:05.315579934Z",
+  "model": "glm-5.3"
+}

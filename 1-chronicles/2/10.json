@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary Ramy niteraka ⟨את⟩ Aminadaba; ary Aminadaba niteraka ⟨את⟩ Nachshona, andriandahy ⟨amin'ny⟩ zanak'i Yehuda.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Ary Ramy"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadaba"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadaba"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "ary Aminadaba"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachshona"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachshona"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "andriandahy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-31T17:34:04.883856851Z",
+  "model": "glm-5.3"
+}

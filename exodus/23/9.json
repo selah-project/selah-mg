@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary ny vahiny tsy hotsidihinao; fa ianareo mahalala ⟨את⟩ fanahin'ny vahiny, satria vahiny ianareo tany amin'ny tany Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Ary ny vahiny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "hotsidihinao"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "fa ianareo"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fanahin'ny vahiny"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ny vahiny"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "vahiny"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ianareo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tany amin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T13:02:56.403805033Z",
+  "model": "glm-5.3"
+}

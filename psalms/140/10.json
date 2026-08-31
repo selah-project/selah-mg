@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 140,
+  "translation": "Ny lohan'izay manodidina ahy, dia ny fahorian'avy amin'ny molony no hanarona azy.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "lohan'ny"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "izay manodidina ahy"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "fahorian'"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "avy amin'ny molony"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "hanarona azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:40.177985751Z",
+  "model": "glm-5.3"
+}

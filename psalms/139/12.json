@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 139,
+  "translation": "Fa ny maizina aza tsy maizina aminao; ary ny alina mazava toy ny andro; ny fahamaizinana dia tahaka ny fahazavana.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "aza"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ny maizina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "maizina"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ary ny alina"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "toy ny andro"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "mazava"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "ny fahamaizinana dia tahaka ny"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "fahazavana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:33.311992761Z",
+  "model": "glm-5.3"
+}

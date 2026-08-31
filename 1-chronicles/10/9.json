@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 10:9",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary notsingainy izy, ka nalainy ⟨את⟩ ny loany sy ⟨את⟩ ny fiadiany, dia naniraka izy ireo manerana ny tany Filistina mba hanambara ⟨amin'ny⟩ sampiny sy ⟨amin'ny⟩ vahoaka.",
+  "tokens": [
+    {
+      "surface": "ויפשיטהו",
+      "gloss": "notsingainy izy"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "nalainy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny loany"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ny loany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny fiadiany"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ny fiadiany"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "naniraka izy ireo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "manerana ny tany"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistina"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "mba hanambara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sampiny"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "sampiny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny vahoaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    }
+  ],
+  "timestamp": "2026-08-31T17:36:58.140060734Z",
+  "model": "glm-5.3"
+}

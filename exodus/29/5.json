@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary haka ⟨את⟩ ny fitafiana ianao, ka hitafy an'i Aharon ⟨את⟩ ny kapoteny, sy ⟨את⟩ ny akanjon'ny ephoda, sy ⟨את⟩ ny ephoda, ary ⟨את⟩ ny hosena, ary hifehy azy amin'ny fehin-kanton'ny ephoda.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Ary haka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitafiana"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "ny fitafiana"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "ka hitafy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny kapoteny"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "ny kapoteny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny akanjon'ny ephoda"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "akanjon'ny"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ephoda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny ephoda"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ny ephoda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny hosena"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ny hosena"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "ary hifehy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "amin'ny fehin-kanto"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ny ephoda"
+    }
+  ],
+  "timestamp": "2026-08-31T13:05:44.849663044Z",
+  "model": "glm-5.3"
+}

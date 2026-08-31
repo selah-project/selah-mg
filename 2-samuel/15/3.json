@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 15:3",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary Abshalôm nanao taminy hoe: Jereo, tsara sy marina ny raharanao; fa tsy misy mihaino anao avy amin'⟨את⟩ ny mpanjaka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary nanao hoe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshalôm"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Jereo"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ny raharanao"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "ונכחים",
+      "gloss": "sy marina"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "mihaino"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "avy amin'⟨את⟩",
+      "marks": "ny mpanjaka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:34:56.086992174Z",
+  "model": "glm-5.3"
+}

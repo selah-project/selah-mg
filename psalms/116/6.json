@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 116,
+  "translation": "Mpiambina ny tsy ampy fahendrena Yahveh; nanondriketra aho, ary namonjy ahy Izy.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "mpiambina"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "ny tsy ampy fahendrena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "nanondriketra aho"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ary ahy"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "namonjy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:41.810807640Z",
+  "model": "glm-5.3"
+}

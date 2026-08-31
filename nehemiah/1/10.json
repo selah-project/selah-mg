@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 1:10",
+  "book": "nehemiah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Fa izy no mpanomponao sy olonao, izay navotanao tamin'ny herinao lehibe sy tamin'ny tànanao mahery.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Fa izy"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "mpanomponao"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "sy olonao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "navotanao"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "tamin'ny herinao"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "sy tamin'ny tànanao"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "mahery"
+    }
+  ],
+  "timestamp": "2026-08-31T17:29:22.072739304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Hifaly ny rainao sy ny reninao, ary hiara-hifaly koa ilay niteraka anao.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "Hifaly"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ny rainao"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "sy ny reninao"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ary hiara-hifaly koa"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "ilay niteraka anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:55:47.648085471Z",
+  "model": "glm-5.3"
+}

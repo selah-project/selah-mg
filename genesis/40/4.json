@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary ny lohan'ny mpamono omby nanendry an'i Yosef hiara-miombona ⟨את⟩ taminy, ka nanompo ⟨את⟩ azy izy; ary nisy andro izy ireo tao an-tranon'ny fahatoranana.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "nanendry"
+    },
+    {
+      "surface": "שר",
+      "gloss": "lohan'ny"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "mpamono omby"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ taminy"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "ka nanompo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ary nisy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "tao an-tranon'ny fahatoranana"
+    }
+  ],
+  "timestamp": "2026-08-31T12:49:08.817192569Z",
+  "model": "glm-5.3"
+}

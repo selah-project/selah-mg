@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Ary nampitombo fatratra ny olony Izy ⟨את⟩, ka nampanina azy mihoatra ny fahavalony.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "Ary nampitombo fatratra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny olony"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ny olony"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "fatratra"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "ka nampanina azy"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "mihoatra ny fahavalony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:26.180669750Z",
+  "model": "glm-5.3"
+}

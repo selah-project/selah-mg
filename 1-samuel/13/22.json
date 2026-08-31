@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 13:22",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary tamin'ny andron'ny ady dia tsy nisy sabatra na lefona hita tanàn'ny vahoaka rehetra izay tao amin'i Shaol sy ⟨tao amin'i⟩ Yonatanan; fa tao amin'i Shaol sy Yonatanan zanany ihany no nahitana izany.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ary tonga tamin'ny"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andron'ny"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "ady"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "nisy hita"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabatra"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "na lefona"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "tanàn'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay tao amin'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaol"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatanan"
+    },
+    {
+      "surface": "ותמצא",
+      "gloss": "fa nahitana ihany"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "tao amin'i Shaol"
+    },
+    {
+      "surface": "וליונתן",
+      "gloss": "sy tao amin'i Yonatanan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:18:23.276244052Z",
+  "model": "glm-5.3"
+}

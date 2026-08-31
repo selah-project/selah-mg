@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary Davida tsy nampakatra ⟨את⟩ ny fiara ← tsy ho aminy ho any amin'ny tanànan'i Davida, fa nampitondra azy ho any amin'ny tranon'i Oved-Edoma ilay Gitita.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ary ... tsy"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "nampakatra"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiara"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ny fiara"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho aminy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "fa nampitondra azy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edoma"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "ilay Gitita"
+    }
+  ],
+  "timestamp": "2026-08-31T18:37:59.788271464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Aoka ho tonga sady mpanelanelana ahy ny tananao, fa ny didinao no nofidiko.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "aoa ho tonga"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ny tananao"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "mpanelanelana ahy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ny didinao"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "nofidiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:31.451228702Z",
+  "model": "glm-5.3"
+}

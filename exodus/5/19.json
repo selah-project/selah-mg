@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 5:19",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Dia hitan'ny mpanapaka ⟨את⟩ ny zanak'i Isiraela fa efa amin'ny lozany izy, rehefa lazaiana hoe: Aza mampihena biriky — ilaozanny andro isan'andro.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "diahitan'ny"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "mpanapaka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "fa efa amin'ny lozany izy"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "amin'ny lozany"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "rehefa lazaiana hoe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תגרעו",
+      "gloss": "mampihena"
+    },
+    {
+      "surface": "מלבניכם",
+      "gloss": "ny biriky"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ilaozanny"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "isan'andro"
+    }
+  ],
+  "timestamp": "2026-08-31T12:55:32.288104826Z",
+  "model": "glm-5.3"
+}

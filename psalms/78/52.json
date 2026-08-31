@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Ary nampandrosoiny toy ny ondry ny olony, ka nitondra azy toy ny andiam-biby tany an-efitra.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "nampandrosoiny"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "toy ny ondry"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ny olony"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "ka nitondra azy"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "toy ny andiam-biby"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "tany an-efitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:00.743638783Z",
+  "model": "glm-5.3"
+}

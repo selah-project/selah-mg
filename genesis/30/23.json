@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Dia nitoe-jaza ka niteraka zazalahy izy, ary hoy izy: Efa nanesotra ny fahafaham-barako Elohim.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "nitoe-jaza"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zazalahy"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "hoy izy"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "nanesotra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahafaham-barako"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ny fahafaham-barako"
+    }
+  ],
+  "timestamp": "2026-08-31T12:44:12.309702895Z",
+  "model": "glm-5.3"
+}

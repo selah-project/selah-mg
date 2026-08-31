@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 111,
+  "translation": "Voninahitra sy hafahiana ny asany; ary ny fahamarinany mjantonona mandrakizay.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Voninahitra"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "sy hafahiana"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ny asany"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ary ny fahamarinany"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "mjantonona"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "mandrakizay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:01.666620673Z",
+  "model": "glm-5.3"
+}

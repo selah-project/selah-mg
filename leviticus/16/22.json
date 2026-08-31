@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary hitondra ny osilahy amboniny ⟨את⟩ ny fahadisoany rehetra ho any amin'ny tany mibaribary, ary hanafa ⟨את⟩ ny osilahy any an-efitra.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "hitondra"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ny osilahy"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "amboniny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahadisoany rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "fahadisoany"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "mibaribary (mifanalavitra)"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "hanafa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny osilahy"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "osilahy"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "any an-efitra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:18:25.775816160Z",
+  "model": "glm-5.3"
+}

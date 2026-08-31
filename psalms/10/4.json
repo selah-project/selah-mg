@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ny ratsy fanahy araka ny haavon'ny tarehiny — tsy mitady ⟨an'i Elohim⟩ mihitsy; \"tsy misy Elohim\" no amin'ny tetikasany rehetra.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Ny ratsy fanahy"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "araka ny haavon'ny"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "tarehiny"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tsy ... mihitsy"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "mitady"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "tetikasany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:56.500664280Z",
+  "model": "glm-5.3"
+}

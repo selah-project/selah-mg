@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Izaho nahalala anao tany an-efitra, tany amin'ny tany maina fatratra.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "nahalala anao"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "tany an-efitra"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tany amin'ny tany"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "maina fatratra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:09:15.218460612Z",
+  "model": "glm-5.3"
+}

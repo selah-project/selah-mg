@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "ezekiel 16:53",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary hampodiko ⟨את⟩ ny fahababoany — ⟨את⟩ ny fahababoan'i Sodoma sy ny zanany vavy, ary ⟨את⟩ ny fahababoan'i Shomrona sy ny zanany vavy — ary ny fahababoanao dia hampodiko ao afovoany.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "hampodiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahababoany"
+    },
+    {
+      "surface": "שביתהן",
+      "gloss": "ny fahababoany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahababoan'i Sodoma"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "ny fahababoan'i"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodoma"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "sy ny zanany vavy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny fahababoan'i Shomrona"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "ny fahababoan'i"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomrona"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "sy ny zanany vavy"
+    },
+    {
+      "surface": "ושבית",
+      "gloss": "ary ny fahababoanao"
+    },
+    {
+      "surface": "שביתיך",
+      "gloss": "fahababoanao"
+    },
+    {
+      "surface": "בתוכהנה",
+      "gloss": "ao afovoany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:52:31.494339177Z",
+  "model": "glm-5.3"
+}

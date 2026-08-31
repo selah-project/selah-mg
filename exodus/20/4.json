@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Tsy hanao ho anao sary voasokitra ianao, na endrika rehetra izay eo amin'ny lanitra ambony, ary izay eo amin'ny tany ambany, ary izay eo anatin'ny rano ambanin'ny tany.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "sary voasokitra"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na ... rehetra"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "endrika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "eo amin'ny lanitra"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ambony"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ary izay"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "eo amin'ny tany"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ambany"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ary izay"
+    },
+    {
+      "surface": "במים",
+      "gloss": "eo anatin'ny rano"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ambany ny"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:01:46.461401736Z",
+  "model": "glm-5.3"
+}

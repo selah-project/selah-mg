@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Izay mandefa vato dia hahazo fanaintainana amin'ireo; ary izay mandroratra hazo dia ho voaty amin'ireo.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "mandefa"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "vato"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "hahazo fanaintainana"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "amin'ireo"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "mandroratra"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "ho voaty"
+    },
+    {
+      "surface": "בם",
+      "gloss": "amin'ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:00.467406260Z",
+  "model": "glm-5.3"
+}

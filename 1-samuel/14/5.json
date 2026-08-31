@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ny vato maranitra iray mitsangana avy avaratra tandrify an'i Mikhmash, ary ny iray avy atsimo tandrify an'i Giv'a.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "ny vato maranitra"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "mitsangana"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "avy avaratra"
+    },
+    {
+      "surface": "מול",
+      "gloss": "tandrify"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "an'i Mikhmash"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "ary ny iray"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "avy atsimo"
+    },
+    {
+      "surface": "מול",
+      "gloss": "tandrify"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "an'i Giv'a"
+    }
+  ],
+  "timestamp": "2026-08-31T14:19:05.728604943Z",
+  "model": "glm-5.3"
+}

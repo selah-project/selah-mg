@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Fa yovel izy; masina no ho anareo; avy amin'ny saha no hohaninareo ⟨את⟩ ny vokatr'io.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "no ho"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "saha"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "hohaninareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vokatr'io"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "vokatr'io"
+    }
+  ],
+  "timestamp": "2026-08-31T13:21:08.666637753Z",
+  "model": "glm-5.3"
+}

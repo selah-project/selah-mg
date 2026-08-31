@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Mitsangàna, ry Yahveh; aza mahery ny olombelona; aoka hitsara eo anatrehanao ny firenena.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Mitsangàna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ny olombelona"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "aoka hitsara"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ny firenena"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "anatrehanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:44.072022274Z",
+  "model": "glm-5.3"
+}

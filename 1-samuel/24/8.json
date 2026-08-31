@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary nampitony tamin'ny teny Davida ⟨את⟩ ny lehilahiny, ka tsy namela azy hitsangana hanohitra an'i Shaol; ary Shaol nitsangana avy tao an-zohy ka nandeha teny an-dalana.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "Ary nampitony"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lehilahiny"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "ny lehilahiny"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "tamin'ny teny"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "namela azy"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "hitsangana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hanohitra"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "an'i Shaol"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ary Shaol"
+    },
+    {
+      "surface": "קם",
+      "gloss": "nitsangana"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "avy tao an-zohy"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ka nandeha"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "teny an-dalana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:24:38.882389870Z",
+  "model": "glm-5.3"
+}

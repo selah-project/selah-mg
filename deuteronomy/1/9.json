@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary hoy izaho tamnareo tamin'izay andro izay: Tsy mahay hitondra ⟨את⟩ anareo irayaho aho.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ary hoy izaho"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "tamnareo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "tamin'izay andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mahay"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "irayaho"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "hitondra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:40:06.197225215Z",
+  "model": "glm-5.3"
+}

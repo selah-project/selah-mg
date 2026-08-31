@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 22:11",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary ny mpanjaka naniraka hiantso ⟨את⟩ Ahimeleka zanak'i Ahitoba mpisorona, sy ⟨את⟩ taranaky ny rainy rehetra, dia ireo mpisorona izay tany Noba; ary tonga tany amin'ny mpanjaka izy rehetra.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "naniraka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "hiantso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahimeleka zanak'i Ahitoba mpisorona"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimeleka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Ahitoba"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "taranaky ny rainy rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taranaky"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ny rainy"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "tany Noba"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "izy rehetra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tany amin'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:23:41.761365036Z",
+  "model": "glm-5.3"
+}

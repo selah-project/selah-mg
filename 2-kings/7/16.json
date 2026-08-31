@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Diaivoaka ny vahoaka ka nangalatra ⟨את⟩ ny tobyin'i Arama; dia lasa sekel iray ny seaha farinare tsara, ary sekel iray koa ny seaha roa vary hordea, araka ny tenin'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Diaivoaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "ka nangalatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tobyin'i Arama"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tobyin'"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dia lasa"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "seaha"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "farinare tsara"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "sekel iray"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "seaha roa"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "vary hordea"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "sekel iray"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "araka ny tenin'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T14:54:01.098457139Z",
+  "model": "glm-5.3"
+}

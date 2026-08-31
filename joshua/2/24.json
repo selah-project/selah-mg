@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 2:24",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary hoy izy tamin'i Yehoshoa: Efa nomen'i Yahveh ⟨את⟩ ny tany rehetra ho an-tananao izahay; ary koa, resy lalao ny mponina rehetra amin'ny tany noho izahay.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nomen'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "ho an-tananao izahay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ary koa"
+    },
+    {
+      "surface": "נמגו",
+      "gloss": "resy lalao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ny mponina"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "noho izahay"
+    }
+  ],
+  "timestamp": "2026-08-31T13:54:55.987409007Z",
+  "model": "glm-5.3"
+}

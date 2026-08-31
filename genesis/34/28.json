@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "⟨את⟩ Ny ondry aman'osiny sy ⟨את⟩ ny omenny sy ⟨את⟩ ny borikiny ary ⟨את⟩ izay rehetra tao an-tanàna sy ⟨את⟩ izay rehetra tany an-tsaha dia nalainy avokoa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ny ondry aman'osiny"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "ondry aman'osiny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny omenny"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "omenny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny borikiny"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "borikiny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "izay rehetra tao an-tanàna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "tao an-tanàna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "izay rehetra tany an-tsaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "tany an-tsaha"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "nalainy avokoa"
+    }
+  ],
+  "timestamp": "2026-08-31T12:48:06.873341793Z",
+  "model": "glm-5.3"
+}

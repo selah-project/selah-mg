@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Andao hampisotro divay ⟨את⟩ ny rainay, ary hitoetra hiaraka aminy, mba hananantsika taranaka avy amin'ny rainay.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Andao"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "hampisotro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rainay"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ny rainay"
+    },
+    {
+      "surface": "יין",
+      "gloss": "divay"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "hitoetra hiara-"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "hananantsaka taranaka avy"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "amin'ny rainay"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "taranaka"
+    }
+  ],
+  "timestamp": "2026-08-31T17:54:33.239393689Z",
+  "model": "glm-5.3"
+}

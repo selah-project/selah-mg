@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary ento ⟨את⟩ ilay mincha hatao amin'ireo, ho an'i Yahveh, ary omeo ny mpisorona izy, ary arosoy eo ambanon'ny alitara izy.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Ary ento"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "המנחה — ilay mincha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ilay mincha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hatao"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "amin'ireo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "ary omeo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "ary arosoy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "eo ambanon'ny alitara"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:26.368710419Z",
+  "model": "glm-5.3"
+}

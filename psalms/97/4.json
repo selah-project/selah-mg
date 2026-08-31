@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 97,
+  "translation": "Ny trenginginy namirapiratra ny tontolo; hitan'ny tany ka nientana.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "namirapiratra"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "Ny trenginginy"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ny tontolo"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "hitan'ny tany"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "ka nientana"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:44.902052498Z",
+  "model": "glm-5.3"
+}

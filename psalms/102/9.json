@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 102,
+  "translation": "Ny andro rehetra dia manome tsiny ahy ny fahavaloiko; ireo very saina aminahy dia nianiana tamiko.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "היום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "manome tsiny ahy"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ny fahavaloiko"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "ireo very saina aminahy"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "nianiana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:17.626746681Z",
+  "model": "glm-5.3"
+}

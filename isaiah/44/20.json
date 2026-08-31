@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Mihinana lavenona izy; fo voitana no nampivily azy, ka tsy mahavonjy ⟨את⟩ ny ainy izy, ary tsy mahalaza hoe: Tsy lainga va izay eo an-tanako havanana?",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "Mihinana"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "lavenona"
+    },
+    {
+      "surface": "לב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "voitana"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "no nampivily azy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "mahavonjy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ainy"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ny ainy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mahalaza hoe"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Tsy... va"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lainga"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "eo an-tanako havanana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:17:39.708681121Z",
+  "model": "glm-5.3"
+}

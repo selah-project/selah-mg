@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary hitafy ⟨את⟩ Aharon amin'⟨ny⟩ fitafiana masina ianao, ary hanosy ⟨את⟩ azy sy hanamasina ⟨את⟩ azy, ary hanompo am-pisorona ho Ahy.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "hitafy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨amin'ny⟩",
+      "marks": "fitafiana masina"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "fitafiana"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "hanosy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "hanamasina"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "hanompo am-pisorona"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho Ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:02.845709824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 87,
+  "translation": "Ary ho an'i Tsiona hatao hoe: olona sy olona no teraka taminy; ary Izy, Elyon, no hampitoetra azy.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "Ary ho an'i Tsiona"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "hatao hoe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "sy olona"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "no teraka"
+    },
+    {
+      "surface": "בה",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ary Izy"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "no hampitoetra azy"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:15.076589893Z",
+  "model": "glm-5.3"
+}

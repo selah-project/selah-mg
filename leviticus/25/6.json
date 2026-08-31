@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary ny vokatra amin'ny fialan-tsasatry ny tany ho sakafo ho anareo: ho anao, sy ho an'ny mpanomponao lahy, ary ho an'ny mpanompovavy, sy ho an'ny mpiasa nampiasainao, ary ho an'ny vahinihanao mitoetra aminao.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "Ary ... ho"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "fialan-tsasatra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "sakafo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "sy ho an'ny mpanomponao lahy"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "ary ho an'ny mpanompovavy"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "sy ho an'ny mpiasa nampiasainao"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "ary ho an'ny vahinihanao"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "mitoetra"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:21:19.092600118Z",
+  "model": "glm-5.3"
+}

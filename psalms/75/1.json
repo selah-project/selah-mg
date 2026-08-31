@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 75,
+  "translation": "Ho an'ny mpitarika ⟨hira⟩. Al Tashchet ⟨aza ravao⟩. Mizmpa ho an'i Asafa. Hira.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho an'ny mpitarika ⟨hira⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Al"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "Tashchet ⟨aza ravao⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmpa"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ho an'i Asafa"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "hira"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:53.280463828Z",
+  "model": "glm-5.3"
+}

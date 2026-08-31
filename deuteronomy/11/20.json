@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary soraty eo amin'ny tolam-baravaràn'ny tranonao sy eo amin'ny vavahadinao izy ireo.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "soraty"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "tolam-baravaràn'ny"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "tronao"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "sy eo amin'ny vavahadinao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:42:38.236055346Z",
+  "model": "glm-5.3"
+}

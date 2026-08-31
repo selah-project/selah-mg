@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 95,
+  "translation": "Izay eny an-tanany ny lalina indrindran'ny tany, ary ny tampon'ny tendrombohitra Azy.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Izay"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "eny an-tanany"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "lalina indrindran'ny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "ary ny tampon'ny"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:25.510259902Z",
+  "model": "glm-5.3"
+}

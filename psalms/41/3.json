@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Yahveh no miaro azy sy mahavelona azy; mahasambatra izy amin'ny tany; ary aza atolotra ho amin'ny fanahin'ny fahavalony izy.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "miaro azy"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "sy mahavelona azy"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "mahasambatra"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "atolotra ... izy"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ho amin'ny fanahin'ny"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "fahavalony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:41.809716435Z",
+  "model": "glm-5.3"
+}

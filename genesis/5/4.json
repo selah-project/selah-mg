@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary ny andron'i Adam taorian'ny niterahany an'i Shet ⟨את⟩ dia valo-polo taona amby zato, ary niteraka zazalahy sy zazavavy izy.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ary ny andron'i"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "andron'i"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "taorian'ny"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "niterahany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Shet"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "valo-polo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "amby zato"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ary niteraka"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zazalahy"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "sy zazavavy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:16.025377854Z",
+  "model": "glm-5.3"
+}

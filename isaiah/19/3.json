@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary hofoana ny fanahin'i Mitsrayim ao anatiny, ary ny sainy hapoteiko, ary hangatahiny amin'ny sampy sy amin'ny mpisikidy sy amin'ny fanahy mifanary sy amin'ny mpahalala ny miafina.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "Ary hofoana"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ny fanahin'i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ao anatiny"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "ary ny sainy"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "hapoteiko"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "ary hangatahiny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "sampy"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sy amin'ny"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "mpisikidy"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sy amin'ny"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "fanahy mifanary"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sy amin'ny"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "mpahalala ny miafina"
+    }
+  ],
+  "timestamp": "2026-08-31T15:08:01.209434827Z",
+  "model": "glm-5.3"
+}

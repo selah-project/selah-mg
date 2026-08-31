@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 51:35",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "\"Ny herisetra tamiko sy ny nofoko dia amin'i Babilona\", hoy ilay monina any Ziona; \"ary ny ràko dia amin'ny mponin'i Kasdia\", hoy Yerosalama.",
+  "tokens": [
+    {
+      "surface": "חמסי",
+      "gloss": "Ny herisetra tamiko"
+    },
+    {
+      "surface": "ושארי",
+      "gloss": "sy ny nofoko"
+    },
+    {
+      "surface": "על",
+      "gloss": "dia amin'i"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilona"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "ilay monina any"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ziona"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "ary ny ràko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dia amin'ny"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mponin'i"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdia"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerosalama"
+    }
+  ],
+  "timestamp": "2026-08-31T15:46:08.146302978Z",
+  "model": "glm-5.3"
+}

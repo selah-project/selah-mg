@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary tamin'izany andro izany no nandidiako ⟨את⟩ anareo ⟨את⟩ izay zavatra rehetra hataonareo.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "Ary nandidiako"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "tamin'"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izany andro izany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zavatra rehetra hataonareo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "zavatra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "hataonareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:40:32.202979928Z",
+  "model": "glm-5.3"
+}

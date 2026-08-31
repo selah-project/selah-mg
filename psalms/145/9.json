@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 145,
+  "translation": "Tsara Yahveh amin'ny olona rehetra, ary ny famindrampoany eo ambonin'ny asany rehetra.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Tsara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "amin'ny olona rehetra"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "ary ny famindrampoany"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambonin'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ny asany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:28.836659232Z",
+  "model": "glm-5.3"
+}

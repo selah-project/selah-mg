@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 62,
+  "translation": "Zava-poana ihany ny zanak'i Adama, fitaka kosa ny zanak'ilay lehilahy; rehefa tafatsangan'ny mizana hiakatra izy, dia miaraka latsaka noho ny zava-poana izy.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ihany"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "zava-poana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adama"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "fitaka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'ilay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "amin'ny mizana"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "hiakatra"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "latsaka noho ny zava-poana"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "miaraka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:42.158415279Z",
+  "model": "glm-5.3"
+}

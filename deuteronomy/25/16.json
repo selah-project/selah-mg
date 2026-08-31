@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Fa fahavetavetana eo anatrehan'i Yahveh Elohim-nao izay rehetra manao izany, izay rehetra manao tsi-fahamarinana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "fahavetavetana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "manao"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "izany"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "manao"
+    },
+    {
+      "surface": "עול",
+      "gloss": "tsi-fahamarinana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:48:14.774136225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "sy manao hesed ho an'ny arivo ⟨taranaka⟩, ho an'izay tia Ahy sy mitandrina ny didiko.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "sy manao"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "ho an'ny arivo ⟨taranaka⟩"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "ho an'izay tia Ahy"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "sy mitandrina"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ny didiko"
+    }
+  ],
+  "timestamp": "2026-08-31T13:01:14.999316205Z",
+  "model": "glm-5.3"
+}

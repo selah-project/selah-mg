@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary Yahveh nanomany hazandrano leby hanelanelana ⟨את⟩ Yonah; ary Yonah dia tao an-kibon'ny hazandrano telo andro sy telo alina.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "nanomany"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "דג",
+      "gloss": "hazandrano"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "leby"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "hanelanelana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ary...dia"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "tao an-kibon'"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "ny hazandrano"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "telo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "sy telo"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "alina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:13:54.096081404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ho an'ny mandrakizay tsy hanadinoako ny didinao, fa tamin'ireo no nampivelomanao ahy.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "ho an'ny mandrakizay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "hanadinoako"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ny didinao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "tamin'ireo"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "no nampivelomanao ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:38.823299582Z",
+  "model": "glm-5.3"
+}

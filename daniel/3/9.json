@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 3:9",
+  "book": "daniel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Namaly ⟨izy⟩ ka nanao hoe tamin'i Nevukadnetsara mpanjaka: Ry mpanjaka, avelao ho velona mandrakizay!",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "namaly"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "לנבוכדנצר",
+      "gloss": "tamin'i Nevukadnetsara"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ry mpanjaka"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ho velona"
+    }
+  ],
+  "timestamp": "2026-08-31T18:25:59.003175429Z",
+  "model": "glm-5.3"
+}

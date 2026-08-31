@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary hitan'ny lehilahy iray izany, ka nambarany tamin'i Yoaba, ka nanao hoe: Indro, hitako ⟨את⟩ Abshalom mihantona amin'ilay elahana.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hitan'ny"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "nambarany"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "tamin'i Yoaba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "hitako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abshalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Abshalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "mihantona"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "amin'ilay elahana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:35:15.101005933Z",
+  "model": "glm-5.3"
+}

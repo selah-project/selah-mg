@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Amin'ny anaranao no firavoravoany amin'ny andro rehetra, ary amin'ny fahamarinanao no fiakarana avo.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "amin'ny anaranao"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "firavoravoany"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "היום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "ary amin'ny fahamarinanao"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "fiakarana avo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:40.637778429Z",
+  "model": "glm-5.3"
+}

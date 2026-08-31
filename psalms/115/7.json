@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 115,
+  "translation": "Tànany saingy tsy mba mikasika; tongotrany saingy tsy mandeha; tsy maneno amin'ny tendriny.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "tànany"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "saingy tsy"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "mba mikasika"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "tongotrany"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "saingy tsy"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "maneno"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "amin'ny tendriny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:52.378217455Z",
+  "model": "glm-5.3"
+}

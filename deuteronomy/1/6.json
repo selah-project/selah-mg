@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Yahveh Elohinay niteny taminay tao amin'ny Horeva ka nanao hoe: Efa ampy ny nipetrakanareo tao anaty tendrombohitra io:",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohinay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "niteny"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "taminay"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "tao amin'ny Horeva"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ampy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ny nipetrakanareo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "tao anaty tendrombohitra"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "io"
+    }
+  ],
+  "timestamp": "2026-08-31T13:40:19.425856068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary izao no hataonao ⟨את⟩ azy: teloanjato hakiho no halavan'ny sambofia, dimam-polo hakiho ny sakaniny, ary telopolo hakiho ny haavony.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Ary izao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "no"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hataonao"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ilay sambofia)"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "telo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "anjato"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hakiho"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "halavan'"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ny sambofia"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "dimam-polo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hakiho"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ny sakaniny"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ary telopolo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hakiho"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "ny haavony"
+    }
+  ],
+  "timestamp": "2026-08-31T12:36:52.770330842Z",
+  "model": "glm-5.3"
+}

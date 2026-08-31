@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Mihirà ho an'i Yahveh hira vaovao, ary ny fiderana azy avy amin'ny faran'ny tany — ianareo izay midina any an-dranomasina sy ny fahafeny, ny nosy ary ny mponina ao aminy.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Mihirà"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "hira"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "vaovao"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ny fiderana azy"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "avy amin'ny faran'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "izay midina"
+    },
+    {
+      "surface": "הים",
+      "gloss": "any an-dranomasina"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "sy ny fahafeny"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ny nosy"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "ary ny mponina ao aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:14:56.017108230Z",
+  "model": "glm-5.3"
+}

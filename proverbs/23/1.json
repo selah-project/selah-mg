@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Raha ipetraka hiara-hisakafo ⟨את⟩ mpanapaka, dia fantaro tsara ⟨את⟩ izay eo anatrehanao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ipetraka"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "hiara-hisakafo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpanapaka"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "mpanapaka"
+    },
+    {
+      "surface": "בין",
+      "gloss": "fantaro"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay eo anatrehanao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "eo anatrehanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:56:05.407312101Z",
+  "model": "glm-5.3"
+}

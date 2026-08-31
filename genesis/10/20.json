@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ireo no zanak'i Ham, araka ny fianakaviany, araka ny fiteniny, any amin'ny taniny, any amin'ny fireneny.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ireo no"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "araka ny fianakaviany"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "araka ny fiteniny"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "any amin'ny taniny"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "any amin'ny fireneny"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:22.997320335Z",
+  "model": "glm-5.3"
+}

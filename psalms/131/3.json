@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 131,
+  "translation": "Aoka Isiraely hiandry an'i Yahveh, hatramin'izao ka mandrakizay.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Aoka ... hiandry"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "hatramin'izao"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatramin'"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mandrakizay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:17.917181542Z",
+  "model": "glm-5.3"
+}

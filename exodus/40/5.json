@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary hametraka ianao ⟨את⟩ ny alitara volamena ho an'ny ditin-kazo manitra eo anoloan'ny fiaran'ny famantarana, ary hanisy ⟨את⟩ ny efitra fidirana ho an'ny trano-lay.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "hametraka ianao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny alitara volamena"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "ho an'ny ditin-kazo manitra"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anoloan'ny"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ny famantarana"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ary hanisy ianao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny efitra fidirana"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "efitra"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ny fidirana"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ho an'ny trano-lay"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:32.789774544Z",
+  "model": "glm-5.3"
+}

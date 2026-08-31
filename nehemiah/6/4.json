@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary naniraka ho atỳ amiko izy araka izay teny izany inefatra; ka namaly azy ⟨את⟩ aho araka izay teny izany.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Ary naniraka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho atỳ amiko"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "araka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "izay teny izany"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "inefatra"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "fiverenana"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "ka namaly"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (ireo iraka)"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "araka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "izay teny izany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:31:01.661699427Z",
+  "model": "glm-5.3"
+}

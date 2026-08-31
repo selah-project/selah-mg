@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary ny mpanompon'i Shaola nanao taminy hoe: Indro, misy fanahin'ny Elohim ratsy manahy anao.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nanao taminy hoe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ny mpanompon'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaola"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tamin'izy"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "נא",
+      "gloss": "àngady"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fanahin'ny"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "manahy anao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:20:38.741974767Z",
+  "model": "glm-5.3"
+}

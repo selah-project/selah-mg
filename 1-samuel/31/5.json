@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Dia hitan'ny nitondra ny fiadiany fa maty Shaol, ka lavo ihany koa izy tamin'ny sabany, ka maty tamin'ny alalany.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hitan'ny"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "nitondra"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ny fiadiany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "maty"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "lavo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ihany koa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sabany"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ka maty"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tamin'ny alalany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:28:01.340389945Z",
+  "model": "glm-5.3"
+}

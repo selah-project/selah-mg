@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "ary ny tànareo roa, dia izay rehetra mivoaka amin'ny Sabata, hitandrina ⟨את⟩ ny fitandremana ho an'ny tranon'i Yahveh manodidina ny mpanjaka.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "ary ny roa"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "tànareo"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "aminareo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "dia izay rehetra"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "mivoaka"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "amin'ny Sabata"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "hitandrina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitandremana"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ny fitandremana"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:55:21.867301338Z",
+  "model": "glm-5.3"
+}

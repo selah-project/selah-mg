@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 14:4",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Nefa ny bamot tsy nesorina; mbola namono fanatatra sy nandoro ditin-kazo manitra ho azy ny vahoaka tamin'ireo bamot.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Nefa"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ny bamot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "nosorina"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mbola"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "namono fanatatra"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "sy nandoro ditin-kazo manitra"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "tamin'ireo bamot"
+    }
+  ],
+  "timestamp": "2026-08-31T14:56:08.985644953Z",
+  "model": "glm-5.3"
+}

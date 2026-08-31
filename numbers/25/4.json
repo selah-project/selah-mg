@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 25:4",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary Yahveh niresaka tamin'i Moshe: Raiso ⟨את⟩ ny lohan'ny vahoaka rehetra, ary hazòno ⟨את⟩ azy ho an'i Yahveh mifanandrana amin'ny masoandro, mba hiala ny fahatezerana mirehitran'i Yahveh amin'ny Israel.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary ... niresaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Raiso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lohan'ny vahoaka rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "lohan'ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "והוקע",
+      "gloss": "hazòno"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "mifanandrana amin'ny"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "masoandro"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mba hiala"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "fahatezerana mirehitra"
+    },
+    {
+      "surface": "אף",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "amin'ny Israel"
+    }
+  ],
+  "timestamp": "2026-08-31T13:34:06.792461737Z",
+  "model": "glm-5.3"
+}

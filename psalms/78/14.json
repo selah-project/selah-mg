@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Ka nitondra azy tamin'ny rahona antoandro, ary tamin'ny alina rehetra tamin'ny fahazavan'ny afo.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ka nitondra azy"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "tamin'ny rahona"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "antoandro"
+    },
+    {
+      "surface": "ווכל",
+      "gloss": "",
+      "notes": ""
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tamin'ny alina rehetra"
+    },
+    {
+      "surface": "באור",
+      "gloss": "tamin'ny fahazavan'"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ny afo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:22.208307044Z",
+  "model": "glm-5.3"
+}

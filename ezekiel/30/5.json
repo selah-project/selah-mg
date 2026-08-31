@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 30:5",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Kusa sy Puta sy Loda ary ny vahoaka mifangaro rehetra, sy Koba, ary ny zanak'ny tany ⟨alokan'ny⟩ fanekena — ⟨את⟩ aminy dia amin'ny sabatra no hianjerany.",
+  "tokens": [
+    {
+      "surface": "כוש",
+      "gloss": "Kusa"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "sy Puta"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "sy Loda"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ny ... rehetra"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "vahoaka mifangaro"
+    },
+    {
+      "surface": "וכוב",
+      "gloss": "sy Koba"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "zanak'ny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "fanekenana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "aminy (izy ireo)"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "amin'ny sabatra"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "hianjera"
+    }
+  ],
+  "timestamp": "2026-08-31T18:10:04.547384350Z",
+  "model": "glm-5.3"
+}

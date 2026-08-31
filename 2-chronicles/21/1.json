@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 21:1",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary Yahoshafat dia latsaka tamin'ny razany, ka nalevina tamin'ny razany tao amin'ny tanànan'i David; ary Yehorama zanany no nanjaka nandimby azy.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "latsaka tamin'ny razany"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yahoshafat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "razany"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "nalevina"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "razany"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "tao amin'ny tanànan'i"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "nanjaka"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehorama"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "nandimby azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:48:35.210482354Z",
+  "model": "glm-5.3"
+}

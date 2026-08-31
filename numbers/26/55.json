@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Fa amin'ny antsapika ihany no hizara ⟨את⟩ ny tany; araka ny anaran'ny firenen'ny razany no handovany.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "fa ... ihany"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "amin'ny antsapika"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "no hizara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "araka ny anaran'ny"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "firenen'ny"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "razany"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "no handovany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:35:32.157926623Z",
+  "model": "glm-5.3"
+}

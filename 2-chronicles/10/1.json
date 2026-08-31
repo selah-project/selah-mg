@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary Rehabeama nankany Shekema, fa tany Shekema no avian'ny Isiraely rehetra hanao azy mpanjaka ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nankany"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeama"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "Shekema"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekema"
+    },
+    {
+      "surface": "באו",
+      "gloss": "avian'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "hanao azy mpanjaka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (Rehabeama)"
+    }
+  ],
+  "timestamp": "2026-08-31T18:38:04.187686769Z",
+  "model": "glm-5.3"
+}

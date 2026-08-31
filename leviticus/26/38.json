@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary ho levona amin'ny firenena ianareo, ary ny tany amin'ny fahavalonareo dia hihinana ⟨את⟩ anareo.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "ho levona"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "amin'ny firenena"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "hihinana"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "amin'ny fahavalonareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:23:31.383420962Z",
+  "model": "glm-5.3"
+}

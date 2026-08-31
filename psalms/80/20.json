@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 80,
+  "translation": "Yahveh, Elohim Tsevaot, ampivereno izahay; avelao hiharihary ny tavanao, dia ho voavonjy izahay.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "ampivereno izahay"
+    },
+    {
+      "surface": "האר",
+      "gloss": "avelao hiharihary"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ny tavanao"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "dia ho voavonjy izahay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:18.362840253Z",
+  "model": "glm-5.3"
+}

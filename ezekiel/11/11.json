@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 11:11",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Tsy ho vilany ho anareo io ⟨tanàna⟩ io, ary tsy hianareo no ho hena ao anatiny; eny amin'ny faritr'i Yisraela no hitsarako ⟨את⟩ hianareo.",
+  "tokens": [
+    {
+      "surface": "היא",
+      "gloss": "io"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "לסיר",
+      "gloss": "vilany"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "hianareo"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ao anatiny"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "hena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eny amin'ny"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "faritr'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "hitsarako"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ hianareo",
+      "marks": "hianareo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:49:40.354380513Z",
+  "model": "glm-5.3"
+}

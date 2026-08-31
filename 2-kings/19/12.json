@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Moà ny elohean'ny firenena no nanafaka ⟨את⟩ azy ireo, izay noravan'ny razako — ⟨את⟩ Gozana sy ⟨את⟩ Harana, ary Retsefa sy ny zanak'i Edena, izay tao Telasara?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Moà...no nanafaka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy ireo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohean'ny"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "noravan'ny"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "razako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozana"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Harana"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Harana"
+    },
+    {
+      "surface": "וורצף",
+      "gloss": "sy Retsefa"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "sy ny zanak'i"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "tao Telasara"
+    }
+  ],
+  "timestamp": "2026-08-31T14:58:27.064047876Z",
+  "model": "glm-5.3"
+}

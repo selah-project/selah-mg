@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Fa hoy izy: Tsy mba mpanjaka daholo va ny mpanapaka eto amiko?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "hoy izy"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Tsy mba ... va"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mpanapaka eto amiko"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "daholo"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mpanjaka"
+    }
+  ],
+  "timestamp": "2026-08-31T15:05:04.688308604Z",
+  "model": "glm-5.3"
+}

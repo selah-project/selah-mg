@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 90,
+  "translation": "Mampifaly anay araka ny andro nampahorianao anay, araka ny taona nahitanay ny loza.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Mampifaly anay"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "araka ny andro"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "nampahorianao anay"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "araka ny taona"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "nahitanay"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ny loza"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:24.522792812Z",
+  "model": "glm-5.3"
+}

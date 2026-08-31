@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Dia niainga izy ka nandositra tamin'ny fiposahan'ny alina, ka nahafoy ⟨את⟩ ny lainy sy ⟨את⟩ ny soavaliny sy ⟨את⟩ ny borikiny — ny toby toy ny naha-izy azy — ary nandositra hitehirizina ny ainy izy.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "niainga"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "nandositra"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "tamin'ny fiposahan'ny alina"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "nahafoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lainy"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "ny lainy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny soavaliny"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "ny soavaliny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny borikiny"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "ny borikiny"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ny toby"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "toy ny"
+    },
+    {
+      "surface": "היא",
+      "gloss": "naha-izy azy"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "nandositra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hitehirizina"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ny ainy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:53:31.803387504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 80,
+  "translation": "Nampihinanao azy mofo ranomaso izy, ary nampisotroo azy ranomaso ⟨amin'ny fatra telo⟩.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "Nampihinanao"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mofo"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "ranomaso"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "ary nampisotroo"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "ranomaso"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "fatra telo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:23.405154203Z",
+  "model": "glm-5.3"
+}

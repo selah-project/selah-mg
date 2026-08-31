@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Aza mivily ho any amin'ny lalany ny fonao, aza manana very lalana amin'ny aleony.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "mivily"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "lalany"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "fonao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "manana very lalana"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "amin'ny aleony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:50:03.042047222Z",
+  "model": "glm-5.3"
+}

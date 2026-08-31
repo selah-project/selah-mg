@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 9:7",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary ny lehilahy amin'ny Isiraely nanao tamin'ny Hivita hoe: Angamba monina eo anivontsika hianareo; ka ahoana no hanaovana fanekena aminareo?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ary ... nanao hoe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivita"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "angamba"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "eo anivontsika"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "hianareo"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "monina"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "ka ahoana no"
+    },
+    {
+      "surface": "אכרות",
+      "gloss": "hanaovana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aminareo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "fanekena"
+    }
+  ],
+  "timestamp": "2026-08-31T13:59:09.867948343Z",
+  "model": "glm-5.3"
+}

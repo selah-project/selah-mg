@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 138,
+  "translation": "Raha mandeha aho ao afovoan'ny fahoriana, hampirenina ⟨ianao⟩ ahy; manohitra ny fahatezeran'ny fahavaloko hanitatra tananao, ary ny tananao ankavanana hamonjy ahy.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mandeha aho"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ao afovoan'ny"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "fahoriana"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "hampirenina ahy"
+    },
+    {
+      "surface": "על",
+      "gloss": "manohitra"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ny fahatezeran'ny"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "fahavaloko"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "hanitatra"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tananao"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "ary ... hamonjy ahy"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ny tananao ankavanana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:06.919403267Z",
+  "model": "glm-5.3"
+}

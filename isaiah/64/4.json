@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 64,
+  "translation": "Nihaona tamin'ilay mifaly sy manao fahamarinana ⟨את⟩ Ianao, amin'ny lalanao mahatsiaru anao; indro, tezitra Ianao ka nanota izahay; amin'izany mandrakizay ka hovonjena izahay.",
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "nihaona tamin'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay mifaly sy manao fahamarinana"
+    },
+    {
+      "surface": "שש",
+      "gloss": "mifaly"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "sy manao"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "fahamarinana"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "amin'ny lalanao"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "mahatsiaru anao"
+    },
+    {
+      "surface": "הן",
+      "gloss": "indro"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ianao"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "tezitra"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "ka nanota izahay"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "amin'izany"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "ka hovonjena izahay"
+    }
+  ],
+  "timestamp": "2026-08-31T15:21:20.296596550Z",
+  "model": "glm-5.3"
+}

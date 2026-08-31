@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary nampansoa azy Yehoshoa, ka nomeny ⟨את⟩ Hebrona ho an'i Kalebe zanak'i Yefona ho lova.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "nampansoa azy"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nomeny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebrona"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebrona"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ho an'i Kalebe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefona"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "ho lova"
+    }
+  ],
+  "timestamp": "2026-08-31T17:59:57.930335751Z",
+  "model": "glm-5.3"
+}

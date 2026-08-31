@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 9:4",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary ny mpanjaka nanao taminy hoe: Aiza izy? Dia hoy Tsiba tamin'ny mpanjaka: Indro, izy eo an-tranon'i Makir zanak'i Ammiel, ao amin'ny Lo-Debar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary ... nanao ... hoe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tamin'izy"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "Aiza"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dia hoy"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "בית",
+      "gloss": "eo an-tranon'i"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiel"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "ao amin'ny"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Lo-Debar"
+    }
+  ],
+  "timestamp": "2026-08-31T14:31:29.283838283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary nidina ho amin'ny gora izy, ka nataony araka izay rehetra nandidian'ny rafoibeny azy.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "Ary nidina"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "ho amin'ny gora"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "ka nataony"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "araka izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "nandidian'ny"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "rafoibeny azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:11:26.838128162Z",
+  "model": "glm-5.3"
+}

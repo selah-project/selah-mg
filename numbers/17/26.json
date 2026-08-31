@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary nataon'i Moshe izany; araka izay nandidian'i Yahveh ⟨את⟩ azy, dia izany no nataony.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nataon'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka izay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidian'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (Moshe)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dia izany"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "no nataony"
+    }
+  ],
+  "timestamp": "2026-08-31T13:31:00.197928084Z",
+  "model": "glm-5.3"
+}

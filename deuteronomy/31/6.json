@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 31:6",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Mahereza ary matanjaka, aza matahotra ary aza sanganosango noho azy ireo, fa Yahveh Elohimina no mandeha momba anao; tsy hamela anao Izy ary tsy hanetry anao.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Mahereza"
+    },
+    {
+      "surface": "ואמצו",
+      "gloss": "ary matanjaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "matahotra"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תערצו",
+      "gloss": "sanganosango"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "noho azy ireo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "momba anao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "hamela anao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "hanetry anao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:53:07.989672031Z",
+  "model": "glm-5.3"
+}

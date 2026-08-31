@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary tamin'izany andro izany dia nalainay ⟨את⟩ ny tany avy tan-tànan'ireo mpanjaka roa amin'ny Emoreana, izay any am-ponjan'ny Yardena, hatramin'ny lohasahan'i Arnona ka hatramin'ny tendrombohitra Hermona.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "Ary nalainay"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "tamin'izany andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "avy tan-tànan'"
+    },
+    {
+      "surface": "שני",
+      "gloss": "roa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amin'ny Emoreana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "any am-ponjan'"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ny Yardena"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "hatramin'ny lohasahan'i"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermona"
+    }
+  ],
+  "timestamp": "2026-08-31T13:39:49.528210882Z",
+  "model": "glm-5.3"
+}

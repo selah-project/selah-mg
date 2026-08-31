@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 60,
+  "translation": "Ho an'ny mpandrindra, momba ny Shushan-Eduth, mikhtam an'i David, hampianarana.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho an'ny mpandrindra"
+    },
+    {
+      "surface": "על",
+      "gloss": "momba"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Eduth"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "an'i David"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "hampianarana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:31.231295502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary Yehoshoa nifohaza maraina be, ary ny mpisorona nitondra ⟨את⟩ ny fiaran'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "nifohaza"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "maraina be"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "nitondra"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiarana"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fiarana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:54:33.791148407Z",
+  "model": "glm-5.3"
+}

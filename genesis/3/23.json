@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary Yahveh Elohim namoaka azy avy tao amin'ny saha Edena hitantana ⟨את⟩ ny tany izay nalaina taminy.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "namoaka azy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "avy tao amin'ny saha"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "hitantana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nalaina"
+    },
+    {
+      "surface": "משם",
+      "gloss": "taminy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:12.728726905Z",
+  "model": "glm-5.3"
+}

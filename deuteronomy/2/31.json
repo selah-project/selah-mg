@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 2:31",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary Yahveh nanao tamiko hoe: Jereo, efa manomboka manolotra eo anatrehanao aho ⟨את⟩ an'i Sihona sy ⟨את⟩ ny taniny; manombokà mandresy sy handray lova ny taniny.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "jereo"
+    },
+    {
+      "surface": "החלתי",
+      "gloss": "efa manomboka aho"
+    },
+    {
+      "surface": "תת",
+      "gloss": "manolotra"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "eo anatrehanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Sihona"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny taniny"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "taniny"
+    },
+    {
+      "surface": "החל",
+      "gloss": "manombokà"
+    },
+    {
+      "surface": "רש",
+      "gloss": "mandresy"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "sy handray lova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny taniny"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "taniny"
+    }
+  ],
+  "timestamp": "2026-08-31T13:39:54.858665503Z",
+  "model": "glm-5.3"
+}

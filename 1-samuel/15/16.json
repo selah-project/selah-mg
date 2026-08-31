@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 15:16",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary hoy Shemuëla tamin'i Shaol: Aza manao izany, ary homeko anao ⟨את⟩ izay nolazain'i Yahveh tamiko indray alina — ary hoy izy taminy: Lazao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuëla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "Aza manao izany"
+    },
+    {
+      "surface": "ו אגידה",
+      "gloss": "ary homeko anao"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay nolazain'i Yahveh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nolazain'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "indray alina"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ary hoy izy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Lazao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:19:26.208422308Z",
+  "model": "glm-5.3"
+}

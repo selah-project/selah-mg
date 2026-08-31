@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 6:8",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary alaivo ⟨את⟩ ny fiaran'i Yahveh, ary ataovy eo ambony ilay kalesa ⟨את⟩ azy; ary ny fanaka volamena izay averinareo ho Azy ho onitra dia ataovy ao anaty boaty eo anilany, ary alefaso ⟨את⟩ azy ka handeha.",
+  "tokens": [
+    {
+      "surface": "ולקחתם",
+      "gloss": "Ary alaivo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiaran'i Yahveh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ary ataovy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "fiaran'i Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "ilay kalesa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "fanaka volamena"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "fanaka"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "השבתם",
+      "gloss": "averinareo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho Azy"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ho onitra"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "ataovy"
+    },
+    {
+      "surface": "בארגז",
+      "gloss": "ao anaty boaty"
+    },
+    {
+      "surface": "מצדו",
+      "gloss": "eo anilany"
+    },
+    {
+      "surface": "ושלחתם",
+      "gloss": "ary alefaso"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "fiaran'i Yahveh"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "ka handeha"
+    }
+  ],
+  "timestamp": "2026-08-31T14:17:07.223754592Z",
+  "model": "glm-5.3"
+}

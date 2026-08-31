@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 137,
+  "translation": "Tamin'ny hazo loko tao anivon'ireo renirano no nanantontontosana ny lokanga.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Tamin'ny"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "hazo loko"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "tao anivony"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "nanantontontosana izahay"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "ny lokanga"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:48.030405454Z",
+  "model": "glm-5.3"
+}

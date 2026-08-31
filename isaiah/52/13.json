@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 52:13",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 52,
+  "translation": "Indro, hahay ny mpanompoko; hiakatra izy sy hasandrahana ary ho avo dia avo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "hahay"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ny mpanompoko"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "hiakatra izy"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "sy hasandrahana"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "ary ho avo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dia avo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:18:15.395461642Z",
+  "model": "glm-5.3"
+}

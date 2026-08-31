@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "sy ⟨את⟩ ny Arvadita sy ⟨את⟩ ny Zemarita sy ⟨את⟩ ny Hamatita.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny Arvadita"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "ny Arvadita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny Zemarita"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "ny Zemarita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny Hamatita"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "ny Hamatita"
+    }
+  ],
+  "timestamp": "2026-08-31T17:33:51.919191076Z",
+  "model": "glm-5.3"
+}

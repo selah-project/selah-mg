@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 5:10",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary Enosh nahay, rehefa niterahany ⟨את⟩ an'i Kenan, dimy ambin'ny folo taona sy valonjato taona, ka niteraka zazalahy sy zazavavy.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "nahay"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rehefa"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "niterahany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Kenan"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "dimy"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "folo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "valonjato"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "anjato"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zazalahy"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "zazavavy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:52.708267435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 13:31",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Dia nitsangana ny mpanjaka ka nandratra ⟨את⟩ ny fitafiany ary latsaka tamin'ny tany; ary ny mpanompony rehetra nijoro teo, voaratra ny fitafiany.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Dia nitsangana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ka nandratra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitafiany"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ny fitafiany"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "ary latsaka nandry"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "tamin'ny tany"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary … rehetra"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ny mpanompony"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "nijoro teo"
+    },
+    {
+      "surface": "קרעי",
+      "gloss": "voaratra"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ny fitafiana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:33:17.052970301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 33:12",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Ary ny firenena ho tonga doro vatosokay; ny tsilo voapaka, ao anaty afo no hodorana.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ary ho tonga"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "משרפות",
+      "gloss": "doro"
+    },
+    {
+      "surface": "שיד",
+      "gloss": "vatosokay"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "tsilo"
+    },
+    {
+      "surface": "כסוחים",
+      "gloss": "voapaka"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ao anaty afo"
+    },
+    {
+      "surface": "יצתו",
+      "gloss": "no hodorana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:10:03.023341048Z",
+  "model": "glm-5.3"
+}

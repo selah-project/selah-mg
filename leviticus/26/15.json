@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "ary raha manao fankahalana ny lalàko ianareo, ary raha mankahala ny fitsaràko ny fanahinareo, ka tsy manao ⟨את⟩ ny didiko rehetra, mba hanimbanao ⟨את⟩ ny fanekeniako",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ary raha"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "lalàko"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "manao fankahalana"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ary raha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitsaràko"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "fitsaràko"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "mankahala"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "ny fanahinareo"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "manao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny didiko rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "didiko"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "mba hanimbanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanekeniako"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "fanekeniako"
+    }
+  ],
+  "timestamp": "2026-08-31T13:21:28.297388302Z",
+  "model": "glm-5.3"
+}

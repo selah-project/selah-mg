@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary zanak'i Shimi: Yahata, Zina, Yeusha ary Beria. Ireo zanak'i Shimi, efatra.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ary zanak'i"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimi"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yahata"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "Zina"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "Yeusha"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "ary Beria"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimi"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "efatra"
+    }
+  ],
+  "timestamp": "2026-08-31T17:40:31.182396894Z",
+  "model": "glm-5.3"
+}

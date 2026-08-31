@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 56,
+  "translation": "Ho an'ny mpitarika mozika, ary amin'ny «voromailala moana lavitra», ho an'i David, mikhtama, fony nisambotra ⟨את⟩y azy ny Filistina tao Gata.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho an'ny mpitarika mozika"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "voromailala"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "moana"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "lavitra"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ho an'i David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtama"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "fony nisambotra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩y",
+      "marks": "azy"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Filistina"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "tao Gata"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:50.180439477Z",
+  "model": "glm-5.3"
+}

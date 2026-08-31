@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "An'i Davida. Ho aminao, Yahveh, no manandriako ny aina ⟨את⟩... ny aina... ",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "An'i Davida"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho aminao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aina… fanahiko"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "no manandriako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:00.684573534Z",
+  "model": "glm-5.3"
+}

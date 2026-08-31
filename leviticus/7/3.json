@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary ny tavy rehetra aminy no hanatreny avy aminy: ⟨את⟩ ny rambon-tavy ⟨את⟩ ⟨sy⟩ ny tavy mandalotra ny kibo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ary ⟨את⟩",
+      "marks": "ny tavy rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "ny tavy aminy"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "hanatreny"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "avy aminy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rambon-tavy"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "ny rambon-tavy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ⟨sy⟩ ny",
+      "marks": "ny tavy"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ny tavy"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "mandalotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny kibo"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ny kibo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:12:42.281310778Z",
+  "model": "glm-5.3"
+}

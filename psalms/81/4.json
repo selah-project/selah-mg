@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 81,
+  "translation": "Tsofy ny trompetra amin'ny volana vaovao, amin'ny fihavan'ny volana, amin'ny andro firavoravoantsika.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "tsofy"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "amin'ny volana vaovao"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "trompetra"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "amin'ny fihavan'ny volana"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "firavoravoantsika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:21.061453676Z",
+  "model": "glm-5.3"
+}

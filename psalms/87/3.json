@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 87,
+  "translation": "Zava-mahatalanjona no lazaina aminao, tanànan'ny Elohim. Selah.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "Zava-mahatalanjona"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "no lazaina"
+    },
+    {
+      "surface": "בך",
+      "gloss": "amimao"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ny Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:43.418823481Z",
+  "model": "glm-5.3"
+}

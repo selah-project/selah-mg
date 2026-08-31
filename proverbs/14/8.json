@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ny fahendren'ny tsara fanahy dia ny mandinika ny lalany; fa ny hadalan'ny adala kosa dia fitaka.",
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "ny fahendren'"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ny tsara fanahy"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "mandinika"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ny lalany"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "fa ny hadalan'"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ny adala"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "fitaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:53:12.101812216Z",
+  "model": "glm-5.3"
+}

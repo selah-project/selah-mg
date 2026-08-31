@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary haloany ⟨את⟩ ny trozy roa ka hatsangany ⟨את⟩ ireo eo anatrehan'i Yahveh, eo am-baravaran'ny tranolay fihaonana.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "haloany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny trozy roa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "roa"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "ny trozy"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "hatsangany"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ireo (eo anatrehan'i Yahveh)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anatrehan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "eo am-baravarana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ny tranolay"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:16:56.514349728Z",
+  "model": "glm-5.3"
+}

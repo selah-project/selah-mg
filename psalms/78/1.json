@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Fampianarana nataon'i Asaf. Mihainoa, ry vahoakako, ny lalàko; miondria ny sofinareo amin'ny tenin'ny vavako.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Fampianarana"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "nataon'i Asaf"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Mihainoa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ry vahoakako"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ny lalàko"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "miondria"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "ny sofinareo"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "amin'ny tenin'ny"
+    },
+    {
+      "surface": "פי",
+      "gloss": "vavako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:23.408363621Z",
+  "model": "glm-5.3"
+}

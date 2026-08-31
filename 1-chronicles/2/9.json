@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary ny zanak'i Chetsron izay teraka taminy ⟨dia⟩ Yerachmeel sy ⟨את⟩ Ramy sy ⟨את⟩ Kelubai.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ary ny zanaka"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "teraka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerachmeel"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yerachmeel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Ramy"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ramy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Kelubai"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Kelubai"
+    }
+  ],
+  "timestamp": "2026-08-31T17:34:04.883392788Z",
+  "model": "glm-5.3"
+}

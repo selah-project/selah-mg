@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Mandraisà ⟨את⟩ ny lohan'ny fiangonana rehetra amin'ny zanak'i Isiraely, araka ny fianakaviany, araka ny taranak'ny rainy, amin'ny isan'ny anarana — ny lahy rehetra, isan-doha.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Mandraisà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lohan'ny fiangonana rehetra amin'ny zanak'i Isiraely"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "loha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "fiangonana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "araka ny fianakaviany"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "araka ny taranaky"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ny rainy"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "amin'ny isan'ny"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "anarana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lahy"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "isan-doha"
+    }
+  ],
+  "timestamp": "2026-08-31T13:23:48.258597777Z",
+  "model": "glm-5.3"
+}

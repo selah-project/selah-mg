@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary hitan'i Shaol fa tena hendry tokoa izy, ka natahotra azy izy.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hitan'i Shaol"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "hendry"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tena... tokoa"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "ka natahotra"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:22:30.279668786Z",
+  "model": "glm-5.3"
+}

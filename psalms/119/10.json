@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Amin'ny foko rehetra no nitadiavako anao; aza avela hitondram-panao amin'ny didinao.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "foko"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "nitadiavako anao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "hitondram-panao"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "amin'ny didinao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:03.076324887Z",
+  "model": "glm-5.3"
+}

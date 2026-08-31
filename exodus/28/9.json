@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Ary halainao ⟨את⟩ vato shoham roa, ary hosoratanao eo amboniny ny anaran'ny zanak'i Yisrael.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ary halainao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vato shoham roa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "roa"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "vato"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "ary hosoratanao"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "eo amboniny"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ny anaran'"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-31T13:05:34.692491154Z",
+  "model": "glm-5.3"
+}

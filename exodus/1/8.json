@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary nitsangana mpanjaka vaovao tao amin'i Mitsrayim, izay tsy nahalala ⟨את⟩ Yosofa.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Ary nitsangana"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "vaovao"
+    },
+    {
+      "surface": "על",
+      "gloss": "tao amin'i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nahalala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosofa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosofa"
+    }
+  ],
+  "timestamp": "2026-08-31T12:53:46.785977637Z",
+  "model": "glm-5.3"
+}

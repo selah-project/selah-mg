@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Fa Yahveh tia ny fitsarana, ary tsy hamela ⟨את⟩ ny olony masina mandrakizay ⟨izy⟩; voatahiry ⟨izy⟩, fa ny taranaky ny ratsy fanahy hofongorana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "tia"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ny fitsarana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "hamela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny olony masina"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ny olony masina"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "voatahiry"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "fa ny taranaky"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "hofongorana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:13:26.436863838Z",
+  "model": "glm-5.3"
+}

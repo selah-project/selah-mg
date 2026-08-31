@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "fa ny masonareo no mibandrin' ⟨את⟩ ny asa lehibe rehetra nataon'i Yahveh",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ny masonareo"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "no mibandrin'"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny asa lehibe rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ny asa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataon'i"
+    }
+  ],
+  "timestamp": "2026-08-31T13:43:18.301602711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary Moshe irery ihany no hakaika an'i Yahveh; fa ireo kosa tsy hakaika, ary ny vahoaka tsy hiakatra miaraka aminy.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "no hakaika"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "irery ihany"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "והם",
+      "gloss": "fa ireo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "hakaika"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ary ny vahoaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "hiakatra"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "miaraka aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:21.945662387Z",
+  "model": "glm-5.3"
+}

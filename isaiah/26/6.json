@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Handinganina amin'ny tongotra izy — tongotry ny malahelo, ary ny alefan'ny tandindona.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "handinganina"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "amin'ny tongotra"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "tongotry"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ny malahelo"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ny alefan'ny"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "tandindona"
+    }
+  ],
+  "timestamp": "2026-08-31T15:08:23.121261860Z",
+  "model": "glm-5.3"
+}

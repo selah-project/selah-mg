@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary Yehoshoa nanasa ⟨את⟩ ny vahoaka, ary ny zanak'i Isiraela nandeha samirery, isan'ony ho amin'ny lovany, hamabo an'i ⟨את⟩ ny tany.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "nanasa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "isan'ony samirery"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "ho amin'ny lovany"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "hamabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:04:25.054533755Z",
+  "model": "glm-5.3"
+}

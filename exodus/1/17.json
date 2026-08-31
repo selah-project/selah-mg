@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Natahotra an'i Elohim ny mpampivelona, ka tsy nanao araka ny tenin'ny mpanjakan'i Mitsrayim taminy, fa nampivelona ⟨את⟩ ny zazalahy.",
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "natahotra"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "ny mpampivelona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nánao"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ny tenin'"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "tamy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ny mpanjakan'"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "nampivelona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zazalahy"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ny zazalahy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:54:10.848839333Z",
+  "model": "glm-5.3"
+}

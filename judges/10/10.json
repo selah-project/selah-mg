@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary nieraka tany amin'i Yahveh ny zanak'Isiraely ka nanao hoe: Efa notaizina anao izahay, fa efa nahafoy an'i ⟨את⟩ Elohim nìzahay ka nanompo ny ⟨את⟩ Baala.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "nieraka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tany amin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe:"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "Efa notaizina"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "efa nahafoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim nìzahay"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "ka nanompo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baala"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "ny Baala"
+    }
+  ],
+  "timestamp": "2026-08-31T14:09:24.703034282Z",
+  "model": "glm-5.3"
+}

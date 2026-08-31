@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 59,
+  "translation": "Ho an'ny mpivahiny amin'ny zava-maneno. Al Tashhet ⟨Aza vonoina⟩. An'i Davida. Mikhtama. Tamin'ny nanirakan'i Shaol ⟨olona⟩ ka nitsoriaka teo amin'ny trano hahafaty azy.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho an'ny mpivahiny amin'ny zava-maneno"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Al"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "Tashhet ⟨Aza vonoina⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "An'i Davida"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Mikhtama"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "Tamin'ny nanirakan'i Shaol"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "ka nitsoriaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny trano"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "teo amin'ny trano"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "hahafaty azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:11.501220326Z",
+  "model": "glm-5.3"
+}

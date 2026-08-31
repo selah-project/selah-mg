@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 43,
+  "translation": "Avoaka ny vahoaka jamba nefa manana maso, ary ny marenina nefa manana sofin'izy ireo.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "Avoaka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "עור",
+      "gloss": "jamba"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "efa misy maso"
+    },
+    {
+      "surface": "יש",
+      "gloss": "efa misy maso"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "sy ny marenina"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "efa misy sofina"
+    },
+    {
+      "surface": "למו",
+      "gloss": "an'izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:14:36.829563644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Manao azy ho mpanjaka ⟨amin'ny⟩ asan'ny tananao ianao; ny zavatra rehetra natao tao ambany tongony.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "Manao azy ho mpanjaka"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "⟨amin'ny⟩ asa"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tananao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny zavatra rehetra"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "natao tao"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ambany"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "tongony"
+    }
+  ],
+  "timestamp": "2026-08-31T18:12:49.758574214Z",
+  "model": "glm-5.3"
+}

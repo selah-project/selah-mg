@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Izaho kosa, amin'ny fahamarinana no hahitako ny tavanao; ho voky aho, rehefa mifohaza, amin'ny endri-panahinao",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Izaho kosa"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "amin'ny fahamarinana"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "no hahitako"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ny tavanao"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "ho voky aho"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "rehefa mifohaza"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "amin'ny endri-panahinao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:04.553523259Z",
+  "model": "glm-5.3"
+}

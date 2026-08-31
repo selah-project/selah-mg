@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Tandremo ho anao fadio hañoinao ⟨את⟩ Yahveh izay nampivoahy anao avy tany amin'ny tany Mitsrayim, avy tao an-tranon'ny mpanompo.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Tandremo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "פן",
+      "gloss": "fadio"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "hañoinao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "nampivoahy anao"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "avy tany amin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "avy tao an-tranon'ny"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "mpanompo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:42:07.887780243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 61,
+  "translation": "Fa ianao, ry Elohim, efa nihaino ny voadiko; nomenao ny lovana ho an'izay matahotra ny anaranao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ry Elohim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "efa nihaino"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "ny voadiko"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "nomenao"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "ny lovana"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ho an'izay matahotra"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ny anaranao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:53.671126790Z",
+  "model": "glm-5.3"
+}

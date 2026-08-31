@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 24:52",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary tonga tamin'izay, rehefa ren'ny mpanompon'i Abrahama ⟨את⟩ ny teniny, dia niankohika tamin'ny tany izy ho an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary tonga tamin'izay"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "rehefa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ren'ny"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mpanompon'i"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny teniny"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "ny teniny"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "dia niankohika"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "tamin'ny tany"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T12:42:35.298092150Z",
+  "model": "glm-5.3"
+}

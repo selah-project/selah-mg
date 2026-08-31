@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 18:6",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary hoy izy tamin'i Moshe: Izaho, Yitro rafohanao, no avy aty aminao, mbamin'ny vadinao sy ny zanany roa lahy miaraka aminy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy izy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "חתנך",
+      "gloss": "rafohanao"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "בא",
+      "gloss": "avy"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "aty aminao"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "mbamin'ny vadinao"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "sy ny ... roa lahy"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "miaraka aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:01:33.924120545Z",
+  "model": "glm-5.3"
+}

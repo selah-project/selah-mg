@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary hoy izy: Niantso tamin'ny fahoriako aho tamin'i Yahveh, ka namaly ahy Izy; avy tao an-kibon'ny Sheol no nitarainako, dia renao ny feoko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "Niantso"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "tamin'ny fahoriako"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "ka namaly ahy Izy"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "avy tao an-kibon'"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ny Sheol"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "no nitarainako"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "dia renao"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ny feoko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:13:54.096461162Z",
+  "model": "glm-5.3"
+}

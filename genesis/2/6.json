@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Fa rano miakatra avy amin'ny tany no niakatra nanondraka ⟨את⟩ ny tamin'ny tany rehetra.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "rano miakatra (ed)"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "niakatra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "nanondraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tamin'ny tany rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:28.009346194Z",
+  "model": "glm-5.3"
+}

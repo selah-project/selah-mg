@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary Avraham dia zanaka dimam-polo amby telo-polo no isan'ny taona nodiaviny ⟨no⟩ fahaterahan' i Yitsjak zanany tamin' ny.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Ary Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "dimam-polo amby dimam-polo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "fahaterahana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsjak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsjak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:40:11.629739490Z",
+  "model": "glm-5.3"
+}

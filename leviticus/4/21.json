@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary hitondra ivelan'ny toby izy ⟨את⟩ ilay omby, ary hodorany izy araka ny nodorany ⟨את⟩ ilay omby voalohany; fanatitra noho ny ota ho an'ny fiangonana no ataony azy.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "hitondra ivelany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay omby"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ilay omby"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ivelan'ny"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "toby"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "ary hodorany"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "ilay omby"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "nodorany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay omby voalohany"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ilay omby"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "voalohany"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "fanatitra noho ny ota"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ho an'ny fiangonana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no ataony azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:12:25.035344422Z",
+  "model": "glm-5.3"
+}

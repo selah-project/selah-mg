@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Nolavin'ny Isiraela ny soa; ny fahavalo hanenjika azy.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "Nolavin'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraela"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ny soa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fahavalo"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "hanenjika azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:09:26.173035390Z",
+  "model": "glm-5.3"
+}

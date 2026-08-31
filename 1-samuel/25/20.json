@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 25:20",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary nony tafatafa izy nitety boriky nidina tao amin'ny fisieban'ny tendrombohitra, ary indro Davida sy ny lehilahy nidina nitsena azy; ary nihaona tamin'izy ireo ⟨את⟩ izy.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ary nony tafatafa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "רכבת",
+      "gloss": "nitety boriky"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "boriky"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "ka nidina"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "tao amin'ny fisieban'ny"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ary indro"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "sy ny lehilahy"
+    },
+    {
+      "surface": "ירדים",
+      "gloss": "nidina"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "nitsena azy"
+    },
+    {
+      "surface": "ותפגש",
+      "gloss": "ary nihaona"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izy ireo (Davida sy ny lehilahy)"
+    }
+  ],
+  "timestamp": "2026-08-31T14:25:14.825326785Z",
+  "model": "glm-5.3"
+}

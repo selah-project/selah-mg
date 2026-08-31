@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary ireto no anaran'ny lehilahy hizoro hiaraka aminareo: ho an'i Reuvena, Elitsur zanak'i Shedeora.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ary ireto"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "no anaran'ny"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "hizoro"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩·miaraka aminareo",
+      "marks": "aminareo"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "ho an'i Reuvena"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Shedeora"
+    }
+  ],
+  "timestamp": "2026-08-31T13:22:26.573582840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary nanatitra ⟨את⟩ ny fanatry ny vahoaka izy, ka nalainy ⟨את⟩ ilay osilahy fanatitra fahotana ho an'ny vahoaka, dia novonoiny izy ka nataony fanatitra fahotana tahaka ny voalohany.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Ary nanatitra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanatry ny vahoaka"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "fanatitra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ka nalainy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay osilahy fanatitra fahotana"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "osilahy"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "fanatitra fahotana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ho an'ny vahoaka"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "novonoiny izy"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "nataony fanatitra fahotana"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "tahaka ny voalohany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:13:37.507378081Z",
+  "model": "glm-5.3"
+}

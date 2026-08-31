@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Kihiba folo ny halavan'ny tselakely iray, ary kihiba sy sasany ny sakany, dia ny tselakely iray.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "folo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "kihiba"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "halavan'ny"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "tselakely"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "sy kihiba"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "sy sasany"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "kihiba"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "sakany"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "tselakely"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "iray"
+    }
+  ],
+  "timestamp": "2026-08-31T13:04:14.029675892Z",
+  "model": "glm-5.3"
+}

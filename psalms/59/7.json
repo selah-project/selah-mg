@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 59,
+  "translation": "Miverina amin'ny hariva izy, mikiakaka toy ny amboa, ka mandeha manodidina ny tanàna.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "miverina"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "amin'ny hariva"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "mikiakaka"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "toy ny amboa"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "ka mandeha manodidina"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tanàna"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:19.148810741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ny lalànao, Yahveh, no ampahafantaro ahy; ny alehanao ampanoaro ahy.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Ny lalànao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "no ampahafantaro ahy"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "ny alehanao"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ampanoaro ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:00.687159481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 143,
+  "translation": "Fa ny fahavalo nanenika ahy ny aiko, nanotrika tamin'ny tany ny fiainako, namponina ahy tao anaty maizina, toy ny maty fahiny.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "nanenika"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ny fahavalo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ahy ny aiko"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "nanotrika"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "tamin'ny tany"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "ny fiainako"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "namponina ahy"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "tao anaty maizina"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "toy ny maty"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "fahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:54.277562672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Dia noraisin'i Hamana ⟨את⟩ ny fitafiana sy ⟨את⟩ ny soavaly, ka nampitafiny ⟨את⟩ an'i Mordekay, dia nampitafoiny eny amin'ny kianjan'ny tanàna, ary niantso tany alohany hoe: Toy izao no hatao ho an'ilay lehilahy izay tian'ny mpanjaka hohajaina.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "noraisin'i Hamana"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitafiana"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "ny fitafiana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny soavaly"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ny soavaly"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "nampitafiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Mordekay"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "וירכיבהו",
+      "gloss": "nampitafoiny"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "eny amin'ny kianjan'ny"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "tany alohany"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "toy izao"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "no hatao"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ho an'ilay lehilahy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "tia"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "hohajaina"
+    }
+  ],
+  "timestamp": "2026-08-31T17:20:31.842828581Z",
+  "model": "glm-5.3"
+}

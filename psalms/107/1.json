@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 107,
+  "translation": "Midera an'i Yahveh, fa ⟨izy⟩ tsara, fa mandrakizay ny hesediny.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "Midera"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ny hesediny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:01.841577975Z",
+  "model": "glm-5.3"
+}

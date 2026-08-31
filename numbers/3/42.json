@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary nisaisa ny lahimatoa rehetra amin'ny zanak'i Isiraely Moshe, araka ny nandidian'i Yahveh ⟨את⟩ azy ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "nisaisa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidian'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lahimatoa rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "lahimatoa"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "amin'ny zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    }
+  ],
+  "timestamp": "2026-08-31T13:24:35.920791087Z",
+  "model": "glm-5.3"
+}

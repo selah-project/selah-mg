@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Mitanora izany amin'ny zanakareo, ary ny zanakareo amin'ny zanany, ary ny zanany amin'ny taranaka manaraka.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "izany (amin'izany)"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "amin'ny zanakareo"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "Mitanora"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "ny zanakareo"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "amin'ny zanany"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "amin'ny taranaka"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "manaraka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:09:33.778607902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary tsy nahafehy intsony namaly ⟨את⟩ Avner teny, noho ny fahatahorany ⟨את⟩ azy.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ary tsy"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "nahafehy"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "namaly"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "teny"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "noho ny fahatahorany"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:02:53.517570844Z",
+  "model": "glm-5.3"
+}

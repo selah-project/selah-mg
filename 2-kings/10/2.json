@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary ankehitriny, rehefa tonga aminareo ity taratasy ity, dia efa ao aminareo ⟨את⟩ ny zanak'ny tomponareo, ary ao aminareo ⟨את⟩ ny kalesy sy ny soavaly, ary tanàna mimanda ary fiadiana:",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ary ankehitriny"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "rehefa tonga"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ity taratasy"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "aminareo"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ ao aminareo",
+      "marks": "ny zanak'ny tomponareo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'ny"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "tomponareo"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ ao aminareo",
+      "marks": "ny kalesy sy ny soavaly"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ny kalesy"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "sy ny soavaly"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "ary tanàna"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "mimanda"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "sy fiadiana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:54:20.080448714Z",
+  "model": "glm-5.3"
+}

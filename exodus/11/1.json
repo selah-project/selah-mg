@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 11:1",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary Yahveh nanao tamin'i Moshe: Izay aretin-doza iray no hampiako amin'i Parao sy amin'i Mitsrayim; aorian'izany izy handefa anareo hiala eto; raha mandefa anareo izy dia fanontanana ⟨את⟩ — handroaka anareo tsy ampy tsy araka izy eto avokoa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao tamin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "aretin-doza"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "hampiako"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy amin'i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "aorian'izany"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "handefa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "hiala eto"
+    },
+    {
+      "surface": "כשלחו",
+      "gloss": "raha mandefa anareo izy"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tsy ampy tsy araka"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "hanandroaka"
+    },
+    {
+      "surface": "יגרש",
+      "gloss": "hanandroaka tokoa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "eto avokoa"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:53.560500056Z",
+  "model": "glm-5.3"
+}

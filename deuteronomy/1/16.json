@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary tamin'izany andro izany no nandidiako ⟨את⟩ ny mpitsara nareo ka nanao hoe: Mihainova ny raharaha eo anivon'ny rahalahinareo, ary tsarao araka ny fahamarinana, eo anivon'ny olona iray sy ny rahalahiny sy ny vahiny mipetraka aminy.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "nandidiako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpitsara nareo"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "ny mpitsara nareo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Mihainova"
+    },
+    {
+      "surface": "בין",
+      "gloss": "eo anivon'ny"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "rahalahinareo"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "tsarao"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "araka ny fahamarinana"
+    },
+    {
+      "surface": "בין",
+      "gloss": "eo anivon'ny"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona iray"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ny rahalahiny"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "ny vahiny mipetraka aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:39:43.479981321Z",
+  "model": "glm-5.3"
+}

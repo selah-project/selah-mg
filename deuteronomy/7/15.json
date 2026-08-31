@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 7:15",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary hanesoany aminao i Yahveh aretina rehetra, sy ny aretina ratsin'i Mitsrayim rehetra izay efa fantatrao; tsy hampanaoviny aminao izy fa hampanaoviny amin'ny fahavalo rehetra.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "hanesoany"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "aretina"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ny"
+    },
+    {
+      "surface": "מדוי",
+      "gloss": "aretina"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "efa fantatrao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישימם",
+      "gloss": "hampanaoviny"
+    },
+    {
+      "surface": "בך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "ונתנם",
+      "gloss": "fa hampanaoviny"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "fahavalo rehetra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:44:06.088379677Z",
+  "model": "glm-5.3"
+}

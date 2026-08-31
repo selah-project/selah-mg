@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary nihaino aho ny feon'ny teniny, ary rehefa nihaino ny feon'ny teniny aho, izaho dia lavo tamin'ny torimaso lalina tamin'ny taviko, ary ny taviko nivoatra ⟨mankany⟩ amin'ny tany.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "arihany nihaino aho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny feo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "feo"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ny teniny"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "ary rehefa nihaino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny feo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "feo"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ny teniny"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ary izaho"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "dia lavo tao"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "tamin'ny torimaso lalina"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "פני",
+      "gloss": "taviko"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ary ny taviko"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "nivoatra ⟨mankany⟩ amin'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:23:54.224472455Z",
+  "model": "glm-5.3"
+}

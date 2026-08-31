@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 29:27",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary hamasininao ⟨את⟩ ny tratry ny fanatitra zongozona sy ⟨את⟩ ny feny amin'ny fanatitra atao an-tsitrapo, izay nongozona sy izay natsangana, avy amin'ilay ody fanokafana, dia izay an'i Aharon sy izay an'ny zanany.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "Ary hamasininao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tratry ny fanatitra zongozona"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "tratra"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "ny fanatitra zongozona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny feny"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "feny"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "amin'ny fanatitra atao an-tsitrapo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הונף",
+      "gloss": "nongozona"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "sy izay"
+    },
+    {
+      "surface": "הורם",
+      "gloss": "natsangana"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "avy amin'ilay ody"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "fanokafana"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "avy amin'izay"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "an'i Aharon"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "sy avy amin'izay"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "an'ny zanany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:06:23.698224336Z",
+  "model": "glm-5.3"
+}

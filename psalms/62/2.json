@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 62,
+  "translation": "Fotsiny amin'ny Elohim no mangina ny fanahiko; avy aminy no ihavian'ny famonjena ahy.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "fotsiny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "mangina"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "fanahiko"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "avy aminy"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "famonjena ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:47.247673293Z",
+  "model": "glm-5.3"
+}

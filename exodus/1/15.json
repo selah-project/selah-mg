@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary hoy ny mpanjakan'i Mitsrayim tamin'ny mpampivelona hebreo vehivavy — anaran'ny iray Shifra, ary anaran'ny faharoa Pua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "tamin'ny mpampivelona"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "hebreo vehivavy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "— (izay)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "anaran'ny"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "iray"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Shifra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ary anaran'ny"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "faharoa"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Pua"
+    }
+  ],
+  "timestamp": "2026-08-31T12:53:52.365670592Z",
+  "model": "glm-5.3"
+}

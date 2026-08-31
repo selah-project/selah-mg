@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Tsy hanoto ny fanekeniako, ary izay mivoaka avy amin'ny moloko tsy hanovako.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "hanoto"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ny fanekeniako"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "ary izay mivoaka"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "avy amin'ny moloko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "hanovako"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:19.604592624Z",
+  "model": "glm-5.3"
+}

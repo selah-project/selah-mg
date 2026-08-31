@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 76,
+  "translation": "Avy amin'ny fananaranao, ry Elohin'i Yaakov, dia voatorimaso mafy ny kalesy sy ny soavaly.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "Avy amin'ny fananaranao"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "voatorimaso mafy"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "kalesy"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "soavaly"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:09.085402133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 41:15",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Ary hoy Parao tamin'i Yosefa: Nofinofy no nofinofiko, fa tsy misy mpanazava ⟨את⟩ azy; ary izaho kosa efa reko ny aminao hoe: Mihainoa nofinofy ianao ka hazavainao ⟨את⟩ izy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "Nofinofy"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "nofinofiko"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "fa ny mpanazava"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ny nofinofy)"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ary izaho"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "efa reko"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ny aminao"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "Mihainoa"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "nofinofy"
+    },
+    {
+      "surface": "לפתר",
+      "gloss": "ka hazavaina"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "izy (ny nofinofy)"
+    }
+  ],
+  "timestamp": "2026-08-31T12:50:04.931457078Z",
+  "model": "glm-5.3"
+}

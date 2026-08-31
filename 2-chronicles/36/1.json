@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Ary ny vahoakan'ny tany naka ⟨את⟩ an'i Yehoachaz zanak'i Yoshiaho, ka nanangana azy ho mpanjaka hisolo ny rainy tao Yeroshalayim.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "naka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiaho"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "nanangana azy ho mpanjaka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hisolo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ny rainy"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "tao Yeroshalayim"
+    }
+  ],
+  "timestamp": "2026-08-31T18:21:05.271998123Z",
+  "model": "glm-5.3"
+}

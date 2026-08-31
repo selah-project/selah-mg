@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Hitako ⟨את⟩ ny velona rehetra mandeha ambanin'ny masoandro, miaraka amin'ilay zaza faharoa izay hitsangana hisolo azy.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "hitako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny velona rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ny velona"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ambanin'ny"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "masoandro"
+    },
+    {
+      "surface": "עם",
+      "gloss": "miaraka amin'ilay"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "zaza"
+    },
+    {
+      "surface": "השני",
+      "gloss": "faharoa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "hitsangana"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "hisolo azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:14:42.795849254Z",
+  "model": "glm-5.3"
+}

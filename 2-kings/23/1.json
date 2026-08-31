@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary ny mpanjaka naniraka, ary nivorina tao aminy ny lohalaharana rehetra avy any Yehuda sy Yeroshalayim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "naniraka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "nivorina"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tao aminy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "lohalaharana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "Yeroshalayim"
+    }
+  ],
+  "timestamp": "2026-08-31T15:00:41.540564670Z",
+  "model": "glm-5.3"
+}

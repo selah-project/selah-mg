@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "Fanadiovy ahy amin'ny ezoba dia ho madio aho; Sasao ahy dia ho fotsy noho ny oram-panala aho.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "Fanadiovy ahy (fesoy ny fahotako)"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "amin'ny ezoba"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "dia ho madio aho"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "Sasao ahy"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "nony ho fotsy noho ny oram-panala"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:56.824910621Z",
+  "model": "glm-5.3"
+}

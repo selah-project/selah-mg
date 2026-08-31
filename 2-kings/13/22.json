@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary Hazaela mpanjakan'i Arama nampahory an'i ⟨את⟩ Isiraely nandritra ny andro rehetra nanjakan'i Jehoahaza.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Ary Hazaela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'i"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "nampahory"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraely"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "andro"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoahaza"
+    }
+  ],
+  "timestamp": "2026-08-31T14:56:29.751365567Z",
+  "model": "glm-5.3"
+}

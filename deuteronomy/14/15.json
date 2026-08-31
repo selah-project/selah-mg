@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "sy ⟨את⟩ ny zanaka vavin'ny vorona goavam-be, sy ⟨את⟩ ny sivoky, sy ⟨את⟩ ny kariboay, sy ⟨את⟩ ny voromahery araka ny karazany",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny zanaka vavin'ny vorona goavam-be"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanaka vavy"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "vorona goavam-be"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny sivoky"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "ny sivoky"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny kariboay"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "ny kariboay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny voromahery"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "ny voromahery"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "araka ny karazany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:44:56.225503675Z",
+  "model": "glm-5.3"
+}

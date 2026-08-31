@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 10:31",
+  "book": "nehemiah",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary tsy homentsika ny zananivavintsika ho amin'ny vahoakan'ny tany, ary ⟨את⟩ zananivavany tsy halaintsika ho an'ny zanalahintsika.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Ary izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "homentsika"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "zananivavintsika"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "ho amin'ny vahoakan'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zananivavany"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "zananivavany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "halaintsika"
+    },
+    {
+      "surface": "לבנינו",
+      "gloss": "ho an'ny zanalahintsika"
+    }
+  ],
+  "timestamp": "2026-08-31T17:32:52.601163419Z",
+  "model": "glm-5.3"
+}

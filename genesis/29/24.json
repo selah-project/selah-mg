@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary Lavana nanome ⟨את⟩ an'i Zilpa mpanompony ho an'i Lea zanany vavy, ho mpanompovavy.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ary nanome"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavana"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Zilpa"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "mpanompovaviny"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "ho an'i Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "zanany vavy"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "ho mpanompovavy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:55:26.114533250Z",
+  "model": "glm-5.3"
+}

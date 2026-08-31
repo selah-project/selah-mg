@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary hoforana Yahveh Elohim-nao ⟨את⟩ ny fonao sy ⟨את⟩ fon'ny taranakao, ho tia an'i Yahveh Elohim-nao amin'ny fonao rehetra sy amin'ny fanahinao rehetra, mba ho velona ianao.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "hoforana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fonao"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ny fonao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fon'ny taranakao"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "fon'ny"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "taranakao"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "ho tia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yahveh Elohim-nao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nao"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "fonao"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "sy amin'ny ... rehetra"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "fanahinao"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mba"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "ho velona ianao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:30:31.084777756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 13:11",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Dia nifidy ho an'i Lota ⟨את⟩ ny faritra rehetraann'ny Yarden; dia niainga avy tany atsinanana Lota, ka nisaraka samy niala tamin'ny rahalahiny.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "nifidy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny faritra rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "faritra"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ny Yarden"
+    },
+    {
+      "surface": "ויסע",
+      "gloss": "niainga"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lota"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "avy tany atsinanana"
+    },
+    {
+      "surface": "ויפרדו",
+      "gloss": "nisaraka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "samy"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "niala tamin'ny"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "rahalahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:32.520547069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 5:25",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ny tsi-fahamarinanareo no nivondrona ireto ⟨zavatra⟩, ary ny fahotanareo nanakana ny tsara tsy ho any aminareo.",
+  "tokens": [
+    {
+      "surface": "עונותיכם",
+      "gloss": "ny tsi-fahamarinanareo"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "nivondrona"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ireto ⟨zavatra⟩"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "ary ny fahotanareo"
+    },
+    {
+      "surface": "מנעו",
+      "gloss": "nanakana"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ny tsara"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "tsy ho any aminareo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:24:32.677446654Z",
+  "model": "glm-5.3"
+}

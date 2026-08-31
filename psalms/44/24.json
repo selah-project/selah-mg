@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Mifoha, nahoana no matory ianao, ry Adonay? Mitsangàna, aza mahafoy antsika mandrakizay.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "mifoha"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nahoana no"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "matory"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ry Adonay"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "mitsangàna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "mahafoy"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "mandrakizay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:59.701831714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Faloysy ho an'ny havany mby akaiky aminy: ho an'ny reniny, ho an'ny rainy, ho an'ny zanany lahy, ho an'ny zanany vavy, ary ho an'ny rahalahiny.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "faloysy"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "ho an'ny havany"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "mby akaiky"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "ho an'ny reniny"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "ho an'ny rainy"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "ho an'ny zanany lahy"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "ho an'ny zanany vavy"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "ary ho an'ny rahalahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:38.283023693Z",
+  "model": "glm-5.3"
+}

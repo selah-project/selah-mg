@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 22:26",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Amin'ny ⟨lefin'ny⟩ hasina dia manao hasina ianao, amin'ny mahery tanteraka dia tanteraka ianao.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "lefin'ny hasina"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "manao hasina"
+    },
+    {
+      "surface": "עם",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tanteraka"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "tanteraka ianao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:37:27.758844850Z",
+  "model": "glm-5.3"
+}

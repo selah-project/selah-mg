@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 9:15",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "dia hahatsiaro Aho ny fanekeko ⟨את⟩ izay eo amiko sy eo aminareo sy eo amin'ny fanahy velona rehetra amin'ny nofo rehetra; ary tsy hisy intsony ny rano ho safotra handravona nofo rehetra.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "dia hahatsiaro Aho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fanekeko"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "fanekeko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "eo amiko"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "sy eo aminareo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy eo amin'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "velona"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nofo rehetra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hisy"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ny rano"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "ho safotra"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "handravona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nofo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:36:40.379662535Z",
+  "model": "glm-5.3"
+}

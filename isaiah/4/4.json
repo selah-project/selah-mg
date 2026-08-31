@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Rehefa avy nanasava Adonay ⟨את⟩ ny loton'ny zanakavavin'i Ziona, ary efa nanaisotra ⟨את⟩ ny ran'i Yeroshalayim avy ao afovoany, amin'ny fanahy mitsara sy amin'ny fanahy mandoro.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Rehefa"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "nanasava"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny loton'ny zanakavavin'i Ziona"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "ny loto"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "zanakavavin'i"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ziona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny ran'i Yeroshalayim"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ny rà"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "nanaisotra"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "avy ao afovoany"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "amin'ny fanahy"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mitsara"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "sy amin'ny fanahy"
+    },
+    {
+      "surface": "בער",
+      "gloss": "mandoro"
+    }
+  ],
+  "timestamp": "2026-08-31T15:03:28.480809129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 15:20",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary izay rehetra itefany amin'ny fifandraisany dia ho maloto, ary izay rehetra ipetrahany koa dia ho maloto.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ary izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "itefany"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "(amin'izany)"
+    },
+    {
+      "surface": "בנדתה",
+      "gloss": "amin'ny fifandraisany"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "dia ho maloto"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ipetrahany"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "(amin'izany)"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "koa dia ho maloto"
+    }
+  ],
+  "timestamp": "2026-08-31T13:17:53.433876981Z",
+  "model": "glm-5.3"
+}

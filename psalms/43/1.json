@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 43,
+  "translation": "Tsarao aho, ry Elohim, ary tavoaho ny adiko ⟨amin'ny⟩ firenena tsy mpanetry-fatratra; avy amin'ny olona mandainga sy tsy marina dia vonoesy aho.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Tsarao aho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ry Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "ary tavoaho"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ny adiko"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "⟨amin'ny⟩ firenena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "mpanetry-fatratra"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "avy amin'ny olona"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "mandainga"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "sy tsy marina"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "vonoesy aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:58.839488783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 1:24",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Noho izany, izao no ambaran'i Adonay, Yahveh Tsevaot, ilay Mahery an'i Yisraely: Indrisy! hahazo fiononana amin'ny fahavaloko aho, ary hangoly amin'ny mpifanohitra amiko.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Noho izany"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "izao no ambaran'i"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "Mahery"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraely"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Indrisy"
+    },
+    {
+      "surface": "אנחם",
+      "gloss": "hahazo fiononana"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "amin'ny fahavaloko"
+    },
+    {
+      "surface": "ואנקמה",
+      "gloss": "ary hangoly"
+    },
+    {
+      "surface": "מאויבי",
+      "gloss": "amin'ny mpifanohitra amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T15:01:49.875422872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary hoy Moshe: Todia hivadika aho mba hijery ⟨את⟩ ity zava-dehibe ity, nahoana no tsy may ny tsilo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "hivadika"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "mba hijery"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ity zava-dehibe ity"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "zava-dehibe"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "nahoana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "may"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "ny tsilo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:54:43.847503808Z",
+  "model": "glm-5.3"
+}

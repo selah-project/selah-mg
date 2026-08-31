@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 3:1",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Fa indro, ny Tompo, Yahveh Tsevaot, manaisotra avy amin'i Yeroshalayim sy avy amin'i Yehuda ⟨ny⟩ tohana sy ⟨ny⟩ tehina, ny tohana rehetra momba ny mofo, sy ny tohana rehetra momba ny rano.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "ny Tompo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "מסיר",
+      "gloss": "manaisotra"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "avy amin'i Yeroshalayim"
+    },
+    {
+      "surface": "ומיהודה",
+      "gloss": "sy avy amin'i Yehuda"
+    },
+    {
+      "surface": "משען",
+      "gloss": "tohana"
+    },
+    {
+      "surface": "ומשענה",
+      "gloss": "sy tehina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "משען",
+      "gloss": "tohana"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "momba ny mofo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ny ... rehetra"
+    },
+    {
+      "surface": "משען",
+      "gloss": "tohana"
+    },
+    {
+      "surface": "מים",
+      "gloss": "momba ny rano"
+    }
+  ],
+  "timestamp": "2026-08-31T15:01:42.139632707Z",
+  "model": "glm-5.3"
+}

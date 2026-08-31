@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Iray no nangatahiko tamin'i Yahveh ⟨את⟩ — izany no tadiako: hipetraka ao an-tranon'i Yahveh amin'ny andro rehetra'ny aiko, hijery ny hatsaran'i Yahveh, ary hitety ao amin'ny tempoliny.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Iray"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "no nangatahiko"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "tamin'i Yahveh ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "izany no tadiako"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "no tadiako"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "hipetraka"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ao an-tranon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "andro"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "aiko"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "hijery"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "ny hatsaran'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "ary hitety"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "ao amin'ny tempoliny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:28.275131237Z",
+  "model": "glm-5.3"
+}

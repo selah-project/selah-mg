@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 17:8",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary lazainao amin'izy ireo: na iza na iza olona avy amin'ny Isiraely, na avy amin'ny vahiny mitoetra eo anivany, izay manatitra fanatitra dorana na zava-bidi,",
+  "tokens": [
+    {
+      "surface": "ואלהם",
+      "gloss": "amin'izy ireo"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "lazainao"
+    },
+    {
+      "surface": "איש",
+      "gloss": "na iza na iza"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "na avy amin'ny"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "vahiny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "mitoetra"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "eo anivany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "manatitra"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "fanatitra dorana"
+    },
+    {
+      "surface": "או",
+      "gloss": "na"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zava-bidi"
+    }
+  ],
+  "timestamp": "2026-08-31T13:18:21.968307342Z",
+  "model": "glm-5.3"
+}

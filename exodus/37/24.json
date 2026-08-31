@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Talent iray volamena madio no nataony azy ⟨את⟩, sy ⟨את⟩ ny fitaovany rehetra.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "talent iray"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "madio"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ny fanaovan-dronono)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny fitaovany rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "fitaovany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:25:25.095714371Z",
+  "model": "glm-5.3"
+}

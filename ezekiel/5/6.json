@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 5:6",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary niova ho ratsy ⟨את⟩ fitsaranko izy, mihoatra noho ny firenena, ary ⟨את⟩ lalàko mihoatra noho ny tany izay manodidina azy; fa ny fitsaranko no nolaviny, ary ny lalàko tsy nalehany tamin'ireo.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Ary niova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fitsaranko"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "fitsaranko"
+    },
+    {
+      "surface": "לרשעה",
+      "gloss": "ho ratsy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mihoatra noho"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "lalàko"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "lalàko"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mihoatra noho"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "tany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "סביבותיה",
+      "gloss": "manodidina azy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "במשפטי",
+      "gloss": "ny fitsaranko"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "nolaviny"
+    },
+    {
+      "surface": "וחקותי",
+      "gloss": "ary ny lalàko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "nalehany"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "tamin'ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:48:52.903259158Z",
+  "model": "glm-5.3"
+}

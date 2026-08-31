@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary Elohim niresaka tamin'i Noa sy tamin'ny zanany tao aminy ⟨את⟩, ka nanao hoe:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary… niresaka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sy tamin'ny"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ tao aminy"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T12:36:13.890284342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Fa izao dia maina ⟨ny⟩ ainay; tsy misy na inona na inona afa-tsy ny mana ihany no hitan'ny masonay.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Fa izao"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ny ainay"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "maina"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "na inona na inona"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "afa-tsy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ihany"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ny mana"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "ny masonay"
+    }
+  ],
+  "timestamp": "2026-08-31T13:28:28.409952662Z",
+  "model": "glm-5.3"
+}

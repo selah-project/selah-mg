@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 8:27",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary Yahveh nanao araka ny tenin'i Moshe, dia nesoriny tamin'i Parao, tamin'ny mpanompony sy tamin'ny olony ⟨ny⟩ amboaran-javamanify; tsy nisy na iray tavela.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ary ... nanao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "araka ny tenin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "dia nesoriny"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "⟨ny⟩ amboaran-javamanify"
+    },
+    {
+      "surface": "מפרעה",
+      "gloss": "tamin'i Parao"
+    },
+    {
+      "surface": "מעבדיו",
+      "gloss": "tamin'ny mpanompony"
+    },
+    {
+      "surface": "ומעמו",
+      "gloss": "sy tamin'ny olony"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "nisy ... tavela"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "na iray"
+    }
+  ],
+  "timestamp": "2026-08-31T18:46:50.717221840Z",
+  "model": "glm-5.3"
+}

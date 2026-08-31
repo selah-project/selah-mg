@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Mamindra fo amiko Yahveh, fa Voatonterinao aho; lefa amin'ny fahatezerana ny masoko, ny aiko sy ny kibeko.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Mamindra fo amiko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Voatonterinao"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aho"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "lefa"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "amin'ny fahatezerana"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ny masoko"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "sy ny kibeko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:14.655598875Z",
+  "model": "glm-5.3"
+}

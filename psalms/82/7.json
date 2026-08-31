@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 82,
+  "translation": "Kanefa toa adam hianareo no homatry, ary toa anankiray amin'ny mpanapaka hianareo no ho lavo.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Kanefa"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "toa adam"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "homatry"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "ary toa anankiray"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "amin'ny mpanapaka"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "ho lavo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:35.149562922Z",
+  "model": "glm-5.3"
+}

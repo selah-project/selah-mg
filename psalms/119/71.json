@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Tsara ho ahy ny naharaniko famaizana, mba hianarako ny lalànao.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Tsara"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ny"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "naharaniko famaizana"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mba"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "hianarako"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ny lalànao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:55.853371823Z",
+  "model": "glm-5.3"
+}

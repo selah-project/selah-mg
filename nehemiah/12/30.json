@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary nanadio ny mpisoratra sy ny Levita, ary nanadio ⟨את⟩ ny vahoaka sy ⟨את⟩ ny vavahady ary ⟨את⟩ ny manda.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "Ary nanadio"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ny mpisoratra"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "sy ny Levita"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "ary nanadio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny vavahady"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ny vavahady"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny manda"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "ny manda"
+    }
+  ],
+  "timestamp": "2026-08-31T17:32:56.784736676Z",
+  "model": "glm-5.3"
+}

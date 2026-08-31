@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary ny mpisorona sy ny Levita nanamasina tena hitondra miakatra ⟨את⟩ ny fiaran'i Yahveh, Elohin'i Yisraela.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "nanamasina tena"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "sy ny Levita"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "hitondra miakatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiaran'i Yahveh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fiaran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    }
+  ],
+  "timestamp": "2026-08-31T17:38:36.149939118Z",
+  "model": "glm-5.3"
+}

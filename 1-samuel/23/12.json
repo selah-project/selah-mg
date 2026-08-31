@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary hoy Davida indray: Handoa ⟨את⟩ ahy sy ⟨את⟩ ny lehilahiko ho amin'ny tanan'i Shaol ve tompon'i Keila? Ary hoy Yahveh: Handoa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "Handoa"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "tompon'i"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ahy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny lehilahiko"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ny lehilahiko"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ho amin'ny tanan'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "Handoa"
+    }
+  ],
+  "timestamp": "2026-08-31T14:24:48.450242715Z",
+  "model": "glm-5.3"
+}

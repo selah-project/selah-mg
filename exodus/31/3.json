@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary namenoako ⟨את⟩ fanahy avy amin'i Elohim izy, amin'ny fahendrena sy amin'ny fahalalana ary amin'ny fahalalana amim-pahaizana, sy amin'ny karazana asa rehetra.",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "namenoako"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "izy (fanahy avy amin'i Elohim)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "amin'ny fahendrena"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "sy amin'ny fahalalana amim-pahaizana"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "ary amin'ny fahalalana"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "sy amin'ny karazana ... rehetra"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "asa"
+    }
+  ],
+  "timestamp": "2026-08-31T13:06:35.455468075Z",
+  "model": "glm-5.3"
+}

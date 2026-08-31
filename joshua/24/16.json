@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary namaly ny vahoaka ka nanao hoe: Ravivavy aminay ny hahafoy ⟨את⟩ an'i Yahveh hanompoana andriamanitra hafa.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "namaly"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Ravivavy"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aminay"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "ny hahafoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "hanompoana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "andriamanitra"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "hafa"
+    }
+  ],
+  "timestamp": "2026-08-31T14:04:03.120008624Z",
+  "model": "glm-5.3"
+}

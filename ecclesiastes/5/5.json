@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 5:5",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Aza omena ⟨את⟩ ny vavanao mba hahota ny nofonao, ary aza lazaina eo anatrehan'ny iraka hoe: fahadisoana izy; nahoana no hahatezitra Elohim amin'ny feonao, ary handrava ⟨את⟩ ny asan'ny tananao?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "omeina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vavanao"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ny vavanao"
+    },
+    {
+      "surface": "לחטיא",
+      "gloss": "mba hahota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny nofonao"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "ny nofonao"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "lazaina"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anatrehan'ny"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "iraka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "שגגה",
+      "gloss": "fahadisoana"
+    },
+    {
+      "surface": "היא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nahoana"
+    },
+    {
+      "surface": "יקצף",
+      "gloss": "hahatezitra"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "feonao"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "ary handrava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny asan'ny tananao"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "asa"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tananao"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:53.626980032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Firenena tafimafy taviny, izay tsy manaja tavana ny anti-panahy, ary tsy mamindra fo amin'ny tanora.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "Firenena"
+    },
+    {
+      "surface": "עז",
+      "gloss": "tafimafy"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "taviny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "manaja"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "tavana"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "ny anti-panahy"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ary ... ny tanora"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "mamindra fo amin'"
+    }
+  ],
+  "timestamp": "2026-08-31T13:51:32.350715330Z",
+  "model": "glm-5.3"
+}

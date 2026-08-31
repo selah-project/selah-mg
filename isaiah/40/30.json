@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary ny tanora aza ho reraka sady tafafy, ary ny tovolahy ho tontonaka mitsoka-doha.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "dia ho tafafy"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ny tanora"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "ary ho reraka"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "ary ny tovolahy"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "mitsoka-doha"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ho tontonaka"
+    }
+  ],
+  "timestamp": "2026-08-31T15:14:57.117427377Z",
+  "model": "glm-5.3"
+}

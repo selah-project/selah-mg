@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 135,
+  "translation": "Mampiakatra rankona avy amin'ny faran'ny tany, manao varatra ho an'ny orana, mampivoaka rivotra avy amin'ny tahiriny.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "Mampiakatra"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "rankona"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "avy amin'ny faran'"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "varatra"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "ho an'ny orana"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "manao"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "mampivoaka"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rivotra"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "avy amin'ny tahiriny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:09.623773686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 147,
+  "translation": "Izy no mandamina fiadanana amin'ny faritrao, ary mahavoky anao amin'ny tsara indrindra amin'ny tsypy.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Izy no mandamina"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "amin'ny faritrao"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fiadanana"
+    },
+    {
+      "surface": "חלeb",
+      "gloss": "tsara indrindra"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "amin'ny tsypy"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "mahavoky anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:52.865515563Z",
+  "model": "glm-5.3"
+}

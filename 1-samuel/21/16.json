@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Tsy ampy amiko va ny very saina, ka entinareo ⟨את⟩ ity mba hanao adala eto amiko? Hitanareo va fa ity no hiditra ao an-tranoko?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "tsy ampy"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "very saina"
+    },
+    {
+      "surface": "אני",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "no entinareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ity (Dawid)"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "hanao adala"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "eto amiko"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "hiditra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ao an-"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "tranoko"
+    }
+  ],
+  "timestamp": "2026-08-31T14:25:22.714123023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Voafidy ny anara mihoatra ⟨noho⟩ ny harena be; ny fahasoavana tsara mihoatra ny volafotsy sy ny volamena.",
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "voafidy"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ny anara"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "mihoatra ⟨noho⟩ ny harena"
+    },
+    {
+      "surface": "רב",
+      "gloss": "be"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "ny volafotsy"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "sy ny volamena"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ny fahasoavana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    }
+  ],
+  "timestamp": "2026-08-31T16:55:33.615103248Z",
+  "model": "glm-5.3"
+}

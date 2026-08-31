@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 45,
+  "translation": "Piavy noho ny zanak'i Adam ianao; naidina tamin'ny molotrao ny fahasoavana; noho izany Elohumana tsy manam-petra.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "piavy"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "noho ny zanak'i"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "naidina"
+    },
+    {
+      "surface": "חן",
+      "gloss": "fahasoavana"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "tamin'ny molotrao"
+    },
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "manasoava anao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tsy manam-petra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:30:45.167082007Z",
+  "model": "glm-5.3"
+}

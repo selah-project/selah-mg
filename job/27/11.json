@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Hampianatra anareo ⟨את⟩ amin'ny tàn'ny El aho; izay eo amin'ny Shadday tsy hanafeniko.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "Hampianatra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo",
+      "marks": "anareo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "amin'ny tàn'ny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עם",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "hanafeniko"
+    }
+  ],
+  "timestamp": "2026-08-31T17:04:49.215138694Z",
+  "model": "glm-5.3"
+}

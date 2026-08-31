@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 5:8",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Hisafidy andriam-baovao izy; ary tamin'izay dia ady tao amin'ny vavahady: tsy nisy ampinga hita na lefona, amin'ny efapolo arivo, amin'ny Isiraely.",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "Hisafidy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "andriam-baovao"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "vaovao"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tamin'izay"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ady"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "tao amin'ny vavahady"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ampinga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "hita"
+    },
+    {
+      "surface": "ורמח",
+      "gloss": "na lefona"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "amin'ny efapalo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "arivo"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "amin'ny Isiraely"
+    }
+  ],
+  "timestamp": "2026-08-31T18:01:04.994596370Z",
+  "model": "glm-5.3"
+}

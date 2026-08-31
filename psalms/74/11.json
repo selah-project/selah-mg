@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 74,
+  "translation": "Nahoana no mihemotra ny tanao, dia ny tanao ankavanana? Esory avy eo afovoan'ny didianao ary fanonto izy.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "nahoana"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "mihemotra"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ny tanao"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "dia ny tanao ankavanana"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "avy eo afovoany"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "ny didianao"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "fanonto (ravako)"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:35.755642281Z",
+  "model": "glm-5.3"
+}

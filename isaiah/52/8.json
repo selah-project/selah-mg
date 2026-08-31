@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 52,
+  "translation": "Feon'ny mpiambina anao! Nanandratra feo izy, miara-mihira fa hahita maso mifanatrika izy, amin'ny hiverenan'i Yahveh ho any Tsiôna.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Feon'ny"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "mpiambina anao"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "Nanandratra feo izy"
+    },
+    {
+      "surface": "קול",
+      "gloss": "feo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "miara-"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "mihira"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עין",
+      "gloss": "maso"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "mifanatrika"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "hahita"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "amin'ny hiverenan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ho any Tsiôna"
+    }
+  ],
+  "timestamp": "2026-08-31T15:19:23.894095793Z",
+  "model": "glm-5.3"
+}

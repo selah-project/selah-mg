@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 35:2",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Mo zava-dehibe ve aminao ity ho fitsarana, ka lazanao fa ny fahamarinako mihoatra noho ny an'i El?",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "ity"
+    },
+    {
+      "surface": "חשבת",
+      "gloss": "heverinao"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "ho fitsarana"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "lazanao"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "ny fahamarinako"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "noho ny an'i El"
+    }
+  ],
+  "timestamp": "2026-08-31T17:07:20.371242543Z",
+  "model": "glm-5.3"
+}

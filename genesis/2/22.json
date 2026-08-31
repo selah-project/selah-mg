@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary Yahveh Elohim nanamboatra ⟨את⟩ ilay tandroka izay nalainy tamin'ilay lehilahy ho vavy, ary nitondra azy ho any amin'ilay lehilahy.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "nanamboatra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay tandroka"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "ilay tandroka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nalaina"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tamin'ilay"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ho vavy"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "nitondra azy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ilay"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "lehilahy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:03.080867952Z",
+  "model": "glm-5.3"
+}

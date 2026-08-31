@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 134,
+  "translation": "Hira fiakarana. Indro, misaora ⟨את⟩ Yahveh, ry mpanompon'i Yahveh rehetra, izay mitsangana eo an-tranon'i Yahveh amin'ny alina.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Hira"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "fiakarana"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "misaora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mpanompon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "izay mitsangana"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "eo an-tranon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "amin'ny alina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:36.499334091Z",
+  "model": "glm-5.3"
+}

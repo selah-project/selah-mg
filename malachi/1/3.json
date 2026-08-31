@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "fa ⟨את⟩ Esav halanako; ary nataoko ho tany miboridana ny tendrombohitrany, ary ⟨את⟩ lovany nomena ho fonenan'ny amboadia an-efitra.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "fa ⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "halanako"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "ary nataoko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tendrombohitrany"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "tendrombohitrany"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ho tany miboridana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "lovany"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "lovany"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "ho fonenan'ny amboadia"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "an-efitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:21:52.839699852Z",
+  "model": "glm-5.3"
+}

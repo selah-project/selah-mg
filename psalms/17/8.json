@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Tano ho tahaka ny anakipa-masonao aho; eny ao anipoloan'ny elatrao dia fenoy ahy.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Tano aho"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "ho tahaka ny anakipa-masonao"
+    },
+    {
+      "surface": "בת",
+      "gloss": "anipa-"
+    },
+    {
+      "surface": "עין",
+      "gloss": "maso"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ao anipoloan'ny"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ny elatrao"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "fenoy ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:17.546942188Z",
+  "model": "glm-5.3"
+}

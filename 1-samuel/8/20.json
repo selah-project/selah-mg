@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "mba ho tahaka ny jentilisa rehetra koa izahay, ary ny mpanjakantsika no hitsara antsika ka hivoaka eo alohantsika ary hiady ⟨את⟩ ny adintsika.",
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "mba ho"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "izahay"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "tahaka ny ... rehetra"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "jentilisa"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "hitsara antsika"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "ny mpanjakantsika"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "hivoaka"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "eo alohantsika"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "hiady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny adintsika"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "ny adintsika"
+    }
+  ],
+  "timestamp": "2026-08-31T14:16:04.867074593Z",
+  "model": "glm-5.3"
+}

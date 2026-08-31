@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 76,
+  "translation": "Ianao, eny ianao, no mahatahotra; ary iza no hajanona eo anatrehanao rehefa mirehitra ny fahatezeranao?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ianao"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "mahatahotra"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ary iza"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "hajanona"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "eo anatrehanao"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "rehefa"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "fahatezeranao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:09.085580523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Eny, tsy mpanao tsi-fahamarinana ⟨izy⟩; amin'ny lalany no mandeha.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Eny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "mpanao"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "tsi-fahamarinana"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "amin'ny lalany"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "no mandeha"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:50.727820339Z",
+  "model": "glm-5.3"
+}

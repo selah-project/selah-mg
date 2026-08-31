@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 77,
+  "translation": "Noheriko tamin'ny saina ny andro fahiny, ny taonan'ny fotoana ela be.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "Noheriko tamin'ny saina"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ny andro"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "fahiny"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ny taonan'ny"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "fotoana ela be"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:36.468818679Z",
+  "model": "glm-5.3"
+}

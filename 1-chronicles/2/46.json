@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary Eifa, vaditsindrano an'i Kalebe, niteraka ⟨את⟩ an'i Harana sy ⟨את⟩ an'i Motsa ary ⟨את⟩ an'i Gazeza; ary Harana niteraka ⟨את⟩ an'i Gazeza.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "Ary Eifa"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "vaditsindrano"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "an'i Kalebe"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Harana"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Harana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Gazeza"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazeza"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "ary Harana"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Gazeza"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Gazeza"
+    }
+  ],
+  "timestamp": "2026-08-31T17:34:08.002331497Z",
+  "model": "glm-5.3"
+}

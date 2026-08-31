@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 20:18",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary hoy izy: Raha ho fiadanana no ivoahany, tratreo velona; ary raha hiady ady no ivoahany, dia tratreo velona ihany.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy izy"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ho fiadanana"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "no ivoahany"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "tratreo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "velona"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ary raha"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "hiady ady"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "no ivoahany"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "velona"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "tratreo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:48:42.448201051Z",
+  "model": "glm-5.3"
+}

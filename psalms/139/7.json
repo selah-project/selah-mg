@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 139,
+  "translation": "Hankaiza no handehanako hiala amin'ny fanahinao? Ary hankaiza no handosirako ny tavanao?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "hankaiza"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "no handehanako"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "hiala amin'ny fanahinao"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "ary hankaiza"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ny tavanao"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "no handosirako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:41.509714271Z",
+  "model": "glm-5.3"
+}

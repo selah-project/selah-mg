@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary nipaoka ny vahoaka manerana ny tany Mitsrayim hiangona volo-maina ho solon'ny voloina.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "ary nipaoka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "manerana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "hiangona"
+    },
+    {
+      "surface": "קש",
+      "gloss": "volo-maina"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "ho solon'ny voloina"
+    }
+  ],
+  "timestamp": "2026-08-31T12:55:58.466509385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary YirmeyaHu niditra sy nivoaka teo anivon'ny vahoaka, fa tsy nataony tao an-tranon'ny famonjana izy.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "Ary YirmeyaHu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "niditra"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "sy nivoaka"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "teo anivon'ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ izy",
+      "marks": "YirmeyaHu (nataony tao an-tranon'ny famonjana)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tao an-tranon'ny"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "famonjana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:39:46.469723763Z",
+  "model": "glm-5.3"
+}

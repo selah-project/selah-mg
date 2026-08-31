@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 136,
+  "translation": "Izay manome hanina ho an'ny nofo rehetra, fa mandrakizay ny hesediny.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "manome"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "hanina"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho an'ny ... rehetra"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nofo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ny hesediny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:14.306293676Z",
+  "model": "glm-5.3"
+}

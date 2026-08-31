@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Fa nahafoy ny hevitry ny anti-panahitra izay nolazainy taminy izy, ka nifanara-dalana ⟨את⟩ ny tanora izay efa nitombo ⟨את⟩ tao aminy, izay mitsangana eo anatrehany.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Fa nahafoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny hevitra"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "hevitry"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ny anti-panahitra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "nolazainy taminy"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "ka nifanara-dalana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tanora"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ny tanora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "efa nitombo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ tao aminy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "mitsangana"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "eo anatrehany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:45:16.955527615Z",
+  "model": "glm-5.3"
+}

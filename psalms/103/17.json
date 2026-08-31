@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 103,
+  "translation": "Fa ny hesed an'i Yahveh dia avy amin'ny fiandohana ka hatramin'ny farany, ho an'izay matahotra Azy, ary ny fahamarinany ho an'ny zanaky ny zanany.",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "fa ny hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "avy amin'ny fiandohana"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "farany"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho an'ny"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "izay matahotra Azy"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ary ny fahamarinany"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ho an'ny zanaky"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ny zanany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:31.016596272Z",
+  "model": "glm-5.3"
+}

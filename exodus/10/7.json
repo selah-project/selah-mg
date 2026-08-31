@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 10:7",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary hoy ny mpanompon'i Parao taminy: 'Mandra-pahoviana no hitoan'ity lehilahy ity ho fandrika antsika? Alevo handeha ⟨את⟩ ny lehilahy, mba hanompo an'i Yahveh, ⟨את⟩ ny Elohiminy; tsy mbola fantatrao va fa efa rava Mitsrayim?'",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ny mpanompon'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Mandra-"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "pahoviana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "no hitoan'"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ity lehilahy ity"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "antsika"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "ho fandrika"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Alevo handeha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lehilahy"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ny lehilahy"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "mba hanompo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh, ny Elohiminy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ny Elohiminy"
+    },
+    {
+      "surface": "הטרם",
+      "gloss": "tsy mbola"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "fantatrao va"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "efa rava"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:48.318189650Z",
+  "model": "glm-5.3"
+}

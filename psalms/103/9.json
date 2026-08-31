@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 103,
+  "translation": "Tsy mandra-pahavaratra Yahveh mifanandany ⟨aminay⟩, ary tsy mandra-pahatelina mitahiry fahatezerana.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "mandra-pahavaratra"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "mifanandany"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandra-pahatelina"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "mitahiry fahatezerana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:16.709797899Z",
+  "model": "glm-5.3"
+}

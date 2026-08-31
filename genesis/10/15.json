@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary Kanaana niteraka ⟨את⟩ i Sidona lahimatoany sy ⟨את⟩ i Keta.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Ary Kanaana"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Sidona"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "i Sidona"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "lahimatoany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "i Keta"
+    },
+    {
+      "surface": "חת",
+      "gloss": "i Keta"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:49.251637948Z",
+  "model": "glm-5.3"
+}

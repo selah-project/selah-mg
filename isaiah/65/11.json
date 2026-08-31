@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 65,
+  "translation": "Fa ianareo kosa, mahafoy an'i Yahveh, manadino ⟨את⟩ ny tendrombohitra masinaho, manomana latabatra ho an'i Gad, ary mameno zava-pisotro mifangaro ho an'i Meni —",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Fa ianareo kosa"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "mahafoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "manadino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tendrombohitra masinaho"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ny tendrombohitra"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "masinaho"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "manomana"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "ho an'i Gad"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "latabatra"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "ary mameno"
+    },
+    {
+      "surface": "למני",
+      "gloss": "ho an'i Meni"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "zava-pisotro mifangaro"
+    }
+  ],
+  "timestamp": "2026-08-31T15:22:36.382727195Z",
+  "model": "glm-5.3"
+}

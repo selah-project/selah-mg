@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Izay mamiratra ny maso dia manome fahoriana, ary ny adala molotra dia ho lavo.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "mamiratra"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ny maso"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "manome"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "fahoriana"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "ary ny adala"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "molotra"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "ho lavo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:50:41.626798517Z",
+  "model": "glm-5.3"
+}

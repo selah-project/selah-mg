@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Tsy mahalala ve ny mpanao ratsy rehetra, izay mihinana ny oloko ka nihinana mofo, Yahveh tsy niantso?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "tsy ... ve"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mpanao"
+    },
+    {
+      "surface": "און",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "mihinana"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ny oloko"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "nihinana"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mofo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "niantso"
+    }
+  ],
+  "timestamp": "2026-08-31T18:35:00.033836479Z",
+  "model": "glm-5.3"
+}

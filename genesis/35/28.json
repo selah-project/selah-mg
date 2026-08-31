@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Ary ny andron'i Yitschaka dia nanetry taona dimy amby roa-polo sy zato.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ary ny ... dia nanetry"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "andron'i"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschaka"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "zato"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "sy dimy amby roa-polo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    }
+  ],
+  "timestamp": "2026-08-31T12:47:14.208376269Z",
+  "model": "glm-5.3"
+}

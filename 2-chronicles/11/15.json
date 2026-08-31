@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 11:15",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary izy nametraka ho an'i Tenany mpisorona ho an'ny fitoerana avo sy ho an'ireo osy matavy sy ho an'ireo kankom-biby izay nataony.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Ary izy nametraka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho an'i Tenany"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "לבמות",
+      "gloss": "ho an'ny fitoerana avo"
+    },
+    {
+      "surface": "ולשעירים",
+      "gloss": "sy ho an'ireo osy matavy"
+    },
+    {
+      "surface": "ו לעגלים",
+      "gloss": "sy ho an'ireo kankom-biby"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    }
+  ],
+  "timestamp": "2026-08-31T17:44:53.101628270Z",
+  "model": "glm-5.3"
+}

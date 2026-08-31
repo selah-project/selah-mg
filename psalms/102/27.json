@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 102,
+  "translation": "Izy ireo ho levona, fa ianao kosa hitoetra; ary izy rehetra ho antitra toy ny fitafiana; ho solonao toy ny akanjo izy, ka hovào.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Izy ireo"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ho levona"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "fa ianao kosa"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "hitoetra"
+    },
+    {
+      "surface": "וכלם",
+      "gloss": "ary izy rehetra"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "toy ny fitafiana"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "ho antitra"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "toy ny akanjo"
+    },
+    {
+      "surface": "תחליפם",
+      "gloss": "ho solonao izy"
+    },
+    {
+      "surface": "ויחלפו",
+      "gloss": "ka hovào"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:46.371155199Z",
+  "model": "glm-5.3"
+}

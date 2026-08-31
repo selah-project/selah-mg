@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 20:3",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Mpiry atao anie, ry Yahveh; mahatsiafa azafady ⟨את⟩ izay nandehanako teo anatrehanao amin'ny fahamarinana sy amin'ny fo tanteraka, ary izay tsara eo imasonao no nataoko. Ary Hizkiyahu nitomany tamin'ny fitomaniana lehibe.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Mpiry atao anie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mahatsiava"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay nandehanako teo anatrehanao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "nandehanako"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "teo anatrehanao"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "amin'ny fahamarinana"
+    },
+    {
+      "surface": "ובלבב",
+      "gloss": "sy amin'ny fo"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "tanteraka"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "ary izay tsara"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "eo imasonao"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "no nataoko"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "Ary ... nitomany"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "tamin'ny fitomaniana"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lehibe"
+    }
+  ],
+  "timestamp": "2026-08-31T18:05:27.151877551Z",
+  "model": "glm-5.3"
+}

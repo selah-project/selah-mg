@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Amin'ny andron'ny Sabata, amin'ny andron'ny Sabata no hanoratany ⟨את⟩ izany eo anoloan'i Yahveh mandrakariva — avy amin'ny zanak'i Isiraely — fanekena mandrakizay.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Amin'ny andron'ny"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabata"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'ny andron'ny"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabata"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "no hanoratany"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anoloan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mandrakariva"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "izany (ny mofo) — avy amin'ny zanak'i Isiraely"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "fanekena"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mandrakizay"
+    }
+  ],
+  "timestamp": "2026-08-31T13:20:45.761238403Z",
+  "model": "glm-5.3"
+}

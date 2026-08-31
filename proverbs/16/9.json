@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ny fon'ny olona no mandinika ny lalany; fa Yahveh no mamaritra ny dingany.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "mandinika"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ny lalany"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "fa Yahveh"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "mamaritra"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "ny dingany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:15:15.770030074Z",
+  "model": "glm-5.3"
+}

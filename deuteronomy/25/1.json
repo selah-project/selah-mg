@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Raha misy fifandirana eo anelanelan'ny olona, ka mandeha izy eo amin'ny fitsarana ka tsarina, dia hamarina ⟨את⟩ ny marina ary handeny ⟨את⟩ ny meloka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "misy"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "fifandirana"
+    },
+    {
+      "surface": "בין",
+      "gloss": "eo anelanelan'ny"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "olona"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "ka mandeha izy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "fitsarana"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "ka tsarina"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "dia hamarina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny marina"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "marina"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "ary handeny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny meloka"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "meloka"
+    }
+  ],
+  "timestamp": "2026-08-31T13:48:19.122954008Z",
+  "model": "glm-5.3"
+}

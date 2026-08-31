@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary Shemuela niteny tamin'ny vahoaka ny momba ⟨את⟩ lalàn'ny fanjakana, ka nanoratra izany tao anaty boky, ka napetrany teo anatrehan'i Yahveh; ary Shemuela nampandeha ny vahoaka rehetra, samy lasa nankany an-tranony avokoa.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "niteny"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalàn'ny fanjakana"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "lalàna"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "fanjakana"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "nanoratra"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "tao anaty boky"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "napetrany"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anatrehan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "nampandeha"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "samy"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "nankany an-tranony"
+    }
+  ],
+  "timestamp": "2026-08-31T14:17:44.527258563Z",
+  "model": "glm-5.3"
+}

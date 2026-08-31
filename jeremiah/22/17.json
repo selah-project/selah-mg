@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 22:17",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Fa ny masonao sy ny fonao tsy mifidy afa-tsy ny soa azo tsy ara-drariny, sy ny fandrarahana ny ran'ny tsy manan-tsiny, sy ny fanery, sy ny herisetra, hatao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy mifidy afa-tsy"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ny masonao"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "sy ny fonao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "afa-tsy"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "בצעך",
+      "gloss": "soa azo tsy ara-drariny"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy amin'ny"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ny ra"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "tsy manan-tsiny"
+    },
+    {
+      "surface": "לשפוך",
+      "gloss": "fandrarahana"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy amin'ny"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "fanery"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy amin'ny"
+    },
+    {
+      "surface": "המרוצה",
+      "gloss": "herisetra"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hatao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:32:29.335299821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Hampifikitra aminao Yahveh ⟨את⟩ ny aretina, mandra-pahavitany ny fanesorana ⟨את⟩ anao amin'ny tany izay ianao no midina any hafenina azy.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "hampifikitra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aretina"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "aretina"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "fahavitan'izy"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ anao"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "בא",
+      "gloss": "midina"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "any"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "hafenina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:50:33.421915807Z",
+  "model": "glm-5.3"
+}

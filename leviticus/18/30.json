@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary hitandrina ny fifeheko hianareo ⟨את⟩ mba tsy hanao ireo fanao mahavetavetana izay natao talohanareo, ary aza mandoto tena amin'ireo; Izaho Yahveh Elohinareo.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ary hitandrina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fifeheko"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "ny fifeheko"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "mba tsy"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "מחקות",
+      "gloss": "ireo fanao"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "mahavetavetana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "natao"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "talohanareo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "mandoto tena"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "amin'ireo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:17:23.923904602Z",
+  "model": "glm-5.3"
+}

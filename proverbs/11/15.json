@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ratsy izay hanjo azy, satria nanao antoka ho an'ny vahiny izy; fa izay mankahala ny mifampitòra tanana dia matoky.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "izay hanjo azy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "nanao antoka"
+    },
+    {
+      "surface": "זר",
+      "gloss": "vahiny"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "fa izay mankahala"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "ny mifampitòra tanana"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "matoky"
+    }
+  ],
+  "timestamp": "2026-08-31T16:52:39.153107984Z",
+  "model": "glm-5.3"
+}

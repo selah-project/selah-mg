@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ireo voaisa taminy, ho an'ny fokoan'i Gad, dia efatra amby dimy arivo sy enin-jato amby dimam-polo.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "Ireo voaisa taminy"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ho an'ny fokoan'i"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "dimy"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "amby efatra"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "arivo"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "sy enin-"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "jato"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "amby dimam-polo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:22:52.464119067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 10:4",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "afa-tsy hipionana ambany fitoivan'ny voatala, sy lavo ambany ny voalamy ⟨isany⟩; amin'izany rehetra izany tsy mivadika ny fahatezerany, ary mbola miitatra ny tanany.",
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "afa-tsy"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "hipionana"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ambany"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ny voatala"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "sy ambany"
+    },
+    {
+      "surface": "הרוגים",
+      "gloss": "ny voalamy"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "lavo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'izany rehetra izany"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨izany⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שב",
+      "gloss": "mivadika"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ny fahatezerany"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ary mbola"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ny tanany"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "miitatra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:05:14.085039047Z",
+  "model": "glm-5.3"
+}

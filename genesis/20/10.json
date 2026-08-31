@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary Abimelek nanao an'i Avrahama hoe: Inona no hitanao, fa nanao ⟨את⟩ ny teny izany ianao?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary nanao hoe"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Inona"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "no hitanao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "nanao ianao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny teny"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "izany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:40:43.493139703Z",
+  "model": "glm-5.3"
+}

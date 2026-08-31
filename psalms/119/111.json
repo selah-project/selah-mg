@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Nolovako ho mandrakizay ⟨את⟩ ny vavolombelonao, fa firavoravoan'ny foko izy ireo.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "nolovako"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "ny vavolombelonao"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho mandrakizay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "firavoravoana"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:44.662047806Z",
+  "model": "glm-5.3"
+}

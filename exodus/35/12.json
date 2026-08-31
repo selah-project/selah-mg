@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "⟨את⟩ ny fiara ⟨את⟩ sy ny tsorakazony, ⟨את⟩ ny rakitra famelan-keloka, ⟨את⟩ sy ny efitra fanilihana ny masioka",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiara"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ny fiara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tsorakazony"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ny tsorakazony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rakitra famelan-keloka"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ny rakitra famelan-keloka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny efitra"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "ny efitra"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ny masioka"
+    }
+  ],
+  "timestamp": "2026-08-31T17:56:20.282396755Z",
+  "model": "glm-5.3"
+}

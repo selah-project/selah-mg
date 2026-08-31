@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 31:2",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary hoy izy taminy: Zaza dimby amby zato taona aho androany; tsy mahay mivoaka sy midina intsony aho, satria hoy Yahveh tamiko: Tsy hivoaka hiampita ny Yardeina ity ianao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy izy"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tamininy"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zaza"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "zato"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "dimby amby"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aho"
+    },
+    {
+      "surface": "היום",
+      "gloss": "androany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mahay"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "mivoaka"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "sy midina"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "hivoaka hiampita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Yardeina ity"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ny Yardeina"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    }
+  ],
+  "timestamp": "2026-08-31T13:53:06.188503622Z",
+  "model": "glm-5.3"
+}

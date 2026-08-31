@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Avia, ary hiverina isika ho any amin'i Yahveh, fa izy no nandratra antsika ka hahasitrana antsika; izy no namely ka hanao fehy ⟨את⟩ ny ratrantsika.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Avia"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "ary hiverina isika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "nandratra"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "kahahasitrana antsika"
+    },
+    {
+      "surface": "יך",
+      "gloss": "namely"
+    },
+    {
+      "surface": "וחבשנו",
+      "gloss": "hanao fehy ny ratrantsika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:07:44.635455972Z",
+  "model": "glm-5.3"
+}

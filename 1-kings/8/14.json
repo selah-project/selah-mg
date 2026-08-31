@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary ny mpanjaka nivadika ⟨את⟩ ny tavany ka nitso-drano ⟨את⟩ ny fiangonana rehetra'ny Isiraely; ary ny fiangonana rehetra'ny Isiraely nitsangana ⟨niova ho azy⟩.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Ary ... nivadika"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavany"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ny tavany"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ka nitso-drano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiangonana rehetra'ny Isiraely"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "fiangonana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ... rehetra"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "fiangonana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nitsangana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:43:38.961748031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 144,
+  "translation": "Izay vavany miteny lainga, ary ny tànany havanana dia tànana mitsoa-panolombokeloka.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Izay"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "vavany"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "miteny"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "lainga"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ary ny tànany havanana"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "tànana"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "mitsoa-panolombokeloka"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:46.680611970Z",
+  "model": "glm-5.3"
+}

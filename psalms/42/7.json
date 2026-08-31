@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Ry Elohim ô, mandina ato amiko ny aiko; noho izany dia mahatsiaro Anao aho, avy amin'ny tany Yarden sy ny Hermona, avy amin'ny tendrombohitra Mitsar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Ry Elohim ô"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ato amiko"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "mandina"
+    },
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "mahatsiaro Anao aho"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "avy amin'ny tany"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "sy ny Hermona"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "avy amin'ny tendrombohitra"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:32.264542353Z",
+  "model": "glm-5.3"
+}

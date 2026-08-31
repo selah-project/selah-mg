@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Manenjika ny fahavalo ko aho ka mahatratra azy, ary tsy miverina raha tsy efa lany tanteraka izy.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "Manenjika"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ny fahavalo ko"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "ka mahatratra azy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "miverina"
+    },
+    {
+      "surface": "עד",
+      "gloss": "raha tsy"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "efa lany tanteraka izy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:10.982080466Z",
+  "model": "glm-5.3"
+}

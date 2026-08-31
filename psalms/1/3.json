@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary ho tahaka ny hazo nambolena eo amoron'ny sakeli-drano izy, izay manome ny voany amin'ny vanim-potoany, ary ny ravany tsy mavotry; ary izay rehetra ataony dia hahomby.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ary ho"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "tahaka ny hazo"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "nambolena"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amoron'"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "ny sakeli-drano"
+    },
+    {
+      "surface": "מים",
+      "gloss": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ny voany"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "manome"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "amin'ny vanim-potoany"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "ary ny ravany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "mavotry"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ataony"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "hahomby"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:26.463525481Z",
+  "model": "glm-5.3"
+}

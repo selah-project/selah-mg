@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 7:28",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary hitombo be sahona ny ony; dia hiakatra sy hiditra an-tranonao, sy ao amin'ny efitrano fatorianao, sy am-pandrianao, sy an-tranon'ny mpanomponao, sy amin'ny vahoakanao, sy amin'ny fataperao, ary amin'ny lovia-pidininanao.",
+  "tokens": [
+    {
+      "surface": "ושרץ",
+      "gloss": "hitombo be"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ny ony"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "sahona"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "hiakatra"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "hiditra"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "an-tronao"
+    },
+    {
+      "surface": "ובחדר",
+      "gloss": "ao amin'ny efitrano"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "fatorianao"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "מטתך",
+      "gloss": "pandrianao"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "an-tron'ny"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "mpanomponao"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "amin'ny vahoakanao"
+    },
+    {
+      "surface": "ובתנוריך",
+      "gloss": "amin'ny fataperao"
+    },
+    {
+      "surface": "ובמשארותיך",
+      "gloss": "lovia-pidinananao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:27.149077063Z",
+  "model": "glm-5.3"
+}

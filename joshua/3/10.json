@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary hoy Yehoshoa: Amin'izany no hahalalanareo fa El velona no ao anativareo, ary tsy maintsy hosimbainy tsy ho eo anatrehanareo ⟨את⟩ ny Kenaanita sy ⟨את⟩ ny Hetita sy ⟨את⟩ ny Hivita sy ⟨את⟩ ny Perizita sy ⟨את⟩ ny Girgashita sy ny Amorita sy ny Jebosita.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ary hoy"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoa"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "amin'izany"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "no hahalalanareo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "velona"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "ao anativareo"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "ary tsy maintsy"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "hosimbainy"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "tsy ho eo anatrehanareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Kenaanita"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ny Kenaanita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny Hetita"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ny Hetita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny Hivita"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ny Hivita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny Perizita"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "ny Perizita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny Girgashita"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ny Girgashita"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "sy ny Amorita"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "sy ny Jebosita"
+    }
+  ],
+  "timestamp": "2026-08-31T13:54:06.657182968Z",
+  "model": "glm-5.3"
+}

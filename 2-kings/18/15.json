@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary Chizkiyah nanome ⟨את⟩ ny volafotsy rehetra hita tao an-tranon'i Yahveh sy tao amin'ny tahirin'ny tranon'ny mpanjaka.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ary nanome"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizkiyah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny volafotsy rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ny volafotsy"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "hita"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tao an-tranon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "sy tao amin'ny tahirin'ny"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:58:36.345108042Z",
+  "model": "glm-5.3"
+}

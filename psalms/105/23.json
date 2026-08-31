@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Ary tonga tao Mitsrayim Isiraely, ary nivahiny tamin'ny tany i Yaakoba — tany Kama.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ary tonga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "tao Mitsrayim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ary i Yaakoba"
+    },
+    {
+      "surface": "גר",
+      "gloss": "nivahiny"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tamin'ny tany"
+    },
+    {
+      "surface": "חם",
+      "gloss": "tany Kama"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:26.180485144Z",
+  "model": "glm-5.3"
+}

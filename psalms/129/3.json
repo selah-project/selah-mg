@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 129,
+  "translation": "Teo ambonin'ny lokoako no niasa tany ny mpiasa tany; nanao lava ny andalan'ny fambolena nataony.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Teo ambonin'ny"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "lokoako"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "niasa tany"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ny mpiasa tany"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "nanao lava"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "ny andalan'ny fambolena nataony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:45.405359174Z",
+  "model": "glm-5.3"
+}

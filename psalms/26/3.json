@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Fa ny hesed-nao no eo anatrehan'ny masoko, ary nandeha tamin'ny marinao aho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ny hesed-nao"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "eo anatrehan'ny"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ny masoko"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "ary nandeha"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "tamin'ny marinao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:09.593248682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Izay mitandrina ny didy tsy mahalala zava-dratsy, ary ny fotoana sy ny fitsarana dia fantatry ny fon'ny hendry.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Izay mitandrina"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ny didy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "zava-"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ary ny fotoana"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "sy ny fitsarana"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "fantatra"
+    },
+    {
+      "surface": "לב",
+      "gloss": "fon'"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ny hendry"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:40.064589887Z",
+  "model": "glm-5.3"
+}

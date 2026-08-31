@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 13:12",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary ho renan'Yisraely rehetra izany ka hatahotra, ary tsy hanampy hanao intsony toy izany asa ratsy izany ato anatinao.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ary ... rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraely"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ho renany"
+    },
+    {
+      "surface": "ויראון",
+      "gloss": "ka hatahotra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "hanampy (hanao intsony)"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "toy izany asa"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "izany"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ato anatinao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:44:46.052766532Z",
+  "model": "glm-5.3"
+}

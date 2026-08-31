@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary tamin'ny malaza amin'ny zanak'Isiraely tsy naninitra ny tanany ⟨Izy⟩; ary nijery ⟨את⟩ Elohim izy, dia nihinan-kanina sy nisotro.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ary tamin'ny"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "malaza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "naninitra"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ny tanany"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "nijery"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "nihinan-kanina"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "nisotro"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:52.497602782Z",
+  "model": "glm-5.3"
+}

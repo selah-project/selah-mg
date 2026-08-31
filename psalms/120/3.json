@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 120,
+  "translation": "Inona no homena anao, ary inona no hampitomboina ho anao, ry lela mamitaka?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Inona"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "homena"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ary inona"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "hampitomboina"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lela"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "mamitaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:07.698723174Z",
+  "model": "glm-5.3"
+}

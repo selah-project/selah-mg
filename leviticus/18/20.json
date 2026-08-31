@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary amin'ny vadin'ny namanao aza tsy homena ny fanoloran-taranakao ho fahalotoana aminy.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ary amin'ny"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vadin'ny"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "namanao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "homena"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "ny fanoloran-taranakao"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "fitohana"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "ho fahalotoana"
+    },
+    {
+      "surface": "בה",
+      "gloss": "aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:17:22.101909379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 80,
+  "translation": "Nosaronan'ny alokany ny tendrombohitra, ary ny rantsany dia sedra avy amin'El.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "nosaronana"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ny tendrombohitra"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "ny alokany"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "ary ny rantsany"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "sedra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "avy amin'El"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:29.119452180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ny akanjonao tsy simba tamin'ny nofonao, ary ny tongotrao tsy nivonto, ireto efa-polo taona izay.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "Ny akanjonao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "simba"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "tamin'ny nofonao"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "ary ny tongotrao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "nivonto"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ireto"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "efa-polo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    }
+  ],
+  "timestamp": "2026-08-31T13:43:06.480240060Z",
+  "model": "glm-5.3"
+}

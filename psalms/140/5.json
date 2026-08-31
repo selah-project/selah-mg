@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 140,
+  "translation": "Tanoava fiarovana ahy, ry Yahveh, tsy ho eo an-tanan'ny ratsy fanahy, ka tandremono ahy amin'ny lehilahy mpanao herisetra, izay efa niaina-kena hanintsana ny diako.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "tanoava fiarovana ahy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "tsy ho eo an-tanan'ny"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ratsy fanahy"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "amin'ny lehilahy"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "mpanao herisetra"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "tandremono ahy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "efa niaina-kena"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "hanintsana"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ny diako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:59.726222160Z",
+  "model": "glm-5.3"
+}

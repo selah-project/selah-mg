@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 21:20",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Dia hiteny amin'ny loholon'ny tanànany hoe: Ity zanakay ity miodina sady manohitra, tsy mandre ny feontsika; mpandany be sy mpanaraka divay izy.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Dia hiteny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "loholon'ny"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "tanànany"
+    },
+    {
+      "surface": "בננו",
+      "gloss": "zanakay"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ity...ity"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "miodina"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "sady manohitra"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mandre"
+    },
+    {
+      "surface": "בקלנו",
+      "gloss": "ny feontsika"
+    },
+    {
+      "surface": "זולל",
+      "gloss": "mpandany be"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "sy mpanaraka divay"
+    }
+  ],
+  "timestamp": "2026-08-31T13:47:56.932348662Z",
+  "model": "glm-5.3"
+}

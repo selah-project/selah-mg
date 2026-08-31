@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 107,
+  "translation": "izy no nahita ny asan'i Yahveh sy ny zava-mahagagany ao anatin'ny lalina.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "izy no"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nahita"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ny asan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "sy ny zava-mahagagany"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "ao anatin'ny lalina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:24.901206407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Ary Moshe nandidy ⟨את⟩ ny zanak'i Yisrael araka ny tenin'i Yahveh ⟨hoy⟩: Marina no lazain'ny foko amin'ny zanak'i Yosefa.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "nandidy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanak'i Yisrael"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "על",
+      "gloss": "araka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ny tenin'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Marina"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "no lazain'"
+    }
+  ],
+  "timestamp": "2026-08-31T13:40:29.912432467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 46,
+  "translation": "Ary Yisrael nanao tam'i Yosef: Aoka hahafaty ahy izao, fa efa hitako ⟨את⟩ ny tavanao, satria ianao mbola velona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary ... nanao"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "Aoka hahafaty ahy"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "izao"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "fa efa"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "hitako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavanao"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ny tavanao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "ianao mbola"
+    },
+    {
+      "surface": "חי",
+      "gloss": "velona"
+    }
+  ],
+  "timestamp": "2026-08-31T12:52:46.975642730Z",
+  "model": "glm-5.3"
+}

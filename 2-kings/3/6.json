@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary nivoaka tamin'izany andro izany ny mpanjaka Yehorama avy tao Shamrona, ka nisafo ⟨את⟩ ny Isiraely rehetra.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ary nivoaka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehorama"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'izany andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "avy tao Shamrona"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ka nisafo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Isiraely rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ny Isiraely"
+    }
+  ],
+  "timestamp": "2026-08-31T14:50:28.879560429Z",
+  "model": "glm-5.3"
+}

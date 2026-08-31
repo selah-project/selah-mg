@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ny fon'ny hendry dia ao an-tranon'ny fitomaniana, fa ny fon'ny adala kosa dia ao an-tranon'ny fifaliana.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Ny fon'ny"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "hendry"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ao an-tranon'ny"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "fitomaniana"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "fa ny fon'ny"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "adala"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ao an-tranon'ny"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "fifaliana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:16.396586349Z",
+  "model": "glm-5.3"
+}

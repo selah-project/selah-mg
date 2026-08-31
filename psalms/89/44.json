@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Koa nampiverina ianao ny vavan'ny sabany, ary tsy nampitoerinao azy tamin'ny ady.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Koa"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "nampiverina"
+    },
+    {
+      "surface": "צור",
+      "gloss": "vavan'ny"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sabany"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "nampitoerinao azy"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "tamin'ny ady"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:23.037368103Z",
+  "model": "glm-5.3"
+}

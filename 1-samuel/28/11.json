@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Ary hoy ilay vehivavy: ⟨את⟩ iza no hentiko ho anao? Ary hoy izy: Hentiavo ⟨את⟩ Shemuel ho ahy.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "hoy ilay vehivavy"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ilay vehivavy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iza"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "no hentiko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "Hentiavo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:02:23.299753661Z",
+  "model": "glm-5.3"
+}

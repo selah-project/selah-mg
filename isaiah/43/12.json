@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 43,
+  "translation": "Izaho efa nanambara, efa nanafaka, efa nampanantatra; ary tsy nisy vahiny taminareo; ary ianareo no vavolombeloko, lazain'i Yahveh, ary Izaho no El.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "efa nanambara"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "efa nanafaka"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "efa nampanantatra"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ary tsy nisy"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "taminareo"
+    },
+    {
+      "surface": "זר",
+      "gloss": "vahiny"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ary ianareo"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "no vavolombeloko"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "lazain'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ary Izaho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no El"
+    }
+  ],
+  "timestamp": "2026-08-31T15:14:34.841618391Z",
+  "model": "glm-5.3"
+}

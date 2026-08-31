@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Mba avelao hivoaka aho hanery ⟨את⟩ ny tany tsara izay any an-tenanan'ny Yarden, ilay tendrombohitra tsara ity, sy ny Lebanona.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "hivoaka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mba avelao"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "hanery"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "any an-tenanan'"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ny Yarden"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ilay tendrombohitra"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "sy ny Lebanona"
+    }
+  ],
+  "timestamp": "2026-08-31T13:40:07.545067053Z",
+  "model": "glm-5.3"
+}

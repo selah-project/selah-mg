@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Yahveh, tamin'ny fahoriana no nitadiavana Anao; nandatsaka fangalarana mangina izy rehefa tonga taminy ny famaizanao.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "tamin'ny fahoriana"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "nitadiavana Anao"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "nandatsaka"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "fangalarana mangina"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "ny famaizanao"
+    },
+    {
+      "surface": "למו",
+      "gloss": "tamin'izy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:08:32.773079687Z",
+  "model": "glm-5.3"
+}

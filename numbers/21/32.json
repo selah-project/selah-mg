@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary Moshe naniraka mba hizaha an'i ⟨את⟩ Jazera; dia noraintsiny ny zanany vavy ⟨velona⟩ tao, ary noroahiny ny Emorita izay tao.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "naniraka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "mba hizaha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jazera"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Jazera"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "dia noraintsiny"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "ny zanany vavy"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "ary noroahiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Emorita"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ny Emorita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:32:52.479973039Z",
+  "model": "glm-5.3"
+}

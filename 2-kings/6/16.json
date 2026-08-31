@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary hoy izy: Aza matahotra, fa bebe kokoa izay ⟨miaraka⟩ aminay noho izay ⟨miaraka⟩ aminy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "matahotra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "bebe kokoa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ aminay"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "noho izay"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ aminy",
+      "marks": "izay miaraka aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:52:41.188068500Z",
+  "model": "glm-5.3"
+}

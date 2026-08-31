@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 102,
+  "translation": "Hosoratana ho an'ny taranaka farany izao, ary vahoaka hoforonina no hanankalaza an'i Yah.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "Hosoratana"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izao"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "ho an'ny taranaka"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "farany"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ary vahoaka"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "hoforonina"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "hanankalaza"
+    },
+    {
+      "surface": "יה",
+      "gloss": "an'i Yah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:31.539693364Z",
+  "model": "glm-5.3"
+}

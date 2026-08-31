@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Nefa amin'ity zavatra ity ianareo tsy mino an'i Yahveh Elohinareo.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "Nefa amin'ity zavatra ity"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "ianareo tsy"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "mino"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:40:06.398080220Z",
+  "model": "glm-5.3"
+}

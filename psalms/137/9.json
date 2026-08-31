@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 137,
+  "translation": "Sambatra izay hisambotra sy hanipazana ⟨את⟩ ny zaza amam-panenonao amin'ny vato.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Sambatra"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "izay hisambotra"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "sy hanipazana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zaza amam-panenonao"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "ny zaza amam-panenonao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "vato"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:12.456962069Z",
+  "model": "glm-5.3"
+}

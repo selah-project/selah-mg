@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Feon'i Yahveh ⟨manana⟩ hery; feon'i Yahveh ⟨manana⟩ fihaingoana.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "feo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "hery"
+    },
+    {
+      "surface": "קול",
+      "gloss": "feo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "fihaingoana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:18.982960179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary namaly ⟨את⟩ i Yehoshoa izy ka nanao hoe: Izay rehetra no nandidianao anay hataontsika, ary amin'izay rehetra hanirahananao anay handeha izahay.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Ary namaly"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Yehoshoa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "i Yehoshoa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "no nandidianao anay"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "hataontsika"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary amin'izay rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "hanirahananao anay"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "handeha izahay"
+    }
+  ],
+  "timestamp": "2026-08-31T13:54:27.603956494Z",
+  "model": "glm-5.3"
+}

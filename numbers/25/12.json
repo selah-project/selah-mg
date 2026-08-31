@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Noho izany lazao: Indro, izaho manome azy ⟨את⟩ ny fanekiko: fiadanana.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Noho izany"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "lazao"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Indro, izaho"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "manome"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanekiko"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ny fanekiko"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fiadanana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:34:12.835927081Z",
+  "model": "glm-5.3"
+}

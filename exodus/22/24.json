@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Raha mampisolo vola kianja ianareo ⟨את⟩ amin'ny oloko — ⟨את⟩ ny malahelo eo akaikinareo — tsy ho mpanefy trosa aminy ianao; tsy hametraka zanrabony aminy ianareo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volta kianja"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "mampisolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin'ny oloko"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "oloko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny malahelo"
+    },
+    {
+      "surface": "העני",
+      "gloss": "ny malahelo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "eo akaikinareo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "mpanefy trosa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "hametraka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "zanrabony"
+    }
+  ],
+  "timestamp": "2026-08-31T13:02:40.764434958Z",
+  "model": "glm-5.3"
+}

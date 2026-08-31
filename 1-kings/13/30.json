@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary nametraka ⟨את⟩ ny fatiny tao amin'ny fasany izy; ary niomoky taminy izy ireo, ka nataony hoe: Indrisy ry rahalahiko!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "nametraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fatiny"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "ny fatiny"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "tao amin'ny fasany"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "niomoky"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Indrisy"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ry rahalahiko"
+    }
+  ],
+  "timestamp": "2026-08-31T14:46:12.035591971Z",
+  "model": "glm-5.3"
+}

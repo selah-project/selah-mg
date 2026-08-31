@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 23:10",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Izy no namoaka ny fahamenarany; ny zanany lahy sy vavy dia nobaboina, ary izy novonoina tamin'ny sabatra; dia lasa ohabola teo amin'ny vehivavy izy, fa natao fitsarana tamin'ireo.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Izy"
+    },
+    {
+      "surface": "גלו",
+      "gloss": "namoaka"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ny fahamenarany"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "ny zanany lahy"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "sy vavy"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "nobaboina"
+    },
+    {
+      "surface": "ואותה",
+      "gloss": "⟨את⟩ ary izy",
+      "marks": "izy"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "tamin'ny sabatra"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "novonoina"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "dia lasa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ohabola"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "teo amin'ny vehivavy"
+    },
+    {
+      "surface": "ושפוטים",
+      "gloss": "fa natao fitsarana"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "⟨nao⟩"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tamin'ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:55:29.852849639Z",
+  "model": "glm-5.3"
+}

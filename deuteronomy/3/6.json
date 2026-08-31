@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary nampanontolo ho faty ⟨את⟩ izahay, toy ny nataonay tamin'i Sihona mpanjakan'i Cheshbona: nanolo-tanteraka ny tanàna rehetra ⟨isaina⟩ amam-bahoaka, lehilahy sy vehivavy ary madinika.",
+  "tokens": [
+    {
+      "surface": "וַנַּחֲרֵם",
+      "gloss": "nampanontolo ho faty"
+    },
+    {
+      "surface": "אוֹתָם",
+      "gloss": "⟨את⟩ izahay",
+      "marks": "izy ireo"
+    },
+    {
+      "surface": "כַּאֲשֶׁר",
+      "gloss": "toy ny"
+    },
+    {
+      "surface": "עָשִׂינוּ",
+      "gloss": "nataonay"
+    },
+    {
+      "surface": "לְסִיחֹן",
+      "gloss": "tamin'i Sihona"
+    },
+    {
+      "surface": "מֶלֶךְ",
+      "gloss": "mpanjakan'i"
+    },
+    {
+      "surface": "חֶשְׁבּוֹן",
+      "gloss": "Cheshbona"
+    },
+    {
+      "surface": "הַחֲרֵם",
+      "gloss": "nanolo-tanteraka"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "עִיר",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "מְתִם",
+      "gloss": "amam-bahoaka"
+    },
+    {
+      "surface": "הַנָּשִׁים",
+      "gloss": "vehivavy"
+    },
+    {
+      "surface": "וְהַטָּף",
+      "gloss": "ary madinika"
+    }
+  ],
+  "timestamp": "2026-08-31T19:13:39.688532442Z",
+  "model": "glm-5.3"
+}

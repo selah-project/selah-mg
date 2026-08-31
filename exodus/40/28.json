@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary nametraka ny efitra lamban'ny varavarana ⟨את⟩ ho an'ny tabernakely izy.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "nametraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny efitra lamban'ny varavarana"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "efitra lamba"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "varavarana"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ho an'ny tabernakely"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:31.379345911Z",
+  "model": "glm-5.3"
+}

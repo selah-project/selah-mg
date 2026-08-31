@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 78:61",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Ka natolony ho babo ny heriny, ary ny voninahiny ho an-tanan'ny fahavalo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "natolony"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "ho babo"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "ny heriny"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "ary ny voninahiny"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "an-tanan'"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ny fahavalo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:54.606564194Z",
+  "model": "glm-5.3"
+}

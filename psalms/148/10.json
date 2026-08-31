@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 148,
+  "translation": "Ny biby dia sy ny biby fiompy rehetra, ny zava-mandady sy ny voratra manidina,",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "ny biby dia"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ny ... rehetra"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "biby fiompy"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "zava-mandady"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "sy ny voratra"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "manidina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:25.832733698Z",
+  "model": "glm-5.3"
+}

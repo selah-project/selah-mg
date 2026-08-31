@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary hanao ⟨את⟩ fiarako (aron) hazo akasia izy: roa hakiho sy sasany ny lavany, hakiho iray sy sasany ny sakany, ary hakiho iray sy sasany ny haavony.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Ary hanao"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fiarako (aron)"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "roa hakiho"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "sy sasany"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ny lavany"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "hakiho iray"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "sy sasany"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ny sakany"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "hakiho iray"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "sy sasany"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ny haavony"
+    }
+  ],
+  "timestamp": "2026-08-31T18:28:45.562909884Z",
+  "model": "glm-5.3"
+}

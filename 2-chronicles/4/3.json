@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 4:3",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary sarin'omby no teo ambany azy, manodidina manodidina, manelanelana ⟨את⟩ azy, folo isaky ny hakiho, manodidina ⟨את⟩ ny Ranomasina manodidina; omby roa andalana no voavaingo tamin'ny navaingona azy.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "sarin'-"
+    },
+    {
+      "surface": "בקרים",
+      "gloss": "omby"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "teo ambany"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "סובבים",
+      "gloss": "manelanelana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "folo"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "isaky ny hakiho"
+    },
+    {
+      "surface": "מקיפים",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Ranomasina"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ny Ranomasina"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "roa"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "andalana"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "omby"
+    },
+    {
+      "surface": "יצוקים",
+      "gloss": "voavaingo"
+    },
+    {
+      "surface": "במצקתו",
+      "gloss": "tamin'ny navaingona azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:44:17.701875652Z",
+  "model": "glm-5.3"
+}

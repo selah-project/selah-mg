@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 53,
+  "translation": "Nihemotra daholo izy, miaraka dia lasa maloto; tsy misy manao ny tsara, tsy misy na dia iray aza.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "daholo"
+    },
+    {
+      "surface": "סג",
+      "gloss": "nihemotra"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "miaraka"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "lasa maloto"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "manao"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ny tsara"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na dia"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray aza"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:06.371133288Z",
+  "model": "glm-5.3"
+}

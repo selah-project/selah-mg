@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 124,
+  "translation": "Raha tsy Yahveh no efa nomba anay, tamin'ny nitsanganan'ny olona hiady aminay,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "Raha tsy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "efa nomba"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anay"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "tamin'ny nitsanganan'ny"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "hiady aminay"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:59.692836476Z",
+  "model": "glm-5.3"
+}

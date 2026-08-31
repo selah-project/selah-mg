@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Fa Izaho kosa dia Yahveh, ny Elohim-nao, hatramin'ny tany Mitsrayim; hitoeran'nao indray ny tranolay hataoko, toy ny andron'ny fety.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Fa Izaho kosa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ny Elohim-nao"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hatramin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "indray"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "hitoeran'nao ... hataoko"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "ny tranolay"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "toy ny andron'ny"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fety"
+    }
+  ],
+  "timestamp": "2026-08-31T16:09:00.872212572Z",
+  "model": "glm-5.3"
+}

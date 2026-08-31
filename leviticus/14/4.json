@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "ary hitory ny mpisorona haka ho an'izay hadiovana vorona mahavelona roa madio, ary hazo sedera, ary loko mena avy amin'ny kankafitra, ary hizopàna.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "hitory"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "haka"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "ho an'izay hadiovana"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "roa"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "vorona"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "mahavelona"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "madio"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ary hazo"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sedera"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ary loko mena avy amin'ny"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "kankafitra"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "ary hizopàna"
+    }
+  ],
+  "timestamp": "2026-08-31T13:15:25.033616954Z",
+  "model": "glm-5.3"
+}

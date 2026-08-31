@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 144,
+  "translation": "Vonjeo aho ka afaho aho amin'ny tànan'ny zanak'ny vahiny, izay ny vavany miteny zava-poana, ary ny tanany ankavanana dia tanankavanana mandainga.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "Vonjeo aho"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ka afaho aho"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "amin'ny tànan'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'ny"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "vahiny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ny vavany"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "miteny"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "zava-poana"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ary ny tanany ankavanana"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "tanankavanana"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "mandainga"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:02.798533649Z",
+  "model": "glm-5.3"
+}

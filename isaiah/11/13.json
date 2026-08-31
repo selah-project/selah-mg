@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary hiala ny fiandeboan-tsy fitiavana Efrayima, ary ny mpanery an'i Yehudah hotsipihina; Efrayima tsy hiandebo-tsy fitiavana ⟨את⟩ Yehudah, ary Yehudah tsy hanery ⟨את⟩ Efrayima.",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "hiala"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "fiandeboan-tsy fitiavana"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayima"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "ary ny mpanery"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "an'i Yehudah"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "hotsipihina"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "hiandebo-tsy fitiavana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudah"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ary Yehudah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "hanery"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayima"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayima"
+    }
+  ],
+  "timestamp": "2026-08-31T15:05:31.619035348Z",
+  "model": "glm-5.3"
+}

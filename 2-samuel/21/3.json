@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary Davida nanao tamin'ny Gibeonita hoe: Inona no hataoko ho anareo, ary amin'inona no hanaovako fanavotana, mba hitsofanareo soa ⟨את⟩ lovan'i Yahveh?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary ... nanao"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "Gibeonita"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Inona"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "no hataoko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "ary amin'inona"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "no hanaovako fanavotana"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "mba hitsofanareo soa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lovan'i Yahveh"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "lovan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T14:37:26.638048582Z",
+  "model": "glm-5.3"
+}

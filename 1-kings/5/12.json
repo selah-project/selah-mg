@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary izy niteny ohabolana telo arivo, ary ny hirany dia dimy amby arivo.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "niteny"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "telo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "arivo"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ohabolana"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ary dia nisy"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "ny hirany"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "dimy amby"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "arivo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:40:54.298844755Z",
+  "model": "glm-5.3"
+}

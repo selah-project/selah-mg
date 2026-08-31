@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 4:7",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Tsy moa, raha manao soa ianao, dia hakarina ⟨ianao⟩? ary raha tsy manao soa, dia eo am-baravarana no mandainga ny ota, ary maniry anao izy; fa ianao no hifehy azy.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Tsy moa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "manao soa"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "hakarina"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ary raha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "manao soa"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "eo am-baravarana"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ny ota"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "mandainga"
+    },
+    {
+      "surface": "ואליך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "maniry ... izy"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "fa ianao"
+    },
+    {
+      "surface": "תמשל",
+      "gloss": "hifehy"
+    },
+    {
+      "surface": "בו",
+      "gloss": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:02.125159391Z",
+  "model": "glm-5.3"
+}

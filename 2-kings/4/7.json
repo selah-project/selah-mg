@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary tonga izy ka nilaza tamin'ny lehilahin'ny Elohim; dia hoy izy: Mandehana, amidio ⟨את⟩ ny mena, ary aloa ⟨את⟩ ny trosanao; ary ianao sy ny zananao dia velona amin'izay sisa.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Ary tonga izy"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "ka nilaza"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "tamin'ny lehilahin'ny"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dia hoy izy"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Mandehana"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "amidio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mena"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ny mena"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "ary aloa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny trosanao"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "ny trosanao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ianao"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "sy ny zananao"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "velona"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "amin'izay sisa"
+    }
+  ],
+  "timestamp": "2026-08-31T14:52:32.430447132Z",
+  "model": "glm-5.3"
+}

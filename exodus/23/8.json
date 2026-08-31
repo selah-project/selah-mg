@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary kolikoly dia aza alaina; fa ny kolikoly mamiratra ny maso marani-po ka manimba ny tenin'ny marina",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "Ary ny kolikoly"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "alaina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "ny kolikoly"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "mamiratra ny maso"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "marani-po"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "ka manimba"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ny tenin'ny"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "marina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:21.189780488Z",
+  "model": "glm-5.3"
+}

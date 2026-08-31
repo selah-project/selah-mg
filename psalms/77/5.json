@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 77,
+  "translation": "Notazoninao ny tazan'ny masoko; nientanentana aho ka tsy niteny.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "Notazoninao"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "ny tazan'"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "masoko"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "nientanentana aho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "niteny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:36.468309145Z",
+  "model": "glm-5.3"
+}

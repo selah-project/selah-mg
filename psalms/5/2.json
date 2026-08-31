@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ny teniko, mihainoa, ry Yahveh; fantaro ny fikorianan'ny foko.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "ny teniko"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "mihainoa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "fantaro"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "ny fikorianan'ny foko"
+    }
+  ],
+  "timestamp": "2026-08-31T18:13:02.093396158Z",
+  "model": "glm-5.3"
+}

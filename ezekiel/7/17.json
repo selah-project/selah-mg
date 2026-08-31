@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ny tanana rehetra hanalefaka, ary ny lohalika rehetra handeha ho ⟨rano⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "tanana"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "hanalefaka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ... rehetra"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "lohalika"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "handeha"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    }
+  ],
+  "timestamp": "2026-08-31T15:48:22.158779144Z",
+  "model": "glm-5.3"
+}

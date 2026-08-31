@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Mitsara ho an'ny mpanomponao ho amin'ny tsara; aza anery ahy ny miavonda.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "mitsara ho an'ny"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mpanomponao"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "ho amin'ny tsara"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "anery ahy"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "ny miavonda"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:24.313734163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary amin'ny taranakao aza homena hampita ho an'i Moleka, ary aza mandoto ⟨את⟩ ny anaran'ny Elohinao; izaho Yahveh.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "amin'ny taranakao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "homena"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "hampita"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ho an'i Moleka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "mandoto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anaran'ny Elohinao"
+    },
+    {
+      "surface": "שם",
+      "gloss": "anarana"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohinao"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:17:34.796053338Z",
+  "model": "glm-5.3"
+}

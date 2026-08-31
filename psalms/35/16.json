@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 35:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Miaraka amin'ny tsy mivavaka, mpan-tsiratsiratra amin'ny fihinanana, mikitika hamy amiko izy.",
+  "tokens": [
+    {
+      "surface": "בחנפי",
+      "gloss": "Miaraka amin'ny tsy mivavaka"
+    },
+    {
+      "surface": "לעגי",
+      "gloss": "mpan-tsiratsiratra"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "amin'ny fihinanana"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "mikitika hamy"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "izy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:26.030337274Z",
+  "model": "glm-5.3"
+}

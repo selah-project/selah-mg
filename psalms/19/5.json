@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Manerana ⟨ny⟩ tany midina ny tsipiky ⟨ireo⟩, ary hatrany faran'ny tany monina ny tenin'ireo; ho an'ny masoandro nataony lay tao amin'ireo.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "manerana"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "midina\/mivoaka"
+    },
+    {
+      "surface": "קום",
+      "gloss": "tsipika"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "ary hatrany farany"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tany monina"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "ny tenin'ireo"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "ho an'ny masoandro"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "lay"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "tao amin'ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:02.792051806Z",
+  "model": "glm-5.3"
+}

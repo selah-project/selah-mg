@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Hofoana tanteraka ny tany, ka hobaboina tanteraka, fa Yahveh no niteny ⟨את⟩ ity teny ity.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Hofoana tanteraka"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ny tany⟩"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "ka hobaboina tanteraka"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "⟨hobaboina⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "no niteny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ity teny ity"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ity teny"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    }
+  ],
+  "timestamp": "2026-08-31T15:09:42.874014088Z",
+  "model": "glm-5.3"
+}

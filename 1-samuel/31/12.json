@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 31:12",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "dia niainga ny lehilahy mahery rehetra ka nandeha nandritra ny alina izy ireo, ka nalainy ⟨את⟩ ny faton'i Shaola sy ⟨את⟩ ny fatin'ny zanany tamin'ny mandan'ny Beti-Shana; ary tonga tao Yabesh izy ka nandoro ⟨את⟩ azy ⟨את⟩ teo.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "niainga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nandritra ny"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "alina"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "nalainy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny faton'i Shaola"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "ny faton'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny fatin'ny zanany"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "ny fatin'ny"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "מחומת",
+      "gloss": "tamin'ny mandan'ny"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shana"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "tonga tao"
+    },
+    {
+      "surface": "ייבשה",
+      "gloss": "Yabesh"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "nandoro"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azy"
+    },
+    {
+      "surface": "שם",
+      "gloss": "teo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:28:09.799325696Z",
+  "model": "glm-5.3"
+}

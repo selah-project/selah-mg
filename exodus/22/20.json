@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary ny vahiny aza tsy ankinintsy, ary aza manery azy; fa vahiny ianareo tao amin'ny tany Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Ary ny vahiny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "ankinintsy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "manery azy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "vahiny"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ianareo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tao amin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T13:02:35.091069267Z",
+  "model": "glm-5.3"
+}

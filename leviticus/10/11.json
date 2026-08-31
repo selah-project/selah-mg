@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "ary hampianatra ⟨את⟩ ny Zanak'i Isiraely ⟨את⟩ ny lalàna rehetra izay nolazain'i Yahveh taminy tamin'ny tanan'i Moshe.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "ary hampianatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zanak'i Isiraely"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalàna rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "lalàna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nolazain'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "tamin'ny tanan'"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-31T13:14:38.403290053Z",
+  "model": "glm-5.3"
+}

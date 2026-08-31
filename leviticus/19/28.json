@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 19:28",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary fery ho an'ny maty aza atao amin'ny nofonareo; ary soratra kely aza atao amin'ny tenanareo; Izaho Yahveh.",
+  "tokens": [
+    {
+      "surface": "ושרט",
+      "gloss": "Ary fery"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ho an'ny maty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza atao"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "atao (ianareo)"
+    },
+    {
+      "surface": "בבשרכם",
+      "gloss": "amin'ny nofonareo"
+    },
+    {
+      "surface": "וכתבת",
+      "gloss": "ary soratra kely"
+    },
+    {
+      "surface": "קעקע",
+      "gloss": "fery lalina\/kilevina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza atao"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "atao (ianareo)"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "amin'ny tenanareo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:14.477812486Z",
+  "model": "glm-5.3"
+}

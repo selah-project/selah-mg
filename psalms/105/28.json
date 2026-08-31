@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Nanipy ny maizina ka nihelina izy; ary tsy niodina tamin'ny teniny ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Nanipy"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ny maizina"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "ka nihelina izy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "niodina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny teniny"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "ny teniny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:42.787672263Z",
+  "model": "glm-5.3"
+}

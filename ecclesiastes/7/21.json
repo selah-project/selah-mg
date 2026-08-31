@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Aza manome ny fonao koa amin'ny teny rehetra izay tenenina, fandrao renao ⟨את⟩ ny mpanomponao manozona anao.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "amin'ny... rehetra"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "tenenina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "manome"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ny fonao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "fandrao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza\/tsy"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "renao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanomponao manozona anao"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ny mpanomponao"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "manozona anao"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:51.355050922Z",
+  "model": "glm-5.3"
+}

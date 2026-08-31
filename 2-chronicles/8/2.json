@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 8:2",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary ny tanàna izay nomen'i Huram ho an'i Shelomoh, norenany ⟨את⟩ ireo, ary nampitoeriny tao ⟨את⟩ ny zanak'i Yisraela.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "Ary ny tanàna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nomen'i"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Huram"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ho an'i Shelomoh"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "norenany"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ireo",
+      "marks": "ireo"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "nampitoeriny"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanak'i Yisraela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    }
+  ],
+  "timestamp": "2026-08-31T17:45:16.363329974Z",
+  "model": "glm-5.3"
+}

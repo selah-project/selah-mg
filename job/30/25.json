@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 30:25",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Tsy nitomany va aho ho an'ny mafy andro? Nalahelo ny fanahiko ho an'ny malahelo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "va"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "בכיתי",
+      "gloss": "nitomany"
+    },
+    {
+      "surface": "לקשה",
+      "gloss": "mafy"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "עגמה",
+      "gloss": "nalahelo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny fanahiko"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "ho an'ny malahelo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:06:52.342554331Z",
+  "model": "glm-5.3"
+}

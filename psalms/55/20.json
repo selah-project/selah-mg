@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 55,
+  "translation": "El hihaino ka hamaly azy, dia Ilay mipetraka hatramin'ny fony Ela ⟨Selah⟩ — izay tsy manana fiovanana, ka tsy matahotra Elohim.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "hihaino"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "ka hamaly azy"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dia Ilay mipetraka"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "hatramin'ny fony Ela"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy manana"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "fiovanana"
+    },
+    {
+      "surface": "למו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "matahotra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:37.888853221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Amin'ny lalànao no hifaliako, tsy hanadino ny teninao aho.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "Amin'ny lalànao"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "hifaliako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "hanadino ... aho"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ny teninao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:42.684023302Z",
+  "model": "glm-5.3"
+}

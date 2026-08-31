@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ny razanareo — aiza izy? Ary ny mpaminany — moa velona mandrakizay ve izy?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "Ny razanareo"
+    },
+    {
+      "surface": "איה",
+      "gloss": "aiza"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izy"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "Ary ny mpaminany"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "velona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:18:47.897590458Z",
+  "model": "glm-5.3"
+}

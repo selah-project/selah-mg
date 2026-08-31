@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Hivoky amin'ny tavin-dranon'ny tranonao izy ⟨את⟩, ary ny onin'ny fahafinaretanao no hampisotroinao azy.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "hivoky"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "tavin-dranon'ny"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "tranonao"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "ary ny onin'ny"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "fahafinaretanao"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "hampisotroinao azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:57.295229661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 66,
+  "translation": "Avia, mihainoa, ry rehetra matahotra an'iElohim, dia homeko ny zavatra natao ho an'ny aiko.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Avia"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mihainoa"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "dia homeko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ry rehetra"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "matahotra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "an'iElohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zavatra"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "natao"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ho an'ny aiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:55.771714933Z",
+  "model": "glm-5.3"
+}

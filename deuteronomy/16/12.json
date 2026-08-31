@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary tsarovy fa mpanompo tao Mitsrayim ianao tao; ka tandremo ary tanteraho ⟨את⟩ ireto didy ireo.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "Ary tsarovy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mpanompo"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ianao tao"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "tao Mitsrayim"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ka tandremo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ary tanteraho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ireto didy ireo"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ireto didy"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:45:50.837288890Z",
+  "model": "glm-5.3"
+}

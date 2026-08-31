@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Izay fararazany dia hohanin'ny noana, ary hentiny ⟨izany⟩ avy amin'ny tsilo, ary mientan'ny mangetaheta ny haren'izy ireo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Izay"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "fararazany"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "noana"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hohanin'"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "tsilo"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "hentiny izany"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "mientan'"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "mangetaheta"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "haren'izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:00:28.989594532Z",
+  "model": "glm-5.3"
+}

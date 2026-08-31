@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ho faty sahala aho teto an-tany saika nefa izaho tsy nahafoy ny didinao.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "saika"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "namono ahy tanteraka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "teto an-tany"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "nefa izaho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "nahafoy"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ny didinao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:25.898210696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 11:3",
+  "book": "zechariah",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Feon'ny fitarainan'ny mpiandry, fa voazimbazimba ny voninahiny; feon'ny fisafoahan'ny liona tanora, fa voazimbazimba ny voninahitr'i Yordana.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Feon'ny"
+    },
+    {
+      "surface": "יללת",
+      "gloss": "fitarainan'ny"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "mpiandry"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שדדה",
+      "gloss": "voazimbazimba"
+    },
+    {
+      "surface": "אדרתם",
+      "gloss": "ny voninahiny"
+    },
+    {
+      "surface": "קול",
+      "gloss": "feon'ny"
+    },
+    {
+      "surface": "שאגת",
+      "gloss": "fisafoahan'ny"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "liona tanora"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "voazimbazimba"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ny voninahitr'i"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:21:03.974145119Z",
+  "model": "glm-5.3"
+}

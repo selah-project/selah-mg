@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary maty koa izy roa lahy, dia Mahlona sy Kiliona; ary ilay vehivavy dia sisa tavela ⟨amin'ny⟩ zanany roa lahy sy ⟨amin'ny⟩ vadiny.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "Ary maty"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "izy roa lahy"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Mahlona"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "sy Kiliona"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "ary sisa tavela"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ilay vehivavy"
+    },
+    {
+      "surface": "משני",
+      "gloss": "tamin'ny roa"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "sy tamin'ny vadiny"
+    }
+  ],
+  "timestamp": "2026-08-31T17:12:10.471983340Z",
+  "model": "glm-5.3"
+}

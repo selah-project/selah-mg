@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Ary Oholibama niteraka an'i ⟨את⟩ Yeish sy ⟨את⟩ Yaalam ary ⟨את⟩ Koraha; ireo no zanak'i Esav, izay teraka taminy tany amin'ny tany Kenaana.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "Ary Oholibama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeish"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeish"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yaalam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yaalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Koraha"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koraha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "teraka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tany amin'ny tany"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    }
+  ],
+  "timestamp": "2026-08-31T12:48:08.373989148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary Arpakhshad niteraka ⟨את⟩ an'i Shelakh, ary Shelakh niteraka ⟨את⟩ an'i Ever.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "ary Arpakhshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Shelakh"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelakh"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ary Shelakh"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    }
+  ],
+  "timestamp": "2026-08-31T17:33:56.085131473Z",
+  "model": "glm-5.3"
+}

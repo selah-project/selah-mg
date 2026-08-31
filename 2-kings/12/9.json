@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary ny mpisorona nanaiky tsy haka intsony volafotsy amin'ny olona, ary tsy hanamafy ⟨את⟩ ny fidadànan'ny trano.",
+  "tokens": [
+    {
+      "surface": "ויאותו",
+      "gloss": "nanaiky"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "haka"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ (avy amin')"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "hanamafy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fidadànan'ny trano"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "ny fidadàna"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ny trano"
+    }
+  ],
+  "timestamp": "2026-08-31T14:56:25.044878821Z",
+  "model": "glm-5.3"
+}

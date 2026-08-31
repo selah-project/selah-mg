@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Nofefenin'ny kofian'ny fahafatesana aho, ary ny onin'ny Belialy nampatahotra ahy.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "Nofefenin'ny"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "kofian'ny"
+    },
+    {
+      "surface": "מות",
+      "gloss": "fahafatesana"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "ary ny onin'ny"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belialy"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "nampatahotra ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:16.246687869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Nefa tsy niala tamin'ny fahotan'ny taranak'i Yarovam, izay nahatonga an'i Isiraely ho mpandika ⟨את⟩ an'i Isiraely amin'izany; fa tamin'izany no nandehany; ary ny Ashera koa nijanona tao Shomron.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Nefa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "niala"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "tamin'ny fahotan'"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taranak'i"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "nahatonga... ho mpandika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Isiraely"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "בה",
+      "gloss": "amin'izany"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ary ... koa"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "ny Ashera"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "nijanona"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "tao Shomron"
+    }
+  ],
+  "timestamp": "2026-08-31T14:57:00.615690310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary tonga tamin'ny faran'ny roa-polo taona izay norenan'i Shelomoh ⟨את⟩ ny tranon'i Yahveh sy ⟨את⟩ ny tranony.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary tonga tamin'ny"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "faran'ny"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "roa-polo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "norenan'i"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny trano"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tranony"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "tranony"
+    }
+  ],
+  "timestamp": "2026-08-31T17:45:16.362999737Z",
+  "model": "glm-5.3"
+}

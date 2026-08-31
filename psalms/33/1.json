@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Mihira fihobiana ianareo marina ao amin'i Yahveh; ny mahitsy no mety hanao fiderana.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "Mihira fihobiana"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ianareo marina"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ao amin'i Yahveh"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "ny mahitsy"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "no mety"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "hanao fiderana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:19.451937222Z",
+  "model": "glm-5.3"
+}

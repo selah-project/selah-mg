@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 118:21",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 118,
+  "translation": "Hanidera anao aho, fa namaly ahy ianao, ka tonga famonjena ho ahy.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Hanidera anao aho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "namaly ahy ianao"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ka tonga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "famonjena"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:18.347223431Z",
+  "model": "glm-5.3"
+}

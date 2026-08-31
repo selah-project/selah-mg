@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary nataony tamin'izy ireo izany, ka namonjy azy ⟨את⟩ tamin'ny tànan'ny zanak'i Yisraela, fa tsy novonoiny izy ireo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tamin'izy ireo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "namonjy"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "azy (izy ireo)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tamin'ny tànana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "novonoiny izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:58:06.062534373Z",
+  "model": "glm-5.3"
+}

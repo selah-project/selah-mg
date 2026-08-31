@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary niteraka zanaka lahy izy, ary natao ny anarany Gereshom, fa hoy izy: vahiny no nataoko tany amin’ny tany vahiny.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka lahy"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "natao ny anarany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anarany"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gereshom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hoy izy"
+    },
+    {
+      "surface": "גר",
+      "gloss": "vahiny"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "no nataoko"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tany amin’ny tany"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "vahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T12:54:49.429684122Z",
+  "model": "glm-5.3"
+}

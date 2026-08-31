@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 81,
+  "translation": "Tsy hisy andriamani-bahiny ⟨ao⟩ aminao, ary tsy hiankohoka amin'andriamani-bahiny ianao.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hisy"
+    },
+    {
+      "surface": "בך",
+      "gloss": "⟨ao⟩ aminao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "andriamani-"
+    },
+    {
+      "surface": "זר",
+      "gloss": "bahiny"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "hiankohoka"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "amin'andriamani-"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "bahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:55.892540804Z",
+  "model": "glm-5.3"
+}

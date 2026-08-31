@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "1-chronicles 6:59",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary avy amin'ny firenen'i Ashera ⟨את⟩ Mashala sy ⟨את⟩ tany manodidina azy, ⟨את⟩ Abdona sy ⟨את⟩ tany manodidina azy.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "avy amin'ny firenen'"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ashera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashala"
+    },
+    {
+      "surface": "משל",
+      "gloss": "Mashala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "tany manodidina azy"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tany manodidina azy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Abdona"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "tany manodidina azy"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tany manodidina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:35:37.605788453Z",
+  "model": "glm-5.3"
+}

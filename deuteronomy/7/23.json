@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 7:23",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary Yahveh Elohim anao hanolotra azy eo anatrehanao, ary hampihorohoro azy amin'ny fikorontana lehibe, ambara-paharinganaazy.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "hanolotra azy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anao"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "eo anatrehanao"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "hampihorohoro azy"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "fikorontana"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ambara-paha-"
+    },
+    {
+      "surface": "השמדם",
+      "gloss": "ringanaazy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:43:31.172433046Z",
+  "model": "glm-5.3"
+}

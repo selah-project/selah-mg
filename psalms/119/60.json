@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Nitaingina fa tsy nitarehitra hitandrina ny didinao.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "nitaingina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "nitarehitra"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "hitandrina"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ny didinao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:01.311142573Z",
+  "model": "glm-5.3"
+}

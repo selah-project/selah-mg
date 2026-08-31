@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ny saha izay novidin'i Avraham tamin'ny ⟨את⟩ zanak'i Het; tao no voalevina Avraham sy Sarah vadiny.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "ny saha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "novidin'i"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "tamin'ny ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "tao"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "no voalevina"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "sy Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vadiny"
+    }
+  ],
+  "timestamp": "2026-08-31T12:42:16.292955524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Fa ianao nanao izany mangingina, fa Izaho kosa hanao ⟨את⟩ ity zava-dehibe ity eo anoloan'ny Isiraely rehetra sy eo anoloan'ity masoandro ity.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "nanao izany mangingina"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "mangingina"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "fa Izaho kosa"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ity zava-dehibe ity"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ity zava-dehibe ity"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "eo anoloan'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Isiraely rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "sy eo anoloan'ny"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ity masoandro ity"
+    }
+  ],
+  "timestamp": "2026-08-31T14:32:51.445616108Z",
+  "model": "glm-5.3"
+}

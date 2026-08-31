@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary nentiny teo anatrehan'ny ⟨את⟩ ny tavan'ny mpanjakan'i Moaba izy roa; ary nitoetra tamin'ny mpanjakan'i Moaba izy, nandritra ny andro rehetra nitoeran'i Davida tao amin'ny manda hamehezana.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "nentiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavan'ny mpanjakan'i Moaba"
+    },
+    {
+      "surface": "פני",
+      "gloss": "eo anatrehan'ny tavan'ny"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'i"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "nitoetra"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tamin'ny mpanjakan'i Moaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nandritra ny andro"
+    },
+    {
+      "surface": "היות",
+      "gloss": "nitoeran'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "tao amin'ny manda hamehezana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:25:36.674552709Z",
+  "model": "glm-5.3"
+}

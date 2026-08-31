@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary hoy izaho: Mihainoa azafady, ry lohan'i Yaakov, sy ry mpanapaka tranain'i Yisrael; tsy anananareo va ny hahalala ⟨את⟩ ny fitsarana?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ary hoy izaho"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mihainoa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "lohan'ny"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "sy mpanapaka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranain'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "tsy…va"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "hahalala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitsarana"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "fitsarana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:14:39.414104406Z",
+  "model": "glm-5.3"
+}

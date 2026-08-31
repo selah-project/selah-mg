@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 53,
+  "translation": "Iza no nino ny hentenay? Ary ny sandrin'i Yahveh tamin'iza no nampiharihary?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "nino"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "ny hentenay"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "ary ny sandry"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "no nampiharihary"
+    }
+  ],
+  "timestamp": "2026-08-31T15:18:24.370823762Z",
+  "model": "glm-5.3"
+}

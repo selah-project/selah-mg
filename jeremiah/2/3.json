@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Masina ho an'i Yahveh i Isiraela, voafiry voalohany amin'ny vokany; izay rehetra mibany azy dia manota, loza no ho avy aminy, lazain'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "Masina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "voafiry voalohany"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "amin'ny vokany"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "mibany azy"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "dia manota"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "loza"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "no ho avy"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "lazain'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T15:23:22.562642980Z",
+  "model": "glm-5.3"
+}

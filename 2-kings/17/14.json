@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Tsy nihaino anefa izy, fa nampahery ⟨את⟩ ny hatondrany, tahaka ny hatondran'ny razany, izay tsy nino an'i Yahveh Elohiny.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "nampahery"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny hatondrany"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "ny hatondrany"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "tahaka ny hatondran'"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ny razany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "nino"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohiny"
+    }
+  ],
+  "timestamp": "2026-08-31T14:58:17.355654080Z",
+  "model": "glm-5.3"
+}

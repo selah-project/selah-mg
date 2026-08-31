@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 55,
+  "translation": "Fa tsy ny fisainako no fisainanareo, ary tsy ny lalanareo no lalako — tenin'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "ny fisainako"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "fisainanareo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "ny lalanareo"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "lalako"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "tenin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T15:18:46.605667313Z",
+  "model": "glm-5.3"
+}

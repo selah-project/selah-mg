@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary Yahveh hamova ⟨את⟩ an'i Yehuda ho lovany amin'ny tany masina, ary hisafidy an'i Yeroshalayim indray Izy.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "Ary ... hamova"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "an'i Yehuda"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "ho lovany"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "tany"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "ary hisafidy"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "indray"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "an'i Yeroshalayim"
+    }
+  ],
+  "timestamp": "2026-08-31T16:19:13.768058255Z",
+  "model": "glm-5.3"
+}

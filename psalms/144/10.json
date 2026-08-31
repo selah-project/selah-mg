@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 144,
+  "translation": "Izy no manome famonjena ho an'ny mpanjaka, izay manafaka an'i ⟨את⟩ Davida mpanompony amin'ny sabatra ratsy.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "Izy no manome"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "famonjena"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "ho an'ny mpanjaka"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "izay manafaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mpanompony"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "amin'ny sabatra"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ratsy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:02.798156335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Fa fahavainoana eo anatrehan'i Yahveh ny mivilana, fa ⟨את⟩ ny mahitsy no manana ny fisainana miafinao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "fahavainoana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "ny mivilana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ fa"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ny mahitsy"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "no manana ny fisainana miafinao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:49:04.872312293Z",
+  "model": "glm-5.3"
+}

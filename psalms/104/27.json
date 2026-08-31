@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 104,
+  "translation": "Izy rehetra manantena anao, hanome sakafo amin'ny fotoany.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "izy rehetra"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "manantena"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "hanome"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "sakafo"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "amin'ny fotoany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:08.934848322Z",
+  "model": "glm-5.3"
+}

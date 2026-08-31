@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Nanary ⟨את⟩ ny tranoko aho, nahafoy ⟨את⟩ ny lovako; nomeko tamin'ny tanan'ny fahavalony ⟨את⟩ ny malalan'ny fanahiko.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "Nanary"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tranoko"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ny tranoko"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "nahafoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lovako"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "ny lovako"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nomeko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny malalan'ny fanahiko"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "ny malalan'"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny fanahiko"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "tamin'ny tanan'"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "ny fahavalony"
+    }
+  ],
+  "timestamp": "2026-08-31T15:30:13.661196679Z",
+  "model": "glm-5.3"
+}

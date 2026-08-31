@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary nihery ny fon'i Parao, ka tsy nandefa ⟨את⟩ ny zanak'i Israela izy, araka ny efa nolazain'i Yahveh tamin'ny tanàn'i Moshe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "nihery"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ny fon'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nandefa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanak'i Israela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nolazain'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "tamin'ny tanàn'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:17.579303312Z",
+  "model": "glm-5.3"
+}

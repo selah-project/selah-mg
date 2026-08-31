@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 120,
+  "translation": "Fihirana ho an'ny fiakarana. Tamin'ny fahoriana niantsoiko an'i Yahveh, ka namaly ahy Izy.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Fihirana"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "fiakarana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho an'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "tamin'ny fahoriana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "niantsoiko"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "ka namaly ahy Izy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:07.698305768Z",
+  "model": "glm-5.3"
+}

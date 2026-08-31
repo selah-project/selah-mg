@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 17:25",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary Yishmael zanany dia zaza telo ambin'ny folo taona tamin'ny noforana ⟨את⟩ ny nofony foizy.",
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "Ary Yishmael"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zaza"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "telo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ambin'ny folo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "tamin'ny noforana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny nofony foizy"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nofony"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "foizy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:38:34.022905719Z",
+  "model": "glm-5.3"
+}

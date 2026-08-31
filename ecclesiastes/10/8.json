@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Izay mandady lavaka ho an'azy ao no lavo; ary izay manimba fefy, hanomesan'ny bibilava azy.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "Izay mandady"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "lavaka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ho an'azy ao"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "no lavo"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "ary izay manimba"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "fefy"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "hanomesan'... azy"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ny bibilava"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:52.122493409Z",
+  "model": "glm-5.3"
+}

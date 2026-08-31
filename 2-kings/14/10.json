@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Tena nanafika ⟨את⟩ i Edoma ianao, ka ny fonao nanandratra anao; mivalombony, ka mijanona ao an-tranonao; ary nahoana no manaitra fahoriana ka hianao ho lavo, ianao sy Yehuda miaraka aminao?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "Tena"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "nanafika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Edoma"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoma"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "ka nanandratra anao"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ny fonao"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "mivalombony"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ka mijanona"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "ao an-tranonao"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ary nahoana"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "no manaitra"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "fahoriana"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "ka ho lavo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "sy Yehuda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "miaraka aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:56:52.540740489Z",
+  "model": "glm-5.3"
+}

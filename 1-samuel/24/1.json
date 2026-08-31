@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary Davida niakatra avy any, dia nonina tamin'ny mimanda tao En-Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "niakatra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "משם",
+      "gloss": "avy any"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nonina"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "tamin'ny mimanda"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-08-31T14:24:24.132471611Z",
+  "model": "glm-5.3"
+}

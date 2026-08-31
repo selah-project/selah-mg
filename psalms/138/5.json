@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 138,
+  "translation": "Ary hihira amin'ny lalan'iYahveh izy, fa lehibe ny voninahitr'iYahveh.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "Ary hihira"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "amin'ny lalan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ny voninahitra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:06.916775202Z",
+  "model": "glm-5.3"
+}

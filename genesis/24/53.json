@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "genesis 24:53",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary ny mpanompo nampivoaka fanaka volafotsy sy fanaka volamena ary lamba, ka nomeny an'i Rivka; ary zava-tsoa nomena ho an'ny rahalahiny sy ho an'ny reniny.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "nampivoaka"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "ny mpanompo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "fanaka"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "sy fanaka"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "ובגדים",
+      "gloss": "sy lamba"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nomeny"
+    },
+    {
+      "surface": "לרבקה",
+      "gloss": "an'i Rivka"
+    },
+    {
+      "surface": "ומגדנת",
+      "gloss": "zava-tsoa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nomena"
+    },
+    {
+      "surface": "לאחיה",
+      "gloss": "ho an'ny rahalahiny"
+    },
+    {
+      "surface": "ולאמה",
+      "gloss": "sy ho an'ny reniny"
+    }
+  ],
+  "timestamp": "2026-08-31T12:42:15.201945975Z",
+  "model": "glm-5.3"
+}

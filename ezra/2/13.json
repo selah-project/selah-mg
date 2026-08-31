@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 2:13",
+  "book": "ezra",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Zanak'i Adonikam, enina amby enin-jato sy ⟨enina⟩ amby enimpolo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Zanak'i"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "Adonikam"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enina"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "zato (enin-jato)"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "enimpolo"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "sy enina"
+    }
+  ],
+  "timestamp": "2026-08-31T17:25:40.062541167Z",
+  "model": "glm-5.3"
+}

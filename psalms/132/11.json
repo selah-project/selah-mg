@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 132,
+  "translation": "Nianiana tamin'ny marina Yahveh tamin'i Davida, tsy hiala amin'izany Izy: Avy amin'ny vokatry ny kibonao hitoerako seza ho anao.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Nianiana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "tamin'i Davida"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "amin'ny marina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "hiala"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "amin'izany"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "Avy amin'ny"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "vokatry ny kibonao"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "hitoerako"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "seza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:13.527388097Z",
+  "model": "glm-5.3"
+}

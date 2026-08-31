@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 69,
+  "translation": "Ho an'ny mpivatan-tena, amin'ny Shoshanim, ho an'i Davida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho an'ny mpivatan-tena"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Shoshanim (lilia)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ho an'i Davida"
+    }
+  ],
+  "timestamp": "2026-08-31T18:13:58.687013339Z",
+  "model": "glm-5.3"
+}

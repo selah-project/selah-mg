@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "sy ⟨את⟩ Ashana mbamin'ny tany manodidina azy, ary ⟨את⟩ Bet-Semesh mbamin'ny tany manodidina azy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Ashana"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mbamin'ny ⟨את⟩",
+      "marks": "ny tany manodidina azy"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ny tany manodidina azy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Bet-Semesh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Semesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mbamin'ny ⟨את⟩",
+      "marks": "ny tany manodidina azy"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ny tany manodidina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:35:52.571018818Z",
+  "model": "glm-5.3"
+}

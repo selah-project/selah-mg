@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 145,
+  "translation": "Miaro Yahveh ⟨את⟩ izay tia Azy rehetra, fa ⟨את⟩ ny meloka rehetra kosa dia hafaringany.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Miaro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay tia Azy rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "izay tia Azy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny meloka rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ny meloka"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "hafaringany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:03.904456358Z",
+  "model": "glm-5.3"
+}

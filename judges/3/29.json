@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 3:29",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary namely an'i Moaba ⟨את⟩ izy tamin'izay andro izay, tokony ho iray alina ⟨⟨tahaka⟩⟩ lehilahy, ny tavy rehetra sy ny lehilahy mahery rehetra; ary tsy nisy lehilahy afa-tsy.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "namely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moaba"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "tamin'izay"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "izay"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "tokony ho iray alina"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "alina"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "tavy"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ny rehetra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "afa-tsy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:06:02.312094689Z",
+  "model": "glm-5.3"
+}

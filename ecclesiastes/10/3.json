@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary na mandeha an-dalana aza ny adala, malainy ny sainy, ary lazainy amin'ny rehetra fa adala izy.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ary na"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "an-dalana"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "aza ny adala"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ny sainy"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "malainy"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ary lazainy"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "amin'ny rehetra"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "fa adala"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:29.182581837Z",
+  "model": "glm-5.3"
+}

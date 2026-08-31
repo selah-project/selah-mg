@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Elohim akaiky va Izaho — fambaran'i Yahveh — fa tsy Elohim lavitra?",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "akaiky"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "fambaran'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "lavitra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:33:52.381665181Z",
+  "model": "glm-5.3"
+}

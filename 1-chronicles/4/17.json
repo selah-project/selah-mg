@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 4:17",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary zanak'i Ezrah: Yeter, sy Mered, sy Efer, ary Yalon; ary ⟨zazavavy iray⟩ niteraka an'i Miryama sy ⟨את⟩ Shammay sy ⟨את⟩ Yishbah, rain'i Eshtemoa.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Ary zanaka"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "Ezrah"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "ומרד",
+      "gloss": "sy Mered"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "sy Efer"
+    },
+    {
+      "surface": "וילון",
+      "gloss": "ary Yalon"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ary niteraka ⟨zazavavy iray⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miryama"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Shammay"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Shammay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Yishbah"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "Yishbah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rain'"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    }
+  ],
+  "timestamp": "2026-08-31T17:35:22.402947871Z",
+  "model": "glm-5.3"
+}

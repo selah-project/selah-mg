@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "mba hanavahana eo anelanelan'ny tsy madio sy ny madio, ary eo anelanelan'ny biby azo hanina sy ny biby tsy azo hanina.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "mba hanavahana"
+    },
+    {
+      "surface": "בין",
+      "gloss": "eo anelanelan'ny"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "tsy madio"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy eo anelanelan'ny"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "madio"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ary eo anelanelan'ny"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "biby"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "azo hanina"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy eo anelanelan'ny"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "biby"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "azo hanina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:14:43.680123973Z",
+  "model": "glm-5.3"
+}

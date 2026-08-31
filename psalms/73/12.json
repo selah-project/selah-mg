@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 73,
+  "translation": "Indro, ireto no olon-dratsy, sady tony fo mandrakariva izy, ka efa nahazo harena.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ireto"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "olon-dratsy"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "sady tony fo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mandrakariva"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "efa nahazo"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "harena"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:32.538696735Z",
+  "model": "glm-5.3"
+}

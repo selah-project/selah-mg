@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary ny mpanjaka sy ny vahoaka rehetra nanao sorona teo anatrehan'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ary ny mpanjaka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ny ... rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sorona"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anatrehan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T17:44:06.796354138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Manenjika azy izy ka mandalo soa aman-tsara; lalana tsy alehan'ny tongony mihitsy izy.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "Manenjika azy"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "mandalo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "soa aman-tsara"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "amin'ny tongony"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "aleha"
+    }
+  ],
+  "timestamp": "2026-08-31T15:15:50.982801921Z",
+  "model": "glm-5.3"
+}

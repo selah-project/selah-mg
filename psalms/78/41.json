@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 78:41",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Ary niverina indray izy ka nanandrana an'i El, ary nametra fetra ny Masin'i Isiraely.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "niverina indray izy"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "nanandrana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "ary ny Masin'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "התוו",
+      "gloss": "nametra fetra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:39.892432278Z",
+  "model": "glm-5.3"
+}

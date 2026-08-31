@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 115,
+  "translation": "Yahveh nahatsiaro antsika; hitahy Izy — hitahy ⟨את⟩ ny taranak'Isiraely, hitahy ⟨את⟩ ny taranak'i Aharon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "nahatsiaro antsika"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "hitahy"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "hitahy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny taranak'Isiraely"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taranak'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "hitahy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny taranak'i Aharon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taranak'"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:21.569059852Z",
+  "model": "glm-5.3"
+}

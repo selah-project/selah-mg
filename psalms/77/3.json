@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 77,
+  "translation": "Amin'ny andro fahoriana no nitadiavako an'i Adonay; ny tànako naratra tamin'ny alina, ka tsy mitsahatra; nolaviny ny fahamarinana ny aiko.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "fahoriana"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "nitadiavako"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ny tànako"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tamin'ny alina"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "naratra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "mitsahatra"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "nolaviny"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "ny fahamarinana"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:04.887129647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Raha mitsangana hanohitra anao ny fanahin'ny manapaka, aza mandao ny toeranao; fa ny fandeferana mampitony ny fahadisoana lehibe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "ny manapaka"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "mitsangana"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "hanohitra anao"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "ny toeranao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "mandao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ny fandeferana"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "mampitony"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ny fahadisoana"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "lehibe"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:29.183454644Z",
+  "model": "glm-5.3"
+}

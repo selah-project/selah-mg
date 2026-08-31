@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Ary hanao ⟨את⟩ ny akanjo ambony amin'ny efoda ianao, manga tanteraka avokoa.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny akanjo ambony amin'ny efoda"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "akanjo ambony"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efoda"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "tanteraka avokoa"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "manga"
+    }
+  ],
+  "timestamp": "2026-08-31T13:07:03.823396845Z",
+  "model": "glm-5.3"
+}

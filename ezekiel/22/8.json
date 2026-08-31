@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ny zava-masina (natokana ho ahy) no nolavinanairy (naberan'i), ary ny Sabatako no nolotoanao (namaivananao).",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "zava-masina (natokana ho ahy)"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "naberan'i (nalavina)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sabatako"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Sabatako"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "nolotoanao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:54:14.439856934Z",
+  "model": "glm-5.3"
+}

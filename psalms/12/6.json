@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Noho ny fahavoazan'ny mahantra sy ny fisentoan'ny malahelo — izao hitsangana Aho, hoy Yahveh; hametraka azy amin'ny famonjena ho an'izay miantsoka aminy.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "fahavoazana"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "mahantra"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "fisentoana"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "malahelo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "izao"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "hitsangana"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "hametraka"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "amin'ny famonjena"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "miantsoka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "amininy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:38.462617531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 30:5",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary ny vady roan'i Davida dia lasa babo: Ahinoama ilay Jizreelita, sy Abigayila vadin'i Nabala ilay Karmelita.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "ary ny roa"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "vady"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "an'i Davida"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "lasa babo"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Ahinoama"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "ily Jizreelita"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "sy Abigayila"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vadin'i"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabala"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "ily Karmelita"
+    }
+  ],
+  "timestamp": "2026-08-31T14:27:22.084874600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Aza mandeha aorian'ny eloah hafa ianareo, dia elohin'ny firenena izay manodidina anareo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "aorian'ny"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "eloah"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "hafa"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "dia elohin'ny"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "manodidina anareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:41:55.446124030Z",
+  "model": "glm-5.3"
+}

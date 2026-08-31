@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Aza mihinana amin'ny ra ianareo; aza manao fanandroana, ary aza manao sikidy.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mihinana ianareo"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "manao fanandroana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "manao sikidy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:14.477479175Z",
+  "model": "glm-5.3"
+}

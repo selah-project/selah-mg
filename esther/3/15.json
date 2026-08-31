@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 3:15",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ny mpanondra nivoaka nampiononin'ny tenin'ny mpanjaka, ary ny lalàna nomena tao Shushan ilay tanàna mimanda; ary ny mpanjaka sy Hamana nipetraka hisotro, fa ny tanàna Shushan kosa niverimberina.",
+  "tokens": [
+    {
+      "surface": "הרצים",
+      "gloss": "ny mpanondra"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "nivoaka"
+    },
+    {
+      "surface": "דחופים",
+      "gloss": "nampiononina"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "tamin'ny tenin'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "והדת",
+      "gloss": "ary ny lalàna"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "nomena"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "tao Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "ilay tanàna mimanda"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ary ny mpanjaka"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "sy Hamana"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nipetraka"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "hisotro"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "fa ny tanàna"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "נבוכה",
+      "gloss": "niverimberina"
+    }
+  ],
+  "timestamp": "2026-08-31T17:17:52.109403273Z",
+  "model": "glm-5.3"
+}

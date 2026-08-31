@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary Yahveh nihaino an'i Yechizkiàha ka nahasitrana ⟨את⟩ ny vahoaka.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ary ... nihaino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an'i"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yechizkiàha"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "ka nahasitrana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    }
+  ],
+  "timestamp": "2026-08-31T17:51:55.814576847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary ⟨את⟩ Aharona sy ⟨את⟩ ny zanany no hotehirizinao hitandrina ny asam-pisoronany; ary ny vahiny manakaiky dia hovahana faty.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ary ⟨את⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "no hotehirizinao"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "hitandrina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny asam-pisoronany"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "ny asam-pisoronany"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "ary ny vahiny"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "manakaiky"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "dia hovahana faty"
+    }
+  ],
+  "timestamp": "2026-08-31T13:25:17.707560327Z",
+  "model": "glm-5.3"
+}

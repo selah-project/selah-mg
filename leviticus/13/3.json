@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 13:3",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Dia hitan'ny mpisoro ⟨את⟩ ny ratra eo amin'ny hoditry ny nofo, ary raha miova ho fotsy ny volo ao amin'ny ratra, ary ny endriky ny ratra lalina noho ny hodin'ny nofony, dia ratra habokiana (tsaraat) izany; ka hojerjin'ny mpisoro ilay olona ary holofoiny ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "hitan'ny"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisoro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ratra"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ny ratra"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "eo amin'ny hoditra"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ny nofo"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "ary ny volo"
+    },
+    {
+      "surface": "בנגע",
+      "gloss": "ao amin'ny ratra"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "miova"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ho fotsy"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "ary ny endrika"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ny ratra"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "lalina"
+    },
+    {
+      "surface": "מעור",
+      "gloss": "noho ny hoditra"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ny nofony"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ratra"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "habokiana (tsaraat)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "וראהו",
+      "gloss": "hojerjin'ny mpisoro"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ilay olona"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "holofoiny"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ilay olona)"
+    }
+  ],
+  "timestamp": "2026-08-31T17:58:00.136910007Z",
+  "model": "glm-5.3"
+}

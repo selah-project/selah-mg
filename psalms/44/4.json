@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 44:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Fa tsy tamin'ny sabany no nahazoany ny tany, ary ny sandriny tsy nanavotra azy; fa ny tànanao havanana sy ny sandrinao ary ny famirapiratan'ny tavanao — fa ianao no nankasitraka azy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "בחרבם",
+      "gloss": "tamin'ny sabany"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "nahazoany"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "וזרועם",
+      "gloss": "ary ny sandriny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "nanavotra"
+    },
+    {
+      "surface": "למו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ny tànanao havanana"
+    },
+    {
+      "surface": "וזרועך",
+      "gloss": "ary ny sandrinao"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ary ny... famirapiratana"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "...ny tavanao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa ianao no"
+    },
+    {
+      "surface": "רציתם",
+      "gloss": "nankasitraka azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:56.643778725Z",
+  "model": "glm-5.3"
+}

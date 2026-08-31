@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Sambatra ilay olona tsy isain'i Yahveh ho azy ny faharatsiana, ary tsy misy fitaka ao amin'ny fanahiny.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Sambatra"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ilay olona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "isain'...ho azy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ny faharatsiana"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ary tsy misy"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "ao amin'ny fanahiny"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "fitaka"
+    }
+  ],
+  "timestamp": "2026-08-31T18:35:02.102182568Z",
+  "model": "glm-5.3"
+}

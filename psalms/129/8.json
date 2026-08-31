@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 129,
+  "translation": "Ary tsy hoy ny mandalo: Enga anie ⟨ny⟩ fitahian'i Yahveh aminareo; tamin'ny anaran'i Yahveh no itahianareo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ary tsy"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ny mandalo"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "fitahian'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "aminareo"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "tamin'ny ... no itahianareo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ianareo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "amin'ny anaran'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:36.835645042Z",
+  "model": "glm-5.3"
+}

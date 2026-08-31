@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary ity no lalàn'ny asham: masina masina indrindra ⟨no⟩ izy.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Ary ity"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "lalàn'ny"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "asham"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "masina indrindra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:12:42.280808437Z",
+  "model": "glm-5.3"
+}

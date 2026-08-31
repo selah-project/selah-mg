@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary Yokshan niteraka ⟨את⟩ Sheba sy ⟨את⟩ Dedan; ary ny zanak'i Dedan dia ⟨ny⟩ Ashurim sy Letushim ary Leummim.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Ary Yokshan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheba"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ary ny zanak'i"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "dia ⟨ny⟩"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Ashurim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "sy Letushim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ary Leummim"
+    }
+  ],
+  "timestamp": "2026-08-31T12:41:43.380425605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary Tamara vadin-jananany niterahany ⟨את⟩ Pereta sy ⟨את⟩ Zaraha; dimy nohaban'ny zanak'i Yehoda.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Ary Tamara"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "vadin-jananany"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pereta"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Pereta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Zaraha"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zaraha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "no haban'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehoda"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "dimy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:34:20.920213004Z",
+  "model": "glm-5.3"
+}

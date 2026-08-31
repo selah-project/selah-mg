@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 90,
+  "translation": "Fa ny andronay rehetra nivadika tany amin'ny fahatezeranao, nofaidy ny taonanay toy ny hetsetsena mafana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ny andronay"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "nivadika"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "tany amin'ny fahatezeranao"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "nofaidy"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "ny taonanay"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "toy"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "ny hetsetsena mafana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:03.066554594Z",
+  "model": "glm-5.3"
+}

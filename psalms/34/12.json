@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Avia, ry zanaka, mihainoa ahy; ny fahatahorana an'i Yahveh no hampianariko anareo.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Avia"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ry zanaka"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mihainoa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ny fahatahorana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "hampianariko anareo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:45.924726695Z",
+  "model": "glm-5.3"
+}

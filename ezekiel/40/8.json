@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary namaky ⟨את⟩ ny efitoeran'ny vavahady avy amin'ny trano kianja iray izy.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Ary namaky"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny efitoeran'ny vavahady"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ny efitoera"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ny vavahady"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "avy amin'ny trano"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kianja"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    }
+  ],
+  "timestamp": "2026-08-31T16:03:53.018117707Z",
+  "model": "glm-5.3"
+}

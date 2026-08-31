@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Mandeha andalana iray, ary tonga andalana iray ⟨manaraka⟩; fa ny tany miorina mandrakizay.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "andalana iray"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "Mandeha"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ary andalana iray"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "fa ny tany"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "miorina"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:11.310131623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Izay maty an'i Ahab ao an-tanàna dia hohanin'ny amboa; ary izay maty any an-tsaha dia hohanin'ny voratry ny lanitra.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Izay maty"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "an'i Ahab"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ao an-tanàna"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "hohanin'ny"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "amboa"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "ary izay maty"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "any an-tsaha"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "hohanin'ny"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "voratra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ny lanitra"
+    }
+  ],
+  "timestamp": "2026-08-31T14:49:46.604998325Z",
+  "model": "glm-5.3"
+}

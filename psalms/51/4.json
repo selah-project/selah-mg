@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "Sasao tsara aho amin'ny tsi-fahamarinako, ary dia manadio aho amin'ny fahotako.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "Sasao... aho"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "amin'ny tsi-fahamarinako"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "ary... amin'ny fahotako"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "manadio aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:45.316900651Z",
+  "model": "glm-5.3"
+}

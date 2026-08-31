@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Araka izay hitan'ny tanako tamin'ny fanjakana tsy maninona ⟨⟨anelanelana⟩⟩ sy ny sarin-javatra voasokitra — dia mihoatra noho ny any Yerushalayim sy ny any Shomeron ⟨izy⟩.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Araka izay"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "hitan'ny"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanako"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "tamin'ny fanjakana"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "tsy maninona ⟨⟨anelanelana⟩⟩"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "sy ny sarin-javatra voasokitra"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "mihoatra noho ny any Yerushalayim"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "sy ny any Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-31T15:04:49.948829523Z",
+  "model": "glm-5.3"
+}

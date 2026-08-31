@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Maro no milaza: Iza no hampiseho antsika ny soa? Andriampiakatra ambonintsika ny fahazavan'ny tavanao, ry Yahveh.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Maro"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "no milaza"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Iza"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "no hampiseho antsika"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ny soa"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "Andriampiakatra"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ambonintsika"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ny fahazavana"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ny tavanao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:58.123848419Z",
+  "model": "glm-5.3"
+}

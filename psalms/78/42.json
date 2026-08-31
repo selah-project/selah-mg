@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Tsy nahatsiaro ⟨את⟩ ny tanany izy, ny andro izay nanavotra azy tamin'ny fahavalo ⟨tany amin'ny fanerena⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "nahatsiaro izy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tanany"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ny tanany"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ny andro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "nanavotra azy"
+    },
+    {
+      "surface": "מני",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "צר",
+      "gloss": "fahavalo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:39.892702865Z",
+  "model": "glm-5.3"
+}

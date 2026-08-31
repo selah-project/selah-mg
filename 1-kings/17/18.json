@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ka hoy izy tamin'i Eliyahu: Inona aloha aminay, lehilahy ⟨an'ny⟩ Elohim? Mba hampahatsiahy ⟨את⟩ ny fahadisoako va no efa tonga ianao, sy hahafaty ⟨את⟩ ny zanako?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ka hoy izy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Inona"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aminay"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באת",
+      "gloss": "efa tonga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "T"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "hampahatsiahy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahadisoako"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "ny fahadisoako"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "sy hahafaty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanako"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny zanako"
+    }
+  ],
+  "timestamp": "2026-08-31T14:48:05.376924963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 7:12",
+  "book": "micah",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Amin'izany andro izany dia ho tonga aminao izy, hatramin'i Ashura sy ny tanàna mimanda, ary hatramin'i Mitsrayim ka hatramin'ny renirano, avy amin'ny ranomasina ka hatramin'ny ranomasina, ary avy amin'ny tendrombohitra ka hatramin'ny tendrombohitra.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "ועדיך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ho tonga"
+    },
+    {
+      "surface": "למני",
+      "gloss": "hatramin'i"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashura"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "sy ny tanàna"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "mimanda"
+    },
+    {
+      "surface": "ולמני",
+      "gloss": "ary hatramin'i"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "renirano"
+    },
+    {
+      "surface": "וים",
+      "gloss": "avy amin'ny ranomasina"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ka hatramin'ny ranomasina"
+    },
+    {
+      "surface": "והר",
+      "gloss": "avy amin'ny tendrombohitra"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ka hatramin'ny tendrombohitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:15:31.432645035Z",
+  "model": "glm-5.3"
+}

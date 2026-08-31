@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 74:21",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 74,
+  "translation": "Aza avela hiverina mena ⟨ny⟩ rava; ny malahelo sy ny maloko anie hidera ny anaranao.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "hiverina"
+    },
+    {
+      "surface": "דך",
+      "gloss": "rava"
+    },
+    {
+      "surface": "נכלם",
+      "gloss": "mena"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ny malahelo"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "sy ny maloko"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "hidera"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ny anaranao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:25.458671226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 26:14",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ny maty tsy velona intsony ⟨⟨⟩, ny Refaim tsy hitsangana intsony; ko izany no efa nojerenao sy noravanao, ka nesorinao tsy misy fahatsiarovana azy.",
+  "tokens": [
+    {
+      "surface": "מתים",
+      "gloss": "ny maty"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tsy ... intsony"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "velona"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "ny Refaim"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tsy ... intsony"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "hitsangana"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ko izany no"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "nojerenao"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "sy noravanao azy"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "ka nesorinao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "fahatsiarovana"
+    },
+    {
+      "surface": "למו",
+      "gloss": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:08:32.772460005Z",
+  "model": "glm-5.3"
+}

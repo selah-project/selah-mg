@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Izay natahotra ⟨את⟩ tenin'i Yahveh, avy amin'ny mpanompon'i Parao, nampandositra ny mpanompony sy ⟨את⟩ ny bibifiainy ho any an-trano.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "izay natahotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tenin'i Yahveh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "teny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "avy amin'ny mpanompo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "nampandositra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanompony"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ny mpanompony"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny bibifiainy"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "ny bibifiainy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "an-trano"
+    }
+  ],
+  "timestamp": "2026-08-31T18:25:21.126539441Z",
+  "model": "glm-5.3"
+}

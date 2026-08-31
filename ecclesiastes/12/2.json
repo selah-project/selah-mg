@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "mandra-pahamaizin'ny masoandro sy ny mazava sy ny volana sy ny kintana, ary miverina ny rahona aorian'ny orana.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨re -ny⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "pahamaizin'"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ny masoandro"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "sy ny mazava"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "sy ny volana"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "sy ny kintana"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ary miverina"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "ny rahona"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "aorian'"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ny orana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:18:04.379546273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Fa ny sandrin'ny ratsy fanahy hotorotoro, ary Yahveh no manohana ⟨את⟩ ny marina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "ny sandrin'"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "hotorotoro"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "ary manohana"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ny marina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:58.330833799Z",
+  "model": "glm-5.3"
+}

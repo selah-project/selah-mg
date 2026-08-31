@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "zavagaga tany amin'ny tany Kham, zava-mahatahotra eo ambony ranomasin'ny zozoro.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "zavagaga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tany amin'ny tany"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Kham"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "zava-mahatahotra"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ranomasina"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "an'ny zozoro"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:18.699916136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Mitoana amiko; aza matahotra; fa izay mitady ⟨את⟩ ny aiko dia hitady ⟨את⟩ ny ainao koa; fa mpitandrina amiko ianao.",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "Mitoana"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ amiko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "matahotra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "mitady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny aiko"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "hitady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ainao"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ny ainao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "mpitandrina"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T14:24:32.123602273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Nomeny ny orany ho ranatsara-korana, ary afo lela-mipoetra tany amin'ny taniny.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "Nomeny"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "ny orany"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ho ranatsara-korana"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ary afo"
+    },
+    {
+      "surface": "להבots",
+      "gloss": "lela-mipoetra"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "tany amin'ny taniny"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:16.807463349Z",
+  "model": "glm-5.3"
+}

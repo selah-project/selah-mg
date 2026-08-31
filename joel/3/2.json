@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary ambonin'ny mpanompo sy ambonin'ny mpanompo vavy amin'izany andro izany dia hanafatra ⟨את⟩ ny roahiko Aho.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ary"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "mpanompo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy ambonin'ny"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "mpanompo vavy"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "izany ... izany"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "hanafatra Aho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny roahiko"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "roahiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:10:35.131241212Z",
+  "model": "glm-5.3"
+}

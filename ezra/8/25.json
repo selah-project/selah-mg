@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 8:25",
+  "book": "ezra",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nitsangantsangana taminy aho ⟨את⟩ ny volafotsy sy ⟨את⟩ ny volamena ary ⟨את⟩ ny fitaovana, fanatitra ho an'ny tranon'ny Elohim nentsin'ny mpanjaka sy ny mpanolo-tsainy sy ny mpanapaka ary izay Isiraely rehetra hita tao.",
+  "tokens": [
+    {
+      "surface": "ואשקולה",
+      "gloss": "nitsangantsangana"
+    },
+    {
+      "surface": "להם",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny volafotsy"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ny volafotsy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny volamena"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ny volamena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitaovana"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ny fitaovana"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "fanatitra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon'ny"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ההרימו",
+      "gloss": "nentsin'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "ויעציו",
+      "gloss": "sy ny mpanolo-tsainy"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "sy ny mpanapaka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ... rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "hita tao"
+    }
+  ],
+  "timestamp": "2026-08-31T17:28:18.297072176Z",
+  "model": "glm-5.3"
+}

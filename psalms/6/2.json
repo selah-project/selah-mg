@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Yahveh, aza hananatra ahy amin'ny fahatezeranao, ary aza hanitsaka amiko amin'ny fahaviniranao.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "amin'ny fahatezeranao"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "hananatra ahy"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "amin'ny fahaviniranao"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "hanitsaka amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:10.391238550Z",
+  "model": "glm-5.3"
+}

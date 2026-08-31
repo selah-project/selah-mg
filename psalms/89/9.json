@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Yahveh, Elohim ⟨ny⟩ tafika, iza no mahery tahaka anao, ry Yah? Ary ny fahamarinanao manodidina anao.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ny tafika"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "tahaka anao"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "ary ny fahamarinanao"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "manodidina anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:43.945906911Z",
+  "model": "glm-5.3"
+}

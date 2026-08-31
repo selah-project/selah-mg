@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary hiantso ⟨את⟩ Ahy hianareo ka handeha sy hivavaka amiko, ary hihaino anareo Aho.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "Ary hiantso"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Ahy"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "hianareo ka handeha"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "sy hivavaka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "ary hihaino"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "anareo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:35:21.873684375Z",
+  "model": "glm-5.3"
+}

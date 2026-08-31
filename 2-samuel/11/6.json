@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary Davida naniraka tany amin'i Yoaba hoe: Iraka amiko Uriyahita Hittita. Ary Yoaba naniraka an'i Uriyah ⟨את⟩ ho any amin'i Davida.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Ary ... naniraka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tany amin'i"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoaba"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Iraka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyahita Hittita"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyahita"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hittita"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "Ary ... naniraka"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Uriyah"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    }
+  ],
+  "timestamp": "2026-08-31T14:31:43.703569568Z",
+  "model": "glm-5.3"
+}

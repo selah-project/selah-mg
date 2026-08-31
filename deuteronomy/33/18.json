@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 33:18",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Ary ho an'i Zevulona izy nanao hoe: Mifalia Zevulona amin'ny fivoahanao, ary i Yissaskara ao an-dainao.",
+  "tokens": [
+    {
+      "surface": "ולזבולן",
+      "gloss": "Ary ho an'i Zevulona"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "Mifalia"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulona"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "amin'ny fivoahanao"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "ary i Yissaskara"
+    },
+    {
+      "surface": "באהליך",
+      "gloss": "ao an-dainao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:52:55.873937932Z",
+  "model": "glm-5.3"
+}

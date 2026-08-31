@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 4:40",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary ny isany araka ny fianakaviany sy araka ny taranak'ny razany dia roa arivo sy enin-jato sy telo-polo.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ary ny isany"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "isany"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "araka ny fianakaviany"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "araka ny taranak'ny"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "razany"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "roa arivo"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "sy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "enin-jato"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "sy telo-polo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:25:09.487526774Z",
+  "model": "glm-5.3"
+}

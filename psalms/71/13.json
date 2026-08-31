@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 71:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 71,
+  "translation": "Aoka ho mena-bolo sy ho faty izay manafintohina ny aiko, aoka ho voasaron'ny fanamiana sy ny fahafaham-baraka izay mitady ny loako.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "hoa mena-bolo (ho mena-bolo)"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ho faty"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "izay manafintohina"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "יעטו",
+      "gloss": "aoka ho voasaron-"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ny fanamiana"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "sy ny fahafaham-baraka"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "izay mitady"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ny loako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:11.249761695Z",
+  "model": "glm-5.3"
+}

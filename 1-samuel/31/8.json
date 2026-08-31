@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary nony tamin'ny ampitso, tonga ny Pelishtianina mba hanaisotra ⟨את⟩ ny faty voalahatra, dia nahita ⟨את⟩ an'i Shaol sy ⟨את⟩ ny zanany telo lavo tao an-tendrombohitra Gilboà.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nony"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "tamin'ny ampitso"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Pelishtianina"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "mba hanaisotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny faty voalahatra"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "ny faty voalahatra"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "dia nahita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaol"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny zanany telo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "telo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "lavo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "tao an-tendrombohitra"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboà"
+    }
+  ],
+  "timestamp": "2026-08-31T14:28:01.341117403Z",
+  "model": "glm-5.3"
+}

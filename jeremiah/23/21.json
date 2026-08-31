@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Tsy Izaho no naniraka ⟨את⟩ ireto mpaminany, nefa nandeha izy; tsy niresaka tamin'izy ireo Izaho, ka naminany izy.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "naniraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ireto mpaminany"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "ireto mpaminany"
+    },
+    {
+      "surface": "והם",
+      "gloss": "nefa izy"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "nandeha (niandoha)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "niresaka"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "tamin'izy ireo"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ka izy"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "naminany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:33:52.380953788Z",
+  "model": "glm-5.3"
+}

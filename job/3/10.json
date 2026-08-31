@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Satria tsy niridy ny varavaran'ny kiboko izy, ka tsy nafeniny ny fahoriana hiala tamin'ny masony.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "niridy"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "ny varavaran'ny"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "kiboko"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "ka tsy nafeniny"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ny fahoriana"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "hiala tamin'ny masony"
+    }
+  ],
+  "timestamp": "2026-08-31T18:15:18.333565695Z",
+  "model": "glm-5.3"
+}

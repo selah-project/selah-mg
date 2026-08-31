@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Fa ianao, Yahveh, mamindrafo amiko, ary aitsangano ahy, mba hamalyako azy ireo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Fa ianao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "mamindrafo amiko"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "aitsangano ahy"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "mba hamalyako"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:10.083215425Z",
+  "model": "glm-5.3"
+}

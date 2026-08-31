@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Tsy ho dinihin'ny Elohim ve izany? Fa izy no mahalala ny zava-miafina ⟨amin'ny⟩ fon'ny olona.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "tsy ... ve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ny Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "ho dinihin"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "ny zava-miafina"
+    },
+    {
+      "surface": "לב",
+      "gloss": "fon"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:59.701025609Z",
+  "model": "glm-5.3"
+}

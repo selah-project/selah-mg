@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 10:2",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "hanongilana ny tsy manana amin'ny fitsarana, sy hanesorana ny fitsarana amin'ny malahelo amin'ny vahoakako, hatao babo ny mpitondra vady, ary ⟨את⟩ ny kamboty hangalaina.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "hanongilana"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "amin'ny fitsarana"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ny tsy manana"
+    },
+    {
+      "surface": "ולגזל",
+      "gloss": "sy hanesorana"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ny fitsarana"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "amin'ny malahelo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "amin'ny vahoakako"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "hatao"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "ny mpitondra vady"
+    },
+    {
+      "surface": "שללם",
+      "gloss": "babo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny kamboty"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "ny kamboty"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "hangalaina"
+    }
+  ],
+  "timestamp": "2026-08-31T15:05:14.084697915Z",
+  "model": "glm-5.3"
+}

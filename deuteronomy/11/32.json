@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Arahotoreto hanao ⟨את⟩ ny lalàna rehetra sy ⟨את⟩ ny fitsipika izay ataoko eo anoloanareo androany.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Arahotoreto"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lalàna rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "lalàna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "fitsipika"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "fitsipika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ataoko"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "eo anoloanareo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "androany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:42:57.357864275Z",
+  "model": "glm-5.3"
+}

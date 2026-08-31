@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "izay naneso ny fahavilonao, ry Yahveh; izay naneso ny todin-tongotry ny Mesianao.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "naneso"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "ny fahavilonao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "naneso"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "ny todin-tongotra"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "ny Mesianao (ilay voahosotra)"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:03.025141994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary Obeda niteraka ⟨את⟩ an'i Yishay, ary Yishay niteraka ⟨את⟩ an'i Davida.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "Obeda"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishay"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "Yishay"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    }
+  ],
+  "timestamp": "2026-08-31T17:10:51.987396136Z",
+  "model": "glm-5.3"
+}

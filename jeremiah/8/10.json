@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 8:10",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Koa homeko amin'ny hafa ⟨את⟩ ny vadiny, ary ny tany ho an'ireo handova; fa hatramin'ny kely ka hatramin'ny lehibe izy rehetra mpanao batsa-bola; hatramin'ny mpaminany ka hatramin'ny mpisorona izy rehetra mpanao lainga.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "koa"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "homeko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vadiny"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "ny vadiny"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "amin'ny hafa"
+    },
+    {
+      "surface": "שדותיהם",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "ליורשים",
+      "gloss": "ho an'ireo handova"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "hatramin'ny kely"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ny lehibe"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "izy rehetra"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "mpanao"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "batsa-bola"
+    },
+    {
+      "surface": "מנביא",
+      "gloss": "hatramin'ny mpaminany"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "izy rehetra"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mpanao"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lainga"
+    }
+  ],
+  "timestamp": "2026-08-31T15:26:57.039719491Z",
+  "model": "glm-5.3"
+}

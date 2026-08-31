@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary nilaza tamin'i Mordekay ⟨izy⟩ ⟨את⟩ ny tenin'i Estera.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "Ary nilaza"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "tamin'i Mordekay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tenin'i Estera"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ny tenin'i"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estera"
+    }
+  ],
+  "timestamp": "2026-08-31T17:17:35.702865377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Hoy izaho tamin'i Yahveh: Adonay ianao; tsy misy tsara ho ahy ⟨raha tsy ianao⟩.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Hoy izaho"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "tamin'i Yahveh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "tsara ho ahy"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "⟨raha tsy ianao⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:30.757881333Z",
+  "model": "glm-5.3"
+}

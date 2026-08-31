@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "fa ho ren'izy ireo ⟨את⟩ ny anaranao lehibe sy ⟨את⟩ ny tànao mahery ary ny sandrinao mivelatra, ka ho avy izy ka hivavaka manatrika ity trano ity",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "ho ren'izy ireo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anaranao lehibe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ny anaranao"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tànao mahery"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ny tànao"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "ary ny sandrinao"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "mivelatra"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ho avy"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "hivavaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "manatrika (mankany)"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ity trano ity"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    }
+  ],
+  "timestamp": "2026-08-31T18:04:52.793552949Z",
+  "model": "glm-5.3"
+}

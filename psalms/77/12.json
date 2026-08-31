@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 77,
+  "translation": "Hahatsiaro ny asan'i Yah aho; fa hahatsiaro ny mahagaganao hatramin'ny ela aho.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Hahatsiaro"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "ny asan'ny"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "hahatsiaro"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "hatramin'ny ela"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "ny mahagaganao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:32.828023678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Fa raha mihaino marina ny feony ianao ka manao izay rehetra lazaiko, dia ho fahavalo ny fahavalonao aho, ary hanery ny mpanery anao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mihaino"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "marina"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "ny feony"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ka manao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "lazaiko"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "dia ho fahavalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahavalonao"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ny fahavalonao"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "ary hanery"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanery anao"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "ny mpanery anao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:51.231794853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 25:2",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary ny tanàna dia tafaty fahirano hatramin'ny taona fahiraika ambin'ny folo tamin'ny mpanjaka Tsidkia.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "tafaty"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ny tanàna"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "fahirano"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hatramin'ny"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "fahiraika ambin'ny"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "folo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "tamin'ny mpanjaka"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkia"
+    }
+  ],
+  "timestamp": "2026-08-31T15:02:05.512619418Z",
+  "model": "glm-5.3"
+}

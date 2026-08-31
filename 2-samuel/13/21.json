@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary Dawida mpanjaka nihaino ⟨את⟩ ny teny rehetra ireo, dia tezitra mafy taminy izy.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ary ny mpanjaka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny teny rehetra ireo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "reo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "dia tezitra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mafy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:32:57.515509311Z",
+  "model": "glm-5.3"
+}

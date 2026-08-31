@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 1:20",
+  "book": "ruth",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Fa hoy izy taminy: Aza ataonareo Noomi ahy intsony; ataonareo Mara ahy, fa Shadday no efa nampamaritra ahy fatratra.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Fa hoy izy"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "tamin'ireo vehivavy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "ataonareo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noomi"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "ataonareo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "מרא",
+      "gloss": "Mara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "המר",
+      "gloss": "efa nampamaritra"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "fatratra"
+    }
+  ],
+  "timestamp": "2026-08-31T17:12:23.742864047Z",
+  "model": "glm-5.3"
+}

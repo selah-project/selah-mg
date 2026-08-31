@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ny mpiavonavona nanesy tany ahy fatratra, nefa tsy mba nivadika tamin'ny lalanao aho.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "Ny mpiavonavona"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "hanesy tany ahy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨fatratra⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "fatratra"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "tamin'ny lalanao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "mba nivadika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:02.257330097Z",
+  "model": "glm-5.3"
+}

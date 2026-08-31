@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 54,
+  "translation": "Fa ny vahiny nitsangana tamiko, ary ny mpanimba nitady ny aiko; tsy nanendre an'i Elohim eo anatrehany izy. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ny vahiny"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "nitsangana"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "ary ny mpanimba"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "nitady"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nanendre"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "an'i Elohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "eo anatrehany"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:31.048842652Z",
+  "model": "glm-5.3"
+}

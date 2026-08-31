@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary Izy hitsara ⟨את⟩ tetoeram-pirenena amin'ny fahamarinana, hitsara ny firenena amin'ny fahitsiana.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Ary Izy"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "hitsara"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tetoeram-pirenena"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "amin'ny fahamarinana"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "hitsara"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ny firenena"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "amin'ny fahitsiana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:13.021809737Z",
+  "model": "glm-5.3"
+}

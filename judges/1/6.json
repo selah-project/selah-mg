@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary Adoni-Bezek nandositra, ka nanenjika azy ireo izy ireo ka nahatratra azy, dia nanapa ⟨את⟩ ny rantsan-tànany sy ny rantsan-tongony.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "Ary ... nandositra"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "ka nanenjika"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "ka nahatratra azy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "Adoni-Bezek"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "dia nanapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rantsan-tànany sy ny rantsan-tongony"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "ny rantsan-"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tànany"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "sy ny rantsan-tongony"
+    }
+  ],
+  "timestamp": "2026-08-31T14:04:36.602983050Z",
+  "model": "glm-5.3"
+}

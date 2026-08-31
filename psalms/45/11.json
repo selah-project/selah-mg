@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 45,
+  "translation": "Mihainoa, ry zazavavy, ary jereo, ary ampitomboy ny sofinao; ary aza tsaraintso ny olonao sy ny tranon'ny rainao.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Mihainoa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ry zazavavy"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "ary jereo"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "ary ampitomboy"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ny sofinao"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "ary aza tsaraintso"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ny olonao"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "sy ny trano"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ny rainao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:01.815075990Z",
+  "model": "glm-5.3"
+}

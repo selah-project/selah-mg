@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary ⟨את⟩ ny tavin'ny fanatitra fahotana no hataony fanitra eo ambonin'ny alitara.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ary ⟨את⟩",
+      "marks": "ny tavin'ny fanatitra fahotana"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "tavy"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ny fanatitra fahotana"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "hataony fanitra"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "eo ambonin'ny alitara"
+    }
+  ],
+  "timestamp": "2026-08-31T13:17:58.509280367Z",
+  "model": "glm-5.3"
+}

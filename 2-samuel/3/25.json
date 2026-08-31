@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Fantatrao Avner zanak'i Ner fa tonga izy hampilatsaka anao, ary hahalala ny fivoahananao sy ny fidiranao, ary hahalala ⟨את⟩ izay rehetra ataonao.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "fantatrao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "hampilatsaka anao"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "ary hahalala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fivoahananao"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "ny fivoahananao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny fidiranao"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "ny fidiranao"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "ary hahalala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ataonao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:29:20.682075399Z",
+  "model": "glm-5.3"
+}

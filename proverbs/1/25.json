@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 1:25",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Fa nanamavo ny tolo-kevitra rehetro ianareo, ary tsy nety nandray ny fananaranako.",
+  "tokens": [
+    {
+      "surface": "ותפרעו",
+      "gloss": "fa nanamavo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "ny tolo-kevitra"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "ary ny fananaranako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "nety nandray"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:47.662088805Z",
+  "model": "glm-5.3"
+}

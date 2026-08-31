@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Tia ⟨את⟩ Yahveh ianareo rehetra, ry olona masina; mahatoky Yahveh amin'ny fitoeran-teny, ka mandray soa be dia be izy ilay manao fiavonavonana.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "Tia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ianareo rehetra"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ry olona masina"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "mahatoky"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "Yahveh (mitandrina)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "amin'ny fitoeran-teny"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "ka mandray soa be dia be"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨mandrafitra⟩"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "be dia be"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "manao"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "fiavonavonana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:58.988570434Z",
+  "model": "glm-5.3"
+}

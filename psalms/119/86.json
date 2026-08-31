@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ny didinao rehetra dia fahatokiana ⟨⟨no tsy maintsy⟩⟩; amin'ny lainga no nanenjika ahy izy; ampio ahy.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ny didinao"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "fahatokiana"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "amin'ny lainga"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "nanenjika ahy"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "ampio ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:25.898060664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Ary nampifanaraka ⟨את⟩ ny efitra dimy ho azy manokana, sy ⟨את⟩ ny efitra enina ho azy manokana.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "Ary nampifanaraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny efitra dimy"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "dimy"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ny efitra"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ho azy manokana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny efitra enina"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enina"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ny efitra"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ho azy manokana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:16.527567250Z",
+  "model": "glm-5.3"
+}

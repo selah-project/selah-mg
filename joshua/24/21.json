@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary hoy ny vahoaka tamin'i Yehoshoa: Tsia; fa ⟨את⟩ Yahveh no hanompoantsika.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "no hanompoantsika"
+    }
+  ],
+  "timestamp": "2026-08-31T14:03:42.211207433Z",
+  "model": "glm-5.3"
+}

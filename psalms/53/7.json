@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 53:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 53,
+  "translation": "Iza no hanome avy amin'i Tsiyona ny famonjena ny Isiraely? Rehefa miverina ny fahababoana ny olony Elohim, dia hifaly Yaakov, hisaotra ny Isiraely.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Iza"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "no hanome"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "avy amin'i Tsiyona"
+    },
+    {
+      "surface": "ישעות",
+      "gloss": "ny famonjena"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ny Isiraely"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "miverina"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ny fahababoana"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ny olony"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "hifaly"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "hisaotra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ny Isiraely"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:45.736786656Z",
+  "model": "glm-5.3"
+}

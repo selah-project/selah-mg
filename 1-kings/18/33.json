@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary nandainga ny hazo ⟨את⟩ izy, ary namboatra somby ilay omby tamin'ny ⟨את⟩, ary nametraka azy teo ambonin'ny hazo izy.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "nandainga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny hazo"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ny hazo"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "namboatra somby"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay omby"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ilay omby"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "nametraka"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo ambonin'ny"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "hazo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:48:23.927048196Z",
+  "model": "glm-5.3"
+}

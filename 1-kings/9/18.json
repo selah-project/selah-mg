@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary ⟨את⟩ i Baalat sy ⟨את⟩ i Tamar any an-efitra, ao amin'ny tany.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ary ⟨את⟩",
+      "marks": "Baalat"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baalat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "any an-efitra"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ao amin'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:42:46.177044909Z",
+  "model": "glm-5.3"
+}

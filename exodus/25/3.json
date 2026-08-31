@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary ity no fanomezana ⟨את⟩ izay halalanareo avy aminy: volamena sy volafotsy ary varahina.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Ary ity"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "no fanomezana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "halalanareo"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ avy aminy",
+      "marks": "avy aminy (amin'ireo olona)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "sy volafotsy"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ary varahina"
+    }
+  ],
+  "timestamp": "2026-08-31T18:28:12.584529890Z",
+  "model": "glm-5.3"
+}

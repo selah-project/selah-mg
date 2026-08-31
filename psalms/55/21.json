@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 55,
+  "translation": "Nanentana ny tànany tamin'izay mpandry am-pihavanana aminy izy; nandoto ny fanekeny.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "nanentana"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ny tànany"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "tamin'izay mpandry am-pihavanana aminy"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "nandoto"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ny fanekeny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:10.098162243Z",
+  "model": "glm-5.3"
+}

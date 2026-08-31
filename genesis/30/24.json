@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary nanao ny anarany hoe Yosef izy, ka nanao hoe: Yampeho amin'ny zazalahy hafa indray Yahveh.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anarany"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "Yampeho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aho"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zazalahy"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "hafa indray"
+    }
+  ],
+  "timestamp": "2026-08-31T12:44:12.309863193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary namory ⟨את⟩ ny mpanapaka rehetra Isiraely, sy ny mpisorona, ary ny Levita.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "namory"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanapaka rehetra Isiraely"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mpanapaka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "sy ny mpisorona"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ary ny Levita"
+    }
+  ],
+  "timestamp": "2026-08-31T17:40:54.905368924Z",
+  "model": "glm-5.3"
+}

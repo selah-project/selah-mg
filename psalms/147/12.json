@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 147,
+  "translation": "Mankalaza an'i Yeroshalayim ⟨את⟩ Yahveh; midera ny Elohim-nao, Ziona.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Mankalaza"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "an'i Yeroshalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "midera"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ny Elohim-nao"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ziona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:35.633134922Z",
+  "model": "glm-5.3"
+}

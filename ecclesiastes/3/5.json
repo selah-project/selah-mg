@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Fotoana hitoraka vato, ary fotoana hanangona vato; fotoana hisefoana, ary fotoana hialàna amin'ny fisefoana.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "fotoana"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "hitoraka"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "vato"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ary fotoana"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "hanangona"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "vato"
+    },
+    {
+      "surface": "עת",
+      "gloss": "fotoana"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "hisefoana"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ary fotoana"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "hialàna"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "amin'ny fisefoana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:16:47.814494087Z",
+  "model": "glm-5.3"
+}

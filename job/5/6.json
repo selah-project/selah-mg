@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 5:6",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Fa tsy avy amin'ny vovoka no mivoaka ny faharatsiana, ary tsy avy amin'ny tany no mitombo ny fahoriana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "mivoaka"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "avy amin'ny vovoka"
+    },
+    {
+      "surface": "און",
+      "gloss": "ny faharatsiana"
+    },
+    {
+      "surface": "ומאדמה",
+      "gloss": "avy amin'ny tany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "mitombo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ny fahoriana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:00:28.989848985Z",
+  "model": "glm-5.3"
+}

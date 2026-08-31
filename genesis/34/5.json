@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ary Yaakov dia nandre fa nandoto an'i Dinah zanakavavy izy, ary ny zanany lahy dia ⟨את⟩ teo amin'ny biby fiompy tany an-tsaha; ary nangina Yaakahv ⟨raha⟩ ny anarana — hoe Yaakov — mandra-pihavinany.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Ary Yaakov"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nandre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nandoto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Dinah"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "zanakavavy"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ary ny zanany lahy"
+    },
+    {
+      "surface": "היו",
+      "gloss": "dia teo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ teo amin'ny"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "biby fiompy"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "tany an-tsaha"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "ary nangina"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "באם",
+      "gloss": "pihavinany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:55:39.351358737Z",
+  "model": "glm-5.3"
+}

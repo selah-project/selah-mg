@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary tsy hihinja sakafo masina na inona na iza vahiny; ny mpivady monina ao amin'ny mpisorona sy ny mpivady karama, tsy hihinja sakafo masina.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "na inona na iza"
+    },
+    {
+      "surface": "זר",
+      "gloss": "vahiny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hihinja"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sakafo masina"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "mpivady monina"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "sy ny mpivady karama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hihinja"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "sakafo masina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:18:55.469039624Z",
+  "model": "glm-5.3"
+}

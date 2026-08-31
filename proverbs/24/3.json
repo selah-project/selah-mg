@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Amin'ny fahendrena no ⟨misy⟩ trano ⟨naorina⟩, ary amin'ny fahalalana no ⟨isy⟩ iononana.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "Amin'ny fahendrena"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "⟨naorina⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "ary amin'ny fahalalana"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "⟨isy⟩ iononana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:56:19.439586045Z",
+  "model": "glm-5.3"
+}

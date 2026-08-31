@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Nitsapa ny foko ianao; notsidihanao tamin'ny alina; nadiovanao toy ny metaly aho — tsy hitanao na inona na inona; ny hevitra ratsy nataoko tsy mandalo ny vavako.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "Nitsapa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "notsidihanao"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tamin'ny alina"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "nadiovanao toy ny metaly aho"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "hitanao na inona na inona"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "ny hevitra ratsy nataoko"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "mandalo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ny vavako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:59.092134125Z",
+  "model": "glm-5.3"
+}

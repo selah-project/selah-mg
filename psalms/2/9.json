@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Hanapaka azy ⟨את⟩ amin'ny tehim-by izy, ary ho tonga vatofotsy mpamorona no tapahanao maro anaka.",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "hanapaka\/hampanjavozavo azy"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "amin'ny tehina"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "vy"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "toa ny fanaka"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "mpamorona"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "ho tapahanao maro anaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:35.894279202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 135,
+  "translation": "Fa Yah no nifidin'i Yaakov ho an'i teny, Isiraely ho fananany manokana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "nifidy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho an'i teny"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "ho fananany manokana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:50.627301091Z",
+  "model": "glm-5.3"
+}

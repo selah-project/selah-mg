@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 146,
+  "translation": "Izay manao ⟨את⟩ ny lanitra sy ⟨את⟩ ny tany, ⟨את⟩ ny ranomasina sy ⟨את⟩ izay rehetra ao aminy; Izay mitandrina ny fahamarinana mandrakizay:",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "manao"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "sy ny tany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ranomasina"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ny ranomasina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "izay rehetra ao aminy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ao aminy"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "mandrakizay mitandrina"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ny fahamarinana"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:22.118799835Z",
+  "model": "glm-5.3"
+}

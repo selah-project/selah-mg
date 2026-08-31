@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 33:3",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Antsoy Ahy, dia hamaly anao Aho, ary hampahafantatra anao zava-dehibe sy sarotra mahalala, izay fantatrao tsy akory.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Antsoy"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Ahy"
+    },
+    {
+      "surface": "ואענך",
+      "gloss": "dia hamaly anao Aho"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "ary hampahafantatra anao"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "zava-dehibe"
+    },
+    {
+      "surface": "ובצרות",
+      "gloss": "sarotra mahalala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "fantatrao ... akory"
+    }
+  ],
+  "timestamp": "2026-08-31T15:38:03.350427171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Tsy hamaly lo ianao, ary tsy hitahy fahatezerana ⟨את⟩ ny taranak'ny vahoakanao; fa tia ny namanao hoatra ny tenanao ianao; izaho no Yahveh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "hamaly lo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "hitahy fahatezerana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny taranak'ny vahoakanao"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny taranaky"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ny vahoakanao"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "fa tia"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "ny namanao"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "hoatra ny tenanao"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:17.557902296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "Ary ankehitriny, inona no andrasako, ry Adonay? Inanao no fanantenana ⟨no ananako⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ary ankehitriny"
+    },
+    {
+      "surface": "מה",
+      "gloss": "inona"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "no andrasako"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ry Adonay"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "fanantenana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Inanao"
+    },
+    {
+      "surface": "היא",
+      "gloss": "no ananako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:41.178274137Z",
+  "model": "glm-5.3"
+}

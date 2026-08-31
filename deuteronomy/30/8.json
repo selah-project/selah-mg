@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary hianao kosa hiverina ka hihaino ny feon'i Yahveh, ary hanao ⟨את⟩ ny didy rehetra izay andidiako anao androany.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "hianao kosa"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "hiverina"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "ka hihaino"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ny feon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ary hanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny didy rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "ny didy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "andidiko anao"
+    },
+    {
+      "surface": "היום",
+      "gloss": "androany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:51:04.276793714Z",
+  "model": "glm-5.3"
+}

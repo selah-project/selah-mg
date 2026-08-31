@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Fa ny olona be fanomezana mibitsika zava-tsoa, ary izy hitsangana amin'ny zava-tsoa.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "Fa ny olona be fanomezana"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "zava-tsoa"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "mibitsika"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ary izy"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "zava-tsoa"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "hitsangana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:10:55.513640403Z",
+  "model": "glm-5.3"
+}

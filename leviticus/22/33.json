@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Izay nampivoaka anareo avy tamin'ny tany Mitsrayim mba ho Elohim ho anareo; Izaho Yahveh.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "Izay nampivoaka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "avy tamin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "mba ho"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:18:58.238146573Z",
+  "model": "glm-5.3"
+}

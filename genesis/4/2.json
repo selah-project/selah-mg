@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary niantraika hiteraka indray izy, ⟨את⟩ rahalahiny, dia ⟨את⟩ Hevel; ary Hevel nandry ondry, fa Kayina mpanao tao tamin'ny tany.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "niantraika"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "hiteraka indray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rahalahiny"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "rahalahiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ary"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "nandry ondry"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ondry"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "fa Kayina"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨nanjary⟩"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mpanao tao"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:27:20.964955881Z",
+  "model": "glm-5.3"
+}

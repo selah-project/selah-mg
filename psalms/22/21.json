@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Vonjeo tsy ho amin'ny sabatra ny aiko; ny aiko tokana ⟨avy amin'ny⟩ tàn'ny amboa.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "Vonjeo"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "tsy ho amin'ny sabatra"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "⟨avy amin'ny⟩ tàn'ny"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "amboa"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "ny aiko tokana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:46.256437049Z",
+  "model": "glm-5.3"
+}

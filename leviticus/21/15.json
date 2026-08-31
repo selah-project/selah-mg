@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary tsy hahalala taranany eo amin'ny olony izy; fa Izaho Yahveh no manamasina azy.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "hahalala (halala)"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "taranany"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "eo amin'ny olony"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "no manamasina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:33.665880785Z",
+  "model": "glm-5.3"
+}

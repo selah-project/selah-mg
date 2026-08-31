@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 61,
+  "translation": "Fa ianao efa natao fialokalana ahy, tilikambo mahery noho ny fahavalo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "היית",
+      "gloss": "efa natao"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "fialokalana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "tilikambo"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "noho ny"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fahavalo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:29.778222629Z",
+  "model": "glm-5.3"
+}

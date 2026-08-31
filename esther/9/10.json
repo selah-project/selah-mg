@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Folo lahy zanak'i Hamana, zanak'i Hamedata, fahavilon'ny Jiosy, no novonoiny; fa tamin'ny babo dia tsy nanitatra ⟨את⟩ ny tànany izy.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "Folo lahy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hemana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamedata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "fahavilon'ny"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Jiosy"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "novonoiny"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "fa tamin'ny babo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "nanitatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tànany"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ny tànany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:19:21.503040022Z",
+  "model": "glm-5.3"
+}

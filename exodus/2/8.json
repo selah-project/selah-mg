@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary hoy ny zanakavavin'i Parao taminy: Mandehana. Dia lasa ny zazavavy ka niantso ⟨את⟩ ny renin'ilay zaza.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "לה",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanakavavin'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Mandehana"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "lasa"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "ny zazavavy"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny renin'ilay zaza"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ny renin'ilay zaza"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ilay zaza"
+    }
+  ],
+  "timestamp": "2026-08-31T12:54:17.527644621Z",
+  "model": "glm-5.3"
+}

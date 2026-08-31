@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ilay voahevitra hiderana no hiantsoiko, dia Yahveh, ka hovonjena aho amin'ny fahavalo.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "voahevitra hiderana"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "hiantsoiko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "fahavalo"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "hovonjena aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:05.600947455Z",
+  "model": "glm-5.3"
+}

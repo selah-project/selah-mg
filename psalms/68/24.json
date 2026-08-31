@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 68:24",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 68,
+  "translation": "Mba hanjazava ny tongotrao amin'ny ra, ary ny lelan'ny alikanao amin'ny ra avy amin'ny fahavalo — avy amin'ireo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "mba"
+    },
+    {
+      "surface": "תמחץ",
+      "gloss": "hanjazava"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ny tongotrao"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "amin'ny ra"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lela"
+    },
+    {
+      "surface": "כלביך",
+      "gloss": "ny alikanao"
+    },
+    {
+      "surface": "מאיבים",
+      "gloss": "avy amin'ny fahavalo"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "avy amin'ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:40.654369840Z",
+  "model": "glm-5.3"
+}

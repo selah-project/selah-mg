@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 95,
+  "translation": "Fa El lehibe i Yahveh, ary Mpanjaka lehibe ambonin'ny andriamana rehetra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ary Mpanjaka"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "andriamana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:25.509753022Z",
+  "model": "glm-5.3"
+}

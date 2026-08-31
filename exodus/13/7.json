@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Mazoto no hoohanina nandritra ny fito andro, ary tsy hiseho aminao zaka efa natsatsahina, ary tsy hiseho aminao masirasira amin'ny faritra rehetrao.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "Mazoto"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "no hoohanina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fito andro"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "fito"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "hiseho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "zaka efa natsatsahina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "hiseho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "masirasira"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny faritra rehetrao"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "faritra rehetrao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:59:49.049246088Z",
+  "model": "glm-5.3"
+}

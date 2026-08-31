@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 14:14",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary Yahveh hampitsangana mpanjaka ho azy amin'ny Isiraely, izay hotevoziny ⟨את⟩ ny taranak'i Yarovama; androany izao — ary inona moa, na dia izao aza.",
+  "tokens": [
+    {
+      "surface": "והקים",
+      "gloss": "hampitsangana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "hotevoziny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny taranak'i Yarovama"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taranaky"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovama"
+    },
+    {
+      "surface": "זה",
+      "gloss": "androany"
+    },
+    {
+      "surface": "היום",
+      "gloss": "izao"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ary inona moa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na dia"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "izao aza"
+    }
+  ],
+  "timestamp": "2026-08-31T14:46:30.940858628Z",
+  "model": "glm-5.3"
+}

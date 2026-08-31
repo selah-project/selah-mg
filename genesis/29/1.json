@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Dia nandray ny tongony i Yaakov ka nandeha nankany amin'ny tany ⟨an'ny⟩ zanaky ny Atsinanana.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "nandray"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ny tongony"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ka nandeha"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "nankany amin'ny tany"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanaky"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ny Atsinanana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:54:58.278112553Z",
+  "model": "glm-5.3"
+}

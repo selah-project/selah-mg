@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary ny rainareo nbaiko fitaka ahy, ka niova ⟨את⟩ ny karamako impolo ambiny folo; nefa tsy navelan'i Elohim hanao loza amiko izy.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "Ary ny rainareo"
+    },
+    {
+      "surface": "התל",
+      "gloss": "nbaiko fitaka"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "ka niova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny karamako"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "ny karamako"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "folo"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "impolo ambiny"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nefa tsy"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "navelan'"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "hanao loza"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T12:46:08.100482045Z",
+  "model": "glm-5.3"
+}

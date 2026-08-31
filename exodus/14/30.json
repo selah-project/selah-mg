@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary Yahveh namonjy ⟨את⟩ Yisraely tamin'izay andro izay tamin'ny tànan'i Mitsrayim; ary hitan'i Yisraely ⟨את⟩ Mitsrayim efa maty teo amoron'ny ranomasina.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "Ary ... namonjy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraely"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraely"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tamin'ny tànan'i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ary hitan'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מת",
+      "gloss": "efa maty"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "amoron'ny"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ranomasina"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:56.477433917Z",
+  "model": "glm-5.3"
+}

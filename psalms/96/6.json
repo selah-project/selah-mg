@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 96,
+  "translation": "Voninahitra sy fahalehibeazana eo anatrehany; hery sy famirapiratana ao amin'ny fitoerany masina.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "fahalehibeazana"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "sy voninahitra"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "eo anatrehany"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hery"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "sy famirapiratana"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "ao amin'ny fitoerany masina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:27.927197847Z",
+  "model": "glm-5.3"
+}

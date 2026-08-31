@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 29:13",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary Adonay nanao hoe: Satria ity firenena ity manatona amin'ny vavany, ary amin'ny molony no mankalaza Ahy, fa ny fony ⟨efa⟩ lavitra amiko; ka ny fahatahorana Ahy dia ⟨את⟩ didin'olombelona nampianarina fotsiny.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary ... nanao hoe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Satria"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "manatona"
+    },
+    {
+      "surface": "העם",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity ... ity"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "amin'ny vavany"
+    },
+    {
+      "surface": "ובשפתיו",
+      "gloss": "ary amin'ny molony"
+    },
+    {
+      "surface": "כבדוני",
+      "gloss": "mankalaza Ahy"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "fa ny fony"
+    },
+    {
+      "surface": "רחק",
+      "gloss": "lavitra"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ka tonga"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "ny fahatahorany"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ Ahy",
+      "marks": "ny fahatahorana Ahy"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "didin'"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "olombelona"
+    },
+    {
+      "surface": "מלמדה",
+      "gloss": "nampianarina fotsiny"
+    }
+  ],
+  "timestamp": "2026-08-31T15:11:21.577335278Z",
+  "model": "glm-5.3"
+}

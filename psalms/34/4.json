@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Manandratà an'i Yahveh ⟨את⟩ amiko, ary andrakentsika miaraka ny anarany.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Manandratà"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ amiko"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "andrakentsika"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "miaraka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:04.610671545Z",
+  "model": "glm-5.3"
+}

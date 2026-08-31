@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 20:26",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary aza miakatra amin'ny tohatra ho eo amin'ny alitarako, mba tsy ho hita eo ny fahamenaranao.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ary aza"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "miakatra"
+    },
+    {
+      "surface": "במעלת",
+      "gloss": "amin'ny tohatra"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho eo amin'ny"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "alitarako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ho hita"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "ny fahamenaranao"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "eo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:02:26.983848530Z",
+  "model": "glm-5.3"
+}

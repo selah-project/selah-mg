@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 18:51",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Mandrefy famonjena lehibe ho an'ny mpanjakany izy, sy manao hesed ho an'ny Mesiany, ho an'i Davida sy ny taranany mandrakizay.",
+  "tokens": [
+    {
+      "surface": "מגדל",
+      "gloss": "mandrefy lehibe"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "famonjena"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "ho an'ny mpanjakany"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "sy manao"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "למשיחו",
+      "gloss": "ho an'ny Mesiany"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ho an'i Davida"
+    },
+    {
+      "surface": "ולזרעו",
+      "gloss": "sy ny taranany"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "⟨mandrakizay⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:07.415519088Z",
+  "model": "glm-5.3"
+}

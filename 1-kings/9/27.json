@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 9:27",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary Hiram naniraka tao anaty ny sambo-fiara ⟨את⟩ ny mpanompony, lehilahy tamin'ny sambo mahay ny ranomasina, miaraka amin'ny mpanompon'i Shelomoh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "naniraka"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "באני",
+      "gloss": "tao anaty ny sambo-fiara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanompony"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ny mpanompony"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "lehilahy tamin'ny"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "mahary"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ny ranomasina"
+    },
+    {
+      "surface": "עם",
+      "gloss": "miaraka amin'ny"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mpanompon'i"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    }
+  ],
+  "timestamp": "2026-08-31T14:43:41.410938695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary ny mpanjaka sy ny vahoaka rehetra izay ⟨את⟩ miaraka aminy dia tonga sasatra, ka niala sasatra teo izy.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ny ... rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ miaraka aminy"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "sasatra"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "niala sasatra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "teo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:34:47.532380100Z",
+  "model": "glm-5.3"
+}

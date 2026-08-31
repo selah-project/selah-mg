@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary hoy Yahveh tamin'i Moshe: Hatramin'ny rahoviana no mandà tsy hitandrina ny didiko sy ny lalàko?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Hatramin'ny"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "rahoviana"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "no mandà"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "tsy hitandrina"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ny didiko"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "sy ny lalàko"
+    }
+  ],
+  "timestamp": "2026-08-31T13:00:28.526356169Z",
+  "model": "glm-5.3"
+}

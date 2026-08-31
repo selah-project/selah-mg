@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary natolotr'Elohim ⟨את⟩ ⟨azy ireo⟩ tao amin'ny habakabakan'ny lanitra, hanazava ny tany.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ary natolotr'Elohim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨azy ireo⟩",
+      "marks": "azy ireo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "tao amin'ny habakabaka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "hanazava"
+    },
+    {
+      "surface": "על",
+      "gloss": "ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:14.474340725Z",
+  "model": "glm-5.3"
+}

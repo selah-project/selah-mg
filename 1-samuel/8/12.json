@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 8:12",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "sy hanendry ho azy ho lefito arivo sy lefito dimam-polo, sy hanolo ny sahasany sy jinjany, ary hanamboatra ny fitaovam-piadiany sy ny fitaovan'ny kalesiny.",
+  "tokens": [
+    {
+      "surface": "ולשום",
+      "gloss": "sy hanendry"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ho lefito"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "arivo"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "sy lefito"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "dimam-polo"
+    },
+    {
+      "surface": "ולחרש",
+      "gloss": "sy hanolo"
+    },
+    {
+      "surface": "חרישו",
+      "gloss": "ny sahasany"
+    },
+    {
+      "surface": "ולקצר",
+      "gloss": "sy hanjinja"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "ny jinjany"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ary hanamboatra"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ny fitaovam-"
+    },
+    {
+      "surface": "מלחמתו",
+      "gloss": "fiadiany"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "sy ny fitaovan'ny"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "kalesiny"
+    }
+  ],
+  "timestamp": "2026-08-31T14:16:15.611154608Z",
+  "model": "glm-5.3"
+}

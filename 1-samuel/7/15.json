@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary Shemuela no nanjakan'ny fitsarana tao amin'i Yisraela ⟨את⟩ nandritra ny andro rehetra niainany.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "nanjakan'ny fitsarana"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny...rehetra"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "nandritra ny andro"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "niainany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:16:07.415218616Z",
+  "model": "glm-5.3"
+}

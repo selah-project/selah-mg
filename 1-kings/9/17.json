@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary Shelomoh nanao ⟨את⟩ i Gezer sy ⟨את⟩ i Beit-Horon ambany.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Beit-Horon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "ambany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:42:46.176726686Z",
+  "model": "glm-5.3"
+}

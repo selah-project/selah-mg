@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 86,
+  "translation": "Tondrio ny sofinao, ry Yahveh, ny fivavahako, ary henoy ny feon'ny fifonako.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Tondrio ny sofinao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ny fivavahako"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "ary henoy"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ny feon'ny"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "fifonako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:01.208356923Z",
+  "model": "glm-5.3"
+}

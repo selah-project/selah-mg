@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Yahveh — ao amin'ny tempoly masiny; Yahveh — any an-danitra no misy ny seza fiandrianany; ny masony mijery, ny tavorony manadinadin ny zanak'olombelona.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "ao amin'ny tempoly"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "masiny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "any an-danitra"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "no misy ny seza fiandrianany"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ny masony"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "mijery"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "ny tavorony"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "manadinadin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny zanak'"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olombelona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:48.646350867Z",
+  "model": "glm-5.3"
+}

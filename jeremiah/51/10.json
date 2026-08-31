@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 51:10",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "Efa nampivoaka ⟨את⟩ ny fahamarinantsika Yahveh; avia, ary andao isika hilaza ao Ziona ⟨את⟩ ny asan'i Yahveh Elohinay.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "nampivoaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahamarinantsika"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "ny fahamarinantsika"
+    },
+    {
+      "surface": "באו",
+      "gloss": "avia"
+    },
+    {
+      "surface": "ונספרה",
+      "gloss": "ary andao hilaza"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ao Ziona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny asa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ny asa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohinay"
+    }
+  ],
+  "timestamp": "2026-08-31T15:46:41.987976760Z",
+  "model": "glm-5.3"
+}

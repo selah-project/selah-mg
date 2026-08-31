@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 90,
+  "translation": "Aoka hiseo amin'ny mpanomponao ny asanao, sy ny voninahitrao amin'ny zanany.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Aoka hiseo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "mpanomponao"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "ny asanao"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "sy ny voninahitrao"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "zanany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:24.522974973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 16:1",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Tamin'ny taona fahafito ambin'ny folo tamin'ny nanjakan'i Pekah zanak'i Remaljahu, dia nanjaka Ahaz zanak'i Yotam mpanjakan'i Yehudah.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "tamin'ny taona"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "fahafito"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ambin'ny folo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "לפקח",
+      "gloss": "tamin'ny nanjakan'i Pekah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaljahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nanjaka"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-31T14:57:33.028553496Z",
+  "model": "glm-5.3"
+}

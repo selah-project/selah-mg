@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary tamin'ny andro fahatelo dia voavelatra tamin'i Labana fa efa nandositra i Yaakov.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "voavelatra"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "tamin'i Labana"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "fahatelo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "nandositra"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-31T12:46:09.396982334Z",
+  "model": "glm-5.3"
+}

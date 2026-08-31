@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 37:3",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary naniraka Tsidkiahu mpanjaka ⟨את⟩ Yehukala zanak'i Shelemya sy ⟨את⟩ TsefanyaHu zanak'i Maaseia mpisorona ho any amin'i YirmeyaHu mpaminany, hilaza hoe: Mivavaha azafady ho anay amin'i Yahveh Elohinay.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "naniraka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehukala"
+    },
+    {
+      "surface": "יהוכל",
+      "gloss": "Yehukala"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "שלמיה",
+      "gloss": "Shelemya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "TsefanyaHu"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "TsefanyaHu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "Maaseia"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'i"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "YirmeyaHu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mpaminany"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hilaza hoe"
+    },
+    {
+      "surface": "התפלל",
+      "gloss": "Mivavaha"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "בעדנו",
+      "gloss": "ho anay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohinay"
+    }
+  ],
+  "timestamp": "2026-08-31T15:39:46.469577503Z",
+  "model": "glm-5.3"
+}

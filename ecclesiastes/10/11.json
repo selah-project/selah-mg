@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Raha manaofoka ny bibilava ka tsy misy mpanao sery, dia tsy misy tombony ho an'ny tompon'ny lela.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "manaofoka"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ny bibilava"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "ka tsy misy"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "mpanao sery"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "dia tsy misy"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "tombony"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ho an'ny tompon'ny"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "lela"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:00.468020354Z",
+  "model": "glm-5.3"
+}

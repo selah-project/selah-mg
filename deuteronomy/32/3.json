@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Fa ny anaran'i Yahveh no hantsoiko; omeo voninahitra ny Elohinay Izy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ny anaran'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "no hantsoiko"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "omeo"
+    },
+    {
+      "surface": "גדel",
+      "gloss": "voninahitra\/fahalehibiazana"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ny Elohinay"
+    }
+  ],
+  "timestamp": "2026-08-31T13:51:57.037703506Z",
+  "model": "glm-5.3"
+}

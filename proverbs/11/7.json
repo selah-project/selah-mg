@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Amin'ny fahafatesan'ny olona ratsy dia very ny fanantenana; ary ny fanantenan'ny tsy fananana dia efa very.",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "amin'ny fahafatesana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "very"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "ny fanantenana"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "ary ny fanantenana"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "ny tsy fananana"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "efa very"
+    }
+  ],
+  "timestamp": "2026-08-31T16:52:14.265412295Z",
+  "model": "glm-5.3"
+}

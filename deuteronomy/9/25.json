@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Dia niankohoka teto anatrehan'i Yahveh ⟨את⟩ ny efa-polo andro sy ⟨את⟩ ny efa-polo alina, izay niankohokoako, satria Yahveh efa nilaza ⟨fa⟩ hamongana ⟨את⟩ anareo.",
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "Dia niankohoka teto"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "anatrehan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efa-polo andro"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "efa-polo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "efa-polo alina"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "efa-polo"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "alina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": "niankohokoako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "efa nilaza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "hamongana"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:43:07.043249171Z",
+  "model": "glm-5.3"
+}

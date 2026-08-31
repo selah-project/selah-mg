@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 145,
+  "translation": "Mamindra fo sady miantra Yahveh, mora dia mora kotrehina, ary lebe ny hesed ⟨azy⟩.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Mamindra fo"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "sady miantra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "mora dia mora"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "kotrehina (araka ny anarany) fony"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "ary lebe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ny hesed ⟨azy⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:31.648616654Z",
+  "model": "glm-5.3"
+}

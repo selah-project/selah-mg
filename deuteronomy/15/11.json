@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 15:11",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Fa tsy ho tapitra ny malahelo ao amin'ny tany; noho izany Izaho no mandidy anao hoe: Sokafy tokoa ny tananao ⟨את⟩ ho an'ny rahalahinao, ho an'ny malotoranao sy ho an'ny malaheloonao, ao amin'ny taninao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "ho tapitra"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "malahelo"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ao amin'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "mandidy anao"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "Sokafy tokoa"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "sokafy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tananao"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tananao"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "rahalahinao"
+    },
+    {
+      "surface": "לעניך",
+      "gloss": "malotoranao"
+    },
+    {
+      "surface": "ולאבינך",
+      "gloss": "malaheloonao"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "taninao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:45:16.926361740Z",
+  "model": "glm-5.3"
+}

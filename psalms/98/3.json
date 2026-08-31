@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 98,
+  "translation": "Mahatsiaro ny hesed-ny sy ny fahamarinany Izy ho an'ny taranak'i Yisrael; hitan'ny faran'ny tany rehetra ⟨את⟩ ny famonjen'ny Elohim antsika.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Mahatsiaro"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ny hesed-ny"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "sy ny fahamarinany"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ho an'ny taranak'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "hitan'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "ny faran'ny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny famonjen'ny Elohim antsika"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "ny famonjen'"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim antsika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:39.878560433Z",
+  "model": "glm-5.3"
+}

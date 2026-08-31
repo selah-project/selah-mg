@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "\"Omeko am-panafatra ⟨את⟩ ny mpisoratra, izay mitondra ny fiara fandrenesana, ary hiakatra avy amin'i Yordana.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "Omeko am-panafatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpisoratra"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ny mpisoratra"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "izay mitondra"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ny fiara"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "fandrenesana"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ary hiakatra"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:54:47.654992194Z",
+  "model": "glm-5.3"
+}

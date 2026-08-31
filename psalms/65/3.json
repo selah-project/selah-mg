@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 65,
+  "translation": "Ianao no mihaino ny fivavahana; ny nofo rehetra hanatona anao.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "mihaino"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ny fivavahana"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "⟨manatona⟩ anao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nofo"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "hanatona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:12.952067818Z",
+  "model": "glm-5.3"
+}

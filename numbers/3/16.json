@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary nosainan'i Moshe ⟨את⟩ izy araka ny tenin'i Yahveh, araka izay nandidiana azy.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "nosainan'i"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izy (ny Levita)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "araka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ny tenin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka izay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidiana azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:24:38.011929240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 40:8",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary hoy izy roa lahy taminy: Nofy no nofinay, fa tsy misy mandika ⟨את⟩ azy. Ary hoy Yoseta taminy: Tsy an'i Elohim va ny fandikan-teny? Lazao azafady amiko.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "hoy izy roa lahy"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "nofy"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "nofinay"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "fa tsy misy mandika"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (ilay nofy)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoseta"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Tsy... va"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "an'i Elohim"
+    },
+    {
+      "surface": "פתרנים",
+      "gloss": "ny fandikan-teny"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "Lazao"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "לי",
+      "gloss": "amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T12:49:05.789334811Z",
+  "model": "glm-5.3"
+}

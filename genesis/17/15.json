@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary niteny Elohim tamin'i Avrahama hoe: Saray vadinao — aza antsoina intsony ⟨את⟩ ny anarany hoe Saray; fa Sarah no anarany.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary niteny"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "vadinao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "antsoina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anarany"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "hoy Saray"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "no anarany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:39:00.678035377Z",
+  "model": "glm-5.3"
+}

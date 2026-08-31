@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Dia lavoaka teo an-tavan'i Avrahama izy, ary Elohim niresaka ⟨את⟩ taminy ka nanao hoe:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "Dia lavoaka"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "an-tavany"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ary niresaka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ taminy",
+      "marks": "taminy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T12:38:56.353407368Z",
+  "model": "glm-5.3"
+}

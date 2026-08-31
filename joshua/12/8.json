@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Tao amin'ny tendrombohitra sy tao amin'ny tany lemaka sy tao amin'ny Araba sy tao amin'ny lampivozona sy tao amin'ny efitra ary tao amin'ny Negeva — ny Hetita, ny Amorita, ny Kenaneana, ny Perizita, ny Hivita ary ny Jebosita.",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "tao amin'ny tendrombohitra"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "sy tao amin'ny tany lemaka"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "sy tao amin'ny Araba"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "sy tao amin'ny lampivozona"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "sy tao amin'ny efitra"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "ary tao amin'ny Negeva"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ny Hetita"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ny Amorita"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "ny Kenaneana"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "ny Perizita"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ny Hivita"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ary ny Jebosita"
+    }
+  ],
+  "timestamp": "2026-08-31T13:59:39.459558279Z",
+  "model": "glm-5.3"
+}

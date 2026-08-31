@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 8:27",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nataony tamin'ny tanana roan'i Ahrona sy tamin'ny tananan'ny zananilahy izay rehetra izany, ka nitehitehiny ⟨את⟩ izy ireo ho fanaovana fanatitra fitehitehiny teo anatrehan'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay rehetra izany"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "izay rehetra izany"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "tanana roa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahrona"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy tamin'ny"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "tanana"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zananilahy"
+    },
+    {
+      "surface": "וינף",
+      "gloss": "ka nitehitehiny"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ izy ireo",
+      "marks": "izy ireo"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "fanatitra fitehitehiny"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anatrehan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:14:24.966326451Z",
+  "model": "glm-5.3"
+}

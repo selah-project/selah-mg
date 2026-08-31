@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 54,
+  "translation": "Indro, Elohim ⟨no⟩ mpanampy ahy; Adonay ⟨eo⟩ amin'izay manohy ny aiko.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mpanampy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "amin'izay manohy"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:31.049944420Z",
+  "model": "glm-5.3"
+}

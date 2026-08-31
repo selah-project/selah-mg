@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 72,
+  "translation": "Ny mpanjakan'i Tarshish sy ny nosy handefa fanatitra; ny mpanjakan'i Sheba sy Seba hanatitra fanomezana.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "ny mpanjakan'i"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "sy ny nosy"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "fanatitra"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "handefa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ny mpanjakan'i"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "sy Seba"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "fanomezana"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "hanatitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:24.977039112Z",
+  "model": "glm-5.3"
+}

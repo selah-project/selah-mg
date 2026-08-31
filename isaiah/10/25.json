@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Fa mbola kely fotsiny, dia ho levona ny fahateirana, ary ny fahateoko ho amin'ny faharavany ⟨izy⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mbola"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kely"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "fotsiny"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "dia ho levona"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "ny fahateirana"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "ary ny fahateoko"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho amin'ny"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "faharavany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:05:46.124220894Z",
+  "model": "glm-5.3"
+}

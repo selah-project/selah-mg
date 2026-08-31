@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 71,
+  "translation": "Lasa famantarana mahatalanjona aho eo imason'ny maro, fa ianao kosa no fiarovako mahery.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "famantarana mahatalanjona"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "lasa ... aho"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "eo imason'ny maro"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "fa ianao kosa"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "firovako"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mahery"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:53.023981731Z",
+  "model": "glm-5.3"
+}

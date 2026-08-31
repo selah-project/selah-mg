@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 73,
+  "translation": "Noho izany dia voatahiroka fehy fiharehareana izy; ny herisetra manarona azy toy izay fitafiana.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Noho izany"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "voatahiroka fehy"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "fiharehareana"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "manarona"
+    },
+    {
+      "surface": "שית",
+      "gloss": "toy izay fitafiana"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ny herisetra"
+    },
+    {
+      "surface": "למו",
+      "gloss": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:53.245178348Z",
+  "model": "glm-5.3"
+}

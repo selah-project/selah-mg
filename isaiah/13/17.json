@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Indro, Izaho mampitsangana hanohitra azy ⟨את⟩ ny Mady, izay tsy manao fitentina volafotsy, ary ny volamena tsy sitrakiny.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "mampitsangana"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "hanohitra azy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Mady"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Mady"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "manao fitentina"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ary ny volamena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "sitrakiny"
+    },
+    {
+      "surface": "בו",
+      "gloss": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:06:00.200591908Z",
+  "model": "glm-5.3"
+}

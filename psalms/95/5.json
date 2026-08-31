@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 95,
+  "translation": "Izay azy ny ranomasina, fa izy no nanao azy, ary ny tany maina ny tànany no namorona azy.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Izay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ny ranomasina"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "fa izy"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "no nanao azy"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "ary ny tany maina"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ny tànany"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "no namorona azy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:13:52.499807123Z",
+  "model": "glm-5.3"
+}

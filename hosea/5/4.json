@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 5:4",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Tsy avelan'ny fanaony hiverina any amin'ny Elohiny; fa fanahy fijangajangana no ao anatiny, ary ⟨את⟩ Yahveh tsy fantatray.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "avelan'ny"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "fanaony"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "hiverina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "any amin'ny"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohiny"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "fijangajangana"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "ao anatiny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "fantatray"
+    }
+  ],
+  "timestamp": "2026-08-31T16:08:06.539980102Z",
+  "model": "glm-5.3"
+}

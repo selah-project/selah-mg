@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 58,
+  "translation": "Ary hoy ny olona: Eny, misy vokatra ho an'ny marina; eny, misy Elohim mitsara eto ambonin'ny tany.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Eny"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "vokatra"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ho an'ny marina"
+    },
+    {
+      "surface": "אך",
+      "gloss": "eny"
+    },
+    {
+      "surface": "יש",
+      "gloss": "misy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "mitsara"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "eto ambonin'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:55.728464153Z",
+  "model": "glm-5.3"
+}

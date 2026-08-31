@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary Elohim nitso-drano ⟨את⟩ ny andro fahafito ka nanamasina ⟨את⟩ azy, satria tamin'izay no itsaharany tamin'ny asany rehetra izay noforonin'i Elohim hatao.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "nitso-drano"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny andro fahafito"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "fahafito"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "nanamasina"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (ny andro fahafito)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "בו",
+      "gloss": "tamin'izay"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "itsaharany"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "tamin'ny ... rehetra"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "asany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "noforoniny"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hatao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:35.978699165Z",
+  "model": "glm-5.3"
+}

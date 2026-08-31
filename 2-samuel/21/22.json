@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 21:22",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "I ⟨את⟩ ireo efatra dia teraka tamin'ny Rapa tao Gata, ary lavo tamin'ny tàn'i Davida sy tamin'ny tàn'ny mpanompony izy ireo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ireo efatra"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "efatra"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "teraka"
+    },
+    {
+      "surface": "להרפה",
+      "gloss": "tamin'ny Rapa"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "tao Gata"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ary lavo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "tamin'ny tàn'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "sy tamin'ny tàn'ny"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "mpanompony"
+    }
+  ],
+  "timestamp": "2026-08-31T18:03:25.550770278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Amin'ny maidenina, amin'ny faran'ny andro, amin'ny maizin'ny alina sy ny aizina.",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "amin'ny maidenina"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "amin'ny faran'ny"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "amin'ny maizin'ny"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "alina"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "sy ny aizina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:50:25.657010363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nanoratra teo izy, teo ambony ireo vato, ⟨את⟩ dika amin'ny Lalàn'i Moshe, izay nosoratany teo anatrehan'ny zanak'Isiraely.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Ary nanoratra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "teo"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo ambony"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ireo vato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dika amin'ny Lalàn'i Moshe"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "dika amin'ny"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Lalàn'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "nosoratany"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anatrehan'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    }
+  ],
+  "timestamp": "2026-08-31T13:58:36.992098974Z",
+  "model": "glm-5.3"
+}

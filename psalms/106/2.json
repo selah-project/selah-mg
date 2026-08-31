@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Iza no afaka milaza ny hery maheryn'i Yahveh, ka hampahare ny fiderana azy rehetra?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Iza"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "afaka milaza"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "ny hery mahery"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Yahveh"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "hampahare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ny fiderana azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:34.565199991Z",
+  "model": "glm-5.3"
+}

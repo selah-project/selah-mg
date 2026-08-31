@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 41:23",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Lazao ny famantarana momba ny ho avy, ary ho fantatray fa Elohim ianareo; enehana, ataovy tsara na ataovy ratsy, dia ho talanjona isika ka hizaha miaraka.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "lazao"
+    },
+    {
+      "surface": "האתיות",
+      "gloss": "ny famantarana"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "momba ny ho avy"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "ary ho fantatray"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ianareo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "enehana"
+    },
+    {
+      "surface": "תיטיבו",
+      "gloss": "ataovy tsara"
+    },
+    {
+      "surface": "ותרעו",
+      "gloss": "na ataovy ratsy"
+    },
+    {
+      "surface": "ונשתעה",
+      "gloss": "dia ho talanjona isika"
+    },
+    {
+      "surface": "ונרא",
+      "gloss": "ka hizaha"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "miaraka"
+    }
+  ],
+  "timestamp": "2026-08-31T15:15:21.118579558Z",
+  "model": "glm-5.3"
+}

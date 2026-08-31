@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary handeha amin'ny fiadanan-tsaina ianao eny ambanin'ny lalanao, ary ny tongotrao tsy hanjo fahiratra.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ary"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "handeha"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "amin'ny fiadanan-tsaina"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "eny ambanin'ny lalanao"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "ary ny tongotrao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "hanjo fahiratra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:58.686012876Z",
+  "model": "glm-5.3"
+}

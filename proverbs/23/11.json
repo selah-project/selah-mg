@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Fa mahery ny mpanavotra azy, izy no hiady ⟨את⟩ ny adiny aminao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "ny mpanavotra azy"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "no hiady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny adiny"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "ny adiny"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:55:51.522389489Z",
+  "model": "glm-5.3"
+}

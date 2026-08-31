@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary hihinanay ianao ka ho voky, ary hitso-drano an'i Yahveh Elohim-nao ianao noho ny tany tsara izay nomeny anao.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "Ary hihinanay"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ka ho voky"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "ary hitso-drano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nao"
+    },
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nomeny"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:43:17.443792896Z",
+  "model": "glm-5.3"
+}

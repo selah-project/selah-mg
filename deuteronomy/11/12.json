@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Tany izadiavin'i Yahveh Elohim-nao foana; ny mason'i Yahveh Elohim-nao dia ao aminy foana, manomboka amin'ny fiandohan'ny taona ka hatramin'ny faran'ny taona.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Tany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nao"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "izadiavin'i"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "foana"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ny mason'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nao"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ao aminy"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "manomboka amin'ny fiandohan'ny"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "faran'ny"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    }
+  ],
+  "timestamp": "2026-08-31T13:43:40.147214118Z",
+  "model": "glm-5.3"
+}

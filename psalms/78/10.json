@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Tsy nitandrina ny fanekenan'i Elohim izy, ary tamin'ny lalàny nandà ny handeha.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "nitandrina"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ny fanekenana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "ary tamin'ny lalàny"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "nandà"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ny handeha"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:32.898721865Z",
+  "model": "glm-5.3"
+}

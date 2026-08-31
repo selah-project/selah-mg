@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary nanandratra aho ⟨את⟩ ny masoko ka hitako, ary indro nisy lehilahy iray miakanjo akanjo rongonyfotsy, ary ny valahany natao fehin-kazo volamena avy any Ofaza.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "nanandratra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny masoko"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ny masoko"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ka hitako"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ary indro"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "miakanjo"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "akanjo rongonyfotsy"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "ary ny valahany"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "natao fehin-kazo"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "volamena avy any"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "Ofaza"
+    }
+  ],
+  "timestamp": "2026-08-31T17:24:29.567798091Z",
+  "model": "glm-5.3"
+}

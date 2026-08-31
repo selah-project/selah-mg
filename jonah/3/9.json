@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Iza no mahalala? angamba hiverina ka hibebaka Elohim, ary hiala amin'ny fahatezerany mirehitra, ka tsy ho very isika.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Iza"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "hiverina"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "ka hibebaka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ary hiala"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "amin'ny fahatezerany mirehitra"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "fony"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "ho very"
+    }
+  ],
+  "timestamp": "2026-08-31T16:13:47.384593151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 127,
+  "translation": "Shiran'ny fiakarana ho an'i Shelomoh. Raha Yahveh no tsy manao trano, foana no niasa mafy ny mpanamboatra azy; raha Yahveh no tsy miambina tanàna, foana no mifoha ny mpiambina.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Shira"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "fiakarana"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ho an'i Shelomoh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "manao"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "foana"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "niasa mafy"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "ny mpanamboatra"
+    },
+    {
+      "surface": "בו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "miambina"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "foana"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "mifoha"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "mpiambina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:04.966242939Z",
+  "model": "glm-5.3"
+}

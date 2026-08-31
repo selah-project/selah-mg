@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 109,
+  "translation": "Fa izaho dia efa tonga fahamenarana ho azy ireo; mahita ahy izy, dia mihetsika ny lohany.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Fa izaho"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "efa tonga"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "fahamenarana"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho azy ireo"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "mahita ahy izy"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "mihetsika"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "ny lohany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:33.390869040Z",
+  "model": "glm-5.3"
+}

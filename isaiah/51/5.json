@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 51:5",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "Efa akaiky ny fahamarinako, efaivoaka ny famonjena ko, ary ny sandrako hitsara ny firenena; amiko no hiandry ny nosy, ary amin'ny sandrako no handrasa.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "efa akaiky"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "ny fahamarinako"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "efaivoaka"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ny famonjena ko"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "ary ny sandrako"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ny firenena"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "hitsara"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ny nosy"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "hiandry"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary amin'ny"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "sandrako"
+    },
+    {
+      "surface": "ייחלון",
+      "gloss": "handrasa"
+    }
+  ],
+  "timestamp": "2026-08-31T15:18:58.185056339Z",
+  "model": "glm-5.3"
+}

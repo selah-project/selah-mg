@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "Esory amin'ny amiko ny kapanao; amin'ny fanelingelenan'ny tananao dia levona aho.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "esory"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "amin'ny amiko"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "ny kapanao"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "amin'ny fanelingelenan'ny"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tananao"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aho"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "levona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:17.848527869Z",
+  "model": "glm-5.3"
+}

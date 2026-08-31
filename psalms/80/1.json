@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 80,
+  "translation": "Ho an'ny mpibandinka, amin'ny Shoshannim-Eduth, vatofanakyn'i Asafa, salamo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho an'ny mpibandinka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Eduth (vatofanaky)"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "an'i Asafa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "salamo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:27.068374664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 24:6",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary nentiko mialaka tamin'i Mitsrayim ny razanareo, ka tonga tao amin'ny ranomasina hianareo; ary nanenjika ny razanareo ny Mitsrita tamin'ny kalesy sy mpitaingin-tsoavaly, ka hatrany amin'ny Ranomasin'ny harefo.",
+  "tokens": [
+    {
+      "surface": "ואוציא",
+      "gloss": "nentiko mialaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny razanareo"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ny razanareo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "tamin'i Mitsrayim"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "tonga hianareo"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "tao amin'ny ranomasina"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "nanenjika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ny Mitsrita"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ny ... taoriana"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "razanareo"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "tamin'ny kalesy"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "sy mpitaingin-tsoavaly"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Ranomasina"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "harefo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:03:51.184431133Z",
+  "model": "glm-5.3"
+}

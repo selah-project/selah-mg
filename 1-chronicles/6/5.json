@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "An'ny Gershome: Libni zanany, Jachat zanany, Zimma zanany.",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "An'ny Gershome"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Libni"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Jachat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "Zimma"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:35:17.822762447Z",
+  "model": "glm-5.3"
+}

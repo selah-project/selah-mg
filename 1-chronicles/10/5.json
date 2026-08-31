@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Dia hitan'ny nitondra ny fiadiany fa maty Shaol, ka lavo izy koa tamin'ny sabatra ka maty.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hitan'"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ny nitondra"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ny fiadiany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "maty"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ka lavo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "sabatra"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ka maty"
+    }
+  ],
+  "timestamp": "2026-08-31T17:37:18.332237095Z",
+  "model": "glm-5.3"
+}

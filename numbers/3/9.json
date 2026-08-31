@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 3:9",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary ianao hanome ⟨את⟩ ny Levita ho an'i Aharona sy ho an'ny zanany; atolotra tanteraka izy ireo ho azy, avy amin'ny zanak'i Yisraela.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Ary ianao hanome"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Levita"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ny Levita"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ho an'i Aharona"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "sy ho an'ny zanany"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "atolotra"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "tanteraka"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy ireo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ avy amin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    }
+  ],
+  "timestamp": "2026-08-31T13:25:17.707264385Z",
+  "model": "glm-5.3"
+}

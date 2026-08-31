@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 6:15",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Izay notandremanao ho an'ny mpanomponao Davida raiko ⟨את⟩ izay nolazainao taminy; fa tamin'ny vavanao no nilazanao azy ary tamin'ny tananao no nanatanterahanao azy, araka ny amin'ity andro ity.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Izay"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "notandremanao"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ho an'ny mpanomponao"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "raiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay nolazainao taminy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "nolazainao"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "fa nilazanao"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "tamin'ny vavanao"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "ary tamin'ny tananao"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "no nanatanterahanao"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "araka ny amin'ity andro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    }
+  ],
+  "timestamp": "2026-08-31T17:43:50.053550388Z",
+  "model": "glm-5.3"
+}

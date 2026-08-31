@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Hianao, Yahveh, aza tano ny famindrampoanao amiko; ny hesedao sy ny marinao anie miambina ahy mandrakariva.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Hianao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "tano"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "ny famindrampoanao"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ny hesedao"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "sy ny marinao"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mandrakariva"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "miambina ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:19.681452245Z",
+  "model": "glm-5.3"
+}

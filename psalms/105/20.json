@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Naniraka ny mpanjaka ka namaha azy; ny mpanapaka ny firenena no nanafaka azy.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "naniraka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "ka namaha azy"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ny mpanapaka"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ny firenena"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "no nanafaka azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:38.827710876Z",
+  "model": "glm-5.3"
+}

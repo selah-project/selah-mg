@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 24:8",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Fa raha tsy mety ilay vehivavy hitarika anao, dia voafoy amin'ny fianianako ity ity; fa ny zanako ihany no aza hampanao hody ⟨את⟩ ho any.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Fa raha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "mety"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ilay vehivavy"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "hitarika"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "ונקית",
+      "gloss": "voafoy"
+    },
+    {
+      "surface": "משבעתי",
+      "gloss": "amin'ny fianianako"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ity"
+    },
+    {
+      "surface": "רק",
+      "gloss": "fa ... ihany no aza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanako"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny zanako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "hampanao hody"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ho any"
+    }
+  ],
+  "timestamp": "2026-08-31T12:41:26.376409343Z",
+  "model": "glm-5.3"
+}

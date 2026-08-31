@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 13:12",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "ka hoy izaho: Indrisy, hidina any amiko any Gilgala ny Filistina, ary ny tavan'i Yahveh tsy mbola nampiononaiko; ka nanery tena aho ka nanatitra dorana tamin'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ka hoy izaho"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Indrisy"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "hidina"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Filistina"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "any amiko"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "any Gilgala"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ny tavan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy mbola"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "nampiononaiko"
+    },
+    {
+      "surface": "ואתאפק",
+      "gloss": "nanery tena"
+    },
+    {
+      "surface": "ואעלה",
+      "gloss": "ka nanatitra"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "fanatitra dorana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:18:14.231116696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ny fahotako hampahafantiariko anao, ary ny tsi-fahamarinako tsy nafeniko; hoy izaho: Hanao fanekena amin'ny fandikanaako amin'i Yahveh, fa ianao kosa nesorinao ny tsi-fahamarinan'ny fahotako. Selah.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "ny fahotako"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "hampahafantiariko anao"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "ary ny tsi-fahamarinako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "nafeniko"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "hoy izaho"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "hanao fanekena"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "fandikanaako"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "amin'i Yahveh"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "fa ianao kosa"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "nesorinao"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ny tsi-fahamarinan'ny"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "fahotako"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:29.167823050Z",
+  "model": "glm-5.3"
+}

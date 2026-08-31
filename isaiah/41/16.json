@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Hitetezanao azy ireo ⟨את⟩ ka rivotra no hitondra azy, ary rivombe hampiely azy; fa ianao kosa hihaona amin'i Yahveh, sy hidera ny Masin'i Isiraely.",
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "hitetezanao"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ary rivotra"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "hitondra azy"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "ary rivombe"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "hampiely"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ny vohoka tandrify)"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "fa ianao kosa"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "hihaona aminy"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "amin'i Yahveh"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "amin'ny Masin'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "hidera"
+    }
+  ],
+  "timestamp": "2026-08-31T18:33:01.034921219Z",
+  "model": "glm-5.3"
+}

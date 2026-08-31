@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 68,
+  "translation": "Hisy mpanankarena avy ao amin'i Mitsrayim hiantsoka; Kusha kosa mampandeha haingana ny tànany mankany amin'i Elohim.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "Hisy ... hiantsoka"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "mpanankarena"
+    },
+    {
+      "surface": "מני",
+      "gloss": "avy ao amin'i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kusha"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "mampandeha haingana"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ny tànany"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "mankany amin'i Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:26.084054120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 63,
+  "translation": "Fa ny andron'ny famalianana dia ao anatiko, ary ny taona fanavotako dia efa tonga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andron'ny"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "famalianana"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "ao anatiko"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "taona"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "fanavotako"
+    },
+    {
+      "surface": "באה",
+      "gloss": "efa tonga"
+    }
+  ],
+  "timestamp": "2026-08-31T15:21:00.562018496Z",
+  "model": "glm-5.3"
+}

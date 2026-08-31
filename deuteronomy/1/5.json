@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ankavian'ny Yarden, amin'ny tany'i Moaba, no nandroahan'i Moshe handika ito tora ito, ka nanao hoe:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "ankavian'ny"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "nandrohana"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "באר",
+      "gloss": "handika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ny tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ito"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T13:40:19.425628925Z",
+  "model": "glm-5.3"
+}

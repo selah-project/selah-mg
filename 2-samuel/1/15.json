@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary niantso Dawid ny anankiray tamin'ny tovolahy ka nanao hoe: Manatona, mahazo azy. Dia namely azy izy ka maty.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "ny anankiray tamin'ny"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "tovolahy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "גש",
+      "gloss": "Manatona"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "mahazo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "namely azy izy"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "maty"
+    }
+  ],
+  "timestamp": "2026-08-31T14:27:58.929124572Z",
+  "model": "glm-5.3"
+}

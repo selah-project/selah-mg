@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "dia hampody ny fahababoanao Yahveh Elohim-nao, ka hamindra fo aminao, ary hiverina hanangona anao avy amin'ny firenena rehetra izay nazarazaran'i Yahveh Elohim-nao ho any.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "dia hampody"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahababoanao"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "ny fahababoanao"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "ka hamindra fo aminao"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ary hiverina"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "hanangona anao"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "firenena rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "nazarazarana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nao"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ho any"
+    }
+  ],
+  "timestamp": "2026-08-31T13:51:41.634877305Z",
+  "model": "glm-5.3"
+}

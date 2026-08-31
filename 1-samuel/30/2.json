@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary lasa babo ⟨את⟩ ny vehivavy tao aminy, avy amin'ny kely ka hatramin'ny lehibe; tsy namono olona akory izy, fa nitondra ⟨azy⟩ dia nandeha tamin'ny lalany.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Ary lasa babo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vehivavy"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ny vehivavy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tao aminy"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "avy amin'ny kely"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "namono"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona akory"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "fa nitondra"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "dia nandeha"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "tamin'ny lalany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:27:06.332284994Z",
+  "model": "glm-5.3"
+}

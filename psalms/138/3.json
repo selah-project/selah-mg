@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 138,
+  "translation": "Tamin'ny andro niantsoako an'i Yahveh dia namaly ahy Izy, nampahery ny fanahiko tamin-kery.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "niantsoako"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "namaly ahy"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "nampahery ahy"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "ny fanahiko"
+    },
+    {
+      "surface": "עז",
+      "gloss": "tamin-kery"
+    }
+  ],
+  "timestamp": "2026-08-31T18:36:18.656102139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 132,
+  "translation": "Ny sakafony hotsoahako soa ⟨fatratra⟩; ny malainy havokiko laharam-boky.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "Ny sakafony"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "hotsoahako soa"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "⟨fatratra⟩"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "ny malainy"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "havokiko"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "hanina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:19.994085889Z",
+  "model": "glm-5.3"
+}

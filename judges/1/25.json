@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Dia naneho azy ireo ny fidirana anaty ⟨ao amin'ny⟩ tanàna, ka namely ny tanàna tamin'ny lelan'ny sabatra ireo, fa ⟨את⟩ ilay lehilahy sy ⟨את⟩ ny fianakaviany rehetra dia navela handeha.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "naneho azy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fidirana anaty tanàna"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ny fidirana"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "anaty tanàna"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "namely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tanàna"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ny tanàna"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "tamin'ny lelan'"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabatra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fa ⟨את⟩",
+      "marks": "ilay lehilahy"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ilay lehilahy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny fianakaviany rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "fianakaviany"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "navela handeha"
+    }
+  ],
+  "timestamp": "2026-08-31T14:04:38.230151366Z",
+  "model": "glm-5.3"
+}

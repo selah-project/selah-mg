@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 12:16",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary ankehitriny koa, mijanonasehoy ary jereso ⟨את⟩ ity zava-dehibe ity izay ataon'i Yahveh eo anatrehanareo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ankehitriny"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "mijanonasehoy"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ary jereso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ity zava-dehibe ity"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ity zava-dehibe"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "atao"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "eo anatrehanareo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:17:52.117511920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary hoy izy: Aoka hatolotra ho vadin'i Adonijahu rahalahinao ⟨את⟩ Abishaga ilay Shunamita.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ary hoy izy:"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "hatolotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abishaga"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abishaga"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "ilay Shunamita"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "ho an'i Adonijahu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "rahalahinao"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ho vady"
+    }
+  ],
+  "timestamp": "2026-08-31T14:39:44.596028301Z",
+  "model": "glm-5.3"
+}

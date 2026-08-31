@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Aza manitsy ny fari-daza fahagola, ary aza miditra ao amin'ny sahan'ny kamboty.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "manitsy"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "fari-daza"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "fahagola"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "ary ao amin'ny sahan'"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "kamboty"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "miditra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:55:51.522248677Z",
+  "model": "glm-5.3"
+}

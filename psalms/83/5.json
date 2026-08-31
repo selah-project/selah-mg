@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 83,
+  "translation": "Hoy izy: Avia, ka andao hongana tsy ho firenena intsony izy, ary tsy hotsarovina intsony ny anaran'i Yisrael.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Hoy izy"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Avia"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "ka andao hongana"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "tsy ho firenena intsony"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "hotsarovina intsony"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ny anaran'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:11.853135150Z",
+  "model": "glm-5.3"
+}

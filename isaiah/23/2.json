@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Mangina, ry mponina amin'ny nosy; mpivarotran'ny Tsidona, mpandalo ny ranomasina, no naneno anao.",
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "Mangina"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ry mponina"
+    },
+    {
+      "surface": "אי",
+      "gloss": "nosy"
+    },
+    {
+      "surface": "סוחר",
+      "gloss": "mpivarotra"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidona"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "mpandalo"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ranomasina"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "naneno anao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:09:31.947900224Z",
+  "model": "glm-5.3"
+}

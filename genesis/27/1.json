@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 27:1",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ary nonina tamin'izay, rehefa efa antitra Yitschak ka efa manjòna ny masony tsy mahita intsony, dia niantso ⟨את⟩ i Esav zanany lahimatoa, ka nanao taminy hoe: Zanako. Dia namaly azy hoe: Indro aho.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nonina tamin'izay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rehefa"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "efa antitra"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ותכהין",
+      "gloss": "ka efa manjòna"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ny masony"
+    },
+    {
+      "surface": "מראת",
+      "gloss": "tsy mahita intsony"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "dia niantso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "lahimatoa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao taminy hoe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Zanako"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dia namaly"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hoe: Indro aho"
+    }
+  ],
+  "timestamp": "2026-08-31T12:43:00.445516522Z",
+  "model": "glm-5.3"
+}

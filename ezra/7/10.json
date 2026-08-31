@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Fa Ezra nanamboatra ny fony hikaroka ⟨את⟩ toràn'i Yahveh sy hanao azy ary hampianatra ao amin'ny Isiraely lalàna sy fitsarana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "nanamboatra"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ny fony"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "hikaroka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toràn'i Yahveh"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "toràn'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "sy hanao"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "ary hampianatra"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ao amin'ny Isiraely"
+    },
+    {
+      "surface": "חק",
+      "gloss": "lalàna"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "sy fitsarana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:27:12.238944750Z",
+  "model": "glm-5.3"
+}

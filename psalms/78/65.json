@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Ary Adonay nifoha tahaka ny matory, tahaka ny mahery mitaraina vokatry ny divay.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "nifoha"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "tahaka ny matory"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "tahaka ny mahery"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "mitaraina"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "vokatry ny divay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:38.614364787Z",
+  "model": "glm-5.3"
+}

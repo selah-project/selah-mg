@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Tamin'i Mitsrayim no nanolorana tànana, tamin'i Ashur ⟨ihany⟩ hahavoky mofo.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "nanolorana"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tànana"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "hahavoky"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mofo"
+    }
+  ],
+  "timestamp": "2026-08-31T18:16:54.700149040Z",
+  "model": "glm-5.3"
+}

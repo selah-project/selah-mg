@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ho an'ny mpitarika ⟨ny mpihira⟩, mifanaraka amin'ny fahafatesan'ny anankiray ⟨zanaka lahy⟩, salamo ho an'i Davida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho an'ny mpitarika"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "mifanaraka amin'ny fahafatesana"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "zanaka lahy"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "salamo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ho an'i Davida"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:55.721847578Z",
+  "model": "glm-5.3"
+}

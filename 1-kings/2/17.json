@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 2:17",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary hoy izy: Lazao azafady an'i Shelomo mpanjaka, fa tsy hitodika imasony izy hanamarinana anao ⟨(tsy hampitodika ny tavony)⟩, ka homeko ⟨את⟩ Abishaga tany Sunema ho vady.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Lazao"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "an'i Shelomo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "hitodika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavony"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "imasonao (ny tavony)"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ka homeko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abishaga"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abishaga"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "tany Sunema"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ho vady"
+    }
+  ],
+  "timestamp": "2026-08-31T18:03:38.145453168Z",
+  "model": "glm-5.3"
+}

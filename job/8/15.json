@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Miankina amin'ny tranony izy fa tsy hajanona; mitana azy izy fa tsy hitsangana.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "miankina"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "tranony"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "hajanona"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "mitana"
+    },
+    {
+      "surface": "בו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "hitsangana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:00:00.865291248Z",
+  "model": "glm-5.3"
+}

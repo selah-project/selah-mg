@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 5:21",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary nahafoy teo izy ireo ⟨את⟩ ny sarin-tsampiny, ka dia nalain'i Davida sy ny lehilahiny ireo.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "nahafoy"
+    },
+    {
+      "surface": "שם",
+      "gloss": "teo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny sarin-tsampiny"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "ny sarin-tsampiny"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "nalain'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "sy ny lehilahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T18:02:44.632759139Z",
+  "model": "glm-5.3"
+}

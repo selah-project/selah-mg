@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 118:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 118,
+  "translation": "Aoka anie Israel hanao hoe: fa ho amin'ny hesed mandrakizay izy.",
+  "tokens": [
+    {
+      "surface": "יאמר",
+      "gloss": "hanao hoe"
+    },
+    {
+      "surface": "נא",
+      "gloss": "anie"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ny hesed"
+    }
+  ],
+  "timestamp": "2026-08-31T18:47:35.515441421Z",
+  "model": "glm-5.3"
+}

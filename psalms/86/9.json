@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 86,
+  "translation": "Ny fireneny rehetra izay nataonao ho avy handohalika eo anatrehanao, ry Adonay, ary hanome voninahitra ny anaranao.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "fireneny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "nataonao"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "ho avy"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "handohalika"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "eo anatrehanao"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "hanome voninahitra"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ny anaranao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:57.377868821Z",
+  "model": "glm-5.3"
+}

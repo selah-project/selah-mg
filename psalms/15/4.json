@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Eny amin'ny masony noahelana ny mpanao ratsy, fa ny mpanao ratsy lavina; ary ⟨את⟩ ireo matahotra an'i Yahveh no voninahitriny; mianiana hanao ratsy ⟨(na amin'ny tenany)⟩ nefa tsy mivadika izy.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "noahelana"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "amin'ny masony"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "lavina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ireo matahotra an'i Yahveh"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ireo matahotra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "voninahitriny"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "mianiana"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "hanao ratsy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "mivadika"
+    }
+  ],
+  "timestamp": "2026-08-31T18:35:11.578220835Z",
+  "model": "glm-5.3"
+}

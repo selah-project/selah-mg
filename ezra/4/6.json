@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 4:6",
+  "book": "ezra",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary tamin'ny fanjakan'i Achashverosh, tamin'ny fiandohan'ny fanjakany, dia nanoratra fitarainana manohitra ny mponina any Yehuda sy Yeroshalayim izy ireo.",
+  "tokens": [
+    {
+      "surface": "ובמלכות",
+      "gloss": "Ary tamin'ny fanjakan'i"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "tamin'ny fiandohan'ny"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "fanjakany"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "dia nanoratra"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "fitarainana"
+    },
+    {
+      "surface": "על",
+      "gloss": "manohitra"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ny mponina"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "any Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "sy Yeroshalayim"
+    }
+  ],
+  "timestamp": "2026-08-31T17:26:37.181731141Z",
+  "model": "glm-5.3"
+}

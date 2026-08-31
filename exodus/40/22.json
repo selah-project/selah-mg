@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary napetrany tao amin'ny lain'ny fihaonana ⟨את⟩ ny latabatra, eo amin'ny ilan'ny tranolay, ao amin'ny avaratra, ivelan'ny efitra fiafenana.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "napetrany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny latabatra"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ny latabatra"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "tao amin'ny lain'ny"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ilan'ny"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tranolay"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "ao amin'ny avaratra"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ivelan'ny"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "efitra fiafenana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:10.034495860Z",
+  "model": "glm-5.3"
+}

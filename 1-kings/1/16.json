@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary Bat-Sheba niondrika ka niankohoka tamin'ny mpanjika; ary ny mpanjika nanao hoe: Inona no tianao?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "niondrika"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "niankohoka"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "tamin'ny mpanjika"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjika"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Inona"
+    },
+    {
+      "surface": "לך",
+      "gloss": "no tianao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:38:55.178558634Z",
+  "model": "glm-5.3"
+}

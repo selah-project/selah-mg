@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary Shelomoh namaly azy ⟨את⟩ ny teny rehetra nataony; tsy nisy teny nafenina tamin'ny mpanjaka izay tsy nambarany taminy.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Ary namaly"
+    },
+    {
+      "surface": "לה",
+      "gloss": "azy"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny teny rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "ny teniny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nisy"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "teny"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "nafenina"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tamin'"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "nambarany"
+    },
+    {
+      "surface": "לה",
+      "gloss": "taminy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:43:34.739044202Z",
+  "model": "glm-5.3"
+}

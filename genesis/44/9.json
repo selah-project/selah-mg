@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Izay hita ⟨את⟩ aminy amin'ny mpanomponao dia ho faty, ary izahay koa ho mpanompon'ny tompontsika.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "hita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ aminy"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "amin'ny mpanomponao"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dia ho faty"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ary koa"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "izahay"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "mpanompon'ny tompo"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "mpanompo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:51:06.739630416Z",
+  "model": "glm-5.3"
+}

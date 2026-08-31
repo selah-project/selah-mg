@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 23:12",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ampidiro ao amin'ny fampianarana ny fonao, ary ny sofinao amin'ny tenin'ny fahalalana.",
+  "tokens": [
+    {
+      "surface": "הביאה",
+      "gloss": "ampidiro"
+    },
+    {
+      "surface": "למוסר",
+      "gloss": "ao amin'ny fampianarana"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ny fonao"
+    },
+    {
+      "surface": "ואזנך",
+      "gloss": "ary ny sofinao"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "amin'ny tenin'"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ny fahalalana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:55:51.522593512Z",
+  "model": "glm-5.3"
+}

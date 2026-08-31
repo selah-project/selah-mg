@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Dia nitsangana ka nitahina ⟨את⟩ ny fiangonana rehetra amin'ny Isiraely, tamin'ny feo mahery, ka nanao hoe:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "nitsangana"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "nitahina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiangonana rehetra amin'ny Isiraely"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "fiangonana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "amin'ny Isiraely"
+    },
+    {
+      "surface": "קול",
+      "gloss": "feo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T14:42:53.128483625Z",
+  "model": "glm-5.3"
+}

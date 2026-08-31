@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Anjara tahaka ny anjara no hohaniny, afa-tsy izay avy amin'ny fivarotany ⟨aroa⟩ amin'ny razana.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "Anjara"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "tahaka ny anjara"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "no hohaniny"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "afa-tsy"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "avy amin'ny fivarotany"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨aroa⟩ amin'ny"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "razana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:46:41.610982443Z",
+  "model": "glm-5.3"
+}

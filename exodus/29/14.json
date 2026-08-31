@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Fa ⟨את⟩ ny nofon'ilay omby sy ⟨את⟩ ny hodiny ary ⟨את⟩ ny fikaingainy dia hodoranao amin'ny afo ivelan'ny toby; fanatitra ho an'ny ota izy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Fa ⟨את⟩",
+      "marks": "ny nofon'ilay omby"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nofon'"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ilay omby"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny hodiny"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "ny hodiny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny fikaingainy"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "ny fikaingainy"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "hodoranao"
+    },
+    {
+      "surface": "באש",
+      "gloss": "amin'ny afo"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ivelan'ny"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "toby"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "fanatitra ho an'ny ota"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:05:32.979181197Z",
+  "model": "glm-5.3"
+}

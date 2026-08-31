@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Amin'izay andro izay dia hatao ho an'i Yerushalayim hoe: Aza matahotra ianao; ry Tsiyon, aza hangetrana ny tananao.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "amin'izay andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "dia hatao hoe"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "ho an'i Yerushalayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "matahotra ianao"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ry Tsiyon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "hangetrana"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ny tananao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:17:20.279643002Z",
+  "model": "glm-5.3"
+}

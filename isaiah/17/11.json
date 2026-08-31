@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 17:11",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Amin'ny andro anaovanao fambolena dia hiroboka hitombo izany, ary amin'ny maraina hampamokatra ny voanao; fa fatran'ny fijinjana ⟨no ho⟩ amin'ny andro fahalemena, miaraka amin'ny fanaintainana tsy sitrana.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "נטעך",
+      "gloss": "fambolenao"
+    },
+    {
+      "surface": "תשגשגי",
+      "gloss": "hiroboka hitombo"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ary amin'ny maraina"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "voanao"
+    },
+    {
+      "surface": "תפריחי",
+      "gloss": "hampamokatra"
+    },
+    {
+      "surface": "נד",
+      "gloss": "fatra"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "fijinjana"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "fahalemena"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "miaraka amin'ny fanaintainana"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "tsy sitrana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:07:11.153925759Z",
+  "model": "glm-5.3"
+}

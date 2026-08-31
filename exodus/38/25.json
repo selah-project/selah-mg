@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Ary ny volafotsin'ireo voaisa tamin'ny fiangonana dia talenta zato sy arivo sy fiton-jato sy dimy amby fito-polo sikla, araka ny siklan'ny fitoerana masina.",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "Ary ny volafotsin'"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "ireo voaisa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "tamin'ny fiangonana"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "zato"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talenta"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "sy arivo"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "sy fito"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "zato (fiton-jato)"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "sy dimy"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "fito-polo"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sikla"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "araka ny siklan'"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ny fitoerana masina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:20.139293398Z",
+  "model": "glm-5.3"
+}

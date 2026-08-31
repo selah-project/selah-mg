@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 26:30",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary hofongorako ⟨את⟩ ny fitoerana avonareo, ary hotehiriziko ⟨את⟩ ny tsangam-batonareo, ary hanakoako ny fatinareo ambonin'ny fatin'ny sampionareo, ary halan'ny fanahiko ⟨ianareo⟩.",
+  "tokens": [
+    {
+      "surface": "והשמדתי",
+      "gloss": "Ary hofongorako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitoerana avonareo"
+    },
+    {
+      "surface": "במתיכם",
+      "gloss": "fitoerana avonareo"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ary hotehiriziko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tsangam-batonareo"
+    },
+    {
+      "surface": "חמניכם",
+      "gloss": "tsangam-batonareo"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ary hanakoako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fatinareo"
+    },
+    {
+      "surface": "פגריכם",
+      "gloss": "fatinareo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "fatin'ny"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "sampionareo"
+    },
+    {
+      "surface": "וגעלה",
+      "gloss": "halan'ny"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "fanahiko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ianareo",
+      "marks": "ianareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:23:28.435063541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Aza mihinana ⟨את⟩ mofo ilay tompon'ny maso ratsy, ary aza maniry ny sakafo matsiriny.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "mihinana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mofo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mofo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "עין",
+      "gloss": "maso"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "maniry"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "ny sakafo matsiriny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:56:22.199525133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 71,
+  "translation": "Ry Eloahiko, afaho ahy amin'ny tànan'ny ratsy fanahy, amin'ny tanan'ny mivadika sy mpanao herisetra.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Eloahiko"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "afaho ahy"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "amin'ny tànany"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ratsy fanahy"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "amin'ny tanany"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "mivadika"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "sy mpanao herisetra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:19.235197802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 112,
+  "translation": "Harena sy havitriana no ao an-tranony; ary ny fahamariny mijoro mandrakizay.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Harena"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "sy havitriana"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ao an-tranony"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ny fahamariny"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "mijoro"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "mandrakizay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:46.792474971Z",
+  "model": "glm-5.3"
+}

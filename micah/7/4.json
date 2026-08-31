@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 7:4",
+  "book": "micah",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ny tsara aminy dia tahaka ny tsilo, ary ny mahitsy mihoatra noho ny fefy tsilo; tonga ny andron'ny mpiambina anao, ny fitsidihanao; ankehitriny no ho tonga ny fahoriana azy.",
+  "tokens": [
+    {
+      "surface": "טובם",
+      "gloss": "Ny tsara aminy"
+    },
+    {
+      "surface": "כחדק",
+      "gloss": "tahaka ny tsilo"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ny mahitsy"
+    },
+    {
+      "surface": "ממסוכה",
+      "gloss": "mihoatra noho ny fefy tsilo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "מצפיך",
+      "gloss": "ny mpiambina anao"
+    },
+    {
+      "surface": "פקדתך",
+      "gloss": "ny fitsidihanao"
+    },
+    {
+      "surface": "באה",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ankehitriny"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ho tonga"
+    },
+    {
+      "surface": "מבוכתם",
+      "gloss": "ny fahoriana azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:16:22.851607747Z",
+  "model": "glm-5.3"
+}

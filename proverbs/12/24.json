@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 12:24",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ny tanan'ny mazotoa dia manapaka; fa ny kamo ho tonga mpanompo (manao asa an-terasitra).",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "ny tanan'ny"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "mazotoa"
+    },
+    {
+      "surface": "תמשול",
+      "gloss": "manapaka"
+    },
+    {
+      "surface": "ורמיה",
+      "gloss": "fa ny kamo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ho tonga"
+    },
+    {
+      "surface": "למס",
+      "gloss": "mpanompo (an-terasitra)"
+    }
+  ],
+  "timestamp": "2026-08-31T16:52:13.748983233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Ka nanandratra ny tànany hanoa azy ⟨mba⟩ hanetry any an-efitra ⟨azy⟩.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "nanandratra"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ny tànany"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "hanetry"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ny olona)"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "any an-efitra"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:12.329123071Z",
+  "model": "glm-5.3"
+}

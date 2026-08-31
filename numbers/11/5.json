@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Mahatsiarovantsika ⟨את⟩ ny hazandrano izay nihinantsika tany Mitsrayim maimaim-poana: ⟨את⟩ ny voatango, ⟨את⟩ ny melona, ⟨את⟩ ny pôroa, ⟨את⟩ ny tongolo, ary ⟨את⟩ ny tongolo lay.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "Mahatsiarovantsika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny hazandrano"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "ny hazandrano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "nihinantsika"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "tany Mitsrayim"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "maimaim-poana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny voatango"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "ny voatango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny melona"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "ny melona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny pôroa"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "ny pôroa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tongolo"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "ny tongolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tongolo lay"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "ny tongolo lay"
+    }
+  ],
+  "timestamp": "2026-08-31T13:28:28.409707359Z",
+  "model": "glm-5.3"
+}

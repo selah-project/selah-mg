@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 13:11",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary ho tonga ⟨izay⟩ raha entan'i Yahveh anao ho any amin'ny tany Kenaana, araka ny nianianany taminao sy tamin'ny razanao, ka homeny anao izy.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ary ho tonga ⟨izay⟩ raha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "raha"
+    },
+    {
+      "surface": "יבאך",
+      "gloss": "entan'i … anao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaana"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "nianianany"
+    },
+    {
+      "surface": "לך",
+      "gloss": "taminao"
+    },
+    {
+      "surface": "ולאבתיך",
+      "gloss": "sy tamin'ny razanao"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ka homeny"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:25:25.199690644Z",
+  "model": "glm-5.3"
+}

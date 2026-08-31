@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 136,
+  "translation": "Tamin'ny tanana mahery sy tamin'ny sandrina nalatsaka, fa ho an-foreverona ny hesediny.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "Tamin'ny tanana"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "sy tamin'ny sandrina"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "nalatsaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho an-foreverona"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ny hesediny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:17.782002598Z",
+  "model": "glm-5.3"
+}

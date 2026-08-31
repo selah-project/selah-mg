@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 4:16",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Tsy misy farany ⟨ny⟩ vahoaka rehetra, ho an'izay rehetra efa teo alohany; fa na ny taoriana aza tsy hifaly aminy: satria ity koa dia hebel sy fanenjehena rivotra.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "farany"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho an'ny rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "an'izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "היה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "teo alohany"
+    },
+    {
+      "surface": "גם",
+      "gloss": "fa na ... aza"
+    },
+    {
+      "surface": "האחרונים",
+      "gloss": "ny taoriana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "hifaly"
+    },
+    {
+      "surface": "בו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "ורעיון",
+      "gloss": "sy fanenjehena"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rivotra"
+    }
+  ],
+  "timestamp": "2026-08-31T18:37:32.225898647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "fandatsa-bolo no solon'ny fandatsa-bolo, ratra no solon'ny ratra, tsimatimoima no solon'ny tsimatimoima.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "fandatsa-bolo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "solon'ny"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "fandatsa-bolo"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ratra"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "solon'ny"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ratra"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "tsimatimoima"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "solon'ny"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "tsimatimoima"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:10.219222250Z",
+  "model": "glm-5.3"
+}

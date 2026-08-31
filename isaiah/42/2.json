@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Tsy hihabhaba ⟨izy⟩, ary tsy hasandratra, ary tsy hampaneno any anivon'ny lalana ny feony.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "hihabhaba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "hasandratra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "hampaneno"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "any anivon'ny lalana"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "ny feony"
+    }
+  ],
+  "timestamp": "2026-08-31T15:16:04.023132697Z",
+  "model": "glm-5.3"
+}

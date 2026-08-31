@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary Izy nanatitra ⟨את⟩ anao sy ny rahalahinao rehetra, taranak'i Levi, miaraka aminao ⟨את⟩; ary ianareo kosa mitady ny fisoronana koa?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "nanatitra"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ anao",
+      "marks": "ianao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny rahalahinao rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ny rahalahinao"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taranaka"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ miaraka aminao"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "mitady"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "fisoronana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:29:55.687009306Z",
+  "model": "glm-5.3"
+}

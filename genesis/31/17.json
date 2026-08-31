@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary nitsangana Yaakob ka nametraka ⟨את⟩ ny zanany sy ⟨את⟩ ny vadiny tamin'ny rameva.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nitsangana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "nametraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny vadiny"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ny vadiny"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "rameva"
+    }
+  ],
+  "timestamp": "2026-08-31T12:45:43.589403356Z",
+  "model": "glm-5.3"
+}

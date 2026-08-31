@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Amin'ny tenin'i Yahveh no natao ⟨ny⟩ lanitra, ary amin'ny fofon'ny vavany ⟨no natao⟩ ny tafiny rehetra.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "amin'ny tenin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "lanitra"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "no natao"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "ary amin'ny fofon'ny"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "vavany"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ny tafiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:55.188123371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ny zanak'i Merari — araka ny fianakaviany sy araka ny taranaky ny razany — no hohafanarahanao ⟨את⟩ azy ireo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "araka ny fianakaviany"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "araka ny taranaky"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ny razany"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "hohafanarahanao"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azy ireo",
+      "marks": "azy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:25:03.937373159Z",
+  "model": "glm-5.3"
+}

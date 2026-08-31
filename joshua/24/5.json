@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary naniraka ⟨את⟩ an'i Moshe sy ⟨את⟩ an'i Aharono Aho, dia namely loza an'i Mitsrayim Aho, araka izay nataoko tao anatiny; ary taorian'izay dia nentiko mialaka ⟨את⟩ hianareo.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "naniraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "an'i Aharono"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharono"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "namely loza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka izay"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nataoko"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "tao anatiny"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "taorian'izay"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "nentiko mialaka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ hianareo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:03:51.184215865Z",
+  "model": "glm-5.3"
+}

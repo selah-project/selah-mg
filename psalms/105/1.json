@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Mankasitraha an'i Yahveh, miantsoa amin'ny anarany, ataovy fantatra eo amin'ny firenena ny asa mahagagany.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Mankasitraha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "miantsoa"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "amin'ny anarany"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "ataovy fantatra"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "eo amin'ny firenena"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ny asa mahagagany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:39.065259305Z",
+  "model": "glm-5.3"
+}

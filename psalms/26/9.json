@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Aza manangona ⟨miaraka⟩ amin'ny mpanota ny aiko, ary miaraka amin'ny lehilahy mpandatsa-dra ny fiainako.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "manangona"
+    },
+    {
+      "surface": "עם",
+      "gloss": "miaraka amin'ny"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "mpanota"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ary miaraka amin'ny"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "mpandatsa-dra"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ny fiainako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:36.100852514Z",
+  "model": "glm-5.3"
+}

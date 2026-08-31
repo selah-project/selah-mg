@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Efa lany ny masoko amin'ny teninao, ka manao hoe: Rahoviana no handrano Ahy ianao?",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Efa lany"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ny masoko"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "amin'ny teninao"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka manao hoe:"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Rahoviana"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "no handrano Ahy ianao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:45.681444666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 144,
+  "translation": "Ny omby mahery hitondra enta-mavesatra; tsy misy fahasimbana, tsy misy mivoaka ho babo, ary tsy misy fitarainana any an-dalambeintsika.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "ny omby mahery"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "hitondra enta-mavesatra"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "fahasimbana"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ary tsy misy"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "mivoaka ho babo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "fitarainana"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "any an-dalambeintsika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:44.252829510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 109,
+  "translation": "Voatendry hoesaka aminy ny ratsy fanahy, ary ny mpanaratsina hitsangana eo ankavanany.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "Voatendry"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hoesaka aminy"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "ary ny mpanaratsina"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "hitsangana"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ankavanany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:48.177551070Z",
+  "model": "glm-5.3"
+}

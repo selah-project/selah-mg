@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 2:9",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ny tongotry ny hasidiny no tehiriziny, fa ny ratsy fanahy dia mangina ao amin'ny maizina; fa tsy amin'ny hery no handresy ny olona.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "ny tongotry"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "ny hasidiny"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "no tehiriziny"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "fa ny ratsy fanahy"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ao amin'ny maizina"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "mangina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "amin'ny hery"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "no handresy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ny olona"
+    }
+  ],
+  "timestamp": "2026-08-31T14:15:18.478368931Z",
+  "model": "glm-5.3"
+}

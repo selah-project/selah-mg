@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Raha mivoaka afo ka mahita tsilo, ary levona ny fihary na ny vary mijoro na ny saha, dia tsy maintsy aloan'ny nandoro afo ⟨את⟩ ny fandoroana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "mivoaka"
+    },
+    {
+      "surface": "אש",
+      "gloss": "afo"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "ka mahita"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "tsilo"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "ary levona"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "fihary"
+    },
+    {
+      "surface": "או",
+      "gloss": "na"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "ny vary mijoro"
+    },
+    {
+      "surface": "או",
+      "gloss": "na"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ny saha"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "tsy maintsy aloa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "haloany"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "ilay nandoro afo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fandoroana"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "ny fandoroana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:56:44.340642194Z",
+  "model": "glm-5.3"
+}

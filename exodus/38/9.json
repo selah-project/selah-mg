@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Ary nataony ⟨את⟩ ny kianja: tamin'ny lafiny atsimo, tany atsimo, ny tsirobohon'ny kianja dia rongony habe volombou (lin tsara nafefiny), zato hao;",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny kianja"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ny kianja"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "tamin'ny lafiny"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "atsimo"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "tany atsimo"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "ny tsirobohon'ny"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kianja"
+    },
+    {
+      "surface": "שש",
+      "gloss": "rongony habe volombou"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "nafefiny"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "zato"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "hao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:09:20.563562548Z",
+  "model": "glm-5.3"
+}

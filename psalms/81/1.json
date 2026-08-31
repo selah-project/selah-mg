@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 81,
+  "translation": "Ho an'ny mpivady tononkira, amin'ny Gittith, ho an'i Asaf.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho an'ny mpivady tononkira"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gittith"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ho an'i Asaf"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:21.060841956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 19:8",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary hitomany ny mpanjono, ary hitsaoka ny mpilatsaka hiro eo amin'ny lakandrosa, ary izay manenjana harato eo ambonin'ny tavan'ny rano ho malemy.",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "hitomany"
+    },
+    {
+      "surface": "הדיגים",
+      "gloss": "ny mpanjono"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "hitsaoka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "משליכי",
+      "gloss": "mpilatsaka"
+    },
+    {
+      "surface": "ביאור",
+      "gloss": "amin'ny lakandrosa"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "hiro"
+    },
+    {
+      "surface": "ופרשי",
+      "gloss": "izay manenjana"
+    },
+    {
+      "surface": "מכמרת",
+      "gloss": "harato"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambonin'ny"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tavan'ny"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "ho malemy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:07:32.854904472Z",
+  "model": "glm-5.3"
+}

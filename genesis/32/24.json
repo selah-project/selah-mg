@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ary naka azy izy ka nampita azy ⟨את⟩ ny renirano, dia nampita ⟨את⟩ izay rehetra nananany.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "naka azy"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "nampita azy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny renirano"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ny renirano"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "nampita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay rehetra nananany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nananany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:46:40.435315082Z",
+  "model": "glm-5.3"
+}

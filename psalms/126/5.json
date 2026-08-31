@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 126,
+  "translation": "Izay mamafy amin'ny ranomaso hanjara amin'ny fihobiahana.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "izay mamafy"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "amin'ny ranomaso"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "amin'ny fihobiahana"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "hanjara"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:15.607138015Z",
+  "model": "glm-5.3"
+}

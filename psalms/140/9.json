@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 140,
+  "translation": "Aza omeo, Yahveh, ny fanirian'ny ratsy fanahy; ny teti-dratsiny aza navela hivoatra, fandrao hiakatra izy. Selah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "omeo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "fanirian'ny"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ratsy fanahy"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "teti-dratsiny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "navela hivoatra"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "hiakatra izy"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:40.177528882Z",
+  "model": "glm-5.3"
+}

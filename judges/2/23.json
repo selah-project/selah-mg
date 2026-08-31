@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 2:23",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary navelan'i Yahveh ⟨את⟩ ireo firenena ireo, mba tsy hozarainy haingana izy ireo; ary tsy natolotr'i Yahveh ho an-tanan'i Yehoshoa izy ireo.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "Ary navelan'i Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ireo firenena ireo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ireo firenena"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "mba tsy"
+    },
+    {
+      "surface": "הורישם",
+      "gloss": "hozarainy"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "haingana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "natolotra"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ho an-tanana"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "an'i Yehoshoa"
+    }
+  ],
+  "timestamp": "2026-08-31T14:04:15.214865101Z",
+  "model": "glm-5.3"
+}

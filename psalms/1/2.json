@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Fa ⟨ao⟩ amin'ny Toran'ny Yahveh no sitrakony, ary amin'ny Torany no ifierenany amim-bavaka andro aman'alina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ao⟩"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "amin'ny Toran'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "sitrakony"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "ary amin'ny Torany"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ifierenany amim-bavaka"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "andro"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "aman'alina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:26.463346673Z",
+  "model": "glm-5.3"
+}

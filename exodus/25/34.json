@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 25:34",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary eo amin'ny menorah dia kapoaka efatra voa-amandy, mbamin'ny kibony sy ny voninkazoiny.",
+  "tokens": [
+    {
+      "surface": "ובמנרה",
+      "gloss": "ary eo amin'ny menorah"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "efatra"
+    },
+    {
+      "surface": "גבעים",
+      "gloss": "kapoaka"
+    },
+    {
+      "surface": "משקדים",
+      "gloss": "voa-amandy"
+    },
+    {
+      "surface": "כפתריה",
+      "gloss": "kibony"
+    },
+    {
+      "surface": "ופרחיה",
+      "gloss": "sy ny voninkazoiny"
+    }
+  ],
+  "timestamp": "2026-08-31T13:05:00.920688219Z",
+  "model": "glm-5.3"
+}

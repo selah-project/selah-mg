@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "dia homeko ny ranonoranareo amin'ny fahavarany, dia hanome ny tany ny vokany, ary ny hazon'ny saha hanome ny voany.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "dia homeko"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "ny ranonoranareo"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "amin'ny fahavarany"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "dia hanome"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ny vokany"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ary ny hazon'ny"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "saha"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "hanome"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ny voany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:20:23.091735082Z",
+  "model": "glm-5.3"
+}

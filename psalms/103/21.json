@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 103,
+  "translation": "Misaora an'i Yahveh ianareo, tafika rehetra momba Azy, mpanompony manao ny sitrapony.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Misaora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "tafika momba Azy"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "mpanompony"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "manao"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "ny sitrapony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:16.128125317Z",
+  "model": "glm-5.3"
+}

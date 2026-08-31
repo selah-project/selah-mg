@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Raiso avy amin'izy ireo izany, ary hatao izy ireo mba hanompoa ⟨את⟩ ny fanompoan'ny trano-lay fihaonana; ary homeo ⟨את⟩ azy ho amin'ny Levita, samy araka ny fanompoany.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Raiso"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ avy amin'izy ireo"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ary hatao"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "mba hanompoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanompoan'ny trano-lay fihaonana"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "fanompoana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "trano-lay"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ary homeo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ azy",
+      "marks": "ho amin'ny Levita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho amin'ny"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levita"
+    },
+    {
+      "surface": "איש",
+      "gloss": "samy"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "fanompoany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:26:09.354990660Z",
+  "model": "glm-5.3"
+}

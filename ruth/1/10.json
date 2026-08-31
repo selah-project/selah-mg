@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Fa hoy izy roa tamin'i Naomy: Azo antoka fa ⟨miaraka⟩ aminao izahay no hiverina ho any amin'ny firenenao.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "Fa hoy izy roa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "tamin'i Naomy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Azo antoka fa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ miaraka aminao",
+      "marks": "miaraka aminao"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "hiverina"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "ho any amin'ny firenenao"
+    }
+  ],
+  "timestamp": "2026-08-31T17:11:40.891904198Z",
+  "model": "glm-5.3"
+}

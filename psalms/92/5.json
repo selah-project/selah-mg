@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 92,
+  "translation": "Fa Yahveh efa nampifaly ahy tamin'ny asanao; amin'ny asan'ny tananao mihira ho faly aho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "efa nampifaly ahy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "tamin'ny asanao"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "amin'ny asan'ny"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tananao"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "mihira ho faly aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:44.070251874Z",
+  "model": "glm-5.3"
+}

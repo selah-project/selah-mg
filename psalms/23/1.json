@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Fihirana nataon'i David. Yahveh no mpiandry ahy; tsy hangataka aho.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Fihirana"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nataon'i David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "mpiandry ahy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "hangataka aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:08.591971841Z",
+  "model": "glm-5.3"
+}

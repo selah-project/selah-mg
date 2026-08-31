@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 8:22",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Raha mbola misy ny tany, dia ny famafazana sy ny fijinjana, ny hatsiaka sy ny hafanana, ny fahavaratra sy ny ririnina, ny andro sy ny alina, dia tsy hitsahatra.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Raha mbola misy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "andro rehetra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ny famafazana"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "sy ny fijinjana"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "ny hatsiaka"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "sy ny hafanana"
+    },
+    {
+      "surface": "וקיץ",
+      "gloss": "ny fahavaratra"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "sy ny ririnina"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ny andro"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "sy ny alina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישבתו",
+      "gloss": "hitsahatra"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:50.924730560Z",
+  "model": "glm-5.3"
+}

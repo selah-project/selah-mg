@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 94,
+  "translation": "Ary Yahveh ⟨zanako⟩ ho fiarovana avo ho ahy, ary Elohiko ho vatolampy fiampenako.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ary nisy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "fiarovana avo"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ary Elohiko"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "vatolampy"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "fiampenako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:00.438572969Z",
+  "model": "glm-5.3"
+}

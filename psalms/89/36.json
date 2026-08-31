@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Indray mandeha efa nianiana tamin'⟨ny⟩ fahamasinako aho: tsy handainga amin'i Davida.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "indray mandeha"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "efa nianiana... aho"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "tamin'ny fahamasinako"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨raha⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "amin'i Davida"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "tsy handainga"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:19.604812503Z",
+  "model": "glm-5.3"
+}

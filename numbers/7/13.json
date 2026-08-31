@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 7:13",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary ny fanatany dia lovia volafotsy iray, lanjany dia shekely telo-polo amby zato, sy tavy iray volafotsy, shekely fito-polo, araka ny shekelin'ny fahamasinana; roa tonta feno vovo-tsy voafangaro tamin'ny diloilo ho fanatitra iray hafa.",
+  "tokens": [
+    {
+      "surface": "וקרבנו",
+      "gloss": "Ary ny fanatany"
+    },
+    {
+      "surface": "קערת",
+      "gloss": "lovia"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "iray"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "telo-polo"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "amby zato"
+    },
+    {
+      "surface": "משקלה",
+      "gloss": "lanjany"
+    },
+    {
+      "surface": "מזרק",
+      "gloss": "tavy"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "fito-polo"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekely"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "araka ny shekelin'ny"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "fahamasinana"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "roa tonta"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "feno"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "vovo-tsaro"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "voafangaro"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "tamin'ny diloilo"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "ho fanatitra iray hafa"
+    }
+  ],
+  "timestamp": "2026-08-31T17:58:50.006860372Z",
+  "model": "glm-5.3"
+}

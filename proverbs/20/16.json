@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 20:16",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Esory ny lambany, satria izy no nanolotra ho mpanantitra ho an'ny vahiny; ary ho an'ny vahiny hafa kosa, tengeloy azy.",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "Esory"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ny lambany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "nanolotra ho mpanantitra"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ho an'ny vahiny"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ary ho an'ny ... kosa"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "vahiny hafa"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "tengeloy azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:55:07.555146233Z",
+  "model": "glm-5.3"
+}

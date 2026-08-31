@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 10:9",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary Joabe nahita fa ny tarehin'ny ady nisy teo anatrehany ⟨teo⟩ aloha sy tahafo; ka nifidy tamin'ny tanora voafidy rehetra any amin'ny Isiraely izy, ka nametraka azy hifanindry amin'i Arama.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ary Joabe nahita"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joabe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nisy"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "teo anatrehany"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ny tarehin'ny"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ady"
+    },
+    {
+      "surface": "מפנים",
+      "gloss": "teo aloha"
+    },
+    {
+      "surface": "ומאחור",
+      "gloss": "sy tahafo"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "ka nifidy tamin'ny"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "tanora voafidy"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "any amin'ny Isiraely"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "ka nametraka"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "hifanindry amin'ny"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    }
+  ],
+  "timestamp": "2026-08-31T14:31:36.489181140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Sy mpanao karazana majika, sy izay manontany amin'ny fanahy mamily, sy mpahalala mihoa-panahy, ary izay manontany amin'ny maty.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "sy mpanao"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "karazana majika"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "sy izay manontany"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "amin'ny fanahy mamily"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "sy mpahalala mihoa-panahy"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "ary izay manontany"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "maty"
+    }
+  ],
+  "timestamp": "2026-08-31T13:47:20.972881553Z",
+  "model": "glm-5.3"
+}

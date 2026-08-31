@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary esoriko ⟨את⟩ ny anaran'ny Baalim amin'ny vavany, ary tsy hotsarovaina intsony amin'ny anarany ireo.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "Ary esoriko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anaran'ny Baalim"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ny anaran'ny"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalim"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "amin'ny vavany"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "hotsarovaina"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "amin'ny anarany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:07:36.017988668Z",
+  "model": "glm-5.3"
+}

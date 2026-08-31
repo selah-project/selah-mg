@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "Manaova soa araka ny sitrakao an'i ⟨את⟩ Ziony; amboary ny mandan'ny Yeroshalayim.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Manaova soa"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "araka ny sitrakao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ziony"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ziony"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "amboary"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "ny mandan'ny"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:17.049953418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary ny Adam niantso ny anaran'ny vadiny hoe Hava, fa izy no renin'ny velona rehetra.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ary ... niantso"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ny Adam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "anaran'ny"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vadiny"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Hava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "no renin'ny"
+    },
+    {
+      "surface": "אם",
+      "gloss": "renin'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "חי",
+      "gloss": "velona"
+    }
+  ],
+  "timestamp": "2026-08-31T17:55:06.635679881Z",
+  "model": "glm-5.3"
+}

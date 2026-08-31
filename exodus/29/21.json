@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 29:21",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary halainao amin'ny rà izay eo ambony ny alitarà, sy amin'ny diloilo fanosorana, ary hafaingainao amin'i Aharon sy amin'ny fitafiany sy amin'ny zanany ary amin'ny fitafian'ny zanany ⟨את⟩ aminy; ary ho masina izy sy ny fitafiany sy ny zanany ary ny fitafian'ny zanany ⟨את⟩ aminy.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "halainao"
+    },
+    {
+      "surface": "מן",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "rà"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ny alitarà"
+    },
+    {
+      "surface": "ומשמן",
+      "gloss": "sy amin'ny diloilo"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "fanosorana"
+    },
+    {
+      "surface": "והזית",
+      "gloss": "hafaingainao"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy amin'ny"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "fitafiany"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy amin'ny"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy amin'ny"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "fitafian'ny"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ aminy",
+      "marks": "zanany"
+    },
+    {
+      "surface": "וקדש",
+      "gloss": "ho masina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "sy ny fitafiany"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "sy ny zanany"
+    },
+    {
+      "surface": "ובגדי",
+      "gloss": "ary ny fitafian'ny"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ aminy",
+      "marks": "zanany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:06:01.574759075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Araka ny isan'izay hataonareo no hizahanareo; toy izany no hataonareo amin'ny tsirairay araka ny isany.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "Araka ny isan'ny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "hataonareo"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "toy izany"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "no hataonareo"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "amin'ny tsirairay"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "araka ny isany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:30:03.032298378Z",
+  "model": "glm-5.3"
+}

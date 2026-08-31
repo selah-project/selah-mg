@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Amin'ny andron'ny fahalavinana rehetra no hitsahany, ⟨את⟩ ilay tsy mba nitsahatra tamin'ny fialan-tsasatry ny Sabatanareo, fony nitoeranareo tao aminy.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "amin'ny andron'ny"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "fahalavinana"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "no hitsahany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay tsy mba nitsahatra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy mba"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "nitsahatra"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "tamin'ny Sabatanareo"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "fony nitoeranareo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "tao aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:23:42.577187572Z",
+  "model": "glm-5.3"
+}

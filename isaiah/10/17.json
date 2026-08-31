@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 10:17",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary ho tonga ny fahazavan'i Isiraely ho afo, ary ny Iray Masiny ho lela-mafia; ary hirehitra izany ka handevona ny tsilony sy ny sary tsilony amin'ny andro iray.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ary ho tonga"
+    },
+    {
+      "surface": "אור",
+      "gloss": "fahazavana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "לאש",
+      "gloss": "ho afo"
+    },
+    {
+      "surface": "וקדושו",
+      "gloss": "Iray Masiny"
+    },
+    {
+      "surface": "ללהבה",
+      "gloss": "ho lela-mafia"
+    },
+    {
+      "surface": "ובערה",
+      "gloss": "hirehitra"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "handevona"
+    },
+    {
+      "surface": "שיתו",
+      "gloss": "tsilo"
+    },
+    {
+      "surface": "ושמירו",
+      "gloss": "sary tsilo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    }
+  ],
+  "timestamp": "2026-08-31T15:05:52.112311311Z",
+  "model": "glm-5.3"
+}

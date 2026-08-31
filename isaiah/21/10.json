@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ry vahoakako voatotrika, ry zanaky ny fanesorana varyiko: izay reko tamin'i Yahveh Tsevaot, Elohin'i Yisraela, no efa nambarako tamiko.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "ry vahoakako voatotrika"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ry zanaky"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "ny fanesorana varyiko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "reko"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh Tsevaot, Elohin'i Yisraela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "nambarako"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "tamiko"
+    }
+  ],
+  "timestamp": "2026-08-31T15:07:38.050898344Z",
+  "model": "glm-5.3"
+}

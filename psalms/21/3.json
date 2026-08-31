@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ny fanirian'ny fony dia nomenao azy, ary ny fangatahan'ny molony tsy nolavinao akory. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Ny fanirian'"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ny fony"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "nomenao"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "ary ny fangatahan'"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ny molony"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tsy ... akory"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "nolavinao"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:01.325677513Z",
+  "model": "glm-5.3"
+}

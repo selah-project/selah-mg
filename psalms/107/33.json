@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 107,
+  "translation": "Mamarana renirano ho efitra, ary loharanon-drano ho tany mangetaheta.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "Mamarana"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "renirano"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "ho efitra"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "ary loharanon-"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "ho tany mangetaheta"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:13.687546572Z",
+  "model": "glm-5.3"
+}

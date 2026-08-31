@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "⟨את⟩ ny voly mihitsara amin'ny fijinjanao tsy hotravainao, ary ⟨את⟩ ny voalobon'ny tanimboalobonao tsy hotangoroinao; taona fialan-tsasatra no hataon'ny tany.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny voly mihitsara amin'ny fijinjanao"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "voly mihitsara"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "fijinjanao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "hotravainao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny voalobon'ny tanimboalobonao"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "voalobon'ny"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "tanimboalobonao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "hotangoroinao"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "taona"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "fialan-tsasatra"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "no hataon'ny"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:21:19.092332953Z",
+  "model": "glm-5.3"
+}

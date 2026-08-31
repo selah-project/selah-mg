@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 109,
+  "translation": "Aoka ho voatsiaro eo anatrehan'i Yahveh ny tsi-fahamarinan'ny razany, ary ny fahotan'ny reniny aza aza hesorina.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "aoka ho voatsiaro"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ny tsi-fahamarinana"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ny razany"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eo anatrehan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "ary ny fahotan'"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ny reniny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "hesorina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:51.552336078Z",
+  "model": "glm-5.3"
+}

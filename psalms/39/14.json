@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "Esory amiko ny fijeranao, mba hifaly aho, alohan'ny handehanako ka tsy ho eny intsony.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "Esory amiko ny fijeranao"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "mba hifaly aho"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "alohan'ny"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "handehanako"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "tsy ho eny intsony"
+    }
+  ],
+  "timestamp": "2026-08-31T18:13:54.706374509Z",
+  "model": "glm-5.3"
+}

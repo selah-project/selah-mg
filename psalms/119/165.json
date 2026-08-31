@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Fihavanana be no an'ny tia ny toràlanao, ary tsy misy fampidràtrana amin'izy ireo.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "fihavanana"
+    },
+    {
+      "surface": "רב",
+      "gloss": "be"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "an'ny tia"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ny toràlanao"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ary tsy misy"
+    },
+    {
+      "surface": "למו",
+      "gloss": "amin'izy ireo"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "fampidràtrana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:41.527476615Z",
+  "model": "glm-5.3"
+}

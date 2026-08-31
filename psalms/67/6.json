@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 67,
+  "translation": "Hankalaza Anao ny firenena, ry Elohim; hankalaza Anao ny firenena rehetra.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Hanakalaza Anao"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ny firenena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ry Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "hanakalaza Anao"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ny firenena"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "rehetra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:25.860610229Z",
+  "model": "glm-5.3"
+}

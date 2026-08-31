@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Tsy hisy maso mahita ahy intsony, dia ilay efa nahita ahy; ny masanao hanatrika ahy, fa tsy misy intsony aho.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "mahita ahy intsony"
+    },
+    {
+      "surface": "עין",
+      "gloss": "maso"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "efa nahita ahy"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ny masanao"
+    },
+    {
+      "surface": "בי",
+      "gloss": "hanatrika ahy"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "fa tsy misy intsony aho"
+    }
+  ],
+  "timestamp": "2026-08-31T17:00:01.364361977Z",
+  "model": "glm-5.3"
+}

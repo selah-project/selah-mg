@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "sy ⟨את⟩ ny sarotany hodin'ny ondry aman'd rainy vo mena, sy ⟨את⟩ ny sarotany hodin'nytachash, ary ⟨את⟩ ny efitra fidirana an'ny fabudana",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny sarotany hodin'ny ondry aman'd rainy vo mena"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "ny sarotany"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "hodin'ny"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "ondry aman'd rainy"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "vo mena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny sarotany hodin'ny tachash"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "ny sarotany"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "hodin'ny"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "tachash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny efitra fidirana"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "ny efitra fidirana"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "an'ny fabudana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:43.039639103Z",
+  "model": "glm-5.3"
+}

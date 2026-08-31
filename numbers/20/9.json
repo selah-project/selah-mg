@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary naka i Moshe ⟨את⟩ ny tehika teo anatrehan'i Yahveh, araka ny nandidiany ⟨azy⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "naka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tehika"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "ny tehika"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "teo anatrehan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "nandidiany azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:58:29.974390565Z",
+  "model": "glm-5.3"
+}

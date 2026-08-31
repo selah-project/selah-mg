@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Tsara ny mihaino fananaran'ny hendry, toy ny mihainon'ny olona hiran'ny adala.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Tsara"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ny mihaino"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "fananaran'ny"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "hendry"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "toy ny olona"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mihainon'ny"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "hiran'ny"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "adala"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:53.165760585Z",
+  "model": "glm-5.3"
+}

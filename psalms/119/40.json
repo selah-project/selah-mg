@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Indro, maniry ny didinao aho; amin'ny fahamarinanao velomaho aho.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "maniry"
+    },
+    {
+      "surface": "לפקדיך",
+      "gloss": "ny didinao"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "amin'ny fahamarinanao"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "velomaho aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:39.234092140Z",
+  "model": "glm-5.3"
+}

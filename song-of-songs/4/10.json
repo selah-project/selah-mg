@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 4:10",
+  "book": "song-of-songs",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Endrika tsara ny fitiavanao, rahavaviko mampakatra; tsara mihoatra noho ny divay ny fitiavanao, ary ny fofon'ny diloilanao mihoatra noho ny zava-manitra rehetra!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "endrika"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "ny fitiavanao"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "rahavaviko"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "mampakatra"
+    },
+    {
+      "surface": "מה",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "mihoatra"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "ny fitiavanao"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "noho ny divay"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "ary ny fofona"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "ny diloilanao"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mihoatra noho ny"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "zava-manitra rehetra"
+    }
+  ],
+  "timestamp": "2026-08-31T17:10:01.589093051Z",
+  "model": "glm-5.3"
+}

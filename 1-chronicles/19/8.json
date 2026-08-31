@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary ren'i Davida izany, ka naniraka ⟨את⟩ Joaba sy ⟨את⟩ ny tafika rehetra mahery setra.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ren'i Davida izany"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "naniraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joaba"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tafika rehetra mahery setra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "tafika"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "mahery setra"
+    }
+  ],
+  "timestamp": "2026-08-31T17:39:38.776399915Z",
+  "model": "glm-5.3"
+}

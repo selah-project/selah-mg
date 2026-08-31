@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 45,
+  "translation": "Ary naniraka ⟨את⟩ ny rahalahiny izy ka dia lasa izy ireo; ary hoy izy taminy: Aza mifanontontonana am-by lalana.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ary naniraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rahalahiny"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ny rahalahiny"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ka dia lasa izy ireo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ary hoy izy"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tamin'izy ireo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "mifanontontonana"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "am-by lalana"
+    }
+  ],
+  "timestamp": "2026-08-31T12:53:15.667747456Z",
+  "model": "glm-5.3"
+}

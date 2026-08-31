@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 49:3",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 49,
+  "translation": "Reobena, tehaihy ianao, faingoiko sy fiandohan'ny heriko; sady mihoatra amin'ny hasina no mihoatra amin'ny hery.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Reobena"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "tehaihy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "heriko"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "sy fiandohan'ny"
+    },
+    {
+      "surface": "אוני",
+      "gloss": "faingoiko"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "mihoatra amin'ny"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "hasina"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "sy mihoatra amin'ny"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hery"
+    }
+  ],
+  "timestamp": "2026-08-31T12:53:52.463502134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 73,
+  "translation": "Fa ny foko dia nifohana, ary ny voa dia natsatsoiko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "nifohana"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "ary ny voa"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "natsatsoiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:32.816543893Z",
+  "model": "glm-5.3"
+}

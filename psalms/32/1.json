@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "An'i Davida. Fampianarana. Sambatra izay nesorina ny fandikana, izay voarakotra ny ota.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "An'i Davida"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Fampianarana"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Sambatra"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "nesorina"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ny fandikana"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "voarakotra"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "ny ota"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:23.897992677Z",
+  "model": "glm-5.3"
+}

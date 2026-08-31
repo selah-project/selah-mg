@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Fa fantatro ⟨את⟩ ny fipetrahanao sy ny fivoahanao ary ny fidiranao, ary ⟨את⟩ ny fahatezeranao amiko.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "Fa fantatro ny fipetrahanao"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "sy ny fivoahanao"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "ary ny fidiranao"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "fantatro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahatezeranao"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "ny fahatezeranao"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T15:13:24.369444397Z",
+  "model": "glm-5.3"
+}

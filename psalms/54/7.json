@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 54,
+  "translation": "Hiverina amin'ny fahavaloako ny ratsy; amin'ny fahamarinanao ringiahy azy.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "Hiverina"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ny ratsy"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "amin'ny fahavaloako"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "amin'ny fahamarinanao"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "ringiahy azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:31.050843422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Avy amin'ny ⟨את⟩ Lahimatoan'ny zanak'i Isiraela no nandraisany ⟨את⟩ ny volafotsy: dimy amby enimpolo sy telo ambyanjatopolo sy arivo, amin'ny sikalin'ny fitoerana masina.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "Avy amin'ny ⟨את⟩"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "Lahimatoan'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nandraisany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny volafotsy"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ny volafotsy"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "dimy"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "amby enimpolo"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "sy telo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "anjatopolo"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "sy arivo"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "amin'ny sikalin'ny"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "fitoerana masina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:24:59.847101983Z",
+  "model": "glm-5.3"
+}

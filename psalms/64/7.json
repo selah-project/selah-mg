@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 64,
+  "translation": "Mikaroka heloka izy; efa tanteraka ny fikarohana lalina; ary ny fanirian'ny olona tsirairay mbamin'ny fony dia lalina.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "mikaroka"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "heloka"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "efa tanteraka"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "fikarohana"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "lalina"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "ary ny fanirian"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ny olona tsirairay"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "mbamin'ny fony"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "dia lalina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:20.079050914Z",
+  "model": "glm-5.3"
+}

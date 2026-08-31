@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ho an'ny zavatra rehetra misy vanim-potoana, ary ora ho an'ny sitrapo rehetra ambanin'ny lanitra.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "ho an'ny ... rehetra"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "vanim-potoana"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ary ora"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho an'ny ... rehetra"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "sitrapo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ambanin'ny"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "lanitra"
+    }
+  ],
+  "timestamp": "2026-08-31T17:14:44.122208044Z",
+  "model": "glm-5.3"
+}

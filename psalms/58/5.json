@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 58,
+  "translation": "Ny poiziny dia toy ny poizin'ny menarana, tahaka ny ilay menarana marenina manidy ny sofiny.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "Ny poiziny"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ny azy"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "toy ny"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "poizin'"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "menarana"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "tahaka"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "ilay menarana (fano)"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "marenina"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "manidy"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ny sofiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:19.093928330Z",
+  "model": "glm-5.3"
+}

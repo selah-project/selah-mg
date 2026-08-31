@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Yahveh efa nanapatana ny tehin'ny olona ratsy, ny tehim-panapahan'ny mpifehy.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "efa nanapatana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ny tehy"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ny olona ratsy"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ny tehim-panapahana"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "ny mpifehy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:06:38.710997632Z",
+  "model": "glm-5.3"
+}

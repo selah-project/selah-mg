@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary hoy izy: Azafady, Adonay, iraho azafady amin'ny tanan'⟨ilay⟩ hirahinao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ka hoy izy"
+    },
+    {
+      "surface": "בי",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "iraho"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "amin'ny tanana"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "hirahinao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:56:00.828689512Z",
+  "model": "glm-5.3"
+}

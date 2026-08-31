@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ary Moshe, mpanompon'i Yahveh, dia maty tany, ao amin'ny tany Moaba, araka ny vavan'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "dia maty"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tany"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mpanompo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ao amin'ny tany"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "araka"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ny vavan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:52:21.723687824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary ny fitotoana hanatona anareo ⟨את⟩ ny fanangonam-boalavoaka, ary ny fanangonam-boalavoaka hanatona ⟨את⟩ ny famafazana; ary hihinana ny mofo nareo hianareo ho voky, ary hitoetra amim-pahaleovantena amin'ny taninareo.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "hanatona"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "ny fitotoana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanangonam-boalavoaka"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "ny fanangonam-boalavoaka"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "ary ny fanangonam-boalavoaka"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "hanatona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny famafazana"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ny famafazana"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ary hihinana"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "ny mofo nareo"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "ho voky"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "ary hitoetra"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "amim-pahaleovantena"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "amin'ny taninareom"
+    }
+  ],
+  "timestamp": "2026-08-31T13:21:10.155127125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Mandraha hevitra, dia ho foana; miteny ianareo, fa tsy hitsangana; fa El no amintsika.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "mandraha"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "hevitra"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "dia ho foana"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "miteny"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "teny"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "hitsangana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "amintsika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-31T15:04:41.442145665Z",
+  "model": "glm-5.3"
+}

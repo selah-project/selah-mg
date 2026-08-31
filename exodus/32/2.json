@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 32:2",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ary hoy Aharon taminy: Esory ny peratra volamena izay eo amin'ny sofin'ny vehivavy, ny zanakalahy, ary ny zanakavavy, ka ento atỳ amiko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "taminy:"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "פרקו",
+      "gloss": "Esory"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "ny peratra"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "eo amin'ny sofin'ny"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "vehivavy"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "zanakalahy"
+    },
+    {
+      "surface": "ובנתיכם",
+      "gloss": "sy ny zanakavavy"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "ka ento"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "atỳ amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T13:07:55.399950165Z",
+  "model": "glm-5.3"
+}

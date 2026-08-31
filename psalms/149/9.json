@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 149,
+  "translation": "Hanatanteraka amin'izy ireo ⟨את⟩ ny fitsarana voasoratra — hadatra izany ho an'ny mpanompo sira-poky rehetra. Miderà an'i Yah!",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "hanatanteraka"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "amin'izy ireo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ny fitsarana"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "voasoratra"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "hadatra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho an'ny ... rehetra"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "mpanompo sira-poky rehetra"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "miderà"
+    },
+    {
+      "surface": "יה",
+      "gloss": "an'i Yah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:23.154703235Z",
+  "model": "glm-5.3"
+}

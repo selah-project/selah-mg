@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 137,
+  "translation": "Aoka hitombo amin'ny lanivay ny lelako, raha tsy mahatsiaro anao aho, raha tsy manandratra ⟨את⟩ an'i Yeroshalayim ho eo ambonin'ny fifalianko aho.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "aoka hitombo"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ny lelako"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "amin'ny lanivay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "mahatsiaro anao aho"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "manandratra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yeroshalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "an'i Yeroshalayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho eo ambonin'ny"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "lohan'ny"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "fifalianko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:14.791140526Z",
+  "model": "glm-5.3"
+}

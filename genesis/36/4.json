@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Ary Adah niteraka tamin'i Esav ⟨את⟩ Elifaza, ary Bosmath niteraka ⟨את⟩ Reuela.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Ary ... niteraka"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Adah"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "tamin'i Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elifaza"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifaza"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "ary Bosmath"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reuela"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuela"
+    }
+  ],
+  "timestamp": "2026-08-31T12:47:48.141215806Z",
+  "model": "glm-5.3"
+}

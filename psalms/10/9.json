@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Mibodo mangingina izy ao amin'ny zava-miafina, toy ny liona ao amin'ny fefiny; mibodo izy hihazo ny mahantra; mahazo ny mahantra izy, rehefa mampiditra azy ao amin'ny harany.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "mibodo mangingina"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "ao amin'ny zava-miafina"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "toy ny liona"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "ao amin'ny fefiny"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "mibodo"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "hihazo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ny mahantra"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "mahazo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ny mahantra"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "rehefa mampiditra azy"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "ao amin'ny harany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:03.664421319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 128,
+  "translation": "Vadinao tahaka ny voaloboka mamoa eo amin'ny zorom-baravaranao ⟨dia⟩ ao an-tranonao; ny zanakao tahaka ny tsimparifary hazo oliva manodidina ny latabatrao.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "Vadinao"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "tahaka ny voaloboka"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "mamoa"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "eo amin'ny zorom-baravaranao ⟨dia⟩ ao"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "an-tranonao"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ny zanakao"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "tahaka ny tsimparifary"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "hazo oliva"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "ny latabatrao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:35.628943627Z",
+  "model": "glm-5.3"
+}

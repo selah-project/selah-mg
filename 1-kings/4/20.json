@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Yehuda sy Isiraely betsaka, toy ny fasika izay eo amoron'ny ranomasina amin'ny fananana, mihinana sy misotro sy mifaly.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "sy Isiraely"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "betsaka"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "toy ny fasika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amoron'ny"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ranomasina"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "amin'ny fananana"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "mihinana"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "sy misotro"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "sy mifaly"
+    }
+  ],
+  "timestamp": "2026-08-31T14:40:41.638361980Z",
+  "model": "glm-5.3"
+}

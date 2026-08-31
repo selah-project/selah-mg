@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 71,
+  "translation": "Elohim ô, nampianatra ahy Hianao hatramin'ny fahatanorako, ka hatramin'izao dia milaza ny zava-mahagaga nataonao aho.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "nampianatra ahy"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "hatramin'ny fahatanorako"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "izao"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "milaza"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ny zava-mahagaga nataonao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:00.234337809Z",
+  "model": "glm-5.3"
+}

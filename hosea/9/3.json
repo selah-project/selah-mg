@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Tsy hitoetra ao amin'ny tany an'i Yahveh izy; fa Efraima hody any Mitsrayim, ary any Ashora hihinanana sakafo maloto izy.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "hitoetra izy"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ao amin'ny tany"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "fa hody"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraima"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "any Mitsrayim"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "ary any Ashora"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "maloto"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "hihinanana izy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:09:09.429484135Z",
+  "model": "glm-5.3"
+}

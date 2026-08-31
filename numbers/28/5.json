@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 28:5",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "ary ny fahafolon'ny efa iray lahotra sy voamaina tsara ho fanatitra, voafangaro amin'ny diloilo voatoto, dia ny ampahafahen'ny hina iray.",
+  "tokens": [
+    {
+      "surface": "ועשירית",
+      "gloss": "ary ny fahafolon'ny"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efa iray lahotra"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "sy voamaina tsara"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "ho fanatitra"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "voafangaro"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "amin'ny diloilo"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "voatoto"
+    },
+    {
+      "surface": "רביעת",
+      "gloss": "dia ny ampahafahen'ny"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "hina iray"
+    }
+  ],
+  "timestamp": "2026-08-31T13:35:22.225771290Z",
+  "model": "glm-5.3"
+}

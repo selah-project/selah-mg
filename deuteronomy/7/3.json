@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Aza manao fanambadiana aminy ianao; ny zanakao-vavy aza omena ny zanany lahy, ary ny zananany vavy aza alain'ny zanakao lahy.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "manao fanambadiana"
+    },
+    {
+      "surface": "בם",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "zanakao-vavy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "omena"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ny zanany lahy"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "zananany vavy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "alain'ny"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "zanakao lahy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:42:16.558225070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 20:12",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary ⟨את⟩ ny Sabatako koa dia nomeiko ho azy, ho famantarana ho eo amiko sy ho eo aminy, mba hahafantatra fa Izaho no Yahveh manamasina azy.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Sabatako"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "Sabatako"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nomeiko"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "famantarana"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ho eo amiko"
+    },
+    {
+      "surface": "וביניהם",
+      "gloss": "sy ho eo aminy"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "mba hahafantatra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "manamasina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:53:53.311380349Z",
+  "model": "glm-5.3"
+}

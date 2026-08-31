@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ny taninareo efa lao, ny tanànareo may afo; ny sahaninareo vahiny no mihinina ⟨את⟩ azy eo anatrehanao, ary efa lao toy ny fongotry ny vahiny.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "ny taninareo"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "efa lao"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "ny tanànareo"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "may"
+    },
+    {
+      "surface": "אש",
+      "gloss": "afo"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "ny sahaninareo"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "eo anatrehanao"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "vahiny"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "mihinina"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ny sahaninareo)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "ary efa lao"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "toy ny fongotra"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "vahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T15:02:03.909580529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary Reo velona taorian'ny niterahany an'i Seruga ⟨את⟩ fito amby roan-jato taona, ka niteraka zazalahy sy zazavavy.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "velona"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "taorian'ny"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "niterahany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Seruga"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Seruga"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "fito"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "amby roan-jato taona"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "roan-jato"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zazalahy"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "zazavavy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:55.078621264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 12:20",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary ny sisa amin'ny asan'i Yoash sy izay rehetra nataony, tsy voasoratra va izy ireo ao amin'ny bokin'ny tantaran'ny andron'ny mpanjakan'i Yehuda?",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "Ary ny sisa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amin'ny asan'i"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "tsy ... va"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izy ireo"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "voasoratra"
+    },
+    {
+      "surface": "על",
+      "gloss": "ao amin'ny"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "bokin'ny"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tantaran'ny"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "mpanjakan'i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-31T14:56:21.767337675Z",
+  "model": "glm-5.3"
+}

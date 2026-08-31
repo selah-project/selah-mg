@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary ny tafiny sy izay voaisa tampony dia efatra amby fito-polo arivo sy enin-jato.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Ary ny tafiny"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "sy izay voaisa tampony"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "efatra"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "amby fito-polo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "arivo"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "sy enina"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "zato"
+    }
+  ],
+  "timestamp": "2026-08-31T13:23:59.307399526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Indro, hosuttoniko amin'ny afo Baasha sy ny taranany, ary hatoloko ⟨את⟩ ny anao ho tandrifin'ny an'i Yeroboama zanak'i Nebata.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "hosuttoniko amin'ny afo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "⟨taorian'i⟩"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "sy ⟨taorian'i⟩"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ny taranany"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ary hatoloko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anao"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ny anao"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "ho tandrifin'ny an'i"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yeroboama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebata"
+    }
+  ],
+  "timestamp": "2026-08-31T14:47:17.835177454Z",
+  "model": "glm-5.3"
+}

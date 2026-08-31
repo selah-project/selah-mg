@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Atolory ⟨את⟩ fanatitra marina, ary matokia an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "Atolory"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "fanatitra"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "marina"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "ary matokia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:58.123710471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary hamono ⟨את⟩ zanak'omby iray eo anoloan'i Yahveh; ary ny zanak'i Aharon, ny mpisorona, haka ⟨את⟩ ny rà, ary hafafy ⟨את⟩ ny rà manodidina eo ambony ny alitara, ilay eo am-bavahadin'ny lay fihaonana.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "hamono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zanak'omby iray"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "omby"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anoloan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "haka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rà"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "rà"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "hafafy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rà"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "rà"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "vavahady"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "lay"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:45.634729819Z",
+  "model": "glm-5.3"
+}

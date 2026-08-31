@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary naka ⟨את⟩ Lota sy ⟨את⟩ ny fananany izy ireo — zanak'ny rahalahin'i Avrama — ka nandeha izy; fa izy no monina tao Sedom.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ary naka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lota"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny fananany"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "ny fananany"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ny rahalahiny"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrama"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ka nandeha izy"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "fa izy"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "no monina"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "tao Sedom"
+    }
+  ],
+  "timestamp": "2026-08-31T17:54:42.457863758Z",
+  "model": "glm-5.3"
+}

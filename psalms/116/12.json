@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 116,
+  "translation": "Inona no haveriko ho famaliana an'i Yahveh, noho ny soa rehetra nataony tamiko?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Inona"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "haveriko"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "ny soa nataony"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "tamiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:21.313738151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary tonga izany taorian'izay: David namely ⟨את⟩ ny Filistina ka nanetry azy; ary David naka ⟨את⟩ ny tehin'ny ⟨renivohitra⟩ avy tamin'ny tàn'ny Filistina.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "tonga izany"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "taorian'"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "namely"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Filistina"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Filistina"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "nanetry azy"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "naka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tehin'ny renivohitra"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "ny tehin'"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ny renivohitra"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "avy tamin'ny tàn'"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Filistina"
+    }
+  ],
+  "timestamp": "2026-08-31T18:02:42.347382762Z",
+  "model": "glm-5.3"
+}

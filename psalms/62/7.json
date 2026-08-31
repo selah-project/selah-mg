@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 62,
+  "translation": "Izy ihany no vatolampiko sy famonjena ahy, arovana avo ho ahy; tsy hangovitra aho.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Izy ihany"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Izy"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "vatolampiko"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "sy famonjena ahy"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "arovana avo ho ahy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "hangovitra aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:55.529016601Z",
+  "model": "glm-5.3"
+}

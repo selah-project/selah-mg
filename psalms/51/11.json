@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "Sarono ny tavanao tsy hahita ny fahotako, ary fafao ny tsi-fahamarinako rehetra.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "Sarono"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ny tavanao"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "tsy hahita ny fahotako"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ny rehetra"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "ny tsi-fahamarinako"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "fafao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:56.825844686Z",
+  "model": "glm-5.3"
+}

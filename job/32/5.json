@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 32:5",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ary Elihu nahita fa tsy nisy valiny tamin'ny vavan'ireo telo lahy, dia nirehitra ny fahatezitrany.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ary nahita"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "Elihu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy nisy"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "valiny"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "tamin'ny vavan'"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "telo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "lalahy ireo"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "dia nirehitra"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ny fahatezitrany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:06:10.683250401Z",
+  "model": "glm-5.3"
+}

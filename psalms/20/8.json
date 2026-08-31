@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ireo amin'ny kalesy, ary ireo amin'ny soavaly; fa izay kosa amin'ny anaran'i Yahveh Elohim antsika no miantehitra.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "amin'ny kalesy"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ary ireo"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "amin'ny soavaly"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "fa izay kosa"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "amin'ny anaran'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim antsika"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "no miantehitra \/ manonona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:08.647469425Z",
+  "model": "glm-5.3"
+}

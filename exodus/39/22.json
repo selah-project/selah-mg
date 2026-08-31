@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "Ary nataony ⟨את⟩ ny akanjon'ny efoda, asan'ny mpandefona, manga tanteraka.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny akanjon'ny efoda"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "akanjo"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ny efoda"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "asa"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "mpandefona"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "tanteraka"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "manga"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:06.104819406Z",
+  "model": "glm-5.3"
+}

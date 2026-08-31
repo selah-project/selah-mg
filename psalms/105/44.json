@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 105:44",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Ary nanome azy ny tany amin'ny firenena Izy; ny asan'ny vahoaka no nolovany.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "nanome"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amin'ny firenena"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "ny asan'ny"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "nolovany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:13.791589237Z",
+  "model": "glm-5.3"
+}

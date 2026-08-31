@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 21:16",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Fa araka izany no nolazain'i Adonay tamiko: Mbola ao anatin'ny herintaona, toy ny taonan'ny mpikarama, dia ho lany fo ny voninahitra rehetra Kedara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "araka izany (toy izao)"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nolazainy"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "mbola ao anatin'ny"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "herintaona (taona iray)"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "toy ny taona"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "mpikarama"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ho lany fo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "voninahitra"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedara (an'i Kedar)"
+    }
+  ],
+  "timestamp": "2026-08-31T15:07:38.683439370Z",
+  "model": "glm-5.3"
+}

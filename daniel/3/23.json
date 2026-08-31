@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "daniel 3:23",
+  "book": "daniel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary ireo lehilahy telo ireo — Shadraka, Meisha ary Abed-Nego — dia latsaka fatra voafatotra tany afovoan'ny fatapahan'afo mirehitra mafy.",
+  "tokens": [
+    {
+      "surface": "וגבריא",
+      "gloss": "Ary ireo lehilahy"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "תלתהון",
+      "gloss": "telo"
+    },
+    {
+      "surface": "שדרך",
+      "gloss": "Shadraka"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meisha"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ary"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Abed-Nego"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "latsaka fatra"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "tany afovoany"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "fatapahan'afo"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "afo"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "mirehitra mafy"
+    },
+    {
+      "surface": "מכפתין",
+      "gloss": "voafatotra"
+    }
+  ],
+  "timestamp": "2026-08-31T17:21:49.343814119Z",
+  "model": "glm-5.3"
+}

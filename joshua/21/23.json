@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary avy amin'ny firenen'i Dana: ⟨את⟩ Eltekea sy ⟨את⟩ tany manodidina azy, ⟨את⟩ Gibetona sy ⟨את⟩ tany manodidina azy,",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "avy amin'ny firenen'i"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eltekea"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "Eltekea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "tany manodidina azy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tany manodidina azy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibetona"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Gibetona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "tany manodidina azy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "tany manodidina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:02:29.551794481Z",
+  "model": "glm-5.3"
+}

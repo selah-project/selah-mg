@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 60:16",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 60,
+  "translation": "Ary hisotro ronono ⟨avy⟩ amin'ny firenena ianao, sy hanono nono ⟨avy⟩ amin'ny mpanjaka; ary ho fantatrao fa izaho Yahveh, Mpamonjy anao, sy Mpanavotra anao, ny Mahery an'i Yaakov.",
+  "tokens": [
+    {
+      "surface": "וינקת",
+      "gloss": "hisotro ronono ianao"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ronono"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "sy nono"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "תינקי",
+      "gloss": "hanono"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "ary ho fantatrao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "Mpamonjy anao"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "Mpanavotra anao"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "Mahery"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-31T18:06:52.549862661Z",
+  "model": "glm-5.3"
+}

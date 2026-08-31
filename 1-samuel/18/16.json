@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary Isiraely rehetra sy Yehuda nankafy ⟨את⟩ an'i Davida, satria izy no nivoaka niditra teo alohan'izy ireo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ary... rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "sy Yehuda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "nankafy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "nivoaka"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "niditra"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "teo alohan'izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:22:30.279790809Z",
+  "model": "glm-5.3"
+}

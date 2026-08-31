@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 56,
+  "translation": "Amin'Elohim dia derao ny teny; amin'Yahveh dia derao ny teny.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "amin'Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "derao"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "amin'Yahveh"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "derao"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ny teny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:17.235126277Z",
+  "model": "glm-5.3"
+}

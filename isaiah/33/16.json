@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 33:16",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Izy no hitoetra amin'ny toerana avo; ny fiarovana vatolahatra no fiarovany avo; homena mofo izy ary ny rany azo itokisana.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Izy"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "amin'ny toerana avo"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "no hitoetra"
+    },
+    {
+      "surface": "מצדות",
+      "gloss": "ny fiarovana"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "vatolahatra"
+    },
+    {
+      "surface": "משגבו",
+      "gloss": "no fiarovany avo"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "mofo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "homena"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "ny rany"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "azo itokisana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:10:25.954781114Z",
+  "model": "glm-5.3"
+}

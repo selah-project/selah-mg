@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 107,
+  "translation": "Miakatra ho any an-danitra izy, midina ho any amin'ny lalina indrindra; ny fanahiny miempo noho ny loza.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "miakatra"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "any an-danitra"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "midina"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "lalina indrindra (tanjona fanahy)"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ny fanahiny (nefesh)"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "noho ny loza"
+    },
+    {
+      "surface": "תתמוגג",
+      "gloss": "miempo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:12.547109365Z",
+  "model": "glm-5.3"
+}

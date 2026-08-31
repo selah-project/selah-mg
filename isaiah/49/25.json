@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 49,
+  "translation": "Fa toy izao no lazain'i Yahveh: Eny, ny baboalin'ny mahery h entilina, ary ny trofin'ny mpanaloky ho afaka; ary ⟨את⟩ izay mifanandrina aminao Izaho no hiady, ary ⟨את⟩ ny zanakao Izaho no hamonjy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "toy izao"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Eny"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "baboa"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "hentilina"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "ary ny trofy"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "mpanaloky"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ho afaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izay mifanandrina aminao"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "izay mifanandrina aminao"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "hiady"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanakao"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "zanakao"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "hamonjy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:18:07.375189223Z",
+  "model": "glm-5.3"
+}

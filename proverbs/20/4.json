@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Noho ny ririnina ny kamo tsy mangadiha; hangataka amin'ny fararano ka tsy misy ⟨nothing⟩.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "Noho ny ririnina"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ny kamo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "mangadiha"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "hangataka"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "amin'ny fararano"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ka tsy misy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:15:46.937975837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Indro, efa nataoko mafy ⟨ny⟩ tavonao hahafaha ny tavony, ary ⟨את⟩ ny handrinao mafy hahafaha ny handrinany.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "efa nataoko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tavonao"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tavonao"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "mafy"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "hahafaha"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ny tavony"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "handrinao"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "ny handrinao"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "mafy"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "hahafaha"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "ny handrinany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:48:17.401055928Z",
+  "model": "glm-5.3"
+}

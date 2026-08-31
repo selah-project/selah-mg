@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Mihira fe manao soa ho an'i Yahveh, ianareo olona masina ⟨Azy⟩, ary manome voninahitra amin'ny fahatsiarovana ny fahamasinany.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Mihira fe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ianareo olona masina ⟨Azy⟩"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "ary manome voninahitra"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "amin'ny fahatsiarovana"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ny fahamasinany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:54.633340792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 25:5",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary Dawida naniraka lehilahy kely folo, ary Dawida nanao amin'ny lehilahy kely hoe: Miakara any Karmela, ary tonga any amin'i Nabala ianareo, ary mangataha aminy famangian-tsoa amin'ny anarako.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "naniraka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "folo"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "lehilahy kely"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "לנערים",
+      "gloss": "amin'ny lehilahy kely"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Miakara"
+    },
+    {
+      "surface": "כרמלה",
+      "gloss": "any Karmela"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "ary tonga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "any amin'i"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabala"
+    },
+    {
+      "surface": "ושאלתם",
+      "gloss": "ary mangataha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "amin'ny anarako"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "famangian-tsoa"
+    }
+  ],
+  "timestamp": "2026-08-31T14:24:01.027797848Z",
+  "model": "glm-5.3"
+}

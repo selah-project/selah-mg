@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Ary homeko ho fahalovana mihitsy ny tendrombohitra Seira, ary hofongorako avy aminy izay mandalo sy izay miverina.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "homeko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tendrombohitra Seira"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ny tendrombohitra"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seira"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "ho fahalovana"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "fahalovana mihitsy"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "hofongorako"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "avy aminy"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "izay mandalo"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "sy izay miverina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:01:08.022337092Z",
+  "model": "glm-5.3"
+}

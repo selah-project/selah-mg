@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary momba an'i Izevel koa niteny Yahveh ka nanao hoe: Ny amboa hihinana ⟨את⟩ an'i Izevel eo amin'ny hadin'i Yizreel.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ary koa"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "momba an'i Izevel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "niteny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "Ny amboa"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "hihinana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Izevel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevel"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "eo amin'ny hadin'i"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-31T14:49:46.604818050Z",
+  "model": "glm-5.3"
+}

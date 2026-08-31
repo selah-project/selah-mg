@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Raiso ⟨את⟩ i Aharon sy ⟨את⟩ ny zanany miaraka aminy, ary ⟨את⟩ ny fitafiana, ary ⟨את⟩ ny diloilon'ny fanosorana, ary ⟨את⟩ ny ombilahy fanatitra noho ny ota, ary ⟨את⟩ ny ondrilahy roa, ary ⟨את⟩ ny harona misy mofo tsy misy masira",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Raiso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ miaraka aminy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny fitafiana"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "ny fitafiana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny diloilo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "diloilo"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "fanosorana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny ombilahy"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ombilahy"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "fanatitra noho ny ota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny ondrilahy roa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "roa"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "ondrilahy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny harona"
+    },
+    {
+      "surface": "סל",
+      "gloss": "harona"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "mofo tsy misy masira"
+    }
+  ],
+  "timestamp": "2026-08-31T13:13:27.460204237Z",
+  "model": "glm-5.3"
+}

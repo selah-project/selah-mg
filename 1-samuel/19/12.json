@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary namidina avy tao amin'ny varavarankely Mikala an'i ⟨את⟩ Davida; dia lasa izy ka nandositra ary afaka.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "Ary namidina"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "avoaka tamin'ny"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "varavarankely"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dia lasa izy"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ka nandositra"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ary afaka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:22:13.050926490Z",
+  "model": "glm-5.3"
+}

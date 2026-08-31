@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 74,
+  "translation": "Anao ny andro, eny, Anao koa ny alina; Ianao no namboatra ny fanazavana sy ny masoandro.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Anao"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ny andro"
+    },
+    {
+      "surface": "אף",
+      "gloss": "eny"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Anao koa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ny alina"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ianao"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "no namboatra"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "ny fanazavana"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "sy ny masoandro"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:44.863712693Z",
+  "model": "glm-5.3"
+}

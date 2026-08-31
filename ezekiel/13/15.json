@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 13:15",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary hotehereko ⟨את⟩ ny fahatezerako amin'ny manda sy amin'izay mitapaka azy tapa; ary holazaino aminareo: Tsy misy intsony ny manda, ary tsy misy intsony izay mitapaka azy.",
+  "tokens": [
+    {
+      "surface": "וכליתי",
+      "gloss": "Ary hotehereko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahatezerako"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "ny fahatezerako"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "amin'ny manda"
+    },
+    {
+      "surface": "ובטחים",
+      "gloss": "sy amin'izay mitapaka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (tapa)"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "tapa"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ary holazaino"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aminareo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Tsy misy intsony"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "ny manda"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ary tsy misy intsony"
+    },
+    {
+      "surface": "הטחים",
+      "gloss": "izay mitapaka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ny manda)"
+    }
+  ],
+  "timestamp": "2026-08-31T15:50:28.964006174Z",
+  "model": "glm-5.3"
+}

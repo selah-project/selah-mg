@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Fa nianiana ny mpanomponao, nony nipetraka tany Geshora any Arama, hoe: Raha tokoa Yahveh no mampiverina ahy any Yeroshalayim, dia hanompoako ⟨את⟩ an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "fianianana"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nianiana"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ny mpanomponao"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "nony nipetraka"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "tany Geshora"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "any Arama"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "mampiverina"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "any Yeroshalayim"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "hanompoako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T14:35:11.824377868Z",
+  "model": "glm-5.3"
+}

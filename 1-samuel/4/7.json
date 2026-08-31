@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 4:7",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Dia natahotra ny Filisitina, fa hoy izy: Elohim no efa tafiditra tao an-tobina. Ary hoy izy ireo: Lo antsika, fa tsy nisy tahaka izany omaly sy hetrany!",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "natahotra"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "ny Filisitina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "hoy izy"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tafiditra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tao an-"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tobina"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ary hoy izy ireo"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "Lo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "antsika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nisy"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "tahaka izany"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "omaly"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "sy hetrany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:15:43.302388090Z",
+  "model": "glm-5.3"
+}

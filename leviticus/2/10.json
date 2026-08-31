@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary izay sisa amin'ilay mincha dia an'i Aharona sy ny zanany, masina indrindra, avy amin'ny fanatitra afon'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "Ary izay sisa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "amin'i"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ilay mincha"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "an'i Aharona"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "sy ny zanany"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "indrindra"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "avy amin'ny fanatitra afo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:32.022345442Z",
+  "model": "glm-5.3"
+}

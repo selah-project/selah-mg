@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Tsara ny fahendrena miaraka amin'ny lovaina, ary tonga lafatra ho an'izay mahita ny masoandro.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "Tsara"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ny fahendrena"
+    },
+    {
+      "surface": "עם",
+      "gloss": "miaraka amin'ny"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "lovaina"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ary tonga lafatra"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "ho an'izay mahita"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ny masoandro"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:47.922932577Z",
+  "model": "glm-5.3"
+}

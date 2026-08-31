@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ary vita tamin'i Moshe ny fitenenana ⟨את⟩ ireo teny rehetra ireo ho an'i Isiraely rehetra.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "vita tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ny fitenenana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ireo teny rehetra ireo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ireo teny"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho an'i"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    }
+  ],
+  "timestamp": "2026-08-31T13:52:40.467549260Z",
+  "model": "glm-5.3"
+}

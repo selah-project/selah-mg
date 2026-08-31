@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary Esav nanao hoe: Indro, izy izaho mandeha ho faty, ka inona no tombontsoa ho ahy amin'ity zokimbavin'ity?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ho faty"
+    },
+    {
+      "surface": "ו למה",
+      "gloss": "ka inona no"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "zokimbavin'ity"
+    }
+  ],
+  "timestamp": "2026-08-31T12:42:01.404497518Z",
+  "model": "glm-5.3"
+}

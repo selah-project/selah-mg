@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ny adinao adio amin'ny namanao ⟨את⟩; ary ny sôd hafa aza ambarao.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "ny adinao"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "adio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namanao"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "namanao"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "ary ny sôd"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "hafa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "ambarao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:56:07.508821426Z",
+  "model": "glm-5.3"
+}

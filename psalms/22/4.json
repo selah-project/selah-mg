@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Fa Hianao kosa masina, Mipetraka amin'ny fiderana an'i Yisrael.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Fa Hianao kosa"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "Mipetraka amin'ny"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "fiderana an'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:53.095159784Z",
+  "model": "glm-5.3"
+}

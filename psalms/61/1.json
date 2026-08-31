@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 61,
+  "translation": "Ho an'ny mpitan-tsoratra mozika, amin'ny zavamaneno tady. Salamo n'i Davidra.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho an'ny mpitan-tsoratra mozika"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "zavamaneno tady"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "salamo n'i Davidra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:29.777134621Z",
+  "model": "glm-5.3"
+}

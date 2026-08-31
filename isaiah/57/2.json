@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 57,
+  "translation": "Hiditra amin'ny shalom izy, hitsahatra eo ambanin'ny fandriany izy ireo, izay mandeha mitsotra.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "hiditra amin'ny"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "hitsahatra"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambanin'ny"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "fandriany"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "izay mandeha"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "mitsotra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:19:52.914370227Z",
+  "model": "glm-5.3"
+}

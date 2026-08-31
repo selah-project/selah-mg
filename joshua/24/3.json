@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 24:3",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary naka ⟨את⟩ rainareo ⟨את⟩ Avraham tany an-dafin'ny ony Aho, ary nitondra ⟨את⟩ azy tamin'ny tany Kenaana rehetra, ary nampanan-taranaka ⟨את⟩ taranany, ary nomeko ⟨את⟩ Yitsaka tamby.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "naka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rainareo Avraham"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "rainareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "tany an-dafin'"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ny ony"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "nitondra"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ azy"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tamin'ny ... rehetra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "nampanan-taranaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taranany"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "taranany"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "nomeko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tamby"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsaka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsaka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:03:57.405897746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Aza mahafoiza azy, ary hiaro anao izy; tia azy, ary hitandrina anao izy.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "mahafoiza azy"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "ary hiaro anao izy"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "tia azy"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "ary hitandrina anao izy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:49:09.469155865Z",
+  "model": "glm-5.3"
+}

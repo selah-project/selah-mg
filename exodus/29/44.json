@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary hasiko ho masina ⟨את⟩ ny Trano Fihaonana sy ⟨את⟩ ny alitara; ⟨את⟩ i Aharon koa sy ⟨את⟩ ny zanany no hasiko ho masina ho mpisorona ho Ahy.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "Ary hasiko ho masina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Trano Fihaonana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Trano"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Fihaonana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny alitara"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "hasiko ho masina"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ho mpisorona"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho Ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:06:28.009659222Z",
+  "model": "glm-5.3"
+}

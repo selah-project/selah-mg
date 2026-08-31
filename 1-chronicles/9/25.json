@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 9:25",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary ny rahalahiny, tao amin'ny vohitrany, dia tonga amin'ny fito andro, avy amin'ny fotoana ka hatramin'ny fotoana, miaraka amin'ireo.",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "Ary ny rahalahiny"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "tao amin'ny vohitrany"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "amin'ny fito"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "avy amin'ny fotoana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "עת",
+      "gloss": "fotoana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "miaraka amin'ny"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:36:54.574717796Z",
+  "model": "glm-5.3"
+}

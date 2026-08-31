@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Miaraka mikabaka amiko izy rehetra mpankahala ahy; amiko no ieritreretany zava-dratsy ho ahy.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "Miaraka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "mikabaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izy rehetra"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "mpankahala ahy"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "no ieritreretany"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zava-dratsy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:44.506207906Z",
+  "model": "glm-5.3"
+}

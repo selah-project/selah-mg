@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary namaly ⟨את⟩ Davida ny mpisorona ka nanao hoe: Tsy misy mofo mahazatra eto ambanin'ny tanako, fa mofo masina no misy; raha efa nitandrina ny tanora fa ny amin'ny vehivavy.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "namaly"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mofo"
+    },
+    {
+      "surface": "חל",
+      "gloss": "mahazatra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eto"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ambanin'"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ny tanako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tsy misy afa-tsy"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mofo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "יש",
+      "gloss": "no misy"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "efa nitandrina"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "ny tanora"
+    },
+    {
+      "surface": "אך",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "ny amin'ny vehivavy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:23:55.336879960Z",
+  "model": "glm-5.3"
+}

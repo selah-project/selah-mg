@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 34:7",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ary hiara-midina aminy ny omby dia; ny anoara hiara amin'ny ody-malemy matanjaka; ary voafeno rano ny taniny amin'ny ra, sy ny vovony amin'ny tavy hahatavy azy.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "hiara-midina"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "ny omby dia"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "ופרים",
+      "gloss": "ny anoara"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hiara amin'ny"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "ody-malemy matanjaka"
+    },
+    {
+      "surface": "ורותה",
+      "gloss": "voafeno rano"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ny taniny"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "amin'ny ra"
+    },
+    {
+      "surface": "ועפרם",
+      "gloss": "sy ny vovony"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "amin'ny tavy"
+    },
+    {
+      "surface": "ידשן",
+      "gloss": "hahatavy azy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:13:01.777453874Z",
+  "model": "glm-5.3"
+}

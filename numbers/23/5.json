@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary Yahveh nandratra ⟨teny⟩ teo am-bavan'i Bilam, ka nanao hoe: Miverena any amin'i Balak, ary dia izao no holazainao.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "nandratra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "teny"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "teo am-bavan'i"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Miverena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "any amin'i"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "ary dia izao"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "no holazainao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:34:13.137805401Z",
+  "model": "glm-5.3"
+}

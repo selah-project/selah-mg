@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary izy niteny tamin'ny tompony hoe: Enga anie ny tompoko ho eo anatrehan'ny mpaminany izay any Shomron, dia hanaisotra azy ⟨את⟩ amin'ny bokany izy.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ary izy niteny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "tompony"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Enga anie"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ny tompoko"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ho eo anatrehan'ny"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mpaminany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "any Shomron"
+    },
+    {
+      "surface": "אז",
+      "gloss": "dia"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "hanaisotra azy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (Naaman)"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "amin'ny bokany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:51:51.145344337Z",
+  "model": "glm-5.3"
+}

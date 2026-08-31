@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary ny lehilahy nanao izany; ka nalainy omby vimpy roa mpanono ka nogadrainy tamin'ny sarety, ary ⟨את⟩ ny katsakany dia natorony tao an-trano.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ny lehilahy"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "nalainy"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "roa"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "omby vimpy"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "mpanono"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "nogadrainy"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "tamin'ny sarety"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny katsakany"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ny katsakany"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "natorony"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "tao an-trano"
+    }
+  ],
+  "timestamp": "2026-08-31T14:16:52.313067937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 9:1",
+  "book": "zechariah",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Enta-mavesatra ny tenin'i Yahveh ao amin'ny tany Hadrahka, ary Damaseka no fitoerany; fa an'i Yahveh ⟨ny⟩ maso adama sy ny firenen'i Yisrael rehetra.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Enta-mavesatra"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tenin'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ao amin'ny tany"
+    },
+    {
+      "surface": "חדרך",
+      "gloss": "Hadrahka"
+    },
+    {
+      "surface": "ודמשק",
+      "gloss": "sy Damaseka"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "no fitoerany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "עין",
+      "gloss": "maso"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adama"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ... rehetra"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "firenen'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-31T16:20:23.642138271Z",
+  "model": "glm-5.3"
+}

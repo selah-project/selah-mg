@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 52:15",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 52,
+  "translation": "Dia handafika izy firenena maro; noho izy hanidy ny mpanjaka ny vavany; fa izay tsy voalaza taminy dia hitany, ary izay tsy reny dia hahay.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Dia"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "handafika"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maro"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "noho izy"
+    },
+    {
+      "surface": "יקפצו",
+      "gloss": "hanidy"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ny vavany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "voalaza"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tamin'izy ireo"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "hitany"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ary izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "reny"
+    },
+    {
+      "surface": "התבוננו",
+      "gloss": "hahay"
+    }
+  ],
+  "timestamp": "2026-08-31T15:18:15.396037461Z",
+  "model": "glm-5.3"
+}

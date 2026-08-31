@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Voaozona ianao ao an-tanàna, ary voaozona ianao any an-tsaha.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "voaozona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ao an-tanàna"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "ary voaozona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "any an-tsaha"
+    }
+  ],
+  "timestamp": "2026-08-31T13:50:49.851632339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Fa tsy mandinika ny asan'i Yahveh izy, na ny asan'ny tànany; hanotorana azy izy ka tsy haorin'iny intsony.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "mandinika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ny⟩"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "asa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na ⟨ny⟩"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "asa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ny tànany"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "hanotorana azy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "haorin'iny intsony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:07.375286553Z",
+  "model": "glm-5.3"
+}

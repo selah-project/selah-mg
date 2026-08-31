@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Fa fandrobana no ⟨sainin'⟩ ny fontsany, ary ny molony dia miteny fahoriana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "שד",
+      "gloss": "fandrobana"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "⟨sainin'⟩"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ny fontsany"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "ary fahoriana"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "ny molony"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "miteny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:56:19.439403604Z",
+  "model": "glm-5.3"
+}

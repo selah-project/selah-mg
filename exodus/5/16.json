@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 5:16",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Tsihy hareza no tsy nomena ny mpanomponao, ary brika no lazin'ireo aminay hoe: Ataovy; ary indro, voatezo ny mpanomponao, fa ny olonao no meloka.",
+  "tokens": [
+    {
+      "surface": "תבן",
+      "gloss": "tsihy hareza"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nomena"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "ny mpanomponao"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "ary brika"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "lazin'ireo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aminay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ataovy"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ary indro"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ny mpanomponao"
+    },
+    {
+      "surface": "מכים",
+      "gloss": "voatezo"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "fa ... meloka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ny olonao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:56:31.990902735Z",
+  "model": "glm-5.3"
+}

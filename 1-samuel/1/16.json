@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Aza manao mpanompovavy ⟪⟪⟪⟪ zanakavavin'i Beliala; fa noho ny fahabeazan'ny fisaonako sy ny tezako no nitenenako ambara-pahatongavana teto.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "manao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpanompovavy"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "mpanompovavy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨hoy ianao⟩ anatrehana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanakavavin'"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "i Beliala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "noho ny fahabeazan'ny"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "fisaonako"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "sy ny tezako"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "no nitenenako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ambara-pahatongavana"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "teto"
+    }
+  ],
+  "timestamp": "2026-08-31T14:14:10.274170350Z",
+  "model": "glm-5.3"
+}

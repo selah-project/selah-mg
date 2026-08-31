@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 86,
+  "translation": "Vavaka nataon'i David. Miondria, ry Yahveh, ny sofinao, ary valio aho, fa malahelo sy mahantra aho.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Vavaka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nataon'i David"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Miondria"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ny sofinao"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "valio aho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "malahelo"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "sy mahantra"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:21.793600831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 58,
+  "translation": "Aoka hisaraka toy ny rano izy, ho lasa mandeha; rehefa manafintserina ny zana-tsipìka, aoka ho voatapaka toy izany izy.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "hisaraka"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "toy ny"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "handeha"
+    },
+    {
+      "surface": "למו",
+      "gloss": "izy"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "manafintserina"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "ny zana-tsipìka"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "toy izany"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "voatapaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:19.095370323Z",
+  "model": "glm-5.3"
+}

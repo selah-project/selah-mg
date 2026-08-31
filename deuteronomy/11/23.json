@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary handroaka Yahveh ⟨את⟩ ny firenena rehetra ireo mialoha anareo, ary handova hianareo firenena lehibe sy matanjaka noho anareo.",
+  "tokens": [
+    {
+      "surface": "והוריש",
+      "gloss": "Ary handroaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny firenena rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ny firenena"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "mialoha anareo"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "ary handova"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "sy matanjaka"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "noho anareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:43:12.423092749Z",
+  "model": "glm-5.3"
+}

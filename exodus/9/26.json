@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Fa tany Goshen ihany, izay tany ny zanak'i Isiraely, tsy nisy ranomandry.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Fa... ihany"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goshen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tany"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nisy"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ranomandry"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:10.573385579Z",
+  "model": "glm-5.3"
+}

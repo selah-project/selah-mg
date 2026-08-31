@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Fa izaho kosa handeha amin'ny fahitsiko; avotrao aho, ary mamindra fo amiko.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "fa izaho kosa"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "amin'ny fahitsiko"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "handeha"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "avotrao aho"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ary mamindra fo amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:36.102452570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary alao ⟨את⟩ ny odrina faharoa, ary Aharon sy ny zanany mametra ⟨את⟩ ny tànany eo ambony ny lohan'ny odrina.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ary alao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny odrina faharoa"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ny odrina"
+    },
+    {
+      "surface": "השני",
+      "gloss": "faharoa"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "mametra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "sy ny zanany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tànany"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ny tànany"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "lohan'"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ny odrina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:06:38.203864481Z",
+  "model": "glm-5.3"
+}

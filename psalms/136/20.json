@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 136,
+  "translation": "sy Ogà mpanjakan'i Bashana, fa ho an'ny fiainana mandrakizay no hesed-ny.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "sy Ogà"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'i"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho an'ny fiainana mandrakizay"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-ny"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:56.433046046Z",
+  "model": "glm-5.3"
+}

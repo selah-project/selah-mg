@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary niainga avy tao Sokota izy ka namponenana tao Etama, eo amin'ny faran'ny efitra.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "niainga"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "avy tao Sokota"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ka namponenana"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "tao Etama"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "eo amin'ny faran'ny"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "efitra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:00:15.742108203Z",
+  "model": "glm-5.3"
+}

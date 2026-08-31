@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 83,
+  "translation": "Ny lay an'i Edoma sy ny Ismaelita, Moaba sy ny Hagarena;",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "Ny lay"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "an'i Edoma"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "sy ny Ismaelita"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "sy ny Hagarena"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:11.853510858Z",
+  "model": "glm-5.3"
+}

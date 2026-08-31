@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 22:2",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary hoy izy: Yahveh ⟨no⟩ vatolampiko sy fiarovako ary mpamonjy ahy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "vatolampiko"
+    },
+    {
+      "surface": "ומצדתי",
+      "gloss": "sy fiarovako"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ary mpamonjy ahy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨no⟩ ... ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:03:13.142117055Z",
+  "model": "glm-5.3"
+}

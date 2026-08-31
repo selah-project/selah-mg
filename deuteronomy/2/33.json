@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary Yahveh Elohintinay natolotra anay teo anatrehanay ka namely ⟨את⟩ azy sy ⟨את⟩ ny zanany ary ⟨את⟩ ny vahoakany rehetra izy.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "natolotra anay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohintinay"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "teo anatrehanay"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "ka namely"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny vahoakany rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "reehtra"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ny vahoakany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:40:18.740063215Z",
+  "model": "glm-5.3"
+}

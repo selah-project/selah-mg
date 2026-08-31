@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 88,
+  "translation": "Nahoana, ry Yahveh, no mandao ny ainao ianao? Manafenanao ny tavanao amiko.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Nahoana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "no mandao"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny ainao"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "Manafenanao"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ny tavanao"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:05.559243885Z",
+  "model": "glm-5.3"
+}

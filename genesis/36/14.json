@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Ary ireo no zanak'i Oholibama zanakavavin'i Anaha zanakavavin'i Tsiveona, vadin'i Esava; ary niteraka tamin'i Esava izy: ⟨את⟩ Yeisha sy ⟨את⟩ Yeama sy ⟨את⟩ Koraha.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ary ireo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "no"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholibama"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanakavavin'i"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anaha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanakavavin'i"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tsiveona"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vadin'i"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esava"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ary niteraka"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "tamin'i Esava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeisha"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeisha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Yeama"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yeama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Koraha"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koraha"
+    }
+  ],
+  "timestamp": "2026-08-31T12:48:18.583439142Z",
+  "model": "glm-5.3"
+}

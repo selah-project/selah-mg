@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 83,
+  "translation": "Ry Elohim, aza misy fangirana aminao, aza mifanafana, ary aza mitsahatra, ry El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "fangirana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "mifanafana"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "mitsahatra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ry El"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:20.816284625Z",
+  "model": "glm-5.3"
+}

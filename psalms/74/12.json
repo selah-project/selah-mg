@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 74,
+  "translation": "Fa Elohim no mpanjako hatramin'ny fony ela, mpanao famonjena eo afovoan'ny tany.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "fa Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mpanjako"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "hatramin'ny fony ela"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "mpanao"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "famonjena"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "eo afovoan'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:35.755787283Z",
+  "model": "glm-5.3"
+}

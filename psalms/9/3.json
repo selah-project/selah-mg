@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ho faly izaho sady hifaly aminao; hankalaza ny anaranao izaho, ry Elyon.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "ho faly"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "sady hifaly"
+    },
+    {
+      "surface": "בך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "hankalaza amin'ny fitendry"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ny anaranao"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:55.723310873Z",
+  "model": "glm-5.3"
+}

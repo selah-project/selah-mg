@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 107,
+  "translation": "Satria niodina tamin'ny tenin'i El ⟨izy⟩, sady nanamavo ny hevitry ny Avo Indrindra ⟨izy⟩;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Satria"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "niodina"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "tenin'i"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "sady ... hevitry ny"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Avo Indrindra"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "nanamavo"
+    }
+  ],
+  "timestamp": "2026-08-31T19:14:06.106027095Z",
+  "model": "glm-5.3"
+}

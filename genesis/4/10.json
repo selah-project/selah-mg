@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary hoy ⟨izy⟩: Inona no nataonao? Ny feon'ny ran'ny rahalahinao mikiakiaka amiko avy amin'ny tany.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy ⟨izy⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Inona"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "no nataonao"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ny feon'ny"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ran'ny"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "rahalahinao"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "mikiakiaka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:03.608881819Z",
+  "model": "glm-5.3"
+}

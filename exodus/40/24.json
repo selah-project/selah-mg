@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary napetrany tao amin'ny lain'ny fihaonana ⟨את⟩ ny fanaovan-java-tsoloy, mifanandrify amin'ny latabatra, eo amin'ny ilan'ny tranolay, ao amin'ny atsimo.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "napetrany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanaovan-java-tsoloy"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "ny fanaovan-java-tsoloy"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "tao amin'ny lain'ny"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "mifanandrify amin'ny"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "latabatra"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ilan'ny"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tranolay"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "ao amin'ny atsimo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:10.034750593Z",
+  "model": "glm-5.3"
+}

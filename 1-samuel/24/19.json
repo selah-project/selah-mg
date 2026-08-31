@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 24:19",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary ianao efa nanambara androany ⟨את⟩ izay nataonao amiko ⟨את⟩ — soa: ⟨את⟩ izay nanidy ahy Yahveh tao an-tananao, ka tsy namono ahy ianao.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ary ianao"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "efa nanambara"
+    },
+    {
+      "surface": "היום",
+      "gloss": "androany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay nataonao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "nataonao"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ amiko"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "soa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay nanidy ahy Yahveh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "סגרני",
+      "gloss": "nanidy ahy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "tao an-tananao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "הרגתני",
+      "gloss": "namono ahy ianao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:24:13.198963181Z",
+  "model": "glm-5.3"
+}

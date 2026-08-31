@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Ary nanevatevy ny ranomasin'ny zozoro izy, dia maina izy, ka nitondra azy tamin'ny lalina toy any an-efitra.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "nanevatevy"
+    },
+    {
+      "surface": "בים",
+      "gloss": "tamin'ny ranomasina"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "zozoro"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "dia maina"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "nitondra azy"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "tamin'ny lalina"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "toy any an-efitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:51.872873298Z",
+  "model": "glm-5.3"
+}

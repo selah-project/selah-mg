@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Ary nitondra ⟨את⟩ ny vary teo ambony boriky izy ka nandeha niala teo.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "nitondra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vary"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "ny vary"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo ambony"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "boriky"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ka nandeha"
+    },
+    {
+      "surface": "משם",
+      "gloss": "niova teo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:51:02.283172055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nahatsiaro ⟨את⟩ Noa sy ⟨את⟩ ny zavamananaina rehetra sy ⟨את⟩ ny biby fiompy rehetra izay tao aminy ⟨את⟩ tao anaty sambo-fara i Elohim; ary nampandeha rivotra nanerana ⟨את⟩ ny tany Elohim, dia nihena ny rano.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "nahatsiaro"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny zavamananaina rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ny zavamananaina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny biby fiompy rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ny biby fiompy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ tao aminy"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "tao anaty sambo-fara"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "nampandeha nanerana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rivotra"
+    },
+    {
+      "surface": "על",
+      "gloss": "nanerana"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "nihena"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ny rano"
+    }
+  ],
+  "timestamp": "2026-08-31T17:54:33.223452634Z",
+  "model": "glm-5.3"
+}

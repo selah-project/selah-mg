@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ireo no zanak'i Shema, araka ny fianakaviany, araka ny fiteniny, ao amin'ny tanyony, araka ny fireneny.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ireo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shema"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "araka ny fianakaviany"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "araka ny fiteniny"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "ao amin'ny tanyony"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "araka ny fireneny"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:16.885944375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary ⟨את⟩ ny zanany tsy ho antram-poako; fa zanaky ny fijangajangana izy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "ho antram-poako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanaky"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "ny fijangajangana"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:07:44.090657397Z",
+  "model": "glm-5.3"
+}

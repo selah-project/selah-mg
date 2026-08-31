@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Rehefa mandeha ianao, izy no hitondra anao ⟨את⟩; rehefa matory ianao, izy no hiambina anao; ary rehefa mifoha ianao, izy no hiresaka aminao.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "Rehefa mandeha ianao"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "hitondra anao"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "anao"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "rehefa matory ianao"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "hiambina"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "ary rehefa mifoha"
+    },
+    {
+      "surface": "היא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "no hiresaka aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:15:37.998675543Z",
+  "model": "glm-5.3"
+}

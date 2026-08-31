@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 90,
+  "translation": "Fa lany tamin'ny fahatezeranao izahay, ary nangovitra tamin'ny fahaviniranao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "lany izahay"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "tamin'ny fahatezeranao"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "tamin'ny fahaviniranao"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "nangovitra izahay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:22.404811720Z",
+  "model": "glm-5.3"
+}

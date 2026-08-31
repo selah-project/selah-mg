@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Ary dia nitomy tamin'i Moshe tao an-tobiny izy, sy tamin'i Aharona, masina an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "Ary dia nitomy"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "tamin'i Moshe"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "tao an-tobiny"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "sy tamin'i Aharona"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "an'i Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:46.098576139Z",
+  "model": "glm-5.3"
+}

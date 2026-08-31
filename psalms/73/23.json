@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 73,
+  "translation": "Fa izaho dia mandrakariva miaraka aminao; efa nisandratry ny tanana havananao aho.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "fa izaho"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mandrakariva"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "miaraka aminao"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "efa nisandratry"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "tanana"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "havananao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:32.816999157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Amin'izany dia fantatro fa finaritra ianao amiko, satria tsy mikiakiaka ny fahavalo amiko.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Amin'izany"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "fantatro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "finaritra ianao"
+    },
+    {
+      "surface": "בי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "mikiakiaka"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ny fahavalo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:10.083682213Z",
+  "model": "glm-5.3"
+}

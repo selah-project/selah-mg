@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 29:16",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ny fiovanareo hevitra! Angaha toy ny tanimanga no isain'ny mpanefy — ka hoy ny asa amin'izay nanao azy: Tsy izy no nahary ahy; ary hoy ny voaformaty amin'izay nanao azy endrika: Tsy manan-tsaina izy?",
+  "tokens": [
+    {
+      "surface": "הפככם",
+      "gloss": "Ny fiovanareo hevitra"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Angaha"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "toy ny tanimanga"
+    },
+    {
+      "surface": "היצר",
+      "gloss": "ny mpanefy"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "no isaina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ny asa"
+    },
+    {
+      "surface": "לעשהו",
+      "gloss": "amin'izay nanao azy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "עשני",
+      "gloss": "nahary ahy"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "ary ny voaformaty"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "ליוצרו",
+      "gloss": "amin'izay nanao azy endrika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "manan-tsaina"
+    }
+  ],
+  "timestamp": "2026-08-31T15:11:21.577877081Z",
+  "model": "glm-5.3"
+}

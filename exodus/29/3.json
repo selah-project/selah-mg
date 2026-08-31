@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary hanetraka azy ⟨את⟩ ianao eo ambony harona iray, ary hitondra azy akaiky ⟨את⟩ amin'ilay harona, ary ⟨את⟩ ny omby vavimaty sy ⟨את⟩ ny ondry aman'droa roa.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ary hanetraka ianao"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (ny mofo sy mofomamy)"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "סל",
+      "gloss": "harona"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "ary hitondra akaiky"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (ny mofo sy mofomamy)"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "amin'ilay harona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ary",
+      "marks": "ny omby vavimaty"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ny omby vavimaty"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ary",
+      "marks": "ny ondry aman'droa roa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "roa"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "ny ondry aman'droa"
+    }
+  ],
+  "timestamp": "2026-08-31T18:28:40.898182096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 73,
+  "ref": "psalms 119:73",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ny tananao no nanao ahy sy nampitoetra ahy; ampahafantario aho ⟨mba⟩ hianatra ny didinao.",
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "ny tananao"
+    },
+    {
+      "surface": "עשוני",
+      "gloss": "nanao ahy"
+    },
+    {
+      "surface": "ויכוננוני",
+      "gloss": "sy nampitoetra ahy"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "ampahafantario aho"
+    },
+    {
+      "surface": "ואלמדה",
+      "gloss": "⟨mby⟩ hianatra"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ny didinao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:39.000685242Z",
+  "model": "glm-5.3"
+}

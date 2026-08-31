@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 95,
+  "translation": "Efapolo taona Ahy nanoa ny taranaka, ka hoy Izaho: Olo-maraina fo izy, ka tsy nahalala ny lalako.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "efapolo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "Ahy nanoa"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "ny taranaka"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ka hoy Izaho"
+    },
+    {
+      "surface": "עם",
+      "gloss": "olo-"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "maraina"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izy"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ka izy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "nahalala"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ny lalako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:02.413197469Z",
+  "model": "glm-5.3"
+}

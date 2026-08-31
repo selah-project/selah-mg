@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "⟨את⟩ Cheklat sy ⟨את⟩ ny tany manodidina azy, sy ⟨את⟩ Rechob sy ⟨את⟩ ny tany manodidina azy — tanàna efatra.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cheklat"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Cheklat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany manodidina azy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ny tany manodidina azy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rechob"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rechob"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany manodidina azy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ny tany manodidina azy"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "efatra"
+    }
+  ],
+  "timestamp": "2026-08-31T14:02:49.353907509Z",
+  "model": "glm-5.3"
+}

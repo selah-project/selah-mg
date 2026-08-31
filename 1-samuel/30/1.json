@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary tonga tany Tsiklag David sy ny lehilahy tao aminy tamin'ny andro fahatelo, ary ny Amalekita nanafika ny Negev sy Tsiklag, ka namely ⟨את⟩ Tsiklag ka nodorany ⟨את⟩ tamin'ny afo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary tonga"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "rehefa tonga tany"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "sy ny lehilahy tao aminy"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "fahatelo"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "ary ny Amalekita"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "nanafika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tany amin'ny"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sy tany amin'ny"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ka namely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "ka nodorany"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy \/ Tsiklag"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tamin'ny afo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:27:06.332060785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary naninjitra Avrahama ⟨את⟩ ny tànany ka naka ⟨את⟩ ny antsy hanononoany ⟨את⟩ ny zanany.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ary naninjitra"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tànany"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tànany"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ka naka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny antsy"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "antsy"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "hanononoany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:41:07.550219420Z",
+  "model": "glm-5.3"
+}

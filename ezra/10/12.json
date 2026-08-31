@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 10:12",
+  "book": "ezra",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Dia namaly ny fivoriana rehetra ka nanao hoe tamin'ny feo mahery: Eny, araka ny teninao aminay no hataontsika.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "namaly"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ny fivoriana"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "feo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Eny"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "araka ny teninao"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "aminay"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "no hataontsika"
+    }
+  ],
+  "timestamp": "2026-08-31T18:36:59.342547063Z",
+  "model": "glm-5.3"
+}

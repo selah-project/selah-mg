@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 23:12",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "fa izy nitoetra teo afovoan'ny teheza ka namonjy azy, ka namely ⟨את⟩ ny Pelishtim; ary Yahveh nanao famonjena lehibe.",
+  "tokens": [
+    {
+      "surface": "ויתיצב",
+      "gloss": "fa izy nitoetra teo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "afovoan'ny"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "teheza"
+    },
+    {
+      "surface": "ויצילה",
+      "gloss": "ka namonjy azy"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ka namely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Pelishtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Pelishtim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "famonjena"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "lehibe"
+    }
+  ],
+  "timestamp": "2026-08-31T14:38:41.188587116Z",
+  "model": "glm-5.3"
+}

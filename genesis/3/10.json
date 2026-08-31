@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary hoy izy: Ny feonao no reko tao an-jarivavarano, ka natahotra aho, satria miety aho, ka niafina aho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy:"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feonao"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "feonao"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "reko"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "tao an-jarivavarano"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "ka natahotra aho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "miety"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aho"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "ka niafina aho"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:20.175964104Z",
+  "model": "glm-5.3"
+}

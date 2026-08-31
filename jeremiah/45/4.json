@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 45:4",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 45,
+  "translation": "Toy izao no hantenainao aminy: Toy izao no lazain'i Yahveh: Indro, izay norenako dia Izaho mpanimba, ary ⟨את⟩ izay namboleko dia Izaho mandrotsa, ary ⟨את⟩ ny tany rehetra — izy.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Toy izao"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "no hantenainao"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Toy izao"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "no lazain'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "norenako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "mpanimba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izay namboleko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "namboleko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "נתש",
+      "gloss": "mandrotsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "היא",
+      "gloss": "izy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:42:02.065709703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Fa Izaho Yahveh dia tsy mba miova, ary ianareo, taranak'i Yaakov, dia tsy mba lany.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "miova"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ary ianareo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taranak'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "lany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:53.030268997Z",
+  "model": "glm-5.3"
+}

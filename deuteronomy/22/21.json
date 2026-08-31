@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 22:21",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Dia hitondra ⟨את⟩ ilay zazavavy ho any amin'ny varavaran'ny tranon'ny rainy izy, ary hitoraka azy vato ny lehilahy amin'ny tanànany, dia ho faty izy, satria efa nanao zava-boaraboina tao amin'i Yisraela izy, ka nanitsakitsaka tao an-tranon'ny rainy; ary hofafanao ny ratsy avy eo aminao.",
+  "tokens": [
+    {
+      "surface": "והוציאו",
+      "gloss": "hitondra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay zazavavy"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ilay zazavavy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "varavarana"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ny rainy"
+    },
+    {
+      "surface": "וסקלוה",
+      "gloss": "hitoraka azy vato"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "עירה",
+      "gloss": "amin'ny tanànany"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "vato"
+    },
+    {
+      "surface": "ומתה",
+      "gloss": "ho faty izy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "efa nanao"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "zava-boaraboina"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "tao amin'i Yisraela"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "ka nanitsakitsaka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tao an-tranon'ny"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "rainy"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "hofafanao"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ny ratsy"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "avy eo aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:49:18.444043765Z",
+  "model": "glm-5.3"
+}

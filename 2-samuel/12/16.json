@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary David nitidy tamin'i Yahveh ⟨את⟩ ny Elohim hamonjy ilay zazalahy; ary David nifady hanina ka niditra sy nandry tamin'ny alina ary nandry tety an-tany.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "Ary nitidy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ny Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "hamonjy"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ilay zazalahy"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "ary nifady"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "צום",
+      "gloss": "hanina"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ka niditra"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "sy nandry tamin'ny alina"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "ary nandry"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "tety an-tany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:32:06.983704800Z",
+  "model": "glm-5.3"
+}

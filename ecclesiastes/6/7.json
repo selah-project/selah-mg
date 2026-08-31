@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ny fikelezan-kitra rehetra'ny olona dia ho an'ny vavany, nefa ny aina tsy voky.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "fikelezan-kitra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "'ny olona"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "ho an'ny vavany"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nefa"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ny aina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "voky"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:28.169753920Z",
+  "model": "glm-5.3"
+}

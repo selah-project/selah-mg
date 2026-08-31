@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 147,
+  "translation": "Mandefa ny didy teniny amin'ny tany Izy; haingana dia mihazakazaka ny teniny.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "Mandefa"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "ny didy teniny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hatranihatrany"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "haingana"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "mihazakazaka"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ny teniny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:52.865666433Z",
+  "model": "glm-5.3"
+}

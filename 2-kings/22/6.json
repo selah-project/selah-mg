@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 22:6",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ho an'ny mpandrafitra sy ny mpanao biriky sy ny mpanamboatra rindrina, ary hividy hazo sy vato voapaika hanamafy ⟨את⟩ ny trano.",
+  "tokens": [
+    {
+      "surface": "לחרשים",
+      "gloss": "ho an'ny mpandrafitra"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "sy ny mpanao biriky"
+    },
+    {
+      "surface": "ו לגדרים",
+      "gloss": "sy ny mpanamboatra rindrina"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "ary hividy"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "sy vato"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "voapaika"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "hanamafy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny trano"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "trano"
+    }
+  ],
+  "timestamp": "2026-08-31T15:00:06.376924571Z",
+  "model": "glm-5.3"
+}

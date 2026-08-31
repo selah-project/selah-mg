@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 22:5",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Fa ny onjan'ny fahafatesana nanodidina ahy, ny lohasahan'ny Belial natahotra ahy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אפפני",
+      "gloss": "nanodidina ahy"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "ny onjan'ny"
+    },
+    {
+      "surface": "מות",
+      "gloss": "fahafatesana"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "ny lohasahan'ny"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "יבעתני",
+      "gloss": "natahotra ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:36:03.235642239Z",
+  "model": "glm-5.3"
+}

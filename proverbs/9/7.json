@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 9:7",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Izay mananatra ny mpanatsiky dia mahazo fahafaham-baraka ho ⟨an'ny tenany⟩; ary izay mitsara ny ratsy fanahy dia mahazo tsy fahatanterahana ⟨ho an'ny tenany⟩.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "Izay manantra"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "ny mpanatsiky"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "mahazo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho ⟨an'ny tenany⟩"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "fahafaham-baraka"
+    },
+    {
+      "surface": "ומוכיח",
+      "gloss": "ary izay mitsara"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "מומו",
+      "gloss": "tsy fahatanterahana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:50:26.835400893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 107,
+  "translation": "Ary nanetry tamin'ny fahoriana ny fony; izy nanganohano, ka tsy nisy mpamonjy.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "nanetry"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "tamin'ny fahoriana"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ny fony"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "nanganohano"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ka tsy nisy"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mpamonjy"
+    }
+  ],
+  "timestamp": "2026-08-31T19:14:05.545865547Z",
+  "model": "glm-5.3"
+}

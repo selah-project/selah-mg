@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 25:24",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary lavo tamin'ny tongony izy ka nanao hoe: Antsiko, tompoko, antsiko anie ny heloka; ary aoka azafady hiteny amin'ny sofinao ny mpanompo-vaviny vavy, ary henoy ny tenin'ny mpanompo-vaviny vavy ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "lavo"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "tongony"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "בי",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "אני",
+      "gloss": "iantsiko"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tompoko"
+    },
+    {
+      "surface": "העון",
+      "gloss": "ny heloka"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "aoka hiteny"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ny mpanompo-vaviny vavy"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "amin'ny sofinao"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ary henoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tenin'ny mpanompo-vaviny vavy"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ny tenin'ny"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "mpanompo-vaviny vavy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:25:14.016046263Z",
+  "model": "glm-5.3"
+}

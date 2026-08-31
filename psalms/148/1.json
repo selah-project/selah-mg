@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 148,
+  "translation": "Miderà an'i Yah Yahveh! Miderà ⟨את⟩ Yahveh avy amin'ny lanitra, miderà Azy amin'ny avo rehetra!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Miderà"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Miderà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "lanitra"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "miderà Azy"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "amin'ny avo rehetra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:59.063447442Z",
+  "model": "glm-5.3"
+}

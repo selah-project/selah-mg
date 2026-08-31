@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 2:5",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary tsy nisy akory ny kirihitra rehetra tany an-tsaha, fony tsy mbola nisy tany amin'ny tany izy, ary ny ahitra rehetra any an-tsaha, fony tsy mbola nitombo; fa Yahveh Elohim tsy mbola nampivoaka orana tamin'ny tany, ary olona tsy nisy hanompo ⟨את⟩ ny tany.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ary ... rehetra"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "kirihitra"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "an-tsaha"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "fony tsy mbola"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nisy"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tany amin'ny tany"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ... rehetra"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ahitra"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "any an-tsaha"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "fony tsy mbola"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "nitombo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "nampivoaka orana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ary olona"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy nisy"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "hanompo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:28.008941154Z",
+  "model": "glm-5.3"
+}

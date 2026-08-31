@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary nanarona tamin'ny volamena ⟨את⟩ ny kerobima izy.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "nanarona tamin'ny volamena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny kerobima"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "ny kerobima"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    }
+  ],
+  "timestamp": "2026-08-31T14:41:14.411210540Z",
+  "model": "glm-5.3"
+}

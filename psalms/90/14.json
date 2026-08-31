@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 90,
+  "translation": "Voky no anamafiso antsika amin'ny maraina ny hesedao, ary hihoby sy hifaly izahay amin'ny andro rehetra antsika.",
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "anamafiso antsika"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "amin'ny maraina"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ny hesedao"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "ary hihoby"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "sy hifaly izahay"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "andro antsika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:24.522508186Z",
+  "model": "glm-5.3"
+}

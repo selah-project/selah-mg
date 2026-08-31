@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary hitan'i Elohim ⟨את⟩ ny asany, fa niverina tamin'ny lalany ratsy izy, dia nibebaka Elohim ny amin'ny loza izay nolazainy hatao aminy, fa tsy nataony.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ary hitan'i"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny asany"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ny asany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "niverina"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "tamin'ny lalany"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "dia nibebaka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ny amin'ny"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "loza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nolazainy"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hatao"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:13:47.384898243Z",
+  "model": "glm-5.3"
+}

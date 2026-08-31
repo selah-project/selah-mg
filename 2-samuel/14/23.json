@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary nitsangana Yoaba ka nandeha tany Geshura, ka nampody ⟨את⟩ Avshaloma tany Yeroshalayim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Ary nitsangana"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoaba"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ka nandeha"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "tany Geshura"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ka nampody"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshaloma"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshaloma"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "tany Yeroshalayim"
+    }
+  ],
+  "timestamp": "2026-08-31T14:33:45.836499388Z",
+  "model": "glm-5.3"
+}

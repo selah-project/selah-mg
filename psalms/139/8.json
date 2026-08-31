@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 139,
+  "translation": "Raha miakatra any an-danitra aho, any Ianao no misy; ary raha mandrandra any amin'ny Sheol aho, indreo Ianao any.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "miakatra"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "any an-danitra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "any"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ianao no misy"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "ary raha mandrandra"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "any amin'ny Sheol"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "indreo Ianao any"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:41.510072656Z",
+  "model": "glm-5.3"
+}

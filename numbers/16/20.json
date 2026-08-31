@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 16:20",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary niteni tamin'i Moshe sy tamin'i Aharon Yahveh, ka nanao hoe:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ary niteni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sy tamin'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe:"
+    }
+  ],
+  "timestamp": "2026-08-31T13:30:36.925021701Z",
+  "model": "glm-5.3"
+}

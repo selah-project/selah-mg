@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 1:3",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary Shelomoh sy ny fiangonana rehetra niaraka taminy nankany amin'ny fitoerana avo izay tao amin'i Givona, fa tao no nisy ny trano-lay fihaonana ny Elohim, izay nataon'i Moshe mpanompon'i Yahveh tany an-efitra.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Ary ... nankany"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ny ... rehetra"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "fiangonana"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "niaraka taminy"
+    },
+    {
+      "surface": "לבמה",
+      "gloss": "amin'ny fitoerana avo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "tao amin'i Givona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "היה",
+      "gloss": "no nisy"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "trano-lay"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ny Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataon'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mpanompon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "tany an-efitra"
+    }
+  ],
+  "timestamp": "2026-08-31T17:42:39.821178809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 139,
+  "translation": "Hanatrika an'i Yah aho, fa mahatalanjona no nanaovana ahy; mahagaga ny asanao, ary ny fanahiko mahalala izany tsara.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "hanatrika Anao aho"
+    },
+    {
+      "surface": "על",
+      "gloss": "fa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "no"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "mahatalanjona"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "nanaovana ahy"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "mahagaga"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ny asanao"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "ary ny fanahiko"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tsara"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:39.499613282Z",
+  "model": "glm-5.3"
+}

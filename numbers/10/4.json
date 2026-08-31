@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 10:4",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Fa raha amin' ny iray no manetsa, dia miangona manatona anao ny mpanapaka, lohan' ny arivon' i Yisraely.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Fa raha"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "amin'ny iray"
+    },
+    {
+      "surface": "יתקעו",
+      "gloss": "manetsa"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "miangona manatona"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "הנשיאים",
+      "gloss": "ny mpanapaka"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "lohan'"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ny arivon'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraely"
+    }
+  ],
+  "timestamp": "2026-08-31T13:27:03.519140964Z",
+  "model": "glm-5.3"
+}

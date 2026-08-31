@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 36:12",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Fa raha tsy mihaino izy, dia ho fatin' ny zana-tsipìka ka ho faty tsy manam-pahalalana.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Fa raha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "mihaino"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "amin' ny zana-tsipìka"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "dia ho lasa miandalana"
+    },
+    {
+      "surface": "ויגועו",
+      "gloss": "ka ho faty"
+    },
+    {
+      "surface": "כבלי",
+      "gloss": "tsy manam-pahalalana"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "fahalalana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:07:21.102228463Z",
+  "model": "glm-5.3"
+}

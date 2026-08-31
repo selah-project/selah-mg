@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 21:21",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary nandeha tamin'ny lalana rehetra izay nalehan'ny rainy izy, ary nanompo ny gilolim ⟨את⟩ izay nokaraian'ny rainy izy, ka niankohoka teo anatrehany.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tamin'ny ... rehetra"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nalehan'ny"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rainy"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "nanompo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny gilolim"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "gilolim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "nokaraian'ny"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rainy"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "niankohoka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "teo anatrehany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:59:49.770479106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "sy hoditry ny ondry maro soy nolokoina mena, ary hoditra takahasy, ary hazo akasià Shittim;",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "sy hoditra"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ondry maro"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "nolokoina mena"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "sy hoditra"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "takaha (tahasy)"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "sy hazo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "Shittim (akasià)"
+    }
+  ],
+  "timestamp": "2026-08-31T13:04:14.878742592Z",
+  "model": "glm-5.3"
+}

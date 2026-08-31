@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 26:7",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary ny Elohim nanampy azy hanohitra ny Filistina sy ny Arabo monina ao Gora-Bala sy ny Meonita.",
+  "tokens": [
+    {
+      "surface": "ויעזרהו",
+      "gloss": "Ary ny Elohim nanampy azy"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ny Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "hanohitra"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Filistina"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy"
+    },
+    {
+      "surface": "הערביים",
+      "gloss": "ny Arabo"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "monina"
+    },
+    {
+      "surface": "בגור",
+      "gloss": "ao Gora-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Bala"
+    },
+    {
+      "surface": "והמעונים",
+      "gloss": "sy ny Meonita"
+    }
+  ],
+  "timestamp": "2026-08-31T17:49:52.333257364Z",
+  "model": "glm-5.3"
+}

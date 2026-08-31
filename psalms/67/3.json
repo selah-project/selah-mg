@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 67,
+  "translation": "Mba ho fantatry ny tany ny lalanao, sy ny famonjenao eo amin'ny firenena rehetra.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "mba ho fantatra"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ny lalanao"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "eo amin'ny rehetra"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "ny famonjenao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:01.247418024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nampitombo lanja Parao ⟨את⟩ ny fony koa amin'izao indray mandeha izao, ka tsy nanofera ⟨את⟩ ny vahoaka.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "Ary nampitombo lanja"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fony"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ny fony"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "amin'izao indray mandeha"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "izao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nanofera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:37.706314808Z",
+  "model": "glm-5.3"
+}

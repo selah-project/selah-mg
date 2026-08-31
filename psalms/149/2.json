@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 149,
+  "translation": "Aoka ho sambatra Israely amin'ny Mpanao azy; aoka hitabataba ny zanak'i Ziony amin'ny Mpanjakany.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "Aoka ho sambatra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israely"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "amin'ny Mpanao azy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny zanak'i"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ziony"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "aoka hitabataba"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "amin'ny Mpanjakany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:56.209828297Z",
+  "model": "glm-5.3"
+}

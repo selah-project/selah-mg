@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Mitarika ny hesed-nao ho amin'izay mahalala anao, ary ny fahamarinanao ho amin'izay mahitsy fo.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "Mitarika"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ny hesed-nao"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "ho amin'izay mahalala anao"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "ary ny fahamarinanao"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "ho amin'izay mahitsy"
+    },
+    {
+      "surface": "לב",
+      "gloss": "fo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:57.296413500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary taloha kely nonina tao aorian'ireo zava-tra-misy ireo, dia nizatra Elohim ⟨את⟩ an'i Avrahama, ka nanao taminy hoe: Avrahama. Ary hoy izy: Indro aho.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nonina tao"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "aorian'ireo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "zava-tra-misy"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "nizatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Avrahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy izy"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Indro aho"
+    }
+  ],
+  "timestamp": "2026-08-31T12:40:56.654543657Z",
+  "model": "glm-5.3"
+}

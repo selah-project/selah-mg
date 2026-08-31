@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary hoy ny vehivavy tamin'ilay menarana: Ny voankazon'ny hazo anaty zaridaina no hizahantsika.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ny vehivavy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ilay menarana"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "Ny voankazon'ny"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "anaty zaridaina"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "no hizahantsika"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:05.874495598Z",
+  "model": "glm-5.3"
+}

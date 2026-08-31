@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 9:10",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Manao zava-goavaozatra ka tsy azo hatrafatra, sy zava-mahagaga tsy voasisa isa.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Manao"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "zava-goavaozatra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "azo hatrafatra"
+    },
+    {
+      "surface": "ונפלאות",
+      "gloss": "sy zava-mahagaga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "voasisa isa"
+    }
+  ],
+  "timestamp": "2026-08-31T16:59:52.582801450Z",
+  "model": "glm-5.3"
+}

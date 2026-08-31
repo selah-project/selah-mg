@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary nanao efitra miorina eo amin'ny rindrin'ny trano izy, manodidina, ⟨את⟩ rindrin'ny trano manodidina, ho an'ny tempoly sy ho an'ny Debira; ary nanaovany efi-tovo manodidina.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "rindrin'ny"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "efitra miorina"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rindrin'ny trano"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "rindrin'ny"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "ho an'ny tempoly"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "sy ho an'ny Debira"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "nanaovany"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "efi-tovo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    }
+  ],
+  "timestamp": "2026-08-31T14:42:26.634822402Z",
+  "model": "glm-5.3"
+}

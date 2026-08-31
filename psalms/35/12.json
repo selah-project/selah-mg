@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Mamerina loaka ahy izy: ratsy ho solon'ny tsara, fahaverezan-janaka ho an'ny fanahiko.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "Mamerina loaka ahy izy"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ho solon'ny"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "fahaverezan-janaka"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ho an'ny fanahiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:43.877603947Z",
+  "model": "glm-5.3"
+}

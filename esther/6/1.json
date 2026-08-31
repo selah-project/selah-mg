@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 6:1",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Tamin'ny alina izay nandositra ny torimason'ny mpanjaka, ka nanao ⟨izy⟩ hampidirina ny bokin'ny fahatsiarovana, tantaran'ny andro, ka novakiana teo anatrehan'ny mpanjaka ireo.",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "Tamin'ny alina"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נדדה",
+      "gloss": "nandositra"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ny torimason'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "hampidirina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny bokin'ny fahatsiarovana"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "bokin'ny"
+    },
+    {
+      "surface": "הזכרנות",
+      "gloss": "fahatsiarovana"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tantaran'ny"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נקראים",
+      "gloss": "novakiana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anatrehan'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    }
+  ],
+  "timestamp": "2026-08-31T17:18:43.224330644Z",
+  "model": "glm-5.3"
+}

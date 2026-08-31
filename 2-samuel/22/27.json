@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 22:27",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Amin'ny madio dia madio ianao, ary amin'ny mivelombelona dia mivelombelona ianao.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "madio"
+    },
+    {
+      "surface": "תתבר",
+      "gloss": "madio ianao"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ary amin'ny"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "mivelombelona"
+    },
+    {
+      "surface": "תתפל",
+      "gloss": "mivelombelona ianao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:37:27.758973997Z",
+  "model": "glm-5.3"
+}

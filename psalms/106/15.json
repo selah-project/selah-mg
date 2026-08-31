@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Dia nomeny ny fangatahany izy, nefa nanatona hahiaivy tao amin'ny fanahiny.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Dia nomeny"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "ny fangatahany"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "nefa nanatona"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "hahiaivy"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "tao amin'ny fanahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:46.098432952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 14:2",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Miverena, ry Isiraely, ambanin'i Yahveh Elohim-nao, fa tamin'ny helokao no fianjeranao.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Miverena"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ry Isiraely"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ambanin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "כשלת",
+      "gloss": "fianjeranao"
+    },
+    {
+      "surface": "בעונך",
+      "gloss": "tamin'ny helokao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:08:41.020752537Z",
+  "model": "glm-5.3"
+}

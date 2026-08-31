@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 136,
+  "translation": "Izay mpanao zava-mahatalanjona lehibe irery ihany, fa hatramin'ny fahavelony dia ny hesedany;",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Izay mpanao"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "zava-mahatalanjona"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "irery ihany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hatramin'ny fahavelony"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ny hesedany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:27.278636838Z",
+  "model": "glm-5.3"
+}

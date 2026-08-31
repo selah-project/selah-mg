@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "Mamindrà fo amiko, ry Elohim, araka ny hesed-nao, araka ny betsakan'ny famindrampoanao, fafao ny fandikanaako.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Mamindrà fo amiko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ry Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "araka ny hesed-nao"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "araka ny betsakan'"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "ny famindrampoanao"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "fafao"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ny fandikanaako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:45.316756557Z",
+  "model": "glm-5.3"
+}

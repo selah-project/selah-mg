@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Na masoandro aza tsy hitany, ary tsy nahafantatra izy; fafaaly mihoatra no an'ity raha oharina amin'ity.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "masoandro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "hitany"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nahafantatra"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "fafaaly"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "an'ity"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "amin'ity"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:28.167755810Z",
+  "model": "glm-5.3"
+}

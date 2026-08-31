@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Fa Elohim no nampivadika an'⟨את⟩ ny vahoaka ho amin'ny lalan'ny efitrany Ranomasin'ny Zozoro; ary nitondra fiadiana niakatra avy tany amin'ny tany Mitsrayim ny zanak'i Yisraela.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "nampivadika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tamin'ny lalan'ny"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "efitra"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Ranomasina"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Zozoro"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "nitondra fiadiana"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "niakatra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "avy tany amin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T13:00:15.741722648Z",
+  "model": "glm-5.3"
+}

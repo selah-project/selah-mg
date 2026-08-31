@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Tsy mba niala tamin'ny fitsaranao aho, fa ianao no nampianatra ahy.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "tamin'ny fitsaranao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "niala aho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "nampianatra ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:17.467307560Z",
+  "model": "glm-5.3"
+}

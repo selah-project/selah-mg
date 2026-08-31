@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary Abrahamah niantso ⟨את⟩ ny anaran'ilay zanany teraka taminy, izay naterak'i Sarahah taminy: Yitschak.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ary niantso"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anaran'ilay zanany"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ny anarana"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "teraka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "naterak'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarahah"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    }
+  ],
+  "timestamp": "2026-08-31T12:40:08.632735162Z",
+  "model": "glm-5.3"
+}

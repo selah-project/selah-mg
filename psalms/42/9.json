@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Amin'ny antoandro Yahveh no mandidy ny hesed ⟨an'⟩ ary amin'ny alina ny fihirana miaraka amiko, dia fivavahana ho an'ny El, fiainako.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "amin'ny antoandro"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "mandidy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ny hesed-ny"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "ary amin'ny alina"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "fihirana"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "miaraka amiko"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "fivavahana"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ho an'ny El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "fiainako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:23.436863117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 109,
+  "translation": "Nitofahana ny lohaliko noho ny fifadian-kanina, ary very tavy ny nofoko.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "ny lohaliko"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "nitofahana"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "noho ny fifadian-kanina"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "ary ny nofoko"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "very"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "tavy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:29.806093114Z",
+  "model": "glm-5.3"
+}

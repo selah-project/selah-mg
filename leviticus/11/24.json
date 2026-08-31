@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary amin'ireto no ho maloto ianareo: izay rehetra mikasika ny fatin'ireo dia ho maloto mandra-pahatapitr'ny hariva.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "Ary amin'ireto"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "no ho maloto ianareo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "mikasika"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "ny fatin'ireo"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "dia ho maloto"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-pahatapitr'"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ny hariva"
+    }
+  ],
+  "timestamp": "2026-08-31T13:14:58.060224599Z",
+  "model": "glm-5.3"
+}

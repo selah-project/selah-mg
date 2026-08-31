@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 136,
+  "translation": "Lova ho an'i Isiraely mpanompony, fa ho amin'ny faharetana mandrakizay no hesed-ny.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "lova"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ho an'i Isiraely"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mpanompony"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "amin'ny faharetana mandrakizay"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed-ny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:17.062496990Z",
+  "model": "glm-5.3"
+}

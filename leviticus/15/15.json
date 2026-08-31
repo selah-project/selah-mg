@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary ny mpisorona hanao ⟨את⟩ izy roa, ny iray ho fanatitra ho an'ny fahotana ary ny iray ho fanatitra dorana; ary ny mpisorona hanatanteraka ny famelan-keloka ho azy eo anoloan'i Yahveh, noho ny fandatsany.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izy roa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ny iray"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "fanatitra ho an'ny fahotana"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "ary ny iray"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "fanatitra dorana"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "hanatanteraka ny famelan-keloka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anoloan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "noho ny fandatsany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:29:00.067424256Z",
+  "model": "glm-5.3"
+}

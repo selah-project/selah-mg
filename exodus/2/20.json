@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary hoy izy tamin'ireo zanany vavy: Ary aiza izy? Nahoana no nahafoy anareo ⟨את⟩ ilay lehilahy? Antsoy izy hivesaka, mba hihinana mofo izy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy izy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ireo zanany vavy"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "zanany vavy"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "Ary aiza izy"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Nahoana no"
+    },
+    {
+      "surface": "זה",
+      "gloss": "(famantarana fanamafisana)"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "nahafoy anareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay lehilahy"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ilay lehilahy"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "Antsoy izy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hivesaka"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "mba hihinana"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mofo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:53:54.799089044Z",
+  "model": "glm-5.3"
+}

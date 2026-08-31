@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 148,
+  "translation": "Miderà Azy, masoandro sy volana; miderà Azy, kintana mazava rehetra!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Miderà Azy"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "masoandro"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "sy volana"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Miderà Azy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "kintana"
+    },
+    {
+      "surface": "אור",
+      "gloss": "mazava"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:59.063987919Z",
+  "model": "glm-5.3"
+}

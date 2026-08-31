@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Fa efa nampidina Izy ny mponina any ambony, tanàna mitafo hahavaviana; hatsipy any ambany izy, hatsy any ambany mandra-pahatany amin'ny tany, hatorana mandra-pahatany amin'ny vovoka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "השח",
+      "gloss": "efa nampidina"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ny mponina"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "any ambony"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "mitafo hahavaviana"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "hatsipy any ambany izy"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "hatsy any ambany"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-pahatany amin'ny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "hatorana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-pahatany amin'ny"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "vovoka"
+    }
+  ],
+  "timestamp": "2026-08-31T15:08:23.120993927Z",
+  "model": "glm-5.3"
+}

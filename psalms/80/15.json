@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 80,
+  "translation": "Ry Elohim Tsevaot, miverena azafady; jereo avy any an-daniry ka havao, ary tandremo ity voaloboka ity.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Ry Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "miverena"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "jereo"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "avy any an-danitra"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ka havao"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "ary tandremo"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "voaloboka"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ity"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:06.717616967Z",
+  "model": "glm-5.3"
+}

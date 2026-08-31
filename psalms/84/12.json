@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 84,
+  "translation": "Fa masoandro sy amponga Yahveh Elohim; fahasoavana sy voninahitra no omen'i Yahveh; tsy misy zava-tsyara nataony tsy homeny izay mandeha amin'ny fahatokisana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "masoandro"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "sy amponga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "fahasoavana"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "sy voninahitra"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "no omen'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "misy zava-tsyara nataony tsy homeny"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "zava-tsyara"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "izay mandeha"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "amin'ny fahatokisana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:58.036951331Z",
+  "model": "glm-5.3"
+}

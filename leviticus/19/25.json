@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary amin'ny taona fahadimy dia hihinina ⟨את⟩ ny voany ianareo, mba hanampy ho anareo ny vokany; Izaho Yahveh Elohinareo.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Ary amin'ny taona"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "fahadimy"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "hanohanona\/hihinina ianareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny voany"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ny voany"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "mba hanampy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "ny vokany"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:14.477246515Z",
+  "model": "glm-5.3"
+}

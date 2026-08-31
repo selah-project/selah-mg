@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Izao rehetra izao no nitsapako tamin'ny fahendrena; nilaza aho hoe: ho hendry aho; fa lavitra ahy kosa izy.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izao... izao"
+    },
+    {
+      "surface": "נסיתי",
+      "gloss": "nitsapako"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "tamin'ny fahendrena"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nilaza aho hoe"
+    },
+    {
+      "surface": "אחכמה",
+      "gloss": "ho hendry aho"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "fa izy"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "lavitra"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "amin'aho (ahy)"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:51.356859677Z",
+  "model": "glm-5.3"
+}

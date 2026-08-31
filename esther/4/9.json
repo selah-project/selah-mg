@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary tonga Hathak ka nambarra tamin'i Estera ⟨את⟩ ny tenin'i Mordekay.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "Ary tonga"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hathak"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ka nambarra"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "tamin'i Estera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tenin'i Mordekay"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ny tenin'i"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    }
+  ],
+  "timestamp": "2026-08-31T17:17:35.701491908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Noho izany dia hidera anao aho amin'ny firenena, ry Yahveh, sy handeha hankalaza anaranao.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "hidera anao aho"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "amin'ny firenena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "anaranao"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "hankalaza"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:07.414112858Z",
+  "model": "glm-5.3"
+}

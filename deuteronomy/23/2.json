@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Tsy hiditra ao amin'ny fiangonan'i Yahveh izay voatrahitra sy voasakana, na voafidy tsy hahazo taranaka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "hiditra"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "voatrahitra"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "voasakana"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "na voafidy"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "tsy hahazo taranaka"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ao amin'ny fiangonan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:48:37.967943860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 29:10",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary hanatitra ⟨את⟩ ny ombilahy eo anoloan'ny trano fihaonana ianao; ary Aharon sy ny zanany hametraka ⟨את⟩ ny tànany eo anampon'ny ombilahy.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "hanatitra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ombilahy"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ny ombilahy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anoloan'ny"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tranon'ny"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "hametraka"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "sy ny zanany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tànany"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ny tànany"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambonin'ny"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "anampon'ny"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ombilahy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:05:46.776819509Z",
+  "model": "glm-5.3"
+}

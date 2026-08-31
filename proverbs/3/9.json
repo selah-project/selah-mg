@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Hanaja ⟨את⟩ Yahveh amin'ny fanananao ianao, ary amin'ny voalohany amin'ny vokatrao rehetra.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Hanaja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "amin'ny fanananao"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "ary amin'ny voalohany"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "amin'ny vokatrao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:51.723980855Z",
+  "model": "glm-5.3"
+}

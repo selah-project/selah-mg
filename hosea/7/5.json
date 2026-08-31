@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Amin'ny andron'ny mpanjakantsika ny mpanapaka efa niharan'ny fahamasoan'ny divay; naninjitra ny tànany izy miaraka amin'ny mpaniratsiratsy.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "amin'ny andron'ny"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "mpanjakantsika"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "niharan'"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ny mpanapaka"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "fahamasoan'ny"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "divay"
+    },
+    {
+      "surface": "משך",
+      "gloss": "naninjitra"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ny tànany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpaniratsiratsy"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "miaraka amin'ny mpaniratsiratsy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:08:23.261074270Z",
+  "model": "glm-5.3"
+}

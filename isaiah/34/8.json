@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 34:8",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Fa an'i Yahveh ny andron'ny famaliana, ny taonan'ny famaliana ho an'ny adin'i Ziona.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ny andron'ny"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "famaliana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ny taonan'ny"
+    },
+    {
+      "surface": "שלומים",
+      "gloss": "famaliana"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "ho an'ny adin'i"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ziona"
+    }
+  ],
+  "timestamp": "2026-08-31T15:13:01.777584139Z",
+  "model": "glm-5.3"
+}

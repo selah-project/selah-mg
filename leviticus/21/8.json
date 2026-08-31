@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary hohamasinainao izy, fa ⟨את⟩ ny sakafo ny Elohiminao no atolotriny; masina ho anao izy, fa masina Aho, Yahveh, Mpamasina anareo.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "hohamasinainao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny sakafo ny Elohiminao"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "sakafo"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminao"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "atolotriny"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "Mpamasina anareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:25.961836124Z",
+  "model": "glm-5.3"
+}

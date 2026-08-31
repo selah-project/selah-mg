@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Raha mbola eo amin'ny fipetrahana miaraka ny mpanjaka, ny nariko dia nanome ny hanitraony.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "raha mbola"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "eo amin'ny fipetrahana miaraka"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "ny nariko"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nanome"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "ny hanitraony"
+    }
+  ],
+  "timestamp": "2026-08-31T17:09:33.565345313Z",
+  "model": "glm-5.3"
+}

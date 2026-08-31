@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Aza omena torimaso ny masonao, na tsendry ny faron'ny masonao.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "omena"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "torimaso"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "ny masonao"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "na tsendry"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "ny faron'ny masonao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:49:37.924251228Z",
+  "model": "glm-5.3"
+}

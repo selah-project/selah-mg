@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Mahereza ary marefo, fa ianao no hampandova ity firenena ity ⟨את⟩ ny tany izay nianianako tamin'ny razany homena azy.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "Mahereza"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "ary marefo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "hampandova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ity firenena ity"
+    },
+    {
+      "surface": "העם",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nianianako"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "tamin'ny razany"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "homena"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:54:12.915233515Z",
+  "model": "glm-5.3"
+}

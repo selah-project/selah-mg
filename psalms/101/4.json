@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 101,
+  "translation": "Fo miolikoly no hiala amiko; ny ratsy dia tsy hahalalako.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "Fo"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "miolikoly"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "no hiala"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ny ratsy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "hahalalako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:40.726611164Z",
+  "model": "glm-5.3"
+}

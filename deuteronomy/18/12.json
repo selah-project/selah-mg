@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 18:12",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Fa fahavetavetan'i Yahveh izay rehetra manao ireo; ary noho ireo fahavetavetana ireo dia Yahveh Elohim-nao manaisotra ⟨את⟩ azy eo anatrehanao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "fahavetavetan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "manao"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "ובגלל",
+      "gloss": "ary noho"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "fahavetavetana"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nao"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "manaisotra"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (ireo firenena)"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "eo anatrehanao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:47:20.973033121Z",
+  "model": "glm-5.3"
+}

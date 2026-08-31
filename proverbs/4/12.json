@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Rehefa mandeha ianao dia tsy ho tery ny fandehanao, ary raha mihazakazaka ianao dia tsy ho tafintohina.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "Rehefa mandeha ianao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ho tery"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "ny fandehanao"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ary raha"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "mihazakazaka ianao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "ho tafintohina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:53.942898478Z",
+  "model": "glm-5.3"
+}

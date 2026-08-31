@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 88,
+  "translation": "Napetrakao tao amin'ny fahana ambany indrindra izaho, ao amin'ny aizina, ao amin'ny lalina.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "napetrakao"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "tao amin'ny fahana"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "ambany indrindra"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "ao amin'ny aizina"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "ao amin'ny lalina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:28.287141391Z",
+  "model": "glm-5.3"
+}

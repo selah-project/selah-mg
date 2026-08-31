@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary Aharon hanatitra ⟨את⟩ ny ombin'ny fanatitra noho ny ota izay an'ny tenany, ka hanao fanavotana ho azy sy ho an'ny ankohonany.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "hanatitra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ombin'ny fanatitra noho ny ota"
+    },
+    {
+      "surface": "פר",
+      "gloss": "omby"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ny fanatitra noho ny ota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "an'ny tenany"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "hanao fanavotana"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "sy ho an'ny"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ankohonany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:16:56.514175878Z",
+  "model": "glm-5.3"
+}

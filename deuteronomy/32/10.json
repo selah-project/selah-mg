@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 32:10",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Hitany teo amin'ny tany efitra, tao anaty foana, koriam-poana, manafina ao amin'ny tany maina no nahitany azy; noddiny manodina azy, nampahalalany azy, niambina azy toy ny alohan'ny masony.",
+  "tokens": [
+    {
+      "surface": "ימצאהו",
+      "gloss": "nahita azy"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "teo amin'ny tany"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "efitra"
+    },
+    {
+      "surface": "ובתהו",
+      "gloss": "tao anaty foana"
+    },
+    {
+      "surface": "ילל",
+      "gloss": "koriam-panafina"
+    },
+    {
+      "surface": "ישמן",
+      "gloss": "tany maina foana"
+    },
+    {
+      "surface": "יסבבנהו",
+      "gloss": "noddiny manodina azy"
+    },
+    {
+      "surface": "יבוננהו",
+      "gloss": "nampahalalany azy"
+    },
+    {
+      "surface": "יצרנהו",
+      "gloss": "niambina azy"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "toy ny alohan'ny"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "masony"
+    }
+  ],
+  "timestamp": "2026-08-31T13:51:24.901358515Z",
+  "model": "glm-5.3"
+}

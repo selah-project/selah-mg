@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "ary nomeko taminao ⟨את⟩ ny tranon'ny tomponao ary ⟨את⟩ ny vadin'ny tomponao ho ao an-tratranao; ary nomeko taminao ⟨את⟩ ny tranon'Isiraela sy an'i Yehuda; ary raha vitsy amin'izany izy, dia hanampy anao aho toy izany sy toy izany.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ary nomeko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "taminao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tranon'ny tomponao"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ny tomponao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny vadin'ny tomponao"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "vady"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ny tomponao"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "ho ao an-tratranao"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ary nomeko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "taminao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tranon'Isiraela sy an'i Yehuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraela"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "sy an'i Yehuda"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ary raha"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "vitsy"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "dia hanampy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "toy izany"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "sy toy izany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:32:08.347193851Z",
+  "model": "glm-5.3"
+}

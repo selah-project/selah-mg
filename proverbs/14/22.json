@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 14:22",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Tsy mihitatra va ireo mikasa loza? Fa ⟨an'⟩ ireo mikasa soa kosa dia hesed sy fahamarinana.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Tsy ... va"
+    },
+    {
+      "surface": "יתעו",
+      "gloss": "mihitatra"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "ireo mikasa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "loza"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "fa hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "sy fahamarinana"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "ireo mikasa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "soa"
+    }
+  ],
+  "timestamp": "2026-08-31T16:53:22.234231959Z",
+  "model": "glm-5.3"
+}

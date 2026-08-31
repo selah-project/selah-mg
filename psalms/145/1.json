@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 145,
+  "translation": "Fiderana an'i Davida. Hanandratra anao aho, ry Eloahiko ⟨⟨ry⟩⟩ mpanjaka, ary hotsofoko tsara ny anaranao mandrakizay ary ho fatrany.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Fiderana"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "an'i Davida"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "hanandratra anao aho"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "ry Eloahiko"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨ry⟩ mpanjaka"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "ary hotsofoko tsara"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ny anaranao"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ary ho fatrany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:06.797195783Z",
+  "model": "glm-5.3"
+}

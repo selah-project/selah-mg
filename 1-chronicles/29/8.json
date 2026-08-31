@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 29:8",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary izay hita teo ⟨את⟩ aminy vato fatra nanolotra izany ho amin'ny tahirin'ny tranon'i Yahveh, ambanin'ny tanan'i Yechiela ilay Gersonita.",
+  "tokens": [
+    {
+      "surface": "והנמצא",
+      "gloss": "Ary izay hita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "vato fatra (izay hita teo amin'ny olona iray)"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "vato fatra"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "nanolotra"
+    },
+    {
+      "surface": "לאוצר",
+      "gloss": "ho amin'ny tahirin'ny"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon'ny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambanin'ny"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tanan'ny"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Yechiela"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "ilay Gersonita"
+    }
+  ],
+  "timestamp": "2026-08-31T17:42:33.173677956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 111,
+  "translation": "⟨Izy⟩ miorina mandrakizay mandrakizay, voatahiry amin'ny fahamarinana sy fahitsiana.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "miorina"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "voatahiry"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "amin'ny fahamarinana"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "sy fahitsiana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:45.917616491Z",
+  "model": "glm-5.3"
+}

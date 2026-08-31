@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 92,
+  "translation": "Tsara ny manankasitrika amin'i Yahveh sy ny midera ny anaranao, ry Elyon ⟨avy amin'ny haavo⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Tsara"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "ny manankasitrika"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "amin'i Yahveh"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "sy ny midera"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ny anaranao"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:28.785097598Z",
+  "model": "glm-5.3"
+}

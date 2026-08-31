@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Manao fitsarana ho an'ny kamboty sy ny vady maty Izy, ary tia vahiny, hanome azy mofo sy fitafiana.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Manao"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "fitsarana"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "kamboty"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "sy ny vady maty"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "ary tia"
+    },
+    {
+      "surface": "גר",
+      "gloss": "vahiny"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "hanome"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mofo"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "sy fitafiana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:42:22.629165660Z",
+  "model": "glm-5.3"
+}

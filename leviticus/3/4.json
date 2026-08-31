@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Sy ⟨את⟩ ny voa-roa, ary ⟨את⟩ ny tavy izay eo amboniny, izay eo amin'ny valahana, ary ⟨את⟩ ilay sombiny eo ambonin'ny aty — miaraka amin'ny voa dia halalainy izany.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny voa-roa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "roa"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ny voa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny tavy"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ny tavy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "eo amboniny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "valahana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ilay sombiny"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ilay sombiny"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambonin'ny"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "aty"
+    },
+    {
+      "surface": "על",
+      "gloss": "miaraka amin'ny"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "voa"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "halalainy izany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:57:45.942859814Z",
+  "model": "glm-5.3"
+}

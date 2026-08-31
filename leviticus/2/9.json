@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 2:9",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary haka ny mpisoraka avy amin'ilay mincha ⟨את⟩ ny fahatsiarovana azy, ary hodorina eo amin'ny alitara izany, fanatitra afo, hafatra mandeha ho an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "והרים",
+      "gloss": "Ary haka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisoraka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy amin'i"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ilay mincha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahatsiarovana azy"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "ny fahatsiarovana azy"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "ary hodorina"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "eo amin'ny alitara"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "fanatitra afo"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "hafatra"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:32.022111524Z",
+  "model": "glm-5.3"
+}

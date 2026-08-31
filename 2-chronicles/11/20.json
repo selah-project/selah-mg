@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary afaka azy naka ⟨את⟩ Maaka zanak'i Avshaloma; ary niteraka ho azy izy ⟨את⟩ Aviya sy ⟨את⟩ Attay sy ⟨את⟩ Ziza sy ⟨את⟩ Shelomita.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "afaka azy"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "naka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maaka"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshaloma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aviya"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Attay"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Attay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Ziza"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "Ziza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Shelomita"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Shelomita"
+    }
+  ],
+  "timestamp": "2026-08-31T17:45:11.724721539Z",
+  "model": "glm-5.3"
+}

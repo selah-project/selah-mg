@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 124,
+  "translation": "Isaorana anie Yahveh, izay tsy nanome antsika ho sakafo ho an'ny nifiny.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Isaorana anie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "nanome antsika"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ho sakafo (azy)"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "ho an'ny nifiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:30.769609777Z",
+  "model": "glm-5.3"
+}

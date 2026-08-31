@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 69,
+  "translation": "Ho tonga fandrika eo anatrehany ny fandriany, ary ho fitsiny ho an'ny mpandry filaminana izany.",
+  "tokens": [
+    {
+      "surface": "יְהִי",
+      "gloss": "ho tonga"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "ny fandriany"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "eo anatrehany"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "fandrika"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "ho an'ny mpandry filaminana"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "fitsiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:02.256183224Z",
+  "model": "glm-5.3"
+}

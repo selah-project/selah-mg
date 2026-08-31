@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 47,
+  "translation": "Ary notehirizina hohanin'i Yosefa ⟨את⟩ ny rainy sy ⟨את⟩ ny rahalahiny sy ⟨את⟩ taranaka rehetra tao an-tranon'ny rainy, mofo araka ny filan'ny madinika.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "Ary notehirizina hohanin'i"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rainy"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ny rainy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny rahalahiny"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ny rahalahiny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "taranaka rehetra tao an-tranon'ny rainy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tao an-tranon'ny"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rainy"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mofo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "filan'ny madinika"
+    }
+  ],
+  "timestamp": "2026-08-31T12:52:40.587792733Z",
+  "model": "glm-5.3"
+}

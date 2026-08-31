@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary tonga ny loholon'ny Isiraely rehetra; ary ny Levita nitondra ⟨את⟩ ny fiara.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "loholon'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "nitondra"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiara"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "fiara"
+    }
+  ],
+  "timestamp": "2026-08-31T17:44:08.219435352Z",
+  "model": "glm-5.3"
+}

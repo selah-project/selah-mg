@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 126,
+  "translation": "Shir hama'alot. Tamin'ny niverenan'i Yahveh ⟨את⟩ ny fiverenan'i Tsiyon, dia tonga izahay ho tahaka ny nofinofy.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Hira"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "fiantsonana ambony (hama'alot)"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "tamin'ny niverenan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiverenan'i Tsiyon"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "ny fiverenan'"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "tonga izahay"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "ho tahaka ny nofinofy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:47.197817344Z",
+  "model": "glm-5.3"
+}

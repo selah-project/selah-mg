@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ny lanitra amin'ny haavo, ary ny tany amin'ny halalina, ary ny fon'ny mpanjaka tsy misy famantarana.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "lanitra"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "amin'ny haavo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ary ny tany"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "amin'ny halalina"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ary ny fo"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "famantarana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:56:45.110989777Z",
+  "model": "glm-5.3"
+}

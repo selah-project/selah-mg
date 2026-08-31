@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Tsy mety amin'ny adala molotra miavaka; maina fa tsy mety amin'ny olona malaza molotra mandainga.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "mety"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "amin'ny adala"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "molotra"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "miavaka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "maina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "amin'ny olona malaza"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "molotra"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "mandainga"
+    }
+  ],
+  "timestamp": "2026-08-31T16:54:13.385033323Z",
+  "model": "glm-5.3"
+}

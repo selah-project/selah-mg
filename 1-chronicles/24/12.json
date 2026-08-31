@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ny iraika ambin'ny folo ho an'i Elyashiv, ny roa ambin'ny folo ho an'i Yaqim.",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "ho an'i Elyashiv"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "iraika ambin'ny"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "folo"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "ho an'i Yaqim"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "roa ambin'ny"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "folo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:40:12.393471138Z",
+  "model": "glm-5.3"
+}

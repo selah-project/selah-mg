@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Dia niandry izy nankavia sy nankavanana ka nahatahiry tsy misy olona, dia namely ⟨את⟩ ilay Mitsrita ary nafeniny tao anaty fasika.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "niandry izy"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nankavia"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "nankavanana"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "nahatahiry"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "namely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay Mitsrita"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Mitsrita"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "nafeniny"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "tao anaty fasika"
+    }
+  ],
+  "timestamp": "2026-08-31T12:54:15.554363554Z",
+  "model": "glm-5.3"
+}

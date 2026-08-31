@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ry Yahveh Elohim-ako, nitaraina taminao aho, ary nampanasitraika ahy ianao.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-ako"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "nitaraina aho"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "taminao"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "ary nampanasitraika ahy ianao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:46.070916022Z",
+  "model": "glm-5.3"
+}

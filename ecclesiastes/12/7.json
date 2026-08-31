@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary hody amin'ny tany ny vovoka, araka izay nisy azy taloha, ary hody any amin'ilay Elohim ny fanahy, Izay nanome azy;",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ary hody"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ny vovoka"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "araka izay nisy azy taloha"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "ary ny fanahy"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "hody"
+    },
+    {
+      "surface": "אל",
+      "gloss": "any amin'ny"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Izay"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "nanome azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:17:50.943697594Z",
+  "model": "glm-5.3"
+}

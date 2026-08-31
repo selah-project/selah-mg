@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "An'i Yahveh Elohimina ianao no hatahoranao, ary ⟨את⟩ Azy no hanaovanao fanompoam-po, ary amin'ny anarany no hianianao.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimina"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "hatahoranao"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ary ⟨את⟩ Azy",
+      "marks": "Azy (Yahveh)"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "hanaovanao fanompoam-po"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "ary amin'ny anarany"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "hianianao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:41:55.445799451Z",
+  "model": "glm-5.3"
+}

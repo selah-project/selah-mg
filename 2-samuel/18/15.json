@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary niodina manodidina ny zaza folo mipetraka fitaovam-piadianan'i Yoav, ka namely ⟨את⟩ an'i Avshalom izy ka namono azy.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "niodina manodidina"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "folo"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "zaza"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "mipetraka"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "fitaovam-piadiana"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ka namely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "ka namono azy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:03:24.680334976Z",
+  "model": "glm-5.3"
+}

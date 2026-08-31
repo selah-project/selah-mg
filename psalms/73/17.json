@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 73,
+  "translation": "Fony tonga tao amin'ny fitoerana masin'i Elohim aho, dia nahatakatra ny farany aho.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "fony"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "tonga tao aho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ao amin'ny"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "fitoerana masin'ny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "nahatakatra"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "ny farany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:28.968400532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 55,
+  "translation": "Amin'ny hariva sy ny maraina ary ny mitataovovonana no hitetezako hevitra sy hitaraina, ary Izy efa nihaino ny feoko.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "hariva"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "sy ny maraina"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "ary ny mitataovovonana"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "hitetezako hevitra"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "sy hitaraina"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "efa nihaino"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ny feoko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:37.887755225Z",
+  "model": "glm-5.3"
+}

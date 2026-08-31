@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 147,
+  "translation": "Mihira ho an'i Yahveh amin'ny fisaorana; mandehadeha amin'ny kinora ho an'ny Elohim ⟨nay⟩.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Mihira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "amin'ny fisaorana"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "mandehadeha"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ho an'ny Elohim ⟨nay⟩"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "amin'ny kinora"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:06.671962893Z",
+  "model": "glm-5.3"
+}

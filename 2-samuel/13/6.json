@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 13:6",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary Amnon nandry ka natao ho marary; ary tonga ny mpanjaka hitsidika azy; ary Amnon nanao tamin'ny mpanjaka hoe: Mba avelao hankety Tamara rahavaviko dia hanao mofo fovy roa eo imasonao, ary hihinanako avy amin'ny tànany.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "nandry"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "ויתחל",
+      "gloss": "natao ho marary"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "לראתו",
+      "gloss": "hitsidika azy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "hankety"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Mba avelao"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamara"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "rahavaviko"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "hanao mofo fovy"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "eo imasonao"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "roa"
+    },
+    {
+      "surface": "לבבות",
+      "gloss": "mofo fovy"
+    },
+    {
+      "surface": "ואברה",
+      "gloss": "hihinanako"
+    },
+    {
+      "surface": "מידה",
+      "gloss": "avy amin'ny tànany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:33:06.560578018Z",
+  "model": "glm-5.3"
+}

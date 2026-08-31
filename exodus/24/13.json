@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 24:13",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary nitsangana Moshe sy Yehoshua mpanompony, dia niakatra Moshe tany an-tendrombohitra ny Elohim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nitsangana"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "mpanompony"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "niakatra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tany an-"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ny Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:45.495735617Z",
+  "model": "glm-5.3"
+}

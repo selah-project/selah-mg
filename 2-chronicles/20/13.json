@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 20:13",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary ny tany Yehudah rehetra nitsangana teo anatrehan'i Yahveh, mbamin'ny zanany madinika aza, ny vadiny sy ny zanany lahy.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ary ny tany ... rehetra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "nitsangana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anatrehan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mbamin'ny ... aza"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "zanany madinika"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "ny vadiny"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "sy ny zanany lahy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:47:50.824389169Z",
+  "model": "glm-5.3"
+}

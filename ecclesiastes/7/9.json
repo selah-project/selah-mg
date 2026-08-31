@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Aza maika amin'ny fanahinao hteo, fa ny teo miafina ao an-tratran'ny adala.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "maika"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "amin'ny fanahinao"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "hteo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ny teo"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "ao an-tratran'ny"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "adala"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "miafina"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:47.922349356Z",
+  "model": "glm-5.3"
+}

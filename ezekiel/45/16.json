@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 45:16",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 45,
+  "translation": "Ny vahoaka rehetra amin'ny tany ho ⟨an'ity teruma ity⟩ ho an'ilay mpanapaka amin'i Yisrael.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨an'⟩ \/ mankany amin'"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "ity teruma ity"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ity"
+    },
+    {
+      "surface": "לנשיא",
+      "gloss": "ho an'ilay mpanapaka"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "amin'i Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-31T18:34:03.860470165Z",
+  "model": "glm-5.3"
+}

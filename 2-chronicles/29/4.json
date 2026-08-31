@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary nitondra ⟨את⟩ ny mpisorona sy ⟨את⟩ ny Levita izy, ary nampivory azy tany amin'ny kianja atsinanana.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "nitondra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpisorona"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny Levita"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ny Levita"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "nampivory azy"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "tany amin'ny kianja"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "atsinanana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:50:35.109381881Z",
+  "model": "glm-5.3"
+}

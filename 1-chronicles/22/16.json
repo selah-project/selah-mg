@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 22:16",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "ho an'ny volamby sy ny volafotsy ary ny varahina sy ny vy tsy misy isany. Mitsangàna ary manaova, ary aoka Yahveh ho eo aminao.",
+  "tokens": [
+    {
+      "surface": "לזהב",
+      "gloss": "ho an'ny volamby"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "sy ny volafotsy"
+    },
+    {
+      "surface": "ולנחשת",
+      "gloss": "ary ny varahina"
+    },
+    {
+      "surface": "ולברזל",
+      "gloss": "sy ny vy"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "isany"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Mitsangàna"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ary manaova"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ary aoka... ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "eo aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T17:40:51.346124671Z",
+  "model": "glm-5.3"
+}

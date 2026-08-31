@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary hampakatra eo ambony alitara ilay mpisoratra ⟨את⟩ ny fanatitra doraina sy ⟨את⟩ ny fanatitra isan'andro; ary hanao fanavotana ho azy ilay mpisoratra, dia madio izy.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "Ary hampakatra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ilay mpisoratra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanatitra doraina"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ny fanatitra doraina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny fanatitra isan'andro"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ny fanatitra isan'andro"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "eo ambony alitara"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ary hanao fanavotana"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ilay mpisoratra"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "dia madio izy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:15:42.812381101Z",
+  "model": "glm-5.3"
+}

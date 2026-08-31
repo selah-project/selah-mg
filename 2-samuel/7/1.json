@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 7:1",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary nonina tao an-tranony ny mpanjaka, ary Yahveh nampahazo azy fiatoana manodidina, afaka amin'ny fahavalo rehetra.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nonina ⟨tamin'izay⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rehefa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "nipetraka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "tao an-tranony"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ary Yahveh"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "nampahazo fiatoana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "afaka amin'ny ... rehetra"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "fahavalo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:30:31.538231436Z",
+  "model": "glm-5.3"
+}

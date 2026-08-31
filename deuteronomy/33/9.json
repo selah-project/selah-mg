@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Ilay nanao taminingy rainy sy ny reniny hoe: Tsy hitako izy; ary ⟨את⟩ ny rahalahiny tsy fantany; ary ⟨את⟩ ny zanany tsy nahalalany; fa nitandrina ny teninao izy ary ny fanekempihavananao hotandrininy.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "ilay nanao hoe"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "taminingy rainy"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "sy ny reniny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "hitako izy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny rahalahiny"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ny rahalahiny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "fantany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nahalalany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "nitandrina"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ny teninao"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "ary ny fanekempihavananao"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "hotandrininy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:53:11.525823372Z",
+  "model": "glm-5.3"
+}

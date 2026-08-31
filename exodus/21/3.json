@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Raha tonga mitovy amin'ny tenany izy, dia handeha mitovy amin'ny tenany; raha efa manam-bady izy, dia hivoaka miaraka aminy ny vadiny.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "mitovy amin'ny tenany"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "mitovy amin'ny tenany"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "handeha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "manam-bady"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vady"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "dia hivoaka"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ny vadiny"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "miaraka aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:02:51.258919462Z",
+  "model": "glm-5.3"
+}

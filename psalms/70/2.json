@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 70,
+  "translation": "Ry Elohim, hanafaka ⟨aha⟩; ry Yahveh, mba ho haingana ho amin'ny fanampiko.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Ry Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "hanafaka ⟨aha⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ho amin'ny fanampiko"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "mba ho haingana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:55.028191972Z",
+  "model": "glm-5.3"
+}

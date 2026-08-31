@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Aza manao tsi-fahamarinana amin'ny fitsarana, amin'ny frefy, amin'ny lanja, ary amin'ny refy mandidy.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "manao"
+    },
+    {
+      "surface": "עול",
+      "gloss": "tsi-fahamarinana"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "amin'ny fitsarana"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "amin'ny frefy"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "amin'ny lanja"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "ary amin'ny refy mandidy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:18:51.023108331Z",
+  "model": "glm-5.3"
+}

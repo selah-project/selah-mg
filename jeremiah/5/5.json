@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 5:5",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Hankany amin'ny lehibe aho ka hiresaka amin'ireo ⟨את⟩ ireo, fa izy ireo no mahalala ny lalan'i Yahveh sy ny fitsaran'ny Elohiny; nefa izy ireo miara-mamaky ny zioga ka nanesotra ny famatorana.",
+  "tokens": [
+    {
+      "surface": "אלכה",
+      "gloss": "hankany"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨aho⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ka hiresaka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ireo lehibe ireo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy ireo"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ny lalan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ny fitsaran'"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ny Elohiny"
+    },
+    {
+      "surface": "אך",
+      "gloss": "nefa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy ireo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "miara-"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "mamaky"
+    },
+    {
+      "surface": "על",
+      "gloss": "ny zioga"
+    },
+    {
+      "surface": "נתקו",
+      "gloss": "nanesotra"
+    },
+    {
+      "surface": "מוסרות",
+      "gloss": "ny famatorana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:32:56.878151760Z",
+  "model": "glm-5.3"
+}

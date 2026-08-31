@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary ireo no fitsipika ùn tokony hofenoinao eo anoloany.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ary ireo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ny fitsipika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ùn"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "hofenoinao"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "eo anoloany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:02:51.258526918Z",
+  "model": "glm-5.3"
+}

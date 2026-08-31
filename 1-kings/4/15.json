@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ajimaasa tao Naftaly; izy koa naka ⟨את⟩ an'i Basemata zanakavavin'i Shelomó ho vady.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ajimaasa"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "tao Naftaly"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "naka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Basemata"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basemata"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanakavavin'i"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomó"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ho vady"
+    }
+  ],
+  "timestamp": "2026-08-31T14:39:54.471216200Z",
+  "model": "glm-5.3"
+}

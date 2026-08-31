@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ny fahamenarahan'ny vinantonao tsy hovelarenao; vadin'nyzanakao izy; tsy hovelarenao ny fahamenarahany.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "fahamenarana"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "vinantonao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "hovelarenao"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vadin'ny"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "zanakao"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "hovelarenao"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "fahamenarahany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:16:53.965477158Z",
+  "model": "glm-5.3"
+}

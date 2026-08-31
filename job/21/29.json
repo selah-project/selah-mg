@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 21:29",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Tsy nangataka va ⟨ianao⟩ tamin'ny mpandalo lalana, ary ny famantarany tsy fantatrareo va?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "tsy... va"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "nangataka"
+    },
+    {
+      "surface": "עוברי",
+      "gloss": "mpandalo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "ואתתם",
+      "gloss": "ary ny famantarany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תנכרו",
+      "gloss": "fantatrareo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:04:16.914150035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 123,
+  "translation": "Fihirana fiakarana. Ho Aminao izay mipetraka any an-danitra no nanandratanao ny masoko.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Fihirana"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "fiakarana"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Ho Aminao"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "nanandratanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny masoko"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ny masoko"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "izay mipetraka"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "any an-danitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:54.530383579Z",
+  "model": "glm-5.3"
+}

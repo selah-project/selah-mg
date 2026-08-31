@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Amin'ny toerana izay ividianan'izy ireo ⟨את⟩ ny fanatitra dorana no hanatanterahany ⟨את⟩ ny asham; ary ny ràny tsirairay hiparahany amin'ny alitara manodidina.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "Amin'ny toerana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "ividianan'izy ireo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanatitra dorana"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ny fanatitra dorana"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "hanatanterahany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny asham"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ny asham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Ary ⟨את⟩",
+      "marks": "ny ràny"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ny ràny"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "hiparahany"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:12:42.281086987Z",
+  "model": "glm-5.3"
+}

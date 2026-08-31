@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 14:20",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary ny vadin'i Shimshon dia lasa an'ny namany, ilay nento naman'ny azy.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "lasa an'"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vadin'"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Shimshon"
+    },
+    {
+      "surface": "למרעהו",
+      "gloss": "ny namany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "namana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ny azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:11:04.517964946Z",
+  "model": "glm-5.3"
+}

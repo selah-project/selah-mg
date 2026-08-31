@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary niditra tao amin'ny fanekena izy hitady ⟨את⟩ an'i Yahveh, Elohin'ny razany, amin'ny fontsika rehetra sy amin'ny fanahiny rehetra.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "niditra"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "tao amin'ny fanekena"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "hitady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'ny"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "razany"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "fontsika"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "sy amin'ny ... rehetra"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "fanahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T17:46:30.081637830Z",
+  "model": "glm-5.3"
+}

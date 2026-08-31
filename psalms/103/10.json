@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 103,
+  "translation": "Tsy araka ny fahotantsika no nataony taminay, ary tsy araka ny tsi-fahamarinantsika no namaly soa aman-dratsy taminay.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "araka ny fahotantsika"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "taminay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "araka ny tsi-fahamarinantsika"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "namaly soa aman-dratsy"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "taminay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:16.709986346Z",
+  "model": "glm-5.3"
+}

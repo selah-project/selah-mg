@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 2:5",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Fa alefaso anie ny tananao, ka tsikera ny taolany sy ny nofony; raha tsy eo anatavananao no hanozonany anao.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "alefaso"
+    },
+    {
+      "surface": "נא",
+      "gloss": "anie"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ny tananao"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "ka tsikera"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ny"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "taolany"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sy"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ny nofony"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eo ana-"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tavananao"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "hanozonany anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:59:01.385628967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ny lalan'ny lainga esory amiko, ary amin'ny torathao hanìna ahy.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "lalan'ny"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lainga"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "esory"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "amin'ny torathao"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "hanìna ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:58.549325142Z",
+  "model": "glm-5.3"
+}

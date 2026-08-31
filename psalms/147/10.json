@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 147,
+  "translation": "Tsy amin'ny herin'ny soavaly no sitrak'i ⟨ele⟩, tsy amin'ny tongotry ny olombelona no faly izy.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "amin'ny herin'ny"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "soavaly"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "sitrak'i ⟨ele⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "amin'ny tongotry ny"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "olombelona"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "faly ⟨izy⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:35.632782124Z",
+  "model": "glm-5.3"
+}

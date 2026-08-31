@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 70,
+  "translation": "Fa izaho kosa malahelo sy tandinda; ry Elohim, maika mankaty ahy; ianao no fanampiko sy mpamonjy ahy; ry Yahveh, aza tara.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Fa izaho kosa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "malahelo"
+    },
+    {
+      "surface": "ויביון",
+      "gloss": "sy tandinda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "maika"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mankaty ahy"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "fanampiko"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "sy mpamonjy ahy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao no"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "tara"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:46.238296583Z",
+  "model": "glm-5.3"
+}

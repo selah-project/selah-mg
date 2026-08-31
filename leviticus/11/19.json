@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "sy ⟨את⟩ ny diagana, ny vano araka ny karazany, sy ⟨את⟩ ny duki faty, sy ⟨את⟩ ny lambofia;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny diagana"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "ny diagana"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "ny vano"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "araka ny karazany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny duki faty"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "ny duki faty"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny lambofia"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "ny lambofia"
+    }
+  ],
+  "timestamp": "2026-08-31T13:14:32.329774297Z",
+  "model": "glm-5.3"
+}

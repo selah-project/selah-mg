@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 20:19",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary ny fahamenaran'ny rahavavin-dreninao sy ny rahavavin-drainao dia tsy hazavaiana; fa ny nofony mby akaiky no nampahamenarana; ny helony izy no hitondrany.",
+  "tokens": [
+    {
+      "surface": "וערות",
+      "gloss": "Ary ny fahamenaran'"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ny rahavavin-"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "reninao"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "sy ny rahavavin-"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "rainao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "hazavaiana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny nofony"
+    },
+    {
+      "surface": "שארו",
+      "gloss": "ny nofony"
+    },
+    {
+      "surface": "הערה",
+      "gloss": "no nampahamenarana"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ny helony"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "no hitondrany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:29.598240498Z",
+  "model": "glm-5.3"
+}

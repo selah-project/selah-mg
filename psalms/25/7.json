@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ny fahotan'ny fahatanorako sy ny fandikako aza tsy mahatsiarovy; araka ny hesed-nao ianao no mahatsiarovy ahy, noho ny soatrao, ry Yahveh.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "ny fahota"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "fahatanorako"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "sy ny fandikako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "tsy mahatsiarovy"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "araka ny hesed-nao"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mahatsiarovy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "למען",
+      "gloss": "noho"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "ny soatrao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:51.026204331Z",
+  "model": "glm-5.3"
+}

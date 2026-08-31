@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 24:20",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary nafaingana izy ka nanary ny tavoahanginy tao anatin'ny fanasotroana, dia nihazakazaka indray ho any amin'ny lavaka hidina rano, ka nisaka ho an'ny ramehiny rehetra.",
+  "tokens": [
+    {
+      "surface": "ותמהר",
+      "gloss": "nafaingana"
+    },
+    {
+      "surface": "ותער",
+      "gloss": "nanary"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "ny tavoahanginy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tao anatin'ny"
+    },
+    {
+      "surface": "השקת",
+      "gloss": "fanasotroana"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "nihazakazaka indray"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "indray"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "lavaka"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "hidina rano"
+    },
+    {
+      "surface": "ותשאב",
+      "gloss": "nisaka"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho an'ny... rehetra"
+    },
+    {
+      "surface": "גמליו",
+      "gloss": "ramehiny"
+    }
+  ],
+  "timestamp": "2026-08-31T12:41:07.731929334Z",
+  "model": "glm-5.3"
+}

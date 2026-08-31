@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Teo izy nazongo ⟨samy⟩ fahatairana, fa Elohim no eo amin'ny taranaka marina.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Teo"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "nazongo"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "fahatairana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "eo amin'ny taranaka"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "marina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:19.003820761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 8:28",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary noraisin'i Moshe ireo ⟨את⟩ avy tamin'ny tanany, ary nodorany teo amin'ny alitara ho fanatitra dorana; fanatitra fahatongavana ireo, ho fofona mahafaly; fanatitra alamina izany ho an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "noraisin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ireo (ny tavin'ny fanatitra)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "avy tamin'ny"
+    },
+    {
+      "surface": "כפיהם",
+      "gloss": "tanany (dian-tanana)"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "nodorany"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "teo amin'ny alitara"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambonin'ny"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "fanatitra dorana"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "fanatitra fahatongavana"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "ho fofona"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "mahafaly"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "fanatitra alamina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T18:29:17.064518906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Tsy hanery ⟨את⟩ ny namanao ianao, ary tsy hitaky an-kerimbazaha; tsy hitoetra ⟨את⟩ aminao ny karaman'ny mpiasa hatramin'ny maraina.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "hanery"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny namanao"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ny namanao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "hitaky an-kerimbazaha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "hitoetra"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "karaman'ny"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "mpiasa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ aminao"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hatramin'ny"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "maraina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:31.167716859Z",
+  "model": "glm-5.3"
+}

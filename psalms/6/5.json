@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Miverina, ry Yahveh, vonjeo ny ainaiko; vonjeno aho noho ny ⟨hesed⟩-nao.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Miverina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "vonjeo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny ainaiko"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "vonjeno aho"
+    },
+    {
+      "surface": "למען",
+      "gloss": "noho"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ny hesed-nao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:47.307706425Z",
+  "model": "glm-5.3"
+}

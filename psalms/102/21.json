@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 102:21",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 102,
+  "translation": "Hihaino ny fitarainan'ny voatafatra, hanokatra ny zanaky ny fahafatesana;",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "hihaino"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "ny fitarainana"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ny voatafatra"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "hanokatra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny zanaky"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "ny fahafatesana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:06.272336029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary ny malakan'i Yahveh niverina indray am-paharoa ka nanendy azy, ka nanao hoe: Mitsangàna, mihàna, fa lava loatra ho anao ny lalana.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ary... niverina"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ny malaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "indray am-paharoa"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "ka nanendy"
+    },
+    {
+      "surface": "בו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Mitsangàna"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mihàna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "lava loatra"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ny lalana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:48:00.048162856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Yahveh, Elohim-iko ianao, hanandratra anao aho, hiderà anao aho amin'ny anaranao; fa efa nanao fahagagana ianao, faniriana efa taloha, amin'ny fahamarinana sy amintsy marina.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-iko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "hanandratra anao"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "hiderà anao aho"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "amin'ny anaranao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "efa nanao"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "fahagagana"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "faniriana"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "efa taloha"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "amin'ny fahamarinana"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "amintsy marina"
+    }
+  ],
+  "timestamp": "2026-08-31T15:09:17.497750592Z",
+  "model": "glm-5.3"
+}

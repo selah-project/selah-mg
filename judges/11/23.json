@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 11:23",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary ankehitriny Yahveh, Elohin'i Yisraela, efa nampandoa ⟨את⟩ ny Emoriana teo anatrehan'ny olony Yisraela, ary ianao no handova azy?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ary ankehitriny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "efa nampandoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Emoriana"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ny Emoriana"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "teo anatrehan'ny"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "olony"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ary ianao"
+    },
+    {
+      "surface": "תירשנו",
+      "gloss": "no handova azy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:01:08.860111400Z",
+  "model": "glm-5.3"
+}

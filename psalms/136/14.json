@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 136:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 136,
+  "translation": "Ary nampandeha an'i Yisraela tao anivony izy: fa ho an'ny fandramana ny hesed-ny mandrakizay.",
+  "tokens": [
+    {
+      "surface": "והעביר",
+      "gloss": "nampandeha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "an'i Yisraela"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "tao anivony"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ny hesed-ny"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:45.469137981Z",
+  "model": "glm-5.3"
+}

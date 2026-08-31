@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 15:4",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary Shaola nampandre ⟨את⟩ ny olona, ka nanisa azy tao Telaima: roanjato arivo miaramila an-tongotra, ary lehilahy folo arivo avy amin'ny Yehuda.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nampindre"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny olona"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "nanisa azy"
+    },
+    {
+      "surface": "בטלאים",
+      "gloss": "tao Telaima"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "roanjato"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "arivo"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "miaramila an-tongotra"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "folo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "arivo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lehilahy avy amin'ny Yehuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-31T14:21:13.501743848Z",
+  "model": "glm-5.3"
+}

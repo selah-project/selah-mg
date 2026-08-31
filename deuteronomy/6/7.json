@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary ambarao tsindrandray ireny amin'ny zanakao, ary resaho ireny rehefa mipetraka ao an-tranonao ianao, sy rehefa mandeha am-piantsonana, sy rehefa matory, ary rehefa miovaohana.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "ambarao tsindrandray"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "amin'ny zanakao"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ary resaho"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ireny"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "rehefa mipetraka"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "ao an-tranonao"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "sy rehefa mandeha"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "am-piantsonana"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "sy rehefa matory"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "ary rehefa miovaohana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:41:03.294738840Z",
+  "model": "glm-5.3"
+}

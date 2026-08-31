@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 23:21",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ka nampahatsiaharinao ⟨את⟩ ny zava-maharatsin'ny fahatanoranao, tamin'ny nampangotrak'i Mitsrayim ny nononao, noho ny tratran'ny fahatanoranao.",
+  "tokens": [
+    {
+      "surface": "ותפקדי",
+      "gloss": "nampahatsiaharinao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zava-maharatsin'ny fahatanoranao"
+    },
+    {
+      "surface": "זמת",
+      "gloss": "zava-maharatsina"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "fahatanoranao"
+    },
+    {
+      "surface": "בעשות",
+      "gloss": "tamin'ny nanaovana"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "nononao"
+    },
+    {
+      "surface": "למען",
+      "gloss": "noho"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "tratran'ny"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "fahatanoranao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:56:37.011813497Z",
+  "model": "glm-5.3"
+}

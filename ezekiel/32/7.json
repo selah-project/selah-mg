@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 32:7",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ary rehefa manofa aho amin'ny fahafatesanao, dia haronaiko ny lanitra, ary hasomboiko ⟨את⟩ ny kintany; hosofoko rahona ny masoandro, ary ny volana tsy hamirapiratra ny mazovony.",
+  "tokens": [
+    {
+      "surface": "וכסיתי",
+      "gloss": "haronaiko"
+    },
+    {
+      "surface": "בכבותך",
+      "gloss": "amin'ny fahafatesanao"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "והקדרתי",
+      "gloss": "hasomboiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny kintany"
+    },
+    {
+      "surface": "ככביהם",
+      "gloss": "ny kintany"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ny masoandro"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "rahona"
+    },
+    {
+      "surface": "אכסנו",
+      "gloss": "hosofoko"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ary ny volana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "hamirapiratra"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "ny mazovony"
+    }
+  ],
+  "timestamp": "2026-08-31T15:59:19.316964080Z",
+  "model": "glm-5.3"
+}

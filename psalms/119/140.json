@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Voadio tanteraka ny teninao, ka tia azy ny mpanompinao.",
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "Voadio"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ny teninao"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tanteraka"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "ny mpanompinao"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "tia azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:39.029682175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary hampanaovo vavolombelona azo itokisana ho ahy: ⟨את⟩ Uriyah mpisorona, ary ⟨את⟩ Zekharyahu zanak'i Yeverekhyahu.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "hampanaovo vavolombelona"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "vavolombelona"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "azo itokisana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyah mpisorona"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zekharyahu zanak'i Yeverekhyahu"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekharyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Yeverekhyahu"
+    }
+  ],
+  "timestamp": "2026-08-31T15:04:33.335433908Z",
+  "model": "glm-5.3"
+}

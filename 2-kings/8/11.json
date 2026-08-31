@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nampitovy tamin'ny tavany ny masony ⟨את⟩ ka nanetriketrika ambara-pahamenoy ilay olona; ary nitomany ny olon'ny Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "nampitovy ny masony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavany"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ny tavany"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "nanetriketrika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ambara-pahamenoy"
+    },
+    {
+      "surface": "בש",
+      "gloss": "menoy"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "nitomany"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olon'"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ny Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T14:54:08.488815132Z",
+  "model": "glm-5.3"
+}

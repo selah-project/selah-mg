@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Aminao, ry Yahveh, no hiantsoako, ary amin'i Adonay no hangatahako famindram-po.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Aminao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "no hiantsoako"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary amin'i"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "no hangatahako famindram-po"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:33.476983890Z",
+  "model": "glm-5.3"
+}

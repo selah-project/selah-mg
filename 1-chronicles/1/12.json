@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Sy ⟨את⟩ ny Patrosima sy ⟨את⟩ ny Kaslokima, izay nivoaka avy tao amin'ireo ny Filistina, ary ⟨את⟩ ny Kaftorima.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Sy ⟨את⟩",
+      "marks": "ny Patrosima"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "ny Patrosima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny Kaslokima"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "ny Kaslokima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "nivoaka"
+    },
+    {
+      "surface": "משם",
+      "gloss": "avy tao amin'ireo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Filistina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny Kaftorima"
+    },
+    {
+      "surface": "כפתורים",
+      "gloss": "ny Kaftorima"
+    }
+  ],
+  "timestamp": "2026-08-31T18:19:31.165997807Z",
+  "model": "glm-5.3"
+}

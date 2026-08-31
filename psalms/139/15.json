@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 139,
+  "translation": "Tsy natafina tamiko ny taolanko, raha natao tao an-tsokosoko aho, raha nolominana tany ambany any amin'ny tany.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "natafina"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ny taolanko"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "raha"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "natao aho"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "tao an-tsokosoko"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "nolominana aho"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "tany ambany"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "any amin'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:39.499817864Z",
+  "model": "glm-5.3"
+}

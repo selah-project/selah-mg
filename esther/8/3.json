@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 8:3",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary Ester nampitombo teny indray teo anatrehan'ny mpanjaka ka latsaka tamin'ny tongony, nitaraina sy nifona tamin'ity, mba hanesorany ⟨את⟩ ny faharatsian'i Haman ilay Agagita sy ⟨את⟩ ny fisainany izay noeritreretiny tampoka tamin'ny Jiosy.",
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "nampitombo teny indray"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "niteny"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anatrehan'"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "ka latsaka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "tongony"
+    },
+    {
+      "surface": "ותבך",
+      "gloss": "nitaraina"
+    },
+    {
+      "surface": "ותתחנן",
+      "gloss": "sy nifona"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tamin'ity"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "mba hanesorany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny faharatsian'i Haman"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ny faharatsiana"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Agagita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny fisainany"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "fisainany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "noeritreretiny"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Jiosy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:20:16.014488725Z",
+  "model": "glm-5.3"
+}

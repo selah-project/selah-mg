@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 102,
+  "translation": "Ary hitahiry ny fitenenana anaran'i Yahveh ny jentilisa, sy ny mpanjaka rehetra ambonin'ny tany hanaja ny voninahitrao.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "Ary hatahotra"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ny jentilisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anaran'i Yahveh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "anarana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ny mpanjaka rehetra"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ambonin'ny tany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny voninahitrao"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ny voninahitrao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:35.532339223Z",
+  "model": "glm-5.3"
+}

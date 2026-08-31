@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Tao am-pono no nafeniko ny teninao, mba tsy ho heloka aminao.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "tao am-pono"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "no nafeniko"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ny teninao"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mba tsy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "ho heloka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "amino"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:03.076576476Z",
+  "model": "glm-5.3"
+}

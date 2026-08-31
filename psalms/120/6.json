@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 120,
+  "translation": "Faharetana be loatra ny nitoetran'ny fanahiko ⟨teo⟩ amin'izay mankahala ny fiadanana.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "be loatra"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "ny nitoetran'ny"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨tamin'ny fanahiko⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "fanahiko"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨teo⟩ amin'ny"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "izay mankahala"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ny fiadanana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:56.853992816Z",
+  "model": "glm-5.3"
+}

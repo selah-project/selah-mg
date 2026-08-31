@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 57:8",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 57,
+  "translation": "Ary ao ambadiky ny varavarana sy ny tolam-baravarana ianao nampetraka ny fahatsiarovanao; fa niala taminay ⟨את⟩ ianao ka niseho, niakatra ianao, nampivelatra ny fandrianao, ka nanao fanekena ho anao taminy; tia ny fandriany ianao; tanana no hitanao.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ary ao ambadiky"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ny varavarana"
+    },
+    {
+      "surface": "והמזוזה",
+      "gloss": "sy ny tolam-baravarana"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "nampetraka ianao"
+    },
+    {
+      "surface": "זכרונך",
+      "gloss": "ny fahatsiarovanao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "niala taminay ⟨את⟩",
+      "marks": "ianao"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "ka niseho"
+    },
+    {
+      "surface": "ותעלי",
+      "gloss": "niakatra ianao"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "nampivelatra"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "ny fandrianao"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "ka nanao fanekena"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "tia ianao"
+    },
+    {
+      "surface": "משכבם",
+      "gloss": "ny fandriany"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tanana"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "no hitanao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:06:39.400421506Z",
+  "model": "glm-5.3"
+}

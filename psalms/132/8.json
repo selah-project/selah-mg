@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 132,
+  "translation": "Mitsangàna, ry Yahveh, ho amin'ny fitsaharanao, ianao ary ny fiaran'ny herinao.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "mitsangàna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "ho amin'ny fitsaharanao"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "ary ny fiaran'ny"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "herinao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:46.697522709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Dia niampita an'i ⟨את⟩ Yarden ka nitoetra tany Aroer, eo ankavanan'ny tanàna izay eo afovoan'ny lohasahan'i Gad, ary mandra-pahatongan'i Yaezer,",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "niampita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "nitoetra"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "tany Aroer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ankavanana"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ny tanàna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "eo afovoan'"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ny lohasaha"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary mandra-pahatongan'"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaezer"
+    }
+  ],
+  "timestamp": "2026-08-31T14:38:35.235480960Z",
+  "model": "glm-5.3"
+}

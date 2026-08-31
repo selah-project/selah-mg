@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary niandry ⟨indray⟩ fito andro hafa izy, ka naniraka ⟨את⟩ ny voromailala, ary tsy niverina ho eo aminy intsony izy.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "ary niandry"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨indray⟩"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "fito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "hafa"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ka naniraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny voromailala"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ny voromailala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "nampiana-"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "niverina"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho eo aminy"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:50.980232102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 97,
+  "translation": "Nambaran'ny lanitra ny fahamarinany, ary hitan'ny firenena rehetra ny voninahiny.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "nambara"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ny fahamarinany"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ary hitan'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ny firenena"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ny voninahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:48.115469318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Fa sokafy tsara sokafy ⟨את⟩ ny tanao aminy, ary ampiaiso tsara azy araka ny mahazo ny fahoriany izay ilainy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sokafy tsara"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "sokafy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tanao"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ny tanao"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "ampiaiso tsara"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "ampiaiso azy"
+    },
+    {
+      "surface": "די",
+      "gloss": "araka ny mahazo"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "ny fahoriany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ilainy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:45:35.781503991Z",
+  "model": "glm-5.3"
+}

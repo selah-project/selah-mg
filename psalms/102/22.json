@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 102,
+  "translation": "Hitory an'i Tsiôna ny anaran'i Yahveh, sy ny fiderana azy any Yeroshalayim;",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "hitory"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "an'i Tsiôna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ny anarana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "sy ny fiderana azy"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "any Yeroshalayim"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:06.272568410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary tamin'ny faran'ny andro maro dia nitondra Kayin avy amin'ny vokatry ny tany fanatitra ho an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ary nitranga"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "tamin'ny faran'ny"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro maro"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "nitondra"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "avy amin'ny vokatry"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "fanatitra"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:28.576418206Z",
+  "model": "glm-5.3"
+}

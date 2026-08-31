@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Vovery ny harena izany amin'ny asa ratsy; ary miteraka zanaka, nefa tsy misy na inona na inona eo an-tanany.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "vovery"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "ny harena"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "amin'ny asa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "ary miteraka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nefa tsy misy"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "eo an-tanany"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "na inona na inona"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:29.173102218Z",
+  "model": "glm-5.3"
+}

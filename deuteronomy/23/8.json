@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Aza mankahala Edomita, fa rahalahinao ⟨izy⟩; aza mankahala Mitsrita, fa vahiny ianao ⟨tia⟩ tany amin'ny taniny.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "mankahala"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "Edomita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "rahalahinao"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "mankahala"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Mitsrita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "גר",
+      "gloss": "vahiny"
+    },
+    {
+      "surface": "היית",
+      "gloss": "tia"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "tany amin'ny taniny"
+    }
+  ],
+  "timestamp": "2026-08-31T13:49:32.934778523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 52,
+  "translation": "Ho an'ny mpivoky hira. Fampianarana nataon'i Davida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho an'ny mpivoky hira"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Fampianarana"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nataon'i Davida"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:57.970722698Z",
+  "model": "glm-5.3"
+}

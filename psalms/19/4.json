@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Tsy misy teny, ary tsy misy tenim-pitantanana; feony tsy henon'olombelona.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Tsy misy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "teny"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ary tsy misy"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "tenim-pitantanana"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "henon'olombelona"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "feony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:03.173045898Z",
+  "model": "glm-5.3"
+}

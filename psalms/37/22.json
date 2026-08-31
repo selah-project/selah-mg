@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Fa izay ISAONY notsoahana dia handova ⟨ny⟩ tany; fa izay voaoza kosa hovàaina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "ISAONY notsoahana"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "handova"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "fa izay voaoza kosa"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "hovàaina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:58.986151622Z",
+  "model": "glm-5.3"
+}

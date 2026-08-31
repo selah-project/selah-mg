@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary maty Elimeleka, vadin'i Naomy, ka sisa tavela izy sy ny zanany roa lahy.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Ary maty"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimeleka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vadin'ny"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomy"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "ka sisa tavela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "sy ny roa lahy amin'ny"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "zanany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:12:07.472067829Z",
+  "model": "glm-5.3"
+}

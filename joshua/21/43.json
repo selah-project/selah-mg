@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 21:43",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ka Yahveh nanome ⟨את⟩ ny tany rehetra izay nianianany homena ny razany tamin'ny Isiraely; ary nahazo azy ireo ka nonina tao.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ka nanome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "tamin'ny Isiraely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "nianianany"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "homena"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "ny razany"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "ary nahazo azy"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ka nonina"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:02:55.485121560Z",
+  "model": "glm-5.3"
+}

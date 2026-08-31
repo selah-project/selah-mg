@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Miandry maharitra ianareo, ka gaga; mijamba ianareo, ka ho jamba; mamo ianareo fa tsy amin'ny divay, milongojo fa tsy amin'ny zava-mahamamo.",
+  "tokens": [
+    {
+      "surface": "התמהמהו",
+      "gloss": "Miandry maharitra ianareo"
+    },
+    {
+      "surface": "ותמהו",
+      "gloss": "ka gaga"
+    },
+    {
+      "surface": "השתעשעו",
+      "gloss": "mijamba ianareo"
+    },
+    {
+      "surface": "ושעו",
+      "gloss": "ka ho jamba"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "mamo ianareo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "יין",
+      "gloss": "divay"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "milongojo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "zava-mahamamo"
+    }
+  ],
+  "timestamp": "2026-08-31T18:05:47.961312095Z",
+  "model": "glm-5.3"
+}

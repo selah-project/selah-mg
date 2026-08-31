@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 93,
+  "translation": "Mahery noho ny tabataban'ny rano be, mahery noho ny onja lehiben'ny ranomasina, dia Yahveh any amin'ny haavo.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "ny tabataban'ny"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "be"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "ny onja lehiben'ny"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ranomasina"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "any amin'ny haavo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:40.244636289Z",
+  "model": "glm-5.3"
+}

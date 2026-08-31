@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary nivoaka ny mpanjakan'i Yisraela ka namely ⟨את⟩ ny soavaly sy ⟨את⟩ ny kalesy, ary namely ny Arameana fandavana be.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ary nivoaka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ny mpanjakan'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ka namely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny soavaly"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ny soavaly"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny kalesy"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ny kalesy"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ary namely"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "ny Arameana"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "fandavana"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "be"
+    }
+  ],
+  "timestamp": "2026-08-31T14:48:43.326221313Z",
+  "model": "glm-5.3"
+}

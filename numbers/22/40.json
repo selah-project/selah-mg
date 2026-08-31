@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 22:40",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary Balaka nanao fanatitra omby sy ondry, ka naniraka ho an'i Bilama sy ho an'ny mpanapaka izay ⟨את⟩ tao aminy.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "nanao fanatitra"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balaka"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "omby"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "sy ondry"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "naniraka"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "ho an'i Bilama"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "sy ho an'ny mpanapaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanapaka izay tao aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:33:39.127106266Z",
+  "model": "glm-5.3"
+}

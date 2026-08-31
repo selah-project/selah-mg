@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "Ary nanao ⟨את⟩ ny hoshen izy, asa an'ny mpanefy, tahaka ny asan'ny efoda: volamena, volombatelina, volomparasy, dia karmasinin-dolo, ary rongony fattorina.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ary nanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny hoshen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ny hoshen"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "asan'ny"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "mpanefy"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "tahaka ny asan'ny"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "efoda"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "volombatelina"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ary volomparasy"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "dia karmazinim-bibin-dolo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "karmazina"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ary rongony"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "fattorina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:03.111018663Z",
+  "model": "glm-5.3"
+}

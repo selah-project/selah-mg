@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 99,
+  "translation": "Moshe sy Aharon tao amin'ny mpisorony, ary Shemuel tao amin'izay miantso ny anarany; niantso an'i Yahveh ireo, ary Izy namaly azy.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "sy Aharon"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "tao amin'ny mpisorony"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "ary Shemuel"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "tao amin'izay miantso"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ary Izy"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "namaly azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:53.983638843Z",
+  "model": "glm-5.3"
+}

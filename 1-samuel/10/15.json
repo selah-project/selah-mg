@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary hoy ny dadatoiben'i Shaol: Lazao azafady amiko inona no nolazain'i Shemuël tamianareo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "dadatoiben'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "lazao"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "לי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "מה",
+      "gloss": "inona"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nolazain'i"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "taminareo"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    }
+  ],
+  "timestamp": "2026-08-31T14:18:38.153769464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 92,
+  "translation": "Voatofa (nafindra) ao an-tranon'i Yahveh izy, hitarika ho ao amin'ny kianjan'ny Elohinay.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "voatofa ⟨nafindra⟩"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ao an-tranon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "ao amin'ny kianjan'ny"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohinay"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "hitarika ho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:15.299017182Z",
+  "model": "glm-5.3"
+}

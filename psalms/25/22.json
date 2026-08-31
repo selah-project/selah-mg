@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Hanavotra Elohim ⟨את⟩ i Yisraela amin'ny fahoriana rehetra mangantisiny amin'ny andiany iray",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "hanavotra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Yisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i Yisraela"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "fahoriana mangantisiny amin'ny andiany iray"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:26.114404649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 21:5",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary Izaho dia hiady aminareo ⟨את⟩ amin'ny tànana mihelina sy amin'ny sandry mahery, amin'ny fahatezerana sy amin'ny fahavinirana ary amin'ny fahateirana lehibe.",
+  "tokens": [
+    {
+      "surface": "ונלחמתי",
+      "gloss": "dia hiady"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aminareo",
+      "marks": "aminareo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "amin'ny tànana"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "mihelina"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "sy amin'ny sandry"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "amin'ny fahatezerana"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "sy amin'ny fahavinirana"
+    },
+    {
+      "surface": "ובקצף",
+      "gloss": "ary amin'ny fahateirana"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lehibe"
+    }
+  ],
+  "timestamp": "2026-08-31T15:32:26.654687315Z",
+  "model": "glm-5.3"
+}

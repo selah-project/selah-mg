@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Aza manolotra ⟨את⟩ anarako masina akory; fa masina no hohamasinako eo anivon'ny Zanak'i Isiraely; izaho no Yahveh, ilay mamasina anareo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "manolotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anarako masina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "anarako"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "masina"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "fa masina no hohamasinako"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "eo anivon'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "no Yahveh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "ilay mamasina anareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:18.233729829Z",
+  "model": "glm-5.3"
+}

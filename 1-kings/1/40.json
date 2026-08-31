@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 1:40",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary niakatra ny vahoaka rehetra nanaraka azy, ary ny vahoaka nampaneno sodina tamin'ny sodina sady nifaly fifaliana lehibe, ka ntriaka tamin'ny feony ny tany.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "niakatra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "nanaraka azy"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ary ny vahoaka"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "nampaneno sodina"
+    },
+    {
+      "surface": "בחללים",
+      "gloss": "tamin'ny sodina"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "sady nifaly"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "fifaliana"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "ותבקע",
+      "gloss": "ka ntriaka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "tamin'ny feony"
+    }
+  ],
+  "timestamp": "2026-08-31T18:31:54.533031494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Dia hoy izy: Sarotra no nangatahinao; nefa raha hahita ⟨את⟩ ahy ka alaina ⟨את⟩ aminao ianao, dia ho anao izany; fa raha tsy izany, dia tsy hisy izany.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dia hoy"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "nanontany sarotra ianao"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "hangataka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "hahita"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ahy (alaina)"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "alaina"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ aminao"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "dia ho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "fa raha"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hisy izany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:50:45.713775773Z",
+  "model": "glm-5.3"
+}

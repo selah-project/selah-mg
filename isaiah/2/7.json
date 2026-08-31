@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Feno volafotsy sy volamena ny tany, ka tsy misy farany ny rakitrany; feno soavaliny koa ny tany, ka tsy misy farany ny kalesiny.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "Feno"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "sy volamena"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ka tsy misy"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "farany"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "ny rakitrany"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "feno ... koa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "soavaliny"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ka tsy misy"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "farany"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "ny kalesiny"
+    }
+  ],
+  "timestamp": "2026-08-31T15:01:30.769313507Z",
+  "model": "glm-5.3"
+}

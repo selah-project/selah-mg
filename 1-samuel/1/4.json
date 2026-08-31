@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary nony tonga ny andro, dia namono fanatitra Elkanah ka nanome anjara ho an'i Penina vadiny sy ho an'ny zanany lahy sy vavy rehetra.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nony"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tonga ny andro"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "dia namono fanatitra"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ka nanome"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "ho an'i Penina"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vadiny"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "sy ho an'ny ... rehetra"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "zanany lahy"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "sy vavy"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "anjara"
+    }
+  ],
+  "timestamp": "2026-08-31T14:14:50.924170201Z",
+  "model": "glm-5.3"
+}

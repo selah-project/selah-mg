@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 22:10",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Aza mitomany ho an'ny maty, ary aza manao fisaonana azy; fa mitomianareo mafy ho an'ilay mandeha, fa tsy hody intsony izy, ary tsy hahita ny tany fahaterahany.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "mitomany"
+    },
+    {
+      "surface": "למת",
+      "gloss": "ho an'ny maty"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תנדו",
+      "gloss": "manao fisaonana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "mitomianareo"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "mafy"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "ho an'ilay mandeha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "hody"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ary hahita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tany"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "fahaterahany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:31:58.977305847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary ny anaran'ny ilay iray kosa dia Eliezera, fa Eloheon'ny raiko no tandoko, sady nanavotra ahy tamin'ny sabatry'i Parao.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "anaran'ny"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "iray kosa"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliezera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloheon'ny"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "raiko"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "tandoko"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "nanavotra ahy"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "tamin'ny sabatry'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:00:49.856448164Z",
+  "model": "glm-5.3"
+}

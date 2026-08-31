@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 2:13",
+  "book": "zephaniah",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary hanitatra ny tanany mankany amin'ny avaratra Izy, ka handrava ⟨את⟩ an'i Ashur, ary hametraka ⟨את⟩ an'i Ninive ho faharavana, ho tany maina toy ny efitra.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "hanitatra"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ny tanany"
+    },
+    {
+      "surface": "על",
+      "gloss": "mankany amin'ny"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "avaratra"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "ka handrava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Ashur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ary hametraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Ninive"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "ho faharavana"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "ho tany maina"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "toy ny efitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:17:42.589830974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 9:7",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary naniraka Parao, ka, indro, tsy maty na dia iray aza amin'ny ombyn'i Yisraely; ary mafy ny fon'i Parao, ka tsy nandefa ⟨את⟩ ilay olona izy.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Ary naniraka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ka, indro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "מת",
+      "gloss": "maty"
+    },
+    {
+      "surface": "ממקנה",
+      "gloss": "amin'ny ombyn'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraely"
+    },
+    {
+      "surface": "עד",
+      "gloss": "na dia"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray aza"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "ka mafy"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ny fon'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nandefa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay olona"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ilay olona"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:41.021538230Z",
+  "model": "glm-5.3"
+}

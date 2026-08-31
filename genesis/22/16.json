@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "ka nanao hoe: Izaho mihitsy no nianianako, tenin'i Yahveh, satria noho izay nataonao ⟨את⟩ izao, ka tsy nitanisa ny zanakao ⟨את⟩, dia ilay lahitokanao ⟨את⟩:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Izaho mihitsy"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "no nianianako"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "tenin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "יען",
+      "gloss": "noho izay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "nataonao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izao (ny zava-natao)"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ny zava-natao"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "izao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "nitanisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanakao"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ny zanakao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay lahitokanao"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "ilay lahitokanao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:41:12.735192714Z",
+  "model": "glm-5.3"
+}

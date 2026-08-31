@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary Jarobama nanorina ⟨את⟩ an'i Shekema tao an-tendrombohitra Efraima ka nonina tao; ary nivoaka avy tao izy ka nanorina ⟨את⟩ an'i Penuela.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "nanorina"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekema"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekema"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "tao an-tendrombohitra"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraima"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ka nonina"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tao"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ary nivoaka"
+    },
+    {
+      "surface": "משם",
+      "gloss": "avy tao"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ka nanorina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuela"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuela"
+    }
+  ],
+  "timestamp": "2026-08-31T14:45:37.183758014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary Yoav sy Avishay rahalahiny dia namono an'i Avnera, satria efa namono ⟨את⟩ an'i Asaela rahalahiny tao Gibeona izy tamin'ny ady.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Ary Yoav"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "sy Avishay"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "rahalahiny"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "namono"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "an'i Avnera"
+    },
+    {
+      "surface": "על",
+      "gloss": "satria"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "efa"
+    },
+    {
+      "surface": "המית",
+      "gloss": "namono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Asaela"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "an'i Asaela"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "rahalahiny"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "tao Gibeona"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "tamin'ny ady"
+    }
+  ],
+  "timestamp": "2026-08-31T14:29:21.752420253Z",
+  "model": "glm-5.3"
+}

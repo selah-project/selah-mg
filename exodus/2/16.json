@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary nanan-janakavavy fito ny mpisoraton'i Midiana; ary ireo tonga nandesaka rano ka nameno ⟨את⟩ ny siri-dranano mba hanondrahana ny ondry aman'osin'ny rainy.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "mpisoraton'i"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiana"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "fito"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "janakavavy"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "nandesaka rano"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "nameno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siri-dranano"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "siri-dranano"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "mba hanondrahana"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ondry aman'osy"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "ny rainy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:54:31.623127139Z",
+  "model": "glm-5.3"
+}

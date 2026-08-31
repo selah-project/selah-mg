@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ô, tiako be ny lalànao; andro manontolo izy no fisaintsainako.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ô"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "tiako be"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "lalànao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "manontolo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "היא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "fisaintsainako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:39.928999456Z",
+  "model": "glm-5.3"
+}

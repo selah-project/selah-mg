@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 49,
+  "translation": "Ary afaka izay dia hampodiko ⟨את⟩ ny fahababoan'ny zanak'i Amona, tenin'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Ary afaka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "hampodiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahababoan'ny zanak'i Amona"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ny fahababoan'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amona"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "tenin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T15:43:43.602559880Z",
+  "model": "glm-5.3"
+}

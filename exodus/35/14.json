@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "sy ⟨את⟩ ny fanaovan-jiro sy ⟨את⟩ ny fitaovany sy ⟨את⟩ ny lelampany ary ⟨את⟩ ny menaky ny fanazavana",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny fanaovan-jiro"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "ny fanaovan-jiro"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "fanazavana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny fitaovany"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ny fitaovany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny lelampany"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ny lelampany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny menaky ny fanazavana"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "menaky"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ny fanazavana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:08:08.028459099Z",
+  "model": "glm-5.3"
+}

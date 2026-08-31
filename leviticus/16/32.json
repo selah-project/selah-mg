@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 16:32",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary ny mpisoray hosoroina ⟨את⟩ sy hamenoana ⟨את⟩ ny tànany hitsoriany mpisoratra hisolo ny rainy, izy no hanao ny fanavotana, ary hitafy ⟨את⟩ izay fitafiana rongony maso, fitafiana maso.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "izy no hanao ny fanavotana"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisoray"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ימשח",
+      "gloss": "hosoroina"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "sy"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "hamenoana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tànany"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ny tànany"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "hitsoriany mpisoratra"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hisolo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ny rainy"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "ary hitafy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fitafiana"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "fitafiana"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "rongony"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "fitafiana"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "maso"
+    }
+  ],
+  "timestamp": "2026-08-31T13:17:28.874961128Z",
+  "model": "glm-5.3"
+}

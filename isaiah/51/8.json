@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "Fa hohanin'ny lalana toy ny lamba izy, ary hohanin'ny hala toy ny voloondry izy; ary ny fahamarinako ho mandrakizay, ary ny famonjenako ho amin'ny taranaka aman-taranaka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "toy ny lamba"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "hohanin'ny"
+    },
+    {
+      "surface": "עש",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "ary toy ny voloondry"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "hohanin'ny"
+    },
+    {
+      "surface": "סס",
+      "gloss": "hala"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "ary ny fahamarinako"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ary ny famonjenako"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "amin'ny taranaka"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "aman-taranaka"
+    }
+  ],
+  "timestamp": "2026-08-31T15:18:58.187384549Z",
+  "model": "glm-5.3"
+}

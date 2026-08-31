@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 39:41",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "Ny fitafiana mivalona ho an'ny fanompoana ao amin'ny fitoerana masina, ⟨את⟩ ny fitafiana masina ho an'i Aharona mpisorona, ary ⟨את⟩ ny fitafian'ny zanany hitsorona.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitafiana mivalona"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ny fitafiana"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "mivalona"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "ho an'ny fanompoana"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ao amin'ny fitoerana masina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitafiana masina"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ny fitafiana"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ho an'i Aharona"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitafian'ny zanany"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "ny fitafian'ny"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "hitsorona"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:38.000352819Z",
+  "model": "glm-5.3"
+}

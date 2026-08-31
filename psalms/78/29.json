@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 78:29",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Dia nihinaniny ⟨את⟩ ka voky be izy ireo, ary ny faniriany nentiny taminy.",
+  "tokens": [
+    {
+      "surface": "ויאכלו",
+      "gloss": "nihinaniny"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "ka voky"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "be"
+    },
+    {
+      "surface": "ותאותם",
+      "gloss": "ny faniriany"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "nentiny"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tamin'izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:32.282460040Z",
+  "model": "glm-5.3"
+}

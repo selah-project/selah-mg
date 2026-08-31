@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary Shaol naniraka ⟨את⟩ ny posaka hijery an'i Dawid hanao hoe: Aroseo ⟨את⟩ amin'ny fandriana izy ho amiko, mba hovonoina.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "naniraka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny posaka"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "ny posaka"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hijery"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hanao hoe"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "Aroseo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "izy"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "amin'ny fandriana"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho amiko"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "mba hovonoina"
+    }
+  ],
+  "timestamp": "2026-08-31T14:22:09.107189233Z",
+  "model": "glm-5.3"
+}

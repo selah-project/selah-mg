@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary hivarotako ⟨את⟩ ny zanakareo lahy sy ⟨את⟩ ny zanakareo vavy ho eo an-tanan'ny zanak'i Yehuda, ka hamidy izy ho amin'ny Sabaita, ho amin'ny firenena lavitra; fa Yahveh efa niteny.",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "Ary hivarotako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanakareo lahy"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "zanakareo lahy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "zanakareo vavy"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "eo an-tanan'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "ka hamidy izy"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "ho amin'ny Sabaita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho amin'ny"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "lavitra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "efa niteny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:10:03.694057432Z",
+  "model": "glm-5.3"
+}

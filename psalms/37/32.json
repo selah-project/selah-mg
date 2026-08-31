@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ny ratsy fanahy miandry ny marina ka mitady hamono azy.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "miandry (mijery lavitra)"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ny marina"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "ka mitady"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "hamono azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:50.730388065Z",
+  "model": "glm-5.3"
+}

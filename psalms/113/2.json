@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 113,
+  "translation": "Ho voaisa ny anaran'i Yahveh, hatramin'izao ka mandrapitraohy.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "hoa voaisa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "anaran'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "voaisa"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "hatramin'izao"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka mandrapitraohy"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "pitraohy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:35:43.983880747Z",
+  "model": "glm-5.3"
+}

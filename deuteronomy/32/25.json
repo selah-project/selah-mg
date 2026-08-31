@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Any ivelany ny sabatra mamoy zanaka, ary any anaty efitra ny fahatairana; ny tovolahy sy ny virijina, ny zaza mipetraka am-pitetezana mbamin'ny lehilahy volondavenona.",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "Any ivelany"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "mamoy zanaka"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ny sabatra"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "ary any anaty efitra"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "ny fahatairana"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sy"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "ny tovolahy"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sy"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "ny virijina"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "ny zaza mipetraka am-pitetezana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mbamin'ny"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "volondavenona"
+    }
+  ],
+  "timestamp": "2026-08-31T13:52:39.749205068Z",
+  "model": "glm-5.3"
+}

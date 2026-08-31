@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Iza no nanao sy nanatanteraka izany, ka miantso ny taranaka hatramin'ny fiandohana? Izaho Yahveh no Voalohany, ary ⟨miaraka amin'⟩⟨את⟩ ny Farany Izaho no Izy.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Iza"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "sy nanatanteraka"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "miantso"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "ny taranaka"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "hatramin'ny fiandohana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "Voalohany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny Farany"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "ny Farany"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no Izy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:15:50.982978145Z",
+  "model": "glm-5.3"
+}

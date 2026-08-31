@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Avy amin'ny vavan'ny madinika sy ny mpanono-dronono no nanorenanao hery, noho ny fahavalo mifanohitra aminao, hampanangina ny fahavalo sy ny mpamaly faty.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "avy amin'ny vavan'ny"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "madinika"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "sy ny mpanono-dronono"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "nanorenanao"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hery"
+    },
+    {
+      "surface": "למען",
+      "gloss": "noho"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "ny fahavalo mifanohitra aminao"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "hampanangina"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ny fahavalo"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "sy ny mpamaly faty"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:36.650722301Z",
+  "model": "glm-5.3"
+}

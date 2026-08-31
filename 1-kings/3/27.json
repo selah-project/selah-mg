@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary namaly ny mpanjaka ka nanao hoe: Omeo azy ⟨את⟩ ilay zaza teraka velatra, fa aza otran-tena maty velively: izy no reniny.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "namaly"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Omeo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "azy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay zaza teraka velatra"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "ilay zaza teraka"
+    },
+    {
+      "surface": "החי",
+      "gloss": "velatra"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "maty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "otran-tena"
+    },
+    {
+      "surface": "היא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "no reniny"
+    }
+  ],
+  "timestamp": "2026-08-31T14:40:09.030188591Z",
+  "model": "glm-5.3"
+}

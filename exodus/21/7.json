@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary raha misy lehilahy mivarotra ⟨את⟩ ny zanany vavy ho andevo vavy, tsy mivoaka izy toy ny fivoahan'ny mpanompo lehilahy.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ary raha"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "mivarotra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanany vavy"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ny zanany vavy"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "ho andevo vavy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "mivoaka izy"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "toy ny fivoahan'ny"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "mpanompo lehilahy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:24.530052418Z",
+  "model": "glm-5.3"
+}

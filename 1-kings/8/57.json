@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-kings 8:57",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ho aminay Yahveh Elohintsika, araka ny nataony tamin'ny razantsika; aza hanary antsika Izy, ary aza hahafoy antsika;",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ho aminay (mahazo)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohintsika"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "aminay"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "razantsika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "hanary antsika"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "יטשנו",
+      "gloss": "hahafoy antsika"
+    }
+  ],
+  "timestamp": "2026-08-31T14:43:09.715497319Z",
+  "model": "glm-5.3"
+}

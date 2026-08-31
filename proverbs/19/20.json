@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 19:20",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Mihainoa hevitra, ary ekeo ny fampianarana, mba ho hendry ianao amin'ny farany.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Mihainoa"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "hevitra"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "ary ekeo"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ny fampianarana"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mba"
+    },
+    {
+      "surface": "תחכם",
+      "gloss": "ho hendry ianao"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "amin'ny farany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:55:13.234151644Z",
+  "model": "glm-5.3"
+}

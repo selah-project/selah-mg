@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary ankehitriny, miânia maraina hianao, dia ny mpanompon'ny tompokao izay tonga taminao ⟨את⟩; ary raha vao miâniaredatra maraina hianareo ka mahamay, mandehana.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ary ankehitriny"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "miânia"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "maraina"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "dia ny mpanompon'"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ny tompokao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "taminao ⟨את⟩",
+      "marks": "hianao"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "raha vao miâniaredatra hianareo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "maraina"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ka mahamay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "mandehana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:26:16.868506566Z",
+  "model": "glm-5.3"
+}

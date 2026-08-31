@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 68,
+  "translation": "Elohim no mametraka ny tokana ⟨hijanona⟩ an-trano, mamoaka ny gadrana amin'ny fahasamihafana; fa ny mpanohitra kosa dia monina amin'ny tany maina fatratra.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "mametraka... hijanona"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "ny tokana"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "an-trano"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "mamoaka"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "ny gadrana"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "amin'ny fahasamihafana"
+    },
+    {
+      "surface": "אך",
+      "gloss": "fa... kosa"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "ny mpanohitra"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "dia monina"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "amin'ny tany maina fatratra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:46.044950979Z",
+  "model": "glm-5.3"
+}

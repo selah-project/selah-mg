@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 11:16",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary aoriany ireo avy amin'ny firenena rehetra amin'ny Isiraely, izay nanolotra ny fony hitady ⟨את⟩ an'i Yahveh, Elohin'ny Isiraely, tonga tany Yeroshalayim hitsarovana ho an'i Yahveh, Elohin'ny razany.",
+  "tokens": [
+    {
+      "surface": "ואחריהם",
+      "gloss": "Ary aoriany"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "avy amin'ny... rehetra"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "amin'ny Isiraely"
+    },
+    {
+      "surface": "הנתנים",
+      "gloss": "izay nanolotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fony"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "ny fony"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "hitady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "tany Yeroshalayim"
+    },
+    {
+      "surface": "לזבוח",
+      "gloss": "hitsarovana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'ny"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "razany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:44:53.101779908Z",
+  "model": "glm-5.3"
+}

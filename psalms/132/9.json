@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 132,
+  "translation": "Ary hotafin'ny mpisoratrao ny fahamarinana, ary ny hasinao hitaraina ho fihobiana.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "ny mpisoratrao"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "hotafiny"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ny fahamarinana"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "ary ny hasinao"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "hitaraina ho fihobiana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:13.527003030Z",
+  "model": "glm-5.3"
+}

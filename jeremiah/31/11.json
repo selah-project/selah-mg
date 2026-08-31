@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Fa Yahveh efa nanavotra ⟨את⟩ an'i Yaakoba, ary nanavotra azy tamin'ny tanan'ny mahery noho izy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "nanavotra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yaakoba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "an'i Yaakaba"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "ary nanavotra azy"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tamin'ny tanan'ny"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "noho izy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:35:20.019627550Z",
+  "model": "glm-5.3"
+}

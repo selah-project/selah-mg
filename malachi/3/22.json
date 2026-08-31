@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "malachi 3:22",
+  "book": "malachi",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Tsarovy ny Lalàn'i Moshe mpanompoko, izay nandidiako azy tao Horeba ho an'ny Isiraely rehetra, didy lalana ary fitsipika.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Tsarovy"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ny Lalàna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mpanompoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "nandidiako"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (Moshe)"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "tao Horeba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho an'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "didy lalana"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ary fitsipika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:47.716987087Z",
+  "model": "glm-5.3"
+}

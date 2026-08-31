@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 9:5",
+  "book": "zechariah",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Hahita Ashkelon ka hatahotra, ary Azah ho very saina indrindra, ary Ekron, fa ho mena ny tarehiny noho ny fanantenany; ary ho levona ny mpanjaka avy ao Azah, ary Ashkelon tsy honenana intsony.",
+  "tokens": [
+    {
+      "surface": "תרא",
+      "gloss": "Hahita"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "ותירא",
+      "gloss": "ka hatahotra"
+    },
+    {
+      "surface": "ועזה",
+      "gloss": "ary Azah"
+    },
+    {
+      "surface": "ותחיל",
+      "gloss": "ho very saina"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "indrindra"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "ary Ekron"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הביש",
+      "gloss": "ho mena ny tarehiny"
+    },
+    {
+      "surface": "מבטה",
+      "gloss": "noho ny fanantenany"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ary ho levona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "מעזה",
+      "gloss": "avy ao Azah"
+    },
+    {
+      "surface": "ואשקלון",
+      "gloss": "ary Ashkelon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "honenana intsony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:20:57.398095101Z",
+  "model": "glm-5.3"
+}

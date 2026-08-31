@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary hoy izy tamin'i Avraham: Aroao ity mpanompo vavy ity sy ⟨את⟩ zanany, fa tsy handova zanak'ity mpanompo vavy ity miaraka amin'ny zanako, miaraka amin'i Yitschak.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "tamin'i Avraham"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "Aroao"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "mpanompo vavy"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ity ... ity"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zanany"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "handova"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "mpanompo vavy"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ity ... ity"
+    },
+    {
+      "surface": "עם",
+      "gloss": "miaraka amin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanako"
+    },
+    {
+      "surface": "עם",
+      "gloss": "miaraka amin'i"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    }
+  ],
+  "timestamp": "2026-08-31T12:40:21.735505006Z",
+  "model": "glm-5.3"
+}

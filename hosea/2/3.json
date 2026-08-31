@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Lazao amin'ny rahalahinareo hoe Ammi ⟨Oloko⟩, ary amin'ny anabavinareo hoe Ruhama ⟨Asovan'famindram-po⟩.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Lazao"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "amin'ny rahalahinareo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi (Oloko)"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "ary amin'ny anabavinareo"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhama (Asovan'famindram-po)"
+    }
+  ],
+  "timestamp": "2026-08-31T16:07:55.448538477Z",
+  "model": "glm-5.3"
+}

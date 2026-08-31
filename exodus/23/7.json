@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Eo lavitra ny teny lainga hitoeranao, ary ny marina sy ny marina tsy vonoina; fa tsy hamarina ny ratsy fanahy Izaho",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lainga"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "hitoeranao eo lavitra"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "ary ny tsy manan-tsiny"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "sy ny marina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "vonoina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "hamarina"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ny ratsy fanahy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:21.189644425Z",
+  "model": "glm-5.3"
+}

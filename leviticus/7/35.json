@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 7:35",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ity no fanosana an'i Aharon sy ny fanosan'ny zanany, avy amin'ny fanatitra dorain'i Yahveh, tamin'ny andro nanatreny azy ⟨את⟩ hanao mpisorona ho an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ity"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "fanosana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "sy ny fanosana"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "avy amin'ny fanatitra dorain'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "nanatrena"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy (Aharon sy ny zanany)"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "hanao mpisorona"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T17:57:34.515033160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 60:2",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 60,
+  "translation": "Fa indro, ny maizina hanarona ny tany, ary ny maizim-pito hamonjy ny firenena; fa i Yahveh no hiposaka ho amboninao, ary ny voninahiny ho hita eo amboninao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "ny maizina"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "hanarona"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ary ny maizim-pito"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "hamonjy ny firenena"
+    },
+    {
+      "surface": "ועליך",
+      "gloss": "fa ho amboninao"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "hiposaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וכבודו",
+      "gloss": "ary ny voninahiny"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "eo amboninao"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ho hita"
+    }
+  ],
+  "timestamp": "2026-08-31T15:21:32.070647284Z",
+  "model": "glm-5.3"
+}

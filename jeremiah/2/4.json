@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Mihainoa ny tenin'i Yahveh, ry taranak'i Yaakoba, sy ianareo fianakaviana rehetra ao an-tranon'ny Isiraely.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mihainoa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ry taranak'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ... rehetra"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "fianakaviana"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ao an-tranon'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    }
+  ],
+  "timestamp": "2026-08-31T15:23:22.562780230Z",
+  "model": "glm-5.3"
+}

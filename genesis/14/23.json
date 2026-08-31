@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 14:23",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Fa na kofehy iray na tady sandaly aza no tsy halako amin'izay rehetra anananao, fandrao hanao hoe ianao: Izaho no nampitombo harena an'i ⟨את⟩ Avrahama.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "fa na"
+    },
+    {
+      "surface": "מחוט",
+      "gloss": "kofehy iray"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na ... aza"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "tady"
+    },
+    {
+      "surface": "נעל",
+      "gloss": "sandaly"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "halako"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "amin'izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anananao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fandrao ... tsy"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "hanao hoe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "העשרתי",
+      "gloss": "no nampitombo harena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Avrahama"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrahama"
+    }
+  ],
+  "timestamp": "2026-08-31T12:38:05.763807216Z",
+  "model": "glm-5.3"
+}

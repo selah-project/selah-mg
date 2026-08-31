@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary ny fahamarinana ho fehintsitriakany, ary ny fahatokiana ho fehin-kibony.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ary ho"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ny fahamarinana"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "fehintsitriaka"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "-ny"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "ary ny fahatokiana"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "fehin-kibo"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "-ny"
+    }
+  ],
+  "timestamp": "2026-08-31T15:05:23.169923983Z",
+  "model": "glm-5.3"
+}

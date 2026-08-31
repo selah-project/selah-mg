@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Avy amin'ny didinao no mahazo fahalalana aho; noho izany dia halako ny lalana fitaka rehetra.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "avy amin'ny didinao"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "mahazo fahalalana aho"
+    },
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "halako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "fitaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:17.467778399Z",
+  "model": "glm-5.3"
+}

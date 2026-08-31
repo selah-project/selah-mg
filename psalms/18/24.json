@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary tonga lafatra teto aminy aho, ary nitandrina tena aho hiala amin'ny heloko.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "Ary ... aho"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tonga lafatra"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "teto aminy"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "ary nitandrina tena"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "hiala amin'ny heloko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:15.955263956Z",
+  "model": "glm-5.3"
+}

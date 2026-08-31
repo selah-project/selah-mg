@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 80,
+  "translation": "Aoka ho eo ambony lehilahy eo an-kavananao ny tananao, sy eo ambony zanak'olona nampahalehibeanao ho anao.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "aoka ho"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ny tananao"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "eo an-kavananao"
+    },
+    {
+      "surface": "על",
+      "gloss": "sy eo ambony"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "nampahalehibeanao"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:18.362502891Z",
+  "model": "glm-5.3"
+}

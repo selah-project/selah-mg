@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary nanao tao amin'ny tranon'ny qodesh ha-qodashim kerobima roa, asa fanetsahana ⟨את⟩ amin'ny volamena izy ka nafeniny.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "tao amin'ny trano"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qodesh"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ha-qodashim"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerobima"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "roa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "asa"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "fanetsahana"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "nafeniny"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kerobima (ilay voafehy amin'ny volamena)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    }
+  ],
+  "timestamp": "2026-08-31T18:38:23.075152260Z",
+  "model": "glm-5.3"
+}

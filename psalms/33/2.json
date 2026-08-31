@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Midera an'i Yahveh amin'ny kinora; amin'ny nevela manana tady folo mifanaraka; milalao mozika ho Azy.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Midera"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "amin'ny kinora"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "amin'ny nevela"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "manana tady folo"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "milalao mozika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho Azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:19.452449410Z",
+  "model": "glm-5.3"
+}

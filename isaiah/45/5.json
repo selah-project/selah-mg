@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 45,
+  "translation": "Izaho Yahveh, ary tsy misy intsony; ampiko ihany no tsy misy Elohim; iambaro anao aho, nefa tsy nahalala Ahy ianao.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ary tsy misy"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ampiko ihany no"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "iambaro anao aho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nefa tsy"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "nahalala Ahy ianao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:17:22.615639282Z",
+  "model": "glm-5.3"
+}

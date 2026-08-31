@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 26:5",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary izy nitory hanatitra hikatsaka ⟨את⟩ ny Elohim tamin'ny andron'i Zekariahy, ilay mahay mamaky teny amin'ny fahitana avy amin'ny Elohim; ary tamin'ny andro nitsanganany hikatsaka ⟨את⟩ ny Yahveh, dia nampahomby azy ny Elohim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary izy nitory"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "hikatsaka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ny Elohim"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "tamin'ny andron'i"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekariahy"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "ilay mahay"
+    },
+    {
+      "surface": "בראת",
+      "gloss": "amin'ny fahitana"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "avy amin'ny Elohim"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "ary tamin'ny andro"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "nitsanganany hikatsaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "הצליחו",
+      "gloss": "nampahomby azy"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ny Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T17:49:52.332744476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ary Akish nanao hoe: Aiza no nanaovana fanafihana androany? ary David nanao hoe: Tany amin'ny Negev atanin'i Yehuda sy tany amin'ny Negev atanin'ny Yerahmelita ary tany amin'ny Negev atanin'ny Kenita.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary... nanao hoe"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨Aiza...?⟩"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "no nanaovana fanafihana"
+    },
+    {
+      "surface": "היום",
+      "gloss": "androany"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ary... nanao hoe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "tany amin'ny"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "atanin'i Yehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy tany amin'ny"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "atanin'ny Yerahmelita"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary tany amin'ny"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "atanin'ny Kenita"
+    }
+  ],
+  "timestamp": "2026-08-31T14:26:19.851023133Z",
+  "model": "glm-5.3"
+}

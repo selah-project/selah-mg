@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Aho no aidina toy ny rano, ary nisaraka ny taolanko rehetra; tonga toy ny savoka ny foko, miboridana ao an-kiboko.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "toy ny rano"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "no aidina aho"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "ary nisaraka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "ny taolako"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "toy ny savoka"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "miboridana"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ao anaty"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "kiboko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:49.613075157Z",
+  "model": "glm-5.3"
+}

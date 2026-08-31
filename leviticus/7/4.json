@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary ⟨את⟩ ny voa roa ⟨את⟩ ⟨sy⟩ ny tavy eo amboniny, dia ilay eo amin'ny valan-tongony, ary ⟨את⟩ ilay sombintsombiny eo ambonin'ny aty, dia hosorany miaraka amin'ny voa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ary ⟨את⟩",
+      "marks": "ny voa roa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "roa"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ny voa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ⟨sy⟩ ny",
+      "marks": "ny tavy"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ny tavy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dia ilay"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "eo amboniny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dia ilay"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "valan-tongony"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ilay sombintsombiny"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ilay sombintsombiny"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambonin'ny"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "aty"
+    },
+    {
+      "surface": "על",
+      "gloss": "miaraka amin'ny"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "voa"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "hosorany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:12:42.281493847Z",
+  "model": "glm-5.3"
+}

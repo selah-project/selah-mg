@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary reny tamin'ny mponina rehetra tao Yavesh-Gilada ⟨את⟩ izay rehetra nataon'ny Filistina tamin'i Shaul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "reny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mponina rehetra"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nataon'ny"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistina"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "tamin'i Shaul"
+    }
+  ],
+  "timestamp": "2026-08-31T17:36:58.144357466Z",
+  "model": "glm-5.3"
+}

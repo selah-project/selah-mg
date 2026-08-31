@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Fa ⟨את⟩ Natan mpaminany sy Benayahu ary ⟨את⟩ ny mahery sy ⟨את⟩ Shelomo rahalahiny tsy nantsoiny.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Natan mpaminany"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mpaminany"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "sy Benayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny mahery"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "ny mahery"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo rahalahiny"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "rahalahiny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nantsoiny"
+    }
+  ],
+  "timestamp": "2026-08-31T14:38:47.949587965Z",
+  "model": "glm-5.3"
+}

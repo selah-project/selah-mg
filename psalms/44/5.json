@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Ianao no mpanjaka ahy, Elohim; ampiray ny famonjena ho an'i Yaakov.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ianao"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mpanjaka ahy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ampiray"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "ny famonjena"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:35.232253195Z",
+  "model": "glm-5.3"
+}

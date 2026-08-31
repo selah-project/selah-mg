@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "haggai 1:10",
+  "book": "haggai",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Noho izany, ny lanitra amboninareo dia voasakana amin'ny ando, ary ny tany voasakana amin'ny vokatrany.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Noho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "amboninareo"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "voasakana"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "amin'ny ando"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ary ny tany"
+    },
+    {
+      "surface": "כלאה",
+      "gloss": "voasakana"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "amin'ny vokatrany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:12:07.823969261Z",
+  "model": "glm-5.3"
+}

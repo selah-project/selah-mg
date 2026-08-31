@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-chronicles 6:50",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary nanome amin'ny alalan'ny filokana avy amin'ny fokoan'ny zanak'i Yehuda sy avy amin'ny fokoan'ny zanak'i Shimeon sy avy amin'ny fokoan'ny zanak'i Binyamin ⟨את⟩ ireto tanàna ireto, izay nantsoina tamin'ny anarana.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "nanome"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "amin'ny alalan'ny filokana"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "avy amin'ny fokoan'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "sy avy amin'ny fokoan'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimeon"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "sy avy amin'ny fokoan'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ireto tanàna ireto"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "nantsoina"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "tamin'ny anarana"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "tamin'ny anarana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:35:55.703712301Z",
+  "model": "glm-5.3"
+}

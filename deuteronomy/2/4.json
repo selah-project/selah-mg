@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary ampiray ho azy ⟨את⟩ ny vahoaka: hoe, Ianareo mandalo eo amin'ny faritry ny rahalahinareo, taranak'i Esav, monina any Seir; ary hatahotra anareo izy; ka tandremo sady tano tena tsara.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ampiray ho azy ⟨את⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "צו",
+      "gloss": "ampiray"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ianareo"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "mandalo"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "eo amin'ny faritry"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ny rahalahinareo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taranak'i"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "monina"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "any Seir"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "hatahotra"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "tandremo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tsara sady fatratra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:39:52.362955965Z",
+  "model": "glm-5.3"
+}

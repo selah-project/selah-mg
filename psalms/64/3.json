@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 64,
+  "translation": "Fenoy ahy hiala amin'ny fiombonana miafinaiben'ny mpanao ratsy, amin'ny fihetsik'ireo mpanao foana.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "Fenoy ahy hialo"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "amin'ny fiombonana miafina"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ny mpanao ratsy"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "amin'ny fihetsik'ireo"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mpanao"
+    },
+    {
+      "surface": "און",
+      "gloss": "foana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:24.388959841Z",
+  "model": "glm-5.3"
+}

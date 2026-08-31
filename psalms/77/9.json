@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 77,
+  "translation": "Voafoana va mandrakizay ny hesed-ny? Mamarana ⟨⟨teny⟩⟩ va amin'ny taranaka sy taranaka?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "voafoana va"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ny hesed-ny"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "mamarana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "teny"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "amin'ny taranaka"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "sy taranaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:32.827271914Z",
+  "model": "glm-5.3"
+}

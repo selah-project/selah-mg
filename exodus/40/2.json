@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Amin'ny volana voalohany, amin'ny andro voalohany amin'ny volana, dia hinao ny tranon'ilay laina fihaonana.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Amin'ny andro"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "amin'ny volana"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "voalohany"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "amin'ny andro voalohany"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "amin'ny volana"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "hinao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tranon'ilay laina"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ny trano"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "laina"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:32.528614094Z",
+  "model": "glm-5.3"
+}

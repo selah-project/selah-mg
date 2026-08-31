@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Lehibe ny voninahiny amin'ny famonjenao; lanja sy fihaingoana no ametraharanao azy.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ny voninahiny"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "amin'ny famonjenao"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "lanja"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "sy fihaingoana"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "ametraharanao"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:41.959095825Z",
+  "model": "glm-5.3"
+}

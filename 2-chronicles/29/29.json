@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 29:29",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary rehefa vita ⟨⟨את⟩⟩ ny fanatitra dorana, dia niankohaka ny mpanjaka sy izay rehetra hita tao aminy, ka niankohaka nanompo.",
+  "tokens": [
+    {
+      "surface": "וככלות",
+      "gloss": "rehefa vita"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "ny fanatitra dorana"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "niankohaka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy izay rehetra"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "hita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ tao aminy",
+      "marks": "tao aminy (ny mpanjaka)"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "niankohaka nanompo"
+    }
+  ],
+  "timestamp": "2026-08-31T18:26:31.867613890Z",
+  "model": "glm-5.3"
+}

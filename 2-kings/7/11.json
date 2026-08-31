@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary ny mpiambina niantso, ka nilaza izany tao amin'ny lapan'ny mpanjaka, ao anatiny.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ny mpiambina"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "nilaza"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tao amin'ny lapan'"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "ao anatiny"
+    }
+  ],
+  "timestamp": "2026-08-31T14:54:20.553358141Z",
+  "model": "glm-5.3"
+}

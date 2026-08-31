@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary Isiraela naka ⟨את⟩ ireo tanàna rehetra ireo, ary Isiraela nonina tao amin'ny tanànan'ny Emorita rehetra, any Chebona sy amin'ny zanambaviny rehetra.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "naka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ireo tanàna rehetra ireo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nonina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraela"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tao amin'ny"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "tanànan'ny"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorita"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "any Chebona"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "sy amin'ny"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "zanambaviny rehetra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:32:34.930874050Z",
+  "model": "glm-5.3"
+}

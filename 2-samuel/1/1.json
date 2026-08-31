@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary nony aorian'ny fahafatesan'i Shaol, ary Davide niverina avy amin'ny famonoana ⟨את⟩ ny Amalek, ary nipetraka tany Tsiklaga Davide roa andro.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nony"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "aorian'ny"
+    },
+    {
+      "surface": "מות",
+      "gloss": "fahafatesan'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "ary Davide"
+    },
+    {
+      "surface": "שב",
+      "gloss": "niverina"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "avy amin'ny famonoana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Amalek"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "ny Amalek"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ary nipetraka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "tany Tsiklaga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "roa"
+    }
+  ],
+  "timestamp": "2026-08-31T14:28:42.341729864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 42:33",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Ary ilay lehilahy, tompon'ny tany, nanao tamimay hoe: Amin'ity no hahafantatro fa marina ianareo; avelao ⟨את⟩ eto amiko ny anankiray amin'ny rahalahinareo, ary alaivo ⟨את⟩ izay hohanina ho an'ny mosary ao an-tranonareo, ka mandehana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "tamimay"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ilay lehilahy"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tompon'"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "amin'ity"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "hahafantatro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "marina"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ianareo"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ny rahalahinareo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ny anankiray"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "avelao"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ eto amiko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izay hohanina (mosary)"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "mosary"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "ao an-tranonareo"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "alaivo"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ka mandehana"
+    }
+  ],
+  "timestamp": "2026-08-31T12:52:00.666705118Z",
+  "model": "glm-5.3"
+}

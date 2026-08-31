@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary Yahveh nampifoha ⟨את⟩ ny fanahin'ny Filistina sy ny Arabo izay eo anilan'ny Kosita hanohitra an'i Yehorame.",
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "nampifoha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "על",
+      "gloss": "hanohitra"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "an'i Yehorame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanahin'ny Filistina sy ny Arabo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ny fanahin'ny"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Filistina"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "sy ny Arabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo anilan'ny"
+    },
+    {
+      "surface": "יד",
+      "gloss": "anilan'ny"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "Kosita"
+    }
+  ],
+  "timestamp": "2026-08-31T17:48:25.989415907Z",
+  "model": "glm-5.3"
+}

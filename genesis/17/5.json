@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Tsy hantsoina intsony ⟨את⟩ ny anaranao Avram, fa Avraham no ho anaranao, fa rain'ny firenena maro no nataoko ianao.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "hantsoina"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anaranao"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ny anaranao"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "fa … no ho"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "anaranao"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אב",
+      "gloss": "rain'ny"
+    },
+    {
+      "surface": "המון",
+      "gloss": "maro"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "nataoko ianao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:39:28.666089807Z",
+  "model": "glm-5.3"
+}

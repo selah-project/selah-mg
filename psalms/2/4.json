@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Izay mipetraka any an-danitra mihomehy, Adonay maneso azy.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "Izay mipetraka"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "any an-danitra"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "mihomehy"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "maneso"
+    },
+    {
+      "surface": "למו",
+      "gloss": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:03.677136383Z",
+  "model": "glm-5.3"
+}

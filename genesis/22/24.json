@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary ny vaditsara nananany, Reuma no anarany, dia niteraka koa izy ⟨את⟩ Tebaha sy ⟨את⟩ Gahama sy ⟨את⟩ Tahasa ary ⟨את⟩ Maaka.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "Ary ny vaditsara nananany"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "no anarany"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reuma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "dia niteraka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tebaha"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tebaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Gahama"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gahama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Tahasa"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Tahasa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Maaka"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaka"
+    }
+  ],
+  "timestamp": "2026-08-31T12:41:21.218193936Z",
+  "model": "glm-5.3"
+}

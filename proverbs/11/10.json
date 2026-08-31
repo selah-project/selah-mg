@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Amin'ny soan'ny marina dia mifaly ⟨ny⟩ tanàna, ary amin'ny fandringanana ny ratsy fanahy dia fihirana.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "amin'ny soan'ny"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "marina"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "mifaly"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "ary amin'ny fandringanana ny"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ratsy fanahy"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "fihirana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:52:21.962964935Z",
+  "model": "glm-5.3"
+}

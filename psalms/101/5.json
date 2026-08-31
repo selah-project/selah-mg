@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 101,
+  "translation": "Izay miresaka ratsy mangingina ny namany, ⟨את⟩ izany dia hosimbako ⟨את⟩; izay manana maso miakatra sy fo sesehena, ⟨את⟩ izany tsy zakako.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "miresaka ratsy"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "mangingina"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ny namany"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ izany",
+      "marks": "izany (ilay mpanao fitsiratsirana)"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "hosimbako"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "miakatra"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "maso"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "sesehena"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ izany",
+      "marks": "izany (ilay maso miakatra sy fo sesehena)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "zakako"
+    }
+  ],
+  "timestamp": "2026-08-31T18:35:47.134352128Z",
+  "model": "glm-5.3"
+}

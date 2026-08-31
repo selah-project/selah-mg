@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Fangatahana nataon'i Davida. Mihainoa, ry Yahveh, ny fahamarinana; tomory ny fiantsoako; henoy ny fivavahako — tsy misy molotra mandainga.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Fangatahana"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nataon'i Davida"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Mihainoa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ny fahamarinana"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "tomory"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "ny fiantsoako"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "henoy"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ny fivavahako"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "molotra"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "mandainga"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:59.089705405Z",
+  "model": "glm-5.3"
+}

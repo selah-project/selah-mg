@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 4:14",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Tamin'izay andro izay dia nampalaza i Yahveh ⟨את⟩ an'i Yehoshua teo imason'ny Isiraely rehetra; ary natahotra azy izy ireo, toy izay natahorany ⟨את⟩ an'i Moshe, nandritra ny andro rehetra niainany.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "tamin'izay andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izay"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "nampalaza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "an'i Yehoshua"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "teo imason'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ary natahotra azy izy ireo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "an'i Yehoshua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "toy izay"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "natahorany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "an'i Moshe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ny andro"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "niainany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:54:47.654723423Z",
+  "model": "glm-5.3"
+}

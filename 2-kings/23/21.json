@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 23:21",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary ny mpanjaka nandidy ⟨את⟩ ny vahoaka rehetra hoe: Manaova Pesach ho an'i Yahveh, Elohinareo, araka ny voasoratra amin'ity bokin'ny fanekena ity.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "nandidy"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Manaova"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "araka ny voasoratra"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "boky"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ny fanekena"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity ... ity"
+    }
+  ],
+  "timestamp": "2026-08-31T15:01:12.744740275Z",
+  "model": "glm-5.3"
+}

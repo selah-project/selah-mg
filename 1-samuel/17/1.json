@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary ny Pelishtita nampivory ⟨את⟩ ny toby fiarovan'izy ireo ho an'ny ady, ka nivory tao amin'i Sokoh, izay an'i Yehouda, ary namponina teo anelanelan'i Sokoh sy Azekah, tao amin'i Efes-Dammim.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "nampivory"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Pelishtita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny toby fiarovan'izy ireo"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "ny toby fiarovan'izy ireo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ho an'ny ady"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "nivory"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "an'i Yehouda"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "namponina"
+    },
+    {
+      "surface": "בין",
+      "gloss": "anelanelan'i"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azekah"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "tao amin'i Efes-"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Dammim"
+    }
+  ],
+  "timestamp": "2026-08-31T14:20:34.774053036Z",
+  "model": "glm-5.3"
+}

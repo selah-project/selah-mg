@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary hoy ny vahoaka tamin'i Yehoshoa: ⟨את⟩ Yahveh Elohinay no hantompoantsika, ary ny feony no hihainoantsika.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh Elohinay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohinay"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "no hantompoantsika"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "ary ny feony"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "no hihainoantsika"
+    }
+  ],
+  "timestamp": "2026-08-31T14:03:42.211872307Z",
+  "model": "glm-5.3"
+}

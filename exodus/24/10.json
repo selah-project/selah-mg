@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ka nahita ⟨את⟩ Elohin'i Yisraela izy ireo, ary teo ambanin'ny tongony ⟨isy⟩ toy ny asa vita amin'ny vatosoa sappira, ary toy ny tenan'ny lanitra amin'ny fahatoniny.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ka nahita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohin'i Yisraela"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ary teo ambanin'ny"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "tongony"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "toy ny asa vita"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "amin'ny vatosoa sappira"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "sappira"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "ary toy ny tenan'ny"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "lanitra"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "amin'ny fahatoniny"
+    }
+  ],
+  "timestamp": "2026-08-31T18:28:03.492330237Z",
+  "model": "glm-5.3"
+}

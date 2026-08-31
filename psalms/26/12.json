@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ny tongotro mijoro amin'ny tani-malama; ao amin'ny fiangonana hitsoa-boko an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "ny tongotro"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "mijoro"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "amin'ny tani-malama"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "ao amin'ny fiangonana"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "hitsoa-boko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "an'i Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:36.102628095Z",
+  "model": "glm-5.3"
+}

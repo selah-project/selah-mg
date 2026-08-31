@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 11:10",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary nilaza tamin'i David hoe: Tsy nidina tany an-tranony Uria. Ary hoy David tamin'i Uria: Tsy avy amin'ny dia va ianao? Nahoana no tsy nidina tany an-tranokao?",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "Ary nilaza"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "tamin'i David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "nidina"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tany"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "an-tranony"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Tsy ... va"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "avy amin'ny dia"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "בא",
+      "gloss": "avy"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Nahoana no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "nidina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tany"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "an-tranokao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:32:01.795295391Z",
+  "model": "glm-5.3"
+}

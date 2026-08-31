@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary hianareo hanenjika ⟨את⟩ ny fahavalonareo, ka handavo teo anoloanareo izy amin'ny sabatra.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "Ary hanenjika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahavalonareo"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ny fahavalonareo"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ka handavo"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "teo anoloanareo"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "amin'ny sabatra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:21:10.155525882Z",
+  "model": "glm-5.3"
+}

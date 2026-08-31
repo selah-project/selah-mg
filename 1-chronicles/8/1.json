@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary Binyamin niteraka ⟨את⟩ Bela lahimatoany, Ashbel ⟨faharoa⟩, sy Aharah ⟨fahatelo⟩.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Ary Binyamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "lahimatoany"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ashbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "faharoa"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "sy Aharah"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "fahatelo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:36:05.084781329Z",
+  "model": "glm-5.3"
+}

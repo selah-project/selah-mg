@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 54,
+  "translation": "Fa tamin'ny fahoriana rehetra dia namonjy ahy Izy, ary ny masonko nahita ny fahavalo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "tamin'ny ... rehetra"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "fahoriana"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "namonjy ahy"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "ary ny fahavalo"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "nahita"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ny masonko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:07.151643344Z",
+  "model": "glm-5.3"
+}

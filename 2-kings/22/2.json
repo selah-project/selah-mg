@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 22:2",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary nanao izay mahitsy eo imason'i Yahveh izy, ary nandeha tamin'ny lalana rehetra nataon'i Davida rainy, ary tsy nivily na ho ankavanana na ho ankavia.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ary nanao"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "izay mahitsy"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "eo imason'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ary nandeha"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tamin'ny ... rehetra"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rainy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "סר",
+      "gloss": "nivily"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ankavanana"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "sy ankavia"
+    }
+  ],
+  "timestamp": "2026-08-31T15:00:02.560999010Z",
+  "model": "glm-5.3"
+}

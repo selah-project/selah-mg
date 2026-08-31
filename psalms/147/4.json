@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 147,
+  "translation": "Izy no manisa ⟨את⟩ ny isan'ny kintana; ny anarany rehetra antsoiny.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "manisa"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ny isan'ny"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "kintana"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "antsoiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:17.565347519Z",
+  "model": "glm-5.3"
+}

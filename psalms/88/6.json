@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 88,
+  "translation": "Afaka amin'ny maty izaho, tahaka ny voavono mandry ao amin'ny fasana, izay tsy mahatsiaro aniny intsony ianao, ary izy ireo voapaka tamin'ny tananao.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "amin'ny maty"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "afaka"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "tahaka"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "ny voavono"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "mandry"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "ao amin'ny fasana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "mahatsiaro aniny ianao"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ary izy ireo"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "tamin'ny tananao"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "voapaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:28.286997157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Avy tamin'izany tany izany no nivoahan'i Ashur, ka nanorina ⟨את⟩ an'i Ninveh sy ⟨את⟩ Rehobot-Ir sy ⟨את⟩ Kelaha.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Avy tamin'"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izany... izany"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "nivoahana"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ka nanorina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Ninveh"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninveh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Rehobot-Ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rehobot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "-Ir (tanàna)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Kelaha"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kelaha"
+    }
+  ],
+  "timestamp": "2026-08-31T17:55:14.281511605Z",
+  "model": "glm-5.3"
+}

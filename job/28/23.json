@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Elohim mahay ny lalany, ary Izy mahalala ⟨את⟩ ny fitoerany.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "mahay"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "ny lalany"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ary Izy"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitoerany"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "ny fitoerany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:04:54.494464561Z",
+  "model": "glm-5.3"
+}

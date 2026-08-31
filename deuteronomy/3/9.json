@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ny Tsidonina no miantso an'i Hermona hoe Siriona, ary ny Emorita miantso azy hoe Senira.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "Ny Tsidonina"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "no miantso"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "an'i Hermona"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "hoe Siriona"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ary ny Emorita"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "miantso"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "hoe Senira"
+    }
+  ],
+  "timestamp": "2026-08-31T13:40:08.739150648Z",
+  "model": "glm-5.3"
+}

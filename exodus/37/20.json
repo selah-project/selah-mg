@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 37:20",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary amin'ny menora dia kitrolo efatra toy ny amygdala, mbamin'ny sakafo-damosiny sy ny voniny.",
+  "tokens": [
+    {
+      "surface": "ובמנרה",
+      "gloss": "amin'ny menora"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "efatra"
+    },
+    {
+      "surface": "גבעים",
+      "gloss": "kitrolo"
+    },
+    {
+      "surface": "משקדים",
+      "gloss": "toy ny amygdala"
+    },
+    {
+      "surface": "כפתריה",
+      "gloss": "sakafo-damosiny"
+    },
+    {
+      "surface": "ופרחיה",
+      "gloss": "sy ny voniny"
+    }
+  ],
+  "timestamp": "2026-08-31T13:09:23.766596894Z",
+  "model": "glm-5.3"
+}

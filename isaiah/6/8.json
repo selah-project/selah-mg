@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary reko ny feon'i Adonay manao hoe: ⟨את⟩ iza no haniriko, ary iza no handeha ho antsika? Dia hoy izaho: Indro aho, iraho aho.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "Ary reko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny feo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "feo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "manao hoe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iza"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "haniriko"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ary iza"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "handeha"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho antsika"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Dia hoy izaho"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Indro aho"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "iraho aho"
+    }
+  ],
+  "timestamp": "2026-08-31T15:03:21.496865875Z",
+  "model": "glm-5.3"
+}

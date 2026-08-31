@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 95,
+  "translation": "Avia, isika hiankohaka sy hiondrika, isika hisaotra eo anatrehan'i Yahveh Mpanao ⟨⟨antsika⟩⟩.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Avia"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "isika hiankohaka"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "sy hiondrika"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "isika hisaotra"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anatrehan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "Mpanao antsika"
+    }
+  ],
+  "timestamp": "2026-08-31T18:13:52.500029655Z",
+  "model": "glm-5.3"
+}

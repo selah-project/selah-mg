@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 14:11",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary nony hitany ⟨את⟩ azy, dia nalain'ireo telo-polo namana, ka niara-nitoetra ⟨את⟩ taminy ireo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nony"
+    },
+    {
+      "surface": "כראותם",
+      "gloss": "hitan'ireo"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (Shimshona hitan'ireo)"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "nalain'ireo"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "telo-polo"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "namana"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ka nitoetra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ taminy",
+      "marks": "tamin'i Shimshona"
+    }
+  ],
+  "timestamp": "2026-08-31T14:10:32.407778170Z",
+  "model": "glm-5.3"
+}

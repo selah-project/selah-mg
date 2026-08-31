@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Tamin'ny ampitso kosa, tonga ny Pelishti hanaisotra ny fitaovan'ireo maty an'ady, ka hitany ⟨את⟩ Shaol sy ⟨את⟩ ny zanany lavo teo amin'tendrombohitra Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Tamin'ny"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ampitso kosa"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Pelishti"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "hanaisotra ny fitaovan'ireo maty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ireo maty an'ady"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "ireo maty an'ady"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ka hitany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaol"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "lavo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "teo amin'tendrombohitra"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-31T17:37:18.338569877Z",
+  "model": "glm-5.3"
+}

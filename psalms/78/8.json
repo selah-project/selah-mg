@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Ary tsy ho tahaka ny razany ireo — taranaka mibeboka sy mandà, taranaka tsy nampanatony ny fony, ary tsy miorina amin'i ⟨את⟩ El ny fanahiny.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ary tsy"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "tahaka ny razany"
+    },
+    {
+      "surface": "דור",
+      "gloss": "taranaka"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "mibeboka"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "sy mandà"
+    },
+    {
+      "surface": "דור",
+      "gloss": "taranaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "nampanatony"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ny fony"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "miorina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ny fanahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:19.836528466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 6:21",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary ianao kosa, makà ho anao amin'ny sakafo rehetra izay azo hanina, ary hanangonao ho ao aminao izany; ary ho anao sy ho azy ireo izany ho sakafo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ary ianao kosa"
+    },
+    {
+      "surface": "קח",
+      "gloss": "makà"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "sakafo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "azo hanina"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ary hanangonao"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho ao aminao"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ary ho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "sy ho azy ireo"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "ho sakafo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:14.911929629Z",
+  "model": "glm-5.3"
+}

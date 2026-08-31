@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary ny fiaran'i Yahveh dia nitoetra tany an-tanin'ny Pelishtina fito volana.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary dia nisy"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "tany an-tanin'"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Pelishtina"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "fito"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "volana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:16:48.991465735Z",
+  "model": "glm-5.3"
+}

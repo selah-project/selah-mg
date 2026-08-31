@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Sy ⟨את⟩ Hukoka sy ⟨את⟩ tany manodidina azy, ⟨את⟩ Rehoba sy ⟨את⟩ tany manodidina azy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Hukoka"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "Hukoka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "tany manodidina azy"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tany manodidina azy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Rehoba"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehoba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "tany manodidina azy"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "tany manodidina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:35:37.607553207Z",
+  "model": "glm-5.3"
+}

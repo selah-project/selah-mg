@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Hitako ⟨את⟩ ny raharaha izay nomen'i Elohim ny zanak'olombelona mba hohantra ao anatiny.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "hitako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny raharaha"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "ny raharaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nomen'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ny zanak'i"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "olombelona"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "mba hohantra"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ao anatiny"
+    }
+  ],
+  "timestamp": "2026-08-31T17:14:44.259936912Z",
+  "model": "glm-5.3"
+}

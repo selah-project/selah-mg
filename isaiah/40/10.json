@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Indro, Adonay Yahveh avy amin'ny hery, ary ny sandriny no manapaka ho azy; indro ny karamany ⟨את⟩ eo anilany, ary ny asany eo anatrehany.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "amin'ny hery"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "avy"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ary ny sandriny"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "manapaka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "ny karamany"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ eo anilany",
+      "marks": "ny karamany (karama)"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "ary ny asany"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "eo anatrehany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:14:44.314626581Z",
+  "model": "glm-5.3"
+}

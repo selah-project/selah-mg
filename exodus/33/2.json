@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Ary haniraka malahaka eo alohanao Aho, ary hanososako ⟨את⟩ ny Kenanita, ny Emorita, ny Hitita, ny Perizita, ny Hivita ary ny Yebosita.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Ary haniraka"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "eo alohanao"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malahaka"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "ary hanososako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Kenanita"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ny Kenanita"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ny Emorita"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "ny Hitita"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ny Perizita"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ny Hivita"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ary ny Yebosita"
+    }
+  ],
+  "timestamp": "2026-08-31T13:07:57.400062674Z",
+  "model": "glm-5.3"
+}

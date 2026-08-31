@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Ary namely Izy ny voalobony sy avi-pikombarany, ary natory ny hazo eo an-tsisin-taniny.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "namely Izy"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "ny voalobony"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "sy avi-pikombarany"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ary natory"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ny hazo"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "eo an-tsisin-taniny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:56.856530802Z",
+  "model": "glm-5.3"
+}

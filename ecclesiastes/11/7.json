@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary mamamy ny mazava, ary tsara amin'ny maso ny mijery ⟨את⟩ ny masoandro.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "ary mamamy"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ny mazava"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ary tsara"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "amin'ny maso"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ny mijery"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny masoandro"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ny masoandro"
+    }
+  ],
+  "timestamp": "2026-08-31T17:17:08.982233292Z",
+  "model": "glm-5.3"
+}

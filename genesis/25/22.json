@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 25:22",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary niady tamin'ny kibony ny zanaka, ka hoy izy: Raha toy izao, nahoana no ho toy izaho? Dia nandeha hitady ⟨את⟩ Yahveh izy.",
+  "tokens": [
+    {
+      "surface": "ויתרצצו",
+      "gloss": "niady"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ny zanaka"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "tamin'ny kibony"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ka hoy izy"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toy izao"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nahoana no"
+    },
+    {
+      "surface": "זה",
+      "gloss": "toy izao"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "dia nandeha"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "hitady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T12:42:13.132954946Z",
+  "model": "glm-5.3"
+}

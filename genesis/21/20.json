@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary Elohim nomba ilay zatovo ⟨את⟩, ka nitombo izy ary nonina tany an-efitra, ary tonga mpandefa tsipìka izy.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ary"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay zatovo"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ilay zatovo"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "nitombo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nonina"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "an-efitra"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "mpandefa tsipìka"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "tsipìka"
+    }
+  ],
+  "timestamp": "2026-08-31T12:40:23.635779363Z",
+  "model": "glm-5.3"
+}

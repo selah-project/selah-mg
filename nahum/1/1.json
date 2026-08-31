@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Enta-mavesatra ny an'i Nineve: bokin'ny fahitana'i Nachum ⟨ilay⟩ Elkoshy.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "enta-mavesatra"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "boky"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "fahitana"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "Nachum"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "Elkoshy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:16:19.712677216Z",
+  "model": "glm-5.3"
+}

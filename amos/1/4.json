@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary halefakao afo ao an-tranon'i Hazaela, ka hanimbany ny lapan'i Ben-Hadada.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Ary halefakao"
+    },
+    {
+      "surface": "אש",
+      "gloss": "afo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ao an-tranon'i"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazaela"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ka hanimbany"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "ny lapan'i"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadada"
+    }
+  ],
+  "timestamp": "2026-08-31T16:11:14.326826421Z",
+  "model": "glm-5.3"
+}

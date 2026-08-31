@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 29:2",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary mofo tsy misy masirasira, sy sakafo madinika tsy misy masirasira mifangaro amin'ny diloilo, ary bozaka tsy misy masirasira voosotra amin'ny diloilo; avy amin'ny lafarinina tsara avy amin'ny vary ḥitim no hanaovana azy ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "Ary mofo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "tsy misy masirasira"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "sy sakafo madinika"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "tsy misy masirasira"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "mifangaro amin'ny"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "diloilo"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "ary bozaka"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "tsy misy masirasira"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "voosotra amin'ny"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "diloilo"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "lafarinina tsara"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "vary ḥitim (katsaka)"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hanaovana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ny mofo rehetra)"
+    }
+  ],
+  "timestamp": "2026-08-31T18:28:47.015496801Z",
+  "model": "glm-5.3"
+}

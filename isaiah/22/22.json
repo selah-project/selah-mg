@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 22:22",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary homeko ny lakatr'ny taranak'i Davida eo an-sorony izy, ka hanokatra izy fa tsy hisy mihidy, ary hihidy izy fa tsy hisy manokatra.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "homeko"
+    },
+    {
+      "surface": "מפתח",
+      "gloss": "lakra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taranak'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "sorony"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "hanokatra"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "fa tsy misy"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "mihidy"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "hihidy"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "fa tsy misy"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "manokatra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:09:13.152256697Z",
+  "model": "glm-5.3"
+}

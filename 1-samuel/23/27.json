@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 23:27",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary tonga tany amin'i Shaol iray iraka nanao hoe: Maika fa mandeha, fa efa nandroso ho nanafika ⟨ny tany⟩ ny Filistina!",
+  "tokens": [
+    {
+      "surface": "ומלאך",
+      "gloss": "ary iray iraka"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tany amin'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "Maika"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "fa mandeha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "nandroso ho nanafika"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Filistina"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨nanafika⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:23:50.720809003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 62,
+  "translation": "Amin'i Elohim ihany, ry fanahiko, no manginanao, fa Aminy ny fanantenako.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ihany"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Amin'i Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "no manginanao"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ry fanahiko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "Aminy"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "ny fanantenako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:55.528778912Z",
+  "model": "glm-5.3"
+}

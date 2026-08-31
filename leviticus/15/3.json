@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary ity no fahalotoany amin'ny fifivoarany: na mandeha ⟨את⟩ ny fifivoarany ny nofony, na voahidy ny nofony ka tsy mandeha ny fifivoarany, dia izao no fahalotoany.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Ary ity"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "no"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "fahalotoany"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "amin'ny fifivoarany"
+    },
+    {
+      "surface": "רר",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ny nofony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fifivoarany"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "fifivoarany"
+    },
+    {
+      "surface": "או",
+      "gloss": "na"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "voahidy"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ny nofony"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "ny fifivoarany"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "fahalotoany"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izao no"
+    }
+  ],
+  "timestamp": "2026-08-31T13:16:36.524461431Z",
+  "model": "glm-5.3"
+}

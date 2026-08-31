@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 107,
+  "translation": "Noana koa sady mangetaheta, ny fanahiny ao anatiny ⟨dia⟩ vizana.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "Noana"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "sady mangetaheta"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ny fanahiny"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ao anatiny"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "vizana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:10.792557Z",
+  "model": "glm-5.3"
+}

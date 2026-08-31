@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 62:6",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 62,
+  "translation": "Teo amin'ny mandanao, ry Yeroshalayim, efa nametraka mpitandry Aho, amin'ny andro rehetra sy amin'ny alina rehetra, tsy mba hangina mandrakariva izy; ianareo mpahatsiaro an'i Yahveh, aza mangina ho anareo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "teo amin'ny"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "mandanao"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    },
+    {
+      "surface": "הפקדתי",
+      "gloss": "efa nametraka Aho"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "mpitandry"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "היום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy amin'ny ... rehetra"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "alina"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mandrakariva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy mba"
+    },
+    {
+      "surface": "יחשו",
+      "gloss": "hangina"
+    },
+    {
+      "surface": "המזכרים",
+      "gloss": "mpahatsiaro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "mangina"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:21:52.675461146Z",
+  "model": "glm-5.3"
+}

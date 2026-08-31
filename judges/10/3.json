@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary nitsangana aoriany Jaira ilay Giladita, ka nanjara ⟨את⟩ i Yisraela amby roapolo taona.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nitsangana"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "aoriany"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Jaira"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": " ilay Giladita"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "nanjara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "amby roapolo"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "roa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    }
+  ],
+  "timestamp": "2026-08-31T14:09:19.568419972Z",
+  "model": "glm-5.3"
+}

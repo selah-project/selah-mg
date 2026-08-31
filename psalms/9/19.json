@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Fa tsy ho any amin'ny farany hanampoana ny malahelo; tsy ho very mandrakizay ny fanantenan'ny fanetry tena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ho any amin'ny farany"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "hanampoana"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ny malahelo"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "ny fanantenana"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ny fanetry tena"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ho very"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "mandrakizay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:44.071477677Z",
+  "model": "glm-5.3"
+}

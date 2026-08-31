@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary izay mandeka ⟨את⟩ olona ka mamadika azy, na hita ao an-tànany izy, dia maty tokoa no hovonoina.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "Ary izay mandeka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "ka mamadika azy"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "na hita"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ao an-tànany"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maty tokoa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "no hovonoina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:02:43.223802838Z",
+  "model": "glm-5.3"
+}

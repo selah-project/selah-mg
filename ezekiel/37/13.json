@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 37:13",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Dia ho fantatrareo fa izaho no Yahveh, rehefa manokatra ny fasikoareo ⟨את⟩ Aho, ka mananganareo an-kalamanirana avy ao amin'ny fasinareo, ry oloko.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "ho fantatrareo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "rehefa manokatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fasinareo"
+    },
+    {
+      "surface": "קברותיכם",
+      "gloss": "ny fasinareo"
+    },
+    {
+      "surface": "ובהעלותי",
+      "gloss": "ka mananganareo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo",
+      "marks": "anareo"
+    },
+    {
+      "surface": "מקברותיכם",
+      "gloss": "avy ao amin'ny fasinareo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ry oloko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:02:26.718009238Z",
+  "model": "glm-5.3"
+}

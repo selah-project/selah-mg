@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 10:5",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "sy ny sakafo eo amin'ny latabany, sy ny fipetrahan'ny mpanompony, sy ny fitsanganan'ny mpanompo mpitory, sy ny fitafiany, ary ny mpisotro, ary ny fanatitra dorany izay atony ao an-tranon'i Yahveh — ka tsy nisy fanahy intsony tao aminy.",
+  "tokens": [
+    {
+      "surface": "ומאכל",
+      "gloss": "sy ny sakafo"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "ny latabany"
+    },
+    {
+      "surface": "ומושב",
+      "gloss": "sy ny fipetrahan'ny"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "mpanompony"
+    },
+    {
+      "surface": "ומעמד",
+      "gloss": "sy ny fitsanganan'ny"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "mpanompo mpitory"
+    },
+    {
+      "surface": "ומלבשיהם",
+      "gloss": "sy ny fitafiany"
+    },
+    {
+      "surface": "ומשקיו",
+      "gloss": "sy ny mpisotro"
+    },
+    {
+      "surface": "ועלתו",
+      "gloss": "sy ny fanatitra dorany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "atony"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ao an-tranon'ny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nisy"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tao aminy"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fanahy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:43:30.915979836Z",
+  "model": "glm-5.3"
+}

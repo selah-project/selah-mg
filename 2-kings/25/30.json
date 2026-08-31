@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary ny fihinanany — fihinana mponina — nomena azy avy amin'ny mpanjaka, isan'andro araka ny androny, tamin'ny andro rehetra amin'ny andron'ny fiainany.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "Ary ny fihinanany"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "fihinana"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mponina"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "nomena"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "avy amin'ny ⟨את⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "יום",
+      "gloss": "isan'andro"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "araka ny androny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "andro"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "fiainany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:00:52.123977894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 102,
+  "translation": "Nanetry tamin'ny lalana ny heriko; nanaparitany ny androiko.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "nanetry"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tamin'ny lalana"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "ny heriko"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "nanaparitany"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ny androiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:06.272861768Z",
+  "model": "glm-5.3"
+}

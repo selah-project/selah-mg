@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 5:3",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Izaho mahalala an'i Efraima, ary Yisraela tsy miafina amiko; fa ankehitriny, ry Efraima, ianao efa nijangajanga; voaloto Yisraela.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "an'i Efraima"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ary Yisraela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "miafina"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ankehitriny"
+    },
+    {
+      "surface": "הזנית",
+      "gloss": "ianao efa nijangajanga"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ry Efraima"
+    },
+    {
+      "surface": "נטמא",
+      "gloss": "voaloto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    }
+  ],
+  "timestamp": "2026-08-31T16:08:06.539092696Z",
+  "model": "glm-5.3"
+}

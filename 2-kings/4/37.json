@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 4:37",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary tonga izy ka lavo tamin'ny tongony ary niankohifa tamin'ny tany, dia nitondra ⟨את⟩ ny zanany ka nivoaka.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "tonga izy"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "lavo"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "tongony"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "niankohifa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "tamin'ny tany"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "nitondra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "nivoaka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:53:17.037395160Z",
+  "model": "glm-5.3"
+}

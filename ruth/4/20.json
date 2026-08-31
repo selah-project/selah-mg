@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary Aminadaba niteraka ⟨את⟩ an'i Nakhshona, ary Nakhshona niteraka ⟨את⟩ an'i Salmaha.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "Ary Aminadaba"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Nakhshona"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nakhshona"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "ary Nakhshona"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Salmaha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salmaha"
+    }
+  ],
+  "timestamp": "2026-08-31T17:11:39.332267621Z",
+  "model": "glm-5.3"
+}

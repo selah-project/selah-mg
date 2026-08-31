@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ity no bokin'ny taranak'i Adam. Tamin'ny andro nahaforonin'i Elohim an'i Adam, dia nataony tamin'ny endrika tahaka an'i Elohim ⟨izy⟩ ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ity"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "boky"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "taranaka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "nahaforony"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "tamin'ny endrika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "izy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:16.024761179Z",
+  "model": "glm-5.3"
+}

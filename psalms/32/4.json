@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Satria andro aman'alina ny tànanao mavesatra amboniko; very hetaheta aho — maina toy ny fahavaratra. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Satria"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "andro"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "aman'alina"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "mavesatra"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "amboniko"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ny tànanao"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "very hetaheta — niova"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "hetaheta"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "maina toy ny"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "fahavaratra"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:23.900143968Z",
+  "model": "glm-5.3"
+}

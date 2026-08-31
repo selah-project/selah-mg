@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary ankehitriny ozona ianao, miala amin'ny tany, izay nanokatra ⟨את⟩ ny vavany haka ⟨את⟩ ny ran'ny rahalahinao avy tamin'ny tànanao.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ary ankehitriny"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "ozona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "מן",
+      "gloss": "miala amin'ny"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "nanokatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vavany"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ny vavany"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "haka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ran'ny rahalahinao"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ny ran'ny"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "rahalahinao"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "avy tamin'ny tànanao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:03.609149052Z",
+  "model": "glm-5.3"
+}

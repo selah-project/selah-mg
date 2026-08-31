@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 12:2",
+  "book": "daniel",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary maro amin'izay matory ao amin'ny vovoka amin'ny tany no hifohazana; ireo ho amin'ny fiainana mandrakizay, ary ireo ho amin'ny fahafaham-baraka sy ny fahavetavetana mandrakizay.",
+  "tokens": [
+    {
+      "surface": "ורבים",
+      "gloss": "Ary maro"
+    },
+    {
+      "surface": "מישני",
+      "gloss": "amin'izay matory"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ao amin'ny vovoka"
+    },
+    {
+      "surface": "יקיצו",
+      "gloss": "no hifohazana"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "לחיי",
+      "gloss": "ho amin'ny fiainana"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "ary ireo"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "ho amin'ny fahafaham-baraka"
+    },
+    {
+      "surface": "לדראון",
+      "gloss": "sy ny fahavetavetana"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mandrakizay"
+    }
+  ],
+  "timestamp": "2026-08-31T17:25:53.516000972Z",
+  "model": "glm-5.3"
+}

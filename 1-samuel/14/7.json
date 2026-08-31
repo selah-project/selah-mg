@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 14:7",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary nitomboka taminy ilay nitondra ny fiadiany ka nanao hoe: Ataovy izay rehetra ao am-ponao; mandrosoa fa indreo aho miaraka aminao araka ny fonao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary...nanao hoe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ilay nitondra"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ny fiadiany"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Ataovy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ao am-ponao"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "mandrosoa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "(ho anao)"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "indreo aho"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "miaraka aminao"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "araka ny fonao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:19:05.729062791Z",
+  "model": "glm-5.3"
+}

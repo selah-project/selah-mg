@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 53,
+  "translation": "Ho an'ny mpitarika, araka an'i Machalath, fampianarana nataon'i David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho an'ny mpitarika"
+    },
+    {
+      "surface": "על",
+      "gloss": "araka"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalath"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "fampianarana"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nataon'i David"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:06.369959368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Fa tsy mba natao toy ny Pesach ity hatramin'ny andron'ny mpitsara izay nitsara ⟨את⟩ an'i Israela, na amin'ny andro rehetra nanjakan'ny mpanjakan'i Israela sy ny mpanjakan'i Yehuda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "natao"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "toy ny Pesach"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity ... ity"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "hatramin'ny andron'ny"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "mpitsara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "nitsara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Israela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "na amin'ny ... rehetra"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "andro"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "nanjakan'ny mpanjakan'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israela"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "sy ny mpanjakan'i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-31T15:01:12.745194280Z",
+  "model": "glm-5.3"
+}

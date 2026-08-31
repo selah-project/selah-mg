@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Fa rehefa niantsoaka kosa izy ireo, dia nifaly ka niangona; niangona niady tamiko ny mpandratra, ka tsy fantatro izany; nivadika izy ka tsy nijanona.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "Fa rehefa niantsoaka kosa izy ireo"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "dia nifaly"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "ka niangona"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "niangona"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "niady tamiko"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "ny mpandratra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "fantatro"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "nivadika izy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "nijanona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:26.030086383Z",
+  "model": "glm-5.3"
+}

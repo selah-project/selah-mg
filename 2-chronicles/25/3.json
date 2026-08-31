@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary tamin'ny naha-matanjaka ny fanjakana taminy dia novonoiny ⟨את⟩ ny mpanompony izay namono an'ny mpanjaka rainy.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary tamin'ny"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "naha-matanjaka"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ny fanjakana"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "novonoiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanompony"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ny mpanompony"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "izay namono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanjaka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "an'ny mpanjaka"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rainy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:20:48.354848561Z",
+  "model": "glm-5.3"
+}

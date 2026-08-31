@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "ilay diany, sy ny gazela, sy ny yahmur, sy ny ako, sy ny dishon, sy ny teo, ary ny zamer.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "ilay diany"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "sy ny gazela"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "sy ny yahmur"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "sy ny ako"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "sy ny dishon"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "sy ny teo"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "ary ny zamer"
+    }
+  ],
+  "timestamp": "2026-08-31T13:45:05.546047401Z",
+  "model": "glm-5.3"
+}

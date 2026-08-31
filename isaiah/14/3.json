@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 14:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary hiseho izany amin'ny andro hanomezan'i Yahveh fiatoana anao, hialana amin'ny fahorianao sy amin'ny fikorontananao, ary amin'ny asa fanompoana mafy izay natao taminao.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ary hiseho izany"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "hanome fiatoana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "מעצבך",
+      "gloss": "amin'ny fahorianao"
+    },
+    {
+      "surface": "ומרגזך",
+      "gloss": "sy amin'ny fikorontananao"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ary amin'ny"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "asa fanompoana"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "mafy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "natao"
+    },
+    {
+      "surface": "בך",
+      "gloss": "taminao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:05:49.441953177Z",
+  "model": "glm-5.3"
+}

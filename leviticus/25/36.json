@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Aza maka ⟨את⟩ aminy zahavola sy tombontsoa; fa matahora ny Elohimao, mba ho velona ny rahalahinao eo aminao.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "maka"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ aminy",
+      "marks": "zahavola sy tombontsoa"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "zahavola"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "sy tombontsoa"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "matahora"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "ny Elohimao"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "mba ho velona"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ny rahalahinao"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "eo aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:20:50.576978908Z",
+  "model": "glm-5.3"
+}

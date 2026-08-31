@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 21:23",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Fa amin'ny efitra lamba fotsiny no tsy hidirany, sy amin'ny alitara tsy hanatony, satria misy tsy fahatanterahana aminy; ary tsy hanoto ⟨את⟩ ny fivavahan'i Izahay, fa Izaho Yahveh no manamasina azy.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "fa ... fotsiny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "efitra lamba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "hidirany"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sy amin'ny"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "hanatony"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "מום",
+      "gloss": "tsy fahatanterahana"
+    },
+    {
+      "surface": "בו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "hanoto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fivavahan'i Izahay"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "fivavahan'i Izahay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "manamasina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:18:56.056718815Z",
+  "model": "glm-5.3"
+}

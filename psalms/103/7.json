@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 103,
+  "translation": "Manambara ny lalany tamin'i Moshe, ny asany tamin'ny zanak'i Yisrael.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "Manambara"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ny lalany"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "tamin'i Moshe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "tamin'ny zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "ny asany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:17.148857463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ity ny biby azo haninareo: ny omby, ny zanak'ondry, ary ny zanak'osy.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ity"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "biby"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "azo haninareo (izay)"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "haninareo"
+    },
+    {
+      "surface": "שור",
+      "gloss": "omby"
+    },
+    {
+      "surface": "שה",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "ondry"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ary zanak'"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "osy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:44:30.259189262Z",
+  "model": "glm-5.3"
+}

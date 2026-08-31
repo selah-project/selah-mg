@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Fa tsy hafenanao ny aiko ho any amin'ny Sheol, tsy homeko ny hasidinao hahita faharavana",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "hafenanao"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ho any amin'ny Sheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "homeko"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "ny hasidinao"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hahita"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "faharavana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:09.199103900Z",
+  "model": "glm-5.3"
+}

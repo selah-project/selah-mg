@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 63:8",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 63,
+  "translation": "Ary hoy Izy: Indro fa olomy izy ireo, zanaka tsy mandainga; ka Izy no tonga mpamonjy azy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy Izy"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Indro fa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "olomy"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy ireo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישקרו",
+      "gloss": "mandainga"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ka Izy no tonga"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "למושיע",
+      "gloss": "mpamonjy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:21:57.384812349Z",
+  "model": "glm-5.3"
+}

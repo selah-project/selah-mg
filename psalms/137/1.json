@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 137,
+  "translation": "Tenin'ireto misy an'i Babilona ankehitriny: Tamin'ny renirano tsy hita mena tao amin'ny tany nampiantranoina — tsy noraharahiana ny hira ka tsy nisy nampahatsiahy azy.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Tamin'ny"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "renirano"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "an'i Babilona"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "nipetraka izahay"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "nitomany izahay"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "tamin'ny fahatsiarovantsika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Ziona"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "an'i Ziona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:48.030038128Z",
+  "model": "glm-5.3"
+}

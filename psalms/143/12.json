@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 143,
+  "translation": "Ary amin'ny hesedinao dia fandaozo ny fahaviloako, ary ravao izay rehetra mampahory ny aiko; fa zanak'asa nify ianao — mpanomponao aho.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "amin'ny hesedinao"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "fandaozo"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ny fahaviloako"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "ary ravao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "mampahory"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aho"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mpanomponao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:33.548264925Z",
+  "model": "glm-5.3"
+}

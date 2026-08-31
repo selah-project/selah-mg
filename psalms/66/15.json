@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 66,
+  "translation": "Hanatitra dorana matavy ho anao aho, miaraka amin'ny setroka fanitihana avy amin'ny ondry aman'osy mahery; hanao omby aho miaraka amin'ny osilahy. Selah.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "fanatitra dorana"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "matavy"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "hanatitra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "עם",
+      "gloss": "miaraka amin'ny"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "setroka fanitihana"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "ony mahery"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "omby"
+    },
+    {
+      "surface": "עם",
+      "gloss": "miaraka amin'ny"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "osilahy"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:55.771486044Z",
+  "model": "glm-5.3"
+}

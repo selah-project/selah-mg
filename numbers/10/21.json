@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary niainga ny Kehatita, izay mitondra ny zava-masina, ka ⟨izy hafa⟩ nanangana ⟨את⟩ ny trano-lay mandra-pahatongan'ny fahatongany.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "Ary niainga"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "ny Kehatita"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "izay mitondra"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "ny zava-masina"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "ka nanangana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny trano-lay"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ny trano-lay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-pahatongan'ny"
+    },
+    {
+      "surface": "באם",
+      "gloss": "fahatongany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:27:12.132940026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary nahita Yaakov ⟨את⟩ ny tavan'i Lavanana, ary indro, tsy mba taminy intsony toy ny omaly sy ny omaly aloha izy.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nahita"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavan'i Lavanana"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ny tavan'i"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavanana"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ary indro"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "tsy mba taminy intsony"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tamy"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "toy ny omaly"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "sy ny omaly aloha"
+    }
+  ],
+  "timestamp": "2026-08-31T12:46:11.587673863Z",
+  "model": "glm-5.3"
+}

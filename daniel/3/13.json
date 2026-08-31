@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 3:13",
+  "book": "daniel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Tamin'izay Nebukadnetsara tamin'ny fahatezerana sy ny fahavinirana nanao teny hitondrana an'i Shadrach, Meshach ary Abednego; ary tamin'izay ireo lehilahy ireo dia nampidirina teo anatrehan'ny mpanjaka.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "tamin'izay"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnetsara"
+    },
+    {
+      "surface": "ברגז",
+      "gloss": "tamin'ny fahatezerana"
+    },
+    {
+      "surface": "וחמה",
+      "gloss": "sy ny fahavinirana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nano teny"
+    },
+    {
+      "surface": "להיתיה",
+      "gloss": "hitondrana"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "an'i Shadrach"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meshach"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ary"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Abednego"
+    },
+    {
+      "surface": "באדין",
+      "gloss": "ary tamin'izay"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "היתיו",
+      "gloss": "nampidirina"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "teo anatrehan'ny"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mpanjaka"
+    }
+  ],
+  "timestamp": "2026-08-31T17:22:21.327033524Z",
+  "model": "glm-5.3"
+}

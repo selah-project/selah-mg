@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary hoy Yahveh: Yehuda no hiakatra; indro, efa nomenako ⟨את⟩ ny tany ho ao an-tànany.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "hiakatra"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "efa nomenako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ho ao an-tànany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:03:50.621518248Z",
+  "model": "glm-5.3"
+}

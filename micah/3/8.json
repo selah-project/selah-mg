@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Fa izaho kosa dia feno hery, ⟨את⟩ fanahin'i Yahveh, sy fitsarana ary herim-po, hanambara amin'i Yaakov ny fivadihany sy amin'i Isiraely ny fahotany.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Fa kosa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "feno"
+    },
+    {
+      "surface": "כח",
+      "gloss": "hery"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fanahin'i Yahveh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "sy fitsarana"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "ary herim-po"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "hanambara"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "amin'i Yaakov"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "ny fivadihany"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "sy amin'i Isiraely"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "ny fahotany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:14:34.294154434Z",
+  "model": "glm-5.3"
+}

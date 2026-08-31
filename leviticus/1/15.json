@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary ny mpisorona hanatitra azy eo amin'ny alitara, hamototra ⟨את⟩ ny lohany, ary hanatsipy amin'ny alitara; ary hasosorana amin'ny rindrin'ny alitara ny ràny.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "hanatitra azy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eo amin'"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ny alitara"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "hamototra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lohany"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ny lohany"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "hanatsipy"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "amin'ny alitara"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "hasosorana"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ny ràny"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "rindrin'"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ny alitara"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:19.117298619Z",
+  "model": "glm-5.3"
+}

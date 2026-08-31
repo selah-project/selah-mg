@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 116,
+  "translation": "Malala-tanana Yahveh ary marina, ary ny Elohim antsika miantra.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "malala-tanana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ary marina"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "ary ny Elohim antsika"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "miantra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:41.810386602Z",
+  "model": "glm-5.3"
+}

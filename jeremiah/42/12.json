@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Ary hanome famindram-po anareo Aho, ka hiamindra-po ⟨את⟩ aminareo, ary hampody ⟨את⟩ anareo ho amin'ny taninareo.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Ary hanome"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "famindram-po"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "ka hiamindra-po"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "aminareo"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "ary hampody"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho amin'ny"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "taninareo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:42:39.185870472Z",
+  "model": "glm-5.3"
+}

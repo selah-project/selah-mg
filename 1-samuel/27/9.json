@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 27:9",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ary David namely ⟨את⟩ ny tany, ka tsy navelany hisy lehilahy sy vehivavy velona; ary nalainy ny ondry aman'osy sy ny omby sy ny boriky sy ny rameva sy ny fitafiana, ka niverina izy ka tonga tany amin'i Akish.",
+  "tokens": [
+    {
+      "surface": "והכה",
+      "gloss": "namely"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "navelany hisy... velona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "sy vehivavy"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "ary nalainy"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ny ondry aman'osy"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "sy ny omby"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "sy ny boriky"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "sy ny rameva"
+    },
+    {
+      "surface": "ובגדים",
+      "gloss": "sy ny fitafiana"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ka niverina"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ka tonga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tany amin'i"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    }
+  ],
+  "timestamp": "2026-08-31T14:26:19.850697645Z",
+  "model": "glm-5.3"
+}

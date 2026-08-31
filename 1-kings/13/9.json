@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Fa toy izao no nandidian'i Yahveh ahy tamin'ny teny, hoe: Tsy hihinan-kanina ianao, ary tsy hisotro rano, ary tsy hiverina amin'ny lalana izay nodiavinao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toy izao"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidy"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ahy"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "tamin'ny teny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "hihinan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kanina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "hisotro"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "hiverina"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "amin'ny lalana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "nodiavinao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:46:05.445905265Z",
+  "model": "glm-5.3"
+}

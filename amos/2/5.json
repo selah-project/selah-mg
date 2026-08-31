@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary hanafatra afo ao amin'i Yehuda izaho, ka hihanin-dry zareo ny lapan'i Yeroshalayim.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "hanafatra"
+    },
+    {
+      "surface": "אש",
+      "gloss": "afo"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ao amin'i Yehuda"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ka hihanin-dry zareo"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "ny lapa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "i Yeroshalayim"
+    }
+  ],
+  "timestamp": "2026-08-31T16:10:54.280994540Z",
+  "model": "glm-5.3"
+}

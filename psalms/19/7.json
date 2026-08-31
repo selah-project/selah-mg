@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Avy amin'ny faran'ny lanitra no iveloman'ny masoandro, ary ny fihodinany mandra-pahatany farany; ary tsy misyafenina amin'ny hafananany.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "avy amin'ny farany"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "lanitra"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "iveloman'ny masoandro"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "ary ny fihodinany"
+    },
+    {
+      "surface": "על",
+      "gloss": "mandra-pahatany"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "farany"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ary tsy misy"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "afenina"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "amin'ny hafananany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:02.792731976Z",
+  "model": "glm-5.3"
+}

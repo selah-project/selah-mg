@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Toy ny oram-panala amin'ny fahavaratra ary toy ny orana amin'ny fararano, dia toy izany no tsy mifanaraka ny voninahitra amin'ny adala.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "toy ny oram-panala"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "amin'ny fahavaratra"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "ary toy ny orana"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "amin'ny fararano"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toy izany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "mifanaraka"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "amin'ny adala"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "voninahitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:56:46.812068102Z",
+  "model": "glm-5.3"
+}

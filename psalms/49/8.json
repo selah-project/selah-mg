@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 49,
+  "translation": "Tsy mahavonjy ny rahalahiny mihitsy ny olona; tsy mahazo manome ny fanavotany ho an'i Elohim,",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "ny rahalahiny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "mahavonjy"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "mahavonjy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "mahazo manome"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ho an'i Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "ny fanavotany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:30:11.981255493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 18:7",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary nihazakazaka nankany amin'ny omby Avraham, ka naka zanak'omby malemy sy tsara, dia nomeny ny zatovo, ary izy faingana namboatra ⟨את⟩ azy.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "nankany amin'ny"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "omby"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "nihazakazaka"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ka naka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "omby"
+    },
+    {
+      "surface": "רך",
+      "gloss": "malemy"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "sy tsara"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dia nomeny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "zatovo"
+    },
+    {
+      "surface": "וימהר",
+      "gloss": "faingana"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "namboatra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ilay zanak'omby)"
+    }
+  ],
+  "timestamp": "2026-08-31T18:27:35.095635245Z",
+  "model": "glm-5.3"
+}

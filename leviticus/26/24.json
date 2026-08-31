@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "dia handeha koa aho amin'ny fanoherana aminareo, ary hamely ⟨ianareo⟩ koa izaho fito noho ny fahotanareo.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "dia handeha"
+    },
+    {
+      "surface": "אף",
+      "gloss": "koa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aho"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "aminareo"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "amin'ny fanoherana"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "ary hamely"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ianareo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "fito"
+    },
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "ny fahotanareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:22:48.622799638Z",
+  "model": "glm-5.3"
+}

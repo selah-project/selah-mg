@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary ny olona naka ⟨את⟩ ny vatony tsy mbola nangatsiaka, ny tontsony voafatra anaty lambany namponeniny anaty harany.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "naka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vatony"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "vatony"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "tsy mbola"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "nangatsiaka"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "tontsony"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "voafatra"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "anaty lambany"
+    },
+    {
+      "surface": "על",
+      "gloss": "namponeniny anaty"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "harany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:58.544359547Z",
+  "model": "glm-5.3"
+}

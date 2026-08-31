@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 11:18",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary ataovy ⟨את⟩ ireo teniko ireo eo am-ponareo sy eo amin'ny fanahinareo; ary ataovy famantarana eo an-tanànareo izy ireo, ary ho perika eo anelanelan'ny masonareo izy ireo.",
+  "tokens": [
+    {
+      "surface": "ושמתם",
+      "gloss": "ataovy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ireo teniko ireo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "teniko"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ireo ... ireo"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "am-ponareo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy eo amin'ny"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "fanahinareo"
+    },
+    {
+      "surface": "וקשרתם",
+      "gloss": "ataovy famantarana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "famantarana"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "famantarana"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "tanànareo"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לטוטפת",
+      "gloss": "perika"
+    },
+    {
+      "surface": "בין",
+      "gloss": "eo anelanelan'ny"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "masonareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:42:38.235730906Z",
+  "model": "glm-5.3"
+}

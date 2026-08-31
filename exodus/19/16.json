@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 19:16",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary tamin'ny andro fahatelo, tamin'ny maraina, dia nisy kotrokotroka sy tselatra, ary rahona mavesatra teo ambony ny tendrombohitra, ary feo sofina mahery indrindra, ka nihorohoro ny olona rehetra tao an-toby.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary dia"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "fahatelo"
+    },
+    {
+      "surface": "בהית",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "maraira"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "nisy"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "kotrokotroka"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "sy tselatra"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "ary rahona"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "mavesatra"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo ambony"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ny tendrombohitra"
+    },
+    {
+      "surface": "וקל",
+      "gloss": "ary feo"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "sofina"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "indrindra"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "ka nihorohoro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny olona rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "t"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "an-toby"
+    }
+  ],
+  "timestamp": "2026-08-31T17:57:06.422388961Z",
+  "model": "glm-5.3"
+}

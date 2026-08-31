@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Dia nivadika aho ka nidina avy tamin'ny tendrombohitra, ary nametraka ⟨את⟩ ny takelaka tao anaty ny fiara izay nataoko; ary tao izy ireo, araka ny nandidian'i Yahveh ahy.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "dia nivadika aho"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "ka nidina"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "tamin'ny tendrombohitra"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ary nametraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny takelaka"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "ny takelaka"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "tao anaty ny fiara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nataoko"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ary tao izy ireo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "nandidian'i Yahveh ahy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:42:45.098511291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 118,
+  "translation": "Mandroso am-pon'ahatra ny tanana ankavanan'i Yahveh; ny tanana ankavanan'i Yahveh manao herim-po.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "tanana ankavanana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "mandroso am-pon'ahatra"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "tanana ankavanana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "manao"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "herim-po"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:42.022644592Z",
+  "model": "glm-5.3"
+}

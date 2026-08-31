@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Lavaka nolavany ka nolavainy lalina; ka lavo izy ao anaty lavaka nataony.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "Lavaka"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "nolavany"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "ka nolavainy lalina"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ka lavo izy"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "ao anaty lavaka"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "nataony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:55.666026566Z",
+  "model": "glm-5.3"
+}

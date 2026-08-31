@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary hoy izy: Andeha ⟨את⟩ amiko, ka jereo ny fahatelezako ho an'i Yahveh; dia nampitaingina tamin'ny kalesiny izy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Andeha"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ amiko"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ka jereo"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "ny fahatelezako"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "dia nampitaingina"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ izy",
+      "marks": "izy (Yehonadaba)"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "tamin'ny kalesiny"
+    }
+  ],
+  "timestamp": "2026-08-31T14:55:04.277866101Z",
+  "model": "glm-5.3"
+}

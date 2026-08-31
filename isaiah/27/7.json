@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Va tahaka ny namely an'ilay namely azy no namely azy? Va araka ny famonoana ny novonoiny no namonoana azy?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "Va tahaka ny namely"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "an'ilay namely azy"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "no namely azy"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Va"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "araka ny famonoana"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "ny novonoiny"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "no namonoana azy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:08:50.316439300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Namono ny hena nomaniny izy; nafangaro ny divainy; ary nametraka koa ny latabany.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "Namono"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "ny hena nomaniny"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "nafangaro"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "ny divainy"
+    },
+    {
+      "surface": "אף",
+      "gloss": "koa"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "nametraka"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "ny latabany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:50:29.578751049Z",
+  "model": "glm-5.3"
+}

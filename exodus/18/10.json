@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 18:10",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary Jetro nanao hoe: Sambatra i Yahveh, izay nanafaka ⟨את⟩ianareo tamin'ny tanan'i Mitsrayim sy tamin'ny tanan'i Parao, izay nanafaka ⟨את⟩ ny vahoaka ambany tondrin'i Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jetro"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Sambatra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "nanafaka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ianareo",
+      "marks": "ianareo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tamin'ny tanan'i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "sy tamin'ny tanan'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "nanafaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ambany"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tondrin'i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T13:00:54.052875439Z",
+  "model": "glm-5.3"
+}

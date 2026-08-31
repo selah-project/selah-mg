@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Mandroba olombelona va ny Elohim? Fa ianareo no mandroba Ahy ⟨את⟩. Nefa ianareo milaza hoe: Amin'inona no nanadravana Anao? Amin'ny fahafolo sy ny fanatitra.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "Mandroba... va"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olombelona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ianareo"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "mandroba"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Ahy"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "Nefa ianareo milaza hoe"
+    },
+    {
+      "surface": "במה",
+      "gloss": "Amin'inona"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "nanadravana Anao"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "fahafolo"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "sy ny fanatitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:53.030566336Z",
+  "model": "glm-5.3"
+}

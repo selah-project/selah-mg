@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary lasa nandeha ny Zanak'i Isiraely ka nanao araka ny nandidian'i Yahveh an'i Moshe sy Aharona; dia izay no nataony.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "lasa nandeha"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ka nanao"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidian'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "sy Aharona"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "no nataony"
+    }
+  ],
+  "timestamp": "2026-08-31T12:59:22.157974066Z",
+  "model": "glm-5.3"
+}

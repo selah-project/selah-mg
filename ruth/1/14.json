@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ruth 1:14",
+  "book": "ruth",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Dia nampakatra ny feony ka nitomany indray; ary Orpah nanoroka ny rafoambany, fa Ruta kosa nifikitra taminy.",
+  "tokens": [
+    {
+      "surface": "ותשנה",
+      "gloss": "dia nampakatra"
+    },
+    {
+      "surface": "קולן",
+      "gloss": "ny feony"
+    },
+    {
+      "surface": "ותבכינה",
+      "gloss": "ka nitomany"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "indray"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "nanoroka"
+    },
+    {
+      "surface": "ערפה",
+      "gloss": "Orpah"
+    },
+    {
+      "surface": "לחמותה",
+      "gloss": "ny rafoambany"
+    },
+    {
+      "surface": "ורות",
+      "gloss": "fa Ruta kosa"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "nifikitra"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tamin'"
+    }
+  ],
+  "timestamp": "2026-08-31T17:12:02.824148291Z",
+  "model": "glm-5.3"
+}

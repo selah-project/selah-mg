@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary ny lehilahy avy any Bavel nanao ⟨את⟩ an'i Sukkot-Benot, ary ny lehilahy avy any Kuta nanao ⟨את⟩ an'i Nergal, ary ny lehilahy avy any Hamata nanao ⟨את⟩ an'i Ashima.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "Ary ny lehilahy avy any"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Sukkot-Benot"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benot"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ary ny lehilahy avy any"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kuta"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Nergal"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergal"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ary ny lehilahy avy any"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamata"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Ashima"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Ashima"
+    }
+  ],
+  "timestamp": "2026-08-31T14:59:01.022249544Z",
+  "model": "glm-5.3"
+}

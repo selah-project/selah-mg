@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary raha misy lehilahy maka ⟨את⟩ vavy sy ⟨את⟩ ny reniny, zima izany; amin'ny afo no hodorany ⟨את⟩ azy sy ⟨את⟩ izy ireo, ary tsy hisy zima ⟨ho⟩ eo aminareo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ary raha misy lehilahy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "maka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vavy"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vavy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny reniny"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ny reniny"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "zima"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "באש",
+      "gloss": "amin'ny afo"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "no hodorany"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "sy ⟨את⟩",
+      "marks": "izy ireo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "hisy"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "zima"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "eo aminareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:15.443870815Z",
+  "model": "glm-5.3"
+}

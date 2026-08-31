@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary nahafatra ⟨את⟩ ny mpanjaka izy ka nanentana ⟨את⟩ azy ho any amin'ny mpanjakan'i Babylona, any Rivla; ary nitsara azy izy.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "nahafatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanjaka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "nanentana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'i"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bablona"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "any Rivla"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "nitsara"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "fitsarana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:01:00.893715301Z",
+  "model": "glm-5.3"
+}

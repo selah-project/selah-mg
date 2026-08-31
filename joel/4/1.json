@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 4:1",
+  "book": "joel",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Fa indro, amin'izay andro ireo sy amin'izay fotoana izay, izay hampodiko ⟨את⟩ ny fiverenan'ny Yehouda sy Yeroshalayim —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "amin'izay andro ireo"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "sy amin'izay fotoana"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "hampodiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiverenan'ny Yehouda sy Yeroshalayim"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ny fiverenan'ny fahababoana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "sy Yeroshalayim"
+    }
+  ],
+  "timestamp": "2026-08-31T16:11:05.373692331Z",
+  "model": "glm-5.3"
+}

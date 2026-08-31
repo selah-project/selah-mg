@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-samuel 20:33",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary Shaol nandatsaka ny lefona tambohosany mba hahafaty azy ⟨את⟩, ka fantatr'i Yehonatan fa efa raiki-tamby avy amin'ny rainy ny hamono an'i Davida ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "nandatsaka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lefona"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "ny lefona"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tambohosany"
+    },
+    {
+      "surface": "להכתו",
+      "gloss": "mba hahafaty azy"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ka fantatr'i"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "efa raiki-tamby"
+    },
+    {
+      "surface": "היא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rainy"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ny hamono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    }
+  ],
+  "timestamp": "2026-08-31T14:23:04.439561179Z",
+  "model": "glm-5.3"
+}

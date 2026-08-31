@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Volotsiona torotoro tsy hovakiny, ary ramy efa dim tsy hasesoniny; amin'ny fahamarinana no hitondrany fitsarana.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "Volotsiona"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "torotoro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "hovakiny"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "ary ramy"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "efa dim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "hasesoniny"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "amin'ny fahamarinana"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "hitondrany"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "fitsarana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:16:04.023293485Z",
+  "model": "glm-5.3"
+}

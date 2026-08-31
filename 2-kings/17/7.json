@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 17:7",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary izany no nitranga, satria efa notaomin'ny zanak'Isiraely tamin'i Yahveh Elohiminy izy — Ilay niampaka azy ⟨את⟩ hiala tamin'ny tany Mitsrayim, avy eo ambany tanan'i Parao mpanjakan'i Mitsrayim — ka natahoty andriamitra hafa izy.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nitranga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "notaomin'"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "tamin'i Yahveh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohiminy"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "Ilay niampaka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ambany"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tanan'"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "natahoty"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "andriampira hafa — andriamitra"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "hafa"
+    }
+  ],
+  "timestamp": "2026-08-31T14:57:55.048022601Z",
+  "model": "glm-5.3"
+}

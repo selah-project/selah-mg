@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary hanao ny fanatitra noho ny ota ilay mpisoratra, ary hanao fanavotana ho an'izay mandray fahadiovana amin'ny tsi-fahadiovany; ary afaka izay dia hamono ny fanatitra doraina ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Ary hanao"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ilay mpisoratra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanatitra noho ny ota"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ny fanatitra noho ny ota"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ary hanao fanavotana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho an'"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "izay mandray fahadiovana"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "amin'ny tsi-fahadiovany"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ary afaka izay"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "hamono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanatitra doraina"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ny fanatitra doraina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:15:42.812251045Z",
+  "model": "glm-5.3"
+}

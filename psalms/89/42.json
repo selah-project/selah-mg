@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Voababony izay mandalo rehetra; lasa fahafahana eo amin'ny mponina manodidina azy izy.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "voababony"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "izay mandalo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "היה",
+      "gloss": "lasa"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "fahafahana"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "eo amin'ny mponina manodidina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:18.764083331Z",
+  "model": "glm-5.3"
+}

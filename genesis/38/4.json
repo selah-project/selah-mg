@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Dia hitoe-jaza indray ka niteraka zanakalahy; ary nataony hoe Onana ny anarany.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "hitoe-jaza"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "indray"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanakalahy"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anarany"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onana"
+    }
+  ],
+  "timestamp": "2026-08-31T12:49:38.493700710Z",
+  "model": "glm-5.3"
+}

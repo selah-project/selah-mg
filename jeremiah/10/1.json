@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Mihainoa ⟨את⟩ ny teny izay nitenenin'i Yahveh aminareo, ry taranak'i Isiraely.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mihainoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny teny"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nitenena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "aminareo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ry taranaka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    }
+  ],
+  "timestamp": "2026-08-31T15:28:02.647279502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Tia fahamarinana sy fitsarana ⟨Izy⟩; ny hesed an'i Yahveh no fenoin'⟨ny⟩ tany.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Tia"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "fahamarinana"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "sy fitsarana"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "no fenoin'"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:34:58.737345074Z",
+  "model": "glm-5.3"
+}

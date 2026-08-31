@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Aza lazainy ao an-tsainy: Heah, ⟨no⟩ fanahintsika! Aza lazainy: Nitelina izy!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "lazainy"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ao an-tsainy"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heah"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "fanahintsika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "lazainy"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "nitelina izy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:29.508020474Z",
+  "model": "glm-5.3"
+}

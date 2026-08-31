@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 97,
+  "translation": "Rahona sy aizina ⟨no⟩ manodidina Azy; fahamarinana sy fitsarana ⟨no⟩ fototry ny seza fiandrianany.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "Rahona"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "sy aizina"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "manodidina Azy"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "fahamarinana"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "sy fitsarana"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "fototra"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ny seza fiandrianany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:44.901771712Z",
+  "model": "glm-5.3"
+}

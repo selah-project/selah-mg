@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Miakara atỳ amiko, ary vonjehy aho, dia isika hiady an'i Gibona ⟨את⟩, fa efa nanao fiadanana tamin'i Yehoshoa ⟨את⟩ sy tamin'ny zanak'Isiraela ⟨את⟩ izy.",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Miakara"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "atỳ amiko"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "ary vonjehy aho"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "dia isika hiady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibona"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "efa nanao fiadanana tamin'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshoa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zanak'Isiraela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "siraela"
+    }
+  ],
+  "timestamp": "2026-08-31T13:59:09.653355364Z",
+  "model": "glm-5.3"
+}

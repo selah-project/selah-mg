@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 73,
+  "translation": "Tsy voaselon'ny fahorian'ny zanak'olombelona izy, ary tsy voakasika toy ny olona hafa.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "voaselon'ny fahorian'ny"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "zanak'olombelona"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ary toy ny"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olona hafa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "voakasika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:53.244936049Z",
+  "model": "glm-5.3"
+}

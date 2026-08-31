@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 1:8",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary navalin'ireo izy hoe: Lehilahy manana vola be, ary voalamina lamba hoditra ny takolany. Dia hoy izy: Eliyah haTishbihy no izy.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ary navalin'ireo izy hoe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "izy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Lehilahy"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "manana"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vola be"
+    },
+    {
+      "surface": "ואזור",
+      "gloss": "ary voalamina lamba"
+    },
+    {
+      "surface": "עור",
+      "gloss": "hoditra"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "voalamina"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "ny takolany"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dia hoy izy"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Eliyah"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "haTishbihy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no izy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:04:30.554372403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 85,
+  "translation": "Efa nesorinao ny fahatezeranao rehetra, efa niverina Hianao tamin'ny fahaviniranao.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "efa nesorinao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rea"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "ny fahatezeranao"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "efa niverina Hianao"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "amin'ny fahavinirana"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ny fahatezeranao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:05.872903768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nonina tamin'ny zavatra nanjo, rehevita antitra Shemuël, dia nametraka ⟨את⟩ ny zanany ho mpitsara ho an'i Yisraela izy.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nonina tamin'ny zavatra nanjo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "rehevita"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "antitra"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "dia nametraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ho mpitsara"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ho an'i Yisraela"
+    }
+  ],
+  "timestamp": "2026-08-31T14:15:54.442705220Z",
+  "model": "glm-5.3"
+}

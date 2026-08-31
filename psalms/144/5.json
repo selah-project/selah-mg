@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 144,
+  "translation": "Yahveh, miondrika ny lanitrao ka midina; manoro ny tendrombohitra, dia mifoka setroka izy.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "הט",
+      "gloss": "miondrika"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "ny lanitrao"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "ka midina"
+    },
+    {
+      "surface": "גע",
+      "gloss": "manoro"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "ny tendrombohitra"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "dia mifoka setroka izy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:37.112561913Z",
+  "model": "glm-5.3"
+}

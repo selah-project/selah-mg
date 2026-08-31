@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary taty aoriana niteraka zanakavavy izy, ka nanao ny anarany hoe Dinah.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "taty aoriana"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanakavavy"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anarany"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    }
+  ],
+  "timestamp": "2026-08-31T12:44:12.309235689Z",
+  "model": "glm-5.3"
+}

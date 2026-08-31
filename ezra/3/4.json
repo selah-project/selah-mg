@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary nanatanteraka ⟨את⟩ ny andro firavoravoan'ny trano lay izy araka ny voasoratra, ary ny fanatitra dorana isan'andro araka ny isa, araka ny lalàna, ny raharahan'ny andro amin'ny androny.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Ary nanatanteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny andro firavoravoana"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ny andro firavoravoana"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "'ny trano lay"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "araka ny voasoratra"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "ary ny fanatitra dorana"
+    },
+    {
+      "surface": "יום",
+      "gloss": "isan'andro"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "isaky ny andro"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "araka ny isa"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "araka ny lalàna"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ny raharahan'ny"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "amin'ny androny"
+    }
+  ],
+  "timestamp": "2026-08-31T17:26:46.432747298Z",
+  "model": "glm-5.3"
+}

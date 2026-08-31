@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 87,
+  "translation": "An'ny zanak'i Korach. Salamo, hira. Ny fanorenany dia eo amin'ny tendrombohitra masina.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "An'ny zanak'i"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Salamo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "hira"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "Ny fanorenany"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "eo amin'ny tendrombohitra"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "masina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:43.418423258Z",
+  "model": "glm-5.3"
+}

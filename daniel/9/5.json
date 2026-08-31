@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Efa nanao fahadisoana izahay, sy nanao ratsy, sy nanao tsi-fahamarinana, ary niodina; dia nihemotra tamin'ny didinao sy tamin'ny fitsaranao.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "nanao fahadisoana izahay"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "sy nanao ratsy"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "sy nanao tsi-fahamarinana"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "ary niodina"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "nihemotra"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "tamin'ny didinao"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "sy tamin'ny fitsaranao"
+    }
+  ],
+  "timestamp": "2026-08-31T17:23:38.637192741Z",
+  "model": "glm-5.3"
+}

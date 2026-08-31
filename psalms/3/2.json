@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Yahveh, firy no nitomboan'ny fahoriko! Maro no miakatra hanoa ahy.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "firy"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "no nitomboan'ny"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "fahoriko"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Maro"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "no miakatra hanoa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:58.153515664Z",
+  "model": "glm-5.3"
+}

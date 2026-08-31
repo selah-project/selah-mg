@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Ary nanavotra azy tamin'ny tàn'ny mpankahala izy, ary nividy azy afaka tamin'ny tàn'ny fahavalo.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "nanavotra azy"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tamin'ny tanàn'"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "mpankahala"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "nividy azy afaka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tamin'ny tanàn'"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fahavalo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:51.873209611Z",
+  "model": "glm-5.3"
+}

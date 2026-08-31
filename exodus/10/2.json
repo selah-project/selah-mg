@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary mba ho tantainao amin'ny sofin'ny zanakao sy ny zanak'ny zanakao izay nataoko tamin'i Mitsrayim, sy ⟨את⟩ ny famantaranko izay nataoko taminy, mba ho fantatrareo fa izaho no Yahveh.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "Ary mba"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "ho tantainao"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "amin'ny sofin'ny"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "zanakao"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "sy ny zanak'ny"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "zanakao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay nataoko tamin'i Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "nataoko"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "tamin'i Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny famantaranko"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "famantaranko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "nataoko"
+    },
+    {
+      "surface": "בם",
+      "gloss": "tamy"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "mba ho fantatrareo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "no Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:15.552427304Z",
+  "model": "glm-5.3"
+}

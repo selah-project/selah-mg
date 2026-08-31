@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 128,
+  "translation": "Aoka hataon'i Yahveh soa ianao avy any Tsiiona, ka hahita ny tsaran'i Yeroshalayim ianao amin'ny andro rehetra amin'ny fiainanao.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "hatao soa ianao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "avy any Tsiiona"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ka hahita"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ny tsara"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "an'i Yeroshalayim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "andro"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "amin'ny fiainanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:09.637018503Z",
+  "model": "glm-5.3"
+}

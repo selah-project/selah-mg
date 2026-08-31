@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 25:25",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary ilay voalohany no nivoaka, mena izy, feno volo manerena ny tenany tahaka ny akanjo volo; ary nataony hoe Esav ny anarany.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "nivoaka"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ilay voalohany"
+    },
+    {
+      "surface": "אדמוני",
+      "gloss": "mena"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ny tenany manontolo"
+    },
+    {
+      "surface": "כאדרת",
+      "gloss": "tahaka ny akanjo"
+    },
+    {
+      "surface": "שער",
+      "gloss": "volo"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "nataony ny anarany"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-08-31T12:41:48.943243957Z",
+  "model": "glm-5.3"
+}

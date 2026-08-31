@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ny voalohany amin'ny varyo, ny divynao, ary ny diloilonao, ary ny voalohany amin'ny volon'ny ondrynao no homeo azy.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "ny voalohany amin'ny"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "varyonao"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "divynao"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "sy ny diloilonao"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "ary ny voalohany amin'ny"
+    },
+    {
+      "surface": "גז",
+      "gloss": "volon'"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "ondrynao"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "homeo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:46:44.986576090Z",
+  "model": "glm-5.3"
+}

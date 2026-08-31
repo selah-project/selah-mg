@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Fa Yahveh eo an-tempolin'ny fahamasinany; aoka ny tany rehetra hangina eo anatrehany.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Fa Yahveh"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "eo an-tempolin'"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ny fahamasinany"
+    },
+    {
+      "surface": "הס",
+      "gloss": "aoka hangina"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "eo anatrehany"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:16:40.180492134Z",
+  "model": "glm-5.3"
+}

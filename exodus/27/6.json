@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ary hanao teza ho an'ny alitara ianao — teza avy amin'ny hazo akasia — ary hanarona ⟨את⟩ azy varahina.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "teza"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "ho an'ny alitara"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "teza"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hazoa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "hanarona"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (ireo teza)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "varahina"
+    }
+  ],
+  "timestamp": "2026-08-31T17:56:59.806078158Z",
+  "model": "glm-5.3"
+}

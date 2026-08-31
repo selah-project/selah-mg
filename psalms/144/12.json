@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 144:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 144,
+  "translation": "Izay ny zanakalahinay dia tahaka ny zava-maniry mihalehibe amin'ny fahatanorany, ary ny zanakambavinay dia tahaka ny zoro vato voapaitra, araka ny endrik'ny lapa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Izay"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "ny zanakalahinay"
+    },
+    {
+      "surface": "כנטעים",
+      "gloss": "tahaka ny zava-maniry voatomboka"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "mihalehibe"
+    },
+    {
+      "surface": "בנעוריהם",
+      "gloss": "amin'ny fahatanorany"
+    },
+    {
+      "surface": "בנותינו",
+      "gloss": "ny zanakambavinay"
+    },
+    {
+      "surface": "כזוית",
+      "gloss": "tahaka ny zoro vato"
+    },
+    {
+      "surface": "מחטבות",
+      "gloss": "voapaitra"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "araka ny endriky"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "lapa"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:02.798881138Z",
+  "model": "glm-5.3"
+}

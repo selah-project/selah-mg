@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "Ary Yahveh ⟨את⟩ no niaraka tamin'i Yosefa, ka tonga lehilahy mahomby izy; ary nitoetra tao an-tranon'ny tompony ilay Mitsrita izy.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "niaraka tamin'i Yosefa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ka tonga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "mahomby"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ary nitoetra"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "tao an-tranon'ny"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "tompony"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "ilay Mitsrita"
+    }
+  ],
+  "timestamp": "2026-08-31T12:49:28.064281499Z",
+  "model": "glm-5.3"
+}

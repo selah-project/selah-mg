@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Ary ny Filistina niangona ka tonga dia nitoby tao Shonema; ary Shaola namory ⟨את⟩ ny Isiraely rehetra ka nitoby tao Giliboa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "niangona"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Filistina"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ka tonga"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "nitoby"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "tao Shonema"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "namory"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Isiraely rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ny Isiraely"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "nitoby"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "tao Giliboa"
+    }
+  ],
+  "timestamp": "2026-08-31T14:26:52.371102668Z",
+  "model": "glm-5.3"
+}

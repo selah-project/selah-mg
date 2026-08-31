@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 12:5",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Mihira feo ho an'i Yahveh, fa efa nanao zava-pongana ⟨izy⟩; aoka ho fantatra izany amin'ny tany manontolo.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Mihira feo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "zava-pongana"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "efa nanao"
+    },
+    {
+      "surface": "מידעת",
+      "gloss": "aoka ho fantatra"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izany"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny...manontolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:04:49.367841991Z",
+  "model": "glm-5.3"
+}

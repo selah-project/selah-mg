@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 61,
+  "translation": "Avy eo amin'ny faran'ny tany no hiantsoako anao; rehefa manetry ny foko, ianao no hitondra ahy ho amin'ny vatolampy avo noho ny ahy.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "avy eo amin'ny faran'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "no hiantsoako"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "rehefa manetry"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ho amin'ny vatolampy"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "avo noho ny ahy"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "noho ny ahy"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ianao no hitondra ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:29.777694795Z",
+  "model": "glm-5.3"
+}

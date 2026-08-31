@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Ary nampahatezitra tamin'ny rano i Meriba izy, ka loza taminy no azon'i Moshe noho ny amin'izy ireo.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "nampahatezitra"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "מי",
+      "gloss": "rano"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriba"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "loza taminy no azony"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "an'i Moshe"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "noho ny amin'izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:48.709688121Z",
+  "model": "glm-5.3"
+}

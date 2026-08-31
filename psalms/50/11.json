@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 50,
+  "translation": "Fantatro ny vorona rehetra amin'ny tendrombohitra, ary ny biby lavak'ala amin'ny saha ⟨dia eo⟩ amiko.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Fantatro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "vorona"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "amin'ny tendrombohitra"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "ary ny biby lavak'ala"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "amin'ny saha"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "⟨dia eo⟩ amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:30:28.539280034Z",
+  "model": "glm-5.3"
+}

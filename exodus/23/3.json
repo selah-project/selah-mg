@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary ny malahelo aza manaja amin'ny raharahany.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "ary ny malahelo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "manaja"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "amin'ny raharahany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:02:28.621120979Z",
+  "model": "glm-5.3"
+}

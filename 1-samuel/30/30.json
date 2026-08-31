@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "sy ho an'izay tao amin'ny Horma, sy ho an'izay tao amin'ny Bor-ashana, sy ho an'izay tao amin'ny Ataka,",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "sy ho an'izay"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "tao amin'ny Horma"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "sy ho an'izay"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "tao amin'ny Bor-ashana"
+    },
+    {
+      "surface": "עשן",
+      "gloss": ""
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "sy ho an'izay"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "tao amin'ny Ataka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:26:59.926645964Z",
+  "model": "glm-5.3"
+}

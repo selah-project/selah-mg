@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 54:5",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 54,
+  "translation": "Fa ny mpivady anao no Mpanao anao — Yahveh Tsevaot no anarany — ary ny Mpanavotra anao dia ny Masin'i Isiraely; Elohin'ny tany manontolo no hantsoina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "בעליך",
+      "gloss": "ny mpivady anao"
+    },
+    {
+      "surface": "עשיך",
+      "gloss": "Mpanao anao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "no anarany"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "ary ny Mpanavotra anao"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Masina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "manontolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "hantsoina"
+    }
+  ],
+  "timestamp": "2026-08-31T15:18:42.914271242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary ny tafiny sy ny isan'ny voaisa dia fito amby dimam-polo arivo sy efatraanjato.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Ary ny tafiny"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "sy ny isan'ny voaisa"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "fito"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "amby dimam-polo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "arivo"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "sy efatra"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "anjato"
+    }
+  ],
+  "timestamp": "2026-08-31T13:24:21.449507876Z",
+  "model": "glm-5.3"
+}

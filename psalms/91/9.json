@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 91,
+  "translation": "Fa ianao, Yahveh, no fialoko; ny Elyon no nataonao fonenanao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "no fialoko"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ny Elyon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "no nataonao"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "fonenanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:08.019482466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary Ravshakeh niverina ka nahita ⟨את⟩ ny mpanjakan'i Ashur miady amin'i Livna; fa efa ren'ny fa efa niainga niala tamin'i Lakisha izy.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ary niverina"
+    },
+    {
+      "surface": "רב",
+      "gloss": "(lohany)"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Ravshakeh"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "ka nahita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanjakan'i Ashur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ny mpanjakan'i"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "miady"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'i"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "efa ren'ny"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "e fa niainga niala"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "tamin'i Lakisha"
+    }
+  ],
+  "timestamp": "2026-08-31T14:58:35.153843797Z",
+  "model": "glm-5.3"
+}

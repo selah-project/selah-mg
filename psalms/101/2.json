@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 101,
+  "translation": "Hahay tsara aho amin'ny lalana mahitsy; rahoviana no hahatongavanao aty amiko? Handeha aho amin'ny fahitsian'ny foko ao anivon'ny tranoko.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "Hahay tsara aho"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "amin'ny lalana"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "mahitsy"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "rahoviana"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "hahatongavanao"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aty amiko"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "Handeha aho"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "amin'ny fahitsiana"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ao anivon'ny"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "tranoko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:40.726281416Z",
+  "model": "glm-5.3"
+}

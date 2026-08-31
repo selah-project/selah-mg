@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Mavesa ny vato, ary enta-mavesa ny fasika; fa ny fahatezeran'ny adala dia mavesa noho izy roa.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Mavesa"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ny vato"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "ary enta-mavesa"
+    },
+    {
+      "surface": "החול",
+      "gloss": "ny fasika"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "fa ny fahatezeran'"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ny adala"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "mavesa"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "noho izy roa"
+    }
+  ],
+  "timestamp": "2026-08-31T16:57:21.751753883Z",
+  "model": "glm-5.3"
+}

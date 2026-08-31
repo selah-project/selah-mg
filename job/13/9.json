@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Va tsara raha hanisa akaiky ⟨את⟩ anareo Izy? Va toy ny fihomehezana amin'ny olombanona no fihomehezanareo Azy?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "va tsara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "raha"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "hanisa akaiky"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo",
+      "marks": "anareo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "va"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "toy ny fihomehezana"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "amin'ny olombanona"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "fihomehezanareo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:01:06.822155372Z",
+  "model": "glm-5.3"
+}

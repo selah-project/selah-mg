@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Indro, andro avy ka hoteheziko ⟨את⟩ tananao sy ⟨את⟩ tanan'ny ankohonan'ny rainao, tsy hisy anti-panahy ao amin'ny ankohonanao mandrakizay.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "באים",
+      "gloss": "avy"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "ka hoteheziko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tananao"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tananao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "tanan'ny ankohonan'ny rainao"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tanan'ny"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ankohonan'ny"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "rainao"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "tsy hisy"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "anti-panahy"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "ao amin'ny ankohonanao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:15:17.091602511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 8:5",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary ny rano nandeha nitontina hatramin'ny volana fahafolo; tamin'ny volana fahafolo, amin'ny andro voalohany amin'ny volana, dia niseho ny tampon'ny tendrombohitra.",
+  "tokens": [
+    {
+      "surface": "והמים",
+      "gloss": "Ary ny rano"
+    },
+    {
+      "surface": "היו",
+      "gloss": "zano"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "וחסור",
+      "gloss": "nitontina"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hatramin'ny"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "volana"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "fahafolo"
+    },
+    {
+      "surface": "בעשירי",
+      "gloss": "tamin'ny volana fahafolo"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "amin'ny andro voalohany"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "amin'ny volana"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "niseho"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ny tampon'ny"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "tendrombohitra"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:50.843262441Z",
+  "model": "glm-5.3"
+}

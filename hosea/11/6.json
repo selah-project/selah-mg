@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary sabatra hitsapa ny tanànany, ka hananona ny bariny ary hanim-ponenany noho ny fisainany.",
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "hitsapa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabatra"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "ny tanànany"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "hananona"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "ny bariny"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "hanim-ponenany"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "noho ny fisainany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:09:30.732555495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Fa nitandrina ny lalan'i Yahveh aho, ary tsy nanao ratsy mialoha tamin'ny Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "nitandrina"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ny lalana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "nanao ratsy"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "tamin'ny Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:15.954836282Z",
+  "model": "glm-5.3"
+}

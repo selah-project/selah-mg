@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 127,
+  "translation": "Indro, lovan'i Yahveh ny zanaka; karama ny vokatry ny kibo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "lovan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "karama"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "vokatra"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "ny kibo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:04.967411899Z",
+  "model": "glm-5.3"
+}

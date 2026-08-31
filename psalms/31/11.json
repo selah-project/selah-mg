@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Fa lany tamin'ny alahelo ny aiko, ary ny taonako tamin'ny fisaonana; vosotra noho ny fahotako ny heriko, ary ny taolanko efa lefa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "lany"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "tamin'ny alahelo"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "ary ny taonako"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "tamin'ny fisaonana"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "vosotra"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "noho ny fahotako"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ny heriko"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "ary ny taolanko"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "efa lefa"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:14.656230012Z",
+  "model": "glm-5.3"
+}

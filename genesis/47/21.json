@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 47,
+  "translation": "Ary ⟨את⟩ ny vahoaka dia nampifindrany ho any an-tanàna, hatramin'ny faran'ny fari-tanin'i Mitsrayim ka hatramin'ny farany.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "nampifindrany"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ho any an-tanàna"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "ho any an-tanàna"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "hatramin'ny faran'ny"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "fari-tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "farany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:53:24.400035517Z",
+  "model": "glm-5.3"
+}

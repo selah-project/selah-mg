@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary velona Mahalalela taona dimy amby enim-polo; ary niteraka an'i Jereda ⟨את⟩ izy.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "velona"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalela"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "dimy"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taona"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "enim-polo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jereda"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Jereda"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:12.736048009Z",
+  "model": "glm-5.3"
+}

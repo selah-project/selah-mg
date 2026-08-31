@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 14:17",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Fa izaho kosa, indro, izaho manamafy ⟨את⟩ ny fon'ny Mitsrayim, ary hankafa aoriany izy; dia hankalaza aho amin'i Parao sy amin'ny tafiny rehetra, amin'ny kalesiny sy amin'ny mpitaingin-tsoavaly.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "fa izaho kosa"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "indro"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "manamafy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fon'ny Mitsrayim"
+    },
+    {
+      "surface": "לב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "hankafa"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "aoriany"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "dia hankalaza aho"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "amin'i Parao"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "sy amin'ny rehetra"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "tafiny"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "amin'ny kalesiny"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "sy amin'ny mpitaingin-tsoavaly"
+    }
+  ],
+  "timestamp": "2026-08-31T17:56:45.127982039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 1:4",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary ny zazavavy tsara tarehy indrindra, ka nitarika ny mpanjaka izy ary nanompo azy; fa ny mpanjaka tsy nanamantana azy.",
+  "tokens": [
+    {
+      "surface": "והנערה",
+      "gloss": "Ary ny zazavavy"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "tsara tarehy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "indrindra"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "indrindra"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ka nitarika"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "סכנת",
+      "gloss": "nanompoaka"
+    },
+    {
+      "surface": "ותשרתהו",
+      "gloss": "ary nanompo azy"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "fa ny mpanjaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "nanamantana azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:38:29.183643094Z",
+  "model": "glm-5.3"
+}

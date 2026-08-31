@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Izay nanao taminy ny mpahita hoe: Aza mahita; ary amin'ny mpanao fahitana hoe: Aza maminany amintsika zavatra mahitsy, moloy amintsika zavatra malefaka, maminany fitoraka.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Izay"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "לראים",
+      "gloss": "taminy ny mpahita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "mahita"
+    },
+    {
+      "surface": "ולחזים",
+      "gloss": "ary amin'ny mpanao fahitana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "maminany"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "amintsika"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "zavatra mahitsy"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "moloy"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "amintsika"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "zavatra malefaka"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "maminany"
+    },
+    {
+      "surface": "מהתלות",
+      "gloss": "fitoraka"
+    }
+  ],
+  "timestamp": "2026-08-31T15:10:27.893629573Z",
+  "model": "glm-5.3"
+}

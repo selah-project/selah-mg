@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 38:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Ary izay mitady ny aiko manisy fandrika, ary izay mitady ny loako miteny zava-mahavery, ary mandinika fitaka no manontolo andro.",
+  "tokens": [
+    {
+      "surface": "וינקשו",
+      "gloss": "manisy fandrika"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "izay mitady"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "ary izay mitady"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ny loako"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "miteny"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "zava-mahavery"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "sy fitaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "no manontolo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "mandinika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:18.050533978Z",
+  "model": "glm-5.3"
+}

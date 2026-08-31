@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 6:9",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary Moshe niteny toy izany tamin'ny zanak'i Isiraely, fa tsy nihaino an'i Moshe izy noho ny fahafinaretan'ny fanahy sy noho ny fanandevozana mafy.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "niteny"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toy izany"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מקצר",
+      "gloss": "noho ny fahafinaretan'ny"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "ומעבדה",
+      "gloss": "sy noho ny fanandevozana"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "mafi"
+    }
+  ],
+  "timestamp": "2026-08-31T12:55:24.427864668Z",
+  "model": "glm-5.3"
+}

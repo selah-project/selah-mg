@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ary Dinah, zanakavavin'i Lea, izay naterany tamin'i Yaakov, nivoaka hitsidika ny zanakavavin'ny tany.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "nivoaka"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanakavaviny"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "naterany"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "tamin'i Yaakov"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hitsidika"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "ny zanakavavin'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:47:14.838296984Z",
+  "model": "glm-5.3"
+}

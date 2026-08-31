@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Rehefa mahafaly an'i Yahveh ⟨את⟩ ny lalan'ny lehilahy, dia ataony mihitsy fa hony ho tony aminy ny fahavalony.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "rehefa mahafaly"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ny lalan'ny"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mihitsy"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "ny fahavalony"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ataony ho tony"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ aminy",
+      "marks": "amin'ny lehilahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:53:30.808822783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Noho izany dia tiako ⟨את⟩ ny didinao mihoatra ny volamena, eny, mihoatra ny volamena madio.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "tiako aho"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ny didinao"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "mihoatra ny volamena"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "eny, mihoatra ny volamena madio"
+    }
+  ],
+  "timestamp": "2026-08-31T18:25:52.409630730Z",
+  "model": "glm-5.3"
+}

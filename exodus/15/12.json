@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 15:12",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Nanitatra ny tana-kavananao ianao, nitelina azy ny tany.",
+  "tokens": [
+    {
+      "surface": "נטית",
+      "gloss": "nanitatra"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ny tana-kavananao"
+    },
+    {
+      "surface": "תבלעמו",
+      "gloss": "nitelina azy"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:59:35.685929428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Fa ho miditra ny fahendrena ao am-ponao, ary ny fahalalana ho mahafinaritra ny fanahinao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ho miditra"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ny fahendrena"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "ao am-ponao"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ary ny fahalalana"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "ny fanahinao"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "ho mahafinaritra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:49:05.127557702Z",
+  "model": "glm-5.3"
+}

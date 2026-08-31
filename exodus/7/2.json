@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ianao no hiteny ⟨את⟩ izay didiko rehetra, ary Aharon rahalahinao no hiteny amin'i Parao, ka handefa ⟨את⟩ zanak'i Yisraela hivoaka avy amin'ny taniny.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ianao"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "hiteny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay didiko rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "didiko"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ary Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "rahalahinao"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "hiteny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ka handefa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zanak'i Yisraela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "hivoaka avy amin'ny taniny"
+    }
+  ],
+  "timestamp": "2026-08-31T12:56:10.487362122Z",
+  "model": "glm-5.3"
+}

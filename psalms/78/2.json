@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Hasokofoiko ny vavako amin'ohabolana; hiteteiko fanolana fahagola.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "Hasokofoiko"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "amin'ohabolana"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ny vavako"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "hiteteiko"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "fanolana"
+    },
+    {
+      "surface": "מני",
+      "gloss": "fahagola ⟨avy⟩"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "⟨fahagola⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:23.408598866Z",
+  "model": "glm-5.3"
+}

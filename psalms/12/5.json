@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Izay nanao hoe: amin'ny lelantsika no hahery; molontsika ⟨את⟩ aminay; iza no tomponahitra ho anay?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Izay"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "amin'ny lelantsika"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "hahery"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "molontsika"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ aminay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "tomponahitra"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho anay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:38.462026765Z",
+  "model": "glm-5.3"
+}

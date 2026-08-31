@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary raha manatitra zebah shelamim hianareo ho an'i Yahveh, dia araka ny faniriantsareo no ametrahanareo azy.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ary raha"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "manatitra"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zebah ⟨(zebaha)⟩"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "shelamim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "araka ny faniriantsareo"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "ametrahanareo azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:18:13.383011711Z",
+  "model": "glm-5.3"
+}

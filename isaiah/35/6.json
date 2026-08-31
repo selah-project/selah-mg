@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Amin'izay dia hitsambazimba toy ny dierantilopa izay mandeha ankatsetseta, ary hihira ny lelan'ny moana; fa hisokatra rano any an-efitra, ary renirano any amin'ny lemaka tani-hay.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "amin'izay"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "hitsambazimba"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "toy ny dierantilopa"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "izay mandeha ankatsetseta"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "ary hihira"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ny lelan'ny"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "moana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "hisokatra"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "any an-efitra"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "ary renirano"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "any amin'ny lemaka tani-hay"
+    }
+  ],
+  "timestamp": "2026-08-31T15:13:17.259155842Z",
+  "model": "glm-5.3"
+}

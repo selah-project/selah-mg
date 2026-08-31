@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 35:6",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Ary tonga tao Luz, izay ao amin'ny tany Kenaana — dia Betela io — i Yaakov sy ny vahoaka rehetra izay tao aminy.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ary tonga tao"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "i Yaakov"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "Luz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ao amin'ny tany"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "io"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la (Betela)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia … io"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ny … rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tao aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:47:59.080226294Z",
+  "model": "glm-5.3"
+}

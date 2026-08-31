@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Dia hahalala ny Mitsrayim fa izaho no Yahveh, rehefa maninjitra ny tànako amin'ny fombaiko ⟨את⟩ amin'ny Mitsrayim, ka hamoaka ⟨את⟩ zanak'i Isiraely avy eo afovoany.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Dia hahalala"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ny Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "rehefa maninjitra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tànako"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ny tànako"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "ka hamoaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zanak'i Isiraely"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "avy eo afovoany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:56:08.786179473Z",
+  "model": "glm-5.3"
+}

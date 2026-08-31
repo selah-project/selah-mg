@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Yahveh Elohinontsika no nanao fanekena taminay tao Horeba.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohinontsika"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "nanao (namoaka)"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "taminay"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "fanekena"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "tao Horeba"
+    }
+  ],
+  "timestamp": "2026-08-31T13:40:59.774682500Z",
+  "model": "glm-5.3"
+}

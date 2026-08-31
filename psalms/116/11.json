@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 116,
+  "translation": "Ary hoy izaho tao anatin'ny fihazakazahana: ny olona rehetra dia mpandainga.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "hoy... aho"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "tao anatin'ny fihazakazahana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "mpandainga"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:21.313565489Z",
+  "model": "glm-5.3"
+}

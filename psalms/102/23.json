@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 102,
+  "translation": "Reha voaangona ny firenena miara-miory, sy ny fanjakana, hanompo ⟨את⟩ an'i Yahveh;",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "reha voaangona"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ny firenena"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "miara-miory"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "sy ny fanjakana"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "hanompo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:06.272732062Z",
+  "model": "glm-5.3"
+}

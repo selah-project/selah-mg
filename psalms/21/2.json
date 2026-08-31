@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Yahveh, amin'ny herinao mifaly ny mpanjaka, ary amin'ny famonjenao ôiry faly izy tsy hay lazaina!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "amin'ny herinao"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "mifaly"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "ary amin'ny famonjenao"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ôiry"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "faly tsy hay lazaina"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tsy hay lazaina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:01.325203391Z",
+  "model": "glm-5.3"
+}

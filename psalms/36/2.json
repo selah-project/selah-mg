@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Fambarana ny fahadisoan'ny ratsy fanahy ao anaty foko: tsy misy fahatahorana an'i Elohim eo anatrehan'ny masony.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "Fambarana"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ny fahadisoana"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ao anaty"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "foko"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "fahatahorana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "eo anatrehan'"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ny masony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:22.448000395Z",
+  "model": "glm-5.3"
+}

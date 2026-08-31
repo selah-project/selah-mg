@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary hanana fahafinaretana amin'ny fankatokovana an'i Yahveh ⟨izy⟩; ary tsy hitsara araka ny hitan'ny masony izy, ary tsy hananatra araka ny ren'ny sofiny.",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "hanana fahafinaretana"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "amin'ny fankatokovana an'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "araka ny hitan'ny"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "masony"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "hitsara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "araka ny ren'ny"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "sofiny"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "hananatra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:05:41.914368123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 12:10",
+  "book": "daniel",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Hisy maro no hanadiova tena sy hifotsy ary hoesorina tsara, fa ny ratsy fanahy hanao ratsy, ary tsy hahay ny ratsy fanahy rehetra; fa ny manam-pahendrena kosa hahay.",
+  "tokens": [
+    {
+      "surface": "יתבררו",
+      "gloss": "hoesorina tsara"
+    },
+    {
+      "surface": "ויתלבנו",
+      "gloss": "sy hifotsy"
+    },
+    {
+      "surface": "ויצרפו",
+      "gloss": "hanadiova tena"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maro"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "hanao ratsy"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "hahay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "והמשכלים",
+      "gloss": "fa ny manam-pahendrena"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "hahay"
+    }
+  ],
+  "timestamp": "2026-08-31T17:25:07.280486926Z",
+  "model": "glm-5.3"
+}

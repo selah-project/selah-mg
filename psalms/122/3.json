@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 122,
+  "translation": "Yeroshalayim, ilay voaorina, tanàna mifangaro ho tokana ⟨ao⟩ anatiny.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "voaorina"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "mifangaro ho tokana"
+    },
+    {
+      "surface": "לה",
+      "gloss": "anatiny"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "miaraka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:24.216991262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary hoy izy: Moa fa amin'i Moshe ihany no niteny Yahveh? Tsy taminay koa ve no niteny? Ary Yahveh ren'izany.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "Moa fa... ihany ve"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ihany"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "amin'i Moshe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "no niteny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Tsy... ve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "taminay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "no niteny"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "Ary... ren'izany"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:28:34.805601609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary hoy ny irak'i Yahveh taminy: Hamaro be tokoa ⟨את⟩ ny taranakao, ka tsy hisy mahafaaka manisa azy noho ny hamarony.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ary hoy"
+    },
+    {
+      "surface": "לה",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ny iraka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "hamaro be tokoa"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "hamaro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny taranakao"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ny taranakao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "hisy mahafaaka manisa"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "noho ny hamarony"
+    }
+  ],
+  "timestamp": "2026-08-31T12:39:33.608035771Z",
+  "model": "glm-5.3"
+}

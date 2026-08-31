@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary Hora niteraka ⟨את⟩ an'i Ori; ary Ori niteraka ⟨את⟩ an'i Betselela.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Ary Hora"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Ori"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Ori"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "Ary Ori"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Betselela"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betselela"
+    }
+  ],
+  "timestamp": "2026-08-31T17:34:19.431379897Z",
+  "model": "glm-5.3"
+}

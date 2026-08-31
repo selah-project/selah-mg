@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 73,
+  "translation": "Fa tsy misy dikany akory: nadioko ny foko, ary sasaiko tamin'ny fahadisoana tsy fantatra ny tanako.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "fa tsy misy dikany"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "tsy misy dikany"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "nadioko"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "ary sasaiko"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "tamin'ny fahadisoana tsy fantatra"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ny tanako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:29.860983664Z",
+  "model": "glm-5.3"
+}

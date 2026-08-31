@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary Shemuëla niantso ⟨את⟩ ny vahoaka ho any amin'i Yahveh tao amin'ny Mitzpa.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuëla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "ny Mitzpa"
+    }
+  ],
+  "timestamp": "2026-08-31T14:18:38.134380580Z",
+  "model": "glm-5.3"
+}

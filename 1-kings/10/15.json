@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ankoatra izay avy amin'ny mpivezivezy sy ny varotry ny mpivarotra, sy ny mpanjakan'ny Arabo rehetra sy ny governoran'ny tany.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "Ankoatra"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "izay avy amin'ny"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "mpivezivezy"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "sy ny varotry"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "ny mpivarotra"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ... rehetra"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ny mpanjakan'ny"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "Arabo"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "sy ny governoran'"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:42:58.104001374Z",
+  "model": "glm-5.3"
+}

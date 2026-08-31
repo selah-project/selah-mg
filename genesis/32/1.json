@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 32:1",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ary Labana nifoha maraina be ka nangoraka ⟨את⟩ ny zanany lahy sy ny zanany vavy ary nambara azy; dia lasa niverina tany amin'ny toerany Labana.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "nifoha maraina be"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labana"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tamin'ny maraina"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "nangoraka"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "ny zanany lahy"
+    },
+    {
+      "surface": "ולבנותיו",
+      "gloss": "sy ny zanany vavy"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ary nambara"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ny zanany lahy sy vavy)"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dia lasa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "niverina"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Labana"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "tany amin'ny toerany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:45:46.631713737Z",
+  "model": "glm-5.3"
+}

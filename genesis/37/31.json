@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Dia nalainy ⟨את⟩ ny akanjon'i Yosef, dia namonoan-biby kambana an-kisoa izy, ka latsainy tamin'ny ra ⟨את⟩ ilay akanjo.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "nalainy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny akanjon'i Yosef"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "akanjo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "namonoan-biby"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "kambana"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "an-kisoa"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "latsainy tamin'ny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay akanjo"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "ilay akanjo"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ra"
+    }
+  ],
+  "timestamp": "2026-08-31T12:48:52.988384817Z",
+  "model": "glm-5.3"
+}

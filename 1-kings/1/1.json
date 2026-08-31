@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary ny mpanjaka Davida efa antitra, efa tonga amin'ny andro maro ⟨izany ny fahavelony⟩; ary nataon'ireo ⟨nadafiana⟩ lamba izy, nefa tsy mafana ho azy.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ary ny mpanjaka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "efa antitra"
+    },
+    {
+      "surface": "בא",
+      "gloss": "efa tonga"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "amin'ny andro maro"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "ary nataon'ireo nadafiana izy"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "lamba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nefa tsy"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "mafana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:38:29.182840412Z",
+  "model": "glm-5.3"
+}

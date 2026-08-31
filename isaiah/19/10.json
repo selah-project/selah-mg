@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 19:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary ho vatolampy voatsipy ny andry iankinany; ny mpandray karama rehetra ho tolakena amin'ny fanahy.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "Ary ho"
+    },
+    {
+      "surface": "שתתיה",
+      "gloss": "ny andry iankinany"
+    },
+    {
+      "surface": "מדכאים",
+      "gloss": "voatsipy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ny mpandray"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "karama"
+    },
+    {
+      "surface": "אגמי",
+      "gloss": "ho tolakena"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "amin'ny fanahy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:05:15.698180032Z",
+  "model": "glm-5.3"
+}

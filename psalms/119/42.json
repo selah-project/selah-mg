@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ary hamaly teny izay manamavo aho; fa ny teninao no itokiako.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "ary hamaly teny"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "izay manamavo ahy"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "teny"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "itokiako"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "ny teninao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:39.303744806Z",
+  "model": "glm-5.3"
+}

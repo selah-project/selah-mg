@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary amin'ny maraina dia hahita ⟨את⟩ ny voninahitr'i Yahveh ianareo, amin'ny fanondran'i Yahveh sofina amin'ny fitalahoanareo aminy; ary inona izahay, fa mifamadika aminay ianareo?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "Ary amin'ny maraina"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "hahita ianareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny voninahitr'i Yahveh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "voninahitra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "amin'ny fanondrany sofina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitalahoanareo"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "fitalahoanareo"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "ary izahay"
+    },
+    {
+      "surface": "מה",
+      "gloss": "inona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "mifamadika"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "aminay"
+    }
+  ],
+  "timestamp": "2026-08-31T13:01:40.510163530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Mba ho fantatry ny taranaka farany ireo, sy ny zaza hateraka, hitsangana ka hitantara azy amin'ny zanany.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "mba"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ho fantatra"
+    },
+    {
+      "surface": "דור",
+      "gloss": "taranaka"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "farany"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zaza"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "hateraka"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "hitsangana"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "ka hitantara"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "amin'ny zanany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:19.835056090Z",
+  "model": "glm-5.3"
+}

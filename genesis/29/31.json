@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "And Yahveh saw that Leah was hated, and he opened ⟨את⟩ her womb; but Rachel was barren.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "and saw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "that"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "hated"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leah"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "and he opened"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "her womb"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "her womb"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "but Rachel"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "barren"
+    }
+  ],
+  "timestamp": "2026-08-31T18:27:06.484234724Z",
+  "model": "glm-5.3"
+}

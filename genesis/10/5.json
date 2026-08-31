@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Avy amin'ireo no nisaraka ny nosin'ny firenena ⟨tamim'ny⟩ tany nitoerany, samy manana ny fiteniny avy, araka ny fianakaviany avy, ao amin'ny fireneny avy.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "Avy amin'ireo"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "no nisaraka"
+    },
+    {
+      "surface": "איי",
+      "gloss": "ny nosin'ny"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "tany nitoerany"
+    },
+    {
+      "surface": "איש",
+      "gloss": "samy manana ny"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "fiteniny avy"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "araka ny fianakaviany avy"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "ao amin'ny fireneny avy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:32.753851702Z",
+  "model": "glm-5.3"
+}

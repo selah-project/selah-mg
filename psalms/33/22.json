@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Ho amintsika anie ny hesed-nao, ry Yahveh, araka ny fandeferanay manantena Anao.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ho anie"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ny hesed-nao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "amintsika"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "fandeferanay manantena"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:36.044052845Z",
+  "model": "glm-5.3"
+}

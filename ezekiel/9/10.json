@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 9:10",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Fa izaho koa, tsy hiantra ny masoko, ary tsy hamela fo amiko; ny lalany eo an-tampon'ny lohany no ataoko.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Fa ... koa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "hiantra"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ny masoko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "hamela fo"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ny lalany"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "eo an-tampon'ny lohany"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "no ataoko"
+    }
+  ],
+  "timestamp": "2026-08-31T18:09:21.514701635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary ny zanak'i Gomer: Ashkenaza sy Rifata ary Togarma.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ary ny zanak'i"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ashkenaza"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "sy Rifata"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "ary Togarma"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:27.746517424Z",
+  "model": "glm-5.3"
+}

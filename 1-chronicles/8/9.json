@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary niteraka tamin'i Chodesh vadiny izy ⟨את⟩ i Jobaba sy ⟨את⟩ i Tsibia sy ⟨את⟩ i Mesha sy ⟨את⟩ i Malkama.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Chodesh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vadiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Jobaba"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "i Jobaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "i Tsibia"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "i Tsibia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "i Mesha"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "i Mesha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "i Malkama"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "i Malkama"
+    }
+  ],
+  "timestamp": "2026-08-31T17:35:38.183108313Z",
+  "model": "glm-5.3"
+}

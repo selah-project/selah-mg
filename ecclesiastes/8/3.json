@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Aza mivoatra miala amin'ny tavany ⟨afa-tsy⟩ rehefa lasa; aza mijanona amin'ny raharaha ratsy, fa izay rehetra tiany no hataony.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "mivoatra"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "miala amin'ny tavany"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "rehefa lasa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "mijanona"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "amin'ny raharaha"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "tiany"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "no hataony"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:08.473827531Z",
+  "model": "glm-5.3"
+}

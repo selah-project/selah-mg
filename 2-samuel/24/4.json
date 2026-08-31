@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary ny tenin'ny mpanjaka dia nanery an'i Joaby sy ny mpanongan'ny miaramila; dia nivoaka teo anatrehany mpanjaka Joaby sy ny mpanongan'ny miaramila mba hanisa ny vahoaka ⟨את⟩ any Isiraela.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "nanery"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tenin'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an'i"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaby"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy ny"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mpanongan'ny"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "miaramila"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "nivoaka"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joaby"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "sy ny mpanongan'ny"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "miaramila"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anatrehany"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "mba hanisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "any Isiraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraela"
+    }
+  ],
+  "timestamp": "2026-08-31T14:38:33.368118744Z",
+  "model": "glm-5.3"
+}

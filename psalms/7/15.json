@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Indray, miady fiterahana amin'ny heloka izy, ka nitana loza, ka niteraka lainga.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Indray"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "miady fiterahana"
+    },
+    {
+      "surface": "און",
+      "gloss": "heloka"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "ka nitana"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "loza"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "ka niteraka"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lainga"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:55.665877094Z",
+  "model": "glm-5.3"
+}

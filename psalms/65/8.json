@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 65,
+  "translation": "Izay mangina ny tabataban'ny ranomasina, ny tabataban'ny onjainy, ary ny fihetsik'ireo firenena.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "mangina"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ny tabataban'ny"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ranomasina"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ny tabataban'ny"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "ny onjainy"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "ary ny fihetsik'ireo"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "firenena"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:08.017150736Z",
+  "model": "glm-5.3"
+}

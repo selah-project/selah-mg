@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 60:15",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 60,
+  "translation": "Kosa no ho fiainanao ⟨ny⟩ fahafatesanao fonia nankahalaina, tsy nisy nandalo; ary hataoko ianao ho fiaviam-boninahitra mandrakizay, fifalian'ny taranaka amam-pianakaviana.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Kosa no ho fiainanao ⟨ny⟩"
+    },
+    {
+      "surface": "היותך",
+      "gloss": "fahafatesanao"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "fonia"
+    },
+    {
+      "surface": "ושנואה",
+      "gloss": "nankahalaina"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "mandalo"
+    },
+    {
+      "surface": "ושמתיך",
+      "gloss": "hataoko ianao"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "ho fiaviam-boninahitra"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "fifalian'ny"
+    },
+    {
+      "surface": "דור",
+      "gloss": "taranaka"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "amam-pianakaviana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:06:52.549580269Z",
+  "model": "glm-5.3"
+}

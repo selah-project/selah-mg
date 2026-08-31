@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Fa hoy izaho: mandrakizay no haorenina ny hesed; ao amin'ny lanitra no haorenao tsara ny fahatokianao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "hoy izaho"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ny hesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "no haorenina"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ao amin'ny lanitra"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "no haorenao tsara"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ny fahatokianao"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ao aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:44.776817637Z",
+  "model": "glm-5.3"
+}

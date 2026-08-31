@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary Shelomah tia an'i ⟨את⟩ Yahveh ka nandeha araka ny lalàn'i Davida rainy; fa amin'ny fitoerana avo ihany no namonoany fanatitra sy nodorany zava-manitra.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "tia"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "araka ny lalàn'"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rainy"
+    },
+    {
+      "surface": "רק",
+      "gloss": "fa ... ihany"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "amin'ny fitoerana avo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "namono fanatitra"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "sy nodorany zava-manatra"
+    }
+  ],
+  "timestamp": "2026-08-31T14:40:08.212019893Z",
+  "model": "glm-5.3"
+}

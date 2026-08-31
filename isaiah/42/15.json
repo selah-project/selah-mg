@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 42:15",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Handringana tendrombohitra sy havoana Aho, ary hohanaiko ny ahitra rehetra; hataoko tany maina ny renirano, ary ny heniheny hohanaiko.",
+  "tokens": [
+    {
+      "surface": "אחריב",
+      "gloss": "Handringana"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "sy havoana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ny ... rehetra"
+    },
+    {
+      "surface": "עשבם",
+      "gloss": "ahitra"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "hohanaiko"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "hataoko"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "renirano"
+    },
+    {
+      "surface": "לאיים",
+      "gloss": "tany maina"
+    },
+    {
+      "surface": "ואגמים",
+      "gloss": "ary ny heniheny"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "hohanaiko"
+    }
+  ],
+  "timestamp": "2026-08-31T15:15:41.834850379Z",
+  "model": "glm-5.3"
+}

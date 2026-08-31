@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ny feon'i Yahveh ⟨dia⟩ eo ambony ny rano; El manana voninahitra nanipazana kotraona; Yahveh ⟨dia⟩ eo ambonin'ny rano be.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "feo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ny rano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "manana voninahitra"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "nanipazana kotraona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambonin'ny"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "be"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:18.982808960Z",
+  "model": "glm-5.3"
+}

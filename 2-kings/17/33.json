@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 17:33",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Matahotra ⟨את⟩ Yahveh izy ireo, ary manompo ⟨את⟩ ny Elohin'izy ireo izy, araka ny fitsipiky ny firenena izay nampisesitany ⟨את⟩ azy avy any.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨no⟩"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "matahotra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny Elohin'izy ireo"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ny Elohin'izy ireo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨no⟩"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "manompo"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "araka ny fitsipiky"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ny firenena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "nampisesitany"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azy"
+    },
+    {
+      "surface": "משם",
+      "gloss": "avy any"
+    }
+  ],
+  "timestamp": "2026-08-31T14:59:04.021758617Z",
+  "model": "glm-5.3"
+}

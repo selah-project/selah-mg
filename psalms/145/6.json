@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 145,
+  "translation": "Ary ⟨ny olona⟩ hitory ny herin'ny fampihorohoroana ataonao, ary ny fahalehibehenao hotantaraino.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "ary ny herin'ny"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "fampihorohoroana ataonao"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "hitory ⟨ny olona⟩"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "ary ny fahalehibehenao"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "hotantaraino"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:31.648310304Z",
+  "model": "glm-5.3"
+}

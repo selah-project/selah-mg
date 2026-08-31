@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Aoka ny fahavalo hanenjika ny aiko ka hahatratra azy, ary handrotsaka any an-tany ny fiainako, ka hametraka any amin'ny vovoka ny voninahitro. Selah.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "aoka... hanenjika"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ny fahavalo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "ka hahatratra"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "ary handrotsaka"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "any an-tany"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ny fiainako"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ka ny voninahitro"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "any amin'ny vovoka"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "hametraka"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:19.639731827Z",
+  "model": "glm-5.3"
+}

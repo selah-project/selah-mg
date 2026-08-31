@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "⟨את⟩ ny vorondolo kely, sy ⟨את⟩ ny vorondolo lehibe, ary ny mamoka",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vorondolo kely"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ny vorondolo kely"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny vorondolo lehibe"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "ny vorondolo lehibe"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "ary ny mamoka"
+    }
+  ],
+  "timestamp": "2026-08-31T13:44:56.225644347Z",
+  "model": "glm-5.3"
+}

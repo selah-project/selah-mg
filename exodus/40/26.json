@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary nametraka ny alitara volamena ⟨את⟩ tao anaty layra fihaonana izy, eo anoloan'ny efitra lamban'ny fidirana.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "nametraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny alitara volamena"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "tao anaty layra"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anoloan'"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "ny efitra lamban'ny fidirana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:31.379101026Z",
+  "model": "glm-5.3"
+}

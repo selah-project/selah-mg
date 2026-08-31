@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary rehefa naneso ⟨את⟩ an'i Isiraely izy, dia namono azy Jonatana zanak'i Simea rahalahin'i Davida.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "Ary naneso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Isiraely"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "dia namono azy"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonatana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Simea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "rahalahin'i"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    }
+  ],
+  "timestamp": "2026-08-31T17:39:15.853780933Z",
+  "model": "glm-5.3"
+}

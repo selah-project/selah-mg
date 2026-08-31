@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary niantso Achab i Obadiahy, ilay teo ambonin'ny trano; ary Obadiahy natahotra an'i ⟨את⟩ Yahveh indrindra.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tany amin'i"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadiahy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo ambonin'ny"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "ary Obadiahy"
+    },
+    {
+      "surface": "היה",
+      "gloss": "natahotra"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "natala-hotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "indrindra"
+    }
+  ],
+  "timestamp": "2026-08-31T18:47:04.223652714Z",
+  "model": "glm-5.3"
+}

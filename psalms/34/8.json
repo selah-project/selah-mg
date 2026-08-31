@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Mitoetra toy ny miady ⟨toby⟩ manodidina an'ireo matahora Azy ny irakan'i Yahveh, ary manafaka azy.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "Mitoetra toy ny miady toby"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ny iraka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "an'ireo matahora Azy"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "ary manafaka azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:22.575094110Z",
+  "model": "glm-5.3"
+}

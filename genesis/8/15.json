@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary Elohim niresaka tamin'i Noa ka nanao hoe:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "niresaka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nanao hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:51.535542498Z",
+  "model": "glm-5.3"
+}

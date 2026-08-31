@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 7:7",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ka hitako tao amin'ny kamo sy tsy ampy fahalalana, hitako tao amin'ny tanora, ny lehilahy tanora tsy ampy saina.",
+  "tokens": [
+    {
+      "surface": "וָאֵרֶא",
+      "gloss": "Ka hitako"
+    },
+    {
+      "surface": "בַּפְּתָאיִם",
+      "gloss": "tao amin'ny kamo sy tsy ampy fahalalana"
+    },
+    {
+      "surface": "אָבִינָה",
+      "gloss": "hitako"
+    },
+    {
+      "surface": "בַּבָּנִים",
+      "gloss": "tao amin'ny tanora"
+    },
+    {
+      "surface": "נַעַר",
+      "gloss": "lehilahy tanora"
+    },
+    {
+      "surface": "חָסַר",
+      "gloss": "tsy ampy"
+    },
+    {
+      "surface": "לֵב",
+      "gloss": "saina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:50:01.618713998Z",
+  "model": "glm-5.3"
+}

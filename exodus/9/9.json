@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 9:9",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary ho lasa vovoka izany amin'ny tany Mitsrayim rehetra, ary hisy amin'ny olombelona sy amin'ny biby fiompy fanaintainana mivaly mamoa tsatso manerana ny tany Mitsrayim rehetra.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ary ho lasa"
+    },
+    {
+      "surface": "לאבק",
+      "gloss": "vovoka"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ary hisy"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "olombelona"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy amin'ny"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "biby fiompy"
+    },
+    {
+      "surface": "לשחין",
+      "gloss": "fanaintainana"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "mamoa"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "tsatso mivaly"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "manerana ny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:23.702342006Z",
+  "model": "glm-5.3"
+}

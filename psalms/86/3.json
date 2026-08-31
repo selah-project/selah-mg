@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 86,
+  "translation": "Mamindrà fo amiko, ry Adonay, fa aminao no miantso aho mandritra ny andro iray manontolo.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Mamindrà fo amiko"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "aminAO"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "miantso aho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "manontolo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ny andro iray"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:21.794094580Z",
+  "model": "glm-5.3"
+}

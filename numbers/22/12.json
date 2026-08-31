@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary Elohim nanao tamin'i Bilam hoe: Aza mandeha aminy; aza manozona ⟨את⟩ ilay vahoaka, fa voa-tsoa ⟨izy⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza \/ Tsy"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "amily"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "manozona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay vahoaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ilay vahoaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "voa-tsoa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:32:29.890249344Z",
+  "model": "glm-5.3"
+}

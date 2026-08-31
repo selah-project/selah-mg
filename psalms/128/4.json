@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 128,
+  "translation": "Indro, fa toy izao no hotsoahan'ny fitahiana amin'ny lehilahy matahotra an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toy izao"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "no hotsoahan'ny fitahiana amin'ny"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "matahotra an'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:35.629793037Z",
+  "model": "glm-5.3"
+}

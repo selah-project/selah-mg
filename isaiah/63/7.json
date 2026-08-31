@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 63:7",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 63,
+  "translation": "Ny hesed'i Yahveh no hotsarovako, ny fiderana an'i Yahveh, araka izay reetra nataon'i Yahveh ho antsika, sy ny fananan-tsara betsaka ho an'ny taranak'i Isiraela, izay nataony ho azy araka ny famindrampony sy araka ny haben'ny hesediny.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "Ny hesed'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "no hotsarovako"
+    },
+    {
+      "surface": "תהלת",
+      "gloss": "ny fiderana an'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "araka izay reetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "reetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "גמלנו",
+      "gloss": "nataony ho antsika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "sy ny ... betsaka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "fananan-tsara"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ho an'ny taranak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "גמלם",
+      "gloss": "nataony ho azy"
+    },
+    {
+      "surface": "כרחמיו",
+      "gloss": "araka ny famindrampony"
+    },
+    {
+      "surface": "וכרב",
+      "gloss": "sy araka ny haben'ny"
+    },
+    {
+      "surface": "חסדיו",
+      "gloss": "hesediny"
+    }
+  ],
+  "timestamp": "2026-08-31T15:21:57.384650373Z",
+  "model": "glm-5.3"
+}

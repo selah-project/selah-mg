@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary hoy izy: Hotiaviko ianao, ry Yahveh, heriko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "Hotiaviko ianao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "heriko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:05.599417107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Tsy firy tsy firy no hanaovesarako azy eo anatrehanao, ambara-pahavokaranareo ka handova nareo ⟨את⟩ ny tany.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "tsy firy"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "tsy firy"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "hanaovesarako"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "eo anatrehanao"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ambara-paha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "vokaranareo"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "ka handova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:48.122559058Z",
+  "model": "glm-5.3"
+}

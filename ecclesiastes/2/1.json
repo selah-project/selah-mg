@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Hoy izaho tao am-poniko: Avia, hanandrama amin'ny fifaliana aho, ka hizaha ny soa; fa indro, hevel koa izany.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "hoy izaho"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "tao am-poniko"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "avia"
+    },
+    {
+      "surface": "נא",
+      "gloss": "(fampandrosoana)"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "hanandrama"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "amin'ny fifaliana"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ka hizaha"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ny soa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "fa indro"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:22.927207987Z",
+  "model": "glm-5.3"
+}

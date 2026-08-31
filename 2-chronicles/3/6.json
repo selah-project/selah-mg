@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary natafony vato sarobidy ⟨את⟩ ny trano ho amin'ny famakiana, ary ny volamena dia volamena avy any Parvayim.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "Ary natafony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny trano"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ny trano"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "vato"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "sarobidy"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "ho amin'ny famakiana"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ary ny volamena"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "avy any Parvayim"
+    }
+  ],
+  "timestamp": "2026-08-31T17:43:18.729168340Z",
+  "model": "glm-5.3"
+}

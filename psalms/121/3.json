@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 121,
+  "translation": "Aza avelana hangozohozo ny tongotrao; aza matory mandry ilay mpiambina anao.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "avelana"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "hangozohozo"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ny tongotrao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "matory mandry"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ilay mpiambina anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:02.382646452Z",
+  "model": "glm-5.3"
+}

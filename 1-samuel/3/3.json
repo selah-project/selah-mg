@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 3:3",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary tsy mbola maty ny fanilon'i Elohim, ary Shemuel midry ao amin'ny tempolin'i Yahveh, ilay ao aminy ny fiaran'i Elohim.",
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "Ary ny fanilo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "tsy mbola"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "maty"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "ary Shemuel"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "midry"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "ao amin'ny tempolin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ao aminy"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ny fiara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T14:15:01.118520428Z",
+  "model": "glm-5.3"
+}

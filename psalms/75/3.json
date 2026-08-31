@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 75,
+  "translation": "Rehefa mandray ny fotoana voatendry Hianao, Izaho no hitsara mitsara tsara.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "rehefa"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "mandray"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ny fotoana voatendry"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "mitsara tsara"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "hitsara"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:53.280902258Z",
+  "model": "glm-5.3"
+}

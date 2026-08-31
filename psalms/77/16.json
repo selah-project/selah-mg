@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 77,
+  "translation": "Efa navotanao tamin'ny tananao ny olonao, taranak'i Yaakov sy Yosela. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "Efa navotanao"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "tamin'ny tananao"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ny olonao"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taranak'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "sy Yosela"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:46.341451478Z",
+  "model": "glm-5.3"
+}

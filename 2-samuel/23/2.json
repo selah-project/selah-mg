@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ny Fanahin'i Yahveh efa nitenaka tamiko, ary ny teniny dia teo am-pelatankoho.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Fanahin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "efa nitenaka"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "ary ny teniny"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "am-pelatankoho"
+    }
+  ],
+  "timestamp": "2026-08-31T14:37:53.811092139Z",
+  "model": "glm-5.3"
+}

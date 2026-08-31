@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Araka ny nandidian'i Yahveh an'i ⟨את⟩ Moshe, dia nanisa azy tany an-efitra any Sinay izy.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Araka ny"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidian'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "dia nanisa azy"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "tany an-efitra"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "any Sinay"
+    }
+  ],
+  "timestamp": "2026-08-31T13:23:56.235235641Z",
+  "model": "glm-5.3"
+}

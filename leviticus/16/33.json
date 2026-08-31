@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary hanavotra ⟨את⟩ ny fitoerana masina indrindra, ary hanavotra ⟨את⟩ ny lain'ny fihaonana, ary hanavotra ⟨את⟩ ny alitara; ary ho an'ny mpisoratra sy ho an'ny vahoaka rehetra amin'ny fiangonana no hanavotra.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "hanavotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitoerana masina indrindra"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "fitoerana masina"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "masina indrindra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny lain'ny fihaonana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "laira"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny alitara"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ny alitara"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "hanavotra"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy ho an'ny"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mpisoratra"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy ho an'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "fiangonana"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "hanavotra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:17:00.320615809Z",
+  "model": "glm-5.3"
+}

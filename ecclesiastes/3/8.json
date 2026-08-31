@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Fotoana hitiavana sy fotoana halana, fotoana ho an'ny ady sy fotoana ho an'ny fiadanana.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "fotoana"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "hitiavana"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "sy fotoana"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "halana"
+    },
+    {
+      "surface": "עת",
+      "gloss": "fotoana"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ady"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "sy fotoana"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fiadanana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:16:39.750298928Z",
+  "model": "glm-5.3"
+}

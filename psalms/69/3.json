@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 69,
+  "translation": "Milofo aho ao anaty fangaro laline, ka tsy misy toerana hitombohana; tonga aho ao amin'ny lalin'ny rano, ary ny onja nanafika ahy.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "milofo"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "ao anaty"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "fangaro laline"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "toerana hitombohana"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "tonga aho"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "ao amin'ny lalin'ny"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "ary ny onja"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "nanafika ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:06.531426196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Tsara ny anara noho ny diloilo tsara, ary ny andron'ny fahafatesana mihoatra ny andro nahaterahana.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Tsara"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ny anara"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "noho ny diloilo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ary ny andron'ny"
+    },
+    {
+      "surface": "המות",
+      "gloss": "fahafatesana"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "mihoatra ny andro"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "nahaterahana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:16.395853027Z",
+  "model": "glm-5.3"
+}

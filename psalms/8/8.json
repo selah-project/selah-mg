@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ondry sy omby, izy rehetra, ary koa ny biby any an-tsaha.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "Ondry"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "sy omby"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "izy rehetra"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ary koa"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "biby"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "any an-tsaha"
+    }
+  ],
+  "timestamp": "2026-08-31T18:12:49.758796607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary Parao hanao hoe ny amin'ny zanak'i Isiraely: Mifatotra ao amin'ny tany izy, efa nanidy azy ny efitra.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "hanao hoe"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ny amin'ny zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "Mifatotra"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izy"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ao amin'ny tany"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "nanidy"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ny efitra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:00:11.324852376Z",
+  "model": "glm-5.3"
+}

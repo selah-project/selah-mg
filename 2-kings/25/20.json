@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary Nebuzaradana, lehiben'ny mpamondy, naka ⟨את⟩ azy ka nentiny ⟨את⟩ ho any amin'ny mpanjakan'i Babylona, any Riblata.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ary... naka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ireo olona notaterina)"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradana"
+    },
+    {
+      "surface": "רב",
+      "gloss": "lehiben'ny"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "mpamondy"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ka nentiny"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'i"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylona"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "any Riblata"
+    }
+  ],
+  "timestamp": "2026-08-31T15:02:54.135371577Z",
+  "model": "glm-5.3"
+}

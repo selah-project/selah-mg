@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 17:21",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary Isiraely sy ny Filistina nandahatra faomba hihaona amin'ny faomba.",
+  "tokens": [
+    {
+      "surface": "ותערך",
+      "gloss": "nandahatra faomba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "sy ny Filistina"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "faomba"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "hihaona amin'"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "faomba"
+    }
+  ],
+  "timestamp": "2026-08-31T14:21:04.292210733Z",
+  "model": "glm-5.3"
+}

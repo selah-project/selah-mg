@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 9:11",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary ny mpanjaka nanao ⟨את⟩ ny hazo algoma ho ambaribongy ho an'ny tranon'i Yahveh sy ho an'ny tranon'ny mpanjaka, ary koa lokanga sy hatesahaty ho an'ny mpihira; ary tsy mbola nahita tahaka ireo taloha ny tany Yehudah.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny hazo algoma"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ny hazo"
+    },
+    {
+      "surface": "האלגומים",
+      "gloss": "algoma"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "ho ambaribongy"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ho an'ny tranon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "sy ho an'ny tranon'i"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "וכנרות",
+      "gloss": "ary koa lokanga"
+    },
+    {
+      "surface": "ונבלים",
+      "gloss": "sy hatesahaty"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "ho an'ny mpihira"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "mbola nahita"
+    },
+    {
+      "surface": "כהם",
+      "gloss": "tahaka ireo"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "taloha"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-08-31T17:44:51.106710277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 61:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 61,
+  "translation": "Hipetraka ho amin'ny fahavelozana eo anatrehan'i Elohim izy; hesed sy fahamarinana no voatendry hiambina azy.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "hipetraka"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ho amin'ny fahavelozana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anatrehan'"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "sy fahamarinana"
+    },
+    {
+      "surface": "מן",
+      "gloss": "voatendry"
+    },
+    {
+      "surface": "ינצרהו",
+      "gloss": "hiambina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:53.672529599Z",
+  "model": "glm-5.3"
+}

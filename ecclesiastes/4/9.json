@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Tsara ny roa mihoatra noho ⟨ny⟩ iray, satria misy valisoa tsara ho azy amin'ny fikelezany aina.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "Tsara"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ny roa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mihoatra noho"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "satria"
+    },
+    {
+      "surface": "יש",
+      "gloss": "misy"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "valisoa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "amin'ny fikelezany aina"
+    }
+  ],
+  "timestamp": "2026-08-31T17:14:38.875778566Z",
+  "model": "glm-5.3"
+}

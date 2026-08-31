@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Ary izy nanatona azy ka niresaka taminy ireo teny ireo.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "nanatona azy"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "niresaka"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tamin'izy ireo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ireo teny ireo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ireo teny"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:51:42.105394591Z",
+  "model": "glm-5.3"
+}

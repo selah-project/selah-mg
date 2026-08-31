@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 106:21",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Nanadino an'i El Mpamonjy azy izy ireo, ilay mpanao zava-dehibe tao Mitsrayim,",
+  "tokens": [
+    {
+      "surface": "שכחו",
+      "gloss": "nanadino"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מושיעם",
+      "gloss": "Mpamonjy azy"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mpanao"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "zava-dehibe"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "tao Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:18.699609018Z",
+  "model": "glm-5.3"
+}

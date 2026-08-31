@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ny sabatrany hiditra ao an-kaninany, ary ny tsipìkany ho triatra.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "Ny sabatrany"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "hiditra"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ao an-kaninany"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "ary ny tsipìkany"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "ho triatra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:30.524635303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 8:5",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary izaho sy ny vahoaka rehetra izay ⟨את⟩ amiko hanakaiky ny tanàna; ary raha mivoaka hitsena ahy izy ireo, toy ny tamin'ny voalohany, dia handositra eo anoloany izahay.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ary izaho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ny ... rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ amiko"
+    },
+    {
+      "surface": "נקרב",
+      "gloss": "hanakaiky"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-(a)min'ny"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ary raha misy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "raha"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "mivoaka"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "hitsena ahy"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "toy ny"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "tamin'ny voalohany"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "dia handositra izahay"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "eo anoloany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:57:44.046373123Z",
+  "model": "glm-5.3"
+}

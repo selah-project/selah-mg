@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary izany no nataony taona aman-taona, isaky niakatra tao an-tranon'i Yahveh izy, dia nanaintaina foana izy, ka nitomany ka tsy nihinan-kanina.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Ary izany no"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "amin-taona"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "isaky"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "niakatra"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "tao an-tranon'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "foana"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "nanaintaina"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "ka nitomany"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "nihinan-kanina"
+    }
+  ],
+  "timestamp": "2026-08-31T14:14:29.860603993Z",
+  "model": "glm-5.3"
+}

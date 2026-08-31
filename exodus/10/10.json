@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary hoy izy taminy: Ho tahaka izao Yahveh homba anareo — araka izay aho hamela anareo ⟨את⟩ sy ny madinika amanareo ⟨את⟩; jereo fa loza no tandrifinareo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy izy"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tahaka izao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "homba anareo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka izay"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "aho hamela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "anareo ⟨את⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny madinika amanareo"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "ny madinika amanareo"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "jereo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "loza"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "no"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "tandrifinareo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:12.079789104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 109,
+  "translation": "Hanankasaka aho an'i Yahveh amin'ny vavako, ary any afovoan'ny maro no hiderako Azy.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "hanankasaka aho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨be⟩"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "amin'ny vavako"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "ary any afovoan'ny"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maro"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "hiderako Azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:38.782422916Z",
+  "model": "glm-5.3"
+}

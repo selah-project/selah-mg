@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 16:26",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary izy nandeha tamin'ny lalana rehetra nataon'i Yaravama zanak'i Nebata sy tamin'ny fahotany izay nampahotany ⟨את⟩ an'i Yisraely, hanampoahany an'i Yahveh, Elohin'i Yisraely, amin'ny fahalaniany.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tamin'ny ... rehetra"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebata"
+    },
+    {
+      "surface": "ובחטאתיו",
+      "gloss": "sy tamin'ny fahotany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "nampahotany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yisraely"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraely"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "hanampoahany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraely"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "amin'ny fahalaniany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:46:47.996671241Z",
+  "model": "glm-5.3"
+}

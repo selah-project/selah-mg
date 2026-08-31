@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Izaho Yahveh no anarako, ary ny voninahitro tsy homeko ho an'ny hafa, ary ny fiderana ahy tsy homeko ho an'ny sampy voasokitra.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "anarako"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "ary ny voninahitro"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "tsy homeko ho an'ny hafa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "homeko"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "ary ny fiderana ahy"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "ho an'ny sampy voasokitra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:14:25.837857535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary Shemuela mpanompo nanompo ⟨את⟩ eo anoloan'i Yahveh, tanora miady lamba fifadianana: efoda lamba.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Ary Shemuela"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "mpanompo nanompo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eo anoloan'i Yahveh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "eo anoloan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "נער",
+      "gloss": "tanora"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "miady lamba"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efoda"
+    },
+    {
+      "surface": "בד",
+      "gloss": "lamba fifadianana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:02:17.330067107Z",
+  "model": "glm-5.3"
+}

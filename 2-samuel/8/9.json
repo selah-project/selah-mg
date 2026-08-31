@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary To'i mpanjakan'i Hamata nandre fa efa namely Davida ⟨את⟩ ny tafika rehetra nanan'i Hadadezera.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nandre"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "To'i"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'i"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "efa namely"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tafika rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "tafika"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezera"
+    }
+  ],
+  "timestamp": "2026-08-31T14:31:01.991549413Z",
+  "model": "glm-5.3"
+}

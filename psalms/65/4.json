@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 65,
+  "translation": "Ny tenin'ny heloka bevibeza nanjaka tamiko; ny fandikantsika — ianao no hanarona ⟨azy⟩.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Ny tenin'ny"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "heloka bevibeza"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "nanjaka"
+    },
+    {
+      "surface": "מני",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ny fandikantsika"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "no hanarona ⟨azy⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:12.952225254Z",
+  "model": "glm-5.3"
+}

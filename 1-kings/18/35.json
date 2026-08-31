@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary nandeha ny rano manodidina ny alitara, ary ny lavaka ⟨את⟩ koa no fenany rano.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ny rano"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "ny alitara"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lavaka"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "ny lavaka"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "fenany"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    }
+  ],
+  "timestamp": "2026-08-31T14:48:23.927491164Z",
+  "model": "glm-5.3"
+}

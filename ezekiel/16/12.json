@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 16:12",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary nomena peratry ny orona sy peratra amin'ny sofiny, ary satro-boninahitra mahafinaritra amin'ny lohany.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "nomena"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "peratra ny orona"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "orona"
+    },
+    {
+      "surface": "ועגילים",
+      "gloss": "peratra sofiny"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "sofiny"
+    },
+    {
+      "surface": "ועטרת",
+      "gloss": "satro-boninahitra mahafinaritra"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "mahafinaritra"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "lohany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:51:50.989377172Z",
+  "model": "glm-5.3"
+}

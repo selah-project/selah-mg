@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Dia namaly ahy ianareo ka nanao hoe: Tsara ilay teny nolazainao hatao.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "namaly"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ahy"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Tsara"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ilay teny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "nolazainao"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hatao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:39:43.479599188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 13:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Fa ny kintan'ny lanitra sy ny antokon-kintany tsy hamiratra ny mazany; ho maizina ny masoandro amin'ny fivoahany, ary ny volana tsy hamiratra ny mazany.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "ny kintan'"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "וכסיליהם",
+      "gloss": "sy ny antokon-kintany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יהלו",
+      "gloss": "hamiratra"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "ny mazany"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ho maizina"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ny masoandro"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "amin'ny fivoahany"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ary ny volana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "hamiratra"
+    },
+    {
+      "surface": "אורו",
+      "gloss": "ny mazany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:06:08.045675577Z",
+  "model": "glm-5.3"
+}

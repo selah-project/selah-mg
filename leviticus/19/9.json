@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary rehefa mamoky ianareo ⟨את⟩ fijinjan'ny tany nareo, aza manapana tanteraka zoron-tanin'io sahaninao hovakiana, ary satro-bolan'ny fijinjanao aza angoninao.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "rehefa mamoky ianareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fijinjan'ny tany nareo"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "fijinjana"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ny tany nareo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "manapana tanteraka"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "zoron-taniny"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ny sahaninao"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "hovakiana"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "ary satro-bolana"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "ny fijinjanao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "angoninao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:17:15.195686045Z",
+  "model": "glm-5.3"
+}

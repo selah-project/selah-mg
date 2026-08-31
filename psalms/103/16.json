@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 103,
+  "translation": "Fa rivotra mandalo eo ambony iany ka tsy misy intsony, ary ny toerany tsy hahafantatra azy intsony.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rivotra"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "mandalo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "eo ambony iany"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "tsy misy intsony"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "hahafantatra azy"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ny toerany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:29.029517073Z",
+  "model": "glm-5.3"
+}

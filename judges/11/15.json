@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "ka nanao taminy hoe: Izao no lazain'i Yiftaha: Tsy nalain'ny Isiraely ⟨את⟩ ny tany Moaba, na ⟨את⟩ ny tanyn'ny taranak'i Amonta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao taminy hoe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Izao"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "no lazain'"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftaha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nalain'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany Moaba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "ny tanyn'ny taranak'i Amonta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taranaka"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amona"
+    }
+  ],
+  "timestamp": "2026-08-31T14:10:18.043690135Z",
+  "model": "glm-5.3"
+}

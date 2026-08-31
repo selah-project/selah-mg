@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ka niresaka taminy ny loholona rehetra sy ny vahoaka rehetra hoe: Aza mihaino ⟨azy⟩, ary aza manaiky.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ka niresaka"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "... rehetra"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ny loholona"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ny ... rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "mihaino"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "manaiky"
+    }
+  ],
+  "timestamp": "2026-08-31T14:48:38.004275850Z",
+  "model": "glm-5.3"
+}

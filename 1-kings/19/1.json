@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary Achab nanambara tamin'i Izebela ⟨את⟩ izay rehetra nataon'i Eliyahu, sy ⟨את⟩ izay rehetra namonoany ⟨את⟩ ny mpaminany rehetra tamin'ny sabatra.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "nanambara"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "tamin'i Izebela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay rehetra nataon'i Eliyahu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "natao"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "izay rehetra namonoany"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "namonoany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpaminany rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ny mpaminany"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "tamin'ny sabatra"
+    }
+  ],
+  "timestamp": "2026-08-31T14:48:00.377789309Z",
+  "model": "glm-5.3"
+}

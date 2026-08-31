@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 91,
+  "translation": "Hiantso Ahy izy, ary hamaly azy Aho; Aloha amin'ny fahoriana Izaho, hamonjy azy ary hanomezam-boninahitra azy.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "Hiantso Ahy izy"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "ary hamaly azy"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Aloha aminy \/ aminy"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "amin'ny fahoriana"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "hamonjy azy"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "ary hanomezam-boninahitra azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:15.295168749Z",
+  "model": "glm-5.3"
+}

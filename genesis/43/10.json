@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 43,
+  "translation": "Fa raha tsy efa niandry ela izahay, dia ho tafaverina indroa mihitsy izahay izao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "raha tsy"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "efa niandry ela izahay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dia"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "izao"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "ho tafaverina"
+    },
+    {
+      "surface": "זה",
+      "gloss": "mihitsy"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "indroa"
+    }
+  ],
+  "timestamp": "2026-08-31T12:51:11.763804442Z",
+  "model": "glm-5.3"
+}

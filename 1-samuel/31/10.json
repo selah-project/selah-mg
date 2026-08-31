@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary napetrany ⟨את⟩ ny fiadiany tao amin'ny tranon'i Ashtarota, ary ⟨את⟩ ny faton'i Shaolahina nahatony teo amin'ny mandan'ny Beti-Shana.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "napetrany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiadiany"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ny fiadiany"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon'ny"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Ashtarota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny fatony"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "ny fatony"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "nahatony"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "teo amin'ny mandan'ny"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:28:09.798969965Z",
+  "model": "glm-5.3"
+}

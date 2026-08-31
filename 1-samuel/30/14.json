@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 30:14",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Izahay nanao fanafihana tany amin'ny atsimon'ny Kereti, sy tamin'izay an'i Yehudah, ary tany amin'ny atsimon'i Kaleba; ary Tsiklag dia nay may tamin'ny afo.",
+  "tokens": [
+    {
+      "surface": "אנחנו",
+      "gloss": "izahay"
+    },
+    {
+      "surface": "פשטנו",
+      "gloss": "nanao fanafihana"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "atsimon"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "ny Kereti"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy tamin'"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay an'i"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ary tany amin'ny"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "atsimon"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "שרפנו",
+      "gloss": "nay may"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tamin'ny afo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:27:37.616488075Z",
+  "model": "glm-5.3"
+}

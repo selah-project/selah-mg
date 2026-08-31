@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 8:4",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nivory ny loholon'i Yisraela rehetra, ka tonga tany amin'i Shemuël tao Ramàta.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "Ary nivory"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ny loholon'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ka tonga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tany amin'i"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "tao Ramàta"
+    }
+  ],
+  "timestamp": "2026-08-31T14:15:54.443330981Z",
+  "model": "glm-5.3"
+}

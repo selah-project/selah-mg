@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Aza miady tany amin'ny omby sy amin'ny boriky miaraka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "miady tany"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "amin'ny omby"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "sy amin'ny boriky"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "miaraka"
+    }
+  ],
+  "timestamp": "2026-08-31T13:47:32.386217631Z",
+  "model": "glm-5.3"
+}

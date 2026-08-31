@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 14:10",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Fa raha hoy kosa izy: Miakatra hiakatra aminay; dia miakatra izahay, fa efa natolotr'i Yahveh izy ho an-tanantsika; ary ho famantarana ho antsika izany.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Fa raha"
+    },
+    {
+      "surface": "כה",
+      "gloss": "hoy kosa"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "izy"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Miakatra"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "aminay"
+    },
+    {
+      "surface": "ועלינו",
+      "gloss": "dia miakatra izahay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "efa natolotr'i Yahveh izy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "ho an-tanantsika"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ary izany"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho antsika"
+    },
+    {
+      "surface": "האות",
+      "gloss": "famantarana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:19:34.599921041Z",
+  "model": "glm-5.3"
+}

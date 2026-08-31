@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 63,
+  "translation": "Fa izy kosa mitady ny faharavan'ny fanahiko; hiditra ao amin'ny farany ambany amin'ny tany izy.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "fa izy kosa"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "ny faharavan'ny"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "mitady"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "fanahiko"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "hiditra"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "ao amin'ny farany ambany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "amin'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:40.933611312Z",
+  "model": "glm-5.3"
+}

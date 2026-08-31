@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 21:13",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "fa nandeha tamin'ny lalan'ny mpanjakan'i Yisraela ianao, ka nampijangoina ⟨את⟩ Yehuda sy ⟨את⟩ mponin'i Yerushalayim, tahaka ny fijangoinan'ny taranak'i Achab; ary ⟨את⟩ ny rahalahinao, taranak'ny rainao, izay tsara noho anao, dia novonoinao.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tamin'ny lalan'ny"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mpanjakan'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "nampijangoina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "mponin'i Yerushalayim"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mponin'i"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כהזנות",
+      "gloss": "tahaka ny fijangoinan'ny"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taranak'ny"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ary"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rahalahinao"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ny rahalahinao"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taranak'ny"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "rainao"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "izay tsara"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "noho anao"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "novonoinao"
+    }
+  ],
+  "timestamp": "2026-08-31T17:48:25.971131679Z",
+  "model": "glm-5.3"
+}

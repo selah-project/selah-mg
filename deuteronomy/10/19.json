@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary tiavo ⟨את⟩ ilay vahiny, fa vahiny ianareo tany amin'ny tany Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "Ary tiavo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay vahiny"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ilay vahiny"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "vahiny"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ianareo tany"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T13:42:22.629303189Z",
+  "model": "glm-5.3"
+}

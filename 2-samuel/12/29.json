@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary Dawida nanangona ⟨את⟩ ny vahoaka rehetra ka nankany Rabbah, ary niady tamin'ity ka nandray an'i Rabbah ho babo.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "nanangona"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "nankany"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "niady tamin'ity"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tamin'ity"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "nandray an'i Rabbah ho babo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:32:16.113246087Z",
+  "model": "glm-5.3"
+}

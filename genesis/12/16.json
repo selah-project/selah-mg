@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary natao tsara tamin'i Avrahama izy noho ny amin'ity vehivavy ity; ary nananany ondry aman'omby, boriky lahy, mpanompo sy mpanompo vavy, boriky vavy, ary rameva.",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "tamin'i Avrahama"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "natao tsara"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "noho ny amin'ity vehivavy ity"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ary nananany"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨tamin'ny tenany⟩"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ondry"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "aman'omby"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "boriky lahy"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "mpanompo"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "mpanompo vavy"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "boriky vavy"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "rameva"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:34.358714278Z",
+  "model": "glm-5.3"
+}

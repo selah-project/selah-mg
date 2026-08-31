@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 12:5",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "sy Yirmeyah, sy Yahaziel, sy Yohanan, ary sy Yozavad ilay Gedaratita;",
+  "tokens": [
+    {
+      "surface": "וירמיה",
+      "gloss": "sy Yirmeyah"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "sy Yahaziel"
+    },
+    {
+      "surface": "ויוחנן",
+      "gloss": "sy Yohanan"
+    },
+    {
+      "surface": "ויוזבד",
+      "gloss": "sy Yozavad"
+    },
+    {
+      "surface": "הגדרתי",
+      "gloss": "ilay Gedaratita"
+    }
+  ],
+  "timestamp": "2026-08-31T17:37:07.815820757Z",
+  "model": "glm-5.3"
+}

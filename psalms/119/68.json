@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Tsoa ianao ka manao tsoa; ampianaro ahy ny lalànao.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tsoa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "ka manao tsoa"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ampianaro ahy"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ny lalànao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:16.884052152Z",
+  "model": "glm-5.3"
+}

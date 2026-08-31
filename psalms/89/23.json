@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Tsy hahazo mampahory azy ny fahavalo; ary ny zanak'ny tsi-fahamarinana tsy hahazo manery azy.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "hahazo mampahory"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ny fahavalo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ary ny zanak'ny"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "tsi-fahamarinana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "hahazo manery azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:40.683474819Z",
+  "model": "glm-5.3"
+}

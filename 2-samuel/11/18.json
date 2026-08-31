@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary Yoab naniraka ka nanambara tamin'i Davida ⟨את⟩ ny zava-drehetra momba ny ady.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "naniraka"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "nanambara"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "tamin'i Davida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zava-drehetra momba ny ady"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny zava-drehetra"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "zava- (momba)"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ny ady"
+    }
+  ],
+  "timestamp": "2026-08-31T18:02:11.488466094Z",
+  "model": "glm-5.3"
+}

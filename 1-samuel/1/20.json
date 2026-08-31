@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 1:20",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary nonina tamin'ny fihodin'ny andro, dia hitampa kibo Hanna ka niteraka zazalahy, ary niantsoiny ny anarany hoe Shemuel, fa tamin'i Yahveh no nangatahako azy.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nonina"
+    },
+    {
+      "surface": "לתקפות",
+      "gloss": "tamin'ny fihodin'ny"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "dia hitampa kibo"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hanna"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "ka niteraka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zazalahy"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ary niantsoiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anarany"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "tamin'i Yahveh"
+    },
+    {
+      "surface": "שאלתיו",
+      "gloss": "no nangatahako azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:13:45.533446509Z",
+  "model": "glm-5.3"
+}

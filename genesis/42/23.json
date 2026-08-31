@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Ary tsy fantatr'izy ireo fa mandre Yosefa, fa ny mpandika teny no eo anelanelany.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Ary ... izy ireo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "fantatr'"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "mandre"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "ny mpandika teny"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "eo anelanelany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:51:35.507752595Z",
+  "model": "glm-5.3"
+}

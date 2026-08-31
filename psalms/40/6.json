@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 40:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Zava-betsaka no nataonao, Yahveh Elohim-ko; ny fahagaganao sy ny eritreritrao momba anay dia tsy misy mitovy aminao; te-hambarako sy holazaintsoko izy, fa be loatra ka tsy azon-tanisina.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "Zava-betsaka"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "no nataonao"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-ko"
+    },
+    {
+      "surface": "נפלאתיך",
+      "gloss": "ny fahagaganao"
+    },
+    {
+      "surface": "ומחשבתיך",
+      "gloss": "sy ny eritreritrao"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "momba anay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "mitovy"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "אגידה",
+      "gloss": "te-hambarako"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "sy holazaintsoko"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "fa be loatra"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ka tsy azon-tanisina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:53.229133484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Fa tamin'i Kayin sy tamin'ny fanatitra nentiny kosa dia tsy nifidy Yahveh; ka tezitra mafy i Kayin ary nitrontoka ny tarehiny.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Fa tamin'i"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sy tamin'ny"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "fanatitra nentiny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "nifidy"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ka tezitra"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "i Kayin"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mafy"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ary nitrontoka"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ny tarehiny"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:02.124592936Z",
+  "model": "glm-5.3"
+}

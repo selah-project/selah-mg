@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 32:23",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ary nitsangana tamin'ny alina izy ka naka ⟨את⟩ ny vadiny roa sy ⟨את⟩ ny mpanompovaviny roa ary ⟨את⟩ ny zanany dimy ambin'ny folo, dia niampita ⟨את⟩ ny fikambanan'ny Yabboq.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nitsangana"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "tamin'ny alina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ka naka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vadiny roa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "roa"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ny vadiny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny mpanompovaviny roa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "roa"
+    },
+    {
+      "surface": "שפחתיו",
+      "gloss": "ny mpanompovaviny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny zanany dimy ambin'ny folo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "dimy ambin'ny"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "folo"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "niampita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fikambanan'ny Yabboq"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ny fikambanan'ny"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Yabboq"
+    }
+  ],
+  "timestamp": "2026-08-31T12:46:40.435182024Z",
+  "model": "glm-5.3"
+}

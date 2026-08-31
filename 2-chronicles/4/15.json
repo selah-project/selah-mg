@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "⟨את⟩ ny ranomasina iray, ary ⟨את⟩ ny omby roa ambin'ny folo ambaniny.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ranomasina iray"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ny ranomasina"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny omby roa ambin'ny folo"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ny omby"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "roa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ambin'ny folo"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ambaniny"
+    }
+  ],
+  "timestamp": "2026-08-31T18:26:27.673935631Z",
+  "model": "glm-5.3"
+}

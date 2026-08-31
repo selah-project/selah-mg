@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Kanefa aza misy olona miady, ary aza misy olona mananara, fa ny olonao dia tahaka ny mpifanandrina amin'ny mpisorona.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kanefa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza misy"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "miady"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary aza misy"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "mananara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "fa ny olonao"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "tahaka ny mpifanandrina amin'ny"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "mpisorona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:07:32.781936561Z",
+  "model": "glm-5.3"
+}

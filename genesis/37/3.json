@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary Yisraela nankafy an'i Yosefa mihoatra noho ny zanany rehetra, fa zaza teraka tamin'ny fahalehibeana izy ⟨tamin'ny rainy⟩; ary nanao lamba misy tsipika lava ho an'i Yosefa izy.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "Ary Yisraela"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "nankafy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mihoatra noho ny ... rehetra"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zaza"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "teraka tamin'ny fahalehibeana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tamin'ny rainy"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ary nanao"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho an'i Yosefa"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "lamba"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "misy tsipika lava"
+    }
+  ],
+  "timestamp": "2026-08-31T12:48:37.193734712Z",
+  "model": "glm-5.3"
+}

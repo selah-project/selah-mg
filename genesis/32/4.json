@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ary Yaakov naniraka olona ⟨את⟩ mialoha teo anatrehany ho any amin'i Esau rahalahiny, ho amin'ny tanin'i Seira, tany Edoma.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "naniraka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "iraka"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "mialoha teo anatrehany"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'i"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "rahalahiny"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ho amin'ny tanin'i"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seira"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "tany"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edoma"
+    }
+  ],
+  "timestamp": "2026-08-31T12:45:46.632327481Z",
+  "model": "glm-5.3"
+}

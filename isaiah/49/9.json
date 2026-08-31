@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 49:9",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 49,
+  "translation": "hilaza amin'ny voatanteraka hoe: Mivoaha ianareo, ary amin'izay ao amin'ny maizina hoe: Aseho anie ny tenanareo. Any amin'ny lalana no hibiakan'izy ireo, ary any amin'ny hivoho tanteraka no ialan'izy ireo.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "hilaza"
+    },
+    {
+      "surface": "לאסורים",
+      "gloss": "amin'ny voatanteraka"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "Mivoaha"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "amin'izay"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ao amin'ny maizina"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "Aseho anie ny tenanareo"
+    },
+    {
+      "surface": "על",
+      "gloss": "any amin'ny"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "no hibiakan'izy ireo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ary any amin'ny"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "hivoho tanteraka"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "ialan'izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:16:46.487038868Z",
+  "model": "glm-5.3"
+}

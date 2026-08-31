@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 25:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ny fanahiny mitoetra amin'ny soa, ary ny taranany handova ⟨את⟩ ny tany.",
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "ny fanahiny"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "amin'ny soa"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "mitoetra"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ary ny taranany"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "handova"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T19:13:04.144870218Z",
+  "model": "glm-5.3"
+}

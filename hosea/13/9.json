@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ny fandringanana anao, ry Yisrael, ⟨noho⟩ ny fanoavanaanao Ahy, ilay Mpanampy anao.",
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "ny fandringanana anao"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ry Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨noho⟩ ny fanoavanaanao Ahy"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Ahy"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "ilay Mpanampy anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:08:45.658330363Z",
+  "model": "glm-5.3"
+}

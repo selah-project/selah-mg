@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary Kush niteraka ⟨את⟩ Nimroda; izy no nanomboka ho lehilahy mahery tamin'ny tany.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Ary Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimroda"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimroda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "החל",
+      "gloss": "nanomboka"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ho"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "lehilahy mahery"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tamin'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:19:25.669339479Z",
+  "model": "glm-5.3"
+}

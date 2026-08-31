@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary Shemuëla nihaino ⟨את⟩ ny teny rehetra nataon'ny vahoaka, ka nolazainy tamin'ny sofin'i Yahveh izany.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuëla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny teny rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "natan'ny vahoaka"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "ka nolazainy izany"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "tamin'ny sofin'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T14:15:40.214030021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "ary ⟨את⟩ ny alitaran'ny fanatitra dorana sy ⟨את⟩ ny fitaovany rehetra, ary ⟨את⟩ ny savony ⟨את⟩ ary ny fitoerany,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny alitaran'ny fanatitra dorana"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "fanatitra dorana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitaovany rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "fitaovany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny savony"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "savony"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitoerany"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "fitoerany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:06:05.364569757Z",
+  "model": "glm-5.3"
+}

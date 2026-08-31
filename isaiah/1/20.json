@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Fa raha mandà ka miodina ianareo, ny sabatra no hihinana anareo; fa ny vavan'i Yahveh no efa niteny.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Fa raha"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "mandà"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "ka miodina ianareo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ny sabatra"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "hihinana anareo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ny vavan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "efa niteny"
+    }
+  ],
+  "timestamp": "2026-08-31T15:01:46.798220267Z",
+  "model": "glm-5.3"
+}

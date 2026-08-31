@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary sasaony ⟨את⟩ ny tsinyl sy ⟨את⟩ ny tongotro, dia natsipy hodorana teo ambonin'ny fanatitra dorana teo amin'ny alitara izy.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "Ary sasaony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tsinyl"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ny tsinyl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tongotro"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "ny tongotro"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "natsipy hodorana"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo ambonin'ny"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "fanatitra dorana"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "teo amin'ny alitara"
+    }
+  ],
+  "timestamp": "2026-08-31T13:13:37.507212473Z",
+  "model": "glm-5.3"
+}

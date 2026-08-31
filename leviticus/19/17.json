@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Tsy hankahala ny rahalahinao ao an-tsainao ianao; hitan-tsaina tsy misy fetra hitan-tsaina ⟨את⟩ ny namanao, ary tsy hitondra fahotana aminy ianao.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "hankahala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rahalahinao"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ny rahalahinao"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ao an-tsainao"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "hitan-tsaina"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "hitan-tsaina tsy misy fetra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny namanao"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "ny namanao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "hitondra"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "fahotana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:17.557680881Z",
+  "model": "glm-5.3"
+}

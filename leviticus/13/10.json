@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 13:10",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Dia hijery ny mpisorona, ka, indro, fiakarana fotsy eo amin'ny hoditra, ka efa niova ho fotsy ny volo, ary misy nofo mivelana eo amin'ny fiakarana;",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "hijery"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ka indro"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "fiakarana"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "fotsy"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "eo amin'ny hoditra"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ka izy"
+    },
+    {
+      "surface": "הפכה",
+      "gloss": "efa niova"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ny volo"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ho fotsy"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "ary misy fivelanana"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nofo"
+    },
+    {
+      "surface": "חי",
+      "gloss": "mivelana"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "eo amin'ny fiakarana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:16:33.978852301Z",
+  "model": "glm-5.3"
+}

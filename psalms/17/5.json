@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Tehirizo tsy hihozongozona ny dingako ao amin'ny lalanao; ny tongotro tsy hangovitra.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "Tehiriko tsy hihozongozona"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ny dingako"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "ao amin'ny lalanao"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "hangovitra"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ny tongotro"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:17.544436985Z",
+  "model": "glm-5.3"
+}

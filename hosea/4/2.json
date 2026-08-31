@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Fanozona sy fandainga ary famonoana olona ary halatra ary fijangajangana — efa nivariana izy ireo, ary rà manafa-dra.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "fanozona"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "sy fandainga"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "ary famonoana olona"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "ary halatra"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "ary fijangajangana"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "efa nivariana"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "ary rà"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "manafa-dra"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "mifanintona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:07:32.781388262Z",
+  "model": "glm-5.3"
+}

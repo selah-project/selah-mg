@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary maty ny mpanjaka ka nampidirina tao Shomeron, dia nalevina tao Shomeron ny mpanjaka.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ary maty"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ka nampidirina"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "tao Shomeron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "dia nalevina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanjaka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "tao Shomeron"
+    }
+  ],
+  "timestamp": "2026-08-31T14:50:27.245114850Z",
+  "model": "glm-5.3"
+}

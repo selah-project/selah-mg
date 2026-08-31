@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 10:2",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Manaova anao hazo trompetra roa volafotsy, asa voatokatra no hanaovana azy ⟨את⟩; ary ho anao izy ho fiantsoana ny fiangonana sy ho fandehanana ⟨את⟩ ny toby.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Manaova"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "roa"
+    },
+    {
+      "surface": "חצוצרת",
+      "gloss": "trompetra"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "asa voatokatra"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hanaovana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ny trompetra)"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "ho fiantsoana"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ny fiangonana"
+    },
+    {
+      "surface": "ולמסע",
+      "gloss": "sy ho fandehanana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny toby"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "ny toby"
+    }
+  ],
+  "timestamp": "2026-08-31T18:29:19.081277967Z",
+  "model": "glm-5.3"
+}

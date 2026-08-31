@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "fa amin'ny hazon'ny fahalalana ny tsara sy ny ratsy kosa, aza hihinana avy aminy; fa amin'ny andro izay hihinanao avy aminy dia faty tokoa no hahafatesanao",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "fa amin'ny hazo"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "ny fahalalana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ny tsara"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "sy ny ratsy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "hihinana"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "avy aminy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "izay hihinanao"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "avy aminy"
+    },
+    {
+      "surface": "מות",
+      "gloss": "faty tokoa"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "no hahafatesanao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:27:26.762094584Z",
+  "model": "glm-5.3"
+}

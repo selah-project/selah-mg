@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary nanao ny ratsy izy, fa tsy nanamfony ny fony hitady ⟨את⟩ Yahveh.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ary nanao"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ny ratsy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "nanamfony"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ny fony"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "hitady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T17:46:20.603830227Z",
+  "model": "glm-5.3"
+}

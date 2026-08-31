@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 8:18",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nentiny natolotra ⟨את⟩ ny ondrilahin'ny fanatitra dorana; ary Aharon sy ny zanany nametra ny tànany ⟨את⟩ ambony lohan'ilay ondrilahy.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "nentiny natolotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ondrilahin'ny fanatitra dorana"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ondrilahy"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "fanatitra dorana"
+    },
+    {
+      "surface": "ויסמכו",
+      "gloss": "nametra"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "sy ny zanany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tànany"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ny tànany"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambony"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "lohan'"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ondrilahy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:13:37.942968126Z",
+  "model": "glm-5.3"
+}

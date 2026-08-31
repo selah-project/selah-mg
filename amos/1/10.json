@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 1:10",
+  "book": "amos",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary hanafika afo amin'ny mandan'i Tsor, ka hihinany ny lapany.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Ary hanafika"
+    },
+    {
+      "surface": "אש",
+      "gloss": "afo"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "amin'ny mandan'i"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ka hihinany"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "ny lapany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:10:26.043362250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 95,
+  "translation": "Ho eo anatrehany amin'ny fisaorana, amin'ny zava-midina isika hiantso mafy Azy.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "Ho eo anatrehany"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "Azy (tavan')"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "amin'ny fisaorana"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "amin'ny zava-midina"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "hiantso mafy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:25.508914857Z",
+  "model": "glm-5.3"
+}

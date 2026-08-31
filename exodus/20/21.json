@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary nitsangana teny lavitra ny vahoaka, fa Moshe kosa nanatona ⟨⟨ny⟩⟩ amin'ny maizina mafy izay nisy ny Elohim.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Ary nitsangana"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "teny lavitra"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "fa Moshe kosa"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "nanatona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨⟨amin'ny⟩⟩"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "ny maizina mafy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nisy"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ny Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T13:02:10.231168303Z",
+  "model": "glm-5.3"
+}

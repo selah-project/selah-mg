@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 130,
+  "translation": "Ary Isiraely, manantena amin'i Yahveh, fa ao amin'i Yahveh no misy hesed, ary ambe loa aminy ny famonjena.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "manantena"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ao amin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "no misy hesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "ary ambe loa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "ny famonjena"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:59.257704249Z",
+  "model": "glm-5.3"
+}

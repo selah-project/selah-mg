@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 35:12",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Ary ⟨את⟩ ny tany izay nomenako ho an'i Avraham sy ho an'i Itzhaka, no homekoo ⟨⟨את⟩ izany⟩ ho anao, ary ho an'ny taranakao aorianao no homeko ⟨את⟩ ny tany.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nomenako"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ho an'i Avraham"
+    },
+    {
+      "surface": "וליצחק",
+      "gloss": "sy ho an'i Itzhaka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "no homeko"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "ary ho an'ny taranakao"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "aorianao"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "no homeko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:47:36.992577997Z",
+  "model": "glm-5.3"
+}

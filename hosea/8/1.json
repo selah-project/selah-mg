@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ankivy amin'ny vavanao, toy ny voromahery ⟨eo⟩ ambonin'ny tranon'i Yahveh, satria nihoatra tamin'ny fanekeko izy ary niodina tamin'ny lalàko.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "vavanao"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "ankivy"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "toy ny voromahery"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon'ny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "יען",
+      "gloss": "satria"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "nihoatra izy"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "tamin'ny fanekeko"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ary tamin'ny"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "lalàko"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "niodina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:09:26.171822916Z",
+  "model": "glm-5.3"
+}

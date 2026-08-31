@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 73,
+  "translation": "Fa izay kosa, saika niondrika ny tongotro, hoatry ny efa navotsotra tanteraka ny diako.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Fa izay kosa"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "saika"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "niondrika"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ny tongotro"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "hoatry ny efa very"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "navotsotra"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ny diako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:01.777718708Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 6:9",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ireo no taranak'i Noach. Noach lehilahy marina sy tsy misy tsiny tamin'ny taranany; tamin'ny Elohim no nandehan'i Noach.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ireo"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "taranaka"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "marina"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tsy misy tsiny"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨izy⟩"
+    },
+    {
+      "surface": "בדרתיו",
+      "gloss": "tamin'ny taranany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "nandeha tamin'ny"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:30.937974588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Niresaka mafy taminay ⟨את⟩ ilay lehilahy tompon'ny tany, ka nataony ⟨את⟩ anay ho mpifosaky ⟨את⟩ ny tany.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "niresaka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ilay lehilahy"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tompon'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ taminay"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "mafy"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "anay"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "ho mpifosaky"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:50:44.885142693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary Izy hampivoaka ny fahamarinanao ho toy ny mazava, ary ny fitsaranao toy ny mitataovovonana.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "Ary hampivoaka"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "toy ny mazava"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ny fahamarinanao"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "ary ny fitsaranao"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "toy ny mitataovovonana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:12.951511885Z",
+  "model": "glm-5.3"
+}

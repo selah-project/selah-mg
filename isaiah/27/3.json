@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 27:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Izaho Yahveh no miaro azy; mandray rao tsy misy fiatoana aho; fandrao misy manafika azy — alina sy andro no aroko azy.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "miaro azy"
+    },
+    {
+      "surface": "לרגעים",
+      "gloss": "tsy misy fiatoana"
+    },
+    {
+      "surface": "אשקנה",
+      "gloss": "mandray rano"
+    },
+    {
+      "surface": "פן",
+      "gloss": "fandrao"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "misy manafika"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "azy"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "alina"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "sy andro"
+    },
+    {
+      "surface": "אצרנה",
+      "gloss": "aroko azy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:09:39.756666277Z",
+  "model": "glm-5.3"
+}

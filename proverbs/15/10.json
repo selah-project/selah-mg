@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Mampidi-doza ny fananarana ho an'izay mahafoy ny lalana, ary izay mankahala ny fananarana dia ho faty.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "ny fananarana"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mampidi-doza"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "ho an'izay mahafoy"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ny lalana"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "mankahala"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ny fananarana"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ho faty"
+    }
+  ],
+  "timestamp": "2026-08-31T16:53:27.940629544Z",
+  "model": "glm-5.3"
+}

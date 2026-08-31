@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 12:6",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary hitondra any ianareo: ny fanatitra dorinareo sy ny zabachareo, ary ⟨את⟩ ny fahafolonareo, ary ⟨את⟩ ny fanatitra atolotrareo tanana, sy ny voadinareo sy ny fanatitra sitrakareo, ary ny voalohany teraky ny ombyinareo sy ny ondryareo.",
+  "tokens": [
+    {
+      "surface": "והבאתם",
+      "gloss": "Ary hitondra"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "any"
+    },
+    {
+      "surface": "עלתיכם",
+      "gloss": "fanatitra dorinareo"
+    },
+    {
+      "surface": "וזבחיכם",
+      "gloss": "sy ny zabachareo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahafolonareo"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "ny fahafolonareo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanatitra atolotrareo tanana"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "fanatitra atolotra"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "taninareo"
+    },
+    {
+      "surface": "ונדריכם",
+      "gloss": "sy ny voadinareo"
+    },
+    {
+      "surface": "ונדבתיכם",
+      "gloss": "sy ny fanatitra sitrakareo"
+    },
+    {
+      "surface": "ובכרת",
+      "gloss": "ary ny voalohany teraky"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "ombyinareo"
+    },
+    {
+      "surface": "וצאנכם",
+      "gloss": "sy ondryareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:45:14.796663251Z",
+  "model": "glm-5.3"
+}

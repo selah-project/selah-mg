@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Miondrika izy ka mandena; ary ny ory dia latsaka amin'ny heriny.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "ka mandena"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "miondrika"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ary ... latsaka"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "amin'ny heriny"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "ny ory"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:03.665201650Z",
+  "model": "glm-5.3"
+}

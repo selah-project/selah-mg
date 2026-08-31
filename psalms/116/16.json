@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 116,
+  "translation": "Mba henoy azafady, ry Yahveh, fa izaho mpanomponao aho — izaho mpanomponao, zanak'ny ankizivavinao; nosokafanao ny famatorako.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Mba henoy azafady"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mpanomponao"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mpanomponao"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'ny"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ankizivavinao"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "nosokafanao"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "ny famatorako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:47.163118608Z",
+  "model": "glm-5.3"
+}

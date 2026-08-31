@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 102,
+  "translation": "Fa ianao dia Ianao, ary ny taonanao tsy ho fara.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Fa ianao"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Ianao"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "ary ny taonanao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "ho fara"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:46.371310819Z",
+  "model": "glm-5.3"
+}

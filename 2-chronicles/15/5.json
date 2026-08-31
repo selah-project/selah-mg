@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 15:5",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary tamin'ireo andro ireo dia tsy nisy fiadanana ho an'ny mivoaka sy ho an'ny miditra, fa fikorontana be no nanjo ny mponina rehetra tamin'ny tany maro.",
+  "tokens": [
+    {
+      "surface": "ובעתים",
+      "gloss": "Ary tamin'ireo andro ireo"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy nisy"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fiadanana"
+    },
+    {
+      "surface": "ליוצא",
+      "gloss": "ho an'ny mivoaka"
+    },
+    {
+      "surface": "ולבא",
+      "gloss": "sy ho an'ny miditra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מהומת",
+      "gloss": "fikorontana"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "be"
+    },
+    {
+      "surface": "על",
+      "gloss": "nanjo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny rehetra"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ny mponina"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "tamin'ny tany maro"
+    }
+  ],
+  "timestamp": "2026-08-31T17:47:09.355318559Z",
+  "model": "glm-5.3"
+}

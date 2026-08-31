@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 28:21",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Fa tahaka ny tany amin'ny tendrombohitra Peratsim no hitsanganan'i Yahveh, tahaka ny lohasaha any Givon no hihetsany am-po, hanao ny asany — asa vahiny ny asany — ary hanatanteraka ny fanompoany — hafatra ny fanompoany.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "tahaka ny tendrombohitra"
+    },
+    {
+      "surface": "פרצים",
+      "gloss": "Peratsim"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "hitsanganana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כעמק",
+      "gloss": "tahaka ny lohasaha"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "any Givon"
+    },
+    {
+      "surface": "ירגז",
+      "gloss": "hihetsany am-po"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "ny asany"
+    },
+    {
+      "surface": "זר",
+      "gloss": "asa vahiny"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "ny asany"
+    },
+    {
+      "surface": "ולעבד",
+      "gloss": "ary hanatanteraka"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "ny fanompoany"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "hafatra"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "ny fanompoany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:10:08.655220865Z",
+  "model": "glm-5.3"
+}

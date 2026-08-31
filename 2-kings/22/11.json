@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary nony ren'ny mpanjaka ⟨את⟩ ny tenin'ny bokin'ny Lalàna, dia nandratra ny lambany izy.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nony"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "re-"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tenin'ny bokin'ny Lalàna"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ny tenin'ny"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "boky"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Lalàna"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "nandratra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lambany"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ny lambany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:00:38.189321007Z",
+  "model": "glm-5.3"
+}

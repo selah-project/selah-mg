@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 55,
+  "translation": "Fa ianao — olona sahala aminay, sakaizo mpanohana ahy, mahafantatra ahy!",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "fa ianao"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "sahala aminay"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "sakaizo mpanohana ahy"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "mahafantatra ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:43.045574303Z",
+  "model": "glm-5.3"
+}

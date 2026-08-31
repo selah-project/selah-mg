@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 20:11",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary niantso tamin'i Yahveh Yeshayahu mpaminany, ka nampiverina ny aloka ⟨את⟩ tamin'ny ambaratonga izay nidinany tamin'ny ambaratongan'i Achaz, mihemotra ambaratonga folo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mpaminany"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nampiverina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny aloka"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "ny aloka"
+    },
+    {
+      "surface": "במעלות",
+      "gloss": "tamin'ny ambaratonga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "nidinany"
+    },
+    {
+      "surface": "במעלות",
+      "gloss": "tamin'ny ambaratonga"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "אחרנית",
+      "gloss": "mihemotra"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "folo"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "ambaratonga"
+    }
+  ],
+  "timestamp": "2026-08-31T14:59:30.373393881Z",
+  "model": "glm-5.3"
+}

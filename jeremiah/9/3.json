@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 9:3",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Olona avy amin'ny namany: miambinana ianareo; ary amin'ny rahalahy rehetra aza matokia; fa ny rahalahy rehetra mpandainga no mandainga, ary ny namana rehetra dia mandeha mitedi-maditra.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Olona"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "avy amin'ny namany"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "miambinana"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ary amin'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "… rehetra"
+    },
+    {
+      "surface": "אח",
+      "gloss": "rahalahy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "matokia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "… rehetra"
+    },
+    {
+      "surface": "אח",
+      "gloss": "rahalahy"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "mpandainga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "mandainga"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ny … rehetra"
+    },
+    {
+      "surface": "רע",
+      "gloss": "namana"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "mitedi-maditra"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "mandeha"
+    }
+  ],
+  "timestamp": "2026-08-31T15:28:21.286236530Z",
+  "model": "glm-5.3"
+}

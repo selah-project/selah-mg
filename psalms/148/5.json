@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 148,
+  "translation": "Aoka hankalaza ⟨את⟩ ny anaran'i Yahveh izy ireo, fa izy no nandidy ka noforonina.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "aoka hankalaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anaran'i Yahveh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "anarana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidy"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "ka noforonina"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:44.245551967Z",
+  "model": "glm-5.3"
+}

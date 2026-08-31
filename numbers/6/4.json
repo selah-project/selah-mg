@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 6:4",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Amin'ny andro rehetra amin'ny nazirany, izay rehetra ataovy avy amin'ny voaloboka dia tsy hohaniny, hatramin'ny vihy ka hatramin'ny hodiny.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "andro"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "nazirany"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ataovy"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "avy amin'ny voaloboka"
+    },
+    {
+      "surface": "היין",
+      "gloss": "divay"
+    },
+    {
+      "surface": "מחרצנים",
+      "gloss": "hatramin'ny vihy"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "זג",
+      "gloss": "hodiny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hohaniny"
+    }
+  ],
+  "timestamp": "2026-08-31T13:26:24.453182297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 104,
+  "translation": "Endrey! Firy ny asanao, ry Yahveh — amin'ny fahendrena no nanaovanao azy rehetra; feno ny tany ny fanananao.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Endrey! Firy"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "firy ny"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "asanao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "azy rehetra"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "amin'ny fahendrena"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "no nanaovanao"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "feno"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "ny fanananao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:13.478747321Z",
+  "model": "glm-5.3"
+}

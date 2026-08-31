@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary ho tafintohina amin'ireo ny maro, ka ho lavo sy ho triatra, ary ho voa-trika sy ho voasambotra.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "ho tafintohina"
+    },
+    {
+      "surface": "בם",
+      "gloss": "amin'ireo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ny maro"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ho lavo"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "sy ho triatra"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "voa-trika"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "voasambotra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:04:40.483244671Z",
+  "model": "glm-5.3"
+}

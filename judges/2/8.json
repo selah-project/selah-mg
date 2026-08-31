@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary maty Yehoshoa zanak'i Nona, mpanompon'i Yahveh, faha-zato am-bifolo ambiny folo taona izy.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "maty"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nona"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mpanompon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "faha- (zaza\/taona)"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "zato"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "sy folo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taona"
+    }
+  ],
+  "timestamp": "2026-08-31T14:04:25.054843806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary hamaly ka hanao hoe: Ny tananay tsy nanadidy ⟨את⟩ ity ra ity, ary ny masonay tsy nahita ⟨io azy io⟩.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "hamaly"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ka hanao hoe"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "Ny tananay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "nanadidy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ity ra ity"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ra"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity ... ity"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "ary ny masonay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "nahita"
+    }
+  ],
+  "timestamp": "2026-08-31T13:47:24.429359627Z",
+  "model": "glm-5.3"
+}

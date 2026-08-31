@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 115,
+  "translation": "Ry taranak'i Aharon, matokia amin'i Yahveh; Izy no fanampana azy sy ampingany.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "taranak'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "matokia"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "amin'i Yahveh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "fanampana azy"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "sy ampingany"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Izy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:21.568749521Z",
+  "model": "glm-5.3"
+}

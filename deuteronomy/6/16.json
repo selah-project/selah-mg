@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Aza manandrana ⟨את⟩ Yahveh Elohinareo ianareo, tahaka ny nandrivanareo Azy tao amin'ilay Massa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "manandrana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tahaka ny"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "nandrivanareo"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "tao amin'ilay Massa"
+    }
+  ],
+  "timestamp": "2026-08-31T13:41:55.446456292Z",
+  "model": "glm-5.3"
+}

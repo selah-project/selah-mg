@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 50,
+  "translation": "Ary nampianiana Yosef ny zanak'i Yisraela hanao hoe: Tsy maintsy hitsidika ⟨את⟩ anareo Elohim, ka dia ento miakatra avy eto ⟨את⟩ ny taolanko.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "nampianiana hanao"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanak'i"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hanao hoe"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "hitsidika"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "tsy maintsy hitsidika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "ka dia ento miakatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny taolanko"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "taolanko"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "avy eto"
+    }
+  ],
+  "timestamp": "2026-08-31T18:28:09.049789537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary nandrava ⟨את⟩ ny tranon'ireo olona voatokana tao an-tranon'i Yahveh, izay nifona lamba teny ny vehivavy ho an'i Asherah.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "Ary nandrava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tranon'ireo olona voatokana"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ny trano"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ireo olona voatokana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "tao an-tranon'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ny vehivavy"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "nifona lamba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "teny"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "trano"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "ho an'i Asherah"
+    }
+  ],
+  "timestamp": "2026-08-31T18:05:30.009275347Z",
+  "model": "glm-5.3"
+}

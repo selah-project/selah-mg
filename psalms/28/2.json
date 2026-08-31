@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Henoy ny feon'ny fangatahako, rehefa mikiakiaka aminao aho, reheba manandratra ny tànako aho mankany amin'ny fitoerana masinao.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Henoy"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ny feon'ny"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "fangatahako"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "rehefa mikiakiaka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "rehefa manandratra"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ny tànako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mankany amin'ny"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "fitoerana"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "masinao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:29.249133225Z",
+  "model": "glm-5.3"
+}

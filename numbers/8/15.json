@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 8:15",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary rehefa avy izany dia hiditra ny Levita hiompoa ⟨את⟩ ny tranolay fihaonana; ary hamadioo ⟨את⟩ azy, ary hazavao ⟨את⟩ azy ho tenufa.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "rehefa afaka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "hiditra"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ny Levita"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "hiompoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tranolay fihaonana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tranolay"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "hamadioo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "hazavao"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "ho tenufa"
+    }
+  ],
+  "timestamp": "2026-08-31T13:27:53.788113131Z",
+  "model": "glm-5.3"
+}

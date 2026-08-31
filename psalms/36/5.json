@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Ota no noheviny eo ambonin'ny fandriany; mametraka tena izy amin'ny lalana tsy tsara; ny ratsy tsy laviny.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "ota"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "noheviny"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambonin'ny"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "fandriany"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "mametraka tena"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ny ratsy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "laviny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:02.892136311Z",
+  "model": "glm-5.3"
+}

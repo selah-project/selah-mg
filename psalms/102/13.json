@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 102,
+  "translation": "Fa ianao, ry Yahveh, mipetraka amin'ny fahavelomana ianao, ary ny fahatsiarovana anao ho an'ny taranaka mandimby.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Fa ianao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "amin'ny fahavelomana"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "mipetraka"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "ary ny fahatsiarovana anao"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ho an'ny taranaka"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "mandimby"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:35.531755512Z",
+  "model": "glm-5.3"
+}

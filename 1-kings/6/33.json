@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 6:33",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary toy izany no nataony ho an'ny fidirana ny heikala: tsanganam-baravarana hazo mena (oliva), avy amin'ny faharazina ⟨⟨את⟩⟩.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "toy izany"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "ho an'ny fidirana"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ny heikala"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "tsanganam-baravarana"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mena (oliva)"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "faharazina"
+    },
+    {
+      "surface": "רבעית",
+      "gloss": "faharazina"
+    }
+  ],
+  "timestamp": "2026-08-31T14:41:30.981411342Z",
+  "model": "glm-5.3"
+}

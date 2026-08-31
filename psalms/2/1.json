@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Nahoana no nirotra ny jentilisa, ary ny firenena nandinika zava-mahatalanjona ⟨foana⟩?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Nahoana no"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "nirotra"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ny jentilisa"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ary ny firenena"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "nandinika"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "zava-mahatalanjona ⟨foana⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:03.676629084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 19:5",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary nanamboatra ⟨את⟩ ny fitoana avo an'i Baala izy ireo, mba handoro ⟨את⟩ ny zanany amin'ny afo ho fanatitra dorana ho an'i Baala, izay tsy nandidiako, ary tsy nolazainako, ary tsy niakatra mihitsy tao am-poko.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "nanamboatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitoana avo an'i Baala"
+    },
+    {
+      "surface": "במות",
+      "gloss": "fitoana avo"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "an'i Baala"
+    },
+    {
+      "surface": "לשרף",
+      "gloss": "mba handoro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "באש",
+      "gloss": "amin'ny afo"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "fanatitra dorana"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ho an'i Baala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "nandidiako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nolazainako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "niakatra"
+    },
+    {
+      "surface": "על",
+      "gloss": "tao am-"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "poko"
+    }
+  ],
+  "timestamp": "2026-08-31T15:32:56.706033597Z",
+  "model": "glm-5.3"
+}

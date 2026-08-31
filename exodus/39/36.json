@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "⟨את⟩ ny latabatra, ⟨את⟩ ny fitaovana rehetra, ary ⟨את⟩ ny mofo an'ny tavanao",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny latabatra"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ny latabatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitaovana rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ny fitaovana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny mofo an'ny tavanao"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ny mofo"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "an'ny tavanao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:43.039999584Z",
+  "model": "glm-5.3"
+}

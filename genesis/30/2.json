@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 30:2",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Dia mirehitra ny fahatezeran'i Yaakov tamin'i Rachel, ka hoy izy: Moa izaho no misolo an'i Elohim, izay nanao fanakanana anao tsy hanana ny vokatry ny kibo?",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "mirehitra"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ny fahatezerana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "an'i Yaakov"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "tamin'i Rachel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka hoy izy"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "Moa ... no misolo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "nanao fanakanana"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ny vokaty"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "ny kibo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:44:32.626179522Z",
+  "model": "glm-5.3"
+}

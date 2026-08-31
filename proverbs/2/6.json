@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 2:6",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Fa Yahveh no manome fahendrena; avy amin'ny vavany ⟨no avy⟩ ny fahalalana sy ny fahazavan-tsaina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "manome"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "fahendrena"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "avy amin'ny vavany"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "fahalalana"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "sy ny fahazavan-tsaina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:45.096538314Z",
+  "model": "glm-5.3"
+}

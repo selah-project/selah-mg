@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 13:14",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary napetraka tao amin'ny tranon'i Oved-Edoma, tao an-tranony, telo volana ny fiaran'ny Elohim; ary Yahveh nitahy ⟨את⟩ ny tranon'i Oved-Edoma sy ⟨את⟩ izay rehetra nananany.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "napetraka tao"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ny fiaran'ny"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tao amin'ny"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon'i"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edoma"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "tao an-tranony"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "telo"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "volana"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "nitahy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tranon'i Oved-Edoma"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ny tranon'i"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edoma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "izay rehetra nananany"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "nananany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:37:24.880422318Z",
+  "model": "glm-5.3"
+}

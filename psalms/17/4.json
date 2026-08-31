@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ny amin'ny asan'ny olona: tamin'ny tenin'ny molotrao izaho no nitandrina tena tamin'ny lalan'ny mpiviolivolenta.",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "Ny amin'ny asa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "tamin'ny teny"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "ny molotrao"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "no nitandrina tena"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "tamin'ny lalan'"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "ny mpiviolivolenta"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:59.093011614Z",
+  "model": "glm-5.3"
+}

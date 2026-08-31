@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Fa rava ny fototra — inona no nataon'ny marina?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "ny fototra"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "rava"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ny marina"
+    },
+    {
+      "surface": "מה",
+      "gloss": "inona"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "no nataony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:48.645484973Z",
+  "model": "glm-5.3"
+}

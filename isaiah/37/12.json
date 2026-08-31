@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Mony namonjy ⟨את⟩ azy va ireo Elohimn'ny firenena ireo, izay noravan'ny razako: ⟨את⟩ i Gotzana sy ⟨את⟩ i Harana ary Restefa sy ny taranak'i Edena, izay any Telassara?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Mony namonjy"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ azy"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimn'ny"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "noravan'ny"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "razako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Gotzana"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "i Gotzana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "i Harana"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "i Harana"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "ary Restefa"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "sy ny taranak'i"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "any Telassara"
+    }
+  ],
+  "timestamp": "2026-08-31T15:12:36.165939967Z",
+  "model": "glm-5.3"
+}

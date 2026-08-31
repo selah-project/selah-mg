@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 145,
+  "translation": "Ny voninahitry ny fanjakanao no holazainy, ary ny herinao no hotantarainy.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "voninahitra"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "ny fanjakanao"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "holazainy"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "ary ny herinao"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "hotantarainy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:28.837146136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 102,
+  "translation": "Noho ny fahatezeranao sy ny fahaviniranao; fa ⟨ianao⟩ nanandratra ahy ka narianao ahy.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "noho ny fanatrehana"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "ny fahatezeranao"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "sy ny fahaviniranao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "nanandratra ahy ianao"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "ary narianao ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:17.627183853Z",
+  "model": "glm-5.3"
+}

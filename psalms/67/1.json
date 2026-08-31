@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 67,
+  "translation": "Ho an'ny mpitarika, amin'ny zava-maneno tady. Miziva — hira.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho an'ny mpitarika"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "amin'ny zava-maneno tady"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Miziva"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "hira"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:01.246584399Z",
+  "model": "glm-5.3"
+}

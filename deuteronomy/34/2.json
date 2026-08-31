@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "sy ⟨את⟩ ny Naftali rehetra, sy ⟨את⟩ tany Eframa sy Manase, ary ⟨את⟩ ny tany Yaduda rehetra, hatramin'ny ranomasina farany;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny Naftali rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "tany Eframa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Eframa"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "sy Manase"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny tany Yaduda rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yaduda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hatramin'ny"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ranomasina"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "farany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:52:23.903595557Z",
+  "model": "glm-5.3"
+}

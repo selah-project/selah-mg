@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Jereo, efa napetrako teo anatrehanao androany ⟨את⟩ ny fiainana sy ⟨את⟩ ny soa, ary ⟨את⟩ ny fahafatesana sy ⟨את⟩ ny ratsy.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Jereo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "efa napetrako"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "teo anatrehanao"
+    },
+    {
+      "surface": "היום",
+      "gloss": "androany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiainana"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ny fiainana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny soa"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ny soa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny fahafatesana"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ny fahafatesana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny ratsy"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ny ratsy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:00:33.609832408Z",
+  "model": "glm-5.3"
+}

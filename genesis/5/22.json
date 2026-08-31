@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 5:22",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary nandeha tamin'ny alalan'ny ⟨את⟩ Elohim Chanok, taorian'ny niterahany an'i Metushelah, telon-jato taona, ka niteraka zanaka lahy sy vavy.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "nandeha tamin'ny alalan'ny"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "taorian'ny"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "niterahany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metushelah"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metushelah"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "telo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "zato"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zanaka lahy"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "sy vavy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:36:16.979708956Z",
+  "model": "glm-5.3"
+}

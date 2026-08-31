@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ka nanao fanasana ho an'ireo izy, dia nihinana ireo ary nisotro.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ka nanao"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho an'ireo"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "fanasana"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "arihina nihinana ireo"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "nisotro"
+    }
+  ],
+  "timestamp": "2026-08-31T12:43:23.115881133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Tsara ny fahitann'ny maso noho ny fandehan'ny fanahy; ity koa dia hevel sy fahorian'ny rivotra.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Tsara"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "fahitana"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "maso"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "fandehanana"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "fahorian'ny"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rivotra"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:17.803837899Z",
+  "model": "glm-5.3"
+}

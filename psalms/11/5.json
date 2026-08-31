@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 11:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Yahveh mizaha ny marina; fa ny ratsy fanahy sy ny tia herisetra, halan'ny fanahiny.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ny marina"
+    },
+    {
+      "surface": "יבחן",
+      "gloss": "mizaha"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "fa ny ratsy fanahy"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "sy ny tia"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "herisetra"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "halan'"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ny fanahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:25.965788649Z",
+  "model": "glm-5.3"
+}

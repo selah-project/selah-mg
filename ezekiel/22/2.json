@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary ianao, zanak'olona, hitsara va, hitsara va ⟨את⟩ ilay tanàna mpandatsa-dra? Ary hampahafantatra azy ⟨את⟩ ny fahavetavetany rehetra.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ary ianao"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "hitsara va"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "hitsara va"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay tanàna mpandatsa-dra"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "mpandatsa-dra"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "hampahafantatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahavetavetany rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "fahavetavetany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:54:50.949398799Z",
+  "model": "glm-5.3"
+}

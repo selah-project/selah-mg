@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary ny mpanjaka nanao ny volafotsy sy ny volamena tao Yerushalayim ho tahaka ny vato ⟨את⟩ sy ⟨את⟩ ny sedera nataony ho tahaka ny aviavy any amin'ny tany ambany, ho be dia be.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny volafotsy"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ny volafotsy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny volamena"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ny volamena"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "tao Yerushalayim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "ho tahaka ny vato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny sedera"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "ny sedera"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "ho tahaka ny aviavy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "any amin'ny tany ambany"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ho be dia be"
+    }
+  ],
+  "timestamp": "2026-08-31T17:42:29.361197934Z",
+  "model": "glm-5.3"
+}

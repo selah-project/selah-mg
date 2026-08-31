@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary rehefa midina ny masoandro ka madio izy, dia avy eo hihinan-kanina masina izy, fa sakafoany izany",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "Ary rehefa midina"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ny masoandro"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ka madio"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "avy eo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hihinan-kanina"
+    },
+    {
+      "surface": "מן",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "masina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "sakafoany"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:18:44.146159590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Jereo ny fahaviroko, fa be izy ireo, ary amin'ny fankizizam-pitiavana amam-paniara izy no mankahala ahy.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Jereo"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ny fahaviroko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "be izy ireo"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "amin'ny fankahalana"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "amam-paniara"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "mankahala ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:30.578098950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 60,
+  "translation": "Nomenao iloay matahotra anao sary sata ⟨mba hahasandratry⟩ ny marina. Selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Nomenao"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "iloay matahotra anao"
+    },
+    {
+      "surface": "נס",
+      "gloss": "sary sata"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "⟨mba hahasandratry⟩"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "noho ny"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "marina"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:42.365959790Z",
+  "model": "glm-5.3"
+}

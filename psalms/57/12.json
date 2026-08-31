@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 57,
+  "translation": "Ataovy avo, ry Elohim, ambonin'ny lanitra; aoka ny voninahitrao ho ambonin'ny tany rehetra.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "ataovy avo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "lanitra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ry Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ny voninahitrao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:35.977008339Z",
+  "model": "glm-5.3"
+}

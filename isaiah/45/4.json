@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 45,
+  "translation": "Noho i Yakoba mpanompoko sy Isiraely nofidiko no niantsoako anao amin'ny anaranao sy nomena anarana ianao, na dia tsy nahalala Ahy aza ianao.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Noho"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mpanompoko"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakoba"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "sy Isiraely"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "nofidiko"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "niantsoako"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "amin'ny anaranao"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "nomena anarana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "nahalala Ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:17:37.597974391Z",
+  "model": "glm-5.3"
+}

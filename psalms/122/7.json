@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 122,
+  "translation": "Ho fiadanana ao anatin'ny mandaonao, ary fahatoniana ao anatin'ny lapanao.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Ho"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fiadanana"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "ao anatin'ny mandaonao"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "fahatoniana"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "ao anatin'ny lapanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:32.606395753Z",
+  "model": "glm-5.3"
+}

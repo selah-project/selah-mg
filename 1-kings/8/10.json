@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary tonga izany tamin'ny nivoahan'ny mpisorona avy tao amin'ny fitoerana masina, ka ny rahona naneno ⟨את⟩ ny tranon'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary tonga izany tamin'ny"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "nivoahan'ny"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy tao amin'ny"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "fitoerana masina"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "ka ny rahona"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "naneno"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tranon'i Yahveh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T14:43:12.187183014Z",
+  "model": "glm-5.3"
+}

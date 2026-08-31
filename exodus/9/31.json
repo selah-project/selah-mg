@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 9:31",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary voatrefotrefo ny landihazo sy ny vary hordea, fa hordea vao maitso sady efa misy tsimoka ny landihazo.",
+  "tokens": [
+    {
+      "surface": "והפשתה",
+      "gloss": "ny landihazo"
+    },
+    {
+      "surface": "והשערה",
+      "gloss": "sy ny hordea"
+    },
+    {
+      "surface": "נכתה",
+      "gloss": "voatrefotrefo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "ny hordea"
+    },
+    {
+      "surface": "אביב",
+      "gloss": "vao maitso"
+    },
+    {
+      "surface": "והפשתה",
+      "gloss": "ny landihazo"
+    },
+    {
+      "surface": "גבעל",
+      "gloss": "efa misy tsimoka"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:17.307429873Z",
+  "model": "glm-5.3"
+}

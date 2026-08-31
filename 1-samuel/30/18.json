@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary Davida nahavonjy ⟨את⟩ izay rehetra norobain'i Amaleka; ary ⟨את⟩ ny vadiny roa dia namerina nahavonjy koa Davida.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "nahavonjy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay rehetra norobain'i Amaleka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "norobain'i"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny vadiny roa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "roa"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "ny vadiny"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "nahavonjy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    }
+  ],
+  "timestamp": "2026-08-31T14:27:29.564255723Z",
+  "model": "glm-5.3"
+}

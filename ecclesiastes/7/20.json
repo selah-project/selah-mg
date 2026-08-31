@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Fa tsy misy olona marina ety ambonin'ny tany manao tsara ka tsy manota.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "marina"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ety ambonin'ny tany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(izay)"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "manao"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "manota"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:09.231373583Z",
+  "model": "glm-5.3"
+}

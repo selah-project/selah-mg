@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ny lalany rehetra dia hesed sy fahamarinana, ho an'izay mitandrina ny fanekeny sy ny vatofaniny.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "lalany"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "sy fahamarinana"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "ho an'izay mitandrina"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ny fanekeny"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "sy ny vatofaniny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:54.785185018Z",
+  "model": "glm-5.3"
+}

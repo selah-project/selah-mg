@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 38:13",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Ary nampanontosy tamin'ny tady ireo ka nanintsana an'i Yirmeyahu ⟨את⟩, dia nampiakatra azy avy tao an-davaka; ary Yirmeyahu nitoetra tao amin'ny kianjan'ny fiambenana.",
+  "tokens": [
+    {
+      "surface": "וימשכו",
+      "gloss": "nanintsana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בחבלים",
+      "gloss": "amin'ny tady"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "nampiakatra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (Yirmeyahu)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "tao an-davaka"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nitoetra"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "tao amin'ny kianja"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "ny fiambenana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:08:59.172374742Z",
+  "model": "glm-5.3"
+}

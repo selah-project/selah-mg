@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 83,
+  "translation": "Fongsy tao En-Dora izy ireo; tonga zezika ho an'ny tany.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "Fongsy"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "tao En-"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Dora"
+    },
+    {
+      "surface": "היו",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "zezika"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "ho an'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:57.777846065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary sisa tamin'ny zanak'i Isiraely izay tsy mbola nizara ⟨את⟩ ny lovan-tany navela ho azy dia foko fito.",
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "sisa"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "tamin'ny zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "mbola nizara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lovan-tany navela ho azy"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "lovan-tany navela ho azy"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "fito"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "foko"
+    }
+  ],
+  "timestamp": "2026-08-31T14:01:24.081665420Z",
+  "model": "glm-5.3"
+}

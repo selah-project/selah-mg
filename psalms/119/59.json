@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 119:59",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Nihevitra ny lalako ⟨izaho⟩ ka namerina ny tongotro ho any amin'ny famantonianao.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "nihevitra"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ny lalako"
+    },
+    {
+      "surface": "ואשיבה",
+      "gloss": "ka namerina"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ny tongotro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ny famantonianao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:01.310995545Z",
+  "model": "glm-5.3"
+}

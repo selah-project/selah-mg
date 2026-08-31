@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary nametraka ⟨את⟩ ny fiaran'ny Elohim tamin'ny kalesy vaovao avy tao an-tranon'i Avinadab izy ireo, ary Oza sy Ahio nitondra ny kalesy.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "nametraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiaran'ny Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fiaran"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ny Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "kalesy"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "vaovao"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "avy tao an-tranon'"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadab"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "ary Oza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "sy Ahio"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "nitondra"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "ny kalesy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:19:14.110345235Z",
+  "model": "glm-5.3"
+}

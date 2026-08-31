@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 110,
+  "translation": "Fihirana nataon'i Davida. Ny tenin'i Yahveh ho an'ny tompon-koko: Ekeo ⟨⟨ao⟩⟩ eo an-kavanako, ambara-pahatapitry ny fahavalo amin'ny faladia ambanin'ny tongotrao.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "nataon'i Davida"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Fihirana"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Ny tenin'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ho an'ny tompon-koko"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Ekeo ⟨⟨ao⟩⟩"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "eo an-kavanako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ambara-pahatapitry ny"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "hanosiko"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "fahavalo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "faladia"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "ambanin'ny tongotrao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:35:43.852489797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 5:1",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary niantso Moshe ny Isiraely rehetra ka nanao taminy hoe: Mihainoa, ry Isiraely, ⟨את⟩ ny lalàna sy ⟨את⟩ ny fitsipika izay lazako amin'ny sofinareo androany, mba hianaranareo azy sy hitandremanareo hanao azy.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ny amin'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tamin'ny azy"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Mihainoa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lalàna"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ny lalàna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny fitsipika"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "ny fitsipika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lazako"
+    },
+    {
+      "surface": "באזניכם",
+      "gloss": "amin'ny sofinareo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "androany"
+    },
+    {
+      "surface": "ולמדתם",
+      "gloss": "mba hianaranareo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "hitandremanareo"
+    },
+    {
+      "surface": "לעשתם",
+      "gloss": "hanao azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:40:59.774425393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 103,
+  "translation": "Izay mamela ny fahotanao rehetra, izay manasitrana ny aretinao rehetra;",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "mamela"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "fahotanao"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "manasitrana"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "aretinao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:13:58.027097069Z",
+  "model": "glm-5.3"
+}

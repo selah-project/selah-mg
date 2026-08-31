@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Fa tonga nitovy tamin'ny tavoahangy anaty setroka aho, nefa ny didinao tsy hadinoiko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "tonga nitovy"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "tamin'ny tavoahangy"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "anaty setroka"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ny didinao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "hadinoiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:45.681604965Z",
+  "model": "glm-5.3"
+}

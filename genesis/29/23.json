@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary tamin'ny hariva izy, dia naka an'i Lea zanany vavy izy ka nampidiriny ⟨את⟩ ho aminy, ary niditra ho aminy izy.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary tamin'ny"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "hariva izy"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "dia naka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "zanany vavy"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ka nampidiriny"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy (Lea)"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ho aminy"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "niditra"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ho aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:55:26.114316235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary niteny i Moshe ny amin'ny fotoana voatondron'i Yahveh ⟨את⟩ ho an'ny zanak'Isiraely.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "niteny"
+    },
+    {
+      "surface": "משה",
+      "gloss": "i Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fotoana voatondro"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "ny fotoana voatondro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho an'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    }
+  ],
+  "timestamp": "2026-08-31T13:20:23.799077174Z",
+  "model": "glm-5.3"
+}

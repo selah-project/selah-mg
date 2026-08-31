@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 4:16",
+  "book": "lamentations",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ny tavan'i Yahveh no nampiely azy; tsy hametrahitra azy intsony ⟨izy⟩; ny tavatra mpisorona tsy nakarina, ary ny anti-panahy tsy mahazo famindram-po.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "Ny tavan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "no nampiely azy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "hametrahitra azy intsony"
+    },
+    {
+      "surface": "להביטם",
+      "gloss": "izy"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ny tavatra"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "nakarina"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ny anti-panahy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy mahazo"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "famindram-po"
+    }
+  ],
+  "timestamp": "2026-08-31T17:13:36.831663631Z",
+  "model": "glm-5.3"
+}

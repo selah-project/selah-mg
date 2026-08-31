@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 10:9",
+  "book": "zechariah",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary hatoriako izy ireo any amin'ny firenena, ary any amin'ny tany lavitra hahatsiarovany ahy izy; ary hiara-belona amin'ny zanany izy ka hiverina.",
+  "tokens": [
+    {
+      "surface": "ואזרעם",
+      "gloss": "hatoriako izy ireo"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "any amin'ny firenena"
+    },
+    {
+      "surface": "ובמרחקים",
+      "gloss": "any amin'ny tany lavitra"
+    },
+    {
+      "surface": "יזכרוני",
+      "gloss": "hahatsiarovany ahy"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "hiara-belona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "amin'ny zanany"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "hiverina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:20:47.398213166Z",
+  "model": "glm-5.3"
+}

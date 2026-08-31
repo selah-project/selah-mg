@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 82,
+  "translation": "Tompoy ny mahery setry sy ny kamboty; ny ory sy ny malahelo no ataovy marina.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "Tompoy"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ny mahery setry"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "sy ny kamboty"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ny ory"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "sy ny malahelo"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "no ataovy marina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:34.009749558Z",
+  "model": "glm-5.3"
+}

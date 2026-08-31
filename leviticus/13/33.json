@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "ary haloa-volo izy, fa ⟨את⟩ ny neteka tsy haloa-volo; ary hanidy ny mpisorona ⟨את⟩ ny neteka fito andro indray mandeha.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "ary haloa-volo izy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny neteka"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ny neteka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "haloa-volo"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ary hanidy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny neteka"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ny neteka"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "fito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "indray mandeha"
+    }
+  ],
+  "timestamp": "2026-08-31T13:16:38.026672626Z",
+  "model": "glm-5.3"
+}

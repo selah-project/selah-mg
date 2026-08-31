@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary ny mpanompovavinao nanan-janakalahy roa; dia niady tany an-tsaha izy roa lahy, fa tsy nisy mpisaraka tanelanelany, ka namely ⟨את⟩ ny anankiray ny anankiray dia namono ⟨את⟩ azy.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "Ary ny mpanompovavinao"
+    },
+    {
+      "surface": "שני",
+      "gloss": "roa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zanakalahy"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "dia niady"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "izy roa lahy"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "tany an-tsaha"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "fa tsy nisy"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "mpisaraka"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "tanelanelany"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ka namely"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ny anankiray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anankiray"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ny anankiray"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dia namono"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:33:23.736498067Z",
+  "model": "glm-5.3"
+}

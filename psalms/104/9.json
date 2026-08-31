@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 104,
+  "translation": "Fetra ⟨n⟩anomezanao, tsy hivalombolana hihoatra; tsy hiverina hidaroka ⟨את⟩ ny tany.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "fetra"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "nanomezanao"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "hihoatra"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "hiverina"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "hidaroka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:13.731339906Z",
+  "model": "glm-5.3"
+}

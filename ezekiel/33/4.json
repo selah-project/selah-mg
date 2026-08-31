@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "ary ny mpihaino rehareha mandre ⟨את⟩ ny feon'ny shofar nefa tsy mijanona voaro, ka avy ny sabatra ka mandray azy — ny ràny amin'ny lohany no ho azy",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "ary mandre"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "ny mpihaino rehareha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny feon'ny shofar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ny feo"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "ny shofar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nefa tsy"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "mijanona voaro"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ka avy"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ny sabatra"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "mandray azy"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ny ràny"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "amin'ny lohany"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "no ho azy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:59:58.504465389Z",
+  "model": "glm-5.3"
+}

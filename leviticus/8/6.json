@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nampanakaiky Moshe an'i Aharon sy ny zanany ka nanasa ⟨את⟩ azy tamin'ny rano.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Ary nampanakaiky"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "ka nanasa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azy"
+    },
+    {
+      "surface": "במים",
+      "gloss": "tamin'ny rano"
+    }
+  ],
+  "timestamp": "2026-08-31T13:13:59.581021213Z",
+  "model": "glm-5.3"
+}

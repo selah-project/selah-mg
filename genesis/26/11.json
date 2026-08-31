@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary nasain'i Abimeleka hitory tamin'ny vahoaka rehetra ⟨את⟩ hoe: Izay manota amin'ity lehilahy ity na amin'ny vadiny, dia faty tokoa no hovahelany.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ary nasain'i"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimeleka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vahoaka rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hitory hoe"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "Izay manota amin'ny"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "na amin'ny vadiny"
+    },
+    {
+      "surface": "מות",
+      "gloss": "faty"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "hovahelany tokoa"
+    }
+  ],
+  "timestamp": "2026-08-31T12:41:38.763578307Z",
+  "model": "glm-5.3"
+}

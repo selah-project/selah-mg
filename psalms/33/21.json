@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Fa ao Aminy no mifaly ny fontsika, fa amin'ny anarany masina no itokianay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ao Aminy"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "mifaly"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ny fontsika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "amin'ny anarany"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "masina"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "itokianay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:36.043735600Z",
+  "model": "glm-5.3"
+}

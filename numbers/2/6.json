@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary ny tafiny sy ny isan'ny voaisa dia efatra amby dimam-polo arivo sy efatraanjato.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Ary ny tafiny"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "sy ny isan'ny voaisa"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "efatra"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "amby dimam-polo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "arivo"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "sy efatra"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "anjato"
+    }
+  ],
+  "timestamp": "2026-08-31T13:24:21.449290092Z",
+  "model": "glm-5.3"
+}

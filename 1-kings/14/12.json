@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Fa ianao, miahabo, mandehana mody any amin'ny tranonao; amin'ny fidiranao an-tanàna ny tongotrao, dia ho faty ny zazalahy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Fa ianao"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "miahabo"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "mandehana"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "mody any amin'ny tranonao"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "amin'ny fidiranao"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "ny tongotrao"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "an-tanàna"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dia ho faty"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ny zazalahy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:46:32.317088566Z",
+  "model": "glm-5.3"
+}

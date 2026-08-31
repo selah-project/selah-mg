@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 12:2",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Mpandefa tsipika aman-tsipy, mahay mampiasa ny tanana ankavanana sy ny ankavia amin'ny vato sy ny zana-tsipika amin'ny tsipika; avy amin'ny rahalahin'i Shaol, avy amin'ny fokon'i Binyamin.",
+  "tokens": [
+    {
+      "surface": "נשקי",
+      "gloss": "mpandefa"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "tsipika"
+    },
+    {
+      "surface": "מימינים",
+      "gloss": "mahay mampiasa ny tanana ankavanana"
+    },
+    {
+      "surface": "ומשמאלים",
+      "gloss": "sy ny ankavia"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "amin'ny vato"
+    },
+    {
+      "surface": "ובחצים",
+      "gloss": "sy ny zana-tsipika"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "amin'ny tsipika"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "avy amin'ny rahalahin'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "avy amin'ny fokon'i Binyamin"
+    }
+  ],
+  "timestamp": "2026-08-31T17:37:29.922325427Z",
+  "model": "glm-5.3"
+}

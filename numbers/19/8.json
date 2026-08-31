@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 19:8",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary ilay mandoro ⟨את⟩ azy dia sasany ny akanjony amin'ny rano ary mandro ny tenany amin'ny rano, ary maloto mandra-pahatongan'ny hariva.",
+  "tokens": [
+    {
+      "surface": "והשרף",
+      "gloss": "ilay mandoro"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ny omby vavy)"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "sasany"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ny akanjony"
+    },
+    {
+      "surface": "במים",
+      "gloss": "amin'ny rano"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "mandro"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ny tenany"
+    },
+    {
+      "surface": "במים",
+      "gloss": "amin'ny rano"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "maloto"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-pahatongan'ny"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ny hariva"
+    }
+  ],
+  "timestamp": "2026-08-31T13:32:59.415058424Z",
+  "model": "glm-5.3"
+}

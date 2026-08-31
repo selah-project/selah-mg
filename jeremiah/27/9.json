@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 27:9",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Fa ianareo kosa aza mihainoa ny mpaminaninareo, na ny mpanao sikidinareo, na ny mpanao nofy areo, na ny mpanao fanandinana rahona areo, na ny mpamosavy areo, izay milaza aminareo hoe: Aza manompo ⟨את⟩ ny mpanjakan'i Babela.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ianareo kosa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mihainoa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "mpaminaninareo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na amin'ny"
+    },
+    {
+      "surface": "קסמיכם",
+      "gloss": "mpanao sikidinareo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na amin'ny"
+    },
+    {
+      "surface": "חלמתיכם",
+      "gloss": "mpanao nofy areo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na amin'ny"
+    },
+    {
+      "surface": "ענניכם",
+      "gloss": "mpanao fanandinana rahona areo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na amin'ny"
+    },
+    {
+      "surface": "כשפיכם",
+      "gloss": "mpamosavy areo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izy"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "milaza"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "aminareo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "manompo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanjakan'i Babela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'ny"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babela"
+    }
+  ],
+  "timestamp": "2026-08-31T15:34:37.466284647Z",
+  "model": "glm-5.3"
+}

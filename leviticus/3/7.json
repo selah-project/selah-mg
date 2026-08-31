@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Raha onjy kosa no entiny ho fanatiny, dia hitondra ⟨את⟩ ny fanatiny izy eo anoloan'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "onjy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "entiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanatiny"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ny fanatiny"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "dia hitondra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anoloan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:49.593175255Z",
+  "model": "glm-5.3"
+}

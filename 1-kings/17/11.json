@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 17:11",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary raha lasa izy haka ⟨izany⟩, dia niantso azy izy ka nanao hoe: Makà azafady ho azy mofo iray sombi-tsipika eo an-tananao.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "lasa izy"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "haka"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao hoe:"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "Makà"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "פת",
+      "gloss": "sombi-tsipika iray"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mofo"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "eo an-tananao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:32:09.787581298Z",
+  "model": "glm-5.3"
+}

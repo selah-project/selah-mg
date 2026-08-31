@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 4:9",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary hoy izy tamin'ny vadiny: Indro ange, fantatro fa lehilahin'i Elohim masina izy, izay mandalo eto amintsika hatrany.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "vadiny"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ange"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "fantatro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahin'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "mandalo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "eto amintsika"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hatrany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:52:11.546581755Z",
+  "model": "glm-5.3"
+}

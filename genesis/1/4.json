@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary hitan'i Elohim ⟨את⟩ ny hazavana fa tsara, dia nampisarain'i Elohim ny hazavana tamin'ny aizina.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ary hitan'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny hazavana"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ny hazavana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "dia nampisarain'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "⟨nanavaka⟩ tamin'ny"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ny hazavana"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "ny aizina"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:03.190882341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 32:12",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Vonjeo azafady, tsy ho voan'ny tanan'ny rahalahiko, ny tanan'i Esav, fa matahotra azy ⟨את⟩ aho, fandrao ho avy izy ka hamely ahy, ny ray aman-dreny ⟨amin'ny⟩ zanany.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Vonjeo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tsy ho voan'ny tanan'ny"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "rahalahiko"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ny tanan'ny"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "matahotra"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aho"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (Esav)"
+    },
+    {
+      "surface": "פן",
+      "gloss": "fandrao"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ho avy izy"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "ka hamely ahy"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ny ray aman-dreny"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨amin'ny⟩"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zanany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:27:38.470474208Z",
+  "model": "glm-5.3"
+}

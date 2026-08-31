@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Indro, efa tonga ny zava-boalohany, ary zava-baovao no ambarako; talohan'ny hitsimoka izy dia ampahenoako ⟨את⟩anareo.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "ny zava-boalohany"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "באו",
+      "gloss": "efa tonga"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "ary zava-baovao"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "no ambarako"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "talohan'ny"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "hitsimoka"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "ampahenoako"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩anareo",
+      "marks": "anareo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:14:56.016826816Z",
+  "model": "glm-5.3"
+}

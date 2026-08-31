@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "⟨את⟩ Ianareo ihany no fantatro tamin'ny fianakaviana rehetra amin'ny tany; noho izany dia hotsidihoiko aminareo ⟨את⟩ ny tsi-fahamarinana rehetra nataonareo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "ihany"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ Ianareo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "no fantatro"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "tamin'ny... rehetra"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "fianakaviana"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "hotsidihoiko"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "aminareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tsi-fahamarinana rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "ny tsi-fahamarinana nataonareo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:11:12.650870580Z",
+  "model": "glm-5.3"
+}

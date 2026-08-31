@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary masìna mihoatra anareo, ka ho masìna ianareo, fa Izaho no Yahveh, Elohinareo.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "Ary masìna mihoatra anareo"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "ho masìna ianareo"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "masìna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:18:51.835938431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary rafa mandeha amin'ny lalako ianao, hitandrina ny lalàko sy ny didiko, araka izay nataon'i Davida rainao, dia hampaharetiko ⟨את⟩ ny andronao.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ary rafa"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "amin'ny lalako"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "hitandrina"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "ny lalàko"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "sy ny didiko"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka izay"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nataon'i"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "rainao"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "dia hampaharetiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny andronao"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ny andronao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:40:28.015926997Z",
+  "model": "glm-5.3"
+}

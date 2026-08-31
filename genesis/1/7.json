@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary nanao ⟨את⟩ ny habakabaka Elohim, ary nampisaraka ny rano izay eo ambany ny habakabaka sy ny rano izay eo ambony ny habakabaka ⟨izy⟩; ary dia izy no voatao.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ary nanao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny habakabaka"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "ny habakabaka"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "ary nampisaraka"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ny rano... (anelanelana)"
+    },
+    {
+      "surface": "המים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "eo ambany"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "ny habakabaka"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy"
+    },
+    {
+      "surface": "המים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "ny habakabaka"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ary dia izy no"
+    },
+    {
+      "surface": "כן",
+      "gloss": "voatao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:01.789946067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "malachi 3:7",
+  "book": "malachi",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Hatramin'ny andron'ny razanareo dia nivily tamin'ny lalako ianareo ka tsy nitandrina. Miverena amiko, dia hiverina aminareo Aho, hoy Yahveh Tsevaot; fa ianareo kosa manao hoe: Amin'inona no hiverenana?",
+  "tokens": [
+    {
+      "surface": "למימי",
+      "gloss": "Hatramin'ny andron'ny"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "razanareo"
+    },
+    {
+      "surface": "סרתם",
+      "gloss": "nivily"
+    },
+    {
+      "surface": "מחקי",
+      "gloss": "tamin'ny lalako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שמרתם",
+      "gloss": "nitandrina"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "Miverena"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "dia hiverina"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "aminareo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "fa ianareo manao hoe"
+    },
+    {
+      "surface": "במה",
+      "gloss": "Amin'inona"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "hiverenana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:53.030426991Z",
+  "model": "glm-5.3"
+}

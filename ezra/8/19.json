@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 8:19",
+  "book": "ezra",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary ⟨את⟩ Hashabia ary niaraka tamby ⟨את⟩ Jesaya, taranak'i Merary — ny rahalahiny sy ny zanany — roa-polo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ary ⟨את⟩",
+      "marks": "Hashabia"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Hashabia"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "ary niaraka tamby ⟨את⟩",
+      "marks": "Jesaya"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "Jesaya"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "taranak'i"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merary"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ny rahalahiny"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "sy ny zanany"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "roa-polo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:29:13.772659747Z",
+  "model": "glm-5.3"
+}

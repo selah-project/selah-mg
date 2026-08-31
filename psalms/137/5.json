@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 137,
+  "translation": "Raha hadinoako ianao, ry Yeroshalayim, aoka hanadino ny tanako havanana.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "hadinoako ianao"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ry Yeroshalayim"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "aoka hanadino"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "ny tanako havanana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:14.790773550Z",
+  "model": "glm-5.3"
+}

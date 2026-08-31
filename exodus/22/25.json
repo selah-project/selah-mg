@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Raha mandrika ⟨ho antoka⟩ lamba amin'ny namanao ianao, mandra-pidina masoandro no hamerenanao azy ho azy.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "חבול",
+      "gloss": "mandrika ⟨ho antoka⟩"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "mandrika"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "lamba"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "namanao"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "בא",
+      "gloss": "midina"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "masoandro"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "hamerenanao azy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:01.699483604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 1:14",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Indro, raha mbola miresaka any amin'ny mpanjika ianao, dia ho avy aho afaka anao, ary hahatanteraka ny teninao.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "mbola"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "miresaka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "any"
+    },
+    {
+      "surface": "עם",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjika"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "aho"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ho avy"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "afaka anao"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "hahatanteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny teninao"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ny teninao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:38:55.178221343Z",
+  "model": "glm-5.3"
+}

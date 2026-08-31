@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 86,
+  "translation": "Fa ianao, ry Adonay, dia El mamindra fo sy be fahasoavana, mahari-po teo amin'ny fahatezerana, ary be hesed sy fahamarinana.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "fa ianao"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ry Adonay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "mamindra fo"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "sy be fahasoavana"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "mahari-po"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "teo amin'ny fahatezerana"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ary be"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "sy fahamarinana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:58.404185447Z",
+  "model": "glm-5.3"
+}

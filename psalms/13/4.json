@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Jereo ahy, valio aho, ry Yahveh Elohy; ampazava ny masoko, fandrao matory ny torimason'ny fahafatesana aho.",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Jereo ahy"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "valio aho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohy"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "ampazava"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ny masoko"
+    },
+    {
+      "surface": "פן",
+      "gloss": "fandrao"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "matory"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ny torimason'ny fahafatesana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:54.388141017Z",
+  "model": "glm-5.3"
+}

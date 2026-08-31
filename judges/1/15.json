@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary hoy izy taminy: Omeo ahy fitahiana, fa tany maina no nomenao ahy; omeo koa ahy loharano rano. Ary nanome azy Kaleba ⟨את⟩ ny loharano ambony sy ⟨את⟩ ny loharano ambany.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "izy taminy"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "Omeo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "fitahiana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "maina (atsimo)"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "nomenao"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "omeo koa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "loharano"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "Ary nanome"
+    },
+    {
+      "surface": "לה",
+      "gloss": "azy"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "loharano ambony"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "loharano"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "ambony"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "loharano ambany"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "loharano"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "ambany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:04:10.141269854Z",
+  "model": "glm-5.3"
+}

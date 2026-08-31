@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 10:9",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary ny zanak'i Ammon niampita tamin'ny ⟨את⟩ Yarden mba hiady amin'ny Yehuda sy amin'ny Binyamina ary amin'ny taranak'i Efrayima; dia navesaran'ny fahoriana mafy i Isiraely.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "niampita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "mba hiady"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "amin'ny Yehuda"
+    },
+    {
+      "surface": "ובבנימין",
+      "gloss": "sy amin'ny Binyamina"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "ary amin'ny taranak'i"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayima"
+    },
+    {
+      "surface": "ותצר",
+      "gloss": "dia navesaran'ny fahoriana"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "i Isiraely"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mafy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:09:24.702656480Z",
+  "model": "glm-5.3"
+}

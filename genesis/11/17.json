@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 11:17",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary Eber velona taorian'ny niterahany an'i ⟨את⟩ Peleg telo-polo taona sy efa-tra-jato taona, ka niteraka zanakalahy sy zanakavavy.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "velona"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "taorian'ny"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ny niterahany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Peleg"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "telo-polo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "efa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "jato"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zanakalahy"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "zanakavavy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:35.485546601Z",
+  "model": "glm-5.3"
+}

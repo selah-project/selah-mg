@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Manodidina ny ratsy fanahy no mandehandeha ⟨foana⟩, rehefa avo izany ⟨no⟩ faharatsiana eo amin'ny zanak'olombelona.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "mandehandeha"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "rehefa avo"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "faharatsiana"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "eo amin'ny zanak'ny"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olombelona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:47.959881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Handefa ny fanampanao avy amin'ny fitoerana masina, ary avy amin'i Tsiyon hampahery anao.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Handefa"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "ny fanampanao"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "avy amin'ny fitoerana masina"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "ary avy amin'i Tsiyon"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "hampahery anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:50.243601595Z",
+  "model": "glm-5.3"
+}

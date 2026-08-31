@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 9:10",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "sy ⟨את⟩ amin'ny fanahy velona rehetra izay aminareo — amin'ny vorona, amin'ny biby fiompy, ary amin'ny biby rehetra amin'ny tany — aminareo; avy amin'izay rehetra mivoaka avy amin'ny sambo, ho an'ny biby rehetra amin'ny tany.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "velona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aminareo"
+    },
+    {
+      "surface": "בעוף",
+      "gloss": "amin'ny vorona"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "amin'ny biby fiompy"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ary amin'ny... rehetra"
+    },
+    {
+      "surface": "חית",
+      "gloss": "biby"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aminareo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "avy amin'ny... rehetra"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "mivoaka"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "avy amin'ny sambo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho an'ny... rehetra"
+    },
+    {
+      "surface": "חית",
+      "gloss": "biby"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "amin'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:36:24.447508719Z",
+  "model": "glm-5.3"
+}

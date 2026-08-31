@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 55,
+  "translation": "Aoka hahazo azy ny faharavana; aoka hidina velona any amin'ny Sheol izy ireo; fa ny ratsy dia ao an-tranon'izy ireo, ao anivon'izy ireo.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "faharavana"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "hahazo azy"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "hidina"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "any amin'ny Sheol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "velona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "ny ratsy"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "ao an-tranon'izy ireo"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "ao anivon'izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:43.046385577Z",
+  "model": "glm-5.3"
+}

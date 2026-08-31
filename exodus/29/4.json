@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary ⟨את⟩ Aharona sy ⟨את⟩ ny zanany no hanatitrao eo am-baravaran'ny tranolay fihaonana, ka hanasaoro amin'ny rano ⟨את⟩ izy ireo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "hanatitrao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "baravaran'ny"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tranolay"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "hanasaoro"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izy ireo (ason'ny fanasan'ny rano)"
+    },
+    {
+      "surface": "במים",
+      "gloss": "amin'ny rano"
+    }
+  ],
+  "timestamp": "2026-08-31T18:28:44.172805932Z",
+  "model": "glm-5.3"
+}

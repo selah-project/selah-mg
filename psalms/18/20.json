@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Nampivoaka ahy ho any amin'ny malalaka Izy, namonjy ahy, fa nahafinaritra Azy aho.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "Nampivoaka ahy"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "ho any amin'ny malalaka"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "namonjy ahy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "nahafinaritra Azy"
+    },
+    {
+      "surface": "בי",
+      "gloss": "aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:48.660950443Z",
+  "model": "glm-5.3"
+}

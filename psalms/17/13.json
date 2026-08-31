@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Mitsangàna, ry Yahveh, mifanena amin'ny tavany, ampidiro hitolona izy; vonjeo ny aiko amin'ny ratsy fanahy, ⟨amin'ny⟩ sabanao",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Mitsangàna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "mifanena amin'ny tavany"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "tavany"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "ampidiro hitolona izy"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "vonjeo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "aiko"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "amin'ny ratsy fanahy"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "sabanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:04.550205455Z",
+  "model": "glm-5.3"
+}

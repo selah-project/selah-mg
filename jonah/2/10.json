@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 2:10",
+  "book": "jonah",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Fa izaho kosa amin'ny feo fisaorana no hanatitra fanatitra ho anao; izay nivoadiko dia hotanterahiko. An'i Yahveh ny famonjena.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Fa izaho kosa"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "amin'ny feo"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "fisaorana"
+    },
+    {
+      "surface": "אזבחה",
+      "gloss": "hanatitra fanatitra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נדרתי",
+      "gloss": "nivoadiko"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "hotanterahiko"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "famonjena"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "An'i Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:13:42.158774696Z",
+  "model": "glm-5.3"
+}

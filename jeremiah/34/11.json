@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Nefa taorian'izay dia niverina izy ka nampody ⟨את⟩ ny mpanompo sy ⟨את⟩ ny mpanampy vavy izay nafakany tamin'izay, ka nanery azy ho mpanompo sy mpanampy vavy indray.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "niverina"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "taorian'"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izay"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "nampody"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanompo"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "ny mpanompo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny mpanampy vavy"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "ny mpanampy vavy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "nafakany"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "afaka"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "nanery azy"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "ho mpanompo"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "sy mpanampy vavy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:37:30.683388453Z",
+  "model": "glm-5.3"
+}

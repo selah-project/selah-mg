@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 20:6",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary hoy ny monina amin' ity nosy ity amin' izay andro izay: Indro, izao no fanantenanay, izay nandosirantsika tany ho famonjena, mba hiala amin' ny tavan' ny mpanjakan' i Ashur; ary izahay, hatao ahoana no hovoy?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ary hoy"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ny monina"
+    },
+    {
+      "surface": "האי",
+      "gloss": "amin' ny nosy"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity ... ity"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin' izay andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "כה",
+      "gloss": "izao"
+    },
+    {
+      "surface": "מבטנו",
+      "gloss": "no fanantenanay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נסנו",
+      "gloss": "nandosirantsika"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tany"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "ho famonjena"
+    },
+    {
+      "surface": "להנצל",
+      "gloss": "mba hiala"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "amin' ny tavan' ny"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan' ny"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ו איך",
+      "gloss": "ary hatao ahoana"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "no hovoy"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "izahay"
+    }
+  ],
+  "timestamp": "2026-08-31T15:07:15.275409984Z",
+  "model": "glm-5.3"
+}

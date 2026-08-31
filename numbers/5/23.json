@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary ny mpisoratra hanoratra ⟨את⟩ ny ozona ireto amin'ny boky, ary hamafa ⟨azy⟩ amin'ny rano mangidy.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "Ary hanoratra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ozona"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "ny ozona"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireto"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisoratra"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "amin'ny boky"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "ary hamafa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ny rano"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "mangidy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:58:22.456258477Z",
+  "model": "glm-5.3"
+}

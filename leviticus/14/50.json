@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary vonoiny ⟨את⟩ ilay vorona anankiray ao amin'ny vilany tany, ambonin'ny rano velona.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "vonoiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay vorona anankiray"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "ilay vorona"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "anankiray"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ao amin'ny"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "vilany"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "tany (keramika)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "velona"
+    }
+  ],
+  "timestamp": "2026-08-31T13:16:15.261811429Z",
+  "model": "glm-5.3"
+}

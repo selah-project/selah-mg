@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Ary rehefa ren'ny vahoaka ⟨את⟩ ny teny ratsy ity, dia nisaona izy; ary tsy nampiakanjo ny fianianany tamin'ny tenany ny lehilahy iray aza.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ary rehefa ren'ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny teny ratsy"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "dia nisaona izy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "nampiakanjo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ny lehilahy iray aza"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "ny fianianany"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tamin'ny tenany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:07:57.400371888Z",
+  "model": "glm-5.3"
+}

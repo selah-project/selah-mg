@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary hitondra ianao ⟨את⟩ ny latabatra ka hanoratra ny fanaterahana azy; ary hitondra ianao ⟨את⟩ ny fanaovan-jiro ka hanentana ny jirony.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "hitondra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny latabatra"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "latabatra"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "hanoratra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanaterahana azy"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "fanaterahana azy"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "hitondra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanaovan-jiro"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "fanaovan-jiro"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "hanentana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny jirony"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "jirony"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:32.528938395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 92,
+  "translation": "Mbola hamoa amin'ny fiantombohana izy, sady tavitavy sy maitso marelina.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "mbola"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "hamoa"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "amin'ny fiantombohana"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "tavitavy"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "sy maitso marelina"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨ho⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:15.299179926Z",
+  "model": "glm-5.3"
+}

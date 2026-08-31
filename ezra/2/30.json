@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Zanaka Magbish diman-jato amby enim-polo amby enina.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "Magbish"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "zato"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "dimam-polo"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "amby enina"
+    }
+  ],
+  "timestamp": "2026-08-31T17:25:42.353221456Z",
+  "model": "glm-5.3"
+}

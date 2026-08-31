@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ka niodina tamin'ny taranak'i Davida ny Isiraely ka hatramin'izao andro izao.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "Ka niodina tamin'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "taranak'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "היום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "izao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:45:15.224261552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 12:1",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Niteny tamin'i Moshe Yahveh hoe:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Niteny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T13:14:43.802669781Z",
+  "model": "glm-5.3"
+}

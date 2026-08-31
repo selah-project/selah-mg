@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ny fiandohan'ny fahendrena dia ny fahatahorana an'i Yahveh, ary ny fahalalana ny olony masina no fahalalana lalina.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "fiandohany"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "fahendrena"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "fahatahorana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "fahalalana"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "olona masina"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "fahalalana lalina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:49:57.498139995Z",
+  "model": "glm-5.3"
+}

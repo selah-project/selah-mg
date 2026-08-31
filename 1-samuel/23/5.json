@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 23:5",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary Davida sy ny lehilahy nankany Keilah ka niady tamin'ny Filistina; ka nentiny lasa ⟨את⟩ ny omby fiompiny, ary namely azy izy tamin'ny famonoana lehibe; ka namonjy ⟨את⟩ mponina an'i Keilah Davida.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nankany"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ואנשו",
+      "gloss": "sy ny lehilahy"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilah"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ka niady"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "tamin'ny Filistina"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "nentiny lasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny omby fiompiny"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "omby fiompiny"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "namely"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "famonoana"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "namonjy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mponina an'i Keilah"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mponina"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilah"
+    }
+  ],
+  "timestamp": "2026-08-31T14:25:27.612178112Z",
+  "model": "glm-5.3"
+}

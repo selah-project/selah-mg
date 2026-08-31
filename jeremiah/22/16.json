@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Nitsara ny raharan'ny mahantra sy ny malahelo izy; tamin'izay dia tsara — tsy izany va no mahafantatra ⟨את⟩Ahy? lazin'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Nitsara"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ny raharan'ny"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mahantra"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "sy ny malahelo"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tamin'izay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "tsy ... va"
+    },
+    {
+      "surface": "היא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "no mahafantatra"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩Ahy",
+      "marks": "Ahy"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "lazin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T15:32:03.264854497Z",
+  "model": "glm-5.3"
+}

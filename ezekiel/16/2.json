@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Zanak'olona, ampijerezo an'i Yeroshalayim ⟨את⟩ ny fahavetavetany ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Zanaka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "ampijerezo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeroshalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fahavetavetany"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "fahavetavetany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:51:24.833394212Z",
+  "model": "glm-5.3"
+}

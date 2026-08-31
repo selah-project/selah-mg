@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary tamin'i Hushim niteraka ⟨את⟩ i Abitoba sy ⟨את⟩ i Elpaala.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "Ary tamin'i Hushim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Abitoba"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "i Abitoba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "i Elpaala"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "i Elpaala"
+    }
+  ],
+  "timestamp": "2026-08-31T17:35:38.186779495Z",
+  "model": "glm-5.3"
+}

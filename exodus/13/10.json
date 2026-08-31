@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary hitandrina ianao ⟨את⟩ ny lalàna ity amin'ny fotoan'ny voafaritra, hatramin'ny andro ka hatramin'ny andro ⟨isaky ny taona⟩.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Ary hitandrina ianao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lalàna ity"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "ny lalàna"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ity"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "amin'ny fotoan'ny voafaritra"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "hatramin'ny andro"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "ka hatramin'ny andro"
+    }
+  ],
+  "timestamp": "2026-08-31T17:56:12.111100658Z",
+  "model": "glm-5.3"
+}

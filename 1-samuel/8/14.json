@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary ⟨את⟩ ny sahanareo sy ⟨את⟩ ny fambolena voalobokareo ary ny hazo olivinareo tsara indrindra dia halainy, ka homeiny ho an'ny mpanompony.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sahanareo"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "sahanareo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fambolena voalobokareo"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "fambolena voalobokareo"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "hazom-olivinareo"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "tsara indrindra"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "halainy"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ka homeiny"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "ho an'ny mpanompony"
+    }
+  ],
+  "timestamp": "2026-08-31T14:15:51.718272486Z",
+  "model": "glm-5.3"
+}

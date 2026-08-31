@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Hihaino ny hendry ka hanampy fahalalana ⟨hafa⟩, ary ny manan-tsaina hahazo tetika maro.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "hihaino"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ny hendry"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ka hanampy"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "fahalalana"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "ary ny manan-tsaina"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "tetika maro"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "hahazo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:08.488183538Z",
+  "model": "glm-5.3"
+}

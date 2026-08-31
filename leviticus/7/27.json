@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Fanahy rehetra izay hihinana rà na inona na inona, dia hofongorana amin'ny fireneny io fanahy io.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Fanahy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "hihinana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "na inona na inona"
+    },
+    {
+      "surface": "דם",
+      "gloss": "rà"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "dia hofongorana"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "io fanahy io"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "io"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "amin'ny fireneny"
+    }
+  ],
+  "timestamp": "2026-08-31T13:12:48.783974351Z",
+  "model": "glm-5.3"
+}

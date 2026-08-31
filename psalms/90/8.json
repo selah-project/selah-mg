@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 90,
+  "translation": "Napetrakoen'... Nanorenanao teo anatrehanao ny fahadisoantsika, ary ny zava-binoinay tamin'ny fahazavan'ny tavanao.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "nanorenanao"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "ny fahadisoantsika"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "teo anatrehanao"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "ny zava-binoinay"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "tamin'ny fahazavan'ny"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tavanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:22.404968806Z",
+  "model": "glm-5.3"
+}

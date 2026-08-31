@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Niverina nanangana indray Davida ⟨את⟩ ny tanora voafidy rehetra ao amin'ny Isiraely, telo alina.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "niverina nanangana indray"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "indray"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tanora voafidy rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "tanora voafidy"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ao amin'ny Isiraely"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "telo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "alina"
+    }
+  ],
+  "timestamp": "2026-08-31T14:30:08.085558557Z",
+  "model": "glm-5.3"
+}

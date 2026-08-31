@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary hiteny ianao aminy ka hametraka ⟨את⟩ ny teny am-bavany; ary Izaho dia ho eo amin'ny vavanao sy amin'ny vavany, ary hampianatra anareo ⟨את⟩ izay hataonareo.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "hiteny ianao"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "hametraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny teny"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "am-bavany"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ary Izaho"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "עם",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "vavanao"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "sy amin'ny"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "vavany"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "hampianatra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay hataonareo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "hataonareo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:56:00.829167195Z",
+  "model": "glm-5.3"
+}

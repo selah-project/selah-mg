@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 1:1",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Adama, Sheta, Enosha.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Adama"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Sheta"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosha"
+    }
+  ],
+  "timestamp": "2026-08-31T17:33:54.415361045Z",
+  "model": "glm-5.3"
+}

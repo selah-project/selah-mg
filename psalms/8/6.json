@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nampanao azy ho tery kely latsaka noho ny Elohim ianao, ary voninahitra sy hatsaran-tarehy no satronao azy.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "nampanao azy ho tery kely latsaka"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kely"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "nofolo ny Elohim"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ary voninahitra"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "sy hatsaran-tarehy"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "satronao azy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:34:39.949182232Z",
+  "model": "glm-5.3"
+}

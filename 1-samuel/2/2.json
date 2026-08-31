@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Tsy misy masina tahaka an'i Yahveh, fa tsy misy afa-tsy ⟨Ianao⟩; ary tsy misy vatolampy tahaka ny Elohinay.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Tsy misy"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "tahaka an'i Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "afa-tsy ⟨Ianao⟩"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ary tsy misy"
+    },
+    {
+      "surface": "צור",
+      "gloss": "vatolampy"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "tahaka ny Elohinay"
+    }
+  ],
+  "timestamp": "2026-08-31T14:14:44.966812839Z",
+  "model": "glm-5.3"
+}

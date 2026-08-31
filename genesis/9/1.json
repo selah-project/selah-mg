@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary Nahasoavan'i Elohim ⟨את⟩ i Noa sy ⟨את⟩ ny zanany, ka nanao taminy hoe: Miteraha, maroaha, mamenoa ⟨את⟩ ny tany.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Nahasoavana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Noa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "i Noa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "להם",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Miteraha"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "maroaha"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "mamenoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:26.822645974Z",
+  "model": "glm-5.3"
+}

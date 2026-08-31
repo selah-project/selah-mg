@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 20:17",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Nefa ny masoko niahhy azy tamin'ny fandevonany azy, ka tsy nanaovany azy ho faharavana fotsiny aho tany an-efitra.",
+  "tokens": [
+    {
+      "surface": "ותחס",
+      "gloss": "niahy"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ny masoko"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "tamin'ny fandevonany azy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nanaovany aho"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ho faharavana fotsiny"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "tany an-efitra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:54:15.305112246Z",
+  "model": "glm-5.3"
+}

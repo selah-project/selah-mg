@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Mankahala ahy izy ireo, niala lavitra tamiko, ary tsy nisakana ny faniri-dava ⟨teo⟩ an-tarehiko.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "Mankahala ahy"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "niala lavitra"
+    },
+    {
+      "surface": "מני",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ary ⟨teo⟩ an-tarehiko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "nisakana ny faniri-dava"
+    },
+    {
+      "surface": "רק",
+      "gloss": "faniri-dava"
+    }
+  ],
+  "timestamp": "2026-08-31T18:47:45.520077323Z",
+  "model": "glm-5.3"
+}

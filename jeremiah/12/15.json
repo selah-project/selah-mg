@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 12:15",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary hisy izany, rehefa avy nanongotra azy Aho, hiverina ka hamindra fo aminy, ary hampodiko ⟨azy⟩ isan'olona ho amin'ny lovany ary isan'olona ho amin'ny taniny.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ary hisy izany"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rehefa avy"
+    },
+    {
+      "surface": "נתשי",
+      "gloss": "nanongotra"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "hiverina"
+    },
+    {
+      "surface": "ורחמתים",
+      "gloss": "ka hamindra fo aminy"
+    },
+    {
+      "surface": "והשבתים",
+      "gloss": "ary hampodiko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "isan'olona"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "ho amin'ny lovany"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ary isan'olona"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "ho amin'ny taniny"
+    }
+  ],
+  "timestamp": "2026-08-31T15:29:39.037566902Z",
+  "model": "glm-5.3"
+}

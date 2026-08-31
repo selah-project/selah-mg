@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ary nandidy i Moshe sy ny loholon'i Yisrael ⟨את⟩ ny vahoaka hanao hoe: Tandremo ⟨את⟩ ny didy rehetra izay didiako ⟨את⟩ anareo androany.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "nandidy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "sy ny loholon'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hanao hoe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Tandremo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny didy rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ny didy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "didiako"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "androany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:49:24.797529932Z",
+  "model": "glm-5.3"
+}

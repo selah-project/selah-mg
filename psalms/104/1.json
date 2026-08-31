@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 104,
+  "translation": "Tsofy, ry fanahiko, an'i Yahveh. Yahveh, Elohiko, lehibe indrindra Hianao; hodary sy voninahitra no anaovanao akanjo.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Tsofy"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ry fanahiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohiko"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "indrindra"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "hodary sy"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "voninahitra"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "no anaovanao akanjo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:56.248384367Z",
+  "model": "glm-5.3"
+}

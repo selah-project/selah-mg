@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 49,
+  "translation": "Any noho izay no nalevina ⟨את⟩ i Avraham sy ⟨את⟩ i Sarah vadiny; any no nalevina ⟨את⟩ i Yitschak sy ⟨את⟩ i Rivka vadiny; ary any no naleviko ⟨את⟩ i Lea.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "any"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "no nalevina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "i Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "i Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "i Sarah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vadiny"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "any"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "no nalevina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Yitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "i Yitschak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "i Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "i Rivka"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vadiny"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ary any"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "no naleviko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "i Lea"
+    }
+  ],
+  "timestamp": "2026-08-31T17:56:03.399915955Z",
+  "model": "glm-5.3"
+}

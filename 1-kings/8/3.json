@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary tonga ny loholon'ny Yisrael rehetra; ary nitondra ny mpisoratra ⟨את⟩ ny fiara.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Ary tonga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ny loholon'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ary nitondra"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ny mpisoratra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiara"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ny fiara"
+    }
+  ],
+  "timestamp": "2026-08-31T14:42:53.437370947Z",
+  "model": "glm-5.3"
+}

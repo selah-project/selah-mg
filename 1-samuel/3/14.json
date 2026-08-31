@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Koa noho izany efa nianianako tamin'ny taranak'i Eli fa tsy hovaliana mihitsy ny heloky ny taranak'i Ali amin'ny zazà na amin'ny fanatitra, mandrakizay.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "Koa noho izany"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nianianako"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "tamin'ny taranak'i"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨raha⟩"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "hovaliana"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ny heloka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ny taranak'i"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "amin'ny zazà"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "na amin'ny fanatitra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kizay"
+    }
+  ],
+  "timestamp": "2026-08-31T14:15:27.689367754Z",
+  "model": "glm-5.3"
+}

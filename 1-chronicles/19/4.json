@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Dia noraisin'i Hanun ⟨את⟩ ny mpanompon'i David, dia nendahany volony, ary notapahiny ⟨את⟩ ny fitafiany am-pelany, ka hatrany amin'ny fanny, dia nampandehaziny izy.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Dia noraisin'i"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanompon'i David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ny mpanompon'i"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "dia nendahany volony"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ary notapahiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitafiany"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "ny fitafiany"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "am-pelany"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka hatrany amin'ny"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "fanny"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "dia nampandehaziny izy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:39:45.802665074Z",
+  "model": "glm-5.3"
+}

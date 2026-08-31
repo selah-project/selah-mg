@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary ankehitriny, Yahveh Elohim-ako, ianao no nanjakan-koa ⟨את⟩ ny mpanomponao solon'i Davida rainy; ary izaho kosa dia zazakely mbola kely, tsy mahalala ny fivoahana sy ny fidirana.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ary ankehitriny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-ako"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "nanjakan-koa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanomponao"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ny mpanomponao"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "solon'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rainy"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ary izaho kosa"
+    },
+    {
+      "surface": "נער",
+      "gloss": "zazakely"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "mbola kely"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "ny fivoahana"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "sy ny fidirana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:32:00.859623311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 34:29",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ary ⟨את⟩ ny hareny rehetra sy ⟨את⟩ ny zaza rehetra ary ⟨את⟩ ny vadiny — nentiny babo ka nangalatra, ary ⟨את⟩ izay rehetra tao an-trano.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny hareny rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ny hareny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny zaza rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "ny zaza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny vadiny"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "ny vadiny"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "nentiny babo"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "ka nangalatra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "izay rehetra tao an-trano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "tao an-trano"
+    }
+  ],
+  "timestamp": "2026-08-31T12:47:21.381534739Z",
+  "model": "glm-5.3"
+}

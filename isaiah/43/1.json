@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 43:1",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 43,
+  "translation": "Ary ankehitriny izao no lazain'i Yahveh, ilay namorona anao, ry Yaakov, sy ilay nanao anao, ry Isiraely: Aza matahotra, fa efa navotako ianao, efa niantso anaranao ho antsika Aho; an'ny Ahy ianao.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ary ankehitriny"
+    },
+    {
+      "surface": "כה",
+      "gloss": "izao"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "no lazain'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בראך",
+      "gloss": "ilay namorona anao"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ry Yaakov"
+    },
+    {
+      "surface": "ויצרך",
+      "gloss": "sy ilay nanao anao"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ry Isiraely"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "matahotra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "גאלתיך",
+      "gloss": "efa navotako ianao"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "efa niantso"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "anaranao"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho antsika"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:15:46.354054232Z",
+  "model": "glm-5.3"
+}

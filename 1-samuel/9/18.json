@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Dia nanatoka-tena tao anivon'ny vavahady Shaol ⟨את⟩ ho any amin'i Shemuela, ka nanao hoe: Lazao azafady amiko: aiza ity trano ilay mpahita?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "Dia nanatoka-tena"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ho any amin'i Shemuela"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "i Shemuela"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "tao anivon'ny"
+    },
+    {
+      "surface": "השער",
+      "gloss": "vavahady"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Lazao"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "לי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "אי",
+      "gloss": "aiza"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ilay mpahita"
+    }
+  ],
+  "timestamp": "2026-08-31T14:18:25.829658127Z",
+  "model": "glm-5.3"
+}

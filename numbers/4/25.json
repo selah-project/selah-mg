@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 4:25",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ka hitondra izy ireo ⟨את⟩ ny fariparitry ny trano-lay, sy ⟨את⟩ ny lay fihaonana, ny fitafiana azy, sy ny fitafian'ny hoditra tahasy izay eo ambony ambony eo, ary ⟨את⟩ ny hangin'ny fidirana ny lay fihaonana.",
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "hitondra izy ireo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fariparitry ny trano-lay"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "ny fariparitra"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ny trano-lay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny lay fihaonana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ny lay"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "ny fitafiana azy"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "sy ny fitafiana"
+    },
+    {
+      "surface": "התחש",
+      "gloss": "ny hoditra tahasy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ambony ambony eo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny hangin'ny fidirana ny lay fihaonana"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ny hangy"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ny fidirana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ny lay"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:58:41.203158936Z",
+  "model": "glm-5.3"
+}

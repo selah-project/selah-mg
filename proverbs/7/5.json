@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 7:5",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Mba hihavana anao amin'ny vahiny am-panambadiana, sy amin'ny vahiny izay mandatsa-dresaka tsy misy fahataraina ny teniny.",
+  "tokens": [
+    {
+      "surface": "לִשְׁמָרְךָ",
+      "gloss": "mba hihavana anao"
+    },
+    {
+      "surface": "מֵאִשָּׁה",
+      "gloss": "amin'ny vahiny am-panambadiana"
+    },
+    {
+      "surface": "זָרָה",
+      "gloss": "vahiny"
+    },
+    {
+      "surface": "מִנָּכְרִיָּה",
+      "gloss": "sy amin'ny vahiny"
+    },
+    {
+      "surface": "אֲמָרֶיהָ",
+      "gloss": "ny teniny"
+    },
+    {
+      "surface": "הֶחֱלִיקָה",
+      "gloss": "mandatsa-dresaka tsy misy fahataraina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:50:01.618310352Z",
+  "model": "glm-5.3"
+}

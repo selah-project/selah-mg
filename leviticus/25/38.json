@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Izaho Yahveh Elohinareo, Izay nentiko ⟨את⟩ ianareo hiala tamin'ny tany Mitsrayim, hanome anareo ⟨את⟩ ny tany Kenana, mba ho Elohinareo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Izay"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "nentiko hiala"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ianareo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "tamin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "hanome"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany Kenana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenana"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "mba ho"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohinareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:20:29.838335039Z",
+  "model": "glm-5.3"
+}

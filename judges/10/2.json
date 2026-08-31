@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary nanjara ⟨את⟩ i Yisraela amby roapolo taona; dia maty izy ka nalevina tao Shamira.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "nanjara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "amby roapolo"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "tatelo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "maty"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "nalevina"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "tao Shamira"
+    }
+  ],
+  "timestamp": "2026-08-31T14:09:19.568279859Z",
+  "model": "glm-5.3"
+}

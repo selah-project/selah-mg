@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Tandremo anao, fandrao hanadino an'i Yahveh Elohim-nao ianao, amin'ny tsy fitandremana ny didiny sy ny fitsarany ary ny lalàny, izay andidiako anao androany;",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Tandremo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "פן",
+      "gloss": "fandrao"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "hanadino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nao"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "amin'ny tsy"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "fitandremana"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "ny didiny"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "sy ny fitsarany"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "ary ny lalàny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "andidiako anao"
+    },
+    {
+      "surface": "היום",
+      "gloss": "androany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:43:17.444002507Z",
+  "model": "glm-5.3"
+}

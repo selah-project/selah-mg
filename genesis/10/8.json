@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary Kush niteraka ⟨את⟩ Nimroda; izy no nanomboka ho lehilahy mahery tamin'ny tany.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Ary Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimroda"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimroda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "החל",
+      "gloss": "no nanomboka"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ho"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "lehilahy mahery"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tamin'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:32.754633844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Yahveh, tia ny fonenan'ny tranonao aho, sy ny toerana itoeran'ny lay fonenanao voninahitrao.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "tia"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "fonenana"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ny tranonao"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "sy ny toerana"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "itoeran'ny lay fonenanao"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "voninahitrao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:46.830272653Z",
+  "model": "glm-5.3"
+}

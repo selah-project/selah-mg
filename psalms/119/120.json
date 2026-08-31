@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Nihorohoro ny nofoko noho ny fahatahorana anao, ary natahotra ny fitsaranao aho.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "Nihorohoro (niantsorama)"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "noho ny fahatahorana anao"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ny nofoko"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "ary ... ny fitsaranao"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "natahotra aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:45.873018217Z",
+  "model": "glm-5.3"
+}

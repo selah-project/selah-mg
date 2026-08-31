@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary Yahveh nampiakatra ny fahavilon'i Retsin hiady aminy, ary ⟨את⟩ ny fahavalony nampifangaroiny.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "nampiakatra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahavilon'i Retsin"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "fahavilo"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hiady aminy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahavalony"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "fahavalony"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "nampifangaroiny"
+    }
+  ],
+  "timestamp": "2026-08-31T15:04:54.142750455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "⟨את⟩ ny lain'ny fihaonana, ⟨את⟩ ny fiara ⟨in'ny⟩ fampilazàna, ⟨את⟩ ny fanafenana izay eo amboniny, ary ⟨את⟩ ny fitaovana rehetra ⟨in'ny⟩ laina —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lain'ny fihaonana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "laina"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiara"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "fampilazàna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanafenana"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "fanafenana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "eo amboniny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitaovana rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "fitaovana"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "laina"
+    }
+  ],
+  "timestamp": "2026-08-31T18:28:34.659988981Z",
+  "model": "glm-5.3"
+}

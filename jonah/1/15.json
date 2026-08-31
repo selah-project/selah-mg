@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary nakatra ⟨את⟩ i Yonah ka nariany tany an-dranomasina; dia nitsahatra ny ranomasina tamin'ny fahatezerany.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "nakatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "i Yonah"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "ka nariany"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tany an-"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ranomasina"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "dia nitsahatra"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ny ranomasina"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "tamin'ny fahatezerany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:13:59.710158495Z",
+  "model": "glm-5.3"
+}

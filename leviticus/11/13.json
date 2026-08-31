@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary ireto ⟨את⟩ no hohavadiana amin'ny voratra: tsy azo hanina izy, fahavetavetana izy: ⟨את⟩ ny nesher sy ⟨את⟩ ny peres ary ⟨את⟩ ny ozinià.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ireto (ireto voratra)"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ireto"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "hohavadiana"
+    },
+    {
+      "surface": "מן",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "voratra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "azo hanina"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "fahavetavetana"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny nesher"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "ny nesher (voromahery)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny peres"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "ny peres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny ozinià"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "ny ozinià"
+    }
+  ],
+  "timestamp": "2026-08-31T13:14:33.782938397Z",
+  "model": "glm-5.3"
+}

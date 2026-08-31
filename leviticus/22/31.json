@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary tandremo ny didiko ka araho ⟨את⟩ izy; izaho no Yahveh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ary tandremo"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ny didiko"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ka araho"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izy (ny didiko)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "no Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:18.233597818Z",
+  "model": "glm-5.3"
+}

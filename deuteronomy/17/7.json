@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ny tànan'ny vavolombelona ⟨no⟩ ho voalohany aminy hamonoana azy, ary ny tànan'ny vahoaka rehetra manaraka; dia hamafa ny ratsy eo am-poanao ianao.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "tànan'ny"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "vavolombelona"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "בו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "voalohany"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "hamonoana azy"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ary ny tànana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "manaraka"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "dia hamafa"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ny ratsy"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "eo am-poanao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:47:54.873879094Z",
+  "model": "glm-5.3"
+}

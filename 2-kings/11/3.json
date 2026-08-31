@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 11:3",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary izy ⟨את⟩ tao amin'ny tranon'i Yahveh niafina nandritra ny enin-taona; ary Atalya nanjaka tamin'ny tany.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary ... tonga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ tao"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "niafina"
+    },
+    {
+      "surface": "שש",
+      "gloss": "enin-"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "ary Atalya"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "nanjaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:55:32.240360617Z",
+  "model": "glm-5.3"
+}

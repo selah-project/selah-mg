@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Moa va ny andronao tahaka ny andron'ny olona mety maty, ary ny taonanao tahaka ny taonan'ny gever?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "tahaka ny andron'ny"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "olona mety maty"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ny andronao"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Moa va"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "ny taonanao"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "tahaka ny taonan'ny"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "gever (lehilahy mahery)"
+    }
+  ],
+  "timestamp": "2026-08-31T17:00:59.913922052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 119:49",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Tsarovy ⟨ny⟩ teny ho an'ny mpanomponao, izay nampiantenaina ahy ianao.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Tsarovy"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "teny"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "ho an'ny mpanomponao"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨izay⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יחלתני",
+      "gloss": "nampiantenaina ahy ianao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:02.256722987Z",
+  "model": "glm-5.3"
+}

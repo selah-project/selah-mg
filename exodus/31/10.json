@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "ary ⟨את⟩ ny fitafiana voakofa ary ⟨את⟩ ny fitafiana masina ho an'i Aharoni mpisorona, ary ⟨את⟩ ny fitafian'ny zanany hanao fanompoam-pisorona,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitafiana voakofa"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "fitafiana"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "voakofa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitafiana masina"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "fitafiana"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ho an'i Aharoni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitafian'ny zanany"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "fitafian'ny"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "hanao fanompoam-pisorona"
+    }
+  ],
+  "timestamp": "2026-08-31T13:06:05.364834897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "Ary ⟨את⟩ ny tranon'ny mpanjaka sy ⟨את⟩ ny tranon'ny olona dia nodoran'ny Kasdiana tamin'ny afo; ary ⟨את⟩ mandrary an'i Yeroshalayim dia noravany.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ary ⟨את⟩",
+      "marks": "ny tranon'ny mpanjaka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tranon'ny olona"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon'ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "nodoran'ny"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kasdiana"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tamin'ny afo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "mandrary an'i Yeroshalayim"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "mandrary"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "noravany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:38:55.685538272Z",
+  "model": "glm-5.3"
+}

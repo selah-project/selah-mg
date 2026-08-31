@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 42:1",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Indro ny mpanompoko, izay anohanako; ny safidiko, tia azy mihitsy ny aiko; homeko ny fanahiko eo ambony ⟨iny⟩, ary hitondra fitsarana ho an'ny firenena ⟨izy⟩.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ny mpanompoko"
+    },
+    {
+      "surface": "אתמך",
+      "gloss": "anohanako"
+    },
+    {
+      "surface": "בו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "ny safidiko"
+    },
+    {
+      "surface": "רצתה",
+      "gloss": "tia"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "homeko"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ny fanahiko"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "fitsarana"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "ho an'ny firenena"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "hitondra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:16:04.022899688Z",
+  "model": "glm-5.3"
+}

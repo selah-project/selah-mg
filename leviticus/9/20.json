@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary napetrany ⟨את⟩ ny tavy teo ambonin'nytratra, ka nodorany tamin'ozoro ny tavy teo ambony ny alitara.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "napetrany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavy"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "ny tavy"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo ambonin'ny"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "tratra"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "nodorany tamin'ozoro"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "ny tavy"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "teo ambony ny alitara"
+    }
+  ],
+  "timestamp": "2026-08-31T13:14:01.308257059Z",
+  "model": "glm-5.3"
+}

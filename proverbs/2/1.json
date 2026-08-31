@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ry zanako, raha mandray ny teniko ianao, ary mitahiry ny didiko ⟨את⟩ ianao (eo aminao),",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ry zanako"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "mandray"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ny teniko"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ary ny didiko"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "mitahiry"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ianao (ao aminao)"
+    }
+  ],
+  "timestamp": "2026-08-31T16:49:11.823206490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 19:33",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary nampanony divay ⟨את⟩ ny rainy izy tamin'ilay alina; ary niditra ny lahimatoa ka nandry ⟨את⟩ ny rainy; fa tsy nahalala izy na tamin'ny fandravany na tamin'ny fitsanganany.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "nampanony divay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rainy"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "ny rainy"
+    },
+    {
+      "surface": "יין",
+      "gloss": "divay"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "tamin'ilay alina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "io"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "ary niditra"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "ny lahimatoa"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "ka nandry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rainy"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ny rainy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nahalala"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "tamin'ny fandravany"
+    },
+    {
+      "surface": "ובקומה",
+      "gloss": "tamin'ny fitsanganany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:40:38.486290484Z",
+  "model": "glm-5.3"
+}

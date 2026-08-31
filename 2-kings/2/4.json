@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 2:4",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary hoy Eliyahu taminy: Ry Elisa, mijanona eto indray mandeha, fa Yahveh no naniraka ahy ho any Jeriko. Ary hoy izy: Velona Yahveh ary velona ny ainao, fa tsy handao anao aho. Dia tonga izy roa tany Jeriko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Mijanona"
+    },
+    {
+      "surface": "נא",
+      "gloss": "indray mandeha"
+    },
+    {
+      "surface": "פה",
+      "gloss": "eto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "naniraka ahy"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jeriko"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Velona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ary velona"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ny ainao"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨fa tsy⟩"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "handao anao"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "Dia tonga izy roa"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "tany Jeriko"
+    }
+  ],
+  "timestamp": "2026-08-31T14:51:11.566122618Z",
+  "model": "glm-5.3"
+}

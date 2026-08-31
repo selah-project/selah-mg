@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Tsy mety amin'ny mpanjaka, ry Lemuel, tsy mety amin'ny mpanjaka ny misotro divay, na amin'ny mpanapaka ny faniriana zava-mahamamo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Tsy mety"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "amin'ny mpanjaka"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "ry Lemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tsy mety"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "amin'ny mpanjaka"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ny misotro"
+    },
+    {
+      "surface": "יין",
+      "gloss": "divay"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "na amin'ny mpanapaka"
+    },
+    {
+      "surface": "או",
+      "gloss": "ny faniriana"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "zava-mahamamo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:58:19.629865841Z",
+  "model": "glm-5.3"
+}

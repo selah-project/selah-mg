@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Anaka, aza mandeha amin'ny lalana ⟨את⟩ amin'izy ireo; sakano ny tongotrao tsy hiditra amin'ny lalany.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Anaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "amin'ny lalana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "amin'izy ireo"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "sakano"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ny tongotrao"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "amin'ny lalany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:36:19.933730947Z",
+  "model": "glm-5.3"
+}

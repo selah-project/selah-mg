@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 48:15",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 48,
+  "translation": "Izaho, izaho no niteny; eny, niantso azy Aho, nitondra azy Aho, ary nahomby ny lalany.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "no niteny"
+    },
+    {
+      "surface": "אף",
+      "gloss": "eny"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "niantso azy Aho"
+    },
+    {
+      "surface": "הביאתיו",
+      "gloss": "nitondra azy Aho"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "ary nahomby"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ny lalany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:16:44.457721996Z",
+  "model": "glm-5.3"
+}

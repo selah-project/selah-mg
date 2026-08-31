@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 14:28",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary ny rano niverina, ka nanarona ⟨את⟩ ny kalesy sy ⟨את⟩ ny mpitaingina soavaly — dia ny tafika rehetran'i Parao izay nanaraka azy tao an-dranomasina; tsy nisy tamin'izy ireo sisa na dia iray aza.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Ary ny rano niverina"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ny rano"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "ka nanarona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny kalesy"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ny kalesy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny mpitaingina soavaly"
+    },
+    {
+      "surface": "הפרשים",
+      "gloss": "ny mpitaingina soavaly"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "dia ny ... rehetra"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "tafika"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "izay nanaraka"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "בים",
+      "gloss": "tao an-dranomasina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "nisy ... sisa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "tamin'izy ireo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "na dia"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray aza"
+    }
+  ],
+  "timestamp": "2026-08-31T13:00:06.799774362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Ary nampitombo indray izy ka niteraka zazalahy, ka niantso ny anarany hoe Shelah; ary tao Khezib izy ⟨teo⟩ tamin'ny niterahany azy.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "nampitombo indray"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "indray"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zazalahy"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anarany"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shelah"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ary izy ⟨teo⟩"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "tao Khezib"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "tamin'ny niterahany"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:27:51.391420330Z",
+  "model": "glm-5.3"
+}

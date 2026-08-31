@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 19:27",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary Abrahama nifoha maraina be, nankany amin'ny ilay toerana izay nitsangany tao ⟨את⟩ ⟨alohan'ny tavan'ny⟩ Yahveh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "nifoha maraina be"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahama"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "maraina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nankany amin'ny"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ny toerana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "nitsangany"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨alohan'ny tavan'ny⟩",
+      "marks": "tavan'ny Yahveh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tavan'ny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T12:39:41.324507349Z",
+  "model": "glm-5.3"
+}

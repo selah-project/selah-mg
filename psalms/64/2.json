@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 64,
+  "translation": "Henoy, Ry Elohim, ny feoko amin'ny fikarakarako; avy amin'ny fahataoran'ny fahavalo dia tehirizo ny aiko.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Henoy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ny feoko"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "amin'ny fikarakarako"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "avy amin'ny fahataoran'ny"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fahavalo"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "tehirizo"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ny aiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:24.388303558Z",
+  "model": "glm-5.3"
+}

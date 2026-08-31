@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "ary ⟨את⟩ Bosmath zanakavavin'i Yishmaela, rahavavin'i Nevayota.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Bosmath"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmath"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanakavavin'i"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmaela"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "rahavavin'i"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nevayota"
+    }
+  ],
+  "timestamp": "2026-08-31T12:47:48.141027429Z",
+  "model": "glm-5.3"
+}

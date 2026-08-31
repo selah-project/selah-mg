@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary nampakatra ⟨את⟩ ny kalesiny izy, ary ⟨את⟩ ny vahoakany nentiny teo aminy.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "Ary nampakatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny kalesiny"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "ny kalesiny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoakany"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ny vahoakany"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nentiny"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "teo aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:00:30.309252218Z",
+  "model": "glm-5.3"
+}

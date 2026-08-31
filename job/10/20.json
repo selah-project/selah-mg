@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Tsy fohy va ny androko? Mijanòna àry, ka esory amiko, dia hifaly kely aho.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Tsy ... va"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "fohy"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ny androko"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "Mijanòna àry"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "esory"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "dia hifaly"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kely"
+    }
+  ],
+  "timestamp": "2026-08-31T17:01:36.852528026Z",
+  "model": "glm-5.3"
+}

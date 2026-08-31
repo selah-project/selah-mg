@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 35:5",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Maka ⟨את⟩ fanatitra avy aminareo ho an'i Yahveh ianareo; izay rehetra malala-tompo ny fony hitondra ⟨את⟩ ny fanatitr'i Yahveh: volamena sy volafotsy ary varahina.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Maka"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ aminareo"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "fanatitra"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "malala-tompo"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ny fony"
+    },
+    {
+      "surface": "יביאה",
+      "gloss": "hitondra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanatitr'i Yahveh"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "ny fanatitr'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "sy volafotsy"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ary varahina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:08:15.490868442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 93,
+  "translation": "Niakatra ny ony, Yahveh; niakatra ny ony ka nampiboaka ny feony; miakatra ny ony miaraka amin'ny onja mandrava.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "niakatra"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ny ony"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "niakatra"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ny ony"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ny feony"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "miakatra"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ny ony"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "onja mandrava"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:40.244371709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Hitan'ny mpiambina izay mivily ny tanàna aho; ⟨nanoa⟩ azy hoe: ⟨את⟩ ilay tian'ny fanahiko hitanareo va?",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "hitan'ny mpiambina aho"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "ny mpiambina"
+    },
+    {
+      "surface": "הסובבים",
+      "gloss": "izay mivily"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ny tanàna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay tian'ny fanahiko"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "ilay tian-"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "-ny fanahiko"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "hitanareo va"
+    }
+  ],
+  "timestamp": "2026-08-31T17:10:14.808181711Z",
+  "model": "glm-5.3"
+}

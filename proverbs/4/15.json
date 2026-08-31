@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Esory izy, aza mandalo eo; mialà aminy ka mandalo lavitra.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "Esory izy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "mandalo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "eo"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "mialà"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "ka mandalo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:49:13.571041341Z",
+  "model": "glm-5.3"
+}

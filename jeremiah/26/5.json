@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 26:5",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "hanaraka ny tenin'ny mpanompoko mpaminany, izay izaho Yahveh maniraka mba hiakatra maraina sy maniraka ⟨mpanompo⟩ ho aminareo, kanefa tsy nihaino ianareo",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "hanaraka \/ hihaino"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ny tenin'ny"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mpanompoko"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "mpaminany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "maniraka"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ho aminareo"
+    },
+    {
+      "surface": "והשכם",
+      "gloss": "miakatra maraina"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "sy maniraka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kanefa tsy"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "nihaino ianareo"
+    }
+  ],
+  "timestamp": "2026-08-31T18:08:16.144442095Z",
+  "model": "glm-5.3"
+}

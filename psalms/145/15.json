@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 145,
+  "translation": "Ny mason'ny rehetra manantena anao, ary ianao manome azy ⟨את⟩ ny haniny amin'ny fotoany.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ny maso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "manantena"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ary ianao"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "manome"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny haniny"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "haniny"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "amin'ny fotoany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:39.776709648Z",
+  "model": "glm-5.3"
+}

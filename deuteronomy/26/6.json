@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary ny Mitsrita nanao ratsy taminay ⟨את⟩, sy nampahorina antsika, ary nametraka taminay enta-mavesatra mafy izy:",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "nanao ratsy"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "taminay (iantsika)"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "ny Mitsrita"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "nampahorina antsika"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "nametraka"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "taminay"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "enta-mavesatra"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "mafy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:49:12.310790356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 1:4",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Fa ny fiara ny Elohim efa nak'i Davida haingana avy tao amin'i Kiryat-Yearima, tamin'ny nomanin'i Davida toerana ho azy; fa efa nanorina trano-lay ho azy tao amin'i Yeroshalayim izy.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ny Elohim"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "efa nak'i ... haingana"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "avy tao amin'i"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Kiryat-Yearima"
+    },
+    {
+      "surface": "בהכין",
+      "gloss": "tamin'ny nomanin'i"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "nanorina"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "trano-lay"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "tao amin'i Yeroshalayim"
+    }
+  ],
+  "timestamp": "2026-08-31T17:42:39.823023962Z",
+  "model": "glm-5.3"
+}

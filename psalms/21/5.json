@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Aina no angatahiny taminao, nomenao azy ⟨izany⟩ — lava andro mandrakizay aman-keloka.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "aina"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "angatahiny"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "taminao"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "nomenao"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lava"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "aman-keloka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:41.958727033Z",
+  "model": "glm-5.3"
+}

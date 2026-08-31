@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 41:52",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Ary ⟨את⟩ ny anaran'ny faharoa niantsoany hoe Efraima, fa Elohim efa nahamokatra ahy tamin'ny tany fijalianako.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ary ⟨את⟩",
+      "marks": "ny anaran'ny faharoa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "anarana"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ny faharoa"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "niantsoany"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הפרני",
+      "gloss": "nahamokatra ahy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tamin'ny tany"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "fijalianako"
+    }
+  ],
+  "timestamp": "2026-08-31T12:50:44.007146182Z",
+  "model": "glm-5.3"
+}

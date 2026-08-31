@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Yahveh, Elohn'ny razanareo, hanampy aminareo araka anareo arivo heny, ka hitahy ⟨את⟩ anareo araka izay nolazainy tamnareo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohn'ny"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "razanareo"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "hanampy"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "aminareo"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "araka anareo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "arivo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "heny"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ka hitahy"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka izay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nolazainy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "tamnareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:40:06.197641503Z",
+  "model": "glm-5.3"
+}

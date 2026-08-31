@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Amin'izany andro izany dia hosokafana ny mason'ny jamba, ary hosokafana ny sofin'ny marenina.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "amin'izany andro izany"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "hosokafana"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ny mason'ny"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "jamba"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "ary ny sofin'ny"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "marenina"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "hosokafana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:13:17.258839715Z",
+  "model": "glm-5.3"
+}

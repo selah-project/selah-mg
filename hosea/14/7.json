@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 14:7",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Hivoatra ny tsimoka eny aminy, ary ny voninahiny ho tahaka ny hazo oliva, ary hanitra toy ny an'i Lebanonona no ho azy.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "hivoatra"
+    },
+    {
+      "surface": "ינקותיו",
+      "gloss": "ny tsimoka eny aminy"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ary ho"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "tahaka ny hazo oliva"
+    },
+    {
+      "surface": "hודו הודו",
+      "gloss": "ny voninahiny"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "ary hanitra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "toy ny an'i Lebanonona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:08:47.377145004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 8:8",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary raha efa azonareo ⟨את⟩ ilay tanàna, dia dorareo amin'ny afo ⟨את⟩ ilay tanàna; araka ny tenin'i Yahveh no hataonareo. Jereo: efa nandidianareo aho.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ary raha misy"
+    },
+    {
+      "surface": "כתפשכם",
+      "gloss": "efa azonareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay tanàna"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ilay tanàna"
+    },
+    {
+      "surface": "תציתו",
+      "gloss": "dorareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay tanàna"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ilay tanàna"
+    },
+    {
+      "surface": "באש",
+      "gloss": "amin'ny afo"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "araka ny tenin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "no hataonareo"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "Jereo"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "efa nandidianareo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ianareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:57:44.046868339Z",
+  "model": "glm-5.3"
+}

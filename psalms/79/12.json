@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 79,
+  "translation": "Ary ampifamadiho fito heny ho ao an-tratrany ny fanalam-baraka nataon'ny mifanila aminay taminao, izay nanesoeso anao, ry Adonay.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "Ary ampifamadiho"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "ny mifanila aminay"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "fito heny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "ao an-tratrany"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "ny fanalam-baraka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "nanesoeso anao"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ry Adonay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:07.962813291Z",
+  "model": "glm-5.3"
+}

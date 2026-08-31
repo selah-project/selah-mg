@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 40:16",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Indro, angaly, ny heriny dia eo amin'ny valahany, ary ny fihazonany eo amin'ny hozatry ny kibony.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "נא",
+      "gloss": "angaly"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "ny heriny"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "eo amin'ny valahany"
+    },
+    {
+      "surface": "ואנו",
+      "gloss": "ary ny fihazonany"
+    },
+    {
+      "surface": "בשרירי",
+      "gloss": "eo amin'ny hozatry"
+    },
+    {
+      "surface": "בטנו",
+      "gloss": "ny kibony"
+    }
+  ],
+  "timestamp": "2026-08-31T17:08:43.880810300Z",
+  "model": "glm-5.3"
+}

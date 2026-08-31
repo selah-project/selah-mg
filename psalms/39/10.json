@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "Nangina aho, tsy nanokatra ny vavako, satria Hianao no nanao ⟨izany⟩.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "nangina aho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "nanokatra"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ny vavako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Hianao"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "nanao ⟨izany⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:17.848172976Z",
+  "model": "glm-5.3"
+}

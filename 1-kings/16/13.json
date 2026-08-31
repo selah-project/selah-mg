@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 16:13",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Noho ny ota rehetra nataon'i Baasha sy ny otan'i Elah zanany, izay notambehiny sy nampitaiziny ⟨את⟩ an'Israely, ka nampihavan-dratsy an'i ⟨את⟩ Yahveh, Elohim-n'i Israely, tamin'ny zava-poanany.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Noho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "ota"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "sy ny ota"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "notambehiny"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "sy izay"
+    },
+    {
+      "surface": "החטיאו",
+      "gloss": "nampitaiziny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'Israely"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israely"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "nampihavan-dratsy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israely"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "tamin'ny zava-poanany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:47:17.745664196Z",
+  "model": "glm-5.3"
+}

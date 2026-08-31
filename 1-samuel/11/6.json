@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary ny fanahin'ny Elohim nidina mafy tamin'i Shaol rehefa reniny ⟨את⟩ ireo teny ireo, dia mafy tampionona ny fony.",
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "Ary ... nidina mafy"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ny fanahin'ny"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "rehefa reniny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ireo teny ireo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ireo teny"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "dia mafy tampionona"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ny fony"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mafy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:17:43.424753678Z",
+  "model": "glm-5.3"
+}

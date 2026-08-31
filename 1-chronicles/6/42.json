@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 6:42",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary ny zanak'i Aharon dia natolotra ⟨את⟩ ny tanànan'ny fialokalobana: ⟨את⟩ Hevron sy ⟨את⟩ Libna mbamin'ny tany manodidina azy, ⟨את⟩ Yatira sy ⟨את⟩ Eshtemoa mbamin'ny tany manodidina azy;",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Ary ny zanak'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "natolotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tanànan'ny fialokalobana"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "fialokalobana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Libna"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mbamin'ny ⟨את⟩",
+      "marks": "ny tany manodidina azy"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ny tany manodidina azy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Yatira"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yatira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Eshtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mbamin'ny ⟨את⟩",
+      "marks": "ny tany manodidina azy"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ny tany manodidina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:35:52.569931642Z",
+  "model": "glm-5.3"
+}

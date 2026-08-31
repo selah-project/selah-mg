@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 36:24",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Ary hangalako ⟨את⟩ ianareo amin'ny firenena, ary horiako ⟨את⟩ ianareo avy amin'ny tany rehetra, ary hitondra ⟨את⟩ ianareo ho any amin'ny taninareo.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "ary hangalako"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ianareo",
+      "marks": "ianareo amin'ny firenena"
+    },
+    {
+      "surface": "מן",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "וקבצתי",
+      "gloss": "ary horiako"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ianareo",
+      "marks": "ianareo avy amin'ny tany rehetra"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "tany rehetra"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "ary hitondra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ianareo",
+      "marks": "ianareo ho any amin'ny taninareo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "taninareo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:02:06.680501516Z",
+  "model": "glm-5.3"
+}

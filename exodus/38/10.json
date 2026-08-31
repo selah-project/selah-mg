@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 38:10",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Ny tsangany roa amby roapolo, sy ny fotony roa amby roapolo, varahina; ny marikibon'ny tsanga sy ny fehilalakany volafotsy.",
+  "tokens": [
+    {
+      "surface": "עמודיהם",
+      "gloss": "ny tsangany"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "roa amby roapolo"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "sy ny fotony"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "roa amby roapolo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "varahina"
+    },
+    {
+      "surface": "ואוי",
+      "gloss": "sy ny marikibon'ny"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "tsanga"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "sy ny fehilalakany"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:09:20.563866593Z",
+  "model": "glm-5.3"
+}

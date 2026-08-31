@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Raha manoto ny olivanao ianao, aza mamakiana ny sisa ao ambadikao; ho an'ny vahiny, ho an'ny kamboty ary ho an'ny mpitondra tena no ho azy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "manoto"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "ny olivanao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "mamakiana"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ao ambadikao"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "ho an'ny vahiny"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "ho an'ny kamboty"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "ary ho an'ny mpitondra tena"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "no ho azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:48:38.544474144Z",
+  "model": "glm-5.3"
+}

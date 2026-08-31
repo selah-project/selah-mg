@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ny mason'i Yahveh ⟨mitsinjova⟩ ny marina, ary ny sofiny ⟨mihainoa⟩ ny fitarainany.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Ny mason'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mankany amin'ny"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ny marina"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "ary ny sofiny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mankany amin'ny"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "ny fitarainany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:15.171494169Z",
+  "model": "glm-5.3"
+}

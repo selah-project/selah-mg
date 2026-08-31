@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 135,
+  "translation": "Izay namely firenena maro ary namono mpanjaka mahery.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "izay namely"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maro"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "ary namono"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "mahery"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:21.115208330Z",
+  "model": "glm-5.3"
+}

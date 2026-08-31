@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 31:11",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary ny irakan'ny Elohim niresaka tamiko tamin'ny nofy: Yaakov! Ary hoy izaho: Indreo aho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "niresaka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ny iraka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ny Elohim"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "tamin'ny nofy"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Indreo aho"
+    }
+  ],
+  "timestamp": "2026-08-31T12:45:46.009741341Z",
+  "model": "glm-5.3"
+}

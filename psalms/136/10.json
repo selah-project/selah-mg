@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 136,
+  "translation": "Ho an'⟨ilay nanafay⟩ an'i Mitsrayim tamin'ny voalohany terakany, fa ho an-foreverona ny hesediny.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "ho an'ilay nanafay"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "tamin'ny voalohany terakany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho an-foreverona"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ny hesediny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:17.781625214Z",
+  "model": "glm-5.3"
+}

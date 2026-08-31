@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 16:2",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Satria nanandratra anao avy tamin'ny vovoka Aho, ka nataoko filoha teo ambonin'ny oloko Isiraely, fa ianao kosa nandeha tamin'ny lalan'i Yeroboama, ary nampalahelo an'i ⟨את⟩ ny oloko Isiraely hahateziriko amin'ny fahotany.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Satria"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨fa⟩"
+    },
+    {
+      "surface": "הרימתיך",
+      "gloss": "nanandratra anao"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy tamin'ny"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ny vovoka"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "ka nataoko"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "filoha"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo ambonin'ny"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ny oloko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tamin'ny lalan'i"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yeroboama"
+    },
+    {
+      "surface": "ותחטא",
+      "gloss": "nampalahelo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny oloko"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ny oloko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "hahateziriko"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "amin'ny fahotany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:47:17.835029448Z",
+  "model": "glm-5.3"
+}

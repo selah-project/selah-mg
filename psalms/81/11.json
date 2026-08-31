@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 81,
+  "translation": "Izaho Yahveh Elohim-nao, Izay nampakatra anao avy tany amin'ny tany Mitsrayim; ataovy malalaka ny vavanao, ary hofenoiko izy.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nao"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "Izay nampakatra anao"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "avy tany amin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "ataovy malalaka"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ny vavanao"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "ary hofenoiko izy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:55.892696423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ka hoy koa Izaho: Tsy handroaka azy ⟨את⟩ amin'ny tavareo intsony; fa ho fahavalo aminareo izy ireo, ary ny andriamanitriny ho fandrika ho anareo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ka koa"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "hoy Izaho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "handroaka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy ireo"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "amin'ny tavareo"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "fa ho"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aminareo"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "fahavalo"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "ary ny andriamanitriny"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "fandrika"
+    }
+  ],
+  "timestamp": "2026-08-31T14:04:45.398001646Z",
+  "model": "glm-5.3"
+}

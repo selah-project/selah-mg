@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 113,
+  "translation": "Mampipetraka ⟨את⟩ ilay vehivavy tsy mahay miteraka ao an-tokantrano ho reny sambatra amin'ny zanaka. Miderà an'i Yah!",
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "Mampipetraka"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "tsy mahay miteraka"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ao an-tokantrano"
+    },
+    {
+      "surface": "אם",
+      "gloss": "reny"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "sambatra"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Miderà"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-31T19:14:00.397226981Z",
+  "model": "glm-5.3"
+}

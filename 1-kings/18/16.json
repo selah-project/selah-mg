@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary nandeha Ovadyahu hitsena an'i Ahab ka nilaza tamy; ary nandeha Ahab hitsena an'i Eliahu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ary nandeha"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadyahu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "hitsena"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "an'i Ahab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ka nilaza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tamy"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ary nandeha"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "hitsena"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "an'i Eliahu"
+    }
+  ],
+  "timestamp": "2026-08-31T14:48:06.072514287Z",
+  "model": "glm-5.3"
+}

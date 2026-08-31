@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary nampihodina ny tanàna ireo sy ⟨את⟩ ny tani-manga iray manontolo, ary ⟨את⟩ ny mponina rehetra tao amin'ny tanàna, ary ny zavatra maniry avy tamin'ny tany.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "nampihodina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tanàna ireo"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ny tanàna"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tani-manga iray manontolo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "manontolo"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "ny tani-manga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny mponina rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ny mponina"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "tao amin'ny tanàna"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "ary ny zavatra maniry"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "avy tamin'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:39:41.324024080Z",
+  "model": "glm-5.3"
+}

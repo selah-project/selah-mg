@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 18:1",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Tsy hisy ho an'ny mpisorona, ny Levita, dia ny fokon'i Levi rehetra, anjara sy lova eo amin'i Isiraely; ny afo-panatyr'i Yahveh sy ny lovany no hohaniny.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hisy"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "ho an'ny mpisorona"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ny Levita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "foko"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "anjara"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "sy lova"
+    },
+    {
+      "surface": "עם",
+      "gloss": "eo amin'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "אשי",
+      "gloss": "afo-panatyr'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "sy ny lovany"
+    },
+    {
+      "surface": "יאכלון",
+      "gloss": "no hohaniny"
+    }
+  ],
+  "timestamp": "2026-08-31T13:46:44.985915897Z",
+  "model": "glm-5.3"
+}

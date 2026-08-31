@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 43,
+  "translation": "Ary ho avy izy ka hamely ⟨את⟩ tany Mitsrayim: izay ⟨tokony ho⟩ fahafatesana ho amin'ny fahafatesana, ary izay ⟨tokony ho⟩ babo ho babo, ary izay ⟨tokony ho⟩ an-tsoraty ho an-tsoraty.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "ho avy izy"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ka hamely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tany"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "למות",
+      "gloss": "fahafatesana"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ho amin'ny fahafatesana"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ary izay"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "babo"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "ho babo"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ary izay"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "an-tsoraty"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "ho an-tsoraty"
+    }
+  ],
+  "timestamp": "2026-08-31T18:25:53.493000419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary ny mpanjaka nanarona ⟨את⟩ ny tavany, ary ny mpanjaka nikiakiaka feo be: Zanako Abshaloma! Abshaloma! Zanako! Zanako!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ary ny mpanjaka"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "nanarona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavany"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ny tavany"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "ary nikiakiaka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "קול",
+      "gloss": "feo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "be"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Zanako"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshaloma"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshaloma"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Zanako"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Zanako"
+    }
+  ],
+  "timestamp": "2026-08-31T14:37:08.038357826Z",
+  "model": "glm-5.3"
+}

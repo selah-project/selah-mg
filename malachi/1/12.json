@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Fa ianareo kosa manolotra azy ⟨את⟩ amin'ny fanaonareo hoe: latabatra Adonay efa loto, ary ny vokany dia tsy manan-kaja ny sakafo azy.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ianareo kosa"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "manolotra azy loto (manaloka)"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "amin'ny fanaonareo"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "amin'ny fanaonareo hoe"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "latabatra"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "efa loto"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "efa (izy)"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "ary ny vokany"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "tsy manan-kaja"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ny sakafo azy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:35:06.022340854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 8:15",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary Davida nanjaka tamin'ny Isiraely rehetra; ary Davida nanao fitsarana sy fahamarinana tamin'ny olony rehetra.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "nanjaka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ary"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "fitsarana"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "sy fahamarinana"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "olony rehetra"
+    }
+  ],
+  "timestamp": "2026-08-31T14:30:50.820573253Z",
+  "model": "glm-5.3"
+}

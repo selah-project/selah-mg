@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 10:4",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Amin'ny volafotsy sy ny volamena no haingarany, amin'ny tsora sy ny margacy no ahazonany azy, mba tsy hangozohozo.",
+  "tokens": [
+    {
+      "surface": "בכסף",
+      "gloss": "Amin'ny volafotsy"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "sy ny volamena"
+    },
+    {
+      "surface": "ייפהו",
+      "gloss": "no haingarany"
+    },
+    {
+      "surface": "במסמרות",
+      "gloss": "amin'ny tsora"
+    },
+    {
+      "surface": "ובמקבות",
+      "gloss": "sy ny margacy"
+    },
+    {
+      "surface": "יחזקום",
+      "gloss": "no ahazonany azy"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "mba tsy"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "hangozohozo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:28:02.647807826Z",
+  "model": "glm-5.3"
+}

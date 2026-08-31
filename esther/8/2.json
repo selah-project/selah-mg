@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary ny mpanjaka nanesotra ⟨את⟩ ny fanjazany izay nesoriny tamin'i Haman ka nomeny an'i Mordekay; ary Ester nanendry ⟨את⟩ Mordekay ho teo ambony tranon'i Haman.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "nanesotra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanjazany"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "ny fanjazany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "nesoriny"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "tamin'i Haman"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "ka nomeny"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "an'i Mordekay"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "nanendry"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekay"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho teo ambony"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon'"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    }
+  ],
+  "timestamp": "2026-08-31T17:20:16.014313549Z",
+  "model": "glm-5.3"
+}

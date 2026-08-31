@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 119:47",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ary hifaly amin'ny didy am-pitiavana aho, izay tiako.",
+  "tokens": [
+    {
+      "surface": "ואשתעשע",
+      "gloss": "hifaly amin'... am-pitiavana"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "amin'ny didy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "tiako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:58.353596457Z",
+  "model": "glm-5.3"
+}

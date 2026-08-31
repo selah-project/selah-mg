@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Fa satrokan'ny hatsaran-tarehy ho an'ny lohanao izy, ary fehitenda ho an'ny tendanao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "satroka"
+    },
+    {
+      "surface": "חן",
+      "gloss": "hatsaran-tarehy"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izy"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "ho an'ny lohanao"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "ary fehitenda"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "ho an'ny tendanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:42.741729392Z",
+  "model": "glm-5.3"
+}

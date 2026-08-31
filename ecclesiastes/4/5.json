@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ilay adala mamelombelona ⟨את⟩ ny tànany ary mihinana ⟨את⟩ ny nofony.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "Ilay adala"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "mamelombelona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tànany"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ny tànany"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ary mihinana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny nofony"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ny nofony"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:18.800521478Z",
+  "model": "glm-5.3"
+}

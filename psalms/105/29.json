@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Nanova ⟨את⟩ ny rany ho ra Izy, ary namono ⟨את⟩ ny trondrony.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "nanova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rany"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "ny rany"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "ho ra"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ary namono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny trondrony"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "ny trondrony"
+    }
+  ],
+  "timestamp": "2026-08-31T18:13:43.218118089Z",
+  "model": "glm-5.3"
+}

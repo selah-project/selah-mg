@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 1:10",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ny endriky ny tavany dia tarehy olona, sy tarehy liona ho an'ny efatra lahy eo amin'ny ankavanany, ary tarehy omby ho an'ny efatra lahy eo amin'ny ankaviany, sy tarehitra voromahery ho an'ny efatra lahy.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "ny endrika"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ny tavany"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tarehy"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "sy tarehy"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "liona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ankavanany"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "ho an'ny efatra lahy"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ary tarehy"
+    },
+    {
+      "surface": "שור",
+      "gloss": "omby"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "eo amin'ny ankaviany"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "ho an'ny efatra lahy"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "sy tarehitra"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "voromahery"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "ho an'ny efatra lahy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:46:03.964557351Z",
+  "model": "glm-5.3"
+}

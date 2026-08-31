@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 90,
+  "translation": "Vavaka nataon'i Moshe, lehilahin'ny Elohim. Adonay, fonenana Hianao ho anay hatramin'ny taranaka ka hatramin'ny taranaka.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Vavaka"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "nataon'i Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ny Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "fonenana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Hianao"
+    },
+    {
+      "surface": "היית",
+      "gloss": "no nahafoy"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho anay"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "amin'ny taranaka"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "sy taranaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:26.256908869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 81,
+  "translation": "Ka namela azy aho tamin'ny fanahian'ny fony, mba handeha amin'ny heviny izy.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "ka namela azy aho"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "tamin'ny fanahian'ny"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "fony"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "handeha"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "amin'ny heviny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:19.268654169Z",
+  "model": "glm-5.3"
+}

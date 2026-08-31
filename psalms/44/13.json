@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Manadio ⟨את⟩ ny olonao ho an'ny tsy misy harena ianao, fa tsy mampitombo harena amin'ny vidiny.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "manadio"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ny olonao"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ho an'ny tsy misy"
+    },
+    {
+      "surface": "הון",
+      "gloss": "harenap"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "mampitombo"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "amin'ny vidiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:30:12.568701431Z",
+  "model": "glm-5.3"
+}

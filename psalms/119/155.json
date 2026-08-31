@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Lavitra ny ratsy fanahy ny famonjena; fa ny didinao tsy notadiaviny.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "Lavitra"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "ny famonjena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ny didinao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "notadiaviny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:11.261632350Z",
+  "model": "glm-5.3"
+}

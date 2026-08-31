@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary lehilahy izay mandry ⟨את⟩ amin' ny vadin' ny rainy dia naneho ny fahamenarana ⟨ny⟩ rainy; hatao maty tokoa izy roa; ny rany dia aminy.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ary lehilahy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "mandry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin' ny vadin' ny rainy"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vadin'"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ny rainy"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "fahamenarana"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ny rainy"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "naneho"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maty"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "tokoa hatao"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "izy roa"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ny rany"
+    },
+    {
+      "surface": "בם",
+      "gloss": "aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:07.600831186Z",
+  "model": "glm-5.3"
+}

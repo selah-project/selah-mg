@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 25:14",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary ampidiro ao anaty perafo ilay baraka eo amin'ny taviny ⟨את⟩, mba hitondrana ny fiara ⟨את⟩ amin'izy ireo.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "ampidiro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay baraka"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "baraka"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "ao anaty perafo"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "taviny"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "hitondrana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiara"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "amin'izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:04:03.791227254Z",
+  "model": "glm-5.3"
+}

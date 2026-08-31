@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary hetezana azy ⟨את⟩ ho tapatapany, ary ⟨את⟩ ny lohany ary ⟨את⟩ ny tavany; ary handahatra ireo ⟨את⟩ ny mpisorona eo ambony ny hazo izay eo ambony ny afo, izay eo ambony ny alitara.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "Ary hetezana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "ho tapatapany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny lohany"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ny lohany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny tavany"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "ny tavany"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "ary handahatra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ireo"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ny hazo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ny afo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ny alitara"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:09.856081829Z",
+  "model": "glm-5.3"
+}

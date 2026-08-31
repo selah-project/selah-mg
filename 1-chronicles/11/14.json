@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 11:14",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ka nijanona tsy nioso teo afovoan'ny saha izy, ka namonjy azy, ary namely ⟨את⟩ ny Filistina; dia Yahveh nanao famonjena lehibe.",
+  "tokens": [
+    {
+      "surface": "ויתיצבו",
+      "gloss": "nijanona tsy nioso"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "teo afovoan'ny"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "saha"
+    },
+    {
+      "surface": "ויצילוה",
+      "gloss": "namonjy azy"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "namely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Filistina"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Filistina"
+    },
+    {
+      "surface": "ויושע",
+      "gloss": "nanao famonjena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "famonjena"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "lehibe"
+    }
+  ],
+  "timestamp": "2026-08-31T17:36:53.755937684Z",
+  "model": "glm-5.3"
+}

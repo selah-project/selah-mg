@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary ny mpanjaka namaly ⟨את⟩ ny vahoaka mafy, ary nahafoy ⟨את⟩ ny saina nomen'ny anti-panahy taminy.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ary namaly"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "mafy"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "ary nahafoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny saina"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "ny saina"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ny anti-panahy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "nanome azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:45:03.379355415Z",
+  "model": "glm-5.3"
+}

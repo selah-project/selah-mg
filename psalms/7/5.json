@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Raha namaly ratsy aho ny tony amiko, ka nanafaka tsy antony ny mpanohitra ahy,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "namaly"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "ny tony amiko"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "ka nanafaka"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ny mpanohitra ahy"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "tsy antony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:19.639478562Z",
+  "model": "glm-5.3"
+}

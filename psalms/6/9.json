@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Miala amiko ianareo rehetra mpanao ratsy, fa efa nandre Yahveh ny feon'ny fitarainako.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Miala"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ianareo rehetra"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mpanao"
+    },
+    {
+      "surface": "און",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "efa nandre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ny feon'ny"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "fitarainako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:20.161969711Z",
+  "model": "glm-5.3"
+}

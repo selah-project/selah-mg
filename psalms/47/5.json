@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 47,
+  "translation": "Mifidy ho antsika ⟨את⟩ ny lovantsika, ⟨את⟩ ny fiavahan'i Yaakov izay tiany ⟨⟨Selah⟩⟩.",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "mifidy"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho antsika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lovantsika"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "ny lovantsika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiavahan'i Yaakov"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ny fiavahana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "tiany"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:30:57.328898335Z",
+  "model": "glm-5.3"
+}

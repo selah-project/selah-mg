@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Rehefa miantso aho no valio aho, ry Elohin'ny fahamarinako; tamin'ny fahoriana nampalahelina ahy ianao; mamindrà fanahy ahy, ary henoy ny fivavako.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "rehefa miantso aho"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "valio aho"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "fahamarinako"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "tamin'ny fahoriana"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "nampalahelina"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "mamindrà fanahy ahy"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ary henoy"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ny fivavako"
+    }
+  ],
+  "timestamp": "2026-08-31T18:13:28.165433424Z",
+  "model": "glm-5.3"
+}

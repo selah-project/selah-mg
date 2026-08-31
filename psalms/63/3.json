@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 63,
+  "translation": "Toy izany no nahitako Anao tao amin'ny fitoerana masina, mba hahita ny herinao sy ny voninahitrao.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Toy izany"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "tao amin'ny fitoerana masina"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "no nahitako Anao"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "mba hahita"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ny herinao"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "sy ny voninahitrao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:06.295250618Z",
+  "model": "glm-5.3"
+}

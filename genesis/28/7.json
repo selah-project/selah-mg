@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "ary fa nihaino Yaakov ny rainy sy ny reniny, ka nandeha ho any Padan-Aram;",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ny"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rainy"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sy ny"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "reniny"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ka nandeha"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-31T12:43:24.817201330Z",
+  "model": "glm-5.3"
+}

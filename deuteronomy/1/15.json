@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 1:15",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Dia nalainiko ⟨את⟩ ny lohan'ny fokoanareo, lehilahy hendry sy fantatra, dia nataoko ⟨את⟩ izy ho lohanareo: mpifehy arivo sy mpifehy zato sy mpifehy dimam-polo sy mpifehy folo, ary manampa-boninahitra ho an'ny fokoanareo.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "nalainiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lohan'ny fokoanareo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ny lohan'ny"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "fokoanareo"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "hendry"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "sy fantatra"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "nataoko"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izy"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "ho lohanareo"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ho lohanareo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "mpifehy"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "arivo"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "sy mpifehy"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "zato"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "sy mpifehy"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "dimam-polo"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "sy mpifehy"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "folo"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "manampa-boninahitra"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "ho an'ny fokoanareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:39:43.479755925Z",
+  "model": "glm-5.3"
+}

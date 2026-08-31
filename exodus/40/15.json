@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary hanosy ⟨את⟩ azy ianao, toy ny fanosanao ⟨את⟩ ny rainy, ary hanao asa fisorona ho Ahy izy; ary ho azy ny fanosany ho fisoronana mandrakizay ho an'ny taranany.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "hanosy"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (ireo zanany)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "toy ny"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "fanosanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rainy"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ny rainy"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "hanao asa fisorona"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho Ahy"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ary ho"
+    },
+    {
+      "surface": "להית",
+      "gloss": "⟨ho⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "ny fanosany"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "ho fisoronana"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ho an'ny taranany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:02.846053962Z",
+  "model": "glm-5.3"
+}

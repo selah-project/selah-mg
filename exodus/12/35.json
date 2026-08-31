@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 12:35",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary ny zanak'i Isiraela nanao araka ny tenin'i Moshe, ka nangataka tamin'ny Mitsrayim zava-fitaovana volafotsy sy zava-fitaovana volamena sy lamba.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ary ny zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraela"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "araka ny tenin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "nangataka tamin'ny"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "zava-fitaovana"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "sy zava-fitaovana"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "sy lamba"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:58.544530043Z",
+  "model": "glm-5.3"
+}

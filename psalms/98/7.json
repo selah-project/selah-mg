@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 98,
+  "translation": "Aoka ny ranomasina hiboraka sy izay feno azy, ny tany fonenana sy izay monina ao aminy.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "hiboraka"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ny ranomasina"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "sy izay feno azy"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ny tany fonenana"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "sy izay monina"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ao aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:26.383172061Z",
+  "model": "glm-5.3"
+}

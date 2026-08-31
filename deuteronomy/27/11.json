@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ary tamin'izany andro izany Moshe nandidy ⟨את⟩ ny vahoaka hoe:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "nandidy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vahoaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'izany andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T13:48:45.080018413Z",
+  "model": "glm-5.3"
+}

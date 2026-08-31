@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Tsy tahaka izany kosa ny meloka; fa tahaka ny akotry ny vary kely itondran'ny rivotra masiaka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "כן",
+      "gloss": "tahaka izany"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "kosa ny meloka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "tahaka ny akotry ny vary kely"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "itondran'ny"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rivotra masiaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:26.463674814Z",
+  "model": "glm-5.3"
+}

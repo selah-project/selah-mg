@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 90,
+  "translation": "Iza no mahalala ny herin'ny fahatezeranao, sy ny fahatezeranao araka ny fitiavanao tahaka izay tokony hatao?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Iza"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "no mahalala"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ny herin'ny"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "fahatezeranao"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "sy ny fitiavanao tahaka izay tokony hatao"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "ny fahatezeranao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:03.067494735Z",
+  "model": "glm-5.3"
+}

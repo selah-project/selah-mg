@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 13:4",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary Isiraely rehetra nihaino hoe: Namely ⟨את⟩ ny miaramila mpiambina amin'ny Filistina i Shaol, ary efa lasa fofona maimbo amin'ny Filistina Isiraely; dia niantsoantso ny vahoaka hanaraka an'i Shaol ho Gilgala.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ary ... rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "namely"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny miaramila mpiambina amin'ny Filistina"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "miaramila mpiambina"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistina"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ary"
+    },
+    {
+      "surface": "נבאש",
+      "gloss": "lasa fofona maimbo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "amin'ny Filistina"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "dia niantsoantso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "hanaraka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ho Gilgala"
+    }
+  ],
+  "timestamp": "2026-08-31T14:18:03.055008450Z",
+  "model": "glm-5.3"
+}

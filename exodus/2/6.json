@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary namoha izy ka nahita ⟨את⟩ ny zaza, ary indro zazakely nitomany; ka nanindry fanahy tamin'izy izy ary nanao hoe: Zanak'ny Hebreo ity.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "namoha"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "nahita azy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zaza"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ny zaza"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ary indro"
+    },
+    {
+      "surface": "נער",
+      "gloss": "zazakely"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "nitomany"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "nanindry fanahy"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tamin'izy"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "zanak'ny"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Hebreo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ity"
+    }
+  ],
+  "timestamp": "2026-08-31T12:54:17.527338691Z",
+  "model": "glm-5.3"
+}

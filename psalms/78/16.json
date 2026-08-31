@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Ary nampivoaka rano mitete avy tamin'ny vato, ka nampidina rano ho toy ny ony.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Ary nampivoaka"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "rano mitete"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "avy tamin'ny vato"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "ka nampidina"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "ho toy ny ony"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:22.209074733Z",
+  "model": "glm-5.3"
+}

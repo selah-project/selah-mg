@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary nanao ⟨את⟩ biby an-tany araka ny karazany Elohim, sy ⟨את⟩ ny biby fiompy araka ny karazany, sy ⟨את⟩ izay zava-miakanaka rehetra ambonin'ny tany araka ny karazany; ary hitan'i Elohim fa tsara izany.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ary nanao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biby an-tany"
+    },
+    {
+      "surface": "חית",
+      "gloss": "biby"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "an-tany"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "araka ny karazany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny biby fiompy"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ny biby fiompy"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "araka ny karazany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "izay zava-miakanaka rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "zava-miakanaka"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ambonin'ny tany"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "araka ny karazany"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ary hitan'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:01.668039952Z",
+  "model": "glm-5.3"
+}

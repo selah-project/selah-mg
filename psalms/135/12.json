@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 135,
+  "translation": "Ary nanome ny taniny ho lova, ho lovany ho an'ny Isiraely fireneny ⟨izy⟩.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "ary nanome"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ny taniny"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ho lova"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ho lovany"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ho an'ny Isiraely"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "fireneny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:21.115572932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary ny mpanjakan'i Aram efa nandidy ⟨את⟩ ny mpanjan'ny kalesy izay taminy hoe: Aza miady ⟨את⟩ amin'ny kely na ⟨את⟩ amin'ny lehibe ianareo, fa ⟨את⟩ amin'ny mpanjakan'i Yisraela irery ihany.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Ary ny mpanjakan'i"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "efa nandidy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanjan'ny kalesy"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ny mpanjan'ny"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "kalesy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tamininy"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "miady ianareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin'ny kely"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ny kely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin'ny lehibe"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ny lehibe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin'ny mpanjakan'i Yisraela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ny mpanjakan'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "irery ihany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:47:52.940275367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Feno sampin-javatra koa ny tany; miankohoka eo anatrehan'ny asan'ny tànany izy, amin'izay nataon'ny rantsan-tànany.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "Feno ... koa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "sampin-javatra"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "eo anatrehan'ny asan'ny"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tànany"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "miankohoka"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "amin'izay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nataon'ny"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "rantsan-tànany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:01:30.769465005Z",
+  "model": "glm-5.3"
+}

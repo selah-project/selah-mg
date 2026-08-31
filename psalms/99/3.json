@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 99,
+  "translation": "Aoka hidera ny anaranao lehibe sy mahatahotra ireo — masina Izy.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Aoka hidera"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ny anaranao"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "mahatahotra"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Izy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:48.236876525Z",
+  "model": "glm-5.3"
+}

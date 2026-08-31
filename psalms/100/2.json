@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 100,
+  "translation": "Manompoa ⟨את⟩ an'i Yahveh amin'ny fifaliana; midira eo anatrehany amin'ny fihirana.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Manompoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "amin'ny fifaliana"
+    },
+    {
+      "surface": "באו",
+      "gloss": "midira"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "eo anatrehany"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "amin'ny fihirana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:33.214749355Z",
+  "model": "glm-5.3"
+}

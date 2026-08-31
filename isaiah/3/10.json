@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Lazao amin'ny marina fa ⟨hisamy soa⟩ izy, fa ny voan'ny asany no hohaniny.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Lazao"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "amin'ny marina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "soa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "voa"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ny asany"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "hohaniny"
+    }
+  ],
+  "timestamp": "2026-08-31T15:01:18.258960168Z",
+  "model": "glm-5.3"
+}

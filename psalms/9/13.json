@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Fa ilay mitady rà mahatsiaru ⟨azy⟩; tsy nanadino ny fitarain'ny malahelo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "mitady"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "rà"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mahatsiaru"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "nanadino"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "fitarain'ny"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "malahelo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:27.349220770Z",
+  "model": "glm-5.3"
+}

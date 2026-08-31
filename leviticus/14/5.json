@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary hiteny ny mpisorona, ary hamono ⟨את⟩ ny vorona iray izy ⟨ao⟩ anaty vilany tanimanga, eo ambonin'ny rano velona.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "Ary hiteny"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ary hamono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vorona iray"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ny vorona"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "iray"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ao⟩ anaty"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "vilany"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "tanimanga"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambonin'ny"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "velona"
+    }
+  ],
+  "timestamp": "2026-08-31T13:17:06.467664919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "Araka izay rehetra nandidian'i Yahveh ⟨את⟩ an'i Moshe, dia toy izany no nataon'ny zanak'i Isiraela tamin'⟨ny⟩ asa rehetra.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "Araka izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidian'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toy izany"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "no nataon'"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny zanak'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny asa rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rea"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "asa"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:38.000640030Z",
+  "model": "glm-5.3"
+}

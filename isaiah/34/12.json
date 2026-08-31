@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 34:12",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ny olona malaza anytsy misy; hiantso fanjakana fa tsy misy; ary ny mpanapaka rehetra ho tonga tsy misy.",
+  "tokens": [
+    {
+      "surface": "חריה",
+      "gloss": "ny olona malaza"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "fa tsy misy"
+    },
+    {
+      "surface": "שם",
+      "gloss": "any"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "fanjakana"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "hiantso"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ny"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "mpanapaka rehetra"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "tonga tsy misy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:12:28.502744640Z",
+  "model": "glm-5.3"
+}

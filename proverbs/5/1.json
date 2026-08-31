@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 5:1",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Anay, mihainoa amim-pahalehibeana ny fahendrehako, manohira ny sofinao hankany amin'ny fahalalako.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "anay"
+    },
+    {
+      "surface": "לחכמתי",
+      "gloss": "amin'ny fahendrehako"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "mihainoa amim-pahalehibeana"
+    },
+    {
+      "surface": "לתבונתי",
+      "gloss": "hankany amin'ny fahalalako"
+    },
+    {
+      "surface": "הט",
+      "gloss": "manohira"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ny sofinao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:15:36.116207756Z",
+  "model": "glm-5.3"
+}

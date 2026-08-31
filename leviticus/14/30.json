@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary hataony ⟨את⟩ ny iray amin'ny torimbo na amin'ny zanak'olona amakianala, araka izay taratrehin'ny tànany.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "hataony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny iray"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ny iray"
+    },
+    {
+      "surface": "מן",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "torimbo"
+    },
+    {
+      "surface": "או",
+      "gloss": "na"
+    },
+    {
+      "surface": "מן",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'olona"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "amakianala"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "araka izay"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "taratrehin'"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ny tànany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:15:16.725357056Z",
+  "model": "glm-5.3"
+}

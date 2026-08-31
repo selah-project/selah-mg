@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Hahita ny soan'ny olom-pidinareo aho, hifaly amin'ny fahafalian'ny fireneneo, hirehareha amin'ny lovanao.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "hahita"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "amin'ny soan'ny"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "olom-fidinareo"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "hifaly"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "amin'ny fahafalian'ny"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "fireneneo"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "hirehareha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "lovanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:44.009792355Z",
+  "model": "glm-5.3"
+}

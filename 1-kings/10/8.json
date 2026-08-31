@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Sambatra ny lehilahyo, sambatra ireo mpanomponao ireo, izay mijanona eo anatrehanao mandrakariva, ary mandre ⟨את⟩ ny fahendrenao!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Sambatra"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "ny lehilahyo"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "sambatra"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ireo mpanomponao"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "izay mijanona"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "eo anatrehanao"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mandrakariva"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "ary mandre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahendrenao"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "ny fahendrenao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:43:30.916543712Z",
+  "model": "glm-5.3"
+}

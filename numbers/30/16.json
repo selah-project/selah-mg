@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Fa raha manafoana azy ⟨את⟩ kosa izy rehefa avy nandre, dia izy no hitondra ⟨את⟩ ny fahadisoany.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Fa raha"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "manafoana"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "manafoana kosa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (ny fanafiany)"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rehefa avy"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nandre"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "dia hitondra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahadisoany"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "ny fahadisoany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:29:40.198284542Z",
+  "model": "glm-5.3"
+}

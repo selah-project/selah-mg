@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 7:10",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary izay fanatitra lafarinina rehetra mifangaro amin'ny diloilo, ary izay maina, ho an'ny zanak'i Aharon rehetra izany, samy mitovy amin'ny rahalahiny avokoa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ary izay ... rehetra"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "fanatitra lafarinina"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "mifangaro"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "amin'ny diloilo"
+    },
+    {
+      "surface": "וחרבה",
+      "gloss": "ary izay maina"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho an'ny ... rehetra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "izany no ho"
+    },
+    {
+      "surface": "איש",
+      "gloss": "samy"
+    },
+    {
+      "surface": "כאחיו",
+      "gloss": "mitovy amin'ny rahalahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T13:13:24.500379604Z",
+  "model": "glm-5.3"
+}

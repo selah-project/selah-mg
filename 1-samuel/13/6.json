@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 13:6",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary ny lehilahin'i Yisraela hitany fa teriterena no atanjony, satria voery ny vahoaka, dia niafina ny vahoaka tao an-davaky hazo, sy anaty harudana, sy eo anaty vatolampy, ary tao an-dabata sy tao an-davaky fasika.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ary ny lehilahin'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "hitany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "teriterena"
+    },
+    {
+      "surface": "לו",
+      "gloss": "no atanjony"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "voery"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "ויתחבאו",
+      "gloss": "dia niafina"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "tao an-davaky hazo"
+    },
+    {
+      "surface": "ובחוחים",
+      "gloss": "sy anaty harudana"
+    },
+    {
+      "surface": "ובסלעים",
+      "gloss": "sy eo anaty vatolampy"
+    },
+    {
+      "surface": "ובצרחים",
+      "gloss": "ary tao an-dabata"
+    },
+    {
+      "surface": "ובברות",
+      "gloss": "sy tao an-davaky fasika"
+    }
+  ],
+  "timestamp": "2026-08-31T14:18:17.090670393Z",
+  "model": "glm-5.3"
+}

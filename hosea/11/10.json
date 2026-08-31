@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 11:10",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Aorian'i Yahveh hizotra izy; hitarondrona toy ny liona Izy; fa Izy hitarondrona, ka hangovitra ny zanaka avy any ⟨andrefana⟩.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "aorian'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "hizotra izy"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "toy ny liona"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "hitarondrona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Izy"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "hitarondrona"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "ka hangovitra"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ny zanaka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "avy any andrefana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:08:20.995615642Z",
+  "model": "glm-5.3"
+}

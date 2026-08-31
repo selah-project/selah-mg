@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 139,
+  "translation": "Fa Hianao no nahary ny voa-panatoko ⟨את⟩, nanafina ahy tao anatin'ny kibo nivoahako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Hianao"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "no nahary"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "ny voa-panatoko"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "nanafina ahy"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "tao anatin'ny kibo"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "nivoahako"
+    }
+  ],
+  "timestamp": "2026-08-31T19:14:17.812513079Z",
+  "model": "glm-5.3"
+}

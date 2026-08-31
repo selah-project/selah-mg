@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 166,
+  "ref": "psalms 119:166",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Nandrasa ny famonjena anao aho, Yahveh, ary ny didinao no nataoko.",
+  "tokens": [
+    {
+      "surface": "שברתי",
+      "gloss": "nandrasa"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "ny famonjena anao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ומצותיך",
+      "gloss": "ary ny didinao"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "no nataoko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:41.527651372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary hosaronao azy volamena madio: ⟨את⟩ ny tampony sy ⟨את⟩ ny rindrininy manodidina ary ⟨את⟩ ny tandrony; ary hanao azy satroboninahitra volamena manodidina ianao.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "Ary hosaronao"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "volamena madio"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "madio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tampony"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "ny tampony"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny rindrininy"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "ny rindrininy"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny tandrony"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ny tandrony"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ary hanao"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "זר",
+      "gloss": "satroboninahitra"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:07:02.776357578Z",
+  "model": "glm-5.3"
+}

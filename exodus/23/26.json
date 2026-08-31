@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Tsy hisy miteraka maty na tsy mahay miteraka amin'ny taninareo; ny isan'ny andronareo no hamenoako.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "hisy"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "miteraka maty"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "na tsy mahay miteraka"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "amin'ny taninareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny isan'ny andronareo"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ny isan'ny"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "andro"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "no hamenoako"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:45.196384208Z",
+  "model": "glm-5.3"
+}

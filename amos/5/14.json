@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 5:14",
+  "book": "amos",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Tadiavo ny soa, ary aza ny ratsy, mba ho velona ianareo; ary dia ho miaraka ⟨את⟩ aminareo Yahveh, Elohin'ny Tsevaot, araka izay nolazainareo.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Tadiavo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ny soa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ny ratsy"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mba"
+    },
+    {
+      "surface": "תחיו",
+      "gloss": "ho velona ianareo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ary dia ho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'ny"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aminareo",
+      "marks": "aminareo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka izay"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "nolazainareo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:13:11.245019077Z",
+  "model": "glm-5.3"
+}

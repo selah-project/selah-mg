@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary Izaho koa efa nandre ⟨את⟩ ny fitomanian'ny zanak'i Yisrael, izay ataon'i Mitsrayim mpanompo, ka nahatsiaro ⟨את⟩ ny fanekeniako.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nandre"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitomanian'ny zanak'i Yisrael"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "fitomania"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "mpanompo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy ireo"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "ka nahatsiaro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanekeniako"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "fanekeniako"
+    }
+  ],
+  "timestamp": "2026-08-31T12:55:37.277382738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 116,
+  "translation": "tia aho, satria Yahveh efa mihaino ny feoko, ny fangatahako",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "tia aho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "mihaino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny feoko"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ny feoko"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ny fangatahako"
+    }
+  ],
+  "timestamp": "2026-08-31T18:36:10.648908187Z",
+  "model": "glm-5.3"
+}

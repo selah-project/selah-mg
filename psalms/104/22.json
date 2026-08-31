@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 104,
+  "translation": "Mipoatra ny masoandro, dia mivory izy ireo, ary mipetraka ao an-tranony.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "mipoatra"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ny masoandro"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "dia mivory izy ireo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary ao an-"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "tranony"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "mipetraka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:13.478431753Z",
+  "model": "glm-5.3"
+}

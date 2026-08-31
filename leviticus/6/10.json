@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Tsy hohana miasiaka ⟨izy⟩; ny anjarany no nomenako ⟨את⟩ avy amin'ny afo natoloko; masina indrindra ⟨izy⟩, tahaka ny fanatitra ho an'ny ota sy ny fanatitra ho an'ny ontra.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "hohana"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "masiaka"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "ny anjarany"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nomenako"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "avy amin'ny afo natoloko"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "avy amin'ny afo natoloko"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "masina indrindra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "tahaka ny fanatitra ho an'ny ota"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "sy ny fanatitra ho an'ny ontra"
+    }
+  ],
+  "timestamp": "2026-08-31T18:29:25.039672882Z",
+  "model": "glm-5.3"
+}

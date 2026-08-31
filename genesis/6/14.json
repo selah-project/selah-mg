@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Manaova ho anao sambofia hazo gofera; efitra no hataonao ao amin'⟨את⟩ ilay sambofia, ary hosoranao ⟨את⟩ izy avy ao anatiny sy ivelany amin'ny zilo.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Manaova"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "sambofia"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "gofera"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "efitra"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "no hataonao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay sambofia"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ilay sambofia"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "ary hosoranao"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "izy (ilay sambofia)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "avy ao anatiny"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "sy ivelany"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "amin'ny zilo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:36:52.770162442Z",
+  "model": "glm-5.3"
+}

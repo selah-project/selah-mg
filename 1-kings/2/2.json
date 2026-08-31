@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Izaho kosa mandeha amin'ny lalan'ny tany rehetra; koa mahereza ianao, ary mijanona ho lehilahy.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "amin'ny lalan'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "mahereza"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ary mijanona ho"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "lehilahy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:39:57.303973573Z",
+  "model": "glm-5.3"
+}

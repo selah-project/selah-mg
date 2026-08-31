@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Tsy hajanona eo anatrehanao ny mirehareha; halanao izay rehetra miasa fanaratsiana (avon).",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "hajanona"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "ny mirehareha"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "eo anatrehanao"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "anatrehanao (maso)"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "halanao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "miasa"
+    },
+    {
+      "surface": "און",
+      "gloss": "fanaratsiana (avon)"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:41.820933587Z",
+  "model": "glm-5.3"
+}

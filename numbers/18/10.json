@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Amin'ny masina indrindra no hohaninao azy; ny lahy rehetra dia hihinana ⟨את⟩ azy; masina no ho anao izy.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "amin'ny masina"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "indrindra"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "hohaninao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lahy"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hihinana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ny zavatra masina)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "no ho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:31:38.920518513Z",
+  "model": "glm-5.3"
+}

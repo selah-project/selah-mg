@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary hoy Yahveh: Tena hitako mihitsy ⟨את⟩ ny fahoriana mibanjina ny oloko any Mitsrayim; ary ⟨את⟩ ny kiakiany efa reko noho ny mpanery azy; fa fantatro ⟨את⟩ ny fahantrany.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Tena"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "hitako mihitsy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahoriana"
+    },
+    {
+      "surface": "עני",
+      "gloss": "fahoriana"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ny oloko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mibanjina"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "any Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny kiakiany"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "ny kiakiany"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "efa reko"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "noho ny"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "mpanery azy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "fantatro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahantrany"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "ny fahantrany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:54:50.268743609Z",
+  "model": "glm-5.3"
+}

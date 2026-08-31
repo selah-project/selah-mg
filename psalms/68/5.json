@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 68:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 68,
+  "translation": "Mihira ho an'i Elohim, mandray tetehina ho an'ny anarany; anandramo ilay mitaingina manerana ny lanitra — amin'ny anarana Yah no anarany — ary mifalia eo anatrehany.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Mihira"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ho an'i Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "mandray tetehina"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ho an'ny anarany"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "anandramo"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "ilay mitaingina"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "manerana ny lanitra"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "amin'ny Yah"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "no anarany"
+    },
+    {
+      "surface": "ועלזו",
+      "gloss": "ary mifalia"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "eo anatrehany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:46.043456741Z",
+  "model": "glm-5.3"
+}

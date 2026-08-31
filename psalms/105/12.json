@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Fony izy mbola olona vitsy isa, vitsy dia vitsy, ary vahiny monina tao aminy.",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "fony izy mbola"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "olona"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "vitsy isa"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "vitsy dia vitsy"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "ary vahiny monina"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tao aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:19.721880149Z",
+  "model": "glm-5.3"
+}

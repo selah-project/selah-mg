@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary maivana izany eo imason'i Yahveh, ary hanolotra ⟨את⟩ an'i Moaba ho eo an-tananareo izy.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "ary maivana"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izany"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "eo imason'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ary hanolotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Moaba"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "an'i Moaba"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "ho eo an-tananareo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:52:04.807374724Z",
+  "model": "glm-5.3"
+}

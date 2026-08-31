@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 59:6",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 59,
+  "translation": "Ny landiny tsy ho akanjo ⟨⟨izy⟩⟩, ary tsy hosaronany ny tenany amin'ny asany; ny asany dia asa faharatsiana, ary ny asan'ny herisetra eo an-tànany.",
+  "tokens": [
+    {
+      "surface": "קוריהם",
+      "gloss": "ny landiny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "akanjo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יתכסו",
+      "gloss": "hosaronany ny tenany"
+    },
+    {
+      "surface": "במעשיהם",
+      "gloss": "amin'ny asany"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ny asany"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "asa"
+    },
+    {
+      "surface": "און",
+      "gloss": "faharatsiana"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "ary ny asan'ny"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "herisetra"
+    },
+    {
+      "surface": "בכפיהם",
+      "gloss": "eo an-tànany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:21:55.562570313Z",
+  "model": "glm-5.3"
+}

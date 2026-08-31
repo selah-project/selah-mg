@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 7:15",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary namboatra ⟨את⟩ ny tsangambato roa varahina: sivy ambin'ny folo hao ny haavon'ny tsangambato iray, ary tadimbarahina roa ambin'ny folo hao no manodidina ⟨את⟩ ny tsangambato faharoa.",
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "namboatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tsangambato roa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "roa"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ny tsangambato"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "varahina"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "sivy"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ambin'ny folo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hao"
+    },
+    {
+      "surface": "קומת",
+      "gloss": "ny haavo"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "ny tsangambato"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "וחוט",
+      "gloss": "ary tadimbarahina"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "roa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ambin'ny folo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "hao"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tsangambato faharoa"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "ny tsangambato"
+    },
+    {
+      "surface": "השני",
+      "gloss": "faharoa"
+    }
+  ],
+  "timestamp": "2026-08-31T18:03:56.041093179Z",
+  "model": "glm-5.3"
+}

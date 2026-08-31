@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 114,
+  "ref": "psalms 119:114",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Hidianako ianao, ampingoko ianao; ny teninao no andrasako.",
+  "tokens": [
+    {
+      "surface": "סתרי",
+      "gloss": "hidianako"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "ampingoko ianao"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "ny teninao"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "no andrasako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:54.718080762Z",
+  "model": "glm-5.3"
+}

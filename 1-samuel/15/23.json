@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 15:23",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Fa ny fanoherana dia ohatra ny fahotan'ny sikidy, ary ny fahabeizana dia heloka sy terafima; satria nolavinao ⟨את⟩ ny tenin'i Yahveh, dia nolaviny kosa ianao tsy ho mpanjaka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "fahotan'ny"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "sikidy"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "fanoherana"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "heloka"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "sy terafima"
+    },
+    {
+      "surface": "הפצר",
+      "gloss": "fahabeizana"
+    },
+    {
+      "surface": "יען",
+      "gloss": "satria"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "nolavinao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tenin'i Yahveh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ny tenin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וימאסך",
+      "gloss": "dia nolaviny kosa ianao"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "tsy ho mpanjaka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:20:34.450545048Z",
+  "model": "glm-5.3"
+}

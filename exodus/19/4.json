@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Hianareo no efa nahita izay nataoko tamin'i Mitsrayim, ary nitondra anareo aho tamin'ny vanin'ny voromahery, ka nitondra anareo ho atòiko.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Hianareo"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "efa nahita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nataoko"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "tamin'i Mitsrayim"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "ary nitondra anareo aho"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "vanin'ny"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "voromahery"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "ka nitondra anareo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho atòiko"
+    }
+  ],
+  "timestamp": "2026-08-31T13:01:13.295707682Z",
+  "model": "glm-5.3"
+}

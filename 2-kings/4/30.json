@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 4:30",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Fa hoy renin'ny zazalahy: Velona Yahveh sy velona koa ny ainao, tsy hanao tsy hananda ahy ianao ⟨fa tsy hisy hifanesanana⟩; ka nitsangana izy ka nanaraka azy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "fa hoy"
+    },
+    {
+      "surface": "אם",
+      "gloss": "renin'ny"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ny zazalahy"
+    },
+    {
+      "surface": "חי",
+      "gloss": "velona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "ary velona koa"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ny ainao"
+    },
+    {
+      "surface": "אם",
+      "gloss": "tsy ... ianao"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "hananda anao"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ka nitsangana izy"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ka nandeha"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "nanaraka azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:52:36.373492588Z",
+  "model": "glm-5.3"
+}

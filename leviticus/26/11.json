@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary homeko eo afovoanareo ny tranolalako, ary tsy haharavy ny aiko ⟨את⟩ ianareo:",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "homeko"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "ny tranolalako"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "eo afovoanareo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "haharavy"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ianareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:21:30.580308872Z",
+  "model": "glm-5.3"
+}

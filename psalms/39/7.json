@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "Tokoa, amin'ny endrika fotsiny no mandeha ny olona; tokoa, amin'ny foana no mikorontana izy; mamory harena nefa tsy mahalala iza no hamory azy.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "tokoa amin'ny"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "endrika fotsiny"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "no mandeha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tokoa amin'ny"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "foana"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "no mikorontana izy"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "mamory"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nefa tsy"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "no hamory azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:41.177365427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 4:6",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary nony efa feno ny vitrana, dia hoy izy tamin'ny zanany: Ataovy eto amiko vitrana hafa. Fa hoy ilay zanany taminy: Tsy misy vitrana intsony. Dia nijanona ny mena.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nony"
+    },
+    {
+      "surface": "כמלאת",
+      "gloss": "efa feno"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ny vitrana"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "dia hoy izy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "Ataovy eto"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hafa \/ intsony"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "vitrana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Fa hoy"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Tsy misy"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "vitrana"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "nijanona"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ny mena"
+    }
+  ],
+  "timestamp": "2026-08-31T14:52:32.430282713Z",
+  "model": "glm-5.3"
+}

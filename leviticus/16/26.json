@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 16:26",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary ilay nandefa ⟨את⟩ ny osilahy ho an'i Azazely hanasa ny fitafiany, ary hanasa ⟨את⟩ ny nofony amin'ny rano, ary avy eo no hidirany ho ao amin'ny toby.",
+  "tokens": [
+    {
+      "surface": "והמשלח",
+      "gloss": "Ary ilay nandefa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny osilahy"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ny osilahy"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "ho an'i Azazely"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "hanasa"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "ny fitafiany"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "ary hanasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny nofony"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ny nofony"
+    },
+    {
+      "surface": "במים",
+      "gloss": "amin'ny rano"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ary avy"
+    },
+    {
+      "surface": "כן",
+      "gloss": "eo"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "no hidirany"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho ao amin'ny"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "toby"
+    }
+  ],
+  "timestamp": "2026-08-31T13:17:58.509497801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 9:15",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary ny Jiosy izay tao Shushan dia niangona indray tamin'ny andro fahefatra amby folo amin'ny volana Adara, ka namono tao Shushan telon-jato lahy; fa tamin'ny babo dia tsy naninjatra ⟨את⟩ ny tànany.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "dia niangona"
+    },
+    {
+      "surface": "היהודיים",
+      "gloss": "ny Jiosy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "tao Shushan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "indray koa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "fahefatra amby"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "folo"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "amin'ny volana"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adara"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "ka namono"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "tao Shushan"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "telo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "-jato"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lahy"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "fa tamin'ny babo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "naninjatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tànany"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ny tànany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:20:16.588597771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 7:15",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary ho izy: ilay voasambotra amin'ny cherem dia hodorana amin'ny afo, ⟨את⟩ izy sy ⟨את⟩ izay rehetra ananany, satria nandika ⟨את⟩ ny fanekenan'i Yahveh izy, ary satria nanao zava-bozaka tao amin'i Yisraela izy.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ary ho izy"
+    },
+    {
+      "surface": "הנלכד",
+      "gloss": "ilay voasambotra"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "amin'ny cherem"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "hodorana"
+    },
+    {
+      "surface": "באש",
+      "gloss": "amin'ny afo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ izy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "izay rehetra ananany"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ananany (izay)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nandika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanekenan'i Yahveh"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ny fanekena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ary satria"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "zava-bozaka"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "tao amin'i Yisraela"
+    }
+  ],
+  "timestamp": "2026-08-31T18:00:50.420390475Z",
+  "model": "glm-5.3"
+}

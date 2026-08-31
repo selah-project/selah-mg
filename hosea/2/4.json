@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 2:4",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Miady raharaha amin'ny reninareo, miady raharaha; fa tsy vadiko izy, ary tsy lehilahiny aho; ary esory ny asa jangany tsy eo an-tavany, ary ny fijangadianany amin'ny alohan'ny tratrany.",
+  "tokens": [
+    {
+      "surface": "ריבו",
+      "gloss": "Miady raharaha"
+    },
+    {
+      "surface": "באמכם",
+      "gloss": "amin'ny reninareo"
+    },
+    {
+      "surface": "ריבו",
+      "gloss": "miady raharaha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "vadiko"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ary aho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "lehilahiny"
+    },
+    {
+      "surface": "ותסר",
+      "gloss": "ary esory"
+    },
+    {
+      "surface": "זנוניה",
+      "gloss": "asa jangany"
+    },
+    {
+      "surface": "מפניה",
+      "gloss": "tsy eo an-tavany"
+    },
+    {
+      "surface": "ונאפופיה",
+      "gloss": "ary ny fijangadianany"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "amin'ny alohan'ny"
+    },
+    {
+      "surface": "שדיה",
+      "gloss": "tratrany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:07:55.448707647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Na dia tamin'izany rehetra izany aza dia mbola nanota izy ireo, ary tsy nino ny fahagagany.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "tamin'izany rehetra"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izany"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "nanota"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mbola"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "nino"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "ny fahagagany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:32.283417085Z",
+  "model": "glm-5.3"
+}

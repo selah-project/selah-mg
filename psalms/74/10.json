@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 74,
+  "translation": "Hatramin'ny rahoviana, ry Elohim, no hanaraty ny fahavalo, ary hanisy tsinampo ny fahavalo ny anaranao mandrakizay?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hatramin'ny"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "rahoviana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "hanaraty"
+    },
+    {
+      "surface": "צר",
+      "gloss": "mpahory (fahavalo)"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "hanisy tsinampo"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fahavalo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ny anaranao"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "mandrakizay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:35.755481423Z",
+  "model": "glm-5.3"
+}

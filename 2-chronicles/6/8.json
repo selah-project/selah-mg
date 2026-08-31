@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 6:8",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary hoy Yahveh tamin'i Davida raiko: Satria tao am-ponao ny hanorina trano ho an'ny anarako, tsara ny nataonao, fa tao am-ponao tokoa izany.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ary hoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "raiko"
+    },
+    {
+      "surface": "יען",
+      "gloss": "satria"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ny"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tao am"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ponao"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "hanorina"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "ho an'ny anarako"
+    },
+    {
+      "surface": "הטיבות",
+      "gloss": "tsara ny nataonao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tao am"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ponao"
+    }
+  ],
+  "timestamp": "2026-08-31T17:43:14.616415239Z",
+  "model": "glm-5.3"
+}

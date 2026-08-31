@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary tandremo ⟨את⟩ izay teny izay ho lalàna ho anareo sy ho an'ny zanakareo mandrakizay doria.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ary tandremo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay teny izay"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "izay teny izay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "לחק",
+      "gloss": "ho lalàna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "sy ho an'ny zanakareo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "doria"
+    }
+  ],
+  "timestamp": "2026-08-31T12:59:13.043861963Z",
+  "model": "glm-5.3"
+}

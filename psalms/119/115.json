@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Miala amiko ianareo, mpanao ratsy, ary hitandrina ny didin'ny Elohim aho.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "miala"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ianareo, mpanao ratsy"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "ary hitandrina"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ny didin'ny"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:54.718266416Z",
+  "model": "glm-5.3"
+}

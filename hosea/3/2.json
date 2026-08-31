@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary novidiko ho ahy tamin'ny fedra dimy ambin'ny folo volafotsy, sy homer vary hordea iray, ary leteka vary hordea iray.",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "novidiko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "tamin'ny fedra dimy"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ambin'ny folo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "sy homer"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "vary hordea"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "ary leteka"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "vary hordea"
+    }
+  ],
+  "timestamp": "2026-08-31T16:07:44.553231454Z",
+  "model": "glm-5.3"
+}

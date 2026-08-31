@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 77,
+  "translation": "Ary hoy izaho: Ny teny ratra ataoko izany; fa hahatsiaro ny taonan'ny tànana havanana El Elyon aho.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ary hoy izaho"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "ny teny ratra ataoko"
+    },
+    {
+      "surface": "היא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ny taonan'ny"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "tànana havanana"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Elyon"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:32.827794579Z",
+  "model": "glm-5.3"
+}

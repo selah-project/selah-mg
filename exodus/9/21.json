@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary izay tsy nanetrika ny fony tamin'ny tenin'i Yahveh dia nandao ⟨את⟩ ny mpanompony sy ⟨את⟩ ny biby fiompiny tany an-tsaha.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Ary izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nanetrika"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ny fony"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ny tenin'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "dia nandao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanompony"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ny mpanompony"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny biby fiompiny"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "ny biby fiompiny"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "tany an-tsaha"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:03.679104308Z",
+  "model": "glm-5.3"
+}

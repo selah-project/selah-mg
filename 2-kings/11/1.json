@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary Atalya renin'i Ahazia, nony hitany fa maty ny zanany, dia nitsangana ka nanafoana ⟨את⟩ ny taranaka rehetra teto amin'ny fanjakana.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Ary Atalya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "renin'i"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahazia"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "nony hitany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "maty"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "dia nitsangana"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "ka nanafoana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny taranaka rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "taranaka"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "teto amin'ny fanjakana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:55:32.239687922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary nisy ady indray ho an'ny Filistina ⟨את⟩ Yisrael; ary nidina Davida sy ny mpanompony niaraka taminy, ary niady tamin'ny Filistina ⟨את⟩ izy; ary levona no sisa Davida.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Ary nisy"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "indray"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ady"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "ho an'ny Filistina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisrael"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ary nidina"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "sy ny mpanompony"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "niaraka taminy"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ary niady tamin'ny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistina"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistina"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "ary levona no sisa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    }
+  ],
+  "timestamp": "2026-08-31T14:36:47.290499125Z",
+  "model": "glm-5.3"
+}

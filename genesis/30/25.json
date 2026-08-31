@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary nonina tamin'ny nahaterahan'i Rahelin'i ⟨את⟩ Yosefa, dia hoy Yaakov tamin'i Lavana: Alefaso aho, ary handeha ho any amin'ny toerako sy ho any amin'ny tanyiko.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "nonina"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "nahaterahan'i"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahelin'i"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavana"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Alefaso aho"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "ary handeha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "toerako"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "sy ho any amin'ny tanyiko"
+    }
+  ],
+  "timestamp": "2026-08-31T12:44:28.818118084Z",
+  "model": "glm-5.3"
+}

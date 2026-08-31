@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary alaivo avy any kely vitsy isa, ka amboary ao anaty fontran'ny fitafianao ⟨את⟩ azy ireo.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Ary alaivo"
+    },
+    {
+      "surface": "משם",
+      "gloss": "avy any"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kely"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "vitsy isa"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "ka amboary"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "azy ireo (ao anaty fontran'ny fitafianao)"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "ao anaty fontran'ny fitafianao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:49:09.859602997Z",
+  "model": "glm-5.3"
+}

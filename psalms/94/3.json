@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 94,
+  "translation": "Mandra-pahoviana ny ratsy fanahy, ry Yahveh? Mandra-pahoviana ny ratsy fanahy hifaly?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Mandra-"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "pahoviana"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ratsy fanahy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Mandra-"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "pahoviana"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ratsy fanahy"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "hifaly"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:47.283923707Z",
+  "model": "glm-5.3"
+}

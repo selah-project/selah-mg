@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Fihirana — kantatra fanaovana fanokanana ⟨ny⟩ trano, an'i Davida.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Fihirana"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kantatra"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "fanaovana fanokanana"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨ny⟩ trano"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "an'i Davida"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:46.069273150Z",
+  "model": "glm-5.3"
+}

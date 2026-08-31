@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Layish, mahery eo amin'ny biby fiompy, ary tsy mivadika amin'ny tavan'na iza na iza.",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "Layish"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "eo amin'ny biby fiompy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "mivadika"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "amin'ny tavan'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "iza na iza"
+    }
+  ],
+  "timestamp": "2026-08-31T16:57:55.025224589Z",
+  "model": "glm-5.3"
+}

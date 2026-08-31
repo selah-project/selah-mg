@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 109,
+  "translation": "Ho fohy ny androny, ary ny mpankindrina haka ny toerany olon-kafa.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ny androny"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "fohy"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "ny toerany"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "haka"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "olon-kafa"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:48.177932156Z",
+  "model": "glm-5.3"
+}

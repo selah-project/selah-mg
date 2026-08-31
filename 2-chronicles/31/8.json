@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary tonga Hizkiyahu sy ny mpanapaka, ka nahita ⟨את⟩ ny antontam-bokatra izy ireo, dia natsoiny ho fiisa ⟨את⟩ Yahveh sy ⟨את⟩ ny olony Yisraely.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Ary tonga"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "sy ny mpanapaka"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ka nahita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny antontam-bokatra"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "ny antontam-bokatra"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "dia natsoiny ho fiisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny olony Yisraely"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ny olony"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraely"
+    }
+  ],
+  "timestamp": "2026-08-31T17:51:16.473966065Z",
+  "model": "glm-5.3"
+}

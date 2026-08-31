@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary nanevatevany ⟨את⟩ ny Isiraely izy, ka namely azy Yehonatanana zanak'i Shimi, rahalahin'i Davida.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "nanevatevany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Isiraely"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "ka namely azy"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatanana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "rahalahin'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    }
+  ],
+  "timestamp": "2026-08-31T18:03:25.550491099Z",
+  "model": "glm-5.3"
+}

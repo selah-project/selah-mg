@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 10:21",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Fa efa lasa tory-kena ny mpiandry, ary ⟨את⟩ Yahveh tsy notadiaviny; noho izany tsy nahay izy, ary ny ondry fiandiny rehetra efa naely.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "נבערו",
+      "gloss": "efa lasa tory-kena"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ny mpiandry"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "notadiaviny"
+    },
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "nahay"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ... rehetra"
+    },
+    {
+      "surface": "מרעיתם",
+      "gloss": "ondry fiandiny"
+    },
+    {
+      "surface": "נפוצה",
+      "gloss": "efa naely"
+    }
+  ],
+  "timestamp": "2026-08-31T15:26:57.883462046Z",
+  "model": "glm-5.3"
+}

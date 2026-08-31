@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 46:3",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 46,
+  "translation": "Ary hoy Izy: Izaho no El, Elohin'ny rainao; aza matahotra hidina any Mitsrayim, fa firenena lehibe no hataoko ianao any.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy Izy"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'ny"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "rainao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "matahotra"
+    },
+    {
+      "surface": "מרדה",
+      "gloss": "hidina"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "any Mitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "no hataoko ianao"
+    },
+    {
+      "surface": "שם",
+      "gloss": "any"
+    }
+  ],
+  "timestamp": "2026-08-31T12:52:18.534437882Z",
+  "model": "glm-5.3"
+}

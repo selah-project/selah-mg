@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Amin'izany andro izany dia naniraka ny mpanjaka Achaza ho any amin'ny mpanjakan'i Ashora mba hampiana vonjeo azy.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "amin'izany andro"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "naniraka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaza"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mpanjakan'ny"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashora"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "hampiana vonjeo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:50:07.879329980Z",
+  "model": "glm-5.3"
+}

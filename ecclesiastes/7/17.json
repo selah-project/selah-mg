@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Aza manao ratsy be, ary aza tonga mofo; nahoana no ho faty ftsy amin'ny fotoanao?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "manao ratsy"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "be"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "mofo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nahoana no"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ho faty"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "tsy amin'ny"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "fotoanao"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:09.230223065Z",
+  "model": "glm-5.3"
+}

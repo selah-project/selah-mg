@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 56,
+  "translation": "Ao amin'i Elohim dia hiderako ny teniny; ao amin'i Elohim no natoky aho; tsy hatahorako izay hataon'ny nofo amiko.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Ao amin'i Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "hiderako"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ny teniny"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ao amin'i Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "no natoky aho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "hatahorako"
+    },
+    {
+      "surface": "מה",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hataon'ny"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nofo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:45.876178938Z",
+  "model": "glm-5.3"
+}

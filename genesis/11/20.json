@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary Reo velona roa amby telo-polo taona, ka niteraka ⟨את⟩ an'i Seroga.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "velona"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reo"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "roa"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "amby telo-polo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Seroga"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Seroga"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:35.486085049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 17:6",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary ny mpisorona hipariaka ⟨את⟩ ny rà eo ambonin'ny alitaran'i Yahveh, eo ambonin'ny varavaran'ny trano lay fihaonana, ary handoro ny tavy ho fofona mahafaly ho an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "וזרק",
+      "gloss": "hipariaka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rà"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ny rà"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambonin'ny"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "varavaran'ny"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "trano lay"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "handoro"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ny tavy"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "ho fofona"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "mahafaly"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:18:21.968013775Z",
+  "model": "glm-5.3"
+}

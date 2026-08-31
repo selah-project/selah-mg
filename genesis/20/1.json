@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Dia niainga avy teo Avrahama nankany amin'ny tany atsimo, ka nipetraka teo anelanelan'i Kadesh sy Shur, ary nivahiny tany Gerara.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "niainga"
+    },
+    {
+      "surface": "משם",
+      "gloss": "avy teo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "nankany amin'ny tany"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "atsimo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ka nipetraka"
+    },
+    {
+      "surface": "בין",
+      "gloss": "teo anelanelan'i"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "ary nivahiny"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "tany Gerara"
+    }
+  ],
+  "timestamp": "2026-08-31T18:27:15.646762277Z",
+  "model": "glm-5.3"
+}

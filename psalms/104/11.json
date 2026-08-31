@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 104,
+  "translation": "Manondraka ny biby rehetra amin'ny saha ireo; ny boriky an-tsiririaka mamoha ny hetrany.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "manondraka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "biby"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "amin'ny saha"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "mamoha"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "boriky an-tsiririaka"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "ny hetrany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:13.731728605Z",
+  "model": "glm-5.3"
+}

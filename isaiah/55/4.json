@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 55,
+  "translation": "Indro, vavolombelona ho an'ny firenena no nomena ⟨Azy⟩, mpitarika sy mpandidy ho an'ny firenena.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "vavolombelona"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "ho an'ny firenena"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "no nomena ⟨Azy⟩"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "mpitarika"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "sy mpandidy"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ho an'ny firenena"
+    }
+  ],
+  "timestamp": "2026-08-31T15:19:12.205060749Z",
+  "model": "glm-5.3"
+}

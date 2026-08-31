@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 10:35",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary Yehua nandry tamin'ny razany, ka nalevina tao Shomrona ⟨את⟩ izy, ary Yehoachaza zanany nanjaka nandimby azy.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "nandry"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehua"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "razany"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "nalevina"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (izy, ilay nalevina tao Shomrona)"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "tao Shomrona"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "nanjaka"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaza"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "nandimby azy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:32:08.524137110Z",
+  "model": "glm-5.3"
+}

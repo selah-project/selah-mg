@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary ny Filistina naka ⟨את⟩ ny fiaran'ny Elohim ka nitondra azy avy tany Eben-ha-Ezer ho any Ashdod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Ary ny Filistina"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "naka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiaran'ny Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "ka nitondra azy"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "avy tany Eben-"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "ho any Ashdod"
+    }
+  ],
+  "timestamp": "2026-08-31T14:16:44.102864822Z",
+  "model": "glm-5.3"
+}

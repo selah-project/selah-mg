@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Fa tao Zoàna ny mpanapany, ary tonga any Hanes ny irany.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "tao"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "Zoàna"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "ny mpanapany"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "ary ny irany"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "any Hanes"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "tonga"
+    }
+  ],
+  "timestamp": "2026-08-31T15:11:26.956483376Z",
+  "model": "glm-5.3"
+}

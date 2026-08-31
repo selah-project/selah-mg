@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 52,
+  "translation": "Namohaingana i Yahveh ⟨את⟩ ny sandrin'ny fahamasinany teo imason'ny jentilika rehetra, ary hitan'ny faran'ny tany rehetra ⟨את⟩ ny famonjenan'ny Elohim antsika.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "Namohaingana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny sandrin'ny fahamasinany"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ny sandry"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ny fahamasinany"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "teo imason'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "reo rehetra"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "jentilika"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ary hitan'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "faran'ny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny famonjenan'ny Elohim antsika"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "ny famonjena"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ny Elohim antsika"
+    }
+  ],
+  "timestamp": "2026-08-31T15:18:31.707416847Z",
+  "model": "glm-5.3"
+}

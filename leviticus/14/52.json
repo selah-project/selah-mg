@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary hanadio ⟨את⟩ ny trano izy amin'ny ran'ny vorona sy amin'ny rano velona sy amin'ny vorona velona sy amin'ny hazo sedera sy amin'ny ezoba sy amin'ny shni tola'at.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "hanadio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny trano"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ny trano"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "amin'ny ran'"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "vorona"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "sy amin'ny rano"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "velona"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "sy amin'ny vorona"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "velona"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "sy amin'ny hazo"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "sedera"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "sy amin'ny ezoba"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "sy amin'ny shni"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "tola'at"
+    }
+  ],
+  "timestamp": "2026-08-31T13:16:15.262294003Z",
+  "model": "glm-5.3"
+}

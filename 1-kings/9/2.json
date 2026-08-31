@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "dia nisehoan'i Yahveh Shelomoh fanintelony, toy ny nisehoany taminy tao Gibeona.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "dia niseho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "fanintelony"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "toy ny"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "nisehoany"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tamininy"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "tao Gibeona"
+    }
+  ],
+  "timestamp": "2026-08-31T14:43:48.658191719Z",
+  "model": "glm-5.3"
+}

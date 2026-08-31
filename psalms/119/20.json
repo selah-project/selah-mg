@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Torotoro noho ny faniriana ny fanahiko mankahery ny fitsipikao amin'ny fotoana rehetra.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "torotoro"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny fanahiko"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "noho ny faniriana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mankahery"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ny fitsipikao"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "עת",
+      "gloss": "fotoana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:44.877165344Z",
+  "model": "glm-5.3"
+}

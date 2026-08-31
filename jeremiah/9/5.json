@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ny fonenanao eo ampovoan'ny fitaka; amin'ny fitaka izy nandà hahalala ⟨את⟩ Ahy, fanambaràn'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "Ny fonenanao"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "eo ampovoan'ny"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "fitaka"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "amin'ny fitaka"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "nandà"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "hahalala"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ Ahy",
+      "marks": "Ahy"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "fanambaràn'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T15:27:20.111987325Z",
+  "model": "glm-5.3"
+}

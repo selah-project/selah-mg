@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 70,
+  "translation": "Hamenatra sy ho voa henatra izay mitady ny aiko; hihemotra izy ary ho voatahotsy izay falifaly amin'ny loako.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Hamenatra"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "sy ho voa henatra"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "izay mitady"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "hihemotra"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "⟨aoriana⟩"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "ary ho voatahotsy"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "izay falifaly amin'ny"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "loako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:55.029173183Z",
+  "model": "glm-5.3"
+}

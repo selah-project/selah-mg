@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Ary Davida nanome an'i Shelomoh zanany ⟨את⟩ ny endriky ny eoropa, sy ⟨את⟩ ny trano azy, ary ny fitoeran-kareny, sy ny efitra ambony, ary ny efitra anatiny, ary ny tranon'ny fonon'ny fanavotana.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Ary … nanome"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "an'i Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny endriky ny eoropa"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ny endriky"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "ny eoropa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny trano azy"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "ny trano azy"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "ny fitoeran-kareny"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "ny efitra ambony"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "ny efitra"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "anatiny"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ary ny tranon'"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "fonon'ny fanavotana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:42:18.005736289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 136:26",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 136,
+  "translation": "Mankasitraha an'i El ⟨an'ny⟩ lanitra, fa mandrakizay ny hesediny.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Mankasitraha"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "an'i El"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨an'ny⟩ lanitra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ny hesediny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:14.306569083Z",
+  "model": "glm-5.3"
+}

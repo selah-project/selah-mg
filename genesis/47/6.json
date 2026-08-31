@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 47:6",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 47,
+  "translation": "Ny tany Mitsrayim eo anoloanao izy; amin'ny tsara indrindra amin'ny tany ampitoerina ⟨את⟩ ny rainao sy ⟨את⟩ ny rahalahinao; hitoetra any amin'ny tany Goshen izy; ary raha fantatrao fa misy ao aminy lehilahy mahay, ataovy filohan'ny omby aman'ondrinko izy ireo, amin'izay rehetra ananako.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "eo anoloanao"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "במיטב",
+      "gloss": "amin'ny tsara indrindra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "הושב",
+      "gloss": "ampitoerina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rainao"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ny rainao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny rahalahinao"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ny rahalahinao"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "hitoetra"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "any amin'ny tany"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goshen"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ary raha"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "fantatrao"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "fa misy"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ao aminy"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mahay"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "ataovy"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "filoha"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "omby aman'ondry"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ananako"
+    }
+  ],
+  "timestamp": "2026-08-31T18:28:19.512583338Z",
+  "model": "glm-5.3"
+}

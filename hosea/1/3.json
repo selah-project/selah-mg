@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Dia nandeha izy ka naka ⟨את⟩ an'i Gomera zanakavavin'i Diblaima; ary tonga nitoe-jaza ka niteraka zazalahy taminy.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "naka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomera"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomera"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanakavavin'i"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Diblaima"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "tonga nitoe-jaza"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tamininy"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zazalahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:07:54.624529024Z",
+  "model": "glm-5.3"
+}

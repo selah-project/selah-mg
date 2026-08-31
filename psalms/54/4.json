@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 54,
+  "translation": "Ry Elohim, henoy ny fivavako; tandremo ny tenin'ny vavako.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "henoy"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ny fivavako"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "tandremo"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "ny tenin'ny"
+    },
+    {
+      "surface": "פי",
+      "gloss": "vavako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:26.541555897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Yahveh, tsarovy inona no efa nahazo anay; jereo ary, hitao ⟨את⟩ ny fahafaham-baraka.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "tsarovy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "inona"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nahazo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anay"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "jereo"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "hitao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fahafaham-baraka"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "fahafaham-baraka"
+    }
+  ],
+  "timestamp": "2026-08-31T17:14:36.837476719Z",
+  "model": "glm-5.3"
+}

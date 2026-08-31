@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary namono ⟨את⟩ ny mpisoron'ny fitsanganana avo rehetra izay teo ambonin'ireo alitara izy, ary nodorany ⟨את⟩ taolan'olombelona tamboy; dia nody tany Yeroshalayim.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "Ary namono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpisoron'ny fitsanganana avo rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "mpisoron'ny"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "fitsanganana avo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "teo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "ary nodorany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taolan'olombelona"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "taola"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olombelona"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "tamboy"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "dia nody"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "tany Yeroshalayim"
+    }
+  ],
+  "timestamp": "2026-08-31T15:01:09.730155740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 7:1",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Dia nifoha maraina Yerubbaal — izy no Gideona — sy ny vahoaka rehetra izay ⟨את⟩ niaraka taminy, ka namponenina tao amin'ny Ein-Harod; ary ny tobin'i Midiana dia nanana azy ao avaratr'ilay havoana More, ao an-dohasaha.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "nifoha maraina"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubbaal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideona"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ... rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ niaraka taminy"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "namponenina"
+    },
+    {
+      "surface": "על",
+      "gloss": "tao amin'ny"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ein"
+    },
+    {
+      "surface": "חרד",
+      "gloss": "Harod"
+    },
+    {
+      "surface": "ומחנה",
+      "gloss": "ary ny toby"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiana"
+    },
+    {
+      "surface": "היה",
+      "gloss": "dia nanana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ao avaratra"
+    },
+    {
+      "surface": "מגבעת",
+      "gloss": "amin'ilay havoana"
+    },
+    {
+      "surface": "המורה",
+      "gloss": "More"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ao an-dohasaha"
+    }
+  ],
+  "timestamp": "2026-08-31T14:08:10.082829164Z",
+  "model": "glm-5.3"
+}

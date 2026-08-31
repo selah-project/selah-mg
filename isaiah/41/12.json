@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Hotadiavinao izy ireo fa tsy ho hita intsony — ny mpanohitra anao; ho tonga hoatry ny tsy misy izy, ary hoatry ny aotra ny lehilahy miady aminao.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "Hotadiavinao izy ireo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "ho hita intsony"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "mpanohitra anao"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ho tonga"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "hoatry ny tsy misy"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "sy hoatry ny aotra"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "miady aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:14:57.614475542Z",
+  "model": "glm-5.3"
+}

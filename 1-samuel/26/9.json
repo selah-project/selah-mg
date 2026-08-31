@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 26:9",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary Davida nanao tamin'i Abishai: Aza manimba ⟨את⟩ azy, fa iza no manitatra ny tànany amin'ny Mesian'i Yahveh ka mahazo afoky?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Abishai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תשחיתהו",
+      "gloss": "manimba azy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "manitatra"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ny tànany"
+    },
+    {
+      "surface": "במשיח",
+      "gloss": "amin'ny Mesian'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "ka mahazo afoky"
+    }
+  ],
+  "timestamp": "2026-08-31T19:13:04.164969742Z",
+  "model": "glm-5.3"
+}

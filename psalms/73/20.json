@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 73,
+  "translation": "Tahaka ny nofy mandréhaka, Adonay; amin'ny fifohazana dia manamavo ny endriny ianao.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "Tahaka ny nofy"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "mandréhaka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "amin'ny fifohazana"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "ny endriny"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "manamavo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:28.969406819Z",
+  "model": "glm-5.3"
+}

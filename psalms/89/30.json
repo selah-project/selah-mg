@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Ary hapetrako mandrakizay ny taranany, ary ny seza fiandrianany toy ny andron'ny lanitra.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ary hapetrako"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ny taranany"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "ary ny seza fiandrianany"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "toy ny andron'ny"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "lanitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:43.705058470Z",
+  "model": "glm-5.3"
+}

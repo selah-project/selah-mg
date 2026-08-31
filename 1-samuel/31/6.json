@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 31:6",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Dia maty Shaol sy ny zanany telo lahy ary ilay nitondra ny fiadiany, ary koa ny lehilahiny rehetra, tamin'izay andro izay, miaraka.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "maty"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "sy ny telo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ary ilay nitondra"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ny fiadiany"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ary koa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "ny lehilahiny"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'izay andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "miaraka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:28:01.340671778Z",
+  "model": "glm-5.3"
+}

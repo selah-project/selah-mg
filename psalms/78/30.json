@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Tsy niala tamin'ny faniriany izy ireo, fa ny sakafo mbola tao am-bavany.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "niala"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "tamin'ny faniriany"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mbola"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ny sakafo"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "tao am-bavany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:32.282715750Z",
+  "model": "glm-5.3"
+}

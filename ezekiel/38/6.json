@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 38:6",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Gomera sy ny antokony rehetra, taranak'i Togarma any amin'ny farany avaratra, ary ⟨את⟩ ny antokony rehetra — firenena maro ⟨miaraka aminao⟩.",
+  "tokens": [
+    {
+      "surface": "גמר",
+      "gloss": "Gomera"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ny ... rehetra"
+    },
+    {
+      "surface": "אגפיה",
+      "gloss": "antokony"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taranak'i"
+    },
+    {
+      "surface": "תוגרמה",
+      "gloss": "Togarma"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "farany"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "avaratra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny antokony rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "אגפיו",
+      "gloss": "antokony"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maro"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "inao (miaraka aminao)"
+    }
+  ],
+  "timestamp": "2026-08-31T16:01:58.567489032Z",
+  "model": "glm-5.3"
+}

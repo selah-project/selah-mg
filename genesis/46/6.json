@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 46:6",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 46,
+  "translation": "Ary nalainy ⟨את⟩ ny biby fiompy sy ⟨את⟩ ny fananany izay voatahiriny tany amin'ny tany Kenaana, ary niditra tany Mitsrayim izy — Yakob sy ny taranany rehetra ⟨את⟩ tamby.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "nalainy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny biby fiompy"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "ny biby fiompy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny fananany"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "ny fananany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "voatahiriny"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tany amin'ny tany"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "niditra tany"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakob"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ny... rehetra"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "taranany"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ tamby",
+      "marks": "tamby (amin'i Yakob)"
+    }
+  ],
+  "timestamp": "2026-08-31T12:52:33.097985365Z",
+  "model": "glm-5.3"
+}

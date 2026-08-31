@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary nandroaka ⟨את⟩ ilay olona izy; ary napetrany tany atsinanan'ny saha Eden ⟨את⟩ ny kerobima sy ⟨את⟩ ny lelan-tsabatra mirehitra mihodina, hiaro ⟨את⟩ ny lalana mankany amin'ny hazo fiainana.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "nandroaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay olona"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ilay olona"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "napetrany"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "tany atsinanana"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "amin'ny saha"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny kerobima"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "ny kerobima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny lelan-tsabatra mirehitra"
+    },
+    {
+      "surface": "להט",
+      "gloss": "mirehitra"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "lelan-tsabatra"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "mihodina"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "hiaro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lalana"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "fiainana"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:12.728957399Z",
+  "model": "glm-5.3"
+}

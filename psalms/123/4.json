@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 123,
+  "translation": "Be no voan'ny aintsika amin'ny fitaoman'ny tondra-dratsy sy ny fanirian-kenatry ny miavonavona.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Be"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "no voan'ny aintsaka amin'ny"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨⟩ amin'ny aintsaka"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "aintsaka"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "fitaoman'ny"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "tondra-dratsy"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "sy ny fanirian-kenatry ny"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "miavonavona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:54.531132409Z",
+  "model": "glm-5.3"
+}

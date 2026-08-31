@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Esory ny fahafahako izay ahatahorako; fa ny fitsaranao tsara.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "Esory"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ny fahafahako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "ahatahorako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ny fitsaranao"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "tsara"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:39.233839573Z",
+  "model": "glm-5.3"
+}

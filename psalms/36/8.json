@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Endrey ny vidin'ny hesed-nao, ry Elohim; ary ny zanak'olombelona miafina ao an-tsarobobin'ny elatrao.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "endrey"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ny vidiny... sarobidy"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed-nao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ary ny zanak'"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olombelona"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ao an-tsarobobin'ny"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "elatrao"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "miafina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:02.893645288Z",
+  "model": "glm-5.3"
+}

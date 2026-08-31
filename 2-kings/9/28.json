@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary ny mpanompony nampitaingenina azy ⟨tamin'ny kalesy⟩ ho any Yeroshalayim ka nandevina azy tao amin'ny fasany, miaraka amin'ny razany, ao amin'ny tanànan'i Davida.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "nampitaingenina"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ny mpanompony"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "ho any Yeroshalayim"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "nandevina"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "tao amin'ny fasany"
+    },
+    {
+      "surface": "עם",
+      "gloss": "miaraka amin'ny"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "razany"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ao amin'ny tanànan'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    }
+  ],
+  "timestamp": "2026-08-31T14:55:28.504863387Z",
+  "model": "glm-5.3"
+}

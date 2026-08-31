@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary Avraham niainga nandeha sy niainga hatrany nankeo amin'ny atsimo.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "niainga"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "sy niainga"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "nankeo amin'ny atsimo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:52.640120110Z",
+  "model": "glm-5.3"
+}

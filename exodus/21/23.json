@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Fa raha misy loza mitranga, dia homena ⟨את⟩ aina ho solon'aina.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Fa raha"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "loza"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "misy … mitranga"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "dia homena"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "aina"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ho solon'"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "aina"
+    }
+  ],
+  "timestamp": "2026-08-31T17:56:23.021134542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Dia nety artefy ary maty Avraham tamin'ny fahatra-tsoa, anti-panahy sady voky andro, ka voaangona ho amin'ny fireneny.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "Dia nety artefy"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ary maty"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "tamin'ny fahatra-tsoa"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "fahatra-tsoa"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "anti-panahy"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "sady voky andro"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ka voaangona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho amin'ny"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "fireneny"
+    }
+  ],
+  "timestamp": "2026-08-31T12:42:46.375149656Z",
+  "model": "glm-5.3"
+}

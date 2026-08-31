@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 65,
+  "translation": "Izay mampitoetra ny tendrombohitra amin'ny heriny, voaoatra herin-kaleha.",
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "mampitoetra"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ny tendrombohitra"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "amin'ny heriny"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "voaoatra"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "herin-kaleha"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:08.017003569Z",
+  "model": "glm-5.3"
+}

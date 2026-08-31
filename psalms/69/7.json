@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 69,
+  "translation": "Aza hangaihy amin'izay manantena Anao, Adonay, Yahveh Tsevaot; aza ho menatra amin'izay mitady Anao, Elohin'i Yisraela.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "hangaihy"
+    },
+    {
+      "surface": "בי",
+      "gloss": "amin'"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "izay manantena Anao"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "ho menatra"
+    },
+    {
+      "surface": "בי",
+      "gloss": "amin'"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "izay mitady Anao"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:12.437426614Z",
+  "model": "glm-5.3"
+}

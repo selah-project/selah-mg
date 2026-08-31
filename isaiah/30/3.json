@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 30:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ka ho fahamenarana ho anareo ny fiarovann'i Parao, ary ho fahafahemorana ny fialokalohana ao anipoloan'i Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ka ho"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "fiarovann'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "fahamenarana"
+    },
+    {
+      "surface": "והחסות",
+      "gloss": "ary ny fialokalohana"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ao anipoloan'i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "fahafahemorana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:11:26.956343193Z",
+  "model": "glm-5.3"
+}

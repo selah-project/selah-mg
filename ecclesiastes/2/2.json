@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ny fihomehezana — adala, hoy izaho; ary ny fifaliana — inona no ataony?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "ny fihomehezana"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "hoy izaho"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "adala"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "ary ny fifaliana"
+    },
+    {
+      "surface": "מה",
+      "gloss": "inona"
+    },
+    {
+      "surface": "זה",
+      "gloss": "no"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ataony"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:22.927558618Z",
+  "model": "glm-5.3"
+}

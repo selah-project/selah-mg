@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary ny orana nilatsaka tao ambonin'ny tany, efapolo andro sy efapolo alina.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ny orana"
+    },
+    {
+      "surface": "על",
+      "gloss": "tao ambonin'"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "efapolo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "sy efapolo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "alina"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:56.993258280Z",
+  "model": "glm-5.3"
+}

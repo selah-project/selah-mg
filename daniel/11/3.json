@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 11:3",
+  "book": "daniel",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary hisy mpanjaka mahery hitsangana, ary hanjara fanapahana lehibe, ary hanao araka ny sitrapony.",
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "hitsangana"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "hanjara"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "fanapahana"
+    },
+    {
+      "surface": "רב",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "כרצונו",
+      "gloss": "araka ny sitrapony"
+    }
+  ],
+  "timestamp": "2026-08-31T17:26:05.989211300Z",
+  "model": "glm-5.3"
+}

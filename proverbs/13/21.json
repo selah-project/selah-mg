@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ny ratsy manenjika ny mpanota, fa ⟨את⟩ ny marina no valiana soa.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "ny mpanota"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "manenjika"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ny ratsy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny marina"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ny marina"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "no valiana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "soa"
+    }
+  ],
+  "timestamp": "2026-08-31T16:52:40.471146764Z",
+  "model": "glm-5.3"
+}

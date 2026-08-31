@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 22:15",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary hiparitako ⟨את⟩ ianao amin'ny firenena, ary hazeriako anao amin'ny tany, ary hanaovako ho fongana ny fahalovan'ny faharatsanao amin'ny anatinao.",
+  "tokens": [
+    {
+      "surface": "וַהֲפִיצוֹתִי",
+      "gloss": "hiparitako"
+    },
+    {
+      "surface": "אוֹתָךְ",
+      "gloss": "⟨את⟩",
+      "marks": "ianao"
+    },
+    {
+      "surface": "בַּגּוֹיִם",
+      "gloss": "amin'ny firenena"
+    },
+    {
+      "surface": "וְזֵרִיתִיךְ",
+      "gloss": "hazeriako anao"
+    },
+    {
+      "surface": "בָּאֲרָצוֹת",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "וַהֲתִמֹּתִי",
+      "gloss": "hanaovako ho fongana"
+    },
+    {
+      "surface": "טֻמְאָתֵךְ",
+      "gloss": "fahalovan'ny faharatsanao"
+    },
+    {
+      "surface": "מִמֵּךְ",
+      "gloss": "amin'ny anatinao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:34:03.694190286Z",
+  "model": "glm-5.3"
+}

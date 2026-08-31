@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 141,
+  "translation": "Aoka ho voatosika ho eto anatrehanao ny fivavako ho setroka; ny fanandratana ny tànako ho fanatitra hariva.",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "Aoka ho voatosika"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ny fivavako"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ho setroka"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ho eto anatrehanao"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "ny fanandratana"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ny tànako"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ho fanatitra"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "hariva"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:56.134353089Z",
+  "model": "glm-5.3"
+}

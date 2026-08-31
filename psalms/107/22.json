@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 107,
+  "translation": "Ary aoka hanatitra fanatitra fisaorana, ary hampilaza ny asany amin'ny fihirana.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "ary aoka hanatitra"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "fanatitra"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "fisaorana"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "ary hampilaza"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ny asany"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "amin'ny fihirana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:24.900881408Z",
+  "model": "glm-5.3"
+}

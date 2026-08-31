@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 22:20",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary zanaka lahy iray tao amin'i Ahimeleka zanak'i Ahitoba — Abiatarara no anarany — no afaka, ka nandositra nankaun'i Davida.",
+  "tokens": [
+    {
+      "surface": "וימלט",
+      "gloss": "Ary ... no afaka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka lahy"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "tao amin'i Ahimeleka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Ahitoba"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "no anarany"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiatarara"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ka nandositra"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nankaun'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    }
+  ],
+  "timestamp": "2026-08-31T14:24:41.629412908Z",
+  "model": "glm-5.3"
+}

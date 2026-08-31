@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 144,
+  "translation": "An'i Davida. Isa ho an'i Yahveh, vatolampiko, ilay mampianatra ny tànako ho an'ny ady, ny rantsan-tanako ho an'ny ady lehibe.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "An'i Davida"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Isa ho an'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "vatolampiko"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "ilay mampianatra"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ny tànako"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "ho an'ny ady"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "ny rantsan-tanako"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ho an'ny ady lehibe"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:08.621588081Z",
+  "model": "glm-5.3"
+}

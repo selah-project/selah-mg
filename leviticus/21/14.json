@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Tsy haka ⟨את⟩ ireto: mpitondra tena velona sady very (vdavy), vehivavy nesorina, vehivavy naratra (halala), mpijangoyanga (zona) — fa virjiny avy amin'ny olony ihany no haka ho vady.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "vdavy"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "vehivavy nesorina"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "vehivavy naratra (halala)"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "mpijangoyanga (zona)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ireto (vdavy, nesorina, halala, zona)"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ireto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "haka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ihany"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "virjiny"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "avy amin'ny olony"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "no haka"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ho vady"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:33.665730823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 14:15",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary raha mandre ianao ny feon'ny fanedidiana eo an-tampon'ny hazo bakama, dia midira amin'ny ady ianao, fa efaivoaka Elohim mialoha anao hitsabaka ⟨את⟩ ny tobin'ny Filistina.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary raha"
+    },
+    {
+      "surface": "כשמעך",
+      "gloss": "mandre ianao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny feon'ny fanedidiana"
+    },
+    {
+      "surface": "קול",
+      "gloss": "feo"
+    },
+    {
+      "surface": "הצעדה",
+      "gloss": "fanedidiana"
+    },
+    {
+      "surface": "בראשי",
+      "gloss": "eo an-tampon'ny"
+    },
+    {
+      "surface": "הבכאים",
+      "gloss": "hazo bakama"
+    },
+    {
+      "surface": "אז",
+      "gloss": "dia"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "midira"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "amin'ny ady"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "efaivoaka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "mialoha anao"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "hitsabaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tobin'ny Filistina"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "toby"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistina"
+    }
+  ],
+  "timestamp": "2026-08-31T18:19:58.316681209Z",
+  "model": "glm-5.3"
+}

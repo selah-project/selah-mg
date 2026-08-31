@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Manompoa ⟨את⟩ an'i Yahveh amin'ny fahatahorana, ary mifalia amin'ny fihorohorona.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "manompoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "amin'ny fahatahorana"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "ary mifalia"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "amin'ny fihorohorona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:35.894692138Z",
+  "model": "glm-5.3"
+}

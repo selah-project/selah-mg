@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary nalainy ⟨את⟩ ny setroka avy amin'ny fatapera, ka nitsangana teo anatrehan'i Parao izy; ary naripak'i Moshe ⟨את⟩ izany ho any an-danitra, ka tonga fanaintainana mivaly mamoa tsatso tamin'ny olombelona sy tamin'ny biby fiompy.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ary nalainy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny setroka"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "setroka"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "avy amin'ny fatapera"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ka nitsangana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anatrehan'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ary naripak'i"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "izany"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "ho any an-danitra"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ka tonga"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "fanaintainana"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "tsatso mivaly"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "mamoa"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "tamin'ny olombelona"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "sy tamin'ny biby fiompy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:23.702643046Z",
+  "model": "glm-5.3"
+}

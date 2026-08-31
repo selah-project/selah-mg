@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 150,
+  "translation": "Miderà an'i Yahveh amin'ny tôf sy dihy; miderà an'i Yahveh amin'ny zavamaneno tady sy ogaba.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "miderà an'i Yahveh"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "amin'ny tôf"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "sy dihy"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "miderà an'i Yahveh"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "amin'ny zavamaneno tady"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "sy ogaba"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:50.803773428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 71,
+  "translation": "Aminao, Yahveh, nohialiko fidiana; aza avelana ho menatra mandrakizay.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Aminao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nohialiko fidiana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ho menatra"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:19.234101482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 4:48",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary ny isany dia valo arivo sy diman-jato sy valo-polo.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ary dia"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "ny isany"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "valo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "arivo"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "sy diman-"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "zato"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "sy valo-polo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:25:35.260923672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Mihainoa izany, ry anti-panahy, ary tandremo hianareo rehetra mponina amin'ny tany. Moa izany ve efa tonga tamin'ny andronareo, sa tamin'ny andron'ny razanareo?",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Mihainoa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izany"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "anti-panahy"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "tandremo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "mponina"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "Moa... efa tonga ve"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izany"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "tamin'ny andronareo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "tamin'ny andron'ny"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "razanareo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:09:33.778060581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 104,
+  "translation": "Izay no itoeran'ny vorona manao akany; ny vorona lehibe kosa, ny jeny no tranony.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "any"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "vorona"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "manao akany"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "vorona lehibe"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "jeny"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "tranony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:04.982267522Z",
+  "model": "glm-5.3"
+}

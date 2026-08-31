@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 25:14",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Fa firenena maro sy mpanjaka lehibe no nampiasa azy ireo koa; ary hamaly azy aho araka ny ataony sy araka ny asan'ny tanany.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "nampiasa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maro"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "sy mpanjaka"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "ושלמתי",
+      "gloss": "ary hamaly aho"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "כפעלם",
+      "gloss": "araka ny ataony"
+    },
+    {
+      "surface": "וכמעשה",
+      "gloss": "sy araka ny asa"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ny tanany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:34:23.660976130Z",
+  "model": "glm-5.3"
+}

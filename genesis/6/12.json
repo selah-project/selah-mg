@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary hitan'ny Elohim ⟨את⟩ ny tany, ka, indro, efa simba; fa efa nanimba ny lalany ambonin'ny tany ny nofo rehetra.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hitan'ny"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ka, indro"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "efa simba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "efa nanimba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nofo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lalany"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ny lalany"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:30.938709583Z",
+  "model": "glm-5.3"
+}

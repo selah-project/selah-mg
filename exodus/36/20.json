@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Ary nanao ⟨את⟩ ny tsihy ho an'ny trano masina izy: hazo akasiama mitsangana.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tsihy"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ny tsihy"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ho an'ny trano masina"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasiama"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "mitsangana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:09:37.241980721Z",
+  "model": "glm-5.3"
+}

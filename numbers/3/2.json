@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ireto ny anaran'ny zanak'i Aharon: Ny lahimatoa Nadab, ary Abihu, Elazara ary Itamara.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ireto"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "anaran'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "lahimatoa"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "ary Abihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazara"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "ary Itamara"
+    }
+  ],
+  "timestamp": "2026-08-31T13:25:02.757820688Z",
+  "model": "glm-5.3"
+}

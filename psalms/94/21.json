@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 94,
+  "translation": "Miangona izy manohitra ⟨ny⟩ aina marin-toerana, ary ny rà tsy manan-tsiny no homelohiny.",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "miangona"
+    },
+    {
+      "surface": "על",
+      "gloss": "manohitra"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "aina"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "marin-toerana"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "ary ny rà"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "tsy manan-tsiny"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "homelohiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:00.438213745Z",
+  "model": "glm-5.3"
+}

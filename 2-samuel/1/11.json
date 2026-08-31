@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary Davida dia nihazona ny fitafiany ka nisilikitra izany, ary ny lehilahy rehetra izay tao aminy koa.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "nihazona"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "ny fitafiany"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "ka nisilikitra izany"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ny lehilahy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ tao aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:28:31.763243510Z",
+  "model": "glm-5.3"
+}

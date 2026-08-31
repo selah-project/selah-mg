@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary tamiko dia nisy teny tonga mangingina ⟨tamin'ny alina⟩, ary ny sofiniko nandray sombin'ny feo avy aminy.",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "Ary tamiko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "teny"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "tonga mangingina"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "ary nandray"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "ny sofiniko"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "sombin'ny feo"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "avy aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:58:33.509285085Z",
+  "model": "glm-5.3"
+}

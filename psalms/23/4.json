@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ena, na dia mandeha aza amin'ny lohasaha aloky ny fahafatesana aho, tsy matahotra loza aho; fa Hianao no ato amiko; ny tehinao sy ny taviny ireo no mandrakitra ahy.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ena, na dia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "asa"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "amin'ny lohasaha"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "aloky ny fahafatesana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "matahotra"
+    },
+    {
+      "surface": "רע",
+      "gloss": "loza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Hianao"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ato amiko"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "ny tehinao"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "sy ny taviny"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "mandrakitra ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:08.593336023Z",
+  "model": "glm-5.3"
+}

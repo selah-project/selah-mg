@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Fa ny mpanjaka matoky i Yahveh, ary amin'ny hesedin'ny Avo Indrindra tsy hihozongozona izy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "matoky"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "i Yahveh"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "ary amin'ny hesed"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ny Avo Indrindra"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "hihozongozona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:41.959829918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 8:25",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Talohan'ny naleizina ny havoana, teo alohan'ny havoana madinika dia nateraka izaho.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "talohan'ny"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "havoana"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "naleizina"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo alohan'ny"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "havoana madinika"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "nateraka izaho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:50:45.067565745Z",
+  "model": "glm-5.3"
+}

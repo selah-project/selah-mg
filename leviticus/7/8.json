@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary ny mpisoro izay manatitra ⟨את⟩ ny fanatitra doran'olona iray, ny hoditr'io fanatitra dorana nentiny io no ho an'ny mpisoro; dia azy izany.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "Ary ny mpisoro"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "izay manatitra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanatitra doran'olona iray"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "fanatitra dorana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona iray"
+    },
+    {
+      "surface": "עור",
+      "gloss": "hoditra"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "io fanatitra dorana io"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "nentiny"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ho an'ny mpisoro"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dia izany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:12:46.388183908Z",
+  "model": "glm-5.3"
+}

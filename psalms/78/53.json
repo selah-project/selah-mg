@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Ary nitarika azy tamin'ny fiadanana Izy, ka tsy natahotra izy; fa ny ranomasina no nanarona ⟨את⟩ ny fahavalony.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "nitarika azy"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "tamin'ny fiadanana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "natahotra izy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahavalony"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ny fahavalony"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "nanarona"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ny ranomasina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:33.423045118Z",
+  "model": "glm-5.3"
+}

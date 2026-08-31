@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Manao ⟨את⟩ ny latabatra eo anoloako ianao, tandrifin'ny fahavaloiko; efa nohosoranao tamin'ny diloilo ny lohako; ny kapoaka dia feno ho fahafaham-panina.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "Manao"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anoloako"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "ny latabatra"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "tandrifin'ny"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "fahavaloiko"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "efa nohosoranao"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "tamin'ny diloilo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ny lohako"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "ny kapoaka"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "feno ho fahafaham-panina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:28.335493122Z",
+  "model": "glm-5.3"
+}

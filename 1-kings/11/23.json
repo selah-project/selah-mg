@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary nitsangana hampananary azy Elohim: ⟨את⟩ Rezonona, zanak'i Elyada, izay nandositra tamin'i ⟨את⟩ Hadadezera, mpanjakan'i Zoba, tompo ny azy.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Ary nitsangana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hampananary azy"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "mpifanandrina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezonona"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezonona"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Elyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "nandositra tamin'ny"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezera"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'ny"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Zoba"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "tompoo ny azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:45:14.081698092Z",
+  "model": "glm-5.3"
+}

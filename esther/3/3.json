@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary hoy ny mpanompon'ny mpanjaka izay tao amin'ny vavahadin'ny mpanjaka tamin'i Mordekai: Nahoana no ianao no mandika ⟨את⟩ didin'ny mpanjaka?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mpanompon'"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "tao amin'ny vavahadin'"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "tamin'i Mordekai"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Nahoana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "mandika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "didin'ny mpanjaka"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "didin'"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    }
+  ],
+  "timestamp": "2026-08-31T17:19:04.291371358Z",
+  "model": "glm-5.3"
+}

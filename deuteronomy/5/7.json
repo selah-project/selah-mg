@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Tsy hisy andriamanitra hafa ho anao eo anatrehaniko.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hisy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "andriamanitra"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "hafa"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo anatrehan'"
+    },
+    {
+      "surface": "פני",
+      "gloss": "iko"
+    }
+  ],
+  "timestamp": "2026-08-31T13:41:08.599730246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Niantsoantso izy fa tsy nisy mpamonjy; tamin'i Yahveh, fa tsy namaly azy Izy.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "Niantsoantso"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "fa tsy nisy"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "mpamonjy"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "namaly azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:28.672743579Z",
+  "model": "glm-5.3"
+}

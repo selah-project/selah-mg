@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ho an'ny mpitarika ⟨amin'ny⟩ fahavalo, tononkira ho an'i Davida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho an'ny mpitarika"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨amin'ny⟩"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "fahavalo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "tononkira"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ho an'i Davida"
+    }
+  ],
+  "timestamp": "2026-08-31T18:13:14.578901625Z",
+  "model": "glm-5.3"
+}

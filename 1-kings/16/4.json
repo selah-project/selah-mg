@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Izay maty amin'ny an'i Baasha ao an-tanàna dia hohanin'ny ambarina, ary izay maty amin'ny azy any an-tsaha dia hohanin'ny vorona mpamididina.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Izay maty"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "amin'ny an'i Baasha"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ao an-tanàna"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "hohanin'ny"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "ambarina"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "ary izay maty"
+    },
+    {
+      "surface": "לו",
+      "gloss": "amin'ny azy"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "any an-tsaha"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "hohanin'ny"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "vorona"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "mpamididina"
+    }
+  ],
+  "timestamp": "2026-08-31T14:47:17.835317078Z",
+  "model": "glm-5.3"
+}

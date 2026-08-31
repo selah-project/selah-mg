@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 1:15",
+  "book": "lamentations",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Nitsimbahin'ny Adonay ny mahery rehetra ato amiko; niantso fotoana voatondro hamely ahy Izy, hanorotoroana ny tanorako; fanetezam-boalavo no nanehezany, ny Adonay, ho an'ny virijina, zanakavavin'i Yehuda.",
+  "tokens": [
+    {
+      "surface": "סלה",
+      "gloss": "Nitsimbahiny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ato amiko"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "hamely ahy"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fotoana voatondro"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "hanorotoroana"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "tanorako"
+    },
+    {
+      "surface": "גת",
+      "gloss": "fanetezam-boalavo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nanehezany"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "לבתולת",
+      "gloss": "ho an'ny virijina"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanakavavin'i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-31T18:17:27.445029880Z",
+  "model": "glm-5.3"
+}

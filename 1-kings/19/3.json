@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary rehefa hitany izany dia niainga izy ka lasa hiaro ny ainy, ary tonga tao Be'er-Sheva izay an'i Yehuda, ary nampilamina teo ⟨את⟩ zatovony.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "rehefa hitany izany"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "niainga izy"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "lasa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hiaro ny"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ainy"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "tonga tao"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Be'er-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay an'i"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "nampilamina teo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zatovony"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "zatovony"
+    },
+    {
+      "surface": "שם",
+      "gloss": "teo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:48:00.378288993Z",
+  "model": "glm-5.3"
+}

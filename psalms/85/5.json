@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 85,
+  "translation": "Averinao hiverina anay, Elohim mpamonjy anay, ka ario ny fahatezeranao amintsika.",
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Averinao hiverina anay"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "mpamonjy anay"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "ka ario"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "ny fahatezeranao"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "amintsika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:13.291330640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 103,
+  "translation": "Izay mahavoky tsara ⟨את⟩ ny fitaovanao, ka havaozina ny fahatanoranao toy ny neser.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "Izay mahavoky"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "ny fitaovanao"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "havaozina"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "toy ny neser"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "ny fahatanoranao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:17.148430627Z",
+  "model": "glm-5.3"
+}

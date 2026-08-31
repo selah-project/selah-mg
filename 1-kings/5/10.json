@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary ny fahendren'i Shelomo dia nihanalehibe noho ny fahendren'ny zanak'i Kedema rehetra sy noho ny fahendrena rehetra ivelan'i Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "nihanalehibe"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "fahendrena"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "noho ny fahendren'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Kedema"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "sy noho ny ... rehetra"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "fahendrena"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T14:40:54.298545530Z",
+  "model": "glm-5.3"
+}

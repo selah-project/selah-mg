@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary hapetrany izy sy ⟨את⟩ ny fitaovany rehetra ao anaty fonon-tanhidahy, ary hapetrany eo amin'ny baranihany.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "hapetrany"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ny fanaovan-jiro voasitrana)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fitaovany rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "fitaovany"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ao anaty"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "fonony"
+    },
+    {
+      "surface": "עור",
+      "gloss": "hoditra"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tanhidahy"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "hapetrany"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "baranihany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:25:00.205350224Z",
+  "model": "glm-5.3"
+}

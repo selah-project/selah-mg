@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 6:8",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary fehezo ireny ho famantarana eo an-tananao, ary ho peratra eo anelanelan'ny masonao ireny.",
+  "tokens": [
+    {
+      "surface": "וקשרתם",
+      "gloss": "Ary fehezo"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "ho famantarana"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "an-tananao"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ary ho"
+    },
+    {
+      "surface": "לטטפת",
+      "gloss": "peratra"
+    },
+    {
+      "surface": "בין",
+      "gloss": "eo anelanelan'ny"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "masonao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:41:03.294919184Z",
+  "model": "glm-5.3"
+}

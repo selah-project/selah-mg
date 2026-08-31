@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 56,
+  "translation": "Ary izay andy hiantsoiko, hiverina mihemotra ny fahavaloko; izany no fantatro, fa Elohim no amiko.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ary izay andy"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "hiverina"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ny fahavaloko"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "mihemotra"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "hiantsoiko"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izany"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "no fantatro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:17.234998806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 21:25",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Nefa tsy nisy mba toy an'i Achav, izay nivarotra tena hanao ny ratsy eo imason'i Yahveh, sady Izebela vadiny no nampirehitra azy ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "nefa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nisy"
+    },
+    {
+      "surface": "כאחאב",
+      "gloss": "toy an'i Achav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "התמכר",
+      "gloss": "nivarotra tena"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ny ratsy"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "eo imason'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sady"
+    },
+    {
+      "surface": "הסתה",
+      "gloss": "nampirehitra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (Achav)"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebela"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vadiny"
+    }
+  ],
+  "timestamp": "2026-08-31T14:50:53.380706901Z",
+  "model": "glm-5.3"
+}

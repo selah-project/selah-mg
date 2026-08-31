@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Velona Yahveh Elohiminao — raha misy firenena na fanjakana tsy nankany nirian'ny tompoko hitady anao, ka hoy ireo: Tsy hita izy; dia nampianiana ⟨את⟩ ilay fanjakana sy ⟨את⟩ ilay firenena fa tsy hita ianao.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Velona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminao"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "יש",
+      "gloss": "misy"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "na fanjakana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nankany"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ny tompoko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "niriany"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "hitady anao"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ka hoy ireo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Tsy hita izy"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "dia nampianiana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay fanjakana"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ilay fanjakana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ilay firenena"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ilay firenena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "hita ianao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:04:21.175834388Z",
+  "model": "glm-5.3"
+}

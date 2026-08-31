@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 68,
+  "translation": "Ry fanjakana ⟨≈rehefa manana endrika maromaro ireo ny teny hoe fanjakana eto amin'ny endrika ploraly⟩ amin'ny tany, mihira ho an'i Elohim, mizatra ho an'i Adonay, Selah.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "fanjakana"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "mihira ianareo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ho an'i Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "mizatra ianareo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:18.570338350Z",
+  "model": "glm-5.3"
+}

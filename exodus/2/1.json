@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary nandeha lehilahy avy tamin'ny taranak'i Levi, ka naka vady ⟨את⟩ zazavavy avy amin'ny taranak'i Levi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "avy tamin'ny taranak'i"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ka naka vady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zazavavy avy amin'ny taranak'i Levi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zazavavy"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-08-31T12:54:34.537085174Z",
+  "model": "glm-5.3"
+}

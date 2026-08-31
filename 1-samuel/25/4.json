@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary renin'i Davida tany an-efitra fa Nabala manety ny ondriny ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ary renin'"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "i Davida"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "tany an-efitra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "manety"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ondriny"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "ny ondriny"
+    }
+  ],
+  "timestamp": "2026-08-31T14:24:56.653696373Z",
+  "model": "glm-5.3"
+}

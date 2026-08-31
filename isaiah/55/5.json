@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 55:5",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 55,
+  "translation": "Indro, firenena tsy fantatrao no hiantsoanao, ary firenena tsy nahalala anao hanatona haingana ho aminao, noho i Yahveh, ⟨Elohim⟩-nao, sy noho ny Iray Masin'ny Isiraely, fa Izy no efa nampomba anao.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "fantatrao"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "hiantsoanao"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "ary firenena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "nahalala anao"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ho aminao"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "hanatona haingana"
+    },
+    {
+      "surface": "למען",
+      "gloss": "noho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nao"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "sy noho ny Iray Masin'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "פארך",
+      "gloss": "nampomba anao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:18:46.604347415Z",
+  "model": "glm-5.3"
+}

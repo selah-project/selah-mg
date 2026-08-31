@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary Adam velona telo-polo amby zato taona, dia niteraka zaza tamin'ny endrika tahaka azy, araka ny sariny, ary niantso ny anarany hoe Shet ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Ary velona"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "telo-polo"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "amby zato"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dia niteraka"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "tamin'ny endrika tahaka azy"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "araka ny sariny"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ary niantso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "gloss_note": "",
+      "marks": "ny anarany"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:16.025220001Z",
+  "model": "glm-5.3"
+}

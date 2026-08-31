@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Fa ⟨את⟩ Binyamina rahalahin'i Yosef kosa tsy nalefan'i Yaakov tamin'ny rahalahiny, fa hoy izy: Fandrao manjo azy loza.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binyamina"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyamina"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "rahalahin'i"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nalefan'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tamin'ny rahalahiny"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "tamin'ny rahalahiny"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa hoy izy:"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hoy izy:"
+    },
+    {
+      "surface": "פן",
+      "gloss": "Fandrao"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "manjo azy"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "loza"
+    }
+  ],
+  "timestamp": "2026-08-31T12:50:48.124406948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Tsy hitoetra ao amin'ny taninao izy ireo, fandrao hampidy olo aminay izy noho ny fanompoam-pivavahana ataonao amin'ireo andriamaniny, fa ho fanilo ho anao izany.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "hitoetra"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ao amin'ny taninao"
+    },
+    {
+      "surface": "פן",
+      "gloss": "fandrao"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "hampidy olo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ anao",
+      "marks": "anao (zay ataon'ny fahotana)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aminay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "noho ny"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "fanompoam-pivavahana ataonao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ireo andriamaniny"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ireo andriamaniny"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "fanilo"
+    }
+  ],
+  "timestamp": "2026-08-31T19:02:00.375508535Z",
+  "model": "glm-5.3"
+}

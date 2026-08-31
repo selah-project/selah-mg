@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "manamana ny haniny amin'ny fahavaratra, ary mamory ny sakafo azy amin'ny fararano.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "manamana"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "amin'ny fahavaratra"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "ny haniny"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "ary mamory"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "amin'ny fararano"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "ny sakafo azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:50:01.921501355Z",
+  "model": "glm-5.3"
+}

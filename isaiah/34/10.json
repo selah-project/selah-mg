@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 34:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Tsy hatono amin'ny alina na amin'ny andro; hiakatra mandrakizay ny setroka; ho rava amin'ny taranaka sy taranaka; amin'ny fara mandrakizay tsy misy mandalo ao.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "amin'ny alina"
+    },
+    {
+      "surface": "ויומם",
+      "gloss": "na amin'ny andro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "hatono"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "hiakatra"
+    },
+    {
+      "surface": "עשנה",
+      "gloss": "ny setroka"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "amin'ny taranaka"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "sy taranaka"
+    },
+    {
+      "surface": "תחרב",
+      "gloss": "ho rava"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "amin'ny fara"
+    },
+    {
+      "surface": "נצחים",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "mandalo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:12:28.502367746Z",
+  "model": "glm-5.3"
+}

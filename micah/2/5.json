@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 2:5",
+  "book": "micah",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Koa tsy hisy ho anao hanary tady amin'ny filokana, ao amin'ny fiangonan'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Koa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "hisy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "משליך",
+      "gloss": "hanary"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "tady"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "amin'ny filokana"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ao amin'ny fiangonana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:14:29.886458956Z",
+  "model": "glm-5.3"
+}

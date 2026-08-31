@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary nankezin'i Aharon ny alitara, ka namono ⟨את⟩ ny zanak'omby fanatitra ho an'ny fahotana, ilay natao ho azy.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "nankezin'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ny alitara"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "namono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanak'omby fanatitra ho an'ny fahotana"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "zanak'omby"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "fanatitra ho an'ny fahotana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "natao ho azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:13:57.311762843Z",
+  "model": "glm-5.3"
+}

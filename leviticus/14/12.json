@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary ny mpisorona haka ⟨את⟩ ilay zanak'ondry iray ka hanatona ⟨את⟩ azy ho fanatitra fandoavana, ary ⟨את⟩ ny log diloilo, ary hizondroka ⟨את⟩ azy ireo ho entin-dzondroka eo anoloan'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "haka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay zanak'ondry"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "zanak'ondry"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "hanatona"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "ho fanatitra fandoavana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny log"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "diloilo"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "hizondroka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy ireo"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "ho entin-dzondroka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anoloan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:16:41.446168448Z",
+  "model": "glm-5.3"
+}

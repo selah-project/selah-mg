@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary tonga tany amin'izy roa lahy Yoseta maraina, ka hitany ⟨את⟩ izy ireo, ary indreo izy malohaloha.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "tany amin'izy roa lahy"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoseta"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "maraina"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "hitany"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izy ireo"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "ary indreo"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "malohaloha"
+    }
+  ],
+  "timestamp": "2026-08-31T12:49:05.789005274Z",
+  "model": "glm-5.3"
+}

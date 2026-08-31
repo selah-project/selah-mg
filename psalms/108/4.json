@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 108:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 108,
+  "translation": "Hisaotra anao aho amin'ny firenena, ry Yahveh, ary handefa hira fanomezam-bahiny anao amin'ny jentilisa.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Hisaotra anao aho"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "amin'ny firenena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "ואזמרך",
+      "gloss": "ary handefa hira fanomezam-bahiny anao"
+    },
+    {
+      "surface": "בל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "jentilisa"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:57.351845243Z",
+  "model": "glm-5.3"
+}

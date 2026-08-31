@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 6:8",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "dia naniraka lehilahy mpaminatra Yahveh ho any amin'ny zanak'Isiraely, ka nanao taminy hoe: Izao no lazain'i Yahveh, Elohin'ny Isiraely: Izaho no nampakatra anareo ⟨את⟩ avy tany Mitsrayim, ary nampivoaka anareo ⟨את⟩ avy tao amin'ny tranomaso.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "dia naniraka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "mpaminatra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Izao"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "no lazain'ny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "no nampakatra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "avy tany Mitsrayim"
+    },
+    {
+      "surface": "ואציא",
+      "gloss": "ary nampivoaka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "avy tao amin'ny trano"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "maso"
+    }
+  ],
+  "timestamp": "2026-08-31T14:07:14.544298227Z",
+  "model": "glm-5.3"
+}

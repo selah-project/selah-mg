@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 42:12",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Hanome voninahitra ho an'i Yahveh ireo, ary hitory ny fiderana azy any amin'ny nosy.",
+  "tokens": [
+    {
+      "surface": "ישימו",
+      "gloss": "hanome"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "voninahitra"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "ary ny fiderana azy"
+    },
+    {
+      "surface": "באיים",
+      "gloss": "any amin'ny nosy"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "hitory"
+    }
+  ],
+  "timestamp": "2026-08-31T15:14:56.017432250Z",
+  "model": "glm-5.3"
+}

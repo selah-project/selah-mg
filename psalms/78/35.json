@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Ary nahatsiaro izy fa Elohim no vatolampy avo azy, ary El Elyon no mpanavotra azy.",
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "Ary nahatsiaro izy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "no vatolampy avo azy"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "no mpanavotra azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:41.432473889Z",
+  "model": "glm-5.3"
+}

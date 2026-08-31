@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Sisa navelan'ny gazama dia nohanin'ny arbeh, ary sisa navelan'ny arbeh dia nohanin'ny yelek, ary sisa navelan'ny yelek dia nohanin'ny hasil.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "Sisa"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "nave lan'ny gazama"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nohanin'ny"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbeh"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "sisa"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "nave lan'ny arbeh"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nohanin'ny"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "yelek"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "sisa"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "nave lan'ny yelek"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nohanin'ny"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "hasil"
+    }
+  ],
+  "timestamp": "2026-08-31T16:09:33.778901119Z",
+  "model": "glm-5.3"
+}

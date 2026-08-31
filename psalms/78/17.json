@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Kanefa nanohy nanota taminy indray izy ireo, ka niodina tamin'i Elyon tany amin'ny tany maina.",
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "nanohy... indray izy ireo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "indray"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "nanota"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "niodina"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "tany amin'ny tany maina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:11.925615372Z",
+  "model": "glm-5.3"
+}

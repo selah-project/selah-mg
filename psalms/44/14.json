@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 44:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Ataonao fahafaham-baraka eo anatrehan'ny namanao izahay, ho fabo sy ho fihomehezana amin'izay manodidina anay.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "ataonao"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "fahafaham-baraka"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "eo anatrehan'ny namanao"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "fabo"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "sy fihomehezana"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "amin'izay manodidina anay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:30:12.568925221Z",
+  "model": "glm-5.3"
+}

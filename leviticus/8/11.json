@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary narnasany ny sasany taminy teo ambonin'ny alitara impito, ary nanosotra ⟨את⟩ ny alitara sy ⟨את⟩ ny fitaovany rehetra sy ⟨את⟩ ny sinibe fanasana sy ⟨את⟩ ny fototrany, mba hanamasina azy.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "narnasany"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ny sasany taminy"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo ambonin'ny"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "impito"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "fandexa"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "nanosotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alitara"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "fitaovany rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "fitaovany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "sinibe fanasana"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "sinibe fanasana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "fototrany"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "fototrany"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "mba hanamasina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:13:50.584901783Z",
+  "model": "glm-5.3"
+}

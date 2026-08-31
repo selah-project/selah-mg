@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary Yehuda niteny tamin'ny rahalahiny: Inona no soa azo raha vonoinay ⟨את⟩ ny rahalahintsika ka takafenay ⟨את⟩ ny rany?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "niteny"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "rahalahiny"
+    },
+    {
+      "surface": "מה",
+      "gloss": "inona"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "soa azo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "raha"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "vonoinay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rahalahintsika"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "rahalahintsika"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "takafenay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rany"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "rany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:50:05.128485316Z",
+  "model": "glm-5.3"
+}

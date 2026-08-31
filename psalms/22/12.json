@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Aza lavitra anivon'ny tsy hita diany ahy, fa akaiky ny fahoriana; fa tsy misy mpamonjy (intsony).",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "mivarina lavitra (mibetsika aza misarika)"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "amiko (avy amiko)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ny fahoriana (tsy fahampian'ny toerana)"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "akaiky"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "mpamonjy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:15.930576384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Raha namono azy Izy, dia nitady Azy ireo, dia niverina ka nila mafy an'i El.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "namono azy"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "dia nitady Azy"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "dia niverina"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "ka nila mafy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an'i El"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:41.432281041Z",
+  "model": "glm-5.3"
+}

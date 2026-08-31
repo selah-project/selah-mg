@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Izany koa ⟨את⟩ dia ho entina ho any Ashora, ho fanatitra ho an'ny mpanjaka Yareb; hahamenatra an'i Efraima izany, ary hiteny ho mena ny Isiraely noho ny fisainany.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "Izany"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "ho any Ashora"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "ho entina"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ho fanatitra"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ho an'ny mpanjaka"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Yareb"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "hahamenatra"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "an'i Efraima"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "izany"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "hiteny ho mena"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ny Isiraely"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "noho ny fisainany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:09:39.453456003Z",
+  "model": "glm-5.3"
+}

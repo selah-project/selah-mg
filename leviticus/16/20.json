@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary rehefa vita ny fanavotana ⟨את⟩ ny fitoerana masina sy ⟨את⟩ lain'ny fihaonana ary ⟨את⟩ ny alitara, dia hampandrosoiny ⟨את⟩ ilay osilahy velona.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "Ary rehefa vita"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "ny fanavotana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitoerana masina"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ny fitoerana masina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "lain'ny fihaonana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "lain'ny"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny alitara"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ny alitara"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "dia hampandrosoiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay osilahy velona"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "osilahy"
+    },
+    {
+      "surface": "החי",
+      "gloss": "velona"
+    }
+  ],
+  "timestamp": "2026-08-31T13:17:08.361639794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Tanolotr'ianao ho anao amin'ny zorony efatra amin'ny akanjo fonenanao, izay itafenanao.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "tanolotra"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "Tanolotr'ianao"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "efatra"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "zorony"
+    },
+    {
+      "surface": "כסותך",
+      "gloss": "akanjo fonenanao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "itafenanao"
+    },
+    {
+      "surface": "בה",
+      "gloss": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:47:32.386473829Z",
+  "model": "glm-5.3"
+}

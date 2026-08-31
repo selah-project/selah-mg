@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary hoy izy amin'ny vahoakany: Indro, ny vahoakan'ny taranak'i Yisraela be sady mahery noho isika.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "vahoakany"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "עם",
+      "gloss": "vahoakan'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taranaka"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "רב",
+      "gloss": "be"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "sady mahery"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "noho isika"
+    }
+  ],
+  "timestamp": "2026-08-31T12:54:41.475287297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Tsy tamin'ny razantsika no nanaovan'i Yahveh ⟨את⟩ ity fanekena ity, fa amintsika izahay — ireto — eto anio, isanay rehetra velona.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny razantsika"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ny razantsika"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "nanaovan-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ity fanekena ity"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "fanekena"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ity ... ity"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ amin-tsika"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "izahay"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ireto"
+    },
+    {
+      "surface": "פה",
+      "gloss": "eto"
+    },
+    {
+      "surface": "היום",
+      "gloss": "anio"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "isanay rehetra"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "velona"
+    }
+  ],
+  "timestamp": "2026-08-31T13:40:59.774850971Z",
+  "model": "glm-5.3"
+}

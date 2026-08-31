@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 98,
+  "translation": "Amin'ny trompetra sy feon'ny shofara, miantsoantso eo anatrehan'ny Mpanjaka, Yahveh.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Amin'ny trompetra"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "sy feo"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ny shofara"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "miantsoantso"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anatrehan'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny Mpanjaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:26.383030970Z",
+  "model": "glm-5.3"
+}

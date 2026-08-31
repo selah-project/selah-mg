@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Enta-mavesatra an'i Damaseka: Indro, esorina tsy ho tanàna intsony Damaseka, ka ho tonga ⟨antonta⟩ faharavana.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "enta-mavesatra"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "an'i Damaseka"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaseka"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "esorina"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "tsy ho tanàna intsony"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ka ho tonga"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "antonta"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "faharavana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:07:06.150300677Z",
+  "model": "glm-5.3"
+}

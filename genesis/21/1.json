@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary Yahveh nitsidika an'i ⟨את⟩ Sarahah araka ny nolazainy, ary Yahveh nanao tamin'i Sarahah araka ny nolazainy.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ary Yahveh"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "nitsidika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Sarahah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarahah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nolazainy"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ary nanao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "tamin'i Sarahah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nolazainy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:40:08.632334382Z",
+  "model": "glm-5.3"
+}

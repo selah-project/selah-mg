@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Raha manatona ahy ny mpanao ratsy hanina ⟨את⟩ ny nofon'aho — mpifaninana ahy sy fahavalo ahy — dia izy no niondrika sy lavo.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "Raha manatona"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ny mpanao ratsy"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "hanina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny nofon'aho"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ny nofon'aho"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "mpifaninana ahy"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "sy fahavalo ahy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "niondrika"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "sy lavo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:28.274249766Z",
+  "model": "glm-5.3"
+}

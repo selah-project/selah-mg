@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 27:8",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ary Davida niakatra mbamin'ny lehilahiny, ka nanafika ny Geshorita sy ny Gerzita sy ny Amalekita; fa ⟨izy ireo⟩ no mponina talohan'ny fahagola tao amin'ny tany, rehefa avy midina mankany Shora ianao, ka hatrany amin'ny tanin'i Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "niakatra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "mbamin'ny lehilahiny"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "nanafika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ny"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "Geshorita"
+    },
+    {
+      "surface": "והגרזי",
+      "gloss": "Gerzita"
+    },
+    {
+      "surface": "והעמלקי",
+      "gloss": "Amalekita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨izy ireo⟩"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "no mponina"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tao amin'ny tany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "talohan'ny fahagola"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "rehefa avy midina ianao"
+    },
+    {
+      "surface": "שורה",
+      "gloss": "mankany Shora"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatrany amin'ny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tanin'i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T14:26:20.230308810Z",
+  "model": "glm-5.3"
+}

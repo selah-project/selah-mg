@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 69,
+  "translation": "Vonjeo aho amin'ny fangaringa, mba tsy ho rifta; aoka ho voavonjy aho amin'ny mpankahala ahy sy avy amin'ny lalina misy rano.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Vonjeo aho"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "amin'ny fangaringa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mba tsy"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "ho rifta"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "aoka ho voavonjy aho"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "amin'ny mpankahala ahy"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "sy avy amin'ny lalina"
+    },
+    {
+      "surface": "מים",
+      "gloss": "misy rano"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:58.324072296Z",
+  "model": "glm-5.3"
+}

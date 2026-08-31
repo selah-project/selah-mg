@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 147,
+  "translation": "Mandefa ny teniny izy ka manelanelanela azy; mandatsaka rivotrany izy dia mikoriana ny rano.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "mandefa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ny teniny"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "ka manelanelanela azy"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "mandatsaka"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "rivotrany"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "mikoriana"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ny rano"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:35.033745290Z",
+  "model": "glm-5.3"
+}

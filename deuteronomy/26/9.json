@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary nitondra anay ho amin'ity toerana ity izy, ary nomeny anay ⟨את⟩ ity tany ity, tany mikoriana ⟨את⟩ ronono sy tantely.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "nitondra anay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho amin'ity"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "toerana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nomeny"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ity tany ity"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ity"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "mikoriana"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ronono"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "sy tantely"
+    }
+  ],
+  "timestamp": "2026-08-31T13:49:12.310551619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Koza amin'ireo no ﬁtaranahan'ny mpanomponao; amin'ny fitandremana azy dia misa valiny lehibe.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "koza amin'ireo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ny mpanompokao"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "voatarika hitandrina"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "amin'ireo"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "amin'ny fitandremana azy"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "valiny\/faovana"
+    },
+    {
+      "surface": "רב",
+      "gloss": "lehibe"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:23.189612873Z",
+  "model": "glm-5.3"
+}

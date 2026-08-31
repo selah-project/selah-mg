@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary Shemuela niteny tamin'ny mpandrahom-bihy hoe: Omeo ⟨את⟩ ilay anjara izay nomenako anao, izay nolazaiko taminao hoe: Apetraho azy eo aminao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "niteny"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuela"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "tamin'ny mpandrahom-bihy"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "omeo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay anjara"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "ilay anjara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nomenako"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nolazaiko"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "taminao"
+    },
+    {
+      "surface": "שים",
+      "gloss": "apetraho"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "eo aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:17:58.035038490Z",
+  "model": "glm-5.3"
+}

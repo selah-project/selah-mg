@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 59,
+  "translation": "Aza mamono azy, fandrao hadinoin'ny oloko izany; amparenireny amin'ny herinao izy, ka ampidino, ry Adonay, ampinganay.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "mamono azy"
+    },
+    {
+      "surface": "פן",
+      "gloss": "fandrao"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "hadinoin'ny"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "oloko"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "amparenireny"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "amin'ny herinao"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "ka ampidino"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "ampinganay"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ry Adonay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:40.290288516Z",
+  "model": "glm-5.3"
+}

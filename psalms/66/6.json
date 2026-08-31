@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 66,
+  "translation": "Nanova ny ranomasina ho tany maina ⟨Izy⟩; niampita tamin'ny renirano amin'ny tongotra ⟨izy⟩; teo dia nifaly taminy izahay.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Nanova"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ny ranomasina"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "ho tany maina"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "tamin'ny renirano"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "niampita"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "amin'ny tongotra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "teo"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "nifaly"
+    },
+    {
+      "surface": "בו",
+      "gloss": "taminy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:27.510681470Z",
+  "model": "glm-5.3"
+}

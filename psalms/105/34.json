@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Nolazainy ⟨fa⟩ tonga ny valala sy ny samyvalala, ka tsy nisy nanisana azy.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Nolazainy"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "fa tonga"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ny valala"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "sy ny samyvalala"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ka tsy nisy"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "nanisana azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:56.856763184Z",
+  "model": "glm-5.3"
+}

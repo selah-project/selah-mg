@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ireo no izay nanadiovana ⟨את⟩ ny Yardena tamin'ny volana voalohany, feno mamakivaky ny morony rehetra izy, ka nandositra ny lohasaha rehetra ⟨⟨את⟩⟩ tany atsinanana sy tany andrefana.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ireo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "no izay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "nanadiovana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Yardena"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardena"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "tamin'ny volana"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "voalohany"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "fa izy"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "feno"
+    },
+    {
+      "surface": "על",
+      "gloss": "mamakivaky"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "morony"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "ka nandefa nandositra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lohasaha rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "lohasaha"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "tany atsinanana"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "sy tany andrefana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:38:18.508379635Z",
+  "model": "glm-5.3"
+}

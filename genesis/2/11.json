@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ny anaran'ny voalohany dia Pishona: izy no manodidina ⟨את⟩ ny tany rehetra any Havila, izay misy volamena.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Ny anaran'ny"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "voalohany"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Pishona"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "no manodidina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany rehetra any Havila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "any Havila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay misy"
+    },
+    {
+      "surface": "שם",
+      "gloss": "any"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "volamena"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:24.837796609Z",
+  "model": "glm-5.3"
+}

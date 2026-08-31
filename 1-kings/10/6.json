@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary hoy izy tamin'ny mpanjaka: marina ⟨ny⟩ teny izay reko tany amin'ny taniko, momba ny teninao sy ny fahendrenao.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "marina"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨izy⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "reko"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "tany amin'ny taniko"
+    },
+    {
+      "surface": "על",
+      "gloss": "momba ny"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "teninao"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy momba ny"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "fahendrenao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:43:30.916234150Z",
+  "model": "glm-5.3"
+}

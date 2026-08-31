@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 30:29",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary hoy izy taminy: Hianao mahalala ⟨את⟩ izay nopotehiko sy ⟨את⟩ izy tonga teo amiko ⟨את⟩ ny fanananao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Hianao"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay nopotehiko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "nopotehiko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izy tonga teo amiko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izy"
+    },
+    {
+      "surface": "היה",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "ny fanananao"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ teo amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T12:46:14.755255645Z",
+  "model": "glm-5.3"
+}

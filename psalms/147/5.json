@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 147,
+  "translation": "Lehibe ny Adonay ⟨nay⟩, ary be heriny; tsy misy fandrefesana ny fahalalany.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Lehibe"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "ny Adonay ⟨nay⟩"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ary be"
+    },
+    {
+      "surface": "כח",
+      "gloss": "heriny"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "ny fahalalany"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "fandrefesana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:06.671441974Z",
+  "model": "glm-5.3"
+}

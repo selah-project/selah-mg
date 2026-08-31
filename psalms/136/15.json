@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 136,
+  "translation": "Ary nifintina Parao sy ny tafiny tao anaty ranomasin'ny zozoro, fa ho mandrakizay ny hesediny.",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "nifintina"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "sy ny tafiny"
+    },
+    {
+      "surface": "בים",
+      "gloss": "tao anaty ranomasina"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "zozoro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho mandrakizay"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ny hesediny"
+    }
+  ],
+  "timestamp": "2026-08-31T18:47:44.846680603Z",
+  "model": "glm-5.3"
+}

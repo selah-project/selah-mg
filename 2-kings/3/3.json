@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Fa amin'ny fahotan'i Yeroboama zanak'i Nebata izay nampahota ⟨את⟩ an'i Isiraely kosa dia nifikitra izy, fa tsy niala tamin'izany.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Fa... kosa"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "amin'ny fahotan'i"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yeroboama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "nampahota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Isiraely"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "nifikitra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "סר",
+      "gloss": "niala"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "tamin'izany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:50:28.017628601Z",
+  "model": "glm-5.3"
+}

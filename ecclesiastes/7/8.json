@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Tsara ny faran'ny teny noho ny fiandohany; tsara ny fanahy maharitra noho ny fanahy miakatra.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Tsara"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ny faran'ny"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "teny"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "noho ny fiandohany"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "maharitra"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ny fanahy"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "noho ny miakatra"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fanahy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:53.167374257Z",
+  "model": "glm-5.3"
+}

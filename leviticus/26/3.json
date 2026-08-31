@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Raha mandeha amin'ny didiko ianareo, ary ⟨את⟩ ny didiko tandremano ka tanterakao ⟨את⟩ izany:",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "amin'ny didiko"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny didiko"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ny didiko"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "tandremono"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ka tanterakao"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ izany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:20:23.091593642Z",
+  "model": "glm-5.3"
+}

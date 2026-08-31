@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Indro, an'i Yahveh Elohimina ny lanitra sy ny lanitry ny lanitra, ny tany ary mbamin'izay rehetra ao aminy.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimina"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "sy ny lanitry"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary mbamin'izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ao aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:42:32.655496383Z",
+  "model": "glm-5.3"
+}

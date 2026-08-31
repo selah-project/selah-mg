@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ny fandriana rehetra izay itoeran'ilay mifivoatra ho maloto, ary ny fanaka rehetra izay ipetrahany koa ho maloto.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "ny fandriana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "mandry"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "eo amboniny"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "ilay mifivoatra"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ho maloto"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ny... rehetra"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "fanaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "mipetraka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "eo amboniny"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ho maloto"
+    }
+  ],
+  "timestamp": "2026-08-31T13:16:36.524631369Z",
+  "model": "glm-5.3"
+}

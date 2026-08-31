@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 118:19",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 118,
+  "translation": "Sokafy ho ahy ny vavahadin'ny fahamarinana, hiditra ao aho ka hidera an'i Yah.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "Sokafy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "ny vavahadin'ny"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "fahamarinana"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "hiditra ao aho"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ao"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ka hidera"
+    },
+    {
+      "surface": "יה",
+      "gloss": "an'i Yah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:29.607006339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 11:8",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Fa na dia taona maro no iveloman'ny olona aza, aoka ho faly amin'izy rehetra izy, ary aoka hahatsiaro ⟨את⟩ ny andron'ny maizina izy, fa maro no ho tonga; fahavainoana ny avy rehetra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "na dia... aza"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taona"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "maro"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "no iveloman'"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "בכלם",
+      "gloss": "amin'izy rehetra"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "aoka ho faly"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "ary aoka hahatsiaro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny andro"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ny andron'ny"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "maizina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "maro"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "no ho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny avy rehetra"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "fahavainoana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:17:08.982487395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary tamin'izay andro izay Yehoshoa niverina ka nahazo an'i ⟨את⟩ Hatsora, ary ⟨את⟩ mpanjakany nomehy tamin'ny sabatra; fa Hatsora fahiny no lohan'ireo fanjakana rehetra ireo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "niverina"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoa"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "tamin'izay andro"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "izay"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ka nahazo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hatsora"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "mpanjakany"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "mpanjakany"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "nomehy"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "tamin'ny sabatra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsora"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "fahiny"
+    },
+    {
+      "surface": "היא",
+      "gloss": "no"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "lohan'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "reo... rehetra"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "fanjakana"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:00:21.352018580Z",
+  "model": "glm-5.3"
+}

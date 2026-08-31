@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary tonga tao amin'ny tanàna David sy ny lehilahy tao aminy, ary indro efa may tamin'ny afo izy, ary ny vadiny sy ny zanany lahy ary ny zanany vavy dia lasa babo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ary tonga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "sy ny lehilahy tao aminy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tao amin'ny"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ary indro"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "efa may"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tamin'ny afo"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "ary ny vadiny"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "sy ny zanany lahy"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "ary ny zanany vavy"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "lasa babo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:27:06.332452487Z",
+  "model": "glm-5.3"
+}

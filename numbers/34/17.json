@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 34:17",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ireto no anaran'ny lehilahy izay hampandova an'i⟨את⟩ny tany ho anareo: Elazar ilay mpisorona sy Yehoshua zanak'i Nun.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ireto"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "anaran'ny"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "hampandova"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ily mpisorona"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "sy Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    }
+  ],
+  "timestamp": "2026-08-31T13:38:29.433271673Z",
+  "model": "glm-5.3"
+}

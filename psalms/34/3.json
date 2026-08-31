@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Amin'i Yahveh no mirehareha ny fanahiko; aoka hihaino ny fandeferana sy hifaly.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Amin'i Yahveh"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "mirehareha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny fanahiko"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "aoka hihaino"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ny fandeferana"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "sy hifaly"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:04.610404240Z",
+  "model": "glm-5.3"
+}

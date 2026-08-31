@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Ny tanàna rehetra izay homenareo ho an'ny Levita dia efatra amby valo-polo; ⟨את⟩ ireo sy ⟨את⟩ ny tany malalaka momba azy no homeo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "homenareo"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ho an'ny Levita"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "efatra amby valo-polo"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": ""
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "⟨את⟩",
+      "marks": "ireo (tanàna efatra amby valo-polo)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany malalaka momba azy"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "ny tany malalaka momba azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:39:19.296801211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Amin'ny fiadanana no hitsipahako sy hatory, fa ianao, Yahveh, irery ihony, no mampitoeriko amin'ny fiarovana.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "amin'ny fiadanana"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "miaraka"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "hitsipahako"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "sy hatory"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "irery ihony"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "amin'ny fiarovana"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "mampitoeriko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:14.312290749Z",
+  "model": "glm-5.3"
+}

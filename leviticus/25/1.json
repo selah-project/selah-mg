@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Yahveh niteny tamin'i Moshe tao an-tendrombohitra Sinay, ka nanao hoe:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "niteny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "tao an-tendrombohitra"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T13:21:37.016548962Z",
+  "model": "glm-5.3"
+}

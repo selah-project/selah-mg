@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 112,
+  "translation": "Ny ratsy fanahy hahita ka hibanjy, hitaniny ny nifony, ary ho levona; ho very ny fanirian'ny ratsy fanahy.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Ny ratsy fanahy"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "hahita"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ka hibanjy"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "ny nifony"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "hitaniny"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "ary ho levona"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "ny fanirian'"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ho very"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:22.113286881Z",
+  "model": "glm-5.3"
+}

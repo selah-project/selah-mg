@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 78:18",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Ary nanandrana an'i Elohim tao an-tsainy izy ireo, ka nangataka sakafo ho an'ny fanahiny.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "nanandrana... izy ireo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "tao an-tsainy"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "nangataka"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "sakafo"
+    },
+    {
+      "surface": "לנפשם",
+      "gloss": "ho an'ny fanahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:11.926240503Z",
+  "model": "glm-5.3"
+}

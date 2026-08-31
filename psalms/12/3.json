@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Shava no lazarain'ny olona samirery amin'ny namany; molotra mandrapaka, fo sy fo no itenenan'izy ireo.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "shava (fizahan-tsy marina)"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "no lazarain'ny"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ny olona samirery"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny namany"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ny namany"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "molotra"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "mandrapaka"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "sy fo"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "no itenenan'izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T18:12:43.141398527Z",
+  "model": "glm-5.3"
+}

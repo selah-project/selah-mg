@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 145,
+  "ref": "psalms 119:145",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Niantso tamin'ny foko rehetra aho: valio aho, ry Yahveh; ny didinao hotandrewako.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "Niantso"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tamin'ny ... rehetra"
+    },
+    {
+      "surface": "לב",
+      "gloss": "foko"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "valio aho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ny didinao"
+    },
+    {
+      "surface": "אצרה",
+      "gloss": "hotandrewako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:11.808996504Z",
+  "model": "glm-5.3"
+}

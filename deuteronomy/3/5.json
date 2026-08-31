@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 3:5",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ireo tanàna rehetra ireo dia voaahirana: rindrina avo, varavarana ary barety — afa-tsy ny tanànan'ny tantsaha dia be dia be.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "voaahirana"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "rindrina"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "avo"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "varavarana"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "ary barety"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "afa-tsy"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "ny tanànan'ny"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "tantsaha"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "be"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dia be"
+    }
+  ],
+  "timestamp": "2026-08-31T13:39:49.527429854Z",
+  "model": "glm-5.3"
+}

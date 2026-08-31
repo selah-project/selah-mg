@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 28:22",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Hanetry anao Yahveh amin'ny fahanterana, amin'ny tazo, amin'ny fivoaran'aretina, amin'ny hafanana mafana, amin'ny sabatra, amin'ny fanipazam-boly ary amin'ny lo; ary hatohin'ireo ianao mandra-pahavonganao.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "Hanetry"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בשחפת",
+      "gloss": "amin'ny fahanterana"
+    },
+    {
+      "surface": "ובקדחת",
+      "gloss": "amin'ny tazo"
+    },
+    {
+      "surface": "ובדלקת",
+      "gloss": "amin'ny fivoaran'aretina"
+    },
+    {
+      "surface": "ובחרחר",
+      "gloss": "amin'ny hafanana mafana"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "amin'ny sabatra"
+    },
+    {
+      "surface": "ובשדפון",
+      "gloss": "amin'ny fanipazam-boly"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "amin'ny lo"
+    },
+    {
+      "surface": "ורדפוך",
+      "gloss": "hatohin'ireo anao"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "fahavonganao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:50:33.422189119Z",
+  "model": "glm-5.3"
+}

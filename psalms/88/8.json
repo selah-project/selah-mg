@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 88,
+  "translation": "Ny fahatezeranao nianjera tamiko, ary ny onjanao rehetra nampijaliana ahy. Selah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "nianjera"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "ny fahatezeranao"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ny ... rehetra"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "onjanao"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "nampijaliana"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:28.287298198Z",
+  "model": "glm-5.3"
+}

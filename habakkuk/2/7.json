@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 2:7",
+  "book": "habakkuk",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Tsy hiseho tampoka va hitsangana izay mibaby ny trosanao, ary hifohaza izay mampihorohoro anao, ka ho babo ho azy ireo ianao?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Tsy... va"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "tampoka"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "hitsangana"
+    },
+    {
+      "surface": "נשכיך",
+      "gloss": "izay mibaby ny trosanao"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "ary hifohaza"
+    },
+    {
+      "surface": "מזעזעיך",
+      "gloss": "izay mampihorohoro anao"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ka ho... ianao"
+    },
+    {
+      "surface": "למשסות",
+      "gloss": "babo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ho azy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:16:58.936182287Z",
+  "model": "glm-5.3"
+}

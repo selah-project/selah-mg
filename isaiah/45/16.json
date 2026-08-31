@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 45:16",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 45,
+  "translation": "Hahamenatra izy, eny hahamenatra koa izy rehetra; hiara-mandeha amin'ny fahamenatra ny mpanao sary hosoka.",
+  "tokens": [
+    {
+      "surface": "בושו",
+      "gloss": "Hahamenatra izy"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "eny ... koa"
+    },
+    {
+      "surface": "נכלמו",
+      "gloss": "hahamenatra"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "izy rehetra"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hiara-mandeha"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "handeha"
+    },
+    {
+      "surface": "בכלמה",
+      "gloss": "amin'ny fahamenatra"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "mpanao"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "sary hosoka"
+    }
+  ],
+  "timestamp": "2026-08-31T15:16:33.612011085Z",
+  "model": "glm-5.3"
+}

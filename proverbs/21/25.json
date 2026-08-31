@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ny fanirian'ny mpiatinina mamono azy; fa ny tànany mandà hiasa.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "ny fanirian'ny"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "mpiatinina"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "mamono azy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "mandà"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ny tànany"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hiasa"
+    }
+  ],
+  "timestamp": "2026-08-31T16:55:13.880307331Z",
+  "model": "glm-5.3"
+}

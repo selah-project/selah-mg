@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary Zimri dia nanònga ny taranak'i Baasha rehetra ⟨את⟩, araka ny tenin'i Yahveh izay nolazainy tamin'i Baasha tamin'ny tanàn'i Yehu mpaminany.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "nanònga"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny taranak'i Baasha rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ny taranak'i"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "araka ny tenin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nolazainy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "tamin'ny tanàn'i"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mpaminany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:46:59.974444764Z",
+  "model": "glm-5.3"
+}

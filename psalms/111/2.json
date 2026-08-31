@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 111,
+  "translation": "Lehibe ny asan'i Yahveh; hotadiavina avokoa izy ireo ⟨ihany⟩ no tia azy.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "Lehibe"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ny asa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "hotadiavina"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "avokoa ... no"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "tia azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:01.666478115Z",
+  "model": "glm-5.3"
+}

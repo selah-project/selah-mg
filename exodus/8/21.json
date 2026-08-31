@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary niantso Parao ⟨את⟩-an'i Moshe sy ⟨את⟩-an'i Aharon, ka nanao hoe: Mandehana ianareo, manaova fanatitra ho an'i Elohimanareo ⟨eto⟩ amin'ny tany.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ary niantso"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאהרן",
+      "gloss": "sy an'i Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Mandehana ianareo"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "manaova fanatitra"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "ho an'i Elohimanareo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "amin'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:37.718551428Z",
+  "model": "glm-5.3"
+}

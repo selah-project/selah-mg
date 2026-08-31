@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary Yahveh nanome ⟨את⟩ tso-drano ny vahoaka eo imason'ny Mitsritana; eny, ilay lehilahy Moshe dia lehibe indrindra tao amin'ny tany Mitsrayim, eo imason'ny mpanompon'i Parao sy eo imason'ny vahoaka.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "nanome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tso-drano"
+    },
+    {
+      "surface": "חן",
+      "gloss": "tso-drano"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "eo imason'ny"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsritana"
+    },
+    {
+      "surface": "גם",
+      "gloss": "eny"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ilay lehilahy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "indrindra"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tao amin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "eo imason'ny"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mpanompon'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "sy eo imason'ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:53.561119738Z",
+  "model": "glm-5.3"
+}

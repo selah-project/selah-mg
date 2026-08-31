@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary halavintareo ⟨את⟩ ny nofon'akanjon'ny fitoryanareo, dia ho famantarana ny famorian' ny misy amiko sy ary aminareo izany.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "Ary halavintareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny nofon'ny fitoryanareo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ny nofo"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "fitoryanareo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dia ho"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "famantarana"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "famorian'ny misy"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "amiko sy"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "ary aminareo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:39:27.779414627Z",
+  "model": "glm-5.3"
+}

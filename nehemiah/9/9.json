@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ka hitanao ⟨את⟩ ny fahorian'ny razantsika tao Mitsrayim, ary ny fitarainany tao amoron'ny Ranomasin'ny zozoro renao.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "hitanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahorian'ny razantsika"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ny fahoriany"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ny razantsika"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "tao Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitarainany"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "ny fitarainany"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "renao"
+    },
+    {
+      "surface": "על",
+      "gloss": "tao amoron'"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Ranomasina"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "zozoro"
+    }
+  ],
+  "timestamp": "2026-08-31T18:19:06.026463419Z",
+  "model": "glm-5.3"
+}

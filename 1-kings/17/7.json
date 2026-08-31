@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary tonga tao amin'ny faran'ny andro maro izany, ka maina ny lohasaha, satria tsy nisy orana tany amin'ny tany.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary tonga"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "tao amin'ny faran'ny"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro maro"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "ka maina"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ny lohasaha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nisy"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "orana"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tany amin'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:47:22.331920158Z",
+  "model": "glm-5.3"
+}

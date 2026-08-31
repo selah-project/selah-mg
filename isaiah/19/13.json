@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 19:13",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Nitombo ho adala ny mpanapakan'i Tsoän, voafitaka ny mpanapakan'i Nof; izy ireo no nampivily an'i Mitsrayim ⟨את⟩, izay zoro firafitry ny foko aminy.",
+  "tokens": [
+    {
+      "surface": "נואלו",
+      "gloss": "nitombo ho adala"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ny mpanapakan'i"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoän"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "voafitaka"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ny mpanapakan'i"
+    },
+    {
+      "surface": "נף",
+      "gloss": "Nof"
+    },
+    {
+      "surface": "התעו",
+      "gloss": "nampivily"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "zoro firafitra"
+    },
+    {
+      "surface": "שבטיה",
+      "gloss": "ny foko aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:07:42.073322433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 107,
+  "translation": "Fa Izy namaky ny varavaran'ny varahina, ary ny tavy vy notapahiny.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "namaky"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ny varavaran'ny"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "varahina"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "ary ny tavy"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "vy"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "notapahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:11.038628875Z",
+  "model": "glm-5.3"
+}

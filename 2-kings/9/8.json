@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary ho levona ny taranak'i Ahaba rehetra; ary hofongorako amin'ny taranak'i Ahaba izay mamidy ambanin'ny rindrina, mbamin'ny voasakana sy ny sisa, ao amin'ny Yisraela.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "Ary ho levona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ny taranak'"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaba"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ary hofongorako"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "amin'ny taranak'i Ahaba"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "izay mamidy"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "ambanin'ny rindrina"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "mbamin'ny voasakana"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "sy ny sisa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ao amin'ny Yisraela"
+    }
+  ],
+  "timestamp": "2026-08-31T14:54:27.037754186Z",
+  "model": "glm-5.3"
+}

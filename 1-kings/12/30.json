@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary io zavatra io dia tonga fahotana; ary ny olona nandeha teo anatrehan'ilay iray, ka hatrany Dana.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "zavatra"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "io...io"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "fahotana"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anatrehan'"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ilay iray"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka hatrany"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:45:12.175561451Z",
+  "model": "glm-5.3"
+}

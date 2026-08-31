@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Nampalehibe ny asako aho; nanoratra trano ho ahy aho, nanary voalobolaboy ho ahy.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "nampalehibe"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ny asako"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "nanoratra trano"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "trano"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "nanary"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "voalobolaboy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:22.928607089Z",
+  "model": "glm-5.3"
+}

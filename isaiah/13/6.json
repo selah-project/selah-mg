@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 13:6",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Mitaraitra ianareo, fa akaiky ny andron'i Yahveh; ho tonga toy ny fandrarana avy amin'i Shadday.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "Mitaraitra ianareo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "akaiky"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "toy ny fandrarana"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ho tonga"
+    }
+  ],
+  "timestamp": "2026-08-31T15:06:12.783910531Z",
+  "model": "glm-5.3"
+}

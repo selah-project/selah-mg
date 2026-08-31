@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Tsara ny fanahy manetriketrika miaraka ⟨את⟩ amin'ny malahelo noho ny mizara ⟨את⟩ ny babo miaraka amin'ny mpiaviam-panahy.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "manetriketrika"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin'ny malahelo"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ny malahelo"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "mizara"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ny babo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny babo"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "mpiaviam-panahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:53:54.695390851Z",
+  "model": "glm-5.3"
+}

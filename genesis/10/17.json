@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary ⟨את⟩ ny Hivita sy ⟨את⟩ ny Arkita ary ⟨את⟩ ny Sinita,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny Hivita"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ny Hivita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny Arkita"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "ny Arkita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny Sinita"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "ny Sinita"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:22.996641565Z",
+  "model": "glm-5.3"
+}

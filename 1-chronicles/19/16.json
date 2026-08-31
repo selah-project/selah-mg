@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 19:16",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary hitan'i Aram fa voaresaka teo anoloan'i Isiraely izy, ka naniraka iraka izy ka nampivoaka ⟨את⟩ an'i Aram izay tany an-dafin'ny renirano, ary Shofaka, andrian'ny tafik'i Hadadezera, teo alohan'izy ireo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hitan'i"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נגפו",
+      "gloss": "voaresaka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anoloan'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "naniraka"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "iraka"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "nampivoaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "tany an-dafin'ny"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "renirano"
+    },
+    {
+      "surface": "ושופך",
+      "gloss": "ary Shofaka"
+    },
+    {
+      "surface": "שר",
+      "gloss": "andrian'ny"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "tafik'i"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezera"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "teo alohan'izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:39:05.116413514Z",
+  "model": "glm-5.3"
+}

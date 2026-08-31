@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 35:24",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Izay rehetra mpanatitra (mahatonga) fanatitra volafotsy sy varahina dia nitondra ⟨את⟩ ny fanatitra ho an'i Yahveh; ary ny rehetra izay hita ⟨את⟩ tao aminy hazo akasià ho an'ny asa fanompoana rehetra dia nitongra izany.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Izay rehetra"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "mpanatitra (mahatonga)"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "fanatitra"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "sy varahina"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "dia nitondra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fanatitra"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "ny fanatitra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ny rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "hita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "tao aminy"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasià (shitim)"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho an'ny"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "asan'ny"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "fanompoana"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "dia nitondra izany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:09:18.129252982Z",
+  "model": "glm-5.3"
+}

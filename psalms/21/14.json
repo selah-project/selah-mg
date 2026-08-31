@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 21:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Misiempo ianao, Yahveh, amin'ny herinao; dia hihira sy hankalaza izahay ny fahalehibiazanao.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Misiempo ianao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "amin'ny herinao"
+    },
+    {
+      "surface": "נשירה",
+      "gloss": "hihira izahay"
+    },
+    {
+      "surface": "ונזמרה",
+      "gloss": "sy hankalaza"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "ny fahalehibiazanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:10.343839635Z",
+  "model": "glm-5.3"
+}

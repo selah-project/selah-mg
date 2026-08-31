@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Dia hankafy fitia ⟨את⟩ Yahveh, Elohinareo, ianareo, ka hitandrina ny fifehezany, sy ny lalàny, sy ny fitsaràny, ary ny didiny, amin'ny andro rehetra.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "hankafy fitia ianareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohinareo"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "hitandrina"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "ny fifehezany"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "sy ny lalàny"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "sy ny fitsaràny"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "ary ny didiny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "amin'ny andro"
+    }
+  ],
+  "timestamp": "2026-08-31T13:43:11.525070496Z",
+  "model": "glm-5.3"
+}

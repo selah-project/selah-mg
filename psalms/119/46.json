@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 119:46",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ary hiteny amin'ny {vedony} aho eo anatrehan'ny mpanjaka, ka tsy hahamenatra.",
+  "tokens": [
+    {
+      "surface": "ואדברה",
+      "gloss": "hiteny aho"
+    },
+    {
+      "surface": "בעדתיך",
+      "gloss": "amin'ny ⟨vedony⟩"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "eo anatrehan'"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "hahamenatra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:58.353448242Z",
+  "model": "glm-5.3"
+}

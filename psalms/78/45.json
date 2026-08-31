@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Naniraka tamin'izy ireo izy mpanify mpanimba ⟨את⟩ azy, sy sahona, ka nanimba ⟨את⟩ azy ireo.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "naniraka"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "tamin'izy ireo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mpanify mpanimba"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "nanimba azy"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "sahona"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "kanimba azy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T19:13:04.135291539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 66,
+  "translation": "Feo tabataba avy amin'ny tanàna, feo avy amin'ny tempoly, feon'i Yahveh manaly ny fahavalony.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Feo"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "tabataba"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "avy amin'ny tanàna"
+    },
+    {
+      "surface": "קול",
+      "gloss": "feo"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "avy amin'ny tempoly"
+    },
+    {
+      "surface": "קול",
+      "gloss": "feo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "analy"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "famaliana"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "ny fahavalony"
+    }
+  ],
+  "timestamp": "2026-08-31T18:06:52.493354741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 147,
+  "translation": "Sitrandry Yahveh ⟨את⟩ izay matahotra azy, ⟨את⟩ izay manantena ny hesed-ny.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "Sitrandry"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay matahotra azy"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "izay matahotra azy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay manantena ny hesed-ny"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "izay manantena"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "ny hesed-ny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:35.632968895Z",
+  "model": "glm-5.3"
+}

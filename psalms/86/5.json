@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 86,
+  "translation": "Fa ianao, ry Adonay, dia tsara sady mamela heloka, ary be hesed amin'izay rehetra miantso Anao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "sady mamela heloka"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ary be"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "amin'izay rehetra"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "miantso Anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:01.208100235Z",
+  "model": "glm-5.3"
+}

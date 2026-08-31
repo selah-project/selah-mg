@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary ny fiandohan'ny fanjakany dia Bavel sy Erekia sy Akada ary Kalnea, tany amin'ny tany Shinara.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Ary ... dia"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ny fiandohan'ny"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "fanjakany"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "sy Erekia"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "sy Akada"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "ary Kalnea"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tany amin'ny tany"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinara"
+    }
+  ],
+  "timestamp": "2026-08-31T17:54:34.012504345Z",
+  "model": "glm-5.3"
+}

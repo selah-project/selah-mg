@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary hitan'i Parao fa nisy fiakanana, ary nampitombo lanja ⟨את⟩ ny fony, ary tsy nihaino azy, araka ny nolazain'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ary hitan'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "nisy"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "fiakanana"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "ary nampitombo lanja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fony"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ny fony"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nolazain'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:42.430853116Z",
+  "model": "glm-5.3"
+}

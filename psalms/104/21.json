@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 104,
+  "translation": "Ny liona tanora mirehitra hihaza, ary mitady ny sakafo avy amin'El.",
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "ny liona tanora"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "mirehitra"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "hihaza"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "ary mitady"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "avy amin'El"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ny sakafo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:13.478109199Z",
+  "model": "glm-5.3"
+}

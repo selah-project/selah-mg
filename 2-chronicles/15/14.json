@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 15:14",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary nianiana tamin'i Yahveh izy tamin'ny feo mahery sy tamin'ny fihobiana sy tamin'ny trompetra sy tamin'ny shofar.",
+  "tokens": [
+    {
+      "surface": "וישבעו",
+      "gloss": "Ary nianiana izy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "tamin'i Yahveh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "tamin'ny feo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "ובתרועה",
+      "gloss": "sy tamin'ny fihobiana"
+    },
+    {
+      "surface": "ובחצצרות",
+      "gloss": "sy tamin'ny trompetra"
+    },
+    {
+      "surface": "ובשופרות",
+      "gloss": "sy tamin'ny shofar"
+    }
+  ],
+  "timestamp": "2026-08-31T17:46:38.141181004Z",
+  "model": "glm-5.3"
+}

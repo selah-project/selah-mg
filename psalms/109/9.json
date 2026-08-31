@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 109,
+  "translation": "Ho faty-mpandany anefa ny zanany, ary ho mpitondra tena ao an-trano ny vadiny — ho kamboty ny zanany, ary ho almona ny vadiny.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ho \/ aoka ho"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "kamboty (faty-mpandany)"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ary ny vadiny"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "almona (mpitondra tena ao an-trano)"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:37.494230155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Fa amin'ny fahatezeran'i Yahveh no tonga izany tao Yeroshalayim sy tao Yehuda, mandra-pandrorany azy hiala eo anatrehany; ary Tsidkiahu niodina tamin'ny mpanjakan'i Babilona.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "אף",
+      "gloss": "fahatezeran'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "no tonga izany"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "tao Yeroshalayim"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "sy tao Yehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": " pandrorany"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "hiala"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "eo anatrehany"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "ary niodina"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiahu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "tamin'ny mpanjakan'"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilona"
+    }
+  ],
+  "timestamp": "2026-08-31T15:02:05.568001423Z",
+  "model": "glm-5.3"
+}

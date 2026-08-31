@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 29:24",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary apetraho amin'ny tanan'i Aharon sy amin'ny tanan'ny zanany izy rehetra, ary hivezivezenao ⟨את⟩ izy ireo ho fanomezana miveziveza eo anoloan'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "apetraho"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "izy rehetra"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "tanan'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy amin'ny"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "tanan'ny"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "hivezivezenao"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ izy ireo",
+      "marks": "fanomezana miveziveza"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "ho fanomezana miveziveza"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anoloan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:06:01.575391404Z",
+  "model": "glm-5.3"
+}

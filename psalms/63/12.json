@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 63,
+  "translation": "Ary ny mpanjaka ho faly amin'i Elohim; ho rehareha izay rehetra mianiana aminy; fa hohidy ny vavan'izay miteny lainga.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Ary ny mpanjaka"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ho faly"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "amin'i Elohim"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "ho rehareha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "mianiana"
+    },
+    {
+      "surface": "בו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "hohidy"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ny vavan'ny"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "izay miteny"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lainga"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:40.936720415Z",
+  "model": "glm-5.3"
+}

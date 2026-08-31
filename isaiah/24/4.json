@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Midalana sy levona ny tany, malemy sy levona ny tontolo, efa malemy ny avo amin'ny vahoakan'ny tany.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "Midalana"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "sy levona"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "malemy"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "sy levona"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ny tontolo"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "efa malemy"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ny avo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "amin'ny vahoakan'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:09:42.874179485Z",
+  "model": "glm-5.3"
+}

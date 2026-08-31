@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 6:15",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Nahamenarana izy ireo, fa nataon'izy ireo ny fahavetavetana; eny, tsy mena akory izy ireo, ary tsy mahalala handoa izy ireo; koa ho lavo amin'ny mihavo izy ireo; amin'ny andro hitsidiko azy ireo dia ho tonta izy ireo, hoy Yahveh.",
+  "tokens": [
+    {
+      "surface": "הבישו",
+      "gloss": "Nahamenarana izy ireo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "fahavetavetana"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nataon'izy ireo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "eny"
+    },
+    {
+      "surface": "בוש",
+      "gloss": "tsy mena akory"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יבושו",
+      "gloss": "mena"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ary"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "mahalala handoa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "koa"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ho lavo"
+    },
+    {
+      "surface": "בנפלים",
+      "gloss": "amin'ny mihavo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "פקדתים",
+      "gloss": "hitsidiko azy ireo"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ho tonta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T15:25:53.166590807Z",
+  "model": "glm-5.3"
+}

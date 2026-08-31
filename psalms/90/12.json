@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 90,
+  "translation": "Ampianaro hahay manisa ny andronay ka hitondra fo fahendrena izahay.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "hahay manisa"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ny andronay"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "Ampianaro"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "hitondra"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "fahendrena"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:03.067657828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary ny Filistina naka ⟨את⟩ ny fiaran'ny Elohim ka nampiditra azy tao an-tranon'i Dagon, ary nametraka azy akaikin'i Dagon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Ary naka"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Filistina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fiaran'ny Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fiara"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ka nampiditra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "taron'i Dagon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "ary nametraka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "akaikin'i Dagon"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "akaikin'i"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-08-31T14:16:44.103268050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary raha fanorian-panaty na fanati-tsafidy no zavatra vonoina ho fanatiny, amin'ny andro ihanaterany ⟨את⟩ ny zavatra vonoiny dia hohanina izy; ary rahampitso dia ny sisa aminy azo hohanina.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ary raha"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "fanorian-panaty"
+    },
+    {
+      "surface": "או",
+      "gloss": "na"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "fanati-tsafidy"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zavatra vonoina"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "fanatiny"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "ihanaterany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zavatra vonoiny"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "ny zavatra vonoiny"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hohanina izy"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "ary rahampitso"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "dia ny sisa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "azo hohanina"
+    }
+  ],
+  "timestamp": "2026-08-31T17:57:48.557332483Z",
+  "model": "glm-5.3"
+}

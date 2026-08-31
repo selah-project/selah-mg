@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Mikhtam an'i Davida. Tano fiarovana aho, El, fa taminao no efa nitoky aho.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Mikhtam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "an'i Davida"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Tano fiarovana aho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "efa nitoky aho"
+    },
+    {
+      "surface": "בך",
+      "gloss": "taminao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:30.757052877Z",
+  "model": "glm-5.3"
+}

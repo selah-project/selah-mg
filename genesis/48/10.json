@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 48:10",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 48,
+  "translation": "Ary ny mason'i Yisrael efa matavesitra noho ny fahatapahan'ny antitra, ka tsy mahita intsony ⟨izy⟩; dia nanatona azy ireo ⟨את⟩ izy, nangoraka azy ireo, sady namponja azy ireo.",
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "Ary ny mason'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "efa matavesitra"
+    },
+    {
+      "surface": "מזקן",
+      "gloss": "noho ny antitra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "mahafa-miditra intsony"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hahita"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "dia nanatona"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy ireo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "nangoraka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy ireo"
+    },
+    {
+      "surface": "ויחבק",
+      "gloss": "sady namponja"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:53:23.311139446Z",
+  "model": "glm-5.3"
+}

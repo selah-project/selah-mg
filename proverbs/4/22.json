@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 4:22",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Fa aina izy ho an'izay mahita azy, ary fahasitranana ho an'ny nofo rehetra.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "aina"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izy"
+    },
+    {
+      "surface": "למצאיהם",
+      "gloss": "ho an'izay mahita azy"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ary ho an'ny ... rehetra"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nofo"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "fahasitranana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:15:05.523015933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Amin'ny fotoana rehetra aoka ho fotsy ny fitafianao, ary aza mampihena ny diloilo eo an-dohanao.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "amin'izay rehetra"
+    },
+    {
+      "surface": "עת",
+      "gloss": "fotoana"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "aoke ho"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "ny fitafianao"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "fotsy"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ary ny diloilo"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "dohanao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "mampihena"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:52.574189098Z",
+  "model": "glm-5.3"
+}

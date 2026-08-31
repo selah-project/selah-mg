@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary rehefa ren'i Moshe izany, dia tsara teo imasony izany.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ary rehefa ren'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "dia tsara"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "teo imasony"
+    }
+  ],
+  "timestamp": "2026-08-31T13:13:59.954413417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary nisotro tamin'ny divay izy ka dia mamo, ary nanjaviky ny tenany tao anivon'ny lay nentony.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "nisotro"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "היין",
+      "gloss": "divay"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "ka dia mamo"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "nanjaviky ny tenany"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "tao anivon'ny"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "lay nentony"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:52.628217688Z",
+  "model": "glm-5.3"
+}

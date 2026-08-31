@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary nony afaka izany dia namely ny fon'i Davida ⟨את⟩ izy, noho izy nanapaka ⟨את⟩ nynelan'ny akanjon'i Shaol.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nony"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "afaka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dia namely"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ny fon'"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "i Davida"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ izy"
+    },
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "nanapaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nynelan'ny akanjo"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "nynelan'"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "an'i Shaol"
+    }
+  ],
+  "timestamp": "2026-08-31T14:24:38.881956678Z",
+  "model": "glm-5.3"
+}

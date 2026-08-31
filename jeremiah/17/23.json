@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 17:23",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Nefa tsy nihaino izy, ary tsy nanohina ⟨את⟩ ny sofiny; fa nampenta ⟨את⟩ ny vozony mba tsy hihaino sy tsy handraiana fampianarana.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Nefa tsy"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "nanohina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny sofiny"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "sofiny"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "nampenta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vozony"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "vozony"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "mba tsy"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "hihaino"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "sy tsy"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "handraiana"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "fampianarana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:30:55.390748882Z",
+  "model": "glm-5.3"
+}

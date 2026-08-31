@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "sady hanavaka ⟨eo anelanelan'ny⟩ masina sy ⟨eo anelanelan'ny⟩ tsy masina, ary ⟨eo anelanelan'ny⟩ maloto sy ⟨eo anelanelan'ny⟩ madio,",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "sady hanavaka"
+    },
+    {
+      "surface": "בין",
+      "gloss": "⟨eo anelanelan'ny⟩"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy ⟨eo anelanelan'ny⟩"
+    },
+    {
+      "surface": "החל",
+      "gloss": "tsy masina"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy ⟨eo anelanelan'ny⟩"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "maloto"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy ⟨eo anelanelan'ny⟩"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "madio"
+    }
+  ],
+  "timestamp": "2026-08-31T13:14:38.403138276Z",
+  "model": "glm-5.3"
+}

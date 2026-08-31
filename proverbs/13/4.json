@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Mitalaky ny fanahin'ny malaina nefa tsy manana na inona na inona, fa ny fanahin'ny mazoto dia voky soa.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "mitaloky"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "fa tsy manana"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ny fanahin'ny"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "malaina"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "fa ny fanahin'ny"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "mazoto"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "voky soa"
+    }
+  ],
+  "timestamp": "2026-08-31T16:53:06.625381892Z",
+  "model": "glm-5.3"
+}

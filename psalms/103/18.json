@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 103,
+  "translation": "Ho an'izay mitandrina ny fanekeny sy mahatsiaro ny didiny hankatò azy.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "ho an'izay mitandrina"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ny fanekeny"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "sy mahatsiaro"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "ny didiny"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "hankatò azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:31.016834939Z",
+  "model": "glm-5.3"
+}

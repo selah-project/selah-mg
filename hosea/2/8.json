@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Noho izany, indro, izaho hanidy ⟨את⟩ ny lalanao amin'ny tsilo, ary hanamboatra ⟨את⟩ valiha aho, ary ny lalany tsy hitany.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "noho izany"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "indro, izaho"
+    },
+    {
+      "surface": "שך",
+      "gloss": "hanidy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lalanao"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ny lalanao"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "amin'ny tsilo"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "ary hanamboatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "valiha"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "valiha"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "ary ny lalany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "hitany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:07:44.094000345Z",
+  "model": "glm-5.3"
+}

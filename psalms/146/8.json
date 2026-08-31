@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 146,
+  "translation": "Yahveh manokatra ⟨את⟩ ny mason'ny jamba; Yahveh manitsy ⟨את⟩ ny miondrika; Yahveh tia ⟨את⟩ ny marina:",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "manokatra"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "ny jamba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "manitsy"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "ny miondrika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "tia"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ny marina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:22.119144670Z",
+  "model": "glm-5.3"
+}

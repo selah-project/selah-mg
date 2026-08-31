@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Ary hoy Yossefa tamin'i Parao: Ny nofin'i Parao dia iray ⟨ihany⟩; izay hataon'ny Elohim dia efa voazava tamin'i Parao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yossefa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ny nofin'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay hataon'ny Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hataony"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "efa voazava"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "tamin'i Parao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:49:44.375465780Z",
+  "model": "glm-5.3"
+}

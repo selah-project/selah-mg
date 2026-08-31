@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Ary ratsy tamin'ny mason'i Yahveh izay nataony, ka namono azy koa izy ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "tamin'ny mason'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ka namono"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (Onan)"
+    }
+  ],
+  "timestamp": "2026-08-31T12:50:13.386969120Z",
+  "model": "glm-5.3"
+}

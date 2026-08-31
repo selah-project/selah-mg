@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Nisa-malala ⟨⟨ny⟩⟩ tany, nihena herinaratra; Levanonona mena fahendrehendrena ⟨⟨no⟩⟩ very haja; efa tonga toy ny efitra i Sharonona; ary Bashana sy Karmela niondrika fatratra.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "nisa-malala"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "nihena herinaratra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "mena fahendrehendrena very haja"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Levanonona"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "nihena"
+    },
+    {
+      "surface": "היה",
+      "gloss": "efa tonga"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Sharonona"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "toy ny efitra"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ary niondrika fatratra"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashana"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "sy Karmela"
+    }
+  ],
+  "timestamp": "2026-08-31T15:10:03.022632451Z",
+  "model": "glm-5.3"
+}

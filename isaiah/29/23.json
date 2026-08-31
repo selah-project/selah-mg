@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 29:23",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Fa rehefa hitany ny zanany, asan'ny tanako, eo afovoany, hanamasina ny anarako izy, ary hanamasina ⟨את⟩ ny Masin'i Yaakov, ary hanaja ⟨את⟩ ny Elohim an'i Isiraela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "בראתו",
+      "gloss": "rehefa hitany"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "asa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "an'ny tanako"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "eo afovoany"
+    },
+    {
+      "surface": "יקדישו",
+      "gloss": "hanamasina"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ny anarako"
+    },
+    {
+      "surface": "והקדישו",
+      "gloss": "ary hanamasina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Masin'i Yaakov"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Masina"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ary",
+      "marks": "ny Elohim an'i Isiraela"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim an'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraela"
+    },
+    {
+      "surface": "יעריצו",
+      "gloss": "hanaja"
+    }
+  ],
+  "timestamp": "2026-08-31T15:11:10.373738241Z",
+  "model": "glm-5.3"
+}

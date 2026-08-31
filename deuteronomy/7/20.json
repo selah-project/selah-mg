@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary koa dia haniraka ⟨את⟩ ny fanenana Yahveh Elohim-nao hanafika azy, mandra-pahavongan'izay sisa tavela sy izay miafina amanao.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ary koa dia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanenana"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "ny fanenana"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "haniraka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nao"
+    },
+    {
+      "surface": "בם",
+      "gloss": "hanafika azy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "pahavongan'"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "izay sisa tavela"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "sy izay miafina"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "amanao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:43:51.737091781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 109:28",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 109,
+  "translation": "Ozona izy ireo, fa ianao kosa manasoava; misangy izy ka mena marefo, fa ny mpanomponao mifaly.",
+  "tokens": [
+    {
+      "surface": "יקללו",
+      "gloss": "Ozona izy ireo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy ireo"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "fa ianao kosa"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "manasoava"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "misangy izy"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ka mena marefo"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "fa ny mpanomponao"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "mifaly"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:33.391460505Z",
+  "model": "glm-5.3"
+}

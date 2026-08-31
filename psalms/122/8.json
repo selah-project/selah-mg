@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 122,
+  "translation": "Noho ny rahalahiko sy ny namako dia hiteny aho: mba ho fiadanana ao anatinao.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Noho"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ny rahalahiko"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "sy ny namako"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "dia hiteny aho"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mba"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fiadanana"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ao anatinao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:32.606583572Z",
+  "model": "glm-5.3"
+}

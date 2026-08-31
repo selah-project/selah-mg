@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ny asan'ny adala mampahory azy, satria tsy mahalala alefa ho any amin'ny tanàna izy.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "Ny asan'ny"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "adala"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "mampahory azy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "satria"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "alefa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tanàna"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:51.598005110Z",
+  "model": "glm-5.3"
+}

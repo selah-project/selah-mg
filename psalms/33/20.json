@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Ny fantsika ⟨něfanahy⟩ niandry an'i Yahveh; Izy no fampitomboaranay sy ampinganay.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Ny fanahinay"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "niandry"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "fampitomboaranay"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "sy ampinganay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Izy no"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:28.179111577Z",
+  "model": "glm-5.3"
+}

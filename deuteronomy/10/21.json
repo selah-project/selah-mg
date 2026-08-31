@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 10:21",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Izy no fiderana anao, ary Izy no Elohim anao, izay nanao ⟨את⟩ taminao ⟨את⟩ ny zava-dehibe sy ⟨את⟩ ny zava-mahatahotra ireto, izay efa hitan'ny masonao.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Izy"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "fiderana anao"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ary Izy"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ taminao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zava-dehibe"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "ny zava-dehibe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny zava-mahatahotra"
+    },
+    {
+      "surface": "הנוראת",
+      "gloss": "ny zava-mahatahotra"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "efa hitan'"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ny masonao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:42:26.710042531Z",
+  "model": "glm-5.3"
+}

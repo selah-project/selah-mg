@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary aza mamindra fo ny masonao: aina ho an'ny aina, maso ho an'ny maso, nify ho an'ny nify, tanana ho an'ny tanana, tongotra ho an'ny tongotra.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ary aza"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "mamindra fo"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ny masonao"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "aina"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ho an'ny aina"
+    },
+    {
+      "surface": "עין",
+      "gloss": "maso"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ho an'ny maso"
+    },
+    {
+      "surface": "שן",
+      "gloss": "nify"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ho an'ny nify"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tanana"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ho an'ny tanana"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "tongotra"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "ho an'ny tongotra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:46:26.445467378Z",
+  "model": "glm-5.3"
+}

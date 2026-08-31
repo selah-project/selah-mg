@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 78:31",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Dia niakatra tamin'izy ireo ny fahatezeran'ny Elohim, ka namono ny matavy amin'izy ireo, ary ny tanora antsain'i Yisrael nampiankohony.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "sy ny fahatezerana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "niakatra"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "tamin'izy ireo"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "ka namono"
+    },
+    {
+      "surface": "במשמניהם",
+      "gloss": "ny matavy amin'izy ireo"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "sy ny tanora antsaina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "הכריע",
+      "gloss": "nampiankohony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:32.282907830Z",
+  "model": "glm-5.3"
+}

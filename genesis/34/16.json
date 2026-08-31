@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "dia homeintsika ⟨את⟩ ny zanakambavinay ho anareo, ary ⟨את⟩ ny zanakambavinareo kosa halaintsika ho anay; dia hitoetra ⟨את⟩ aminareo izahay, ka ho vahoaka iray.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "dia homeintsika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanakambavinay"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "ny zanakambavinay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny zanakambavinareo"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "ny zanakambavinareo"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "halaintsika"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ho anay"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "dia hitoetra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aminareo"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "ka ho"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    }
+  ],
+  "timestamp": "2026-08-31T12:47:23.568219901Z",
+  "model": "glm-5.3"
+}

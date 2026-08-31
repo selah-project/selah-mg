@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 6:9",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary nanafaka ⟨את⟩anareo tamin'ny tàn'i Mitsrayim sy tàn'izay mampahory anareo rehetra Aho, ary nandroaka azy hiala tamin'ny fanatrehanareo Aho, ary nomeko anareo ⟨את⟩ ny taniny.",
+  "tokens": [
+    {
+      "surface": "ואצל",
+      "gloss": "nanafaka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩anareo",
+      "marks": "anareo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tamin'ny tanan'"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "sy tamin'ny tanan'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "...rehetra"
+    },
+    {
+      "surface": "לחציכם",
+      "gloss": "mampahory anareo"
+    },
+    {
+      "surface": "ואגרש",
+      "gloss": "ary nandroaka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩azy",
+      "marks": "azy (ny mpanjifa)"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "hiala tamin'ny fanatrehanareo"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ary nomeko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny taniny"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ny taniny"
+    }
+  ],
+  "timestamp": "2026-08-31T14:06:50.182245616Z",
+  "model": "glm-5.3"
+}

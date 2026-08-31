@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Tamin'ny voalohany Elohim nahary ⟨את⟩ ny lanitra sy ⟨את⟩ ny tany.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Tamin'ny voalohany"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "nahary"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lanitra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:33:21.282393317Z",
+  "model": "glm-5.3"
+}

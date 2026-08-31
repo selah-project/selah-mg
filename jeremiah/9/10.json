@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary hataoko ⟨את⟩ Yeroshalayim ho tandraka vato, fipetrahana amboa; ary ⟨את⟩ ny tanànan'i Yehuda hataoko ho faharavana, tsy misy mponina.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ary hataoko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeroshalayim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "ho tandraka vato"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "fipetrahana"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "amboa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny tanànan'i Yehuda"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "tanànan'i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "hataoko"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "faharavana"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "mponina"
+    }
+  ],
+  "timestamp": "2026-08-31T15:27:26.418377667Z",
+  "model": "glm-5.3"
+}

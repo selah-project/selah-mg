@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ary tsy hangaiha intsony ny maso'ireo mahita, ary ny sofin'ireo mandre handinika tsara.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "hangaiha"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ny maso"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "ireo mahita"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "ary ny sofin'"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "ireo mandre"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "handinika tsara"
+    }
+  ],
+  "timestamp": "2026-08-31T18:06:41.164995818Z",
+  "model": "glm-5.3"
+}

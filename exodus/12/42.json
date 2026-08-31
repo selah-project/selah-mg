@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 12:42",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Alina fiambenana ho an'i Yahveh izy, noho ny nampivoahany azy avy tamin'ny tany Mitsrayim; izy no alina ho an'i Yahveh, fiambenana ho an'ny zanak'Israely rehetra amin'ny taranany.",
+  "tokens": [
+    {
+      "surface": "ליל",
+      "gloss": "Alina"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "fiambenana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "להוציאם",
+      "gloss": "noho ny nampivoahany azy"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "avy tamin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "no alina"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "fiambenana"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho an'ny ... rehetra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israely"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "amin'ny taranany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:59:11.067802470Z",
+  "model": "glm-5.3"
+}

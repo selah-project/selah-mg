@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "malachi 3:23",
+  "book": "malachi",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Indro, izaho haniraka ho aminareo ⟨את⟩ an'i Elia mpaminany, talohan'ny fihavian'ny andron'i Yahveh, lehibe sady mahatahotra.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "haniraka"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho aminareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Elia mpaminany"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mpaminany"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "talohan'ny"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "fihavian'ny"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "sary mahatahotra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:47.717149551Z",
+  "model": "glm-5.3"
+}

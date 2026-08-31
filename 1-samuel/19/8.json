@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 19:8",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary mbola nisy ady niverina indray; ary nanoa Davida ka niady tamin'ny Filistina izy ka namely azy fandratrana lehibe ka nandositra tsy rainy azy.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ka nanoa Davida"
+    },
+    {
+      "surface": "ותוסף",
+      "gloss": "mbola nisy ... indray"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ady"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "niverina"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "ka niady tamin'ny"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Filistina"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ka namely azy"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "fandratrana"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ka nandositra"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "tsy rainy azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:22:07.629185619Z",
+  "model": "glm-5.3"
+}

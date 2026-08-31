@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 8:15",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nanda ho resy tao anoloany Yehoshoa sy Yisraely rehetra, ka nandositra tamin'ny lalan'ny efitra.",
+  "tokens": [
+    {
+      "surface": "וינגעו",
+      "gloss": "nanda ho resy"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ... rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraely"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "tao anoloany"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ka nandositra"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tamin'ny lalan'"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ny efitra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:58:00.690491743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 26:1",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ho an'ny fizaran'ny mpiambina vavahady: ho an'ny Kora-hita, Meshelemiahu zanak'i Kore, avy amin'ny zanak'i Asaf.",
+  "tokens": [
+    {
+      "surface": "למחלקות",
+      "gloss": "ho an'ny fizarana"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "ny mpiambina vavahady"
+    },
+    {
+      "surface": "לקרחים",
+      "gloss": "ho an'ny Korahita"
+    },
+    {
+      "surface": "משלמיהו",
+      "gloss": "Meshelemiahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Kore"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asaf"
+    }
+  ],
+  "timestamp": "2026-08-31T17:41:12.639803233Z",
+  "model": "glm-5.3"
+}

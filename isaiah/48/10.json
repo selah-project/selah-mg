@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 48,
+  "translation": "Indro, nampanadio anao Aho, fa tsy toy ny volafotsy; nofidiko tamin'ny fatran'ny fahoriana ianao.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "nampanadio anao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "toy ny volafotsy"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "nofidiko"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "tamin'ny fatra"
+    },
+    {
+      "surface": "עני",
+      "gloss": "fahoriana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:16:22.858557528Z",
+  "model": "glm-5.3"
+}

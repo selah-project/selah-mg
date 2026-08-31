@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Nahoana no nolazainao fa anadahiko izy, ka nalaiko ⟨את⟩ azy ho vadiko? Ary ankehitriny, indro ny vadinao — ento ⟨את⟩ ary mandehana.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Nahoana"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "no nolazainao"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "fa anadahiko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "ka nalaiko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy (Sarai)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "vadiko"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Ary ankehitriny"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "ny vadinao"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ento"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ary mandehana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:55:16.116247142Z",
+  "model": "glm-5.3"
+}

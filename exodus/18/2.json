@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary nalain'i Yitro, rafohan'i Moshe, ⟨את⟩ Zipora, vadiny, taorian'ny nanamarinan'i Moshe azy.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nalain'i"
+    },
+    {
+      "surface": "ייתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "rafohan'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zipora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Zipora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vadin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "taorian'ny"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "nanamarinana azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:00:49.856095087Z",
+  "model": "glm-5.3"
+}

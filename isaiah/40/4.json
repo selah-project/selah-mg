@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Hampakarina ny lohasaha rehetra, ary ny tendrombohitra sy havoana rehetra hampidinina; ary ny fihodidana ho tani-mahitsy, ary ny tany mikitoantoana ho lemaka.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "lohasaha"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "Hampakarina"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ny ... rehetra"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "sy havoana"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "hampidinina"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ary ho"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "ny fihodidana"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "tani-mahitsy"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "ary ny tany mikitoantoana"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "lemaka"
+    }
+  ],
+  "timestamp": "2026-08-31T15:15:12.064213548Z",
+  "model": "glm-5.3"
+}

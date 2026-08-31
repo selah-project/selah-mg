@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary nanao tamin'i Yahveh i Moshe hoe: Indrisy, izaho dia ⟨misy⟩ molotra tsy voaforana, ary hanao ahoana no hihainoan'i Parao ahy?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Indrisy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "tsy voaforana"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "molotra"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "ary hanao ahoana no"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hihainoan'i"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:28:12.322941404Z",
+  "model": "glm-5.3"
+}

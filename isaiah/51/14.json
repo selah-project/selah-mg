@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 51:14",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "Haingana ho afaka ny babo mitete, ary tsy ho faty midina any amin'ny lavaka fahaverezana izy, ary tsy ho taitra ny mofo haniny.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "haingana"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "ny mitete"
+    },
+    {
+      "surface": "להפתח",
+      "gloss": "ho afaka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ho faty"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "any amin'ny lavaka fahaverezana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ho taitra"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "ny mofo haniny"
+    }
+  ],
+  "timestamp": "2026-08-31T18:06:46.703932933Z",
+  "model": "glm-5.3"
+}

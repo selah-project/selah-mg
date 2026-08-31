@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 38:16",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Adonay, amin'ireny no mivelona ny olona, ary amin'ireo rehetra no misy ny aina fanahiko; ka hanasitrana aho hianao ary hampivelona ahy.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "amin'ireny"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "no mivelona ny olona"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ary amin'ny rehetra"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ny aina"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "fanahiko"
+    },
+    {
+      "surface": "ותחלימני",
+      "gloss": "hanasitrana ahy"
+    },
+    {
+      "surface": "והחיני",
+      "gloss": "hampivelona ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:12:41.972417389Z",
+  "model": "glm-5.3"
+}

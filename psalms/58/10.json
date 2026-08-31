@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 58,
+  "translation": "Alohan'ny hahatsapa ny vilanaonareo ny tsilo, toy ny manta toy ny mirehitra, ⟨dia⟩ hangalan'ny rivom-be ⟨amin'ny fahatezerany⟩ izy.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Alohan'ny"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "hahatsapa"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "vilanaonareo"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "tsilo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "toy ny"
+    },
+    {
+      "surface": "חי",
+      "gloss": "manta"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "toy ny"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "mirehitra"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "hangalan'ny rivom-be"
+    }
+  ],
+  "timestamp": "2026-08-31T18:35:57.477821652Z",
+  "model": "glm-5.3"
+}

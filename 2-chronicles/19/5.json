@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 19:5",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary nametraka mpitsara tany amin'ny tany izy, tany amin'ny tanàna mimanda rehetra any Yehuda, tanàna aniray sy tanàna iray.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "nametraka"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "mpitsara"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tany amin'ny tany"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tany amin'ny... rehetra"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "any Yehuda"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "mimanda"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "tanàna aniray"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "sy tanàna iray"
+    }
+  ],
+  "timestamp": "2026-08-31T17:47:57.785288102Z",
+  "model": "glm-5.3"
+}

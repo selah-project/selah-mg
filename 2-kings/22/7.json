@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Kanefa tsy homarihana amin'izy ireo ⟨את⟩ ny volafotsy omena amin'ny tanany, fa satria amin'ny fahatokiana no iasany.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kanefa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "homarihana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ amin'izy ireo",
+      "marks": "ny volafotsy"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ny volafotsy"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "omena"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "tanany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa satria"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "amin'ny fahatokiana"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izy ireo"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "miasa"
+    }
+  ],
+  "timestamp": "2026-08-31T15:00:06.377096464Z",
+  "model": "glm-5.3"
+}

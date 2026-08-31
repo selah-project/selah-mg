@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Nahoana no tsy maty tao amin'ny kibo? Nivoaka avy tamin'ny kibo aho, ka tsy namoy ny aina?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Nahoana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy maty"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "tao amin'ny kibo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "maty"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "avy tamin'ny kibo"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "nivoaka aho"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "ka tsy namoy ny aina"
+    }
+  ],
+  "timestamp": "2026-08-31T18:15:49.913324742Z",
+  "model": "glm-5.3"
+}

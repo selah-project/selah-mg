@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Mba aza mandoa ny tany ⟨את⟩ anareo rehefa mandoto ⟨את⟩ azy ianareo, tahaka ny nandoany ⟨את⟩ ilay firenena izay teo alohanareo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Mba aza"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "mandoa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "rehefa mandoto azy ianareo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tahaka ny"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "nandoany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay firenena"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ilay firenena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "teo alohanareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:17:21.980637234Z",
+  "model": "glm-5.3"
+}

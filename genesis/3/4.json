@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary hoy ilay menarana tamin'ny vehivavy: Tsy ho faty tokoa ianareo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ilay menarana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "vehivavy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "מות",
+      "gloss": "faty"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "tokoa ho faty ianareo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:05.875212362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Eo anilan'ny vavahady, eo am-baravan'ny tanàna, eo ampidirana ny varavarana, no mihoby izy.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "eo anilan'ny"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "vavahady"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "eo am-baravan'ny"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "eo ampidirana"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "varavarana"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "mihoby"
+    }
+  ],
+  "timestamp": "2026-08-31T16:50:51.456152797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Rehefa miditra amin'ny lay fivoriany izy sy rehefa manatona ny alitara, dia misasa, araka ny nandidian'i Yahveh an'i Moshe.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "rehefa miditra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "lay"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fivoriany"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "sy rehefa manatona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ny"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "dia misasa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidian'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:49.064820857Z",
+  "model": "glm-5.3"
+}

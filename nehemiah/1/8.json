@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 1:8",
+  "book": "nehemiah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Tsarao, azafady, ⟨את⟩ ny teny izay nandidianao ⟨את⟩ an'i Moshe mpanomponao, ka nanao hoe: Raha mivadika ianareo, Izaho kosa hanaparitaka ⟨את⟩ anareo amin'ny firenena;",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Tsarao"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny teny (הדבר)"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "nandidianao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Moshe (משה)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mpanomponao"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ianareo"
+    },
+    {
+      "surface": "תמעלו",
+      "gloss": "mivadika (manao tsiambaratelo)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "אפיץ",
+      "gloss": "hanaparitaka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "amin'ny firenena"
+    }
+  ],
+  "timestamp": "2026-08-31T17:29:28.299232234Z",
+  "model": "glm-5.3"
+}

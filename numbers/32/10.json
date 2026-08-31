@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Dia mirehitra ny fahatezeran'i Yahveh tamin'izay andro izay, ary nianianana izy ka nanao hoe",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "mirehitra"
+    },
+    {
+      "surface": "אף",
+      "gloss": "fahatezerana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'izay andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izay"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "nianianana"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T13:36:56.461636641Z",
+  "model": "glm-5.3"
+}

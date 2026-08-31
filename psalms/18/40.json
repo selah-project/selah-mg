@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Fa ianao no niadiana ahy hery ho an'ny ady, ka nampanetraka ambaninao izay nitsangana hiady amiko.",
+  "tokens": [
+    {
+      "surface": "ותאזרני",
+      "gloss": "niadiana ahy"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "hery"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ho an'ny ady"
+    },
+    {
+      "surface": "תכריע",
+      "gloss": "nampanetraka"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "izay nitsangana hiady amiko"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "ambaninao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:10.983172315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 7:18",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary hikapa lamba fisaonana izy, ary horafenin'ny horohoro ⟨את⟩ izy; ary amin'ny tarehy rehetra misy fahafaham-baraka, ary amin'ny lohany rehetra misy fisaraham-bolo.",
+  "tokens": [
+    {
+      "surface": "וחגרו",
+      "gloss": "ary hikapa"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "lamba fisaonana"
+    },
+    {
+      "surface": "וכסתה",
+      "gloss": "ary hosarony"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "horohoro"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "horohoro"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary amin'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "tarehy"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "fahafaham-baraka"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "ary amin'ny ... rehetra"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "lohany"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "fisaraham-bolo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:48:22.159072921Z",
+  "model": "glm-5.3"
+}

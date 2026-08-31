@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "sy ⟨את⟩ ny alitaran'ny setroka fanatitra sy ⟨את⟩ bara-barany sy ⟨את⟩ ny diloilom-pahosotra ary ⟨את⟩ ny setroka.manitra sy ⟨את⟩ ny efitra fidirana eo am-pidirana ny trano-lay",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny alitaran'ny setroka fanatitra"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "setroka fanatitra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "bara-barany"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "bara-barany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny diloilom-pahosotra"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "diloilo"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "fahosotra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny setroka-manitra"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "setroka-manitra"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "zava-manitra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny efitra fidirana"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "efitra fidirana"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ny fidirana"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "eo am-pidirana"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ny trano-lay"
+    }
+  ],
+  "timestamp": "2026-08-31T13:08:08.028638327Z",
+  "model": "glm-5.3"
+}

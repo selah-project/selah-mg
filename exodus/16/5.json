@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary ho tonga izany: amin'ny andro fahenina dia efa voaomana ⟨את⟩ izay ho entina; ary ho roa heny izany raha oharina amin'izay voaangony isan'andro.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ary ho tonga izany"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "fahenina"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "efa voaomana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay ho entina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "ho entina"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ary ho"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "roa heny"
+    },
+    {
+      "surface": "על",
+      "gloss": " raha oharina amin'"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "voaangony"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    }
+  ],
+  "timestamp": "2026-08-31T13:01:40.509682773Z",
+  "model": "glm-5.3"
+}

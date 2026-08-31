@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 8:11",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Izay nomen'ny mpanjaka ny Jiosy izay tao an-tanàna rehetra sy tanàna, hitory teny ary hijanona hiaro ny ainy, handrava sy hamono ary handringana ⟨את⟩ ny tafika rehetra amin'ny olona sy ny faritany manenjika ⟨את⟩ azy, mbamin'ny madinika sy ny vehivavy, ary ny baboany ho baboina.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nomen'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "ליהודים",
+      "gloss": "ny Jiosy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tao an-"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tanàna rehetra"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "sy tanàna"
+    },
+    {
+      "surface": "להקהל",
+      "gloss": "hitory teny"
+    },
+    {
+      "surface": "ולעמד",
+      "gloss": "ary hijanona"
+    },
+    {
+      "surface": "על",
+      "gloss": "hiaro"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ny ainy"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "handrava"
+    },
+    {
+      "surface": "ולהרג",
+      "gloss": "sy hamono"
+    },
+    {
+      "surface": "ולאבד",
+      "gloss": "ary handringana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tafika rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "tafika"
+    },
+    {
+      "surface": "עם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "ומדינה",
+      "gloss": "sy faritany"
+    },
+    {
+      "surface": "הצרים",
+      "gloss": "manenjika"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azy",
+      "marks": "ny madinika sy ny vehivavy"
+    },
+    {
+      "surface": "טף",
+      "gloss": "madinika"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "sy vehivavy"
+    },
+    {
+      "surface": "ושללם",
+      "gloss": "ny baboany"
+    },
+    {
+      "surface": "לבוז",
+      "gloss": "ho baboina"
+    }
+  ],
+  "timestamp": "2026-08-31T19:13:04.097649380Z",
+  "model": "glm-5.3"
+}

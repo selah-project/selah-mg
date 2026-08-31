@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Dia nihaona tamin'i Moshe ⟨את⟩ sy tamin'i Aharon ⟨את⟩ izy ireo, izay nitsangana hiady taminy, rehefa nivoaka avy tamin'i Parao ⟨את⟩ izy.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "dia nihaona tamin'ny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "izay nitsangana"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "hiady taminy"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "rehefa nivoaka"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ avy tamin'ny",
+      "marks": "Parao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:55:32.288256394Z",
+  "model": "glm-5.3"
+}

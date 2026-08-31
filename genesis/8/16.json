@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Mivoaha avy amin'ny sambo ianao sy ny vadinao sy ny zanakao lahy ary ny vadin'ny zanakao ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Mivoaha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "sy ny vadinao"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "sy ny zanakao lahy"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "ary ny vadin'ny"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "zanakao"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:51.535664380Z",
+  "model": "glm-5.3"
+}

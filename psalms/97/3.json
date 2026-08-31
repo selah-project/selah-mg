@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 97,
+  "translation": "Afo no mandeha eo alohany, ka mandoro ny fahavalony manodidina.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Afo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "eo alohany"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "ka mandoro"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "ny fahavalony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:44.901921534Z",
+  "model": "glm-5.3"
+}

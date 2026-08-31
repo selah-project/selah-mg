@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Roa ambin'ny folo izahay, rahalahy, zanaka iray tamin'ny rainay; ny iray tsy misy intsony, ary ny faralahy eo anio ⟨את⟩ amin'ny rainay any amin'ny tany Kenaana.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "roa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ambin'ny folo"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "izahay"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "rahalahy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "tamin'ny rainay"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ny iray"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "tsy misy intsony"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "ary ny faralahy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "eo anio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin'ny rainay"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "rainay"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "any amin'ny tany"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    }
+  ],
+  "timestamp": "2026-08-31T12:50:44.885489483Z",
+  "model": "glm-5.3"
+}

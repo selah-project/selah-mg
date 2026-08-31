@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 3:22",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "ny akanjo matsiro ho an'ny fety sy ny akanjo anamboarana sy ny lamba fisiana sy ny kitendry",
+  "tokens": [
+    {
+      "surface": "המחלצות",
+      "gloss": "ny akanjo matsiro ho an'ny fety"
+    },
+    {
+      "surface": "והמעטפות",
+      "gloss": "sy ny akanjo anamboarana"
+    },
+    {
+      "surface": "והמטפחות",
+      "gloss": "sy ny lamba fisiana"
+    },
+    {
+      "surface": "והחריטים",
+      "gloss": "sy ny kitendry"
+    }
+  ],
+  "timestamp": "2026-08-31T15:03:16.068771175Z",
+  "model": "glm-5.3"
+}

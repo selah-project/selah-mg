@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary hitranga amin'izany andro izany fa hovoako ⟨את⟩ ny tondronosin'i Yisrael amin'ny lohasahan'i Yizreel.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ary hitranga"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'izany andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "fa hovoako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tondronosin'i Yisrael"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "tondronosy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "amin'ny lohasaha"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-31T16:07:30.430944299Z",
+  "model": "glm-5.3"
+}

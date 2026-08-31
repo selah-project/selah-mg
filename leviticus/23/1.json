@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 23:1",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary Yahveh niresaka tamin'i Moshe hoe:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "niresaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T13:20:08.883296755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary hitaony ⟨את⟩ ny tany i Ashor amin'ny sabatra, sy ⟨את⟩ ny tany i Nimrod amin'ny fidirana aminy; ary hamonjy amin'i Ashor izy, raha miditra ao amin'ny tantsika, ary raha mitety eo amin'ny fari-tanintsika.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "hitaony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany i Ashor"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashor"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "amin'ny sabatra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tany i Nimrod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "amin'ny fidirana aminy"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "ary hamonjy"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "amin'i Ashor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "raha"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "miditra"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "ao amin'ny tantsika"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ary raha"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "mitety"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "eo amin'ny fari-tanintsika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:14:56.155680103Z",
+  "model": "glm-5.3"
+}

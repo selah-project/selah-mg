@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary hoy Moshe tamin'ny vahoaka: Aza matahotra ianareo; fa hitandrahana anareo no nahatongan'ny Elohim, ary mba ho eo anatrehonareo ny fahatahorana Azy, mba tsy hanota ianareo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "matahotra ianareo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "no nahatongan'ny"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "hitandrahana"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "fahatongavana"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "ary mba"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "fahatahorana Azy"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "anatrehonareo"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "mba tsy"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "hanota ianareo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:57:04.524752054Z",
+  "model": "glm-5.3"
+}

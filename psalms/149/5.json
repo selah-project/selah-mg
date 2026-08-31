@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 149,
+  "translation": "Aoka hifaly amin'ny voninahitra ny masina; aoka hihoby eo ambonin'ny fandriany izy ireo.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "aoka hifaly"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "ny masina"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "amin'ny voninahitra"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "aoka hihoby"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambonin'ny"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "fandriany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:44.461629710Z",
+  "model": "glm-5.3"
+}

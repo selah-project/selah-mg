@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Eny, amin'ny lalan'ny fitsaranao no andrasantsika Anao, ry Yahveh; ny anaranao sy ny fahatsiarovana anao no fanirian'ny fanahy.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Eny"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "amin'ny lalan'ny"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "fitsaranao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "no andrasantsika Anao"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ny anaranao"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "sy ny fahatsiarovana anao"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "no fanirian'ny"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "fanahy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:08:23.121619686Z",
+  "model": "glm-5.3"
+}

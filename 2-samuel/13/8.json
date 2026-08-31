@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 13:8",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary Tamara nandeha ho any an-tranon'i Amnon rahalahiny, ary izy nandry; dia naka ⟨את⟩ ny tsaramaso... ⟨את⟩ ny mofo fovy.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamara"
+    },
+    {
+      "surface": "בית",
+      "gloss": "an-tranon'i"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "rahalahiny"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "nandry"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "naka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vatofotsiny"
+    },
+    {
+      "surface": "הבצק",
+      "gloss": "ny vatofotsiny"
+    },
+    {
+      "surface": "ותלוש",
+      "gloss": "namaina"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "nanao mofo fovy"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "teo imasony"
+    },
+    {
+      "surface": "ותבשל",
+      "gloss": "nanendry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mofo fovy"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "ny mofo fovy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:33:06.560914890Z",
+  "model": "glm-5.3"
+}

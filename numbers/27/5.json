@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ary Moshe nanatitra ⟨את⟩ ny fitsarany teo anatrehan'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "nanatitra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitsarany"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "ny fitsarany"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anatrehan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:35:30.373244239Z",
+  "model": "glm-5.3"
+}

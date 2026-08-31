@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Yahveh Elohinareo efa nampitombo ⟨את⟩ anareo, ary indro fa tahaka ny kintan'ny lanitra ianareo anio amin'ny betsany.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "efa nampitombo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "ary indro fa ianareo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "anio"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "tahaka ny kintan'ny"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "lanitra"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "amin'ny betsany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:40:06.197458574Z",
+  "model": "glm-5.3"
+}

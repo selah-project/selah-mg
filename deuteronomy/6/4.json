@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Mihainoa, ry Isiraely: Yahveh Elohinay, Yahveh iray.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Mihainoa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ry Isiraely"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohinay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    }
+  ],
+  "timestamp": "2026-08-31T13:42:10.045278194Z",
+  "model": "glm-5.3"
+}

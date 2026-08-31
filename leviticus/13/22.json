@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary raha misarahana amin'ny hoditra izy, dia hambara ho tsy madio ⟨את⟩ azy ny mpisorona; aretina izany.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ary raha"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "misarahana"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "misarahana"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "amin'ny hoditra"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "dia hambara ho tsy madio"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ilay olona)"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "aretina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:16:14.158339299Z",
+  "model": "glm-5.3"
+}

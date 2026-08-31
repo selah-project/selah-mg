@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 81,
+  "translation": "Vavolombelona tao amin'i Yosefa no nataony, tamin'ny nivoahany tamin'ny tany Mitsrayim; fiteny tsy fantatro no reko.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "Vavolombelona"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "tao amin'i Yosefa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "no nataony"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "tamin'ny nivoahany"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "fiteny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "fantatro"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "no reko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:34.950793206Z",
+  "model": "glm-5.3"
+}

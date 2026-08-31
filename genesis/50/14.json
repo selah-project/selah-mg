@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 50:14",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 50,
+  "translation": "Ary Yosefa niverina tany Mitsrayim, izy sy ny rahalahiny mbamin'izay rehetra niakatra niaraka ⟨את⟩ ⟨amin'⟩azy hanina ⟨את⟩ ny rainy, rehefa voavony ⟨את⟩ ny rainy.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Ary niverina"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "tany Mitsrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "sy ny rahalahiny"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mbamin'izay rehetra"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "niakatra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨amin'⟩azy"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "hanina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rainy"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ny rainy"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rehefa"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "voavony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rainy"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ny rainy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:55:41.884991891Z",
+  "model": "glm-5.3"
+}

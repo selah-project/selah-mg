@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary niaina taona telo amby efa-ra-jato i Shelach, taorian'ny niterahany an'i ⟨את⟩ Ever, ka niteraka zanakalahy sy zanakavavy.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "niaina"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelach"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "taorian'ny"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "niterahany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "telo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taona"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "efa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "zato"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zanakalahy"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "zanakavavy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:38:07.838561046Z",
+  "model": "glm-5.3"
+}

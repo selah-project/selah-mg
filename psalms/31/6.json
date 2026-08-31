@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ao an-tananao no atolotro ny fanahiko; efa navotanao ⟨את⟩ aho, ry Yahveh, El mahatoky.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Ao an-tananao"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "no atolotro"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ny fanahiko"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "efa navotanao"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "aho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "mahatoky"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:38.796242985Z",
+  "model": "glm-5.3"
+}

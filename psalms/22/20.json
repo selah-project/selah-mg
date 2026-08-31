@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Fa ianao, Yahveh, aza manalavira; ry hery ïay, maingona ho amin'ny f\/anampiana ahy.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Fa ianao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "manalavira"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "ry hery ïay"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ho amin'ny fanampiana ahy"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "maingona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:48.347576656Z",
+  "model": "glm-5.3"
+}

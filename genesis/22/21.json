@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "⟨את⟩ Utz zanany lahimatoa, ary ⟨את⟩ Buz rahalahiny, ary ⟨את⟩ Kemuel rainy ⟨i⟩ Arama;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Utz"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Utz"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "zanany lahimatoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Buz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "rahalahiny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Kemuel"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemuel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rainy"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    }
+  ],
+  "timestamp": "2026-08-31T12:41:21.217570135Z",
+  "model": "glm-5.3"
+}

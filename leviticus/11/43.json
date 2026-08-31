@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Aza manao fahavetavetana ⟨את⟩ ny fanahinareo amin'ny zava-miaina miparitaka rehetra izay miparitaka, ary aza maloto amin'ireo, mba ho maloto amin'ireo ianareo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "manao fahavetavetana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanahinareo"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "ny fanahinareo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "zava-miaina miparitaka"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "izay miparitaka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "maloto"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "amin'ireo"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "mba ho maloto"
+    },
+    {
+      "surface": "בם",
+      "gloss": "amin'ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:15:09.175834997Z",
+  "model": "glm-5.3"
+}

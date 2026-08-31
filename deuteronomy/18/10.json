@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Tsy hita eo aminao izay mampanoy ny zanany lahy sy ny zanany vavy eo amin'ny afo, mpisikidy sikidy, mpamantarana, mpamorona, ary mpanao hatsarana.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "hita"
+    },
+    {
+      "surface": "בך",
+      "gloss": "eo aminao"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "mampanoy"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ny zanany lahy"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "sy ny zanany vavy"
+    },
+    {
+      "surface": "באש",
+      "gloss": "eo amin'ny afo"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "mpisikidy"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "sikidy"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "mpamantarana"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "sy mpamorona"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "ary mpanao hatsarana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:47:20.972703723Z",
+  "model": "glm-5.3"
+}

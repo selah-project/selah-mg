@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "isaiah 37:35",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary ho tafavoizako ity tanàna ity hanafaka azy, noho ny ahy, ary noho an'i Davida mpanompoko.",
+  "tokens": [
+    {
+      "surface": "וגנותי",
+      "gloss": "ho tafavoizako"
+    },
+    {
+      "surface": "על",
+      "gloss": "(tafavoaka) — ampiharina amin'ny: ampiharina amin'ny"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ity tanàna ity"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ity (ity)"
+    },
+    {
+      "surface": "להושיעה",
+      "gloss": "hanafaka azy"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "noho ny ahy"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ary noho"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "an'i Davida"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mpanompoko"
+    }
+  ],
+  "timestamp": "2026-08-31T18:25:21.739064893Z",
+  "model": "glm-5.3"
+}

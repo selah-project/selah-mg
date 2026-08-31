@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 34:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ary ny voafandrina amin'ny am-pahafatesana amin'izy ireo hariana, ary ny fatiny hiakatra amin'ny fofona, ary hihintsana ny tendrombohitra noho ny ra amin'izy ireo.",
+  "tokens": [
+    {
+      "surface": "וחלליהם",
+      "gloss": "ary ny voafandrina amin'ny am-pahafatesana amin'izy ireo"
+    },
+    {
+      "surface": "ישלכו",
+      "gloss": "hariana"
+    },
+    {
+      "surface": "ופגריהם",
+      "gloss": "ary ny fatiny"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "hiakatra"
+    },
+    {
+      "surface": "באשם",
+      "gloss": "amin'ny fofona"
+    },
+    {
+      "surface": "ונמסו",
+      "gloss": "ary hihintsana"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ny tendrombohitra"
+    },
+    {
+      "surface": "מדמם",
+      "gloss": "noho ny ra amin'izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:12:56.440551091Z",
+  "model": "glm-5.3"
+}

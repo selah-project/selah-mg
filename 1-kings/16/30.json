@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary i Achab zanak'i Omri nanao ny ratsy eo imason'i Yahveh, mihoatra noho izay rehetra teo alohany.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ary nanao"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ny ratsy"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "eo imason'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "mihoatra noho izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "teo alohany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:47:07.580784422Z",
+  "model": "glm-5.3"
+}

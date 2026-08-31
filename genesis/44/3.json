@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Rehefa mazava ny maraina, dia nalefa ireo lehilahy, izy sy ny borikiny.",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "ny maraina"
+    },
+    {
+      "surface": "אור",
+      "gloss": "mazava"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "dia ireo lehilahy"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "nalefa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "sy ny borikiny"
+    }
+  ],
+  "timestamp": "2026-08-31T12:51:54.049899101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 1:3",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary tamin'ny taona fahefatra amby telo-polo, amin'ny volana iraika ambin'ny folo, amin'ny andro voalohany amin'ny volana, dia niteny tamin'ny zanak'Isiraely i Moshe, araka izay rehetra nandidian'i Yahveh azy hatao amin'izy ireo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary tamin'ny"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "fahefatra amby telo-polo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "amin'ny volana iraika ambin'ny"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "folo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "volana"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "amin'ny andro voalohany"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "amin'ny volana"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "niteny"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "araka izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidian'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (Moshe)"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "amin'izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:40:27.508160391Z",
+  "model": "glm-5.3"
+}

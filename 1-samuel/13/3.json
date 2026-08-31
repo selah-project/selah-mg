@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary namely ⟨את⟩ ny miaramila mpiambina amin'ny Filistina izay tao Geba i Yonatan, ary ren'ny Filistina izany; ary Shaol nitsoka ny torka manerana ny tany rehetra, hoe: Aoka ho ren'ny Hebreo.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ary namely"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny miaramila mpiambina amin'ny Filistina"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "miaramila mpiambina"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "tao Geba"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "ary ren'ny"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistina"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ary Shaol"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "nitsoka"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "ny torka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "manerana"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany rehetra"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "aoka ho ren'ny"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Hebreo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:18:03.054818325Z",
+  "model": "glm-5.3"
+}

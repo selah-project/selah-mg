@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary raha mihinana ianareo sy raha misotro, tsy ianareo va no mihinana, ary ianareo no misotro ⟨ho an'ny tenanareo⟩?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ary raha"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mihinana ianareo"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "sy raha"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "misotro"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "tsy va"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ianareo"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "no mihinana"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ary ianareo"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "no misotro"
+    }
+  ],
+  "timestamp": "2026-08-31T16:19:50.376486952Z",
+  "model": "glm-5.3"
+}

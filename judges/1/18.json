@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary nahazo an'i Aza sy ⟨את⟩ ny faritr'i Aza sy ⟨את⟩ Ashkelona sy ⟨את⟩ ny faritr'Ashkelona sy ⟨את⟩ Ekrona sy ⟨את⟩ ny faritr'Ekrona Yehuda.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "nahazo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Aza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny faritr'i Aza"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "ny faritr'i Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Ashkelona"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny faritr'Ashkelona"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "ny faritr'Ashkelona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Ekrona"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekrona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny faritr'Ekrona"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "ny faritr'Ekrona"
+    }
+  ],
+  "timestamp": "2026-08-31T14:03:56.470877933Z",
+  "model": "glm-5.3"
+}

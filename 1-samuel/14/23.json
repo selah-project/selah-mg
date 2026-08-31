@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary Yahveh namonjy ⟨את⟩ an'i Israel tamin'izay andro izay; ary ny ady niampitra ⟨את⟩ Beti-Avena.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "Ary ... namonjy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izay andro izay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "ary ny ady"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "niampitra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beti-Avena"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti"
+    },
+    {
+      "surface": "און",
+      "gloss": "Avena"
+    }
+  ],
+  "timestamp": "2026-08-31T14:19:38.769493439Z",
+  "model": "glm-5.3"
+}

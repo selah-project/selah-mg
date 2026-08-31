@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Tsy mitondra azy ho amin'ny fidirana amin'ny lain'ny fihaonana hanatitra azy ho an'i Yahveh izy; hofongorana amin'ny olony ilay olona.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ho amin'ny"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "fidirana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "lay"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "mitondra azy"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hanatitra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "hofongorana"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ilay olona"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "amin'ny olony"
+    }
+  ],
+  "timestamp": "2026-08-31T13:18:12.401121189Z",
+  "model": "glm-5.3"
+}

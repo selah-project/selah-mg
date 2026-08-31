@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 25:7",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary namono ⟨את⟩ zanak'i Tsidkiyaho teo anatrehany izy; ary ny mason'i Tsidkiyaho dia nohamoiny, ka namatotra azy tamin'ny gadra varahina izy ka nitondra ho any Babylona.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zanak'i Tsidkiyaho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyaho"
+    },
+    {
+      "surface": "שחטו",
+      "gloss": "namono"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "teo anatrehany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny mason'i Tsidkiyaho"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ny mason'i"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyaho"
+    },
+    {
+      "surface": "עור",
+      "gloss": "nohamoiny"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "namatotra azy"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "tamin'ny gadra varahina"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "nitondra"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ho any Bablona"
+    }
+  ],
+  "timestamp": "2026-08-31T15:01:00.893864285Z",
+  "model": "glm-5.3"
+}

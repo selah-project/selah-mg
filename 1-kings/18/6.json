@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 18:6",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary nizara ny tany izy roa ⟨hafa⟩ hitety azy: Achaba nandeha tamin'ny lalana iray ho azy tokana, ary Ovadia nandeha tamin'ny lalana iray ho azy tokana.",
+  "tokens": [
+    {
+      "surface": "ויחלקו",
+      "gloss": "nizara"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "hitety"
+    },
+    {
+      "surface": "בה",
+      "gloss": "azy"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achaba"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tamin'ny lalana"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ho azy tokana"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "ary Ovadia"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tamin'ny lalana"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ho azy tokana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:47:45.659526536Z",
+  "model": "glm-5.3"
+}

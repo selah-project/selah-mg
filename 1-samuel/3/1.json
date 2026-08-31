@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary ilay tovolahy Shemuel nanompo ⟨את⟩ i Yahveh eo anoloan'i Eli, ary ny tenin'i Yahveh dia zava-tsarobidy tamin'izany andro izany; tsy nisy fahitana mipoaka.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "Ary ilay tovolahy"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "nanompo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anoloan'i"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ary ny tenin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "היה",
+      "gloss": "dia"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "zava-tsarobidy"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "izany"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy nisy"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "fahitana"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "mipoaka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:15:01.118094150Z",
+  "model": "glm-5.3"
+}

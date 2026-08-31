@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 14:6",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Mitady fahendrena ny mpanantsara, nefa tsy misy; fa mora ho an'ny manam-pahalalana ny fahalalana.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "mitady"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "ny mpanantsara"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "fahendrena"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "fa tsy misy"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "fa ... ny fahalalana"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "ho an'ny manam-pahalalana"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "mora"
+    }
+  ],
+  "timestamp": "2026-08-31T16:53:12.101472830Z",
+  "model": "glm-5.3"
+}

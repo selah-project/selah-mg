@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 14:17",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary Shaul nanao teny tamin'ny olona izay ⟨teo⟩ aminy: Manisa ⟨azafady⟩, ary jereo iza no nandeha niala tamintsika. Ary rehefa voaisa, indro, tsy hita Yonatan sy ilay nitondra ny fiadiany.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao teny"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tamin'ny olona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ aminy",
+      "marks": "aminy (preposition את, not the DOM)"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "Manisa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "ary jereo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nandeha niala"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "tamintsika"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "rehefa voaisa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy hita"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "sy ilay nitondra"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ny fiadiany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:20:14.543813384Z",
+  "model": "glm-5.3"
+}

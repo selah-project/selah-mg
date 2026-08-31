@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Tsy hangala lehilahy ⟨את⟩ vadin-drainy, ary tsy hanambara ny falin'ny rainy.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "hangala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vadin-drainy"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vadin-"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rainy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "hanambara"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ny falin'ny"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rainy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:48:37.967682283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 27:2",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ary hanao ny tandrony eo amin'ny zorony efatra ianao; avy aminy no hatao ny tandrony, ary hosaronao ⟨את⟩ amin'ny varahina izy.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ny tandrony"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "efatra"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "zorony"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "avy aminy"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "no hatao"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "ny tandrony"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "hosaronao"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "izy (ny alitara)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "amin'ny varahina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:05:03.132120314Z",
+  "model": "glm-5.3"
+}

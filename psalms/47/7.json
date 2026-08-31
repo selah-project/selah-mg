@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 47,
+  "translation": "Mandopa an'i Elohim, mandopa; mandopa ho an'ny mpanjakantsika, mandopa.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "mandopa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "mandopa"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "mandopa"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "ho an'ny mpanjakantsika"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "mandopa"
+    }
+  ],
+  "timestamp": "2026-08-31T16:30:57.329336206Z",
+  "model": "glm-5.3"
+}

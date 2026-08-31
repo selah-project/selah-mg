@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 115,
+  "translation": "Sarin'izy ireo ⟨dia⟩ volafotsy sy volamena, asan'ny tànan'ny olombelona.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "Sarin'izy ireo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "sy volamena"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "asan'ny"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tànan'ny"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olombelona"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:44.460232199Z",
+  "model": "glm-5.3"
+}

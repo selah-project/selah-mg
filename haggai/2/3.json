@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 2:3",
+  "book": "haggai",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Iza aminareo no sisa izay nahita ⟨את⟩ ity trano ity tamin'ny voninahiny voalohany? Ary ahoana no ianareo mahita azy ⟨את⟩ izao? Tsy toy ny tsy misy akory va izy eo amin'ny masonareo?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Iza"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "aminareo no"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "sisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nahita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ity trano ity"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ity trano ity"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "tamin'ny voninahiny"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "voalohany"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Ary ahoana no"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ianareo"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "mahita"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (ity trano ity)"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "izao"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Tsy ... va"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "toy ny"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "tsy misy akory"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "eo amin'ny masonareo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:18:41.265525405Z",
+  "model": "glm-5.3"
+}

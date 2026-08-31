@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 6:30",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary hoy ny lehilahy tao an-tanàna tamin'i Yoash: Avoaky ny zanakao, ary hotsipirina ho faty, sarry efa nandrava ⟨את⟩ ny alitaran'i Baala izy, ary efa namototra ny Ashera izay teo ambony azy.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ny lehilahy"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tao an-tanàna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "Avoaky"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanakao"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ny zanakao"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ary hotsipirina ho faty"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sarry"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "efa nandrava"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny alitaran'i Baala"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ny alitara"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "an'i Baala"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ary sarry"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "efa namototra"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "ny Ashera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "teo ambony azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:07:29.127587223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 139,
+  "translation": "Ianao mahalala ⟨ny⟩ fipetrahako sy ny fihetsaho, mandinika ny hevitra rehetra anatrehanao ahy any lavitra.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ianao"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "fipetrahako"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "sy ny fihetsaho"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "mandinika"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "hevitra rehetra anatrehanao ahy"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "any lavitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:48.165546916Z",
+  "model": "glm-5.3"
+}

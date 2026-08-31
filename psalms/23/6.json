@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Eny, ny soa sy ny hesed no hanenjika ahy amin'ny andro rehetra hiainako; ary hipetraka ao an-tranon'i Yahveh aho amin'ny andro lava.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Eny"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ny soa"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "sy ny hesed"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "no hanenjika ahy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "andro"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hiainako"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "ary hipetraka"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ao an-tranon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro lava"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:28.336358317Z",
+  "model": "glm-5.3"
+}

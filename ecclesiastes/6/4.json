@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Fa amin'ny hevel no tonga izy, ary amin'ny maizina no mandeha, ary amin'ny maizina no voasarona ny anarany.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "amin'ny hevel"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ary amin'ny maizina"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ary amin'ny maizina"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "voasarona"
+    }
+  ],
+  "timestamp": "2026-08-31T18:16:53.361331330Z",
+  "model": "glm-5.3"
+}

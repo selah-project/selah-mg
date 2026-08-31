@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ny mpitondra tena rehetra sy ny kamboty tsy horesahinareo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "mpitondra tena"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "sy ny kamboty"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "horesahinareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:02:40.763758344Z",
+  "model": "glm-5.3"
+}

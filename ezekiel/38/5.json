@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Parasa, Kosy ary Puta ⟨miaraka amin'izy ireo⟩; izy rehetra ⟨manana⟩ ampinga sy fiarovan-doha.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "Parasa"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kosy"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "ary Puta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izy ireo (miaraka amin'izy ireo)"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "izy rehetra"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ampinga"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "sy fiarovan-doha"
+    }
+  ],
+  "timestamp": "2026-08-31T16:01:58.566827790Z",
+  "model": "glm-5.3"
+}

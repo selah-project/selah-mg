@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 24:18",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Dia nahafoy ny tranon'i Yahveh, Elohin'ny razany izy, ka nanompo ⟨את⟩ ny Ashera sy ⟨את⟩ ny sarin-javatra voatahiry; ary tonga ny fahatezerana tamin'i Yehuda sy Yeroshalayim noho ny fahadisoany ity.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Dia nahafoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tranon'i Yahveh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ny trano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'ny"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "razany"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ka nanompo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "ny Ashera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny sarin-javatra voatahiry"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "ny sarin-javatra voatahiry"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ary tonga"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "ny fahatezerana"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "sy Yeroshalayim"
+    },
+    {
+      "surface": "באשמתם",
+      "gloss": "noho ny fahadisoany"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ity"
+    }
+  ],
+  "timestamp": "2026-08-31T18:21:00.479600139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Izay tia volafotsy tsy voky amin'ny volafotsy, ary izay tia be dia be tsy mahavoaka tombony; ity koa dia hevel.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "izay tia"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "voky"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "amin'ny volafotsy"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ary izay"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "tia"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "be dia be"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "mahavoaka tombony"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:38.703914198Z",
+  "model": "glm-5.3"
+}

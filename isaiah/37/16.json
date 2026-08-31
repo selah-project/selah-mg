@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Yahveh Zava-bahoaka, Elohin'i Isiraely, mipetraka eo ambonin'ny kerobima, Hianao no ilay Elohim, Hianao irery, ho an'ny fanjakana rehetra amin'ny tany; Hianao no nanao ⟨את⟩ ny lanitra sy ⟨את⟩ ny tany.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Zava-bahoaka"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "mipetraka eo ambonin'ny"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerobima"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Hianao"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no ilay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "Hianao irery"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho an'ny... rehetra"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "fanjakana"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Hianao"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "no nanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lanitra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:13:28.193368872Z",
+  "model": "glm-5.3"
+}

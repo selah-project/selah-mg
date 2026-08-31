@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Nanao fitsarana sy fahamarinana aho; aza ahafahana ahy ho an'ireo mpanery ahy.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "fitsarana"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "sy fahamarinana"
+    },
+    {
+      "surface": "בל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "ahafahana ahy"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "ho an'ireo mpanery ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:24.313449326Z",
+  "model": "glm-5.3"
+}

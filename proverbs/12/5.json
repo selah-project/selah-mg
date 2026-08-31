@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ny hevitr'ny marina dia fitsarana, fa ny tetik'ny ratsy fanahy dia fitaka.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "ny hevitra"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ny marina"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "fitsarana"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "ny tetika"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "fitaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:52:29.427581381Z",
+  "model": "glm-5.3"
+}

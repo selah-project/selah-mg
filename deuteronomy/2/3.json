@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Efa ampy ny fandehanareo manodidina io tendrombohitra io; mitodira ianareo ⟨⟨ ho⟩⟩ avaratra.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "ampy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ny fandehanareo"
+    },
+    {
+      "surface": "סב",
+      "gloss": "mandeha manodidina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "io tendrombohitra io"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "io tendrombohitra io"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "io"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "mitodira ianareo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ianareo"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "avaratra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:39:52.362753059Z",
+  "model": "glm-5.3"
+}

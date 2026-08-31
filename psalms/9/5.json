@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Fa nanao ny fitsarako sy ny raharahako Hianao; efa nipetraka amin'ny ⟨seza⟩ Hianao, mpitsara marina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ny fitsarako"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "sy ny raharahako"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "efa nipetraka"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "amin'ny seza"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "mpitsara"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "marina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:39.254433672Z",
+  "model": "glm-5.3"
+}

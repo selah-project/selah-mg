@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 7:7",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary Yahveh nanao tamim'i Gidona: Amin'ny telon-jato lahy mifanipy no hahavaho anareo ⟨את⟩, ka hatolotro ⟨את⟩ Midiana eo an-tananao; ary ny vahoaka rehetra handeha samirery ho any amin'ny fonenany.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary nanao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gidona"
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "Amin'ny telo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "-jato"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lahy"
+    },
+    {
+      "surface": "המלקקים",
+      "gloss": "mifanipy"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "no hahavaho"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo",
+      "marks": "anareo"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ka hatolotro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midiana"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiana"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "eo an-tananao"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "handeha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "samirery"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "ho any amin'ny fonenany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:07:58.106519303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 22:29",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Fa an'i Yahveh ⟨no⟩ misy ny fanjakana, ary izy no manapaka amin'ny firenena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ny fanjakana"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ary manapaka"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "amin'ny firenena"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:02.806981259Z",
+  "model": "glm-5.3"
+}

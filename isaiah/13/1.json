@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Masa ny amin'i Bavel, izay nohitin'i Yeshayahu zanak'i Amots.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "masa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "nahita"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    }
+  ],
+  "timestamp": "2026-08-31T15:05:56.268707218Z",
+  "model": "glm-5.3"
+}

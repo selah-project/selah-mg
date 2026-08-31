@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary Davida nandidy ⟨את⟩ ny olona izay ⟨את⟩ tao aminy, ka nametraka tamin'ireo lehiben'ny arivo sy lehiben'ny zato.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "nandidy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny olona"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ tao aminy"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "nametraka"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "tamin'ireo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "arivo"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "sy lehiben'ny"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "zato"
+    }
+  ],
+  "timestamp": "2026-08-31T14:34:14.518176554Z",
+  "model": "glm-5.3"
+}

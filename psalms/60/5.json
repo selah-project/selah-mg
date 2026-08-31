@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 60,
+  "translation": "Naneho zava-mafy ho an'ny olonao ianao; nampisotro divay mandratra anay ianao.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "Naneho"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ho an'ny olonao"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "zava-mafy"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "nampisotro anay"
+    },
+    {
+      "surface": "יין",
+      "gloss": "divay"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "mandratra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:42.365223881Z",
+  "model": "glm-5.3"
+}

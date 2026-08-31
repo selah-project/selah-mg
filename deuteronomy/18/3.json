@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 18:3",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary ity no ho lalàn'ny mpisorona avy amin'ny vahoaka: ⟨את⟩ avy amin'ireo mandratsy fanatitra ⟨את⟩ — omby na ondry — homena ny mpisorona ny sandry sy ny takolakely roa ary ny kibo.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ary ity"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "no ho"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "lalàn'"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ avy amin'",
+      "marks": "ny vahoaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ avy amin'ireo",
+      "marks": "mandratsy fanatitra"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "mandratsy"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "fanatitra"
+    },
+    {
+      "surface": "אם",
+      "gloss": "na"
+    },
+    {
+      "surface": "שור",
+      "gloss": "omby"
+    },
+    {
+      "surface": "אם",
+      "gloss": "na"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ondry"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "homena"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "ny sandry"
+    },
+    {
+      "surface": "והלחיים",
+      "gloss": "sy ny takolakely roa"
+    },
+    {
+      "surface": "והקבה",
+      "gloss": "ary ny kibo"
+    }
+  ],
+  "timestamp": "2026-08-31T19:13:04.177659966Z",
+  "model": "glm-5.3"
+}

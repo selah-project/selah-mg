@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 22:7",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary hoy Yehoshafata: Tsy misy mpaminanin'i Yahveh koa va eto, mba hitadiavana amin'ny alalany?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafata"
+    },
+    {
+      "surface": "האין",
+      "gloss": "Tsy misy... va"
+    },
+    {
+      "surface": "פה",
+      "gloss": "eto"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "mpaminany"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "koa"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "mba hitadiavana"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "amin'ny alalany ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T14:49:55.295396624Z",
+  "model": "glm-5.3"
+}

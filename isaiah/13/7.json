@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Noho izany dia hihena heriny ny tànana rehetra, ary ny fon'ny olombelona rehetra ho levona.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "tànana"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "hihena heriny"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ny … rehetra"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "fon'"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "olombelona"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "ho levona"
+    }
+  ],
+  "timestamp": "2026-08-31T15:06:12.784065103Z",
+  "model": "glm-5.3"
+}

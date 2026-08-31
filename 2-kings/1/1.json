@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary niodina tamin'i Yisraela Moaba, taorian'ny nahafatesan'i Ahaba.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "niodina tamin'i"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "taorian'ny"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nahafatesan'i"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaba"
+    }
+  ],
+  "timestamp": "2026-08-31T14:50:33.849590287Z",
+  "model": "glm-5.3"
+}

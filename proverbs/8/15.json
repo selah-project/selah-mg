@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 8:15",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Amin'ny alalako ny mpanjaka manjaka, ary ny mpanao lalàna mandinika ny fahamarinana.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "amin'ny alalako"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "ימלכו",
+      "gloss": "manjaka"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "ary mpanao lalàna"
+    },
+    {
+      "surface": "יחקקו",
+      "gloss": "mandinika"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "fahamarinana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:49:58.231021984Z",
+  "model": "glm-5.3"
+}

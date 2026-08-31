@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 7:11",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary Parao kosa nanao antso koa ho amin'ny hendry sy ny mpanao ody; ary izy koa, ny mpanao hatsarana ny kintan'i Mitsrayim, dia nanao toy izany tamin'ny fahaizany.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "nanao antso"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kosa... koa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "ho amin'ny hendry"
+    },
+    {
+      "surface": "ולמכשפים",
+      "gloss": "sy ny mpanao ody"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izy"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "ny mpanao hatsarana ny kintana"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "i Mitsrayim"
+    },
+    {
+      "surface": "בלהטיהם",
+      "gloss": "tamin'ny fahaizany"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toy izany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:56:27.170011193Z",
+  "model": "glm-5.3"
+}

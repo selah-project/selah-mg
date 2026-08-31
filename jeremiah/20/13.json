@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 20:13",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Mihira ho an'i Yahveh, manao voninahitra an'i Yahveh, fa efa nanafaka ⟨את⟩ ny aina (nefesh) sy \/ ny fanahin'ny malahelo tamin'ny tàn'ny mpanao ratsy Izy.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Mihira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "manao voninahitra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "efa nanafaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aina \/ nefesh"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "aina (nefesh)"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ny malahelo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tamin'ny tàn'ny"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "mpanao ratsy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:31:22.813173958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary ny zanak'i Aharon mpisorona handahatra ⟨את⟩ ny tapa-kena, ⟨את⟩ ny loha sy ⟨את⟩ ny tavy, eo ambony ny hazo izay eo ambony ny afo, izay eo ambony ny alitara.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "handahatra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tapa-kena"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "tapa-kena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "loha"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "loha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "tavy"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "tavy"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "האש",
+      "gloss": "afo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alitara"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:45.635360260Z",
+  "model": "glm-5.3"
+}

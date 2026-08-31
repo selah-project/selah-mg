@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Kanefa amin'ity ⟨olona⟩ ity no mampiratra maso ianao, ary ampiditrao amin'ny fitsarana miaraka aminao aho.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Kanefa"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ity"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "mampiratra maso"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "maso"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ ahoe",
+      "marks": "ampiditrao"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "ampiditrao"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "amin'ny fitsarana"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "miaraka aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T17:01:56.354647367Z",
+  "model": "glm-5.3"
+}

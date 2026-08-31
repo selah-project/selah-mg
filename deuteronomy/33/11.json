@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 33:11",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Tahio Yahveh ny heriny ary ny asan'ny tànany alefaso; famafazo ny valakelan'izay mitsangana hameny sy izay mankahala azy, mba tsy hitsangana intsony.",
+  "tokens": [
+    {
+      "surface": "ברך",
+      "gloss": "Tahio"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ny heriny"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "ary ny asan'ny"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tànany"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "alefaso"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "famafazo"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "ny valakelan'ny"
+    },
+    {
+      "surface": "קמיו",
+      "gloss": "izay mitsangana hameny"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "sy izay mankahala azy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mba tsy"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "hitsangana intsony"
+    }
+  ],
+  "timestamp": "2026-08-31T13:53:11.526261941Z",
+  "model": "glm-5.3"
+}

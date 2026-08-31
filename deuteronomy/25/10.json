@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary hatao amin'ny Isiraoly ny anarany hoe: Tranon'ilay nalaina ny sadiny.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "hatao ny anarany"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "amin'ny Isiraoly"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Tranon'"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "nalaina"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "ny sadiny"
+    }
+  ],
+  "timestamp": "2026-08-31T17:59:55.228774509Z",
+  "model": "glm-5.3"
+}

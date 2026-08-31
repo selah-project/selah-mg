@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary nizara tamin'ny olona rehetra any Israely izy, hatramin'ny lehilahy ka hatramin'ny vehivavy — ny lehilahy tsirairay dia nahazo mofo sahala endrika iray, ary ‹eshpar› sy ‹ashišah›.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "nizara"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tamin'ny rehetra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israely"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "hatramin'ny lehilahy"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vehivavy"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ny lehilahy tsirairay"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "mofo endrika boribory"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mofo"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "espar (zanoa tsy fantatra)"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "ashisha (vanoan-tsonga)"
+    }
+  ],
+  "timestamp": "2026-08-31T17:38:27.179428869Z",
+  "model": "glm-5.3"
+}

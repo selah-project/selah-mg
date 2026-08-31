@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary Yahveh ho toeram-piarovana ho an'ny voatsindry, toeram-piarovana amin'ny fotoana fahoriana.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "toeram-piarovana"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "ho an'ny voatsindry"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "toeram-piarovana"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "amin'ny fotoana"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "fahoriana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:13.022543829Z",
+  "model": "glm-5.3"
+}

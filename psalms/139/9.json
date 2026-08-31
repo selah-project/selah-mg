@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 139,
+  "translation": "Raha mampiakatra amin'ny elanelan'ny maraina antsoatra aho ka mitoetra any amin'ny faran'ny ranomasina,",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "mampiakatra"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "elanelan'ny"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "maraina antsoatra"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "mitoetra"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "any amin'ny faran'ny"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ranomasina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:33.310811228Z",
+  "model": "glm-5.3"
+}

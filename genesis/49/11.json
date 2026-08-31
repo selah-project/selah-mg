@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 49:11",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 49,
+  "translation": "Mamatra tendron'ny ampondra amin'ny voaloboka izy, ary ny zanak'ny ampondra vavy amin'ny voaloboka tsara; manasa ny fitafiany amin'ny divay izy, ary ny akanjony amin'ny ran'ny voaloboka.",
+  "tokens": [
+    {
+      "surface": "אסרי",
+      "gloss": "mamatra"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "amin'ny voaloboka"
+    },
+    {
+      "surface": "עירה",
+      "gloss": "tendron'ny ampondra"
+    },
+    {
+      "surface": "ולשרקה",
+      "gloss": "amin'ny voaloboka tsara"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'ny"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "ampondra vavy"
+    },
+    {
+      "surface": "כבס",
+      "gloss": "manasa"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "amin'ny divay"
+    },
+    {
+      "surface": "לבשו",
+      "gloss": "ny fitafiany"
+    },
+    {
+      "surface": "ובדם",
+      "gloss": "amin'ny ran'ny"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "voaloboka"
+    },
+    {
+      "surface": "סותה",
+      "gloss": "ny akanjony"
+    }
+  ],
+  "timestamp": "2026-08-31T12:53:51.900878763Z",
+  "model": "glm-5.3"
+}

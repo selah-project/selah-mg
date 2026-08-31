@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 94,
+  "translation": "Ny mpitondravady maty sy ny vahiny dia vonoiny, ary ny kamboty dia namonoana.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "mpitondravady maty"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "sy ny vahiny"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "vonoiny"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "ary ny kamboty"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "namonoana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:04.965266655Z",
+  "model": "glm-5.3"
+}

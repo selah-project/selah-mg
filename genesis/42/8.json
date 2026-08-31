@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Ary nahalala ⟨את⟩ ny rahalahiny Yosefa, fa ireo kosa tsy nahalala azy.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "Ary nahalala"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rahalahiny"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ny rahalahiny"
+    },
+    {
+      "surface": "והם",
+      "gloss": "fa ireo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "nahalala azy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:51:07.081343060Z",
+  "model": "glm-5.3"
+}

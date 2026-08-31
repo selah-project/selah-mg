@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary Davida namely ⟨את⟩ Hadadezer zanak'i Rehob mpanjakan'i Zobah, tamin'ny nandehany hampody ny tànany teny amin'ny ony.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "namely"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehob"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Zobah"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "tamin'ny nandehany"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "hampody"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ny tànany"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "teny amin'ny ony"
+    }
+  ],
+  "timestamp": "2026-08-31T18:02:40.473725300Z",
+  "model": "glm-5.3"
+}

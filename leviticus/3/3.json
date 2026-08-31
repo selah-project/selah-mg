@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary hampakatra avy amin'ny fanatitra ny shelamim izy, afo-fanatitra ho an'i Yahveh: ⟨את⟩ ny tavy mandalotra ⟨את⟩ ny kibo, sy ⟨את⟩ ny tavy rehetra izay eo ambonin'ny kibo.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "hampakatra"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "fanatitra"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ny shelamim"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "afo-fanatitra"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavy"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ny tavy"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "mandalotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny kibo"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ny kibo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tavy rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ny tavy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambonin'ny"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "kibo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:57:45.942544524Z",
+  "model": "glm-5.3"
+}

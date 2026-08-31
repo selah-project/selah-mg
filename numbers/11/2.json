@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary ny olona nikiakiaka tamin'i Moshe; ary Moshe nivavaka tamin'i Yahveh, dia maty ny afo.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "Ary nikiakiaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "Ary nivavaka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "arinarehitra dia maty"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ny afo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:27:55.783453999Z",
+  "model": "glm-5.3"
+}

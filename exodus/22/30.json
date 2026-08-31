@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary hitovy olona masina Ahy ianareo; ary nofo sahy tantelin'ny biby dia tsy hohaninareo — ho an'ny amboa no hapolesinareo ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "Ary hitovy olona"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "ianareo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Ahy"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ary nofo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sahy"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "tantelin'ny biby"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "hohaninareo"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ho an'ny amboa"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "no hapolesinareo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ilay nofo tantelin'ny biby)"
+    }
+  ],
+  "timestamp": "2026-08-31T13:02:28.407115942Z",
+  "model": "glm-5.3"
+}

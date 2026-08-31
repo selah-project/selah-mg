@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary hitandrina izy ireo ⟨את⟩ ny fitandremana natao ho ahy, mba tsy hitondra fahotana izy noho izany, ary tsy ho faty amin'izany, raha manao ho tsy masina izy azy; Izaho Yahveh no manamasina azy.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "hitandrina izy ireo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitandremana natao ho ahy"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "ny fitandremana natao ho ahy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mba tsy"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "hitondra"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "noho izany"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "fahotana"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "tsy ho faty"
+    },
+    {
+      "surface": "בו",
+      "gloss": "amin'izany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "raha"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "manao ho tsy masina izy azy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "no manamasina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:18:55.468767709Z",
+  "model": "glm-5.3"
+}

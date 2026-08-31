@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 33:8",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Lasa traboesa ny lalana be; najanona ny mpandalo amin'ny dia; novaky ny fanekena; nancoavina ny tanàna; tsy manahevitra olombelona intsony izy.",
+  "tokens": [
+    {
+      "surface": "נשמו",
+      "gloss": "lasa traboesa"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "ny lalana be"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "najanona"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ny mpandalo"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "amin'ny dia"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "novaky"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ny fanekena"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "nancoavina"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ny tanàna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy ... intsony"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "manahevitra"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "olombelona"
+    }
+  ],
+  "timestamp": "2026-08-31T15:10:33.755773797Z",
+  "model": "glm-5.3"
+}

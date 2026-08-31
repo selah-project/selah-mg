@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 4:4",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary tonga ny mpanomavadrenivavin'i Estera sy ny eonokany ka nilaza taminy, ary dia raiki-tahotra mafy ny mpanjakavavy ka nanafatra akanjo hofafy an'i ⟨את⟩ Mardekay sy hanesorana ny lamba volony tamby, fa tsy nandray izy.",
+  "tokens": [
+    {
+      "surface": "ותבואינה",
+      "gloss": "Ary tonga"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "ny mpanomavadrenivavin'i"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Estera"
+    },
+    {
+      "surface": "וסריסיה",
+      "gloss": "sy ny eonokany"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "ka nilaza"
+    },
+    {
+      "surface": "לה",
+      "gloss": "tamininy"
+    },
+    {
+      "surface": "ותתחלחל",
+      "gloss": "ary dia raiki-tahotra"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ny mpanjakavavy"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mafy"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "ka nanafatra"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "akanjo"
+    },
+    {
+      "surface": "להלביש",
+      "gloss": "hofafy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mardekay"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mardekay"
+    },
+    {
+      "surface": "ולהסיר",
+      "gloss": "sy hanesorana"
+    },
+    {
+      "surface": "שקו",
+      "gloss": "ny lamba volony"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "tamby"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "nandray"
+    }
+  ],
+  "timestamp": "2026-08-31T17:18:26.183378487Z",
+  "model": "glm-5.3"
+}

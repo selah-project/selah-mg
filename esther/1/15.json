@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Araka ny lalàna, inona no hatao amin'i Vashti mpanjaka vavy, satria tsy nanao ⟨את⟩ ny didin'i Achashverosh mpanjaka izy, tamin'ny tanan'ny toy mpitan-karena?",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "araka ny lalàna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "inona"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "no hatao"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "amin'i mpanjaka vavy"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "על",
+      "gloss": "satria"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny didin'i Achashverosh mpanjaka"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "ny didin'"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "tamin'ny tanan'"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "ny toy mpitan-karena"
+    }
+  ],
+  "timestamp": "2026-08-31T17:18:31.439683960Z",
+  "model": "glm-5.3"
+}

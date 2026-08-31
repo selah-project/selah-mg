@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary hanao ⟨את⟩ ny tselakely ho an'ny trano lay ianao: hazo akasia mitsangana.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ary hanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tselakely"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ny tselakely"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ho an'ny trano lay"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "mitsangana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:04:14.029548001Z",
+  "model": "glm-5.3"
+}

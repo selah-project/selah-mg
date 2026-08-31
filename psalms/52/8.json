@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 52,
+  "translation": "Ary ho hitan'ny marina izany, dia hatahotra, ary hihomehy azy.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "hitan'ny marina izany"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ny marina"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "hatahotra"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "hihomehy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:48.599027260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Hampahalalainao ahy ny lalan'ny fiainana; fahafaham-po amin'ny hafaliana ⟨את⟩ ny tavanao; zava-mahafaly eo an-tanan-kavananao mandrakizay",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Hampahalalainao ahy"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ny lalan'"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "fiainana"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "fahafaham-po"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "amin'ny hafaliana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavanao (פניך)"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ny tavanao"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "zava-mahafaly"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "eo an-tanan-kavananao"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "mandrakizay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:09.199692431Z",
+  "model": "glm-5.3"
+}

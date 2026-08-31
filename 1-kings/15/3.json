@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 15:3",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary nandeha tamin'ny fahotana rehetra nataon'ny rainy teo alohany izy; ary tsy natao mafy orina tamin'i Yahveh Elohiny ny fony, tahaka ny fon'i Davida rainy.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tamin'ny ... rehetra"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "fahotana"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ny rainy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "teo alohany"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "היה",
+      "gloss": "natao"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ny fony"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "mafy orina"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohiny"
+    },
+    {
+      "surface": "כלבב",
+      "gloss": "tahaka ny fon'"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rainy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:46:25.721734683Z",
+  "model": "glm-5.3"
+}

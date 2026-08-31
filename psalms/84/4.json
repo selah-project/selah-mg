@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 84,
+  "translation": "Na dia ny vorona kely aza dia hitany trano, ary ny zozoro akany ho azy, izay nampilazainy ny zanany; ⟨את⟩ ny alataranao, Yahveh Tsevaot, mpanjakako sy Elohim ah!",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "na dia"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ny vorona kely"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "dia hitany"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "ary ny zozoro"
+    },
+    {
+      "surface": "קן",
+      "gloss": "akany"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "nampilazainy"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny alataranao"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "ny alataranao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mpanjakako"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "sy Elohim ah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:13.425050669Z",
+  "model": "glm-5.3"
+}

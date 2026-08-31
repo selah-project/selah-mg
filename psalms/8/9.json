@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Vorona ⟨an'ny⟩ lanitra sy trondron'ny ranomasina, izay mandalo amin'ny lalan'ny ranomasina.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "vorona"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "lanitra"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "sy trondron'ny"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ranomasina"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "mandalo"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "amin'ny lalan'ny"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ranomasina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:50.061825285Z",
+  "model": "glm-5.3"
+}

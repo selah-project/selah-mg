@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 2:5",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary niantso ny anaran'ilay toerana hoe Bokima ireo, ary nanatitra fanatitra teo ho an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ny anaran'"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ilay toerana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ilay (mpanoritra)"
+    },
+    {
+      "surface": "בכים",
+      "gloss": "Bokima"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "nanatitra fanatitra"
+    },
+    {
+      "surface": "שם",
+      "gloss": "teo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T14:04:25.054309476Z",
+  "model": "glm-5.3"
+}

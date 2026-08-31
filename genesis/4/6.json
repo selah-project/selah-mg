@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary Yahveh nanao tamin'i Kayin hoe: Nahoana ianao no tezitra, ary nahoana no nitrontoka ny tarehanao?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary ... nanao ... hoe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Nahoana"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "tezitra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ary nahoana"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "nitrontoka"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ny tarehanao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:02.124953554Z",
+  "model": "glm-5.3"
+}

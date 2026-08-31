@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary Davida nanao teny tamin'ilay tovolahy nilaza taminy hoe: Ahoana no nahalalanao fa maty Shaul sy Yehonatanan zanany?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao teny"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ilay"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "tovolahy"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "nilaza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Ahoana no"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "nahalalanao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "maty"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "sy Yehonatanan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:27:59.528382119Z",
+  "model": "glm-5.3"
+}

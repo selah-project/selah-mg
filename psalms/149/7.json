@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 149,
+  "translation": "Hanao famaliana amin'ny firenena, sy fananarana amin'ny vahoaka ⟨rehetra⟩.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "famaliana"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "amin'ny firenena"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "fananarana"
+    },
+    {
+      "surface": "בל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "vahoaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:44.462029236Z",
+  "model": "glm-5.3"
+}

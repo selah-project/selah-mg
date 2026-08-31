@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary niantso ny habakabaka Lanitra Elohim; ary nanisy hariva ary nanisy maraina — andro faharoa.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ary niantso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "ny habakabaka"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Lanitra"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ary nanisy"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "hariva"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ary nanisy"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "maraina"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "שני",
+      "gloss": "faharoa"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:01.790345030Z",
+  "model": "glm-5.3"
+}

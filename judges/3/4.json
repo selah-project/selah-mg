@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary izy ireo nety hitsapana azy amin'izany ⟨את⟩ Isiraely, mbamin'ny hahalalana na hihainoan'izy ireo ⟨את⟩ didin'i Yahveh, izay nandidiany ⟨את⟩ ny razany tamin'ny tanàn'i Moshe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ary izy ireo nety"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "hitsapana azy"
+    },
+    {
+      "surface": "בם",
+      "gloss": "amin'izany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraely"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "mbamin'ny hahalalana"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "na hihainoan'izy ireo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "didin'i Yahveh"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "didin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidiany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny razany"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ny razany"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "tamin'ny tanàn'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-31T14:05:03.057515814Z",
+  "model": "glm-5.3"
+}

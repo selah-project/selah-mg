@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nalefany koa ⟨את⟩ ilay voromailala hivoahy mba hiteny raha efa nihena ny rano manko amin'ny endrik'ny tany.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "nalefany koa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay voromailala"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "voromailala"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ (avy tamby)"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "mba hiteny raha"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "nihena"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ny rano"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manko amin'ny"
+    },
+    {
+      "surface": "פני",
+      "gloss": "endrik'ny"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:50.844409391Z",
+  "model": "glm-5.3"
+}

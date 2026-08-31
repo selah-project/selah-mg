@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 141,
+  "translation": "Fa manomba anao, Yahveh Adonay, ny masoiko; ao aminao no mialofa aho; aza manofoka ny aiko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ny masoiko"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ao aminao"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "no mialofa aho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תער",
+      "gloss": "manofoka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:58.339063449Z",
+  "model": "glm-5.3"
+}

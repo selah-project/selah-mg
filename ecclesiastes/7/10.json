@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Aza lazainao hoe: Nahoana no ny andro taloha no tsara noho izao? Fa tsy amin'ny fahendrena no nanontaniananao izany.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "lazainao"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Nahoana"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨no⟩"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "ny andro"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "taloha"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨no⟩"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "noho izao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "amin'ny fahendrena"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "no nanontaniananao"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨amin'⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:47.922689231Z",
+  "model": "glm-5.3"
+}

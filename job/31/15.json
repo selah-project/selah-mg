@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 31:15",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Tsy ilay nahary ahy tao an-kibo va no nahary azy? Ary tsy Iray va no namorona antsika tao am-po?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Tsy ... va"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "tao an-kibo"
+    },
+    {
+      "surface": "עשני",
+      "gloss": "nahary ahy"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "nahary azy"
+    },
+    {
+      "surface": "ויכננו",
+      "gloss": "Ary ... namorona antsika"
+    },
+    {
+      "surface": "ברחם",
+      "gloss": "tao am-po"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "Iray"
+    }
+  ],
+  "timestamp": "2026-08-31T18:16:22.547903865Z",
+  "model": "glm-5.3"
+}

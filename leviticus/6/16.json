@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary mincha rehetra ataon'ny mpisoratra dia hodorina avokoa; tsy azo homana.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ary ... rehetra"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "mpisoratra"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "hodorina avokoa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "dia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "azo homana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:13:21.532021626Z",
+  "model": "glm-5.3"
+}

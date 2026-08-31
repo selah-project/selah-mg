@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary i Yahveh ho mpitsara, ary hitsara eo amiko sy eo aminao; ary hahita sy hiady ⟨את⟩ ny adiko, ary hanafaka ahy amin'ny tananao.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ary ho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "mpitsara"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "hitsara"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "eo amiko"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "sy eo aminao"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "hahita"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "hiady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny adiko"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ny adiko"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "hanafaka ahy"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "amin'ny tananao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:24:53.935469219Z",
+  "model": "glm-5.3"
+}

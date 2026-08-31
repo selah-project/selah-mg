@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 12:7",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Fa ianao kosa, miverena amin'ny Elohim anao; tandremo ny hesed (famindram-po) sy ny fitsarana, ary manantena ny Elohim anao mandrakariva",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Fa ianao kosa"
+    },
+    {
+      "surface": "באלהיך",
+      "gloss": "amin'ny Elohim anao"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "miverena"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "sy ny fitsarana"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "tandremo"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "ary manantena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim anao"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mandrakariva"
+    }
+  ],
+  "timestamp": "2026-08-31T16:09:04.142766461Z",
+  "model": "glm-5.3"
+}

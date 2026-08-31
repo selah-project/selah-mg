@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Izy rehetra namaly ka nanao taminao hoe: Ka ianao koa dia malemy toy izahay; tonga tahaka izahay ianao!",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Izy rehetra"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "namaly"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ka nanao"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "taminao"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ka ... koa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "dia malemy"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "toy izahay"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "⟨tahaka⟩ izahay"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "tonga tahaka"
+    }
+  ],
+  "timestamp": "2026-08-31T15:06:23.113407852Z",
+  "model": "glm-5.3"
+}

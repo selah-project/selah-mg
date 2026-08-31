@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Yahveh, any an-danitra no misy ny hesed-nao; hatramin'ny rahona ny fahatokianao.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "any an-danitra"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ny hesed-nao"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ny fahatokianao"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hatramin'ny"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "rahona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:02.892474022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary ianareo hitandrina ⟨את⟩ ny lalàko sy ⟨את⟩ ny fitsipiko, ka aza manao na dia iray amin'ireo fahavetavetana ireo — ny teraka eto amin'ny tany sy ny vahiny monina ao aminareo.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ary hitandrina"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ianareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lalàko"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ny lalàko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny fitsipiko"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ny fitsipiko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "manao"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "na dia iray amin'ireo"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "fahavetavetana"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "ny teraka eto amin'ny tany"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "sy ny vahiny"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "monina"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "ao aminareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:17:21.980277591Z",
+  "model": "glm-5.3"
+}

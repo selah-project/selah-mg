@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 11:42",
+  "book": "daniel",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary hanjerika ny tany maro izy; ary ny tany Mitsrayim tsy ho afaka.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "hanjerika"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ny tanany"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "tany maro"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ary ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "afaka"
+    }
+  ],
+  "timestamp": "2026-08-31T17:25:06.935277203Z",
+  "model": "glm-5.3"
+}

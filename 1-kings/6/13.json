@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary hipetraka ao amin'ny fokon'i Yisrael Aho, ary tsy hahafoy ny olonaiko Yisrael Aho.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "hipetraka"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ao amin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "fokon'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "hahafoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny olonaiko"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ny olonaiko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-31T14:41:59.942239641Z",
+  "model": "glm-5.3"
+}

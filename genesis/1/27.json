@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary namorona ⟨את⟩ ny olona Elohim tamin'ny endriny; tamin'ny endrik'i Elohim no namoronany ⟨את⟩ azy; lahy sy vavy no namoronany ⟨את⟩ azy ireo.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "Ary namorona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny olona"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "tamin'ny endriny"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "tamin'ny endrik'i"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "no namoronany"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (ny olona)"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "lahy"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "sy vavy"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "no namoronany"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy ireo (lahy sy vavy)"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:41.287433866Z",
+  "model": "glm-5.3"
+}

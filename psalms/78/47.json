@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Nahavery ⟨tamin'ny⟩ havandra ny voalobony, ary ny hazo sikomorany tamin'ny fanala.",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "nahavery"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "tamin'ny havandra"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "ny voalobony"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "ary ny hazo sikomorany"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "tamin'ny fanala"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:08.831628097Z",
+  "model": "glm-5.3"
+}

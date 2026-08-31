@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Alefaso ny varyhanao ambonin'ny tavan'ny rano, fa amin'ny fahavitan'ny andro ianao no hahita azy.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Alefaso"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "ny varyhanao"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "פני",
+      "gloss": "tavan'ny"
+    },
+    {
+      "surface": "המים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "amin'ny fahavitan'ny"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "no hahita azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:49.263663741Z",
+  "model": "glm-5.3"
+}

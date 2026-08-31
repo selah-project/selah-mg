@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 136,
+  "translation": "Ho an'izay manao ⟨ny⟩ lanitra amin'ny fahendrena, fa ho amin'ny fiainana mandrakizay ny hesediny.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "ho an'izay manao"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "amin'ny fahendrena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho amin'ny fiainana mandrakizay"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ny hesediny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:20.954636100Z",
+  "model": "glm-5.3"
+}

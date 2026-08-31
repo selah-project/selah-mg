@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Amin'ny sabatra no harianareo; eo amin'ny faritr'i Yisraela no hitsarako ⟨את⟩ hianareo; ary ho fantatrareo fa izaho no Yahveh.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "amin'ny sabatra"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "harianareo"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "faritr'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "hitsarako"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ hianareo",
+      "marks": "hianareo"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ho fantatrareo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T15:49:40.354235511Z",
+  "model": "glm-5.3"
+}

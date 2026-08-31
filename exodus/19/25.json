@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary Moshe nankany amin'ny olona, ka niteny taminy.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "nankany"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka niteny"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "taminy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:00:11.488522216Z",
+  "model": "glm-5.3"
+}

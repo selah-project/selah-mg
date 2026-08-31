@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary ny fiverenany dia ho any amin'ny Ramata, fa tao no misy ny tranony, ary tao no itsarany an'i ⟨את⟩ Yisraela; ary nanao alitara tao izy ho an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "Ary ny fiverenany"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "ho any amin'ny Ramata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "no misy ny tranony"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ary tao"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "no itsarany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yisraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ary nanao"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T14:15:18.044537991Z",
+  "model": "glm-5.3"
+}

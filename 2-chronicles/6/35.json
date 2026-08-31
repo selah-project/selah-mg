@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "dia hihaino Hianao avy amin'ny lanitra ⟨את⟩ ny fivavahany sy ⟨את⟩ ny fangatahany, ka hanao ny fitsarany.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "dia hihaino"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "lanitra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fivavahany"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ny fivavahany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny fangatahany"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "ny fangatahany"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ka hanao"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ny fitsarany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:44:08.369185886Z",
+  "model": "glm-5.3"
+}

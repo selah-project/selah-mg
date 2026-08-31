@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 141,
+  "translation": "Aoka hianjera ao anaty tafondrony ny ratsy fanahy, fa izaho kosa mandalo fotsiny am-pilaminana.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "Aoka hianjera"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "ao anaty tafondrony"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "⟨miaraka⟩"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "fa izaho kosa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "mandalo fotsiny am-pilaminana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:17.346169177Z",
+  "model": "glm-5.3"
+}

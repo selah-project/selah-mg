@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 1:19",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary nisy hariva, ary nisy maraina — andro fahefatra.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nisy"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "hariva"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ary nisy"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "maraina"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "fahefatra"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:04.500743313Z",
+  "model": "glm-5.3"
+}

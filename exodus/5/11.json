@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 5:11",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Iananareo, mandehana, alaivo ho anareo voloina avy amin'izay hitanareo, fa tsy hisy ahena amin'ny asanareo na inona na inona.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "iananareo"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "mandehana"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "alaivo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "voloina"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "avy amin'izay"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "hitanareo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נגרע",
+      "gloss": "hisy ahena"
+    },
+    {
+      "surface": "מעבדתכם",
+      "gloss": "amin'ny asanareo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "na inona na inona"
+    }
+  ],
+  "timestamp": "2026-08-31T12:55:58.466358445Z",
+  "model": "glm-5.3"
+}

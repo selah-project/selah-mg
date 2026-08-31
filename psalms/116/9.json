@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 116,
+  "translation": "Hitety eo anatrehon'i Yahveh aho amin'ny tany ⟨ny⟩ velona.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "hitety aho"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anatrehan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ny velona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:21.313159747Z",
+  "model": "glm-5.3"
+}

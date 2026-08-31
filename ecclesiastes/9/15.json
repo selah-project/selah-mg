@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary hita tao lehilahy malahelo fa hendry, ka izy no namonjy ⟨את⟩ ilay tanàna tamin'ny fahendreny; nefa olona tsy nitsiahivy ⟨את⟩ ilay lehilahy malahelo ilay.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "ary hita tao"
+    },
+    {
+      "surface": "בה",
+      "gloss": "tao"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "malahelo"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "hendry"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "ka namonjy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay tanàna"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ilay tanàna"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "tamin'ny fahendreny"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "nefa olona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "nitsiahivy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay lehilahy malahelo ilay"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ilay lehilahy"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "malahelo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ilay"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:33.290225597Z",
+  "model": "glm-5.3"
+}

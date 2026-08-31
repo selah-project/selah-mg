@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 4:1",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary ny tenin'i Shemuela tonga tamin'ny Isiraely rehetra; ary nivoaka ny Isiraely hifanena amin'ny Filistina ho an'ny ady, ka nitoby teo ambonin'i Eben-ha-Ezer; ary ny Filistina nitoby tao Afeka.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary tonga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ny tenin'i"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuela"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tamin'ny ... rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ary nivoaka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ny Isiraely"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "hifanena amin'ny"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistina"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ho an'ny ady"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ka nitoby"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo ambonin'ny"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "Eben-"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "ary ny Filistina"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "nitoby"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "tao Afeka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:16:13.018043041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Tanàna rehetra tany amin'ny lemaka, sy Gilada rehetra, sy Basana rehetra, hatrany Salka sy Edreay, tanànan'ny fanjakan'i Oga tany Basana.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "Tanàna"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "tany amin'ny lemaka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ... rehetra"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilada"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ... rehetra"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Basana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hatrany"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salka"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "sy Edreay"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "tanànan'ny"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "fanjakan'ny"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Oga"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "tany Basana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:40:08.739362075Z",
+  "model": "glm-5.3"
+}

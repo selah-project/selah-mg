@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "ary ⟨את⟩ ny kalesy efatra sy ⟨את⟩ ny omby valo no nomeny ny zanak'i Merari, araka ny fanompoany, ambany tanana'i Itamara zanak'i Aharon mpisorona.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny kalesy efatra"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "efatra"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "ny kalesy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny omby valo"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "valo"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ny omby"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "no nomeny"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ny zanak'i"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "fanompoany"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ambany tanana'i"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamara"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mpisorona"
+    }
+  ],
+  "timestamp": "2026-08-31T13:26:09.355594837Z",
+  "model": "glm-5.3"
+}

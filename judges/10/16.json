@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary nesoriny tamin'ny afovoany ny elohin'ny vahiny ka nanompo an'i Yahveh; ary fohy ny fony noho ny fahorian'ny Isiraely.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "nesoriny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elohin'ny vahiny"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohin'ny"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "vahiny"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "tamin'ny afovoany"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "nanompo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "fohy"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "fony"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "noho ny fahorian'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    }
+  ],
+  "timestamp": "2026-08-31T14:09:14.304218857Z",
+  "model": "glm-5.3"
+}

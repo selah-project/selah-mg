@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Entana momba an'i Tsor: mierà, ry sambofin'ny Tarshish, fa efa voazimbazimba ⟨izy⟩ — tsy misy trano, tsy misy fidirana; avy amin'ny tany Kittim no mbola naseho taminy.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "entana"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "mierà"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "ry sambo"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "voazimbazimba"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "tsy misy trano"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "tsy misy fidirana"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "avy amin'ny tany"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Kittim"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "naseho"
+    },
+    {
+      "surface": "למו",
+      "gloss": "taminy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:09:31.947537997Z",
+  "model": "glm-5.3"
+}

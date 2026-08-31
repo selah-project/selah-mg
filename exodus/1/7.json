@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary ny zanak'i Yisraela nitombo vokatra, nifanisinisa, nanjavozavo, ary nanjary matanjaka indrindra ⟨indrindra⟩, ka voafeno ⟨את⟩ izy ny tany.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ary ny zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "nitombo vokatra"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "nifanisinisa"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "nanjavozavo"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "anjary matanjaka"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "indrindra"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨indrindra⟩"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ka voafeno"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:28:18.240548138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 145,
+  "translation": "Hankalaza Anao, ry Yahveh, ny asanao rehetra, ary ny olona masinao hitsoa-drava Anao.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Hankalaza Anao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ny asanao"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "ary ny olona masinao"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "hitsoa-drava Anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:28.836945465Z",
+  "model": "glm-5.3"
+}

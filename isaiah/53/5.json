@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 53:5",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 53,
+  "translation": "Fa izy no voatratra noho ny fandikantsika, voazarazarina noho ny tsi-fahamarinantsika; ny fananarana mandray soa aman-tsara amintsika dia teo amboniny, ary tamin'ny feriny izahay dia nahazo fahasitranana.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "fa izy"
+    },
+    {
+      "surface": "מחלל",
+      "gloss": "voatratra"
+    },
+    {
+      "surface": "מפשענו",
+      "gloss": "noho ny fandikantsika"
+    },
+    {
+      "surface": "מדכא",
+      "gloss": "voazarazarina"
+    },
+    {
+      "surface": "מעונתינו",
+      "gloss": "noho ny tsi-fahamarinantsika"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ny fananarana"
+    },
+    {
+      "surface": "שלומנו",
+      "gloss": "mandray soa aman-tsara amintsika"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "teo amboniny"
+    },
+    {
+      "surface": "ובחברתו",
+      "gloss": "ary tamin'ny feriny"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "mahazo fahasitranana"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "izahay"
+    }
+  ],
+  "timestamp": "2026-08-31T15:19:16.316653810Z",
+  "model": "glm-5.3"
+}

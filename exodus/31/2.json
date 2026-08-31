@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Jereo, efa niantsoiko anarana i Betsalel zanak'i Uri, zanak'i Hora, avy amin'ny firenen'i Yehouda.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Jereo"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "niantsoiko"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "anarana"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Hora"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "avy amin'ny firenen'i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    }
+  ],
+  "timestamp": "2026-08-31T13:06:35.455294783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 148,
+  "translation": "Ny tendrombohitra sy ny havoana rehetra, ny hazo mamoa sy ny sedera rehetra,",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "ny tendrombohitra"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ny ... rehetra"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "havoana"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "mamoa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ny ... rehetra"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedera"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:25.832464019Z",
+  "model": "glm-5.3"
+}

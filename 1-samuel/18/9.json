@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary Shaol nitana maso ⟨את⟩ an'i Davida nanomboka tamin'izay andro izay ka hatramin'izay.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary dia tonga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "עון",
+      "gloss": "nitana maso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "nanomboka tamin'izay andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izay"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "ka hatramin'izay"
+    }
+  ],
+  "timestamp": "2026-08-31T14:22:40.379222766Z",
+  "model": "glm-5.3"
+}

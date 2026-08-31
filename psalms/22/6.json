@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Taminao izy no kiakiaka, ka voavonjy; anao izy no niantehitra, ka tsy nalailoy.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Taminao"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "kiakiaka"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "voavonjy"
+    },
+    {
+      "surface": "בך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "niantehitra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "nalailoy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:12.988829071Z",
+  "model": "glm-5.3"
+}

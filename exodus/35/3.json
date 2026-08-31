@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Aza mandrehitra afo amin'ny fonenana rehetrao amin'ny andron'ny Sabata.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "mandrehitra"
+    },
+    {
+      "surface": "אש",
+      "gloss": "afo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "fonenanao"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'ny andron'ny"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabata"
+    }
+  ],
+  "timestamp": "2026-08-31T13:08:13.302981192Z",
+  "model": "glm-5.3"
+}

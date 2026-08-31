@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ianao no nandidy hotehirizina fatratra ny didimandrinao.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ianao"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "no nandidy"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "ny didimandrinao"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "hotehirizina"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "fatratra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:50.728002361Z",
+  "model": "glm-5.3"
+}

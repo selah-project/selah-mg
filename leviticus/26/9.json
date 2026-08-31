@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary hivavaka aho aminareo, hanampy anareo hitoeram-pananahana, hampitombo anareo, ary hampitoetra ny fanekiko ⟨את⟩ aminareo:",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "hivavaka aho"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "aminareo"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "hanampy anareo hitoeram-pananahana"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "hampitombo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "hampitoetra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanekiko"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ny fanekiko"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aminareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:21:30.579904039Z",
+  "model": "glm-5.3"
+}

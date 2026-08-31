@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Izay mamboly ny tany no voky mofo, fa izay manenjika zava-poana dia tsy manan-tsaina.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "mamboly"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "voky"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mofo"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "fa izay manenjika"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "zava-poana"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "tsy manana"
+    },
+    {
+      "surface": "לב",
+      "gloss": "saina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:52:26.333955326Z",
+  "model": "glm-5.3"
+}

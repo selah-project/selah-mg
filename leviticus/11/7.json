@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary ⟨את⟩ ny kisoa, sady mampisaraka kitra izy sy mandevitra fanasiana kitra, nefa gerah tsy ataony miakatra, tsy madio izy ho anareo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny kisoa"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "ny kisoa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sady"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "mampisaraka"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kitra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "mandevitra"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "fanasiana"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "kitra"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gerah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "ataony miakatra"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "tsy madio"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:14:54.557838445Z",
+  "model": "glm-5.3"
+}

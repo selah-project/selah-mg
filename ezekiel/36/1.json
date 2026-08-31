@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 36:1",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Ary ianao, zanak'olona, maminany amin'ny tendrombohitry i Yisrael, ary hanao hoe: Tendrombohitry i Yisrael, mandre ny tenin'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Ary ianao"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "maminany"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "tendrombohitry"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ary hanao hoe"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "tendrombohitry"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mandre"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ny tenin'ny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:02:20.837284694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary tsara ny volamenan'io tany io; any no misy ny bdola sy ny vaton'ny shohama.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "Ary ny volamenan'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "io"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "שם",
+      "gloss": "any no misy"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bdola"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "sy ny vaton'ny"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shohama"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:24.838075925Z",
+  "model": "glm-5.3"
+}

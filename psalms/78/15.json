@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Nisarahala vato tany an-efitra, ka nampanavy azy ho toy ny lalina lehibe.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "nisarahala"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "vato"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "tany an-efitra"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "ka nampanavy azy"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "ho toy ny lalina"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "lehibe"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:22.208684777Z",
+  "model": "glm-5.3"
+}

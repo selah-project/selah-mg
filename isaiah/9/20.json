@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Menashe ⟨את⟩ Efraima, ary Efraima ⟨את⟩ Menashe; miaraka izy roa ⟨manohitra⟩ an'i Yehouda. Na dia amin'izany rehetra izany aza, tsy niverina ny fahatezerany, ary mbola mivelatra ⟨día⟩ ny tànany.",
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efraima"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraima"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "ary Efraima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "miaraka"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy roa"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨manohitra⟩ an'i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehouda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'izany rehetra"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שב",
+      "gloss": "niverina"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ny fahatezerany"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "ary mbola"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ny tànany"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "mivelatra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:05:23.831351217Z",
+  "model": "glm-5.3"
+}

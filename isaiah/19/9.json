@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 19:9",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary ho menatra ny mpanao rongony voafimbi sy ny mpandavo lamba fotsy.",
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "Ary ho menatra"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ny mpanao"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "rongony"
+    },
+    {
+      "surface": "שריקות",
+      "gloss": "voafimbi"
+    },
+    {
+      "surface": "וארגים",
+      "gloss": "sy ny mpandavo"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "lamba fotsy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:05:15.697881436Z",
+  "model": "glm-5.3"
+}

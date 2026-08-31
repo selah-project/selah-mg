@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary ny Filistina nanenjika mafy an'i Shaol sy ny zanany; ary ny Filistina namely ⟨את⟩ Yonatana sy ⟨את⟩ Abinadaba ary ⟨את⟩ Malki-Shoa, zanak'i Shaol.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "nanenjika mafy"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistina"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nanaraka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "sy nanaraka"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "namely"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatana"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Abinadaba"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Abinadaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Malki-Shoa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shoa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    }
+  ],
+  "timestamp": "2026-08-31T18:19:24.373184092Z",
+  "model": "glm-5.3"
+}

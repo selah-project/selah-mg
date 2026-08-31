@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Eo anatrehanao no ivoahan'ny fitsarana mikasika ahy; ny masonao no mahita ny mahitsy.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "Eo anatrehanao"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ny fitsarana mikasika ahy"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ivoahan'"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ny masonao"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "mahita"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ny mahitsy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:59.090614184Z",
+  "model": "glm-5.3"
+}

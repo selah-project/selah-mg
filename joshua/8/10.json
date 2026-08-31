@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary Yehoshoa nifohaza maraina be, ka nandinika ⟨את⟩ ny olona, dia niakatra izy mbamin'ny lohalaharan'i Isiraely teo anoloan'ny olona, ho any amin'ny tanànan'⟨ny⟩ Ay.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "nifohaza maraina be"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tamin'ny maraina"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "ka nandinika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny olona"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "dia niakatra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "mbamin'ny lohalaharan'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anoloan'ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ny Ay"
+    }
+  ],
+  "timestamp": "2026-08-31T13:57:54.421451398Z",
+  "model": "glm-5.3"
+}

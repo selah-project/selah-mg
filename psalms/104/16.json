@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 104,
+  "translation": "Voky ny hazon'i Yahveh, sedera any Libanona, izay nambolen'⟨Izy⟩;",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "Voky"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ny hazon'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "sedera"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "any Libanona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "nambolen'⟨Izy⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:39.379743016Z",
+  "model": "glm-5.3"
+}

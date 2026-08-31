@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Tano ho azy ny aiko, ary vonjeo ahy; aza avela ho mena-maso aho, fa ao aminao no mialoko fiaro.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Tano ho azy"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "ary vonjeo ahy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "avela ho mena-maso aho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "no mialoko fiaro"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ao aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:30.578414938Z",
+  "model": "glm-5.3"
+}

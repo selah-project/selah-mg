@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Tsy toy ny ronono no nanentsanao ahy, ary toy ny fromazy no nampangatsiakao ahy?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Tsy...?"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "toy ny ronono"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "no nanentsanao ahy"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "toy ny fromazy"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "no nampangatsiakao ahi"
+    }
+  ],
+  "timestamp": "2026-08-31T17:00:55.108154790Z",
+  "model": "glm-5.3"
+}

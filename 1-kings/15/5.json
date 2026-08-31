@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "satria Davida nanao ⟨את⟩ izay mahitsy eo imason'i Yahveh, ary tsy niala tamin'izay rehetra nandidiany azy, amin'ny andro rehetra nahavelomany, afa-tsy amin'ny raharahan'i Uriya ilay Hetita.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "satria"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay mahitsy"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "izay mahitsy"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "eo imason'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "סר",
+      "gloss": "niala"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "tamin'izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "nandidiany azy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "andro rehetra"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "nahavelomany"
+    },
+    {
+      "surface": "רק",
+      "gloss": "afa-tsy"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "amin'ny raharahana"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "an'i Uriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ily Hetita"
+    }
+  ],
+  "timestamp": "2026-08-31T14:46:56.872349211Z",
+  "model": "glm-5.3"
+}

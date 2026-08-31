@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 10:12",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Sy ny Sidoniana sy ny Amaleka ary ny Maona nampahory ⟨את⟩ anareo, dia niantso Ahy ianareo ka namonjy ⟨את⟩ anareo Aho tamin'ny tànany.",
+  "tokens": [
+    {
+      "surface": "וצידונים",
+      "gloss": "Sy ny Sidoniana"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "sy ny Amaleka"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "ary ny Maona"
+    },
+    {
+      "surface": "לחצו",
+      "gloss": "nampahory"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo",
+      "marks": "anareo"
+    },
+    {
+      "surface": "ותצעקו",
+      "gloss": "dia niantso Ahy ianareo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Ahy"
+    },
+    {
+      "surface": "ואושיעה",
+      "gloss": "ka namonjy"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo",
+      "marks": "anareo"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "tamin'ny tànany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:09:24.703423679Z",
+  "model": "glm-5.3"
+}

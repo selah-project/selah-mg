@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Fa mahitsy ⟨ny⟩ tenin'i Yahveh; ary ny asany rehetra ataony amin'ny fahatokiana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "mahitsy"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "teny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ... rehetra"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "ny asany"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "amin'ny fahatokiana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:19.453951822Z",
+  "model": "glm-5.3"
+}

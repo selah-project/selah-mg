@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 138,
+  "translation": "Yahveh no hanatanteraka izay ho ahy; Yahveh, ny hesed-nao mandrakizay; ny asan'ny tananao dia aza atao moramora.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "no hanatanteraka"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "izay ho ahy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ny hesed-nao"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ny asan'ny"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tananao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "atao moramora"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:06.920084834Z",
+  "model": "glm-5.3"
+}

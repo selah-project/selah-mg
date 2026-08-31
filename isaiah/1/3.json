@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Fantatry ny omby ny tompony, ary fantatry ny boriky ny fihavian'ny tompony; fa Isiraely tsy mahalala, ny olonaoko tsy mandinika.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "Fantatra"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ny omby"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "ny tompony"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "ary ny boriky"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "ny fihaviana"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ny tompony"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ny olonaoko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "mandinika"
+    }
+  ],
+  "timestamp": "2026-08-31T15:02:31.837630370Z",
+  "model": "glm-5.3"
+}

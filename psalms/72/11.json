@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 72,
+  "translation": "Ary hiankohaka eo anatrehany ny mpanjaka rehetra; ny firenena rehetra hanompo azy.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "Ary hiankohaka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "eo anatrehany"
+    },
+    {
+      "surface": "כל",
+      "gloss": "reo rehetra"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "hanompo azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:24.977828524Z",
+  "model": "glm-5.3"
+}

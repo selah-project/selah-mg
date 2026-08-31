@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Mideroa an'i Yah, manaova fankasitrahana ho an'i Yahveh, fa tsara Izy, fa mandrakizay ny hesed-ny.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Mideroa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "an'i Yah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "manaova fankasitrahana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara Izy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ny hesed-ny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:34.564977458Z",
+  "model": "glm-5.3"
+}

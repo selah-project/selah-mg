@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Manangona toy ny farihy ⟨iray⟩ ny rano avy amin'ny ranomasina Izy, mametraka ny lalina ao amin'ny tahiriny.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "Manangona"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "toy ny farihy"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ny rano"
+    },
+    {
+      "surface": "הים",
+      "gloss": "avy amin'ny ranomasina"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "mametraka"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "ao amin'ny tahiriny"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ny lalina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:55.188690529Z",
+  "model": "glm-5.3"
+}

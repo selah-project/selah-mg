@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 80,
+  "translation": "Mandrava azy ny kisoa avy any anaty ala, ary ny biby mivezivezy an-tsaha no mihinana azy.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "mandrava azy"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "ny kisoa"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "avy any anaty ala"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "ary ny biby mivezivezy"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "an-tsaha"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "mihinana azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:06.717455690Z",
+  "model": "glm-5.3"
+}

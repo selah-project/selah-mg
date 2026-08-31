@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 93,
+  "translation": "Yahveh nanjaka, fa fiaviam-boina ⟨no⟩ nampitafiny; Yahveh nampitafy hery, ka nifehy tena tamin'izany; eny, matanjina ⟨⟩ ny tany honahona, fa tsy mba mikorontana akory.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "nanjaka"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "fiaviam-boina"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "nampitafiny"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "nampitafy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hery"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "nifehy tena"
+    },
+    {
+      "surface": "אף",
+      "gloss": "eny"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "matanjina"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tany honahona"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tsy mba… akory"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "mikorontana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:47:38.704855704Z",
+  "model": "glm-5.3"
+}

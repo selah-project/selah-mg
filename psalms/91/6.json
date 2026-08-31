@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 91,
+  "translation": "na ny aretim-pifindra mandeha amin'ny maizina, na ny fandravana manimba amin'ny mitataovovonana.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "na ny aretim-pifindra"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "amin'ny maizina"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "na ny fandravana"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "manimba"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "amin'ny mitataovovonana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:23.847907993Z",
+  "model": "glm-5.3"
+}

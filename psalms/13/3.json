@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Mandra-pahoviana no hametraka fisainana ao amin'ny aiko, sy alahelo ao am-poko isan'andro? Mandra-pahoviana no hasandratra ny fahavaloko amiko?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "pahoviana"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "no hametraka"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "fisainana"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "ao amin'ny aiko"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "sy alahelo"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "ao am-poko"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "isan'andro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "pahoviana"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "no hasandratra"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ny fahavaloko"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:54.387444154Z",
+  "model": "glm-5.3"
+}

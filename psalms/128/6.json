@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 128,
+  "translation": "Ary hahita ny zanak'ny zanakao ianao. Fiadanana ambonin'i Yisraela!",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Ary hahita"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "ny zanakao"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Fiadanana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:09.637270581Z",
+  "model": "glm-5.3"
+}

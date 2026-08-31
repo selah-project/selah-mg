@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 12:8",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "fa ho mpanompon'i Shishaka izy mba hahafantany ny fanompoako sy ny fanompoan'ny fanjakana amin'ny tany.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-ny"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "mpanompo"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "mba hahafantany"
+    },
+    {
+      "surface": "עבודתי",
+      "gloss": "ny fanompoako"
+    },
+    {
+      "surface": "ועבודת",
+      "gloss": "sy ny fanompoan'ny"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "fanjakana"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "amin'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:45:01.512367907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary homeko ny taranak'i Ahab ⟨את⟩ tahaka ny taranak'i Yeroboama zanak'i Nebata, ary tahaka ny taranak'i Baasha zanak'i Ahiya.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "homeko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taranak'i Ahab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taranaka"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "tahaka ny taranak'i"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yeroboama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebata"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "ary tahaka ny taranak'i"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahiya"
+    }
+  ],
+  "timestamp": "2026-08-31T14:54:45.810504956Z",
+  "model": "glm-5.3"
+}

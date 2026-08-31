@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 135,
+  "translation": "Ilay namely ny voalohan'i Mitsrayim, avy amin'ny olona ka hatramin'ny biby.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Ilay namely"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "ny voalohan'"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "avy amin'ny olona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka hatramin'"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "biby"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:09.624244734Z",
+  "model": "glm-5.3"
+}

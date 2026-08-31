@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary hiteny amin'izy ireo ianao ⟨ny teniko⟩: na mihaino izy na mitsahatra, fa mibaiko dia mibaiko izy.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "Ary hiteny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny teniko"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ny teniko"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "amin'izy ireo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "mihaino"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "na"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "mitsahatra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "mibaiko"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:46:59.186252153Z",
+  "model": "glm-5.3"
+}

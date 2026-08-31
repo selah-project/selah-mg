@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ny feon'i Yahveh mivaky fanaky sedra; eny, Yahveh mampivaky ⟨את⟩ ny sedran'i Levanona.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "feo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "mivaky fanaky"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedra"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "mampivaky"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny sedran'i Levanona"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "sedran'i"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Levanona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:57.260361059Z",
+  "model": "glm-5.3"
+}

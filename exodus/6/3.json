@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 6:3",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary Izaho niseho tamin'i Avraham, tamin'i Yitschak, ary tamin'i Yaakob, ho El Shadday ⟨(Tsitoha — endrika voalohany: El Shadday)⟩; fa ny anarako Yahveh tsy mba fantatry izy ireo.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "Ary Izaho niseho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary tamin'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "באל",
+      "gloss": "ho"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "El Shadday"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "fa ny anarako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy mba"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "fantatry"
+    },
+    {
+      "surface": "להם",
+      "gloss": "izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:55:32.597506279Z",
+  "model": "glm-5.3"
+}

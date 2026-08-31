@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary hanao ⟨את⟩ ny barany ianao, hazo akasy, ary hosarotra volamena izy ireo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny barany"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ny barany"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasy"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "hosarotra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "volamena"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    }
+  ],
+  "timestamp": "2026-08-31T18:28:37.893303271Z",
+  "model": "glm-5.3"
+}

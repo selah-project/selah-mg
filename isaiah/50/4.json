@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 50:4",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 50,
+  "translation": "Adonay Yahveh nanome ahy lela mianatra, hahalala ny hanampy ⟨את⟩ ny reraka amin'ny teny; mamoha amamantana isan'andro izy, mamoha ny sofiniko hihaino toy ny mpianatra.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nanome"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lela"
+    },
+    {
+      "surface": "למודים",
+      "gloss": "mianatra"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "hahalala"
+    },
+    {
+      "surface": "לעות",
+      "gloss": "ny hanampy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny reraka"
+    },
+    {
+      "surface": "יעף",
+      "gloss": "ny reraka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "amin'ny teny"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "mamoha"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "amamantana"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "isan'andro"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "mamoha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ny sofiniko"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "hihaino"
+    },
+    {
+      "surface": "כלמודים",
+      "gloss": "toy ny mpianatra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:19:32.861080615Z",
+  "model": "glm-5.3"
+}

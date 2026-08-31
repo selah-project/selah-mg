@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Izay manamavo ny namany dia tsy amam-panahy, fa ny olona manam-pahalalana dia mangina.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "manamavo"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "ny namany"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "tsy amam-"
+    },
+    {
+      "surface": "לב",
+      "gloss": "panahy"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "fa ny olona"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "manam-pahalalana"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "mangina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:52:21.963302087Z",
+  "model": "glm-5.3"
+}

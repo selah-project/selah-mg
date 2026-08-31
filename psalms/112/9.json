@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 112,
+  "translation": "Nafafany ny fanomezany, nomeny ny mahantra; ny fahamarinany mijanona mandrakizay; ny tandrokely hasandra amin'ny voninahitra.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "Nafafany"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nomeny"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "ny mahantra"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ny fahamarinany"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "mijanona"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "ny tandrokely"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "hasandra"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "amin'ny voninahitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:22.112953152Z",
+  "model": "glm-5.3"
+}

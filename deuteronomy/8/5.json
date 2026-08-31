@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary ho fantatrao ao am-ponao fa toy ny fanitsian'olona an-jazany ⟨את⟩, no Yahveh Elohim-nao manitsy anao.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "Ary ho fantatrao"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ao amin'ny"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "fonao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "toy ny"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "fanitsian'"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an-jazany"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "jazany"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nao"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "manitsy anao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:43:37.791684085Z",
+  "model": "glm-5.3"
+}

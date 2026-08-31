@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 21:4",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "ary ny anti-panahin'ilay tanàna hampidina ⟨את⟩ ilay zanak'omby vavy ho any amin'ny lohasaha eitan izay tsy voaasa tsy voafafy, ary hitapa-voziny any ⟨את⟩ ilay zanak'omby vavy ao amin'ny lohasaha;",
+  "tokens": [
+    {
+      "surface": "והורדו",
+      "gloss": "hampidina"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ny anti-panahin'"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay zanak'omby vavy"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "zanak'omby vavy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "lohasaha"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "eitan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "voaasa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "voafafy"
+    },
+    {
+      "surface": "וערפו",
+      "gloss": "hitapa-voziny"
+    },
+    {
+      "surface": "שם",
+      "gloss": "any"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay zanak'omby vavy"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "zanak'omby vavy"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ao amin'ny lohasaha"
+    }
+  ],
+  "timestamp": "2026-08-31T13:47:00.825078870Z",
+  "model": "glm-5.3"
+}

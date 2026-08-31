@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary Davida nanao hoe: Raha tsy Yahveh no mamely azy, dia ho tonga ny androny hahafatesany, na hidina ho amin'ny ady ka ho levona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Velona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Raha tsy"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha tsy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "no mamely azy"
+    },
+    {
+      "surface": "או",
+      "gloss": "na"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "ny androny"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ho tonga"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "hahafatesany"
+    },
+    {
+      "surface": "או",
+      "gloss": "na"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "amin'ny ady"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "hidina"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "ka ho levona"
+    }
+  ],
+  "timestamp": "2026-08-31T18:02:15.652374831Z",
+  "model": "glm-5.3"
+}

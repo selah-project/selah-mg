@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 15:3",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary andro maro no ho an'i Isiraely ⟨⟨tsy misy⟩⟩ Elohim marina, sy tsy misy mpisorona mpanoro, ary tsy misy tora.",
+  "tokens": [
+    {
+      "surface": "וימים",
+      "gloss": "Ary andro"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maro"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "no ho an'i Isiraely"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "marina"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "sy tsy misy"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "mpanoro"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "ary tsy misy"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "tora"
+    }
+  ],
+  "timestamp": "2026-08-31T17:46:38.220646789Z",
+  "model": "glm-5.3"
+}

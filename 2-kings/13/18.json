@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 13:18",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary hoy izy: Alaivo ny zana-tsipika; dia nalainy; ary hoy izy tamin'ny mpanjakan'i Isiraely: Lahy ny tany; dia nalainy telo monja, ary nijanona izy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy izy"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Alaivo"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "ny zana-tsipika"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nalainy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy izy"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "tamin'ny mpanjaka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "הך",
+      "gloss": "Lahy"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "nalainy"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "telo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "monja"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "nijanona"
+    }
+  ],
+  "timestamp": "2026-08-31T14:57:05.887631323Z",
+  "model": "glm-5.3"
+}

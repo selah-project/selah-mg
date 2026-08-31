@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary hataonao ⟨את⟩ izany ho diloilo fanosana masina, zava-manitra miangona, asan'ny mpanangona zava-manitra; diloilo fanosana masina no ho azy.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "hataonao"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ izany",
+      "marks": "diloilo fanosana masina"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "diloilo"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "fanosana"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "zava-manitra"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "miangona"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "asan'ny"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "mpanangona zava-manitra"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "diloilo"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "fanosana"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "no ho azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:06:56.352527456Z",
+  "model": "glm-5.3"
+}

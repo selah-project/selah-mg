@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Raha efa naha-hendry ianao, ho anao ihany izany; fa raha mibesimbesy ianao, ianao irery ihany no hitondra izany.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "efa naha-hendry"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ho anao ihany izany (maha-hendry)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao ihany"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "fa raha mibesimbesy"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ianao irery ihany"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "no hitondra izany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:49:57.498506133Z",
+  "model": "glm-5.3"
+}

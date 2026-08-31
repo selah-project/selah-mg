@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Fa araka ny fanisany ao amin'ny fanahiny, no izy; 'Mihinàno sy misotroa' no hataony amiko — hataony aminao — fa ny fony tsy aminao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "araka"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ny fanisany"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ao amin'ny fanahiny"
+    },
+    {
+      "surface": "כן",
+      "gloss": "no"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mihinàno"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "sy misotroa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "no hataony"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "fa ny fony"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "amin'ao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:56:22.199731391Z",
+  "model": "glm-5.3"
+}

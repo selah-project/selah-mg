@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary hanao azy ho fanitsoha ianao — fangaro asan'ny mpanao fanitsoha, voasira-mena, madio, masina.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ary hanao"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ho fanitsoha"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "fangaro"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "asan'ny"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "mpanao fanitsoha"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "voasira-mena"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "madio"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "masina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:06:57.641549162Z",
+  "model": "glm-5.3"
+}

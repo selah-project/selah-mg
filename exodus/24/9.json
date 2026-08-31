@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 24:9",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary niakatra Moshe sy Aharon, Nadab sy Abihu, ary ny fito amby enim-polo amin'ny loholon'ny Isiraely.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Ary niakatra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "Abihu"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "fito amby enim-polo"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "amin'ny loholon'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:52.497160088Z",
+  "model": "glm-5.3"
+}

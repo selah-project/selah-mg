@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Yahveh no heriko aman-trofoko; ito azy no itokian'ny foko, ka voavonjy aho; dia miraiki-dalana ny foko, ary amin'ny hirako no hiderako azy.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "heriko"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "aman-trofoko"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ito azy"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "no itokian'ny"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "foko"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "ka voavonjy aho"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "dia miraiki-dalana"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "amin'ny hirako"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "no hiderako azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:07.375614346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary Kanaana niteraka ⟨את⟩ an'i Tsidona lahimatoany sy ⟨את⟩ an'i Heta.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Ary Kanaana"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Tsidona"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidona"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "lahimatoany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Heta"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heta"
+    }
+  ],
+  "timestamp": "2026-08-31T17:33:51.917850084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 47,
+  "translation": "Ary nitso-drano an'i Parao ⟨את⟩ Yaakob, dia nivoaka avy teo anatrehan'i Parao izy.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Ary nitso-drano"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "dia nivoaka"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "avy teo anatrehan'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:52:40.587450623Z",
+  "model": "glm-5.3"
+}

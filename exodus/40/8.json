@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary hametraka ianao ⟨את⟩ ny kianja manodidina, ary hametraka ⟨את⟩ ny efitra eo am-baravaran'ny kianja.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "hametraka ianao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny kianja"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kianja"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "ary hametraka ianao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny efitra"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "efitra"
+    },
+    {
+      "surface": "שער",
+      "gloss": "baravaran'ny"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kianja"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:32.790305872Z",
+  "model": "glm-5.3"
+}

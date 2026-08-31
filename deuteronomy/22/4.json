@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Tsy hahita ⟨את⟩ boriky rahalahinao na ny ombyiny latsaka an-dalana ianao ka hanafeninao tena amin'izy ireny; tsy maintsy atongotongoanao miaraka aminy mihitsy izy ireny.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "hahita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boriky"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "boriky"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "rahalahinao"
+    },
+    {
+      "surface": "או",
+      "gloss": "na"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "ny ombyiny"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "latsaka"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "an-dalana"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "ka hanafeninao tena"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "amin'izy ireny"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "tsy maintsy atongotongoanao"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "atongotongoanao"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "miaraka aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:47:39.624126128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Izay renay sy fantatray, ka ny razantsika no nilaza tamintsika ⟨azy⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Izay"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "renay"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "sy fantatray ⟨azy⟩"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "ka ny razantsika"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "no nilaza"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "tamintsika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:23.408777395Z",
+  "model": "glm-5.3"
+}

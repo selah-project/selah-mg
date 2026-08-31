@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Vizana aho noho ny fisentoako; amin'ny alina rehetra dia manao ho ranomasina ny fandriako; mandatsa-dranomaso aho amin'ny fararaoko.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Vizana aho"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "noho ny fisentoako"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "manao ho ranomasina"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny... rehetra"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "alina"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "ny fandriako"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "amin'ny ranomasoko"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "ny fararaoko"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "mandatsa-dranomaso (mandrava)"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:47.308265690Z",
+  "model": "glm-5.3"
+}

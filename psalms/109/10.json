@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 109,
+  "translation": "Aoka handeha fatratra mifindrafindra ny zanany, ka hangataka ⟨mofo⟩, ary hitady ⟨mofo⟩ avy amin'ny tanàna rava nisy azy.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "ary mifindrafindra"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "handeha fatratra"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "ka hangataka"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "ary hitady"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "avy amin'ny tanàna rava nisy azy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:37.494520229Z",
+  "model": "glm-5.3"
+}

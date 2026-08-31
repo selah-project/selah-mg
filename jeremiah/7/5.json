@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 7:5",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Fa raha mahatsara tsara ianareo ⟨את⟩ ny lalanao sy ⟨את⟩ ny asanao, ranao manao fitsarana eo anelanelan'ny olona iray sy ny namany,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "mahatsara"
+    },
+    {
+      "surface": "תיטיבו",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lalanao"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "ny lalanao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny asanao"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "ny asanao"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ranao"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "manao"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "manao"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "fitsarana"
+    },
+    {
+      "surface": "בין",
+      "gloss": "eo anelanelan'ny"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona iray"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ny namany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:25:15.421512806Z",
+  "model": "glm-5.3"
+}

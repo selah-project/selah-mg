@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary ny andro rehetra niainan'i Enosh dia dimy taona sy sivanjato taona, dia maty izy.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "dia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "andro"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "dimy"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "sivanjato"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "anjato"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "maty"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:52.708450572Z",
+  "model": "glm-5.3"
+}

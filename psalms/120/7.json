@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 120,
+  "translation": "Izaho ⟨tovon'ny⟩ fiadanana; fa rehefa miteny aho, izy kosa mankany amin'ny ady.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fiadanana"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "fa rehefa"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "miteny aho"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy kosa"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "mankany amin'ny ady"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:56.854185174Z",
+  "model": "glm-5.3"
+}

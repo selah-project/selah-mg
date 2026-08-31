@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 102,
+  "translation": "Fa ny mpanomponao dia falifaly amin'ny vato ⟨את⟩ azy, ary ny vovony ⟨את⟩ tiany hohaina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "falifaly amin'"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ny mpanomponao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vato azy"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "ny vato azy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny vovony"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "ny vovony"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "tiany hohaina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:35.532177108Z",
+  "model": "glm-5.3"
+}

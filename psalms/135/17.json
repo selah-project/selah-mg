@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 135,
+  "translation": "Maso ampy ⟨izy⟩ no ananany, nefa tsy mandre ⟨izy⟩; koa tsy misy rononofo ao am-bavany.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "Maso ampy"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ananany"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "mandre"
+    },
+    {
+      "surface": "אף",
+      "gloss": "koa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rononofo"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ao am-bavany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:50.518956307Z",
+  "model": "glm-5.3"
+}

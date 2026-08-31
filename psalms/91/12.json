@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 91,
+  "translation": "Eny an-tanany no hitondra anao, mba tsy ho tafintohina amin'ny vato ny tongotrao.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Eny ambony"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "tanany"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "no hitondra anao"
+    },
+    {
+      "surface": "פן",
+      "gloss": "mba tsy"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "ho tafintohina"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "amin'ny vato"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "tongotrao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:08.020135466Z",
+  "model": "glm-5.3"
+}

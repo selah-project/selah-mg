@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary izy namaly azy hoe: Izaho no izy; mandehana, lazao amin'ny tomponnao: Indro Elia.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "namaly hoe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Mandehana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "lazao"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "amin'ny tomponnao"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    }
+  ],
+  "timestamp": "2026-08-31T14:47:45.659834351Z",
+  "model": "glm-5.3"
+}

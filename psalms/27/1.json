@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "An'i Davida: Yahveh ⟨no⟩ mazavaiko sy famonjeko — iza no hatahorako? Yahveh ⟨no⟩ mandan'ny aiko — iza no hatahotahoako?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "An'i Davida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "mazavaiko"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "sy famonjeko"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "hatahorako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "mandan'ny"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "aiko"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "hatahotahoako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:28.273128371Z",
+  "model": "glm-5.3"
+}

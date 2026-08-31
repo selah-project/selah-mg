@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 101,
+  "translation": "Tsy hitoetra ao anivon'ny tranoko izay manao fitaka; izay miteny lainga tsy hifanjaka eo anatrehan'ny masoko.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "hitoetra"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ao anivon'ny"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ny tranoko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "izay manao"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "fitaka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izay miteny"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "lainga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "hifanjaka"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "eo anatrehan'ny"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ny masoko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:58.264244860Z",
+  "model": "glm-5.3"
+}

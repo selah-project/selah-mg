@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary ataovy antsy eo amin'ny tendanao, raha tompon'aina ianao.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ataovy"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "antsy"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "eo amin'ny tendanao"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "tompon-"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "aina"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:56:05.407560826Z",
+  "model": "glm-5.3"
+}

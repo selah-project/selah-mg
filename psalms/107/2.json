@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 107,
+  "translation": "Hanao izany ny voavoton'i Yahveh, izay navotany tamin'ny tanan'ny fahavalo.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Hanao izany"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "ny voavoton'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "navotany"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tamin'ny tanan'ny"
+    },
+    {
+      "surface": "צר",
+      "gloss": "fahavalo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:01.841826631Z",
+  "model": "glm-5.3"
+}

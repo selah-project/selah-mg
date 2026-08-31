@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Mpiandry ondry maro no nampy loha ny tanim-boaloboko, nitsimboka ⟨את⟩ ny tany kasainy; nataony ho efitra maloto ⟨את⟩ ny tany kasainy mahafaly.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "mpiandry ondry"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maro"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "nampy loha"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "ny tanim-boaloboko"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "nitsimboka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany kasainy"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "ny tany kasainy"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "nataony ho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany kasainy mahafaly"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "tany kasainy"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "mahafaly"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "efitra"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "maloto"
+    }
+  ],
+  "timestamp": "2026-08-31T15:29:07.198957720Z",
+  "model": "glm-5.3"
+}

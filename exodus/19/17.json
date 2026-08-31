@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary Moshe namoaka ⟨את⟩ ny vahoaka hifanena tamin'i Elohim, avy tany an-toby; ary nijoro tao ambany ilay tendrombohitra izy ireo.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "namoaka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "hifanena tamin'"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy tany"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "an-toby"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "nijoro"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "tao ambany"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ilay tendrombohitra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:01:03.797681638Z",
+  "model": "glm-5.3"
+}

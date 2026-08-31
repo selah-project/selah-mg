@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "An'i Yahveh ny famonjena; ny fitahianaanao no ⟨ho⟩ eo ambonin'ny firenenao. Selah.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "An'i Yahveh"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "ny famonjena"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambonin'ny"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "firenenao"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "fitahianao"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:11.438284573Z",
+  "model": "glm-5.3"
+}

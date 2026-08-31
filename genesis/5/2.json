@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Lahy sy vavy no nohaforoniny ⟨את⟩, ary nitso-drano ⟨את⟩ azy ireo izy, ary niantso ny anarany hoe Adam tamin'ny andro nahaforonana azy ireo.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "lahy"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "sy vavy"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "nohaforoniny"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ary nitso-drano"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy ireo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "ary niantso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anarany"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "nahaforonana azy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:16.025055513Z",
+  "model": "glm-5.3"
+}

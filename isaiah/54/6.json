@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 54:6",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 54,
+  "translation": "Fa tahaka ny vehivavy nolaozana sady nalahelo fanahy no niantso anao Yahveh, sy ny vadin'ny fahatanorana, rehefa nolavina — hoy Elohiminao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "כאשה",
+      "gloss": "tahaka ny vehivavy"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "nolaozana"
+    },
+    {
+      "surface": "ועצובת",
+      "gloss": "sady nalahelo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "קראך",
+      "gloss": "niantso anao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "sy ny vadin'ny"
+    },
+    {
+      "surface": "נעורים",
+      "gloss": "fahatanorana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rehefa"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "nolavina"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:18:42.914682571Z",
+  "model": "glm-5.3"
+}

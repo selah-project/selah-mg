@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 22:18",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary hoy ny mpanjakan'ny Isiraely tamin'i Yehoshafat: Tsy efa nolazainako taminao va fa tsy maminany soa ho ahy izy, fa ratsy?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ary hoy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ny Isiraely"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "tsy... va"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nolazainako"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "taminao"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "maminany"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "soa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "afa-tsy"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ratsy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:51:16.219531298Z",
+  "model": "glm-5.3"
+}

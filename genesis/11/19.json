@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 11:19",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary Peleg velona taorian'ny niterahany an'i ⟨את⟩ Reo sivy taona sy roa-jato taona, ka niteraka zanakalahy sy zanakavavy.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "velona"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "taorian'ny"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ny niterahany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Reo"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reo"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "sivy"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "roa-jato"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zanakalahy"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "zanakavavy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:35.485957299Z",
+  "model": "glm-5.3"
+}

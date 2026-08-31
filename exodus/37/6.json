@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 37:6",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary nanao fandevenana volamena madio izy: lava ro hakiho sy sasany ny lavany, ary sasany hakiho iray ny sakany.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "fandevenana"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "madio"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "hakiho ro"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "sy sasany"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "ny lavany"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ary hakiho iray"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "sy sasany"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ny sakany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:12.354465846Z",
+  "model": "glm-5.3"
+}

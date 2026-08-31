@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary hihiny ⟨את⟩ ny hena amin'ity alina ity izy — natsatsa amin'ny afo — ary mofo tsy misy masirasira sy anamamy mangidy no hohaniny miaraka aminy.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "hihiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hena"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "hena"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "amin'ity alina ity"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "natsatsa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "amin'ny afo"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "mofo tsy misy masirasira"
+    },
+    {
+      "surface": "על",
+      "gloss": "miaraka amin'ny"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "anamamy mangidy"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "hohaniny"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:22.822326690Z",
+  "model": "glm-5.3"
+}

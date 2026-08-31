@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 104,
+  "translation": "Hihira ho an'i Yahveh aho mandritra ny fiainako; hilalao ⟨zava-maneno⟩ ho an'i Elohim aho raha mbola misy aho.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "hihira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "mandritra ny fiainako"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "hilalao ⟨zava-maneno⟩"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ho an'i Elohim"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "raha mbola misy aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:18.653909349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 17:2",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Voafidy tsy misy mponina ny tanànan'i Aroera; ho an'ny andiam-biby fiompy izy, ka matory mipetraka any fa tsy misy mampatahotra.",
+  "tokens": [
+    {
+      "surface": "עזבות",
+      "gloss": "voafidy tsy misy mponina"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ny tanànan'"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroera"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "ho an'ny andiam-biby fiompy"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ho an'"
+    },
+    {
+      "surface": "ורבצו",
+      "gloss": "ka matory mipetraka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "fa tsy misy"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "mampatahotra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:07:06.150582160Z",
+  "model": "glm-5.3"
+}

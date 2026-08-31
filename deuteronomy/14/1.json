@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 14:1",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Zanaka ho an'i Yahveh, Elohinareo, ianareo; aza mamokatenda tena, ary aza manao fitoeran-doha eo anelanelan'ny masonareo noho ny maty.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ianareo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תתגדדו",
+      "gloss": "mamokatenda tena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "manao"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "fitoeran-doha"
+    },
+    {
+      "surface": "בין",
+      "gloss": "anelanelan'ny"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "masonareo"
+    },
+    {
+      "surface": "למת",
+      "gloss": "noho ny maty"
+    }
+  ],
+  "timestamp": "2026-08-31T13:44:30.258560639Z",
+  "model": "glm-5.3"
+}

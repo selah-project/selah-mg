@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Tamin'izay ny mpanjaka nampandroso an'i Shadrakh, Meshakh, ary Abed-Nego tao amin'ny faritanin'i Babylona.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Tamin'izay"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "nampandroso"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "an'i Shadrakh"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meshakh"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "sy Abed"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Nego"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "tao amin'ny faritanin'i"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babylona"
+    }
+  ],
+  "timestamp": "2026-08-31T17:21:16.516872030Z",
+  "model": "glm-5.3"
+}

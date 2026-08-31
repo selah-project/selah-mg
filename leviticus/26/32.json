@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary Izaho no hampibodo ⟨את⟩ ny tany, ary ho talanjona aminy ny fahavalonareo, dia izay monina ao aminy.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "Ary hampibodo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho no"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "ary ho talanjona"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ny fahavalonareo"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "izay monina"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ao aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:23:28.435415501Z",
+  "model": "glm-5.3"
+}

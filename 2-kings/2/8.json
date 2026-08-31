@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ari Eliya naka ⟨את⟩ ny lambany, ka niforony izy ka namely ⟨את⟩ ny rano, dia mizara roa ho ity sy ho etsy ny rano; ary izy roa dia niampita tamin'ny tany maina.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "naka"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lambany"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "ny lambany"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "ka niforony"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "ka namely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rano"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ny rano"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "dia mizara roa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ho ity"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "sy ho etsy"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "dia niampita"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "izy roa"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "tamin'ny tany maina"
+    }
+  ],
+  "timestamp": "2026-08-31T14:51:01.677039755Z",
+  "model": "glm-5.3"
+}

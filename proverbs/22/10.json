@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Esory ny mpanatsaratsara, dia hivoaka ny fifandirana, dia hitsahatra ihany koa ny fifanolanana sy ny tsy fanajana.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "Esory"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "ny mpanatsaratsara"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "dia hivoaka"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "ny fifandirana"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "dia hitsahatra"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ny fifanolanana"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "sy ny tsy fanajana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:55:09.345860117Z",
+  "model": "glm-5.3"
+}

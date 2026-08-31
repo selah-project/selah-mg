@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Yahveh mampahantra sy mampamonjy manan-karena, manetry, ary manandratra.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "mampahantra"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "sy mampamonjy manan-karena"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "manetry"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ary"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "manandratra"
+    }
+  ],
+  "timestamp": "2026-08-31T14:14:32.673594785Z",
+  "model": "glm-5.3"
+}

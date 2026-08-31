@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Izaho Nevukadnetsara, tony ⟨aho⟩ tao an-tranoko, sady mamiratra tao an-jarako.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukadnetsara"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "tony"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "aho"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "tao an-tranoko"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "sady mamiratra"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "tao an-jarako"
+    }
+  ],
+  "timestamp": "2026-08-31T17:22:16.091331825Z",
+  "model": "glm-5.3"
+}

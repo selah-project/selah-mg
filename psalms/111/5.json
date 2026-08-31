@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 111,
+  "translation": "Sakafo nomeny ny matahotra Azy; mahatsiaro ny fanekeny izy mandrakizay.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "sakafo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nomeny"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ny matahotra Azy"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "mahatsiaro"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ny fanekeny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:45.916784613Z",
+  "model": "glm-5.3"
+}

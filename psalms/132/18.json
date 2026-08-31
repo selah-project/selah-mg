@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 132:18",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 132,
+  "translation": "Ny fahavalony no hitafianiko fahalovana; fa amboniny no hamirapiratra ny satroboninahiny.",
+  "tokens": [
+    {
+      "surface": "אוֹיְבָיו",
+      "gloss": "fahavalony"
+    },
+    {
+      "surface": "אַלְבִּישׁ",
+      "gloss": "hitafianiko"
+    },
+    {
+      "surface": "בֹּשֶׁת",
+      "gloss": "fahalovana"
+    },
+    {
+      "surface": "וְעָלָיו",
+      "gloss": "amboniny"
+    },
+    {
+      "surface": "יָצִיץ",
+      "gloss": "hamirapiratra"
+    },
+    {
+      "surface": "נִזְרוֹ",
+      "gloss": "satroboninahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:13.445855219Z",
+  "model": "glm-5.3"
+}

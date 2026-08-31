@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Aza mahafoy ahy, Yahveh Elohay ahy; aza miala amiko.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "mahafoy ahy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohay ahy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "miala"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:56.690828649Z",
+  "model": "glm-5.3"
+}

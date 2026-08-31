@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary nanangona ny Pelishtianina ⟨את⟩ ny toby rehetra tany Apeka, fa ny Isiraely kosa nitsangatsangana teo amoron'ny loharano ao Jizreela.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "nanangona"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Pelishtianina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny toby rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "toby"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "tany Apeka"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "fa ny Isiraely"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "nitsangatsangana"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "teo amoron'ny loharano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "Jizreela"
+    }
+  ],
+  "timestamp": "2026-08-31T14:26:48.288451392Z",
+  "model": "glm-5.3"
+}

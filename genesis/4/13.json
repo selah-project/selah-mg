@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary Kajin nanao teny tamin'i Yahveh: Lehibe ny fahadisoako, mihoatra noho ny zaka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao teny"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "ny fahadisoako"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "mihoatra noho ny zaka"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:28.015647815Z",
+  "model": "glm-5.3"
+}

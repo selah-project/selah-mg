@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "tamin'ny fampisehoany ⟨את⟩ ny haren'ny voninahitry ny fanjakany sy ⟨את⟩ ny lanjan'ny hatsaran'ny fahalehibiazany, andro maro — valo-polo amby zato andro",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "tamin'ny fampisehoany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny haren'ny voninahitry ny fanjakany"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ny haren'ny"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "voninahitry ny"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "fanjakany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny lanjan'ny hatsaran'ny fahalehibiazany"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ny lanjan'ny"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "hatsaran'ny"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "fahalehibiazany"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maro"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "valo-polo"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "amby zato"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    }
+  ],
+  "timestamp": "2026-08-31T17:18:56.974568116Z",
+  "model": "glm-5.3"
+}

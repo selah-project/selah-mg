@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 143,
+  "translation": "Manerinerina ny tànako mankany aminao; ny aiko dia toy ny tany reraka noho ny hetrak'ny fanirianao ⟨fa ho anao⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "manerinerina"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ny tànako"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "mankany aminao"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "toy ny tany"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "reraka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨fa ho anao⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:17.056601115Z",
+  "model": "glm-5.3"
+}

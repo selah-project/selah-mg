@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Endrika mahafinaritra amin'ny vavako ny teninao, mihoatra noho ny tantely amin'ny vava!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "endrika mahafinaritra"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "mahafinaritra"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "amin'ny vavako"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ny teninao"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "mihoatra nohy ny tantely"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "amin'ny vava"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:17.467545669Z",
+  "model": "glm-5.3"
+}

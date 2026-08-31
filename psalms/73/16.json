@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 73,
+  "translation": "Ary nieritreritra ny hahafantatra izany aho — vaika be izany tamin'ny mason'izaho.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "ary nieritreritra aho"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ny hahafantatra"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izany"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "vaika be"
+    },
+    {
+      "surface": "היא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "tamin'ny mason'izaho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:29.861644906Z",
+  "model": "glm-5.3"
+}

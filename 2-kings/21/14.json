@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 21:14",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary hahafoy ⟨את⟩ ny sisa amin'ny lovanoko, ary homeko ⟨izy ireo⟩ ao an-tàn'ny fahavalony izy, ka ho babo sy ho enta-midadika ho an'ireo fahavalony rehetra.",
+  "tokens": [
+    {
+      "surface": "ונטשתי",
+      "gloss": "hahafoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny sisa amin'ny lovanoko"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "ny sisa"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "amin'ny lovanoko"
+    },
+    {
+      "surface": "ונתתים",
+      "gloss": "homeko"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ao an-tànan'ny"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "fahavalony"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ka ho"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "babo"
+    },
+    {
+      "surface": "ולמשסה",
+      "gloss": "sy ho enta-midadika"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho an'ireo"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "fahavalony rehetra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:00:39.290309954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 147,
+  "translation": "Manome ny sakafo ny biby fiompy, sy ny zanak'olona goaika izay miantsoantso.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "Manome"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "ny biby fiompy"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "ny sakafo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ny zanak'olona"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "goaika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "miantsoantso"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:35.632501479Z",
+  "model": "glm-5.3"
+}

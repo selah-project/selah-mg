@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ireno no anaran'ny zanak'i Yisraely tonga tany Mitsrayim miaraka ⟨את⟩ i Yaakov; samy tonga tamin'ny tokatranony avokoa izy ireo.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ireno no"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "anaran'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraely"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "tonga tany"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "איש",
+      "gloss": "samy (iray olona)"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "tamin'ny tokatranony"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tonga"
+    }
+  ],
+  "timestamp": "2026-08-31T12:53:43.584668467Z",
+  "model": "glm-5.3"
+}

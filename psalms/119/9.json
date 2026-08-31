@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ahoana no hanadiovan'ny tanora ⟨את⟩ ny lalany? Amin'ny fitandremana azy araka ny teninao.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "Ahoana no"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "hanadiovana"
+    },
+    {
+      "surface": "נער",
+      "gloss": "tanora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lalany"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "ny lalany"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "amin'ny fitandremana"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "araka ny teninao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:03.076078816Z",
+  "model": "glm-5.3"
+}

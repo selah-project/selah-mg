@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary hatsipiko ⟨את⟩ fatin'ny zanak'i Yisraela eo anoloan'ny gilohany, ary hotipiko ⟨את⟩ taolanareo manodidina ny alitaranareo.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "hatsipiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fatin'ny zanak'i Yisraela"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "fatin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anoloan'ny"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "gilohany"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "ary hotipiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taolanareo"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "taolanareo"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "ny alitaranareo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:47:45.765424522Z",
+  "model": "glm-5.3"
+}

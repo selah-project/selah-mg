@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 85:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 85,
+  "translation": "Hihaino aho izay holazain'ny El Yahveh; fa hiteny fiadanana Iy amin'ny olony sy amin'ny hasidany; fa aza hiverina ho amin'ny fahadalanana izy.",
+  "tokens": [
+    {
+      "surface": "אשמעה",
+      "gloss": "hihaino aho"
+    },
+    {
+      "surface": "מה",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "holazainy"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ny El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "hiteny"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fiadanana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "olony"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sy amin'ny"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hasidany"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "fa aza"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "hiverina izy"
+    },
+    {
+      "surface": "לכסלה",
+      "gloss": "ho amin'ny fahadalanana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:59.879686836Z",
+  "model": "glm-5.3"
+}

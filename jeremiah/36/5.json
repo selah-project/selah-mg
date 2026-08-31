@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Ary Yirmejah nandidy ⟨את⟩ Baroka hanao hoe: Izaho voasakana, tsy mahay miditra amin'ny tranon'i Yahveh aho.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "nandidy"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmejah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baroka"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baroka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hanao hoe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "voasakana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mahay"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "miditra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T15:38:20.990089491Z",
+  "model": "glm-5.3"
+}

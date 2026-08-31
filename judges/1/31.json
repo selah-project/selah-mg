@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 1:31",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Asera tsy nandroaka ⟨את⟩ ny mponina tao Ako sy ⟨את⟩ ny mponina tao Tsidona, ary ⟨את⟩ Aklaba sy ⟨את⟩ Akziba sy ⟨את⟩ Helbaha sy ⟨את⟩ Afika ary ⟨את⟩ Rehoba.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Asera"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "nandroaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mponina tao Ako"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ny mponina"
+    },
+    {
+      "surface": "עכו",
+      "gloss": "tao Ako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny mponina tao Tsidona"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ny mponina"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "tao Tsidona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Aklaba"
+    },
+    {
+      "surface": "אחלב",
+      "gloss": "Aklaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Akziba"
+    },
+    {
+      "surface": "אכזיב",
+      "gloss": "Akziba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Helbaha"
+    },
+    {
+      "surface": "חלבה",
+      "gloss": "Helbaha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Afika"
+    },
+    {
+      "surface": "אפיק",
+      "gloss": "Afika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Rehoba"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehoba"
+    }
+  ],
+  "timestamp": "2026-08-31T14:04:35.809245849Z",
+  "model": "glm-5.3"
+}

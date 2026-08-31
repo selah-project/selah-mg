@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ny ondry aman'osinareo koa sy ny ombyareo koa dia ento, araka izay nolazainareo, ary mandehana; ary fitsofan-drinareo koa aho.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "ondry aman'osinareo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "ombyareo"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ento"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka izay"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "nolazainareo"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ary mandehana"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "ary fitsofan-drinareo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ aho",
+      "marks": "aho"
+    }
+  ],
+  "timestamp": "2026-08-31T12:59:06.677665104Z",
+  "model": "glm-5.3"
+}

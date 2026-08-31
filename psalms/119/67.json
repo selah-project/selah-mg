@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Talohan'ny nanjo fanaintainana aho dia nivadika lalana; fa ankehitriny dia nitandrina ny teninao aho.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "talohan'ny"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "nanjo fanaintainana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aho"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "nivadika lalana"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "fa ankehitriny"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ny teninao"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "dia nitandrina... aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:16.883861958Z",
+  "model": "glm-5.3"
+}

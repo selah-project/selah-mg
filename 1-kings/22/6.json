@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 22:6",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary ny mpanjakan'i Isiraely nanangona ⟨את⟩ ny mpaminany, eo amin'ny efajato lahy, ka hoy izy taminy: Hankany Ramota any Giladata va aho hiady, sa hitsahatra? Ary hoy ireo: Miakara, ary homen'i Adonay izany ho an-tanan'ny mpanjaka.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "nanangona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpaminany"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ny mpaminany"
+    },
+    {
+      "surface": "כארבע",
+      "gloss": "eo amin'ny efajato"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "zato"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lahy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka hoy izy"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "Hankany va aho"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'i"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramota"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giladata"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "hiady"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אחדל",
+      "gloss": "hitsahatra"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ary hoy ireo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Miakara"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ary homeny"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ho an-tanan'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:49:55.295253508Z",
+  "model": "glm-5.3"
+}

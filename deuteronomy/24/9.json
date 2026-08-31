@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Tsarovy izay nataon'i Yahveh Elohim-ko tamin'i Miriam tamin'ny lalana, tamin'ny fivoahanareo tamin'i Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Tsarovy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-ko"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "tamin'i Miriam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tamin'ny lalana"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "tamin'ny fivoahanareo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "tamin'i Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T13:48:12.478263068Z",
+  "model": "glm-5.3"
+}

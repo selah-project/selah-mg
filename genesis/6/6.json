@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary Yahveh nibebaka fa nanao ⟨את⟩ ny olona teto amin'ny tany, ary nanahy mafy tao anaty fony Izy.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "nibebaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny olona"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "teto amin'ny tany"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "nanahy mafy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tao anaty"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "fony"
+    }
+  ],
+  "timestamp": "2026-08-31T12:36:43.555623493Z",
+  "model": "glm-5.3"
+}

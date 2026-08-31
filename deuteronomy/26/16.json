@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Andro anio no i Yahveh Elohim-nao mandidy anao hanao ⟨את⟩ lalàna mahatokana sady fitsarana ireto, ary hotehiro sy hatao amin'ny fonao manontolo sy amin'ny ainao manontolo.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "andro anio"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "no"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nao"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "mandidy"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "anao"
+    },
+    {
+      "surface": "את",
+      "gloss": "hanao ⟨את⟩",
+      "marks": "lalàna mahatokana sady fitsarana ireto"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "lalàna mahatokana"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sidy ⟨את⟩",
+      "marks": "fitsarana"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "fitsarana"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ary hotehiro"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "sy hatao"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... manontolo"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "fonao"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "sy amin'ny ... manontolo"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ainao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:49:35.667093436Z",
+  "model": "glm-5.3"
+}

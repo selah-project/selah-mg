@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 72,
+  "translation": "Hanavotra amin'ny fitaka sy ny heri-setsika ny ainy; ary lafo vidy ny rany eo imasony.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "fitaka sy ny heri-setsika"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "hanavotra"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ny ainy"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "ary lafo vidy"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "ny rany"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "eo imasony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:29.321954513Z",
+  "model": "glm-5.3"
+}

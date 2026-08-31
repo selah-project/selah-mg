@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 50,
+  "translation": "Ary nataon'ny zanany taminy izany, araka izay nolazainy taminy.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "nataon'ny"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka izay"
+    },
+    {
+      "surface": "צום",
+      "gloss": "nolazainy taminy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:54:37.985286290Z",
+  "model": "glm-5.3"
+}

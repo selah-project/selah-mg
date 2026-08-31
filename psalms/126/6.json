@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 126,
+  "translation": "Mandeha ⟨ѡу⟩ izy ka mitomany, mitondra ⟨את⟩ ny voa famafy; hody izy tokoa amin'ny fihobiahana, mitondra ⟨את⟩ ny amponga-vary.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ka mandeha"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "ka mitomany"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mitondra"
+    },
+    {
+      "surface": "משך",
+      "gloss": "voa famafy"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "ny voa",
+      "marks": "ny voa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hidy"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "izy tokoa"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "amin'ny fihobiahana"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mitondra"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "ny amponga-vary"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:15.607492279Z",
+  "model": "glm-5.3"
+}

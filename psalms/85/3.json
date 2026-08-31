@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 85,
+  "translation": "Efa novelominao ⟨tao⟩ ny heloky ny olonao, efa nafeninao ny ota rehetra. Selah.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "efa novelominao"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ny heloka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ny olonao"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "efa nafeninao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rea"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "ny otany"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:05.872751222Z",
+  "model": "glm-5.3"
+}

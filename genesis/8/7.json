@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nalefany ⟨את⟩ ilay goaika, ka lasa izy mandeha sy miverina mandra-pahatapitr'ny fan main'ny rano manko amin'ny tany.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "nalefany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay goaika"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "goaika"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ka lasa izy"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "sy miverina"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-pahatapitr'ny"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "fan main'ny"
+    },
+    {
+      "surface": "המים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manko amin'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:50.844258453Z",
+  "model": "glm-5.3"
+}

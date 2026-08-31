@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 56,
+  "translation": "Avia, ⟨ianareo⟩ biby rehetra amin'ny saha, hitsanga mihinana, eny, ianareo biby rehetra amin'ny ala.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "biby"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "amin'ny saha"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "avia"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "mihinana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "biby"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "amin'ny ala"
+    }
+  ],
+  "timestamp": "2026-08-31T15:18:43.030728464Z",
+  "model": "glm-5.3"
+}

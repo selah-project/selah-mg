@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 18:11",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "fa izy tsy nanao ⟨את⟩ izy rehetra ireo, fa enina-tendrombohitra ihany no nihinany, ary ⟨את⟩ ny vadin'ny namany no nolotoiny;",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "fa izy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izy rehetra ireo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "enina-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ihany"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "no nihinany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny vadin'ny namany"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ny vadin'ny"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "namany"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "no nolotoiny"
+    }
+  ],
+  "timestamp": "2026-08-31T15:52:34.435595514Z",
+  "model": "glm-5.3"
+}

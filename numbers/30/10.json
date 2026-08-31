@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Fa ny nifian'ny mpitondra tena sy ny mpitondra vady, izay rehetra nifeheziny ny ainy, dia haharetaka eo aminy.",
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "Fa ny nifian'ny"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "mpitondra tena"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "sy ny mpitondra vady"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "nifeheziny"
+    },
+    {
+      "surface": "על",
+      "gloss": "ny"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "ainy"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "haharetaka"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "eo aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:36:57.010456562Z",
+  "model": "glm-5.3"
+}

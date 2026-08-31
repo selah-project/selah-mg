@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Hiverina amin'ny lohany ny faharatsiana nataony, ary ambanin'ny haben-dohany hidina ny herisetra nataony.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "Hiverina"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ny faharatsiana nataony"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "amin'ny lohany"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ary ambanin'ny"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "haben-dohany"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "ny herisetra nataony"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "hidina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:17.593329769Z",
+  "model": "glm-5.3"
+}

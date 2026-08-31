@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 20:25",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Fa ianao kosa, manàna ho anao miaramila tahaka ny miaramila lavo ⟨את⟩ taminao, sy soavaly ho an'ny soavaly, ary kalesy ho an'ny kalesy, ary hiady azy isika any amin'ny tani-hay; tsy matanjaka kokoa noho izy va isika? Ary Ben-Hadad nihaino ny feony ka nanao izany.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "fa ianao kosa"
+    },
+    {
+      "surface": "תמנה",
+      "gloss": "manàna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "miaramila"
+    },
+    {
+      "surface": "כחיל",
+      "gloss": "tahaka ny miaramila"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "lavo"
+    },
+    {
+      "surface": "מאותך",
+      "gloss": "⟨את⟩ taminao",
+      "marks": "miaramila lavo"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "sy soavaly"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "ho an'ny soavaly"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ary kalesy"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "ho an'ny kalesy"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "ary hiady"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ azy",
+      "marks": "any amin'ny tani-hay (azy)"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "any amin'ny tani-hay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨va⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "matanjaka kokoa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "noho izy"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "ary nihaino"
+    },
+    {
+      "surface": "לקלם",
+      "gloss": "ny feony"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ka nanao"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:49:22.910833874Z",
+  "model": "glm-5.3"
+}

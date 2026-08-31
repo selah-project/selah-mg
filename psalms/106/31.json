@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Ary isaina ho fahamarinana ho azy izany, ho an'ny taranaka sy taranaka, mandra-pahita ny fahavitan'ny teny.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "isaina"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "ho fahamarinana"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ho an'ny taranaka"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "sy taranaka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-pahita"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ny fahavitan'ny teny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:48.709529848Z",
+  "model": "glm-5.3"
+}

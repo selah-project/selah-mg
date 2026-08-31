@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 38:6",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Ary Yehuda naka vady ho an'i Er lahimatoany; ary Tamar no anarany.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "naka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vady"
+    },
+    {
+      "surface": "לער",
+      "gloss": "ho an'i Er"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "lahimatoany"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ary ny anarany"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    }
+  ],
+  "timestamp": "2026-08-31T17:55:52.709035206Z",
+  "model": "glm-5.3"
+}

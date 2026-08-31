@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ny didy tsara napetrak'i Yahveh mahitsy, mandray an-tsaiko ⟨mampifaly ny fon⟩; ny didin'i Yahveh madio, mampahazava ny maso.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "didy tsara napetraka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "mahitsy"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "mampifaly"
+    },
+    {
+      "surface": "לב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "didy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "madio"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "mampahazava"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "maso"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:23.187799994Z",
+  "model": "glm-5.3"
+}

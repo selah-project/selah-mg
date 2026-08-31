@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Mihorohoro, ary aza manota; lazao ao am-ponao rehefa eo am-pandrianao ianao, ary mangina ⟨Selah⟩.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Mihorohoro"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "manota"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "lazao"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "ao am-ponao"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "fandrianao"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "ary mangina"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "⟨Selah⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:58.123508194Z",
+  "model": "glm-5.3"
+}

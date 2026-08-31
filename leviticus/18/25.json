@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Dia loto ny tany, ka Izaho nitsidika ny helany amboniny, ary nandoa ny tany ⟨את⟩ ny mponina ao aminy.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "Dia loto"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "ka Izaho nitsidika"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "ny helany"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "amboniny"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "ary nandoa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mponina ao aminy"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "ny mponina ao aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:17:21.980028935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 69,
+  "translation": "Aza vasivasy amiko ny onja rano, ary aza atelina aho ao amin'ny lalina, ary aza hidian'ny lavaka ny vavany amiko.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "vasivasy amiko"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "ny onja"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "atelina aho"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "ao amin'ny lalina"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "hidiany"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ny lavaka"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ny vavany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:58.324536639Z",
+  "model": "glm-5.3"
+}

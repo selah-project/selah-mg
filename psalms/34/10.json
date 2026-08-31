@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Matahora Yahveh ⟨את⟩, ry olony masina; fa tsy misy tsy fahampiana amin'izay matahorahiny.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Matahora"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "ry olony masina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "tsy fahampiana"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "amin'izay matahorahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:45.924472871Z",
+  "model": "glm-5.3"
+}

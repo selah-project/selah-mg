@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Dia nandeha izy ary nanao araka ny tenin'i Eliyahu; ka nihinana izy sy izy sy ny ankohonany nandritra ny andro maro.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "Dia nandeha izy"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "ary nanao"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "araka ny tenin'i"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ka nihinana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "sy izy"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "sy ny ankohonany"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nandritra ny andro maro"
+    }
+  ],
+  "timestamp": "2026-08-31T14:48:06.554896051Z",
+  "model": "glm-5.3"
+}

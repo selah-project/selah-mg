@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 31:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Noho ny fahavalo rehetra dia tonga fahafaham-baraka aho, ary ho an'ny namako indrindra, ary lembenana ho an'ny sakaizako; izay mahita ahy any ivelany dia mandositra miala amiko.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "Noho ny ... rehetra"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "fahavalo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "fahafaham-baraka"
+    },
+    {
+      "surface": "ולשכני",
+      "gloss": "ary ho an'ny namako"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "indrindra"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "ary lembenana"
+    },
+    {
+      "surface": "למידעי",
+      "gloss": "ho an'ny sakaizako"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "izay mahita ahy"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "any ivelany"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "mandositra miala"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:14.657180281Z",
+  "model": "glm-5.3"
+}

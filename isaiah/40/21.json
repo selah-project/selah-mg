@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 40:21",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Tsy fantatrareo va? Tsy renareo va? Tsy voatalaza tamin'ny voalohany va tamareo ⟨izany⟩? Tsy mbola mahatakatra va ianareo ny fototry ⟨ny⟩ tany?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Tsy…va"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "fantatrareo"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Tsy…va"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "renareo"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Tsy…va"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "voatalaza"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "tamin'ny voalohany"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "tamareo"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Tsy…va"
+    },
+    {
+      "surface": "הבינתם",
+      "gloss": "mahatakatra"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "fototra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:15:11.849384805Z",
+  "model": "glm-5.3"
+}

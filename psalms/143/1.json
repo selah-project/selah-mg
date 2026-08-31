@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 143,
+  "translation": "Fihirana nataon'i Davida. Yahveh, henoy ny fivavahako, tandremo ny fifonako; amin'ny fahamarinanao valio aho, amin'ny fahamarinanao.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Fihirana"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nataon'i Davida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "henoy"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ny fivavahako"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "tandremo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ny⟩"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ny fifonako"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "amin'ny fahamarinanao"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "valio aho"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "amin'ny fahamarinanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:54.276995025Z",
+  "model": "glm-5.3"
+}

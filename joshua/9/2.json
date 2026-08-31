@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 9:2",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "dia niara-nivory izy mba hiady amin'i Yehoshoa sy amin'i Yisrael, vava iray ⟨ihany⟩.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "dia niara-nivory izy"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "niara-"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "mba hiady"
+    },
+    {
+      "surface": "עם",
+      "gloss": "amin'i"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoa"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "sy amin'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "פה",
+      "gloss": "vava"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    }
+  ],
+  "timestamp": "2026-08-31T13:59:01.232514733Z",
+  "model": "glm-5.3"
+}

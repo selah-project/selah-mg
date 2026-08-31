@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary handefa aminy ny sabatra ⟨את⟩ sy ny mosary ⟨את⟩ ary ny aretina-mandoza ⟨את⟩, mandra-pahatapitrany amin'ny tany izay nomenako azy sy ny razany.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Ary handefa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny sabatra"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "ny sabatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mosary"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "sy ny mosary"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny aretina-mandoza"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ary ny aretina-mandoza"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "pahatapitrany"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nomenako"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "sy ny razany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:33:14.967114294Z",
+  "model": "glm-5.3"
+}

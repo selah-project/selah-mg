@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 137,
+  "translation": "Fa tao ny mpibaby antsika ho babo dia nanontany teny hira, ary izay nampahory antsika dia nangatahana hafaliana, ka nanao hoe: Mihira hoe anay hira avy amin'ny hiran'i Ziona.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "nanontany"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "ny mpibaby antsika ho babo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "teny"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "hira"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "ary izay nampahory antsika"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "hafaliana"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Mihira"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anay"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "hira avy amin'ny"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ziona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:48.030943835Z",
+  "model": "glm-5.3"
+}

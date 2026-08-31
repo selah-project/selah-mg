@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Fa hianao no voninahitry ny heriny, ary amin'ny sitrakao no hasandratana ny tandrontsika.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "voninahitra"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "ny heriny"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "hianao"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "ary amin'ny sitrakao"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "hasandratana"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "ny tandrontsika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:40.638089668Z",
+  "model": "glm-5.3"
+}

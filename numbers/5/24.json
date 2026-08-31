@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 5:24",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary ny mpisoratra hampinomio ⟨את⟩ ilay vehivavy ⟨את⟩ ny rano mangidy manao ozona, ary hiditra ao aminy ny rano manao ozona ho mangidy.",
+  "tokens": [
+    {
+      "surface": "והשקה",
+      "gloss": "Ary hampinomio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay vehivavy"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ilay vehivavy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rano"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ny rano"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "mangidy"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "manao ozona"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ary hiditra"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ao aminy"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ny rano"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "manao ozona"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "ho mangidy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:58:22.456547574Z",
+  "model": "glm-5.3"
+}

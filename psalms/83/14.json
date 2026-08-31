@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 83,
+  "translation": "Elohay nefa ataovy izy ho toy ny kodiarana mihodina, ho toy ny tapon-ketsa eo anatrehon'ny rivotra.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohay"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "ataovy izy"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "ho toy ny kodiarana mihodina"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "ho toy ny tapon-ketsa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anatrehon'ny"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rivotra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:10.084591632Z",
+  "model": "glm-5.3"
+}

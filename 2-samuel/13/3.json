@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 13:3",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary nisy namana ⟨an'i⟩ Amnona, ary Yonadaba no anarany, zanak'i Shima rahalahin'i Davida; ary Yonadaba dia lehilahy mahay saina fatratra.",
+  "tokens": [
+    {
+      "surface": "ולאמנון",
+      "gloss": "an'i Amnona"
+    },
+    {
+      "surface": "רע",
+      "gloss": "namana"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ary ny anarany"
+    },
+    {
+      "surface": "יונדב",
+      "gloss": "Yonadaba"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "an'i Shima"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "rahalahin'"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ויונדב",
+      "gloss": "ary Yonadaba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mahay saina"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "fatratra"
+    }
+  ],
+  "timestamp": "2026-08-31T18:03:33.511538351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Fa ny latabatra rehetra feno astera sy fako, tsy misy toerana madio.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "latabatra"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "feno"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "astera"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "fako"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "toerana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:09:38.573104938Z",
+  "model": "glm-5.3"
+}

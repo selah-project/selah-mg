@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary ny fizaran'ny zanak'i Aharon dia ireto: ⟨ireo⟩ zanak'i Aharon dia Nadab sy Abihu, Elazara ary Itamara.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Ary ho an'ny zanak'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "ny fizarany"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "sy Abihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazara"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "ary Itamara"
+    }
+  ],
+  "timestamp": "2026-08-31T17:40:47.772523859Z",
+  "model": "glm-5.3"
+}

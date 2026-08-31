@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Mamindrà fo amiko, Yahveh, fa malemy aho; sitrano aho, Yahveh, fa nihorohoro ny taolanko.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Mamindrà fo amiko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "malemy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aho"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "sitrano aho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "nihorohoro"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ny taolanko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:10.391376777Z",
+  "model": "glm-5.3"
+}

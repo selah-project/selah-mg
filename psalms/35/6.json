@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Ho maizina ny lalany, sy tafolo-tafolo, ary ny irakan'i Yahveh manenjika azy.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ho"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ny lalany"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "maizina"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "sy tafolo-tafolo"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ary ny iraka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "manenjika azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:15.782237993Z",
+  "model": "glm-5.3"
+}

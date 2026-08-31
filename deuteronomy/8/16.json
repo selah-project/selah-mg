@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "ilay mampihinana anao mana tao an_efitra, izay tsy fantatry ny razanao, mba hampahalebena anao sy hanandrana anao, hanany soa anao amin'ny farany;",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "ilay mampihinana anao"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mana"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "tao an'efitra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "fantatry"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "ny razanao"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mba"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "hampahalebena anao"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "sy mba"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "hanandrana anao"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "hanany soa anao"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "amin'ny farany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:42:20.359694110Z",
+  "model": "glm-5.3"
+}

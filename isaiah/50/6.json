@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 50,
+  "translation": "Ny hooko dia nomenako ⟨ho⟩ an'ireo mpanapaka, ary ny takolako ho an'ireo mandina volo; ny tavanao tsy nafeniko tsy ho amin'ny fahafaham-baraka sy ny etkana.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "ny hooko"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nomenako"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "an'ireo mpanapaka"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "ary ny takolako"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "ho an'ireo mandina volo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ny tavako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "nafeniko"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "amin'ny fahafaham-baraka"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "sy ny etkana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:18:51.611339225Z",
+  "model": "glm-5.3"
+}

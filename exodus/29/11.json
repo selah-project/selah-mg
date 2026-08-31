@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary hanao ⟨את⟩ ny ombilahy ho faty eo anatrehan'i Yahveh ianao, eo am-baravaran'ny trano fihaonana.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "hanao ho faty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ombilahy"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ny ombilahy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anatrehan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "eo am-baravaran'ny"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tranon'ny"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fihaonana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:05:46.776994337Z",
+  "model": "glm-5.3"
+}

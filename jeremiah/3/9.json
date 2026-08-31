@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary tamin'ny fahakelezan'ny fijangadiany dia nolotoiny ⟨את⟩ ny tany, ary nanjangadina ⟨את⟩ tamin'ny vato sy ⟨את⟩ tamin'ny hazo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ary tonga ny"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "ny fahakelezan'"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "ny fijangadiany"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "dia nolotoiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "ary nanjangadina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vato"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ny vato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny hazo"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ny hazo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:23:56.931407817Z",
+  "model": "glm-5.3"
+}

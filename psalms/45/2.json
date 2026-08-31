@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 45,
+  "translation": "Miboatra teny soa ny foko; izay ataoko no lazariko amin'ny mpanjaka; ny lelako ⟨no⟩ penin'ny mpanoratra faingana.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "miboatra"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "teny"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "soa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "lazariko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "izay ataoko"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "amin'ny mpanjaka"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ny lelako"
+    },
+    {
+      "surface": "עט",
+      "gloss": "penin'ny"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "mpanoratra"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "faingana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:30:45.166485443Z",
+  "model": "glm-5.3"
+}

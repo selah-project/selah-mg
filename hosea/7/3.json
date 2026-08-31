@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Amin'ny haratsiany no faly ny mpanjaka, ary amin'ny fitany no finaritry ny mpanapaka.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "amin'ny haratsiany"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "no faly"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "ary amin'ny fitany"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ny mpanapaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:07:56.469172201Z",
+  "model": "glm-5.3"
+}

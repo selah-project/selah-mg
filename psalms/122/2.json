@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 122,
+  "translation": "Mitsangana ny tongontsika ⟨eo⟩ ambanin'ny vavahadinao, ry Yeroshalayim.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "Mitsangana"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨⟨⟩⟩"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "ny tongontsika"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "ao anatin'ny vavahadinao"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ry Yeroshalayim"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:24.216752804Z",
+  "model": "glm-5.3"
+}

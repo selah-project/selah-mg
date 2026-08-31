@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 49,
+  "translation": "Olona ⟨ao⟩ amin'ny voninahitra nefa tsy mahatakatra, dia mitovy amin'ny biby fiompy izy — dia maty fanahy izy.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "voninahitra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nefa tsy"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "mahatakatra"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "mitovy amin'ny"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "ny biby fiompy"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "maty fanahy izy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:48.550983962Z",
+  "model": "glm-5.3"
+}

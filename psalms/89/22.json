@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Ilay tananao maharitra ⟨eo⟩ aminy; eny, ny sandrivo no hahatonga azy ho mahery.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ilay"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tananao"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "maharitra"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨eo⟩ aminy"
+    },
+    {
+      "surface": "אף",
+      "gloss": "eny"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "ny sandrivo"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "no hahatonga azy ho mahery"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:40.683290353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Aza mifanara-benty ⟨את⟩ amin'ny lehilahy taitra fo, ary ⟨את⟩ amin'ny lehilahy faly hatezerana aza mandeha;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "mifanara-benty"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amin'ny lehilahy taitra fo"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "tompon'"
+    },
+    {
+      "surface": "אף",
+      "gloss": "fahatezerana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "faly hatezerana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "mandeha"
+    }
+  ],
+  "timestamp": "2026-08-31T16:55:41.354808027Z",
+  "model": "glm-5.3"
+}

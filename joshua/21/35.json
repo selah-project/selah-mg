@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "⟨את⟩ Dimna sy ⟨את⟩ ny tany manodidina azy, ⟨את⟩ Nahalala sy ⟨את⟩ ny tany manodidina azy — tanàna efatra.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dimna"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "Dimna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tany manodidina azy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ny tany manodidina azy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahalala"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tany manodidina azy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ny tany manodidina azy"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "efatra"
+    }
+  ],
+  "timestamp": "2026-08-31T14:02:32.520954693Z",
+  "model": "glm-5.3"
+}

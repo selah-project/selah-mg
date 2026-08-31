@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary ny mpanompo nametraka ⟨את⟩ ny tànany ambanin'ny farnan'i Abrahama tompony, ary nianiana taminy izy momba ilay zavatra izany.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "nametraka"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "ny mpanompo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tànany"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ny tànany"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ambanin'ny"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "farnan'i"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahama"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "tompony"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ary nianiana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "על",
+      "gloss": "momba"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ilay zavatra"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "izany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:41:37.739756932Z",
+  "model": "glm-5.3"
+}

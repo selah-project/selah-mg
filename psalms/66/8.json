@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 66,
+  "translation": "Misaotra an'i Elohim, ry firenena, ary avelao ho re ny feon'ny fiderany.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Misaotra"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ry firenena"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "an'i Elohim"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "ary avelao ho re"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ny feon'"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ny fiderany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:27.511118643Z",
+  "model": "glm-5.3"
+}

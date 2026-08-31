@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ari misy renirano mivoaka avy any Edena hanondraka ⟨את⟩ ny saha, ary avy any izy mizara ka lasa loharano efatra.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "Ari misy renirano"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "mivoaka"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "avy any Edena"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "hanondraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny saha"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ny saha"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "ary avy any"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "mizara"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ka lasa"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "efatra"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "loharano"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:24.837517712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Ary hanao fitafiana masina ianao ho an'i Aharon rahalahinao, ho voninahitra sy ho faharemana.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ary hanao"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "fitafiana"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ho an'i Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "rahalahinao"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "ho voninahitra"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "sy ho faharemana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:05:19.741444768Z",
+  "model": "glm-5.3"
+}

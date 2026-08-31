@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 62,
+  "translation": "Amin'i Elohim ny famonjena ahy sy ny voninahitro; vatolampy mahery ho ahy, fialokofanako ⟨no⟩ ao amin'i Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Amin'"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "i Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ny famonjena ahy"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "sy ny voninahitro"
+    },
+    {
+      "surface": "צור",
+      "gloss": "vatolampy"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "mahery ho ahy"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "fialokofanako"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ao amin'i Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:55.529379038Z",
+  "model": "glm-5.3"
+}

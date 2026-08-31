@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 30:2",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Fa ny mpanjaka sy ny andriany ary ny fiangona rehetra tao Yeroshalayim efa nilanilanaka hanaovana ny Pesach amin'ny volana faharoa.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "nilanilanaka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "sy ny andriany"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ny ... rehetra"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "fiangona"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "tao Yeroshalayim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hanaovana"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ny Pesach"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "amin'ny volana"
+    },
+    {
+      "surface": "השני",
+      "gloss": "faharoa"
+    }
+  ],
+  "timestamp": "2026-08-31T18:20:48.205628063Z",
+  "model": "glm-5.3"
+}

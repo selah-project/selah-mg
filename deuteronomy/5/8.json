@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Tsy hanao sary voasokitra ho anao ianao, na endrika na inona na inona: izay eo amin'ny lanitra any ambony, sy izay eo amin'ny tany any ambany, ary izay ao amin'ny rano ambanin'ny tany.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "sary voasokitra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "na inona na inona"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "endrika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "eo amin'ny lanitra"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "any ambony"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "sy izay"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "eo amin'ny tany"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "any ambany"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ary izay"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ao amin'ny rano"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ambany"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "amin'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:41:08.599882093Z",
+  "model": "glm-5.3"
+}

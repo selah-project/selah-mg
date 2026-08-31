@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 23:18",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary hoy izy: Avelao ho azy; aza misy olona manetsa ny taolany. Dia navela tsy voatsihy ny taolany, miaraka ⟨את⟩ amin'ny taolan'ny mpaminany izay tonga avy any Shomron.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "Avelao"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza misy"
+    },
+    {
+      "surface": "ינע",
+      "gloss": "manetsa"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "ny taolany"
+    },
+    {
+      "surface": "וימלטו",
+      "gloss": "dia navela tsy voatsihy"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "ny taolany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taolan'ny mpaminany"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "taola"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mpaminany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "avy any Shomron"
+    }
+  ],
+  "timestamp": "2026-08-31T15:01:09.729796377Z",
+  "model": "glm-5.3"
+}

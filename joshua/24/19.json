@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 24:19",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary Yehoshoa niteny tamin'ny olona: Tsy mahay manompo ⟨את⟩ an'i Yahveh hianareo, fa Elohim masina Izy, El fanafody fanilihana Izy; tsy hamela ny fandikana hianareo na ny fahotanareo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary niteny"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "תוכלו",
+      "gloss": "mahay"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "manompo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "masina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Izy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "קנוא",
+      "gloss": "fanafody fanilihana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Izy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "hamela"
+    },
+    {
+      "surface": "לפשעכם",
+      "gloss": "ny fandikana hianareo"
+    },
+    {
+      "surface": "ולחטאותיכם",
+      "gloss": "na ny fahotanareo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:04:32.400325356Z",
+  "model": "glm-5.3"
+}

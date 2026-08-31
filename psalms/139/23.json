@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 139,
+  "translation": "Sadio àhy, El, ary fantaro ny foko; ampio àhy izay voatetsy, ary fantaro ny saina tsikitsikiko.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "Sadio àhy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "ary fantaro"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "ampio àhy izay voatetsy"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "ary fantaro"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "ny saina tsikitsikiko"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:38.931753294Z",
+  "model": "glm-5.3"
+}

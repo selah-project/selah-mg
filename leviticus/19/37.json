@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary hitandrina ny chukotiko rehetra sy ny fitsipiko rehetra hianareo, ka hanao ⟨את⟩ azy ireo; Izaho Yahveh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ary hitandrina... hianareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny chukotiko rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "chukotiko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitsipiko rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "fitsipiko"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ka hanao"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azy ireo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:18:35.291422875Z",
+  "model": "glm-5.3"
+}

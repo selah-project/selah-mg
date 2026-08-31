@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 100,
+  "translation": "Fihirana fankasitrahana. Mihoby mafy ho an'i Yahveh, ianareo tany rehetra.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Fihirana"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "fankasitrahana"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Mihoby mafy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:35:41.343993221Z",
+  "model": "glm-5.3"
+}

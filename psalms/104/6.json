@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 104,
+  "translation": "Tahomin'ny ranomasina lalina, toy ny fitafiana, no nanaovanao azy; ny rano nitsangana ambonin'ny tendrombohitra.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "ranomasina lalina"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "toy ny fitafiana"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "nanaovanao azy"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "nitsangana"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ny rano"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:24.949140439Z",
+  "model": "glm-5.3"
+}

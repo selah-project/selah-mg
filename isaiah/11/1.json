@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary hisy tsy maintsy hivoaka avy amin'ny fakan'i Yishay kibo iray, ary rantsana iray hiteraka avy amin'ny fakany.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "hivoaka"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "kibo iray"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "avy amin'ny fakan'i"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "ary rantsana iray"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "avy amin'ny fakany"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "hiteraka"
+    }
+  ],
+  "timestamp": "2026-08-31T15:05:41.914009250Z",
+  "model": "glm-5.3"
+}

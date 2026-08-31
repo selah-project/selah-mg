@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Tanàna kely, ary olona vitsy mony ao; ary tonga nanandrify azy mpanjaka lehibe, ka nanodidina ⟨את⟩ azy ary nanorina manda fahirano lehibe hiady azy.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "kely"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "ary olona"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ao"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "vitsy"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ary tonga"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "nanandrify azy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "ka nanodidina"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ilay tanàna)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "ary nanorina"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "hiady azy"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "manda fahirano"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "lehibe"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:33.288430672Z",
+  "model": "glm-5.3"
+}

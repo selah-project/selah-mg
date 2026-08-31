@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ny fanahy mahasoava ho tafaly, ary izay manondraka dia ho voondraka koa izy.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "mahasoava"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "ho tafaly"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "ary izay manondraka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "ho voondraka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:52:59.714404707Z",
+  "model": "glm-5.3"
+}

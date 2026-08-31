@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "fa aza miditra hijery ⟨את⟩ ny masina, na indray mandeha akory aza, fandrao ho faty izy.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "fa aza"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "miditra"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hijery"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "na indray mandeha akory aza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny masina"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ny masina"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "fandrao ho faty izy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:24:42.671274040Z",
+  "model": "glm-5.3"
+}

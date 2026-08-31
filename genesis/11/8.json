@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary Yahveh naparitaka ⟨את⟩ azy avy teo, nanerana ny tavan'ny tany manontolo; ary nitsahatra nanao ny tanàna izy ireo.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "naparitaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "משם",
+      "gloss": "avy teo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nanerana"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ny tavan'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "manontolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "nitsahatra"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ny tanàna"
+    }
+  ],
+  "timestamp": "2026-08-31T18:27:20.548863730Z",
+  "model": "glm-5.3"
+}

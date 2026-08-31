@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 10:16",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary ireo mpanjaka dimy ireo nandositra ka niafina tany an-davaky Mitsrayim-Makeda.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "Ary ... nandositra"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "dimy"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "ויחבאו",
+      "gloss": "ka niafina"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "tany an-davaky"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "tany Makeda"
+    }
+  ],
+  "timestamp": "2026-08-31T13:59:07.779853617Z",
+  "model": "glm-5.3"
+}

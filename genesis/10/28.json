@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Sy ⟨את⟩ Obala sy ⟨את⟩ Abimaela sy ⟨את⟩ Sheba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Sy ⟨את⟩",
+      "marks": "Obala"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Obala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Abimaela"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Abimaela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Sheba"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:07.828896781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Sikidy no eo ambonin'ny molotry ny mpanjaka; amin'ny fitsarana tsy mivadika ny vavany.",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "Sikidy"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "molotry"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "amin'ny fitsarana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "mivadika"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ny vavany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:15:15.770338728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 1:23",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Shaul sy Yehonatan, malala sy mahafatifaty tamin'ny fiainany, ary tsy nisaraka ⟨izy roa⟩ tamin'ny fahafatesany; maivana noho ny voromahery izy, mahery noho ny liona izy.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "sy Yehonatan"
+    },
+    {
+      "surface": "הנאהבים",
+      "gloss": "malala"
+    },
+    {
+      "surface": "והנעימם",
+      "gloss": "sy mahafatifaty"
+    },
+    {
+      "surface": "בחייהם",
+      "gloss": "tamin'ny fiainany"
+    },
+    {
+      "surface": "ובמותם",
+      "gloss": "ary tamin'ny fahafatesany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "nisaraka"
+    },
+    {
+      "surface": "מנשרים",
+      "gloss": "noho ny voromahery"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "maivana"
+    },
+    {
+      "surface": "מאריות",
+      "gloss": "noho ny liona"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "mahery"
+    }
+  ],
+  "timestamp": "2026-08-31T18:02:37.829641940Z",
+  "model": "glm-5.3"
+}

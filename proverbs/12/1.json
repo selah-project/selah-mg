@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Izay tia fananarana dia tia fahalalana; fa izay mankahala tsaratsaraikhina dia babo.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "tia"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "fananarana"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "tia"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "fahalalana"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "fa mankahala"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "tsaratsaraikhina"
+    },
+    {
+      "surface": "בער",
+      "gloss": "babo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:52:57.596320646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Manana fo koa aho toy anareo; tsy latsaka aminareo aho; ary ⟨את⟩ iza no tsy misy tahaka ireto?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahako"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "toy anareo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "latsaka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aho"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "aminareo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iza"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "tahaka"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ireto"
+    }
+  ],
+  "timestamp": "2026-08-31T18:15:24.325904167Z",
+  "model": "glm-5.3"
+}

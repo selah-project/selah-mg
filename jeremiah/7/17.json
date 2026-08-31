@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 7:17",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Tsy hitanao va izay ataon'ireo eo amin'ny tanànan'i Yehuda sy eo amin'ny araben'i Yeroshalayim?",
+  "tokens": [
+    {
+      "surface": "האינך",
+      "gloss": "tsy... va"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "hitanao"
+    },
+    {
+      "surface": "מה",
+      "gloss": "izay"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ataon'ireo"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "amin'ny tanànan'i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובחצות",
+      "gloss": "sy eo amin'ny araben'i"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    }
+  ],
+  "timestamp": "2026-08-31T15:27:43.484973528Z",
+  "model": "glm-5.3"
+}

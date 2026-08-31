@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary nalain'i Moshe sy i Aharon ⟨את⟩ ireto lehilahy ireto, izay voatonona anarany.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ary nalain'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "sy i Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ireto lehilahy ireto"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "voatonona"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "anarany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:23:56.234123816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary izay nihinanana ny nofon'ny oloko, ka nanesotra ny hodiny tamin'izy ireo, namaky ⟨את⟩ ny taolany, dia nampanina azy toy ny anaty vilany, toy ny hena ao anatin'ny fanendesana.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "ary izay"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "nihinanana"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "nofon'ny"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "oloko"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "ka ny hodiny"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "tamin'izy ireo"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "nanesotra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny taolany"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "taolany"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "namaky"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "dia nampanina azy"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "toy ny"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "anaty vilany"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "toy ny hena"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ao anatin'ny"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "fanendesana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:14:39.414558621Z",
+  "model": "glm-5.3"
+}

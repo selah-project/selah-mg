@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Izay mandeha amin'ny fahatsorana dia mandeha amin'ny fiarovana, fa izay mampihomehy ny lalany dia ho fantatra.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "amin'ny fahatsorana"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "amin'ny fiarovana"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "fa mampihomehy"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ny lalany"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ho fantatra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:50:41.626082165Z",
+  "model": "glm-5.3"
+}

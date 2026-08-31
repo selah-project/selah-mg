@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Koa tandremo ⟨את⟩ ny tenin'ity fanekena ity ka tanterao ⟨את⟩ azy, mba hahahombyanareo amin'izay rehetra hataonareo.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "tandremo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tenin'ity fanekena ity"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tenin'"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "fanekena"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ity ... ity"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "tanterao"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azy"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mba"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "hahahomby"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "hataonareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:50:27.823349284Z",
+  "model": "glm-5.3"
+}

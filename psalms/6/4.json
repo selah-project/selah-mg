@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary ny fanahiko nihorohoro fatratra; ary Hianao, Yahveh — ambara-pahoviana?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Ary ny fanahiko"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "nihorohoro"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "fatratra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary Hianao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ambara-"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "pahoviana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:10.391525272Z",
+  "model": "glm-5.3"
+}

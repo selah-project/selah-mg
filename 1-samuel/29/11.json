@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary Davida niâniaredatra, izy sy ny lehilahiny, mba handeha maraina hiverina any amin'ny tany Pelishtia; ary ny Pelisita niakatra ho any Yizreela.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "niâniaredatra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "sy ny lehilahiny"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "handeha"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "maraina"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "hiverina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "any amin'"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtia"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "ary ny Pelisita"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "niakatra"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "any Yizreela"
+    }
+  ],
+  "timestamp": "2026-08-31T14:26:16.868664980Z",
+  "model": "glm-5.3"
+}

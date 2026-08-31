@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Misy taranaka manozona ny rainy, ary ⟨את⟩ ny reniny tsy tsodrano.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "misy taranaka"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ny rainy"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "manozona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny reniny"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ny reniny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "tsodrano"
+    }
+  ],
+  "timestamp": "2026-08-31T16:57:41.835390632Z",
+  "model": "glm-5.3"
+}

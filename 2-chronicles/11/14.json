@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 11:14",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Fa ny Levita nahafoy ny tanàna mandady azy sy ny fananany, ary nandeha ho any Yehuda sy ho any Yeroshalayim; fa Yarobeam sy ny zanany nandrava azy tsy ho mpisorona ho an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "nahafoy"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ny Levita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tanàna mandady azy"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "ny tanàna mandady azy"
+    },
+    {
+      "surface": "ואחזתם",
+      "gloss": "sy ny fananany"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ary nandeha"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ho any Yehuda"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "sy ho any Yeroshalayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הזניחם",
+      "gloss": "nandrava azy"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeam"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "sy ny zanany"
+    },
+    {
+      "surface": "מכהן",
+      "gloss": "tsy ho mpisorona"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T17:44:53.101488855Z",
+  "model": "glm-5.3"
+}

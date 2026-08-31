@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Mahery sy lehilahy miady, mpitsara sy mpaminany, mpanao sikidy sy anti-panahy ⟨⟩.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Mahery"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "sy lehilahy"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "miady"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "mpitsara"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "sy mpaminany"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "sy mpanao sikidy"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "sy anti-panahy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:01:42.139867812Z",
+  "model": "glm-5.3"
+}

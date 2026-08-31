@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Efa nitodika hikatra ny andron'i Davidy hahafatesana azy, ka nandidy an'i Shelomoh zanany izy ka nanao hoe:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "nitodika hikatra"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ny andron'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidy"
+    },
+    {
+      "surface": "למות",
+      "gloss": "hahafatesana"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "ka nandidy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Shelomoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T14:39:57.303734417Z",
+  "model": "glm-5.3"
+}

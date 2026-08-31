@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 27:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Manantena ⟨ianao⟩ amin'i Yahveh; mahereza, ary aoka hahery ny fonao; eny, manantena ⟨ianao⟩ amin'i Yahveh!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "manantena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "mahereza"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "ary aoka hahery"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ny fonao"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "eny, manantena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:29.260323856Z",
+  "model": "glm-5.3"
+}

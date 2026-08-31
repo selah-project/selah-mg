@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 73,
+  "translation": "Amin'ny saina ianao no hitarihanao ahy; ary aorian'izay dia hatsanganao aho ho amin'ny voninahitra.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "amin'ny saina ianao"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "no hitarihanao ahy"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ary aorian'izay"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "voninahitra"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "hatsanganao aho ho amin'ny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:32.817190817Z",
+  "model": "glm-5.3"
+}

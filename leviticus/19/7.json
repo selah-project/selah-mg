@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary raha voa-kanina mihitsy amin'ny andro fahatelo izy, dia fofona (pigul) izy; tsy hohanaikina.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ary raha"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "voa-kanina mihitsy"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kanina"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "fahatelo"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "pigul (fofona)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "hohanaikina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:18:13.383421504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 149,
+  "translation": "Ny fiderana avo an'El ao an-karakany, ary sabatra lelindroa eo an-tanany.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "ny fiderana avo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an'El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "ao an-karakany"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ary sabatra"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "lelindroa"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "eo an-tanany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:44.461864327Z",
+  "model": "glm-5.3"
+}

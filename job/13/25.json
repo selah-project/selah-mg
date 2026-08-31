@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Hampitahotra va ny ravin-kazo voatahipiky ny rivotra ianao, ary hanoa-dia ⟨את⟩ ny tsimparifary maina?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "ravin-kazo"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "voatahipiky ny rivotra"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "hampitahotra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tsimparifary maina"
+    },
+    {
+      "surface": "קש",
+      "gloss": "tsimparifary"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "maina"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "hanoa-dia"
+    }
+  ],
+  "timestamp": "2026-08-31T17:01:48.228506074Z",
+  "model": "glm-5.3"
+}

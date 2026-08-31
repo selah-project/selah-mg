@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "sy manao hesed ⟨amin'ny arivo taranaka⟩ ho an'izay tia Ahy sy mitandrina ⟨את⟩ ny didiko.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "sy manao"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "amin'ny arivo"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "ho an'izay tia Ahy"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "sy mitandrina"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "ny didiny"
+    }
+  ],
+  "timestamp": "2026-08-31T13:41:27.949189330Z",
+  "model": "glm-5.3"
+}

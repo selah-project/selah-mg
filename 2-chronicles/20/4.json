@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 20:4",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary nivory ny Yehudah hitory amin'i Yahveh; eny, avy tamin'ny tanànan'i Yehudah rehetra ihany koa dia tonga hitady ⟨את⟩ an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "Ary nivory"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ny Yehudah"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "hitory"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "amin'i Yahveh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "eny, ... ihany koa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "avy tamin'ny ... rehetra"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "tanànan'i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "באו",
+      "gloss": "dia tonga"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "hitady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T17:47:50.227239529Z",
+  "model": "glm-5.3"
+}

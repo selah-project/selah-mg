@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary nampitombo indray ny fahatezeran'i Yahveh taminy Isiraela, ka nampilazim-po an'i David tamin'izy ireo hoe: Mandehana, isao ny Isiraela sy ny Joda.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "nampitombo indray"
+    },
+    {
+      "surface": "אף",
+      "gloss": "fahatezerana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "tamin'ny fahatezerana"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "taminy Isiraela"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "nampilazim-po"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "tamin'izy ireo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Mandehana"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "isao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Isiraela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny Joda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Joda"
+    }
+  ],
+  "timestamp": "2026-08-31T14:38:33.367226587Z",
+  "model": "glm-5.3"
+}

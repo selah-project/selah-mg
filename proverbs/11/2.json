@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Refa tonga ny fiavonavonana dia tonga ny fahafaham-belatsihy, fa amin'ny ⟨את⟩ fanetren-tena no hisian'ny fahendrena.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "fiavonavonana"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dia tonga"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "fahafaham-belatsihy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fanetren-tena"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "fanetren-tena"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "fahendrena"
+    }
+  ],
+  "timestamp": "2026-08-31T16:52:49.276828659Z",
+  "model": "glm-5.3"
+}

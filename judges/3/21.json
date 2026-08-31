@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary Ehud nanentana ⟨את⟩ ny tànany ankavia, ka naka ⟨את⟩ ny sabatra avy tamin'ny feny ankavanana, ka nanindry azy tao an-kibony.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "nanentana"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tànany"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tànany"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "ankavia"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "naka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny sabatra"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "ny sabatra"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "avy tamin'ny"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "feny"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ankavanana"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "nanindry azy"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "tao an-kibony"
+    }
+  ],
+  "timestamp": "2026-08-31T14:06:38.166740177Z",
+  "model": "glm-5.3"
+}

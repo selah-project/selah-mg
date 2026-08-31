@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 19:25",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Tsy efa renao va, fa avy any lavitra no nataoko ⟨את⟩ izany, efa nomaniko tamin'ny andro taloha? Ankehitriny efa nentiko izy, ka tonga faharavana sy tampon-tsisika vato ny tanàna mimanda.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Tsy...va"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "renao"
+    },
+    {
+      "surface": "למרחוק",
+      "gloss": "avy any lavitra"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "izany"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nataoko"
+    },
+    {
+      "surface": "למימי",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "taloha"
+    },
+    {
+      "surface": "ויצרתיה",
+      "gloss": "nomaniko"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Ankehitriny"
+    },
+    {
+      "surface": "הביאתיה",
+      "gloss": "nentiko"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "להשות",
+      "gloss": "faharavana"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "tampon-tsisika vato"
+    },
+    {
+      "surface": "נצים",
+      "gloss": ""
+    },
+    {
+      "surface": "ערים",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "mimanda"
+    }
+  ],
+  "timestamp": "2026-08-31T14:59:32.107998822Z",
+  "model": "glm-5.3"
+}

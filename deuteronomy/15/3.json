@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "⟨את⟩ ny vahiny dia azo asaina; fa izay anananao amin'ny rahalahinao dia avalao, ho fandoavana ny tànao.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahiny"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "ny vahiny"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "azo asaina"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "fa izay"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "anananao"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rahalahinao"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ny rahalahinao"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "avalao"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "tànao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:45:29.055198936Z",
+  "model": "glm-5.3"
+}

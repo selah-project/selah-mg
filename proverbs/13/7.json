@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Misy manana tarehy mpanan-karena nefa tsy manana na inona na inona; misy mihitsy mivadika ho malahelo kanefa manana haren'a be.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "misy"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "manana tarehy mpanan-karena"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "nefa tsy manana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "na inona na inona"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "mihitsy mivadika ho malahelo"
+    },
+    {
+      "surface": "והון",
+      "gloss": "kanefa manana harena"
+    },
+    {
+      "surface": "רב",
+      "gloss": "be"
+    }
+  ],
+  "timestamp": "2026-08-31T16:52:13.454838056Z",
+  "model": "glm-5.3"
+}

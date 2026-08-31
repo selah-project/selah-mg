@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Fa ny vary tritike sy ny vary spelta tsy voatrehina, fa tara panahy ireo.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "ny vary tritike"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "sy ny vary spelta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "voatrehina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "tara panahy"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:17.307557763Z",
+  "model": "glm-5.3"
+}

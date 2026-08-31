@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 118,
+  "translation": "Jah ⟨no⟩ heriko sy fihirako, ary efa tonga famonjena ho ahy Izy.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "heriko"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "sy fihirako"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ary efa tonga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "famonjena"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:42.022030916Z",
+  "model": "glm-5.3"
+}

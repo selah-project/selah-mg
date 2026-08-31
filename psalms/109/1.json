@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 109,
+  "translation": "Ho an'ny mpitarika. Mizamotr'i Davida. Elohim'ny fiderako, aza mangina.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho an'ny mpitarika"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "r'i Davida"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizamot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim'ny"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "fiderako"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "mangina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:58.040629430Z",
+  "model": "glm-5.3"
+}

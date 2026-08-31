@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 145,
+  "translation": "Ny vavan'ny teniko hitory ny fiderana an'i Yahveh, ary hotsofan'ny nofo rehetra ny anarany masina, hatramin'ny fiainana mandrakizay ka ho amin'ny fahavaritra.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "fiderana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "hitory"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ny vavan'ny teniko"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ary hotsofan'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "reo rehetra"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nofo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "anarany"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "masina"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "hatramin'ny fiainana mandrakizay"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ka ho amin'ny fahavaritra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:22.987174117Z",
+  "model": "glm-5.3"
+}

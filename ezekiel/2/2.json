@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 2:2",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary tonga ato amiko ny fanahy, raha niteny tamiko izy, ka nampitsangana ahy tamin'ny tongotro, ka reniko ⟨את⟩ ilay niresaka tamiko.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "Ary tonga"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ato amiko"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ny fanahy"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "raha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "niteny"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "ותעמדני",
+      "gloss": "ka nampitsangana ahy"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "tongotro"
+    },
+    {
+      "surface": "ואשמע",
+      "gloss": "ka reniko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay niresaka tamiko"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ilay niresaka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tamiko"
+    }
+  ],
+  "timestamp": "2026-08-31T15:46:59.357456675Z",
+  "model": "glm-5.3"
+}

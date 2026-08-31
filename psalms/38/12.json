@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Ny tia ahy sy ny namako mijanona lavitra ny aretiko; ary ny havana akaiky dia mitsangana lavitra.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "ny tia ahy"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "sy ny namako"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "lavitra"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "ny aretiko"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "mijanona"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "ary ny havana akaiky"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "lavitra"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "mitsangana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:15.523524490Z",
+  "model": "glm-5.3"
+}

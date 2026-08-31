@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 61,
+  "translation": "Hitetreria ao amin'ny trano-lainao ho amin'ny ⟨fahavelozana maro⟩ aho; hiaro tena ao amin'ny fialokalokan'ny elatraelanao. Selah.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "hitetreria"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "ao amin'ny trano-lainao"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ho amin'ny fahavelozana maro"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "hiaro tena"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ao amin'ny fialokaloka"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ny elatraelanao"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:53.670658466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 10:6",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Tsy misy mitovy aminao, Yahveh; lehibe Hianao, ary lehibe ny anaranao amin'ny hery.",
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "mitovy aminao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Hianao"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "ary lehibe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ny anaranao"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "amin'ny hery"
+    }
+  ],
+  "timestamp": "2026-08-31T15:26:57.931204782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary niakatra Moshe tany an-tendrombohitra, ary nisy rahona nanarona ⟨את⟩ ny tendrombohitra.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "niakatra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tany an-"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "nanarona"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "nisy rahona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tendrombohitra"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ny tendrombohitra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:45.496149813Z",
+  "model": "glm-5.3"
+}

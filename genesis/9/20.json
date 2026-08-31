@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary Noach, lehilahy tety amin'ny tany, nanomboka naniry voaloboha ka namboly tendromboaloboka.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "nanomboka"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tety amin'ny tany"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "namboly"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "tendromboaloboka"
+    }
+  ],
+  "timestamp": "2026-08-31T17:55:09.573286451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Toy ny famonoana ao an-taolako no nanalam-baraka ny mpanohitra ahy, amin'ny fanaovan'izy ireo tamiko mandritra ny andro hoe: Aiza moa ny Elohim-nao?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "toy ny famonoana"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "ao an-taolako"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "nanalam-baraka ahy"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "ny mpanohitra ahy"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "amin'ny fanaovan'izy ireo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mandritra"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ny andro"
+    },
+    {
+      "surface": "איה",
+      "gloss": "aiza moa"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ny Elohim-nao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:23.439318661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ny fihibokan'ny liona sy ny feon'ny liona mafy, ary ny nifin'ny zana-liona dia voavaky.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "ny fihibokan'ny"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "liona"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "sy ny feon'ny"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "liona mafy"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ary ny nifin'ny"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "zana-liona"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "voavaky"
+    }
+  ],
+  "timestamp": "2026-08-31T16:58:33.509006604Z",
+  "model": "glm-5.3"
+}

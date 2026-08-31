@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ka niantso fifadiana-kanina izy, ary nampipetraka ⟨את⟩ Navota teo amin'ny lohan'ny vahoaka.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "צום",
+      "gloss": "fifadiana-kanina"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "nampipetraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navota"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navota"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "teo amin'ny lohan'ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:49:41.178554676Z",
+  "model": "glm-5.3"
+}

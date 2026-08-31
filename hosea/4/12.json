@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 4:12",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ny oloko manontany amin'ny hazony, ary ny tehony milaza azy; fa fanahy fijangajangana no nampivily azy, ary najangajangainy teo ambany Elohiminy izy.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "ny oloko"
+    },
+    {
+      "surface": "בעצו",
+      "gloss": "amin'ny hazony"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "manontany"
+    },
+    {
+      "surface": "ומקלו",
+      "gloss": "ary ny tehony"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "milaza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "fijangajangana"
+    },
+    {
+      "surface": "התעה",
+      "gloss": "nampivily"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "ary najangajangainy"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "teo ambany"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohiminy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:06:55.289828648Z",
+  "model": "glm-5.3"
+}

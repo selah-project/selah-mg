@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 10:19",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary Yahveh nampifindra rivotra avy any ambony ranomasina mahery indrindra, ka niakatra nitondra ⟨את⟩ ny valalala, ary nazo tany amin'ny Ranomasin'ny zozoro; tsy nisy valalala na iray monja sisa tao anatin'ny fetran'i Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "ary nampifindra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rivotra"
+    },
+    {
+      "surface": "ים",
+      "gloss": "avy any ambony ranomasina"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "indrindra"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ka niakatra nitondra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny valalala"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "ny valalala"
+    },
+    {
+      "surface": "ויתקעהו",
+      "gloss": "ary nazo"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "tany amin'ny ranomasina"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "zozoro"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "nisy sisa"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "valalala"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "na iray monja"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tao anatin'ny"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "fetran'"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:49.886033678Z",
+  "model": "glm-5.3"
+}

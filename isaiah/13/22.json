@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 13:22",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary hamaly eo amin'ny trano foana azy ireo ny amboahangy, ary ny amboadihy eo amin'ny lapa maofana; ary efa akaiky ny ho avy ny fe-potoany, ary ny androny tsy ho lava.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "Ary hamaly"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ny amboahangy"
+    },
+    {
+      "surface": "באלמנותיו",
+      "gloss": "eo amin'ny trano foana azy ireo"
+    },
+    {
+      "surface": "ותנים",
+      "gloss": "ary ny amboadihy"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "eo amin'ny lapa"
+    },
+    {
+      "surface": "ענג",
+      "gloss": "maofana"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "ary efa akaiky"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ny ho avy"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ny fe-potoany"
+    },
+    {
+      "surface": "וימיה",
+      "gloss": "ary ny androny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ימשכו",
+      "gloss": "ho lava"
+    }
+  ],
+  "timestamp": "2026-08-31T15:05:31.078055446Z",
+  "model": "glm-5.3"
+}

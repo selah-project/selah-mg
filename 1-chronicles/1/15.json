@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "sy ⟨את⟩ ny Hivita sy ⟨את⟩ ny Arkita sy ⟨את⟩ ny Sinita.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny Hivita"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ny Hivita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny Arkita"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "ny Arkita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny Sinita"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "ny Sinita"
+    }
+  ],
+  "timestamp": "2026-08-31T17:33:51.918823261Z",
+  "model": "glm-5.3"
+}

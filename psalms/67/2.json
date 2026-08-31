@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 67,
+  "translation": "Elohim hiantra antsika ary hitahy antsika, ary hampiseho ny fanazavan'ny tavany ⟨את⟩ miaraka amin'ny antsika. Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "hiantra antsika"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "ary hitahy antsika"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "hampiseho ny fanazavana"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ny tavany"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "miaraka amin'ny antsika"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T18:47:15.223722535Z",
+  "model": "glm-5.3"
+}

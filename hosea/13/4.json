@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Fa Izaho kosa dia Yahveh, Elohim-nao, avy amin'ny tany Mitsrayim; ary Elohim hafa ankoatra Ahy no tsy hahalalanao, ary Mpanavotra tsy misy fa Izaho ihany.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Fa Izaho kosa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim-nao"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "avy amin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "Elohim hafa"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ankoatra Ahy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "hahalalanao"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "Mpanavotra"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "fa Izaho ihany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:08:53.886868299Z",
+  "model": "glm-5.3"
+}

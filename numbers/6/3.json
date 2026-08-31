@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Hiala amin'ny divay sy ny zava-mahamamo izy; siramamy avy amin'ny divay sy siramamy avy amin'ny zava-mahamamo tsy hosotroiny, ary ranom-boaloboka rehetra tsy hosotroiny; ary voaloboka manta sy maina tsy hohaniny.",
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "amin'ny divay"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "sy ny zava-mahamamo"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "Hiala"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "siramamy"
+    },
+    {
+      "surface": "יין",
+      "gloss": "divay"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "sy siramamy"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "zava-mahamamo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "hosotroiny"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ... rehetra"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "ranom-boaloboka"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "boaloboka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "hosotroiny"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "ary voaloboka"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "manta"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "sy maina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hohaniny"
+    }
+  ],
+  "timestamp": "2026-08-31T13:26:24.453012918Z",
+  "model": "glm-5.3"
+}

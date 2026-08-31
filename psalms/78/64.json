@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Ny mpisoratra lavo tamin'ny sabatra, ary ny mpitondratena azy tsy nitomany.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "ny mpisoratra"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "tamin'ny sabatra"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "lavo"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "ary ny mpitondratena azy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "nitomany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:54.607211187Z",
+  "model": "glm-5.3"
+}

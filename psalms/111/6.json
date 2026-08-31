@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 111,
+  "translation": "Ny herin'ny asany nambarany tamin'ny olony, hanomezana azy lovan'ny jentilisa.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "ny herin'ny"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "asany"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "nambarany"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "tamin'ny olony"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "hanomezana"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "lovan'ny"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "jentilisa"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:45.917084676Z",
+  "model": "glm-5.3"
+}

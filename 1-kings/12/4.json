@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ny rainao no nanao mafy ⟨את⟩ ny jioganay; fa ianao izao, moramoraohy ny fanompoana mafin'ny rainao, ary esoriro ny jioga mavesatra napetrany taminao — dia hanompo anao izahay.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "ny rainao"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "nanao mafy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny jioganay"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "ny jioganay"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "fa ianao"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "izao"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "moramoraohy"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "ny fanompoana"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ny rainao"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "mafiny"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "ary esoriro ny jioga"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "mavesatra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "napetrany"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "taminay"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "dia hanompo anao izahay"
+    }
+  ],
+  "timestamp": "2026-08-31T14:44:49.634451552Z",
+  "model": "glm-5.3"
+}

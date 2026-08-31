@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Homena anao araka ny fonao, ary hanatanteraka ny fanirianao rehetra.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "homena"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "araka ny fonao"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ny ... rehetra"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "ny fanirianao (vakianao)"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "hanatanteraka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:08.645298580Z",
+  "model": "glm-5.3"
+}

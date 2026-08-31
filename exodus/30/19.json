@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Dia sasain'i Aharon sy ny zanany avy aminy ⟨את⟩ ny tanany sy ⟨את⟩ ny tongony.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "dia sasa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "sy ny zanany"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "avy aminy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tanany"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ny tanany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tongony"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ny tongony"
+    }
+  ],
+  "timestamp": "2026-08-31T17:56:52.560405505Z",
+  "model": "glm-5.3"
+}

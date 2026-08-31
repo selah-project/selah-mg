@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 23:15",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Fa Yahveh Elohim momba anao no mandeha eo anivon'ny toby mba hanavotra anao sy hanome ny fahavalonao eo anatrehonao; ary ho masina ny tobynao, mba tsy hahita aminao zavatra mahamenatra izy ka hiala aminao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim momba anao"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "eo anivon'ny"
+    },
+    {
+      "surface": "מחנך",
+      "gloss": "tobynao"
+    },
+    {
+      "surface": "להצילך",
+      "gloss": "mba hanavotra anao"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "sy hanome"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ny fahavalonao"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "eo anatrehonao"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ary ho"
+    },
+    {
+      "surface": "מחניך",
+      "gloss": "ny tobynao"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mba tsy"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "hahita"
+    },
+    {
+      "surface": "בך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "zavatra mahamenatra"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "na inona na inona"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ka hiala"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "aminao (manaraka)"
+    }
+  ],
+  "timestamp": "2026-08-31T13:49:00.089626162Z",
+  "model": "glm-5.3"
+}

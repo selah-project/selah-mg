@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Raha mampisefo ianao amin'ny namanao trosa na inona na inona, aza miditra ao an-tranony hanangana ny famantarana-trosany.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "mampisefo"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "amin'ny namanao"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "trosa"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "na inona na inona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "miditra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ao"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "an-tranony"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "hanangana"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "ny famantarana-trosany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:48:12.478529394Z",
+  "model": "glm-5.3"
+}

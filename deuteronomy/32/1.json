@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Mihainoa ry lanitra, dia homeko ny teniko; ary aoka hihaino ny tany ny tenin'ny vavako.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Mihainoa (manitatra sofina)"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ry lanitra"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "dia homeko ny teniko"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "ary aoka hihaino"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ny tenin'ny"
+    },
+    {
+      "surface": "פי",
+      "gloss": "vavako"
+    }
+  ],
+  "timestamp": "2026-08-31T13:51:57.037321653Z",
+  "model": "glm-5.3"
+}

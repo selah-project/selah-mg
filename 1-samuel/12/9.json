@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Dia naneso ⟨את⟩ Yahveh Elohim-izy ireo izy, ka nivarotra azy tamin'ny tanan'i Sisera, komandin'ny tafik'i Hatsora, sy tamin'ny tanan'ny Filistina, ary tamin'ny tanan'ny mpanjakan'i Moaba; ka niady taminy ireo.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "naneso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim-izy ireo"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "ka nivarotra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "tamin'ny tanan'i"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "komandin'ny"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "tafika"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsora"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "sy tamin'ny tanan'ny"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistina"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "ary tamin'ny tanan'ny"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'i"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ka niady taminy ireo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "taminy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:17:25.750689910Z",
+  "model": "glm-5.3"
+}

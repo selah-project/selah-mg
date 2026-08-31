@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 14:12",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary hoy Shimshona taminy: Aoka hamoaka fanontaniana miafina ho anareo aho; raha mba azo ambarao ⟨את⟩ azy amiko mandritra ny fito andron'ny fanasana, ary hitanareo izany, dia homeko anareo lamba rongony telo-polo sy akanjo tsy mitovy telo-polo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "להם",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Shimshona"
+    },
+    {
+      "surface": "אחודה",
+      "gloss": "hamoaka fanontaniana miafina"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "fanontaniana miafina"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "mba azo"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "ambarao"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (ny fanontaniana miafina)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "fito"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "andron'ny"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "fanasana"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "ary hitanareo"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "dia homeko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "telo-polo"
+    },
+    {
+      "surface": "סדינים",
+      "gloss": "lamba rongony"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "sy telo-polo"
+    },
+    {
+      "surface": "חלפת",
+      "gloss": "akanjo tsy mitovy"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "akanjo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:10:32.408004614Z",
+  "model": "glm-5.3"
+}

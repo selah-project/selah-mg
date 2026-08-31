@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Tany vary sy vary maina, sy voaloboka, sy aviavy, sy ampongabendanitra; tany oliva menaka ary tantely.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Tany"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "vary"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "sy vary maina"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "sy voaloboka"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "sy aviavy"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "sy ampongabendanitra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "זית",
+      "gloss": "oliva"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "menaka"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ary tantely"
+    }
+  ],
+  "timestamp": "2026-08-31T13:43:37.792215970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Fa Yahveh, Elohin'ny tafika — Yahveh no fahatsiarovana Azy",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Fa Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'ny"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "tafika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "no fahatsiarovana Azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:09:04.142031251Z",
+  "model": "glm-5.3"
+}

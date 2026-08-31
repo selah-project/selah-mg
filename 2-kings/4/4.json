@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 4:4",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary midira ianao, ka hidinao ⟨את⟩ ny varavarana ianao sy ny zanakao, dia aidinao amin'ireo fitoerana rehetra ireo; ary izay feno dia atolero.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "Ary midira ianao"
+    },
+    {
+      "surface": "וסגרת",
+      "gloss": "ka hidinao"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ny varavarana"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "sy"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ny zanakao"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "dia aidinao"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "ireo fitoerana"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "והמלא",
+      "gloss": "ary izay feno"
+    },
+    {
+      "surface": "תסיעי",
+      "gloss": "dia atolero"
+    }
+  ],
+  "timestamp": "2026-08-31T19:13:04.196403899Z",
+  "model": "glm-5.3"
+}

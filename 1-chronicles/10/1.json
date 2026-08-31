@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 10:1",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary ny Filistina niady tamin'i Yisraela, dia nandositra ny lehilahin'i Yisraela tsirairay tamin'ny tavan'ny Filistina, ka lavo novonoina tany an-tendrombohitra Gilboa.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Ary ny Filistina"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "niady tamin'i"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "dia nandositra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahin'i… tsirairay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "tamin'ny tavan'ny"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistina"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "ka lavo"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "novonoina"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "tany an-tendrombohitra"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-08-31T18:38:06.216431299Z",
+  "model": "glm-5.3"
+}

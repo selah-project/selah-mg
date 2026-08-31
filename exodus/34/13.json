@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Fa ⟨את⟩ alitarany dia horavana ianareo, ary ⟨את⟩ tsangambatony dia hotorotoroina, ary ⟨את⟩ Asherah-any dia hotezina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alitarany"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "alitarany"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "horavana ianareo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "tsangambatony"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "tsangambatony"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "hotorotoroina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Asherah-any"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "Asherah-any"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "hotezina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:08:41.031177396Z",
+  "model": "glm-5.3"
+}

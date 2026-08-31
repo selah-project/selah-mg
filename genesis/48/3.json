@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 48,
+  "translation": "Ary hoy Yaakov tamin'i Yosef: El Shadday (El Mahery) efa niseho tamiko tao Luz, amin'ny tanin'i Kenana, ka nitso-drano ahy ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "niseho"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "tao Luz"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "amin'ny tanin'i"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenana"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "nitso-drano"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:53:30.854447623Z",
+  "model": "glm-5.3"
+}

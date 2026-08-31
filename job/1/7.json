@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary hoy Yahveh tamin'ilay Satana: Avy aiza ianao fa tonga? Dia namaly ilay Satana ⟨את⟩ Yahveh ka nanao hoe: Avy amin'ny fandehanana miverimberina ety an-tany sy mandeha miverina amin'izany aho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ilay Satana"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "Avy aiza"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "f tonga"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "Dia namaly"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "ilay Satana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "fandehanana miverimberina"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ety an-tany"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "sy mandeha miverina"
+    },
+    {
+      "surface": "בה",
+      "gloss": "amin'izany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:59:18.797385930Z",
+  "model": "glm-5.3"
+}

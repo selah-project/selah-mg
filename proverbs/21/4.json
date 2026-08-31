@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Fiakaran'ny maso sy fielezan'ny fo — ny fambolenan'ny ratsy fanahy dia ota.",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "fiakaran'ny"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "maso"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "sy fielezan'ny"
+    },
+    {
+      "surface": "לב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "נר",
+      "gloss": "fambolena"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ratsy fanahy"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ota"
+    }
+  ],
+  "timestamp": "2026-08-31T16:55:21.907359151Z",
+  "model": "glm-5.3"
+}

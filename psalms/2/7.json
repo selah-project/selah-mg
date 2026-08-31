@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Hilaza ny didy aho: Yahveh nanao hoe tamiko: Zanako ianao; izaho andro anio no niteraka anao.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "hilaza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ny"
+    },
+    {
+      "surface": "חק",
+      "gloss": "didy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Zanako"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "היום",
+      "gloss": "andro anio"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "niteraka anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:02.417999435Z",
+  "model": "glm-5.3"
+}

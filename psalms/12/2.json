@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Vonjehinao anie, Yahveh, fa efa lany ny hasidy, fa efa levona ny mino avy amin'ny zanak'olombelona.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "vonjeo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "efa lany"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ny hasidy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "efa levona"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "ny mino"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "avy amin'ny zanak'"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olombelona"
+    }
+  ],
+  "timestamp": "2026-08-31T18:13:14.579159710Z",
+  "model": "glm-5.3"
+}

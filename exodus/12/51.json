@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary tamin'izay andro mihitsy no nampivoahan'i Yahveh ⟨את⟩ ny zanak'i Isiraely avy tany amin'ny tany Mitsrayim, araka ny tafiny.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary tamin'ny"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "mihitsy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "nampivoahan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanak'i Isiraely"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "avy tany amin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "araka"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "ny tafiny"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:51.036749335Z",
+  "model": "glm-5.3"
+}

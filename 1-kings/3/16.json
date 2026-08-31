@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 3:16",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Tamin'izay dia tonga teo amin'ny mpanjaka vehivavy roa mpijangolina, ka nitsangana teo anatrehany.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Tamin'izay"
+    },
+    {
+      "surface": "תבאנה",
+      "gloss": "dia tonga"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "roa"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "vehivavy"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "mpijangolina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "teo amin'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "ותעמדנה",
+      "gloss": "ka nitsangana"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "teo anatrehany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:40:28.016254579Z",
+  "model": "glm-5.3"
+}

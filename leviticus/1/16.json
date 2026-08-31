@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary esoriny ⟨את⟩ ny kitikely misy ny vôlany, ary hatsipy eo amoron'ny alitara, eo atsinanana, ⟨את⟩ azy, amin'ny toeran'ny davenona.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "esoriny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny kitikely"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "ny kitikely"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "misy ny vôlany"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "hatsipy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "eo amoron'"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ny alitara"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "eo atsinanana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "toeran'"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "ny davenona"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:19.117454588Z",
+  "model": "glm-5.3"
+}

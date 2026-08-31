@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ny olona masina ⟨izay⟩ ao amin'ny tany no ireo malaza; izy rehetra no sitrako.",
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "Ny olona masina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨izay⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ao amin'ny tany"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "malaza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izy rehetra"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "sitrako"
+    },
+    {
+      "surface": "בם",
+      "gloss": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:30.758636170Z",
+  "model": "glm-5.3"
+}

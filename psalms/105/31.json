@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Nolazainy ka tonga ny amitri-mahery, sy ny kankana tamin'ny faritr'izy rehetra.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Nolazainy"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ka tonga"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ny amitri-mahery"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "sy ny kankana"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "faritr'izy rehetra"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:16.807232924Z",
+  "model": "glm-5.3"
+}

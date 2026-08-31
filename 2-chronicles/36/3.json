@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Ary nesorin'ny mpanjakan'i Mitsrayim izy tany Yeroshalayim, ary nasiany sazy ⟨את⟩ ny tany: zato talentsa volafotsy sy talentsa volamena iray.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "nesorin… izy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "tany Yeroshalayim"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "nasiany sazy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "zato"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talentsa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "sy talentsa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    }
+  ],
+  "timestamp": "2026-08-31T18:21:02.730943580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 103,
+  "translation": "Yahveh manao fahamarinana sy fitsarana ho an'ny rehetra voatsindry.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "manao"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "fahamarinana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "sy fitsarana"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho an'ny rehetra"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "voatsindry"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:17.148685220Z",
+  "model": "glm-5.3"
+}

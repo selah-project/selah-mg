@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary hoy izy taminy: Hebrio aho, ary ⟨את⟩ Yahveh, Elohin'ny lanitra, no ataoko matahotra, Izay nanao ⟨את⟩ ny ranomasina sy ⟨את⟩ ny tany maina.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy izy"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Hebrio"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "aho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'ny"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "lanitra"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aho"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "matahotra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ranomasina"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ny ranomasina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany maina"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "ny tany maina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:14:04.470385435Z",
+  "model": "glm-5.3"
+}

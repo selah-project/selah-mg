@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "sy ⟨את⟩ ny vorondolo kely, sy ⟨את⟩ ny shalaka, sy ⟨את⟩ ny vorondolo lehibe;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny vorondolo kely"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ny vorondolo kely"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny shalaka"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "ny shalaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny vorondolo lehibe"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "ny vorondolo lehibe"
+    }
+  ],
+  "timestamp": "2026-08-31T13:14:32.329385807Z",
+  "model": "glm-5.3"
+}

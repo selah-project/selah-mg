@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 63,
+  "translation": "Raha mahatsiaro anao aho amiko am-pandriana, amin'ny fiahiana alina no anaovako saina anao.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "mahatsiaro anao aho"
+    },
+    {
+      "surface": "על",
+      "gloss": "ami-"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "ko am-pandriana"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "amin'ny fiahiana alina"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "no anaovako saina"
+    },
+    {
+      "surface": "בך",
+      "gloss": "anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:16.001723645Z",
+  "model": "glm-5.3"
+}

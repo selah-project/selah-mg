@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "diloilo ho an'ny fanatrehazana, zava-manitra ho an'ny diloilo fanosorana, ary ho an'ny ditra manitra;",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "diloilo"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "ho an'ny fanatrehazana"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "zava-manitra"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "ho an'ny diloilo"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "fanosorana"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "ary ho an'ny ditra"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "manitra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:04:14.879032459Z",
+  "model": "glm-5.3"
+}

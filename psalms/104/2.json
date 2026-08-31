@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 104,
+  "translation": "Izay manarona tena amin'ny fahazavana toy ny akanjo, manenjana ny lanitra toy ny laina.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "manarona tena"
+    },
+    {
+      "surface": "אור",
+      "gloss": "fahazavana"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "toy ny akanjo"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "manenjana"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "toy ny laina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:56.248635956Z",
+  "model": "glm-5.3"
+}

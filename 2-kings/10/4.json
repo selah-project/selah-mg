@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 10:4",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary raiki-tahoraka be dia be izy ireo ka nanao hoe: Indro, ny mpanjaka roa tsy nahatohitra teo anatrehany, ary izahay hanao ahoana no hahatohitra?",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Ary raiki-tahoraka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "be"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dia be"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "שני",
+      "gloss": "roa"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "nahatohitra"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "teo anatrehany"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "ary hanao ahoana"
+    },
+    {
+      "surface": "נעמד",
+      "gloss": "no hahatohitra"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "izahay"
+    }
+  ],
+  "timestamp": "2026-08-31T14:54:20.080724050Z",
+  "model": "glm-5.3"
+}

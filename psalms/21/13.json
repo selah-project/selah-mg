@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Fa hataonao ho tandrify ny ⟨tenda⟩ izy ireo, amin'ny tady tsipìkanao hanorenanao ⟨zava-manafody⟩ hanatrika ny tarehiny.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "hataonao ho tandrify ... izy ireo"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "⟨tenda⟩"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "amin'ny tady tsipìkanao"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "hanorenanao ⟨zava-manafody⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "hanatrika"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ny tarehiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:10.343482228Z",
+  "model": "glm-5.3"
+}

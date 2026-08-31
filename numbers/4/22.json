@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Isao koa ⟨את⟩ ny lohan'ny zanak'i Gereshon, dia izy ihany koa, araka ny tranon'ny razany, araka ny fokon'ny fianakaviany.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Isao (andraho ny lohan')"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lazan'ny zanak'i Gereshon"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "lazan'"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gereshon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izy"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "araka ny tranon'ny"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "razany"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "araka ny fokon'ny fianakaviany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:28:58.913362107Z",
+  "model": "glm-5.3"
+}

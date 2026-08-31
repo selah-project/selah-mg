@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Amin'izany andro izany dia hatsangako ⟨את⟩ ny trano-lain'i Davida mianjina, ary hanidiniko ⟨את⟩ ny tetebany; ny lavo azy kosa hatsangako, ary hanorenako azy toy ny andron'ny fahagola.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Amin'izany andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "hatsangako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny trano-lain'i Davida"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "trano-lain'i"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "mianjina"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "ary hanidiniko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tetebany"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "tetebany"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "ny lavo azy"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "hatsangako"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "ary hanorenako azy"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "toy ny andron'ny"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "fahagola"
+    }
+  ],
+  "timestamp": "2026-08-31T16:12:10.990170867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Fa Hianao no efa nanavotra antsika tamin'ny fahavalo, ary ny mankahala antsika nataonao ho mena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "nanavotra antsika"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "tamin'ny fahavalo"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "ary ny mankahala antsika"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "nataonao ho mena"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:35.234642594Z",
+  "model": "glm-5.3"
+}

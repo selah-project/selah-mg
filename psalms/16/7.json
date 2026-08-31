@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Isaorako ⟨את⟩ Yahveh izay nanoro hevitra ahy; eny, amin'ny alina ny voaiko no mampianatra ahy.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Isaorako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "nanoro hevitra ahy"
+    },
+    {
+      "surface": "אף",
+      "gloss": "eny"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "amin'ny alina"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "no mampianatra ahy"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ny voaiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:30.717308033Z",
+  "model": "glm-5.3"
+}

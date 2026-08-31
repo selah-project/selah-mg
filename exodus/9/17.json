@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 9:17",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Mbola manandra-panahy amin'ny olona koa ianao, ka tsy handefa azy",
+  "tokens": [
+    {
+      "surface": "עודך",
+      "gloss": "mbola ianao"
+    },
+    {
+      "surface": "מסתולל",
+      "gloss": "manandra-panahy"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "amin'ny olona"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "handefa azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:55:50.164346274Z",
+  "model": "glm-5.3"
+}

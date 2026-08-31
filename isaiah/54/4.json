@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 54:4",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 54,
+  "translation": "Aza matahotra, fa tsy ho voailika ianao; ary aza menatra, fa tsy ho verim-po; fa hanadino ny fahamenarana ny fahatanoranao ianao, ary ny henatra ny fahafatesan'ny vadinao tsy hotsarovanao intsony.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "matahotra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תבושי",
+      "gloss": "ho voailika"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תכלמי",
+      "gloss": "menatra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תחפירי",
+      "gloss": "ho verim-po"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "ny fahamenarana"
+    },
+    {
+      "surface": "עלומיך",
+      "gloss": "ny fahatanoranao"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "hanadino"
+    },
+    {
+      "surface": "וחרפת",
+      "gloss": "ary ny henatra"
+    },
+    {
+      "surface": "אלמנותיך",
+      "gloss": "ny fahafatesan'ny vadinao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תזכרי",
+      "gloss": "hotsarovanao"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    }
+  ],
+  "timestamp": "2026-08-31T15:19:15.053719557Z",
+  "model": "glm-5.3"
+}

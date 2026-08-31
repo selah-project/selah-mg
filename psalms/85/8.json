@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 85,
+  "translation": "Asehoy anay, Yahveh, ny hesed-nao, ary ny famonjenao omeo anay.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Asehoy anay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ny hesed-nao"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "ary ny famonjenao"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "omeo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:13.291913374Z",
+  "model": "glm-5.3"
+}

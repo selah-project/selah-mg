@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary toy izany no hentohan'ny mpanjakan'i Ashur ⟨את⟩ ny babo avy any Mitsrayim sy ⟨את⟩ ny sesitany avy any Kusha, tanora sy anti-panahy, mitanjana sy tsy mitafy tongotra, sady hitanjana fe, ho fahafaharerahana an'i Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Ary toy izany"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "no hentohan'ny"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'ny"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny babo avy any Mitsrayim"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "ny babo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "avy any Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny sesitany avy any Kusha"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "ny sesitany"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "avy any Kusha"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "tanora"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "sy anti-panahy"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "mitanjana"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "tsy mitafy tongotra"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "sady hitanjana"
+    },
+    {
+      "surface": "שת",
+      "gloss": "fe"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "fahatanjahana"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "an'i Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T15:08:02.565311754Z",
+  "model": "glm-5.3"
+}

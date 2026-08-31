@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary nijery ny Filistina ka nahita ⟨את⟩ an'i Davida, ary nihomehy nanamavo azy, satria zazalahy izy, mena hoditra, sady tsara tarehy.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "nijery"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ny Filistina"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "ka nahita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "ary nihomehy nanamavo azy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "היה",
+      "gloss": "izo"
+    },
+    {
+      "surface": "נער",
+      "gloss": "zazalahy"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "mena hoditra"
+    },
+    {
+      "surface": "עם",
+      "gloss": "sady"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "tarehy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:21:40.415053196Z",
+  "model": "glm-5.3"
+}

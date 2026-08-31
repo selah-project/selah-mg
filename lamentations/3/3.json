@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Eny, amiko mihitsy no miverina Izy, mihodina ny tànany ny andro tsirairay.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Eny"
+    },
+    {
+      "surface": "בי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "mihitsy no miverina Izy"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "mihodina"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ny tànany"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny andro"
+    },
+    {
+      "surface": "היום",
+      "gloss": "tsirairay"
+    }
+  ],
+  "timestamp": "2026-08-31T17:13:03.903562475Z",
+  "model": "glm-5.3"
+}

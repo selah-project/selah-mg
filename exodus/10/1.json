@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary Yahveh nanao teny tamin'i Moshe: Midira ao amin'i Parao, fa izaho no efa nampahalevy ⟨את⟩ ny fony sy ⟨את⟩ ny fon'ny mpanompony, mba hananganako ireto famantarana ireto ao aminy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao teny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Midira"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ao amin'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "no efa nampahalevy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fony"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ny fony"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny fon'ny mpanompony"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ny fon'ny"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "mpanompony"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mba"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "hananganako"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "famantarana"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ireto"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ao aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:15.552154132Z",
+  "model": "glm-5.3"
+}

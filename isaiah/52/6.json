@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 52,
+  "translation": "Koa ho fantatry ny oloko ny anarako; koa amin'izany andro izany ho fantany fa izaho ⟨no⟩ ilay milaza; indro izaho.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Koa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ho fantatry"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ny oloko"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ny anarako"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "koa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'izany andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨no⟩ ilay"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "milaza"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "indro izaho"
+    }
+  ],
+  "timestamp": "2026-08-31T15:19:23.893547421Z",
+  "model": "glm-5.3"
+}

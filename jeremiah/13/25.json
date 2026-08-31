@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ity no anjaranao, ny fizaranao voatafy avy amiko ⟨את⟩ — fanambaràn'i Yahveh — satria nanadino ⟨את⟩ Ahy ianao ka nitoetra tamin'ny lainga.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "anjaranao"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "fizaranao"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "voatafy"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "avy amiko ⟨את⟩"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "fanambaràn'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "satria"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "nanadino"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "Ahy"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "ka nitoetra"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "tamin'ny lainga"
+    }
+  ],
+  "timestamp": "2026-08-31T15:29:15.950814576Z",
+  "model": "glm-5.3"
+}

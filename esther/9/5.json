@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 9:5",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary namely ny Jiosy ny fahavalo rehetra tamin'izy ireo tamin'ny fianianan-tsabatra sy fandrarana sy fandringanana, ka nataon'izy ireo tamin'izay nankahala azy araka ny sitrapony.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "namely"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ny Jiosy"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ny fahavalo rehetra"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "fahavalony"
+    },
+    {
+      "surface": "מכת",
+      "gloss": "tamin'ny fianianan-tsabatra"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabatra"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "sy fandrarana"
+    },
+    {
+      "surface": "ואבדן",
+      "gloss": "sy fandringanana"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ka nataon'izy ireo"
+    },
+    {
+      "surface": "בשנאיהם",
+      "gloss": "tamin'izay nankahala azy"
+    },
+    {
+      "surface": "כרצונם",
+      "gloss": "araka ny sitrapony"
+    }
+  ],
+  "timestamp": "2026-08-31T18:17:51.438270414Z",
+  "model": "glm-5.3"
+}

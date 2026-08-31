@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 15:35",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Fa ny bamotra ihany no tsy nesorina; mbola namono zavatra hatao fanatitra sy nandoro ditin-kazo manitra tamin'ny bamotra ny vahoaka. Izy no nanorina ⟨את⟩ vavahadin'ny tranon'i Yahveh Elyon.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "fa ... ihany"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "ny bamotra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "nesorina"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mbola"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "namono zavatra hatao fanatitra"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "sy nandoro ditin-kazo manitra"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "tamin'ny bamotra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nanorina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vavahady"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vavahady"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-31T14:57:31.307807927Z",
+  "model": "glm-5.3"
+}

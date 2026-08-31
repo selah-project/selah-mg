@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary hoy Davide taminy: Avy amin'iza ianao tonga? Ary hoy izy taminy: Avy amin'ny tobin'ny Isiraely no afaka aho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Avy amin'iza"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "izy taminy"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "Avy amin'ny tobin'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "no afaka aho"
+    }
+  ],
+  "timestamp": "2026-08-31T14:28:42.342148457Z",
+  "model": "glm-5.3"
+}

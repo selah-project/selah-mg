@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ary manaova fanambadiana ⟨את⟩ aminay: ny zanakareo vavy omeo anay, ary ⟨את⟩ ny zanakay vavy alainareo ho anareo.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "manaova fanambadiana"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ aminay",
+      "marks": "fanambadiana"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "zanakareo vavy"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "omeo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "anay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "zanakay vavy"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "zanakay vavy"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "alainareo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:48:03.229040706Z",
+  "model": "glm-5.3"
+}

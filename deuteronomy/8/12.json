@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "fandrao hihinanay ianao ka ho voky, ary hanao trano tsara ka hitoetra ao;",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "fandrao"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "hihinanay"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "ka ho voky"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "ary hanao trano"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ka hitoetra ao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:43:17.444129629Z",
+  "model": "glm-5.3"
+}

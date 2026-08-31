@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Mialà amin'ny ratsy ka ataovy ny soa; tadiavo ny fiadanana ary araho izy.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Mialà"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "amin'ny ratsy"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ataovy"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "soa"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "tadiavo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fiadanana"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "araho izy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:15.171371657Z",
+  "model": "glm-5.3"
+}

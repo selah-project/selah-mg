@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 130,
+  "translation": "Adonay, henoy ny feoko; aoka hihaino ny sofinao amin'ny feon'ny fangatahanaoko.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "henoy"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "ny feoko"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "aoka ho"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "ny sofinao"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "mihaino mandray"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "amin'ny feon'"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "fangatahanaoko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:31.026993005Z",
+  "model": "glm-5.3"
+}

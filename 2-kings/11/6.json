@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 11:6",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "ary ny ampahatelo eo amin'ny vavahadin'i Sur, ary ny ampahatelo eo amin'ny vavahady aorian'ny mpanety, ary hitandremanareo ⟨את⟩ ny fitandremana ho an'ny trano ho sakana.",
+  "tokens": [
+    {
+      "surface": "והשלשית",
+      "gloss": "ary ny ampahatelo"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "eo amin'ny vavahady"
+    },
+    {
+      "surface": "סור",
+      "gloss": "i Sur"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "ary ny ampahatelo"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "eo amin'ny vavahady"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "aorian'ny"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "mpanety"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "ary hitandremanareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fitandremana"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "ny fitandremana"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ho an'ny trano"
+    },
+    {
+      "surface": "מסח",
+      "gloss": "ho sakana"
+    }
+  ],
+  "timestamp": "2026-08-31T14:55:21.867160946Z",
+  "model": "glm-5.3"
+}

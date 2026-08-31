@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Vonjeo ny tenanao hoatra ny diera avy amin'ny tànany, ary hoatra ny vorona avy amin'ny tàn'ny mpandroa.",
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "vonjeo ny tenanao"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "hoatra ny diera"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "avy amin'ny tànany"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "ary hoatra ny vorona"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "avy amin'ny tàn'ny"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "mpandroa"
+    }
+  ],
+  "timestamp": "2026-08-31T16:50:01.919748055Z",
+  "model": "glm-5.3"
+}

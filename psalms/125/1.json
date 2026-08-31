@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 125,
+  "translation": "Hiran'ny fiakarana. Izay matoky an'i Yahveh dia tahaka ny tendrombohitra Ziona — tsy hihorohoro ⟨⟨:⟩⟩ mipetraka mandrakizay.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Hira"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ny fiakarana"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "Izay matoky"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "tahaka ny tendrombohitra"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ziona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "hihorohoro"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "mipetraka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:56.236544042Z",
+  "model": "glm-5.3"
+}

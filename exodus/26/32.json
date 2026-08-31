@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 26:32",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary hanantona ⟨את⟩ azy ianao eo ambolon'ny hazo faobe efatra voaravaka volamena, ny fikapoany volamena, eo ambolon'ny fototra efatra volafotsy.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "hanantona ianao"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ny efitra lamban'ny velo)"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambolon'ny"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "efatra"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "hazo tsangam-bato"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "faobe"
+    },
+    {
+      "surface": "מצפים",
+      "gloss": "voaravaka"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "וויהם",
+      "gloss": "ny fikapoany"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambolon'ny"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "efatra"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "fototra"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    }
+  ],
+  "timestamp": "2026-08-31T19:13:38.243624434Z",
+  "model": "glm-5.3"
+}

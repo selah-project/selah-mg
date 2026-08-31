@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "efa nanisy baiko taminy momba ity zavatra ity, fa aza mandeha manaraka elohim hafa; nefa tsy nitandrina izay nandidian'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "efa nanisy baiko"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "על",
+      "gloss": "momba"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ity zavatra ity"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "fa aza"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "manaraka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "hafa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nefa tsy"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nitandrina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay (אשר)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidian'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T14:44:47.711746069Z",
+  "model": "glm-5.3"
+}

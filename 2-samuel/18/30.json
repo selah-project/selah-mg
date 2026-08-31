@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary hoy ny mpanjaka: Mivily, ary mijanona eto. Dia nivily izy ka nijanona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "סב",
+      "gloss": "Mivily"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "mijanona"
+    },
+    {
+      "surface": "כה",
+      "gloss": "eto"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "Dia nivily"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ka nijanona"
+    }
+  ],
+  "timestamp": "2026-08-31T14:35:55.710807335Z",
+  "model": "glm-5.3"
+}

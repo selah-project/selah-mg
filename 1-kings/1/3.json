@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 1:3",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary nitady zazavavy tsara tarehy mamindrana amin'ny faritry ny Isiraely izy ireo, ka hitany ⟨את⟩ i Abishaga tany Shonema, dia nentiny tany amin'ny mpanjaka izy.",
+  "tokens": [
+    {
+      "surface": "ויבקשו",
+      "gloss": "Ary nitady"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "zazavavy"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "tsara tarehy"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "faritry ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ka hitany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Abishaga"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abishaga"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "tany Shonema"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "dia nentiny"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "tany amin'ny mpanjaka"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "tany amin'ny mpanjaka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:38:29.183510455Z",
+  "model": "glm-5.3"
+}

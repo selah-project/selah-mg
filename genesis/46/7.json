@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 46:7",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 46,
+  "translation": "Ny zanany lahy sy ny zafany lahy ⟨את⟩ tamby, ny zanany vavy sy ny zafany vavy, ary ny taranany rehetra — nitondra ⟨את⟩ azy ho any Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "בניו",
+      "gloss": "ny zanany lahy"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "sy ny zanak'i"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ny zanany (lahy)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ tamby",
+      "marks": "tamby (amin'i Yakob)"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "ny zanany vavy"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "sy ny zanak'i-vavy"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ny zanany (lahy)"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ny... rehetra"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "taranany"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "nitondra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (Yakob sy ny taranany)"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ho any Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T12:52:33.098135605Z",
+  "model": "glm-5.3"
+}

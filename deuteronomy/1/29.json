@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary hoy izaho taminao: Aza mahatahotra ianareo, ary aza matahotra azy.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ary hoy izaho"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "taminao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "mahatahotra ianareo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "matahotra"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:40:06.397458373Z",
+  "model": "glm-5.3"
+}

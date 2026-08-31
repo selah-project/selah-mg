@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 16:3",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary nandeha tamin'ny lalan'ny mpanjakan'i Yisraely izy; ary na ⟨את⟩ ny zanany dia nampandeha tamin'ny afo, araka ny fahavetavetan'ny jentilisa izay noroahin'i Yahveh ⟨את⟩ azy hialoha ny Zanak'i Yisraely.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tamin'ny lalan'ny"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mpanjakan'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraely"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ary na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanany"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "nampandeha"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tamin'ny afo"
+    },
+    {
+      "surface": "כתעבות",
+      "gloss": "araka ny fahavetavetan'ny"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "jentilisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "noroahin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "hialoha ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraely"
+    }
+  ],
+  "timestamp": "2026-08-31T14:57:33.029060236Z",
+  "model": "glm-5.3"
+}

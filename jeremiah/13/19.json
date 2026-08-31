@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 13:19",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Voahidy ny tanànan'ny Atsimo, ka tsy misy mpisokatra; voasesa ny Joda manontolo, voasesa tanteraka.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "tanànan'ny"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Atsimo"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "Voahidy"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ka tsy misy"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mpisokatra"
+    },
+    {
+      "surface": "הגלת",
+      "gloss": "voasesa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ny Joda"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "manontolo"
+    },
+    {
+      "surface": "הגלת",
+      "gloss": "voasesa"
+    },
+    {
+      "surface": "שלומים",
+      "gloss": "tanteraka"
+    }
+  ],
+  "timestamp": "2026-08-31T15:30:04.497331588Z",
+  "model": "glm-5.3"
+}

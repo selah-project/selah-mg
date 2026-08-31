@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Izy rehetra efa nivadika, miaraka dia loto avokoa; tsy misy mpanao tsara, tsy misy na iray aza.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Izy rehetra"
+    },
+    {
+      "surface": "סר",
+      "gloss": "efa nivadika"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "miaraka"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "dia loto avokoa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mpanao"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray aza"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:44.539649517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 5:13",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Fa izao rehetra izao dia tsy mitondra soa amiko akory, amin'izay fotoana rehetra izay izaho mahita ⟨את⟩ an'i Mordekhai Ilay Jody mipetraka eo ambaravaran'ny mpanjaka.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "fa izayo rehetra"
+    },
+    {
+      "surface": "זה",
+      "gloss": "izao"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "tsy ... akory"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "mitondra soa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'izay ... rehetra"
+    },
+    {
+      "surface": "עת",
+      "gloss": "fotoana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "mahita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekhai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhai"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "Ilay Jody"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "mipetraka"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "eo ambaravarana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    }
+  ],
+  "timestamp": "2026-08-31T17:17:26.719500654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 69,
+  "translation": "Natolotra tamin'ny sakaiko lovia, ary tamin'ny hetahetako nampanisotro ahy vinaingitra.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "natolotra"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "tamin'ny sakaiko"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "lovia"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "ary tamin'ny hetahetako"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "nampanisotro ahy"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "vinaingitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:02.255546289Z",
+  "model": "glm-5.3"
+}

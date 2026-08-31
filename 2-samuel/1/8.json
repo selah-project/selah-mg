@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary izy nanao teny tamiko hoe: Ianao iza? Ary izaho namaly azy hoe: Amalekita no izaho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao teny"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ianao"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "namaly"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "Amalekita"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "no izaho"
+    }
+  ],
+  "timestamp": "2026-08-31T14:27:59.528859943Z",
+  "model": "glm-5.3"
+}

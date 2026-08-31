@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 83,
+  "translation": "Fa tamin'ny fo no niara-nihevihany; manao fanekena hanoheranao izy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "niara-nihevihany"
+    },
+    {
+      "surface": "לב",
+      "gloss": "tamin'ny fo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "niara-"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "hanoheranao"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "fanekena"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "manao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:11.853368929Z",
+  "model": "glm-5.3"
+}

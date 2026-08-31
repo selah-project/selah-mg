@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Fa raha tsy mandre ny feon'i Yahveh hianareo, fa mandà ⟨את⟩ ny vavan'i Yahveh, dia ho aminareo sy ny razanareo ny tanan'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Fa raha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mandre"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ny feo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "fa mandà"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vavan'i Yahveh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ny vava"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "dia ho"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ny tanana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "aminareo"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "sy ny razanareo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:17:52.117374461Z",
+  "model": "glm-5.3"
+}

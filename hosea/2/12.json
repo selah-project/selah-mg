@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary ankehitriny hampisehoako ⟨את⟩ ny fahamenarany eo imason'ny tia azy, ary tsy hisy lehilahy hanafaka azy amin'ny tànako.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ary ankehitriny"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "hampisehoako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahamenarany"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "ny fahamenarany"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "eo imason'ny"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "tia azy"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ary lehilahy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "hanafaka azy"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "amin'ny tànako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:07:24.071665941Z",
+  "model": "glm-5.3"
+}

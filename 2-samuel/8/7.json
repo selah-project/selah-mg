@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary noraisin'i Davida ⟨את⟩ ny ampinga volamena izay teo amin'ny mpanompon'i Hadadezer, ka nentiny ho any Yeroshalayim izy ireo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ary noraisin'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ampinga volamena"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "ampinga"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "היו",
+      "gloss": "teo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mpanompon'i"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "ka nentiny"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    }
+  ],
+  "timestamp": "2026-08-31T14:31:04.678038359Z",
+  "model": "glm-5.3"
+}

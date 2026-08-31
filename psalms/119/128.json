@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Noho izany, ny didy rehetra nakoko ho marina amin'ny zavatra rehetra, ary lalana fitaka rehetra halako.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Noho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "didy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zavatra rehetra"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "nakoko ho marina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "fitaka"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "halako"
+    }
+  ],
+  "timestamp": "2026-08-31T18:25:52.534760937Z",
+  "model": "glm-5.3"
+}

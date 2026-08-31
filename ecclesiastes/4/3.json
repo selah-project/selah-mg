@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary tsara noho izy roa izany ilay tsy mbola nisy, izay tsy nahita ⟨את⟩ ny asa ratsy izay atao ambanin'ny masoandro.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "Ary tsara noho"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "izy roa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay tsy mbola nisy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "mbola"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nisy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "nahita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny asa ratsy"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ny asa"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "atao"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ambanin'ny"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ny masoandro"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:51.895621603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Yahveh nifaly noho ny fahamarinany, ka hanandratra ny Tora sy hanome voninahitra azy.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "nifaly"
+    },
+    {
+      "surface": "למען",
+      "gloss": "noho ny"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "fahamarinany"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "hanandratra"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "ny Tora"
+    },
+    {
+      "surface": "ורואדיר",
+      "gloss": "sy hanome voninahitra azy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:15:32.149799094Z",
+  "model": "glm-5.3"
+}

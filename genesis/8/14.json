@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary tamin'ny volana faharoa, tamin'ny fito amby roa-polo andro amin'ny volana, dia main tanteraka ny tany.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "Ary tamin'ny volana"
+    },
+    {
+      "surface": "השני",
+      "gloss": "faharoa"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "fito amby"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "roa-polo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "amin'ny volana"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "main tanteraka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:51.535411465Z",
+  "model": "glm-5.3"
+}

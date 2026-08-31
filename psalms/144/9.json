@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 144,
+  "translation": "Elohim, hira vaovao no hihirako ho anao; amin'ny nevel folo tady no hizambiako anao.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "hira"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "vaovao"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "hihirako"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "amin'ny nevel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "folo tady"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "hizambiako"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:02.797533789Z",
+  "model": "glm-5.3"
+}

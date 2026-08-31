@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 115,
+  "translation": "Hanampy hamaboana anareo Yahveh, anareo sy ny zanakareo.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "hanampy hamaboana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ny zanakareo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:16.154292519Z",
+  "model": "glm-5.3"
+}

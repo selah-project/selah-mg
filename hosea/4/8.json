@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ny fahotan'ny olonaiko no hohaniny, ary mankany amin'ny helony no manandratra ny fanahiny.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "ny fahotan'"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ny olonaiko"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "hohaniny"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary mankany amin'ny"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "helony"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "manandratra"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ny fanahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:07:14.992363237Z",
+  "model": "glm-5.3"
+}

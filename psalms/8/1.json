@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ho an'ny mpitarika, amin'ny Gititita; salamo ho an'i Davida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ho an'ny mpitarika"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gititita"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "salamo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ho an'i Davida"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:36.649743604Z",
+  "model": "glm-5.3"
+}

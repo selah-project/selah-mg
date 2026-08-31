@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 92,
+  "translation": "Ny lehilahi-biby tsy mahalala, ary ny adala tsy mandray saina ⟨את⟩ izany.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "בער",
+      "gloss": "biby"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ary ny adala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "mandray saina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izany"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:44.070812606Z",
+  "model": "glm-5.3"
+}

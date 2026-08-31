@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Sasaovo, mamadio ny tenanareo; esory ny ratsy amin'ny fanaonareo, hiala tsiny eo imason'i Yahveh; azaana ny fanaovana ratsy.",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "Sasaovo"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "mamadio ny tenanareo"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "esory"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ny ratsy"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "amin'ny fanaonareo"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "hiala tsiny eo imason'i"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "azaana"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ny fanaovana ratsy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:02:24.196396436Z",
+  "model": "glm-5.3"
+}

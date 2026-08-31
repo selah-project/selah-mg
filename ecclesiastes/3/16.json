@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary indray hitako ambanin'ny masoandro: ao amin'ny fitoeran'ny fitsarana no misy ny ratsy fanahy, ary ao amin'ny fitoeran'ny fahamarinana no misy ny ratsy fanahy.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Ary indray"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "hitako"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ambanin'ny"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "masoandro"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ny fitoeran'ny"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "fitsarana"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ao"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "ary ny fitoeran'ny"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "fahamarinana"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ao"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ny ratsy fanahy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:14:59.896444641Z",
+  "model": "glm-5.3"
+}

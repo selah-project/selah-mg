@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary nony rehefa afaka ny nahafatesan'i Avraham, Elohim nitahy ⟨את⟩ an'i Yitschak zanany; ary Yitschak nonina teo amin'ny Beer-Lachai-Roi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nony"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "rehefa afaka ny"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nahafatesana"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "nitahy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ary ... nonina"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "teo amin'ny"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Lachai-"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Roi"
+    }
+  ],
+  "timestamp": "2026-08-31T12:42:16.293107371Z",
+  "model": "glm-5.3"
+}

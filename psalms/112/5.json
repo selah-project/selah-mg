@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 112,
+  "translation": "Tsara ⟨ny⟩ lehilahy mamindra fanatrehana sy mampindram-bola; iray tarihin'ny fitsarana ny raharainy.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Tsara"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "mamindra fanatrehana"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "sy mampindram-bola"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "iray tarihin'ny"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ny raharainy"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "fitsarana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:46.891324333Z",
+  "model": "glm-5.3"
+}

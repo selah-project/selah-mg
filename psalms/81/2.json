@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 81,
+  "translation": "Mihirà ho an'i Elohim herintsika; miantsoa mafy ho an'ny Elohim an'i Yaakov.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "mihirà"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ho an'i Elohim"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "herintsika"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "miantsoa mafy"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ho an'ny Elohim an'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:21.061119109Z",
+  "model": "glm-5.3"
+}

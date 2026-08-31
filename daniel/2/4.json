@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 2:4",
+  "book": "daniel",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary ny Kosdea niteny tamin'ny mpanjaka amin'ny teny arameana hoe: Ry mpanjaka, velona mandrakizay ianao; lazao amin'ny mpanomponao ny nofy, ary izahay haneho ny fanazavana azy.",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "Ary ny Kosdea niteny"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kosdea"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "tamin'ny mpanjaka"
+    },
+    {
+      "surface": "ארמית",
+      "gloss": "amin'ny teny arameana"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "Ry mpanjaka"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "velona"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "lazao"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "ny nofy"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "amin'ny mpanomponao"
+    },
+    {
+      "surface": "ופשרא",
+      "gloss": "ary ny fanazavana"
+    },
+    {
+      "surface": "נחוא",
+      "gloss": "izahay haneho"
+    }
+  ],
+  "timestamp": "2026-08-31T17:20:36.015725133Z",
+  "model": "glm-5.3"
+}

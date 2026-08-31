@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "ary ⟨את⟩ Ofira sy ⟨את⟩ Havila ary ⟨את⟩ Jobaba; izy rehetra ireo no zanak'i Yoktana",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ofira"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Havila"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Havila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jobaba"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Jobaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yoktana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:33:36.095569573Z",
+  "model": "glm-5.3"
+}

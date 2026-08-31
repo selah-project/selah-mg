@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 119:41",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ary tonga atỳ amiko ny hesed-nao, ry Yahveh, ny famonjenao, araka ny teninao.",
+  "tokens": [
+    {
+      "surface": "ויבאני",
+      "gloss": "ary tonga atỳ amiko"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ny hesed-nao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "ny famonjenao"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "araka ny teninao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:39.303515917Z",
+  "model": "glm-5.3"
+}

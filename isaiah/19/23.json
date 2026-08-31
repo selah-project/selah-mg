@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Amin'izany andro izany hisy lalana avy any Mitsrayim ho any Ashur, ary ho tonga any Mitsrayim ny Ashur, ary ny Mitsrayim ho any Ashur, ary hanompo any amin'ny Ashur ny Mitsrayim ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Amin'izany andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "hisy"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "avy any Mitsrayim"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "ho any Ashur"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ary ho tonga"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ny Ashur"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "any Mitsrayim"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "ary ny Mitsrayim"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "ho any Ashur"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "ary hanompo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ny Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "any amin'ny Ashur"
+    }
+  ],
+  "timestamp": "2026-08-31T15:07:26.290093516Z",
+  "model": "glm-5.3"
+}

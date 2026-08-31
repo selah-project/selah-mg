@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Izay miandry rivotra tsy hamboly, ary izay mijery rahona tsy hginja.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "miandry"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rivotra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "hamboly"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "mijery"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "rahona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "hginja"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:49.264752305Z",
+  "model": "glm-5.3"
+}

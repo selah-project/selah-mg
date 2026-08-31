@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ny fahadalan'ny olona manimba ny lalany; ary ny fony tezitra amin'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "fahadalana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "manimba"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ny lalany"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "amin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "tezitra"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ny fony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:55:23.206423195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary naniraka mialoha anareo aho tamin'ny ⟨את⟩ fanenina, ka nandroaka ⟨את⟩ azy hialo anareo izy — ny mpanjakan'ny Emorita roa; tsy tamin'ny sabatanao no tsy tamin'ny tsipìkanao.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "naniraka aho"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "mialoha anareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fanenina"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "fanenina"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "ka nandroaka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "hialo anareo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "roa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mpanjakan'ny"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "tamin'ny sabatanao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "tamin'ny tsipìkanao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:00:56.485030052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Endrey ny habiben'ny soa ataonao, izay nafeninao ho an'ireo matahotra anao, izay nataonao ho an'ireo mifidy tahony aminao, eo imason'ny zanak'olombelona!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "endrey"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ny habiben'ny"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "soa ataonao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "nafeninao"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "ho an'ireo matahotra anao"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "izay nataonao"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "ho an'ireo mifidy tahony"
+    },
+    {
+      "surface": "בך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "eo imason'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'ny"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olombelona"
+    }
+  ],
+  "timestamp": "2026-08-31T18:12:43.809848107Z",
+  "model": "glm-5.3"
+}

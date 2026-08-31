@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Fa hoy izy: Tsy mahay miverina ⟨את⟩ aminao aho, na miditra ⟨את⟩ aminao; ary tsy hihinana-kanina aho, na hisotro rano ⟨את⟩ aminao amin'ity tany ity.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "fa hoy izy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mahay"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "miverina"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ aminao"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "na miditra"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ aminao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "hihinana"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kanina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "na"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "hisotro"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ aminao"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    }
+  ],
+  "timestamp": "2026-08-31T14:45:48.479672365Z",
+  "model": "glm-5.3"
+}

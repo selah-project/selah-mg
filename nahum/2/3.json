@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Fa Yahveh efa niverina tamin'ny voninahitr'i Yaakov, toy ny voninahitr'i Yisrael; fa ny mpandripaka efa namono azy tsy misy sisa, ary ny tsimparifary dia simba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "שב",
+      "gloss": "efa niverina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "voninahitr'i Yaakov"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "voninahitra"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "toy ny voninahitra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "efa namono tsy misy sisa"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "ny mpandripaka"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "ary ny tsimparifary"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "simba"
+    }
+  ],
+  "timestamp": "2026-08-31T18:11:56.907283879Z",
+  "model": "glm-5.3"
+}

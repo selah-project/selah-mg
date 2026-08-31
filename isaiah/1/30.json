@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Fa ho tahaka ny terebinta mamono ravina ianareo, ary tahaka ny zaridaina izay tsy misy rano azy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "tahaka ny terebinta"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "mamono"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ravina"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "ary tahaka ny zaridaina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "לה",
+      "gloss": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:02:25.543145759Z",
+  "model": "glm-5.3"
+}

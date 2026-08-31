@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Tsy misy mpisotro divay amin'ny hira; mangidy ny zava-mahamamo ho an'izay mibaby azy.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "amin'ny hira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "misy mpisotro"
+    },
+    {
+      "surface": "יין",
+      "gloss": "divay"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "mangidy"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "zava-mahamamo"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "ho an'izay mibaby azy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:08:38.876056557Z",
+  "model": "glm-5.3"
+}

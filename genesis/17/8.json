@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 17:8",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary homeko anao sy ny taranakao aorianao ⟨את⟩ ny tany itoeran'ny vahiny ianao, ⟨את⟩ ny tany Kanana rehetra, ho fananana mandrakizay; ary ho Elohim amin'izy ireo aho.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "homeko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "sy ny taranakao"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "aorianao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany itoeran'ny vahiny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "itoeran'ny vahiny ianao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany Kanana rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanana"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "ho fananana"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "ary ho … aho"
+    },
+    {
+      "surface": "להם",
+      "gloss": "amin'izy ireo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T12:39:28.666724783Z",
+  "model": "glm-5.3"
+}

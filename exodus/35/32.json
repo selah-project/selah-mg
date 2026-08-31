@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "ary hamolavola hevitra hanao asa amin'ny volamena sy amin'ny volafotsy ary amin'ny varahina.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "ary hamolavola hevitra"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "hevitra"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "hanao asa"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "amin'ny volamena"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "sy amin'ny volafotsy"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "ary amin'ny varahina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:09:28.181122158Z",
+  "model": "glm-5.3"
+}

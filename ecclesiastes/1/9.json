@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Izay efa nisy no ho hisy, ary izay efa natao no ho hatao; ary tsy misy na inona na inona vaovao eo ambany ny masoandro.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "inona"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "izay efa nisy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no izy"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ho hisy"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ary inona"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "izay efa natao"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "no izy"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "ho hatao"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ary tsy misy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "na inona na inona"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "vaovao"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "eo ambany"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ny masoandro"
+    }
+  ],
+  "timestamp": "2026-08-31T17:14:19.346053626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Any Gat aza milaza; aza mitomany; any Bet-le-Afra horavona ao amin'ny vovoka.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "Any Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "milaza"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "aza mitomany"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "mitomany"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Any Bet-"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "le-Afra"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ao amin'ny vovoka"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "horavona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:14:10.121173444Z",
+  "model": "glm-5.3"
+}

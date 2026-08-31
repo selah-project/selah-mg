@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 132,
+  "translation": "Fihirana fiakarana. Tsarovy, ry Yahveh, noho i David ⟨את⟩ ny fahoriany rehetra.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Fihirana"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "fiakarana"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Tsarovy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "noho i David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahoriany rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "ny fahoriany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:37.905588730Z",
+  "model": "glm-5.3"
+}

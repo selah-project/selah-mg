@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary ho fantantsika, hanenjika hahalala ⟨את⟩ Yahveh; fivoahany miorina toy ny maraina antsovanandro, ary ho tonga amintsika izy toy ny orana, toy ny oram-behivavy mandatsaka ⟨את⟩ ny tany.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "Ary ho fantantsika"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "hanenjika"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "hahalala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "toy ny maraina antsovanandro"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "miorina"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "fivoahany"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ary ho tonga amintsika izy"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "toy ny orana"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "amintsika"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "toy ny oram-behivavy"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "mandatsaka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:07:44.636110578Z",
+  "model": "glm-5.3"
+}

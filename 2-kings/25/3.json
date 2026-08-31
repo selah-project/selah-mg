@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Tamin'ny [folo] amin'ny volana dia nihalehibe ny mosary tao an-tanàna, ka tsy nisy mofo ho an'ny vahoakan'ny tany.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "[Tamin'ny] fahasivy"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "amin'ny volana"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "nihalehibe"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ny mosary"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "tao an-tanàna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nisy"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mofo"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ho an'ny vahoakan'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:02:05.512784955Z",
+  "model": "glm-5.3"
+}

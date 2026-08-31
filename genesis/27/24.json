@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ary izy nanao hoe: Ianao va no zanako Esav? Dia izy nanao hoe: Izaho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "זה",
+      "gloss": "no"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanako"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    }
+  ],
+  "timestamp": "2026-08-31T12:43:31.247724553Z",
+  "model": "glm-5.3"
+}

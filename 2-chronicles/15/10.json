@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 15:10",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary nivory tao Yeroshalayim izy tamin'ny volana fahatelo, tamin'ny taona fahadimy ambin'ny folo tamin'ny fanjakan'i Asa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "nivory"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "tao Yeroshalayim"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "tamin'ny volana"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "fahatelo"
+    },
+    {
+      "surface": "לשנת",
+      "gloss": "tamin'ny taona"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "fahadimy ambin'ny folo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "folo"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "tamin'ny fanjakana"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "an'i Asa"
+    }
+  ],
+  "timestamp": "2026-08-31T17:46:30.080721296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 25:11",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary ⟨את⟩ ny sisa tavela amin'ny vahoaka izay nitoetra tao an-tanàna, sy ⟨את⟩ izay niala ka nandalo ho any amin'ny mpanjakan'i Bavel (Babylona), ary ⟨את⟩ ny sisan'ny be sy ny maro dia navesatr'i Nevuzaradan lehiben'ny mpanondra-paty ho babo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Ary ⟨את⟩",
+      "marks": "ny sisa tavela amin'ny vahoaka"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ny sisa tavela"
+    },
+    {
+      "surface": "העם",
+      "gloss": "amin'ny vahoaka"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "izay nitoetra tao an-tanàna"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "an-tanàna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "izay niala ka nandalo ho any amin'ny mpanjakan'i Bavel"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "izay niala ka nandalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "nandalo ho any"
+    },
+    {
+      "surface": "על",
+      "gloss": "any amin'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjakan'i"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel (Babylona)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny sisan'ny be sy ny maro"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ny sisan'ny"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "be sy ny maro"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "navesatra ho babo"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "lehiben'ny"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "mpanondra-paty"
+    }
+  ],
+  "timestamp": "2026-08-31T15:01:08.986055434Z",
+  "model": "glm-5.3"
+}

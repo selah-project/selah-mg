@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary Yahveh nandre ⟨את⟩ ny feon'ny teninareo, ka tezoka izy, ka nianiana ka nanao hoe:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Ary nandre"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny feon'ny teninareo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ny feon'ny"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "teninareo"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "ka tezoka"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ka nianiana"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T13:39:29.014953143Z",
+  "model": "glm-5.3"
+}

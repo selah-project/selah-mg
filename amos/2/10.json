@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary izaho nampakatra ⟨את⟩ anareo avy tamin'ny tany Mitsrayim, ary nitondra ⟨את⟩ anareo tany an-efitra efa-polo taona, mba hananareo ⟨את⟩ ny tany amin'ny Amorita.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Ary izaho"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "nampakatra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "avy tamin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "ary nitondra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "anareo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "tany an-efitra"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "efa-polo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "mba hananareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amin'ny Amorita"
+    }
+  ],
+  "timestamp": "2026-08-31T18:10:43.969210888Z",
+  "model": "glm-5.3"
+}

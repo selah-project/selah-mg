@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 12:31",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary niantso an'i Moshe sy an'i Aharon izy alina kina ka nanao hoe: Mitsangàna, mivoaha avy eo amin'ny ampoko an'i oloko, ianareo koa sy ny zanak'i Isiraely koa; ary mandehana, manompoa ⟨את⟩ i Yahveh, araka ny teninareo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Ary niantso"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "an'i Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "sy an'i Aharon"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "alina kina"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "Mitsangàna"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "mivoaha"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "avy eo amin'ny ampoko an'i"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "oloko"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ianareo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "koa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ary mandehana"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "manompoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כדברכם",
+      "gloss": "araka ny teninareo"
+    }
+  ],
+  "timestamp": "2026-08-31T12:59:06.677525480Z",
+  "model": "glm-5.3"
+}

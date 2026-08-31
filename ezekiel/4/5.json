@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 4:5",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Fa Izaho dia efa nanome ⟨את⟩ ny taonan'ny faharatsiany ho anao, araka ny isan'ny andro — teloanjato sy sivy folo andro; ary ianao no hitondra ny faharatsian'ny taranak'i Isiraela.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Fa Izaho"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nanome"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny taonan'ny faharatsiany"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ny taona"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ny faharatsiany"
+    },
+    {
+      "surface": "למספר",
+      "gloss": "araka ny isan'ny"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "telo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "anjato"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "sy sivy folo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "ונשאת",
+      "gloss": "ary hitondra"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ny faharatsiana"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ny taranak'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraela"
+    }
+  ],
+  "timestamp": "2026-08-31T15:48:17.160345550Z",
+  "model": "glm-5.3"
+}

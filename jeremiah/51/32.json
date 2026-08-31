@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 51:32",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "Ary voasambotra ny fivoahana, ary ⟨את⟩ ny heniheny nodorana tamin'ny afo, ary ny lehilahy miady gaga.",
+  "tokens": [
+    {
+      "surface": "והמעברות",
+      "gloss": "Ary ny fivoahana"
+    },
+    {
+      "surface": "נתפשו",
+      "gloss": "voasambotra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny heniheny"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "ny heniheny"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "nodorana"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tamin'ny afo"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "ary ny lehilahy"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "miady"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "gaga"
+    }
+  ],
+  "timestamp": "2026-08-31T15:45:51.273565019Z",
+  "model": "glm-5.3"
+}

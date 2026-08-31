@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 140,
+  "translation": "Ny lehilahy miteny ratsy tsy hiorina amin'ny tany; ny lehilahy mpanao herisetra raty fanahy hanenjika ny loza ka hahatonga azy amin'ny faharavana.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ny lehilahy"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "miteny ratsy"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "hiorina"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ny lehilahy"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "mpanao herisetra"
+    },
+    {
+      "surface": "רע",
+      "gloss": "raty fanahy"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "hanenjika azy"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "amin'ny faharavana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:40.178449396Z",
+  "model": "glm-5.3"
+}

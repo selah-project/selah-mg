@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Andriamanitro, miantso Aho andavanandro, fa tsy mandray; ary amin'ny alina, fa tsy misy fahanginana Ho amiko.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Andriamanitro"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "miantso Aho"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "andavanandro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "mandray"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ary amin'ny alina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy misy"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "fahanginana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Ho amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:53.094764659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary ⟨את⟩ ny arnevet, sady mampiakatra gerah izy fa tsy misaraka kitra, tsy madio izy ho anareo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny arnevet"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "ny arnevet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sady"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "mampiakatra"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gerah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "kitra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "misaraka"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "tsy madio"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:14:54.557675910Z",
+  "model": "glm-5.3"
+}

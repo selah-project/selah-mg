@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 14:7",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Na dia manambara ny aminay aza ny tsi-fahamarinanay, ry Yahveh, manaoza ho an'ny anaranao; fa be ny fivadiavanay, nanota taminao izahay.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Na dia... aza"
+    },
+    {
+      "surface": "עונינו",
+      "gloss": "ny tsi-fahamarinanay"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "manambara ny aminay"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "aminay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "manaoza"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ho an'ny"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "anaranao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "be"
+    },
+    {
+      "surface": "משובתינו",
+      "gloss": "ny fivadiavanay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "taminao"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "nanota izahay"
+    }
+  ],
+  "timestamp": "2026-08-31T15:29:15.714262864Z",
+  "model": "glm-5.3"
+}

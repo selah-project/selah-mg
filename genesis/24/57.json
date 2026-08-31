@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary hoy izy ireo: Andao hiantso ny zatovovavy, ka hanelanelana amin'ny vavany ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "hoy izy ireo"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "Andao hiantso"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ny zatovovavy"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "ka hanelanelana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vavany"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ny vavany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:27:08.256266684Z",
+  "model": "glm-5.3"
+}

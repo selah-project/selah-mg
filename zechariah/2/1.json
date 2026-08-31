@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary nanandratra ⟨את⟩ ny masoniko aho ka nahita, ary indro, tandroka efatra.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "nanandratra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny masoniko"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ny masoniko"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ka nahita"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ary indro"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "efatra"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "tandroka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:19:45.385021878Z",
+  "model": "glm-5.3"
+}

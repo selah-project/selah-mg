@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary Yahveh nanao tamin'i Moshe hoe: Jereo, nataoko Elohim ianao ho an'i Parao, ary Aharon rahalahinao ho mpaminaninao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao tamin'i hoe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Jereo"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "nataoko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ho an'i Parao"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ary Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "rahalahinao"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "mpaminaninao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:56:10.487083852Z",
+  "model": "glm-5.3"
+}

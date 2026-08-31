@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Andramo aho, ry Yahveh, ary izaho no andramo; voatsarofina toy ny volafotsy ⟨ny voa⟩ ao anatiko sy ny foko.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Andramo aho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "ary izaho no andramo"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "voatsarofina toy ny volafotsy"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "⟨ny voa⟩ ao anatiko"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "sy ny foko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:09.592454731Z",
+  "model": "glm-5.3"
+}

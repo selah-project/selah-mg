@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary tamin'izay, nony i Yahveh nampakatra ⟨את⟩ an'i Eliyahu tamin'ny rafitra rivotra ho any an-danitra, dia niainga Eliyahu sy Elisa avy tany Gilgala.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary tamin'izay nony"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "nampakatra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "tamin'ny rafitra rivotra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ho any an-danitra"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "dia niainga"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "sy Elisa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "tany Gilgala"
+    }
+  ],
+  "timestamp": "2026-08-31T14:51:11.565491691Z",
+  "model": "glm-5.3"
+}

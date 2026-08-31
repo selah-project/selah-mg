@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "ny fahadimy Shefatia, tamin'i Abitala; ny fahenina Yitreama, tamin'i Eglà vadiny;",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "ny fahadimy"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Shefatia"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "tamin'i Abitala"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ny fahenina"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "Yitreama"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "tamin'i Eglà"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vadiny"
+    }
+  ],
+  "timestamp": "2026-08-31T17:34:45.567703461Z",
+  "model": "glm-5.3"
+}

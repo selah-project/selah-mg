@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 77,
+  "translation": "Hangain'Adonay mandrakizay ve ⟨izy⟩, ary tsy hankasitrahana intsony ve?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "mandrakizay ve"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "Hangain'"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "... intsony"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "hankasitrahana"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:36.469140884Z",
+  "model": "glm-5.3"
+}

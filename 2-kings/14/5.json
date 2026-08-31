@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary rehefa nanamafy ny fanjakana tany an-tànany izy, dia namono ⟨את⟩ ny mpanompony, izay namono ⟨את⟩ ny mpanjaka rainy izy.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nonina"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "rehefa"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "nanamafy"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ny fanjakana"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "tany an-tànany"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dia namono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanompony"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ny mpanompony"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "izay namono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanjaka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rainy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:56:42.975446586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 20:18",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Mba tsy hampianatra anareo hanao araka ny fahavetavetany rehetra, izay nataony tamin'ireo elohim-ny, ianao, ka tsy hanao fahotana amin'i Yahveh Elohinareo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Mba tsy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ילמדו",
+      "gloss": "hampianatra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo",
+      "marks": "anareo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hanao araka"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "תועבתם",
+      "gloss": "fahavetavetany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "tamin'ireo elohim-ny"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "ka hanao fahotana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "amin'i Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:47:39.932508138Z",
+  "model": "glm-5.3"
+}

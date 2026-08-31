@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary Yahveh nanao ho an'i Moshe hoe: tsy hihaino anareo Parao, mba hisantarana ny fahagagako amin'ny tany Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao ho an'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho an'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hihaino"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mba"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "hisantarana"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "ny fahagagako"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:13.854706794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary Nambaraka azy Elohim ka nanao hoe: Mamoa ary maro, ary fenoy ⟨את⟩ ny rano ao an-dranomasina; ary ny vorona aoka hahamaro amin'ny tany.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Nambaraka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (ny biby sy vorona)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Mamoa"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ary maro"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ary fenoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rano"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ny rano"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ao an-dranomasina"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "ary ny vorona"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "aoka hahamaro"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "amin'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:01.666748979Z",
+  "model": "glm-5.3"
+}

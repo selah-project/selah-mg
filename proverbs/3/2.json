@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Fa tara-pahavelozana sy taona maro velona, ary fiadanana no hampitombina ho anao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "tara-pahavelozana"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "sy taona"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "velona"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "ary fiadanana"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "hampitombina"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:36:04.023533126Z",
+  "model": "glm-5.3"
+}

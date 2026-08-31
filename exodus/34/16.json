@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "ary hangalaρa amin'ny zananivavy ho an'ny zanakao ianao, ka ny zananivavany hijangajanga manaraka ny eloany, ary hampijangajanga ⟨את⟩ ny zanakao manaraka ny eloany.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "ary hangalaρa"
+    },
+    {
+      "surface": "מבנתיו",
+      "gloss": "amin'ny zananivavy"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "ho an'ny zanakao"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "ka hijangajanga"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "ny zananivavany"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "manaraka"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "ny eloany"
+    },
+    {
+      "surface": "והזנו",
+      "gloss": "ary hampijangajanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanakao"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ny zanakao"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "manaraka"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "ny eloany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:08:41.031697689Z",
+  "model": "glm-5.3"
+}

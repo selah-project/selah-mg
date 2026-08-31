@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 109,
+  "translation": "Aoka ho lalandava eo anatrehan'i Yahveh izy, mba hofongorany amin'ny tany ny fahatsiarovana azy.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "aoka ho"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "eo anatrehan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "lalandava"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "mba hofongorany"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ny fahatsiarovana azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:51.552512931Z",
+  "model": "glm-5.3"
+}

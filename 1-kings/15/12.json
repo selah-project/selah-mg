@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary nesoriny tamin'ny tany ny olona masina ⟨(mpijangajanga)⟩, ary nanesorany ⟨את⟩ ny sampy rehetra izay nataon'ny razany.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Ary nesoriny"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ny olona masina ⟨(mpijangajanga)⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "Ary nanesorany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny sampy rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "sampy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nataon'ny"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "razany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:46:31.589862973Z",
+  "model": "glm-5.3"
+}

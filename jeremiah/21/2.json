@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 21:2",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "\"Anontanio azafady amin'ny lafiny, tadiavo azafady ⟨את⟩ Yahveh ho antsika, fa Nebukadnetsara mpanjakan'i Bavel miady amintsika; angamba hanao amintsika Yahveh araka ny fahagagany rehetra ⟨את⟩, ka handroaka azy hiala amintsika.\"",
+  "tokens": [
+    {
+      "surface": "דרש",
+      "gloss": "tadiavo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "בעדנו",
+      "gloss": "ho antsika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nebukadnetsara"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'i"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "miady"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "amintsika"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "angamba"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אותנו",
+      "gloss": "amintsika ⟨את⟩"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "araka ny fahagagany rehetra"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "fahagagany"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "ka hanandraika"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "hiala amintsika"
+    }
+  ],
+  "timestamp": "2026-08-31T15:32:10.117283422Z",
+  "model": "glm-5.3"
+}

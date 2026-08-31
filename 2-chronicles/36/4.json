@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 36:4",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Ary ny mpanjakan'i Mitsrayim nampanjaka ⟨את⟩ Elyakim rahalahiny tamin'i Yehuda sy Yeroshalayim, ary nanova ⟨את⟩ ny anarany ho Yehoyakim; ary ⟨את⟩ Yoahaza rahalahiny nalain'i Neko ka nentiny ho any Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "nampanjaka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "rahalahiny"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "sy Yeroshalayim"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "nanova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anarany"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yoahaza"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "Yoahaza"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "rahalahiny"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nalain'i"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "Neko"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "nentiny"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "ho any Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T18:21:02.731336958Z",
+  "model": "glm-5.3"
+}

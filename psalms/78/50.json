@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Nanitsy lalana ho an'ny fahatezerany izy; tsy nanavany amin'ny fahafatesana ny ainy, fa ny fiainany natolotra tamin'ny aretina miteraka.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "Nanitsy"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "ho an'ny fahatezerany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "nanavany"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "amin'ny fahafatesana"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ny ainy"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "fa ny fiainany"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "tamin'ny aretina miteraka"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "natolotra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:00.743225358Z",
+  "model": "glm-5.3"
+}

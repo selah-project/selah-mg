@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Ary raha mamely azy amin'ny fanafody vy izy ka maty, dia mpamono izy; ny mpamono dia maty tokoa no hampiamaty azy.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ary raha"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "amin'ny fanafody"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "vy"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "mamely azy"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ka maty"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "mpamono"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maty tokoa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "no hampiamaty azy"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ny mpamono"
+    }
+  ],
+  "timestamp": "2026-08-31T13:38:45.798745964Z",
+  "model": "glm-5.3"
+}

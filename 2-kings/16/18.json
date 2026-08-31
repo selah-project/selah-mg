@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 16:18",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary ⟨את⟩ ny efitra misaronana amin'ny Sabata izay norakin'ireo tao an-trano, ary ⟨את⟩ fidirana ivelan'ny mpanjaka, nampihodina avy tamin'ny tranon'i Yahveh noho ny mpanjakan'i Ashora.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny efitra misaronana amin'ny Sabata"
+    },
+    {
+      "surface": "מיסך",
+      "gloss": "efitra misaronana"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sabata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "norakin'ireo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "tao an-trano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "fidirana ivelan'ny mpanjaka"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "fidirana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "ivelany"
+    },
+    {
+      "surface": "הסב",
+      "gloss": "nampihodina"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "noho ny"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashora"
+    }
+  ],
+  "timestamp": "2026-08-31T18:05:17.269467277Z",
+  "model": "glm-5.3"
+}

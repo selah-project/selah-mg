@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Arahabo ny didiko ka ataovy ireo: Izaho no Yahveh, Izaho manamasina anareo.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Arahabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny didiko"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ny didiko"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ka ataovy"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ireo",
+      "marks": "ireo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "manamasina anareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:18:51.836062899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Napetrany ho tompon'ny tranony izy, ary ho mpanapaka amin'ny fananany rehetra.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "napetrany"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ho tompo"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ny tranony"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ary ho mpanapaka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "fananany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:26.180026528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary misy toerana ho anao ivelan'ny toby, ka hivoaka any ivelany ianao.",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "toerana"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "misy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ivelan'ny"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "toby"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "hivoaka ianao"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "any"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ivelany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:49:00.089186126Z",
+  "model": "glm-5.3"
+}

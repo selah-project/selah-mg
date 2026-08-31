@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Dia hitany fa nihazona mafy izy handroso ⟨את⟩ ⟨aminazy⟩, ka nitsahatra ny niteny taminy izy.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Dia hitany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "nihazona mafy"
+    },
+    {
+      "surface": "היא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "handroso"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "aminazy"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "ka nitsahatra"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ny niteny"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "tamininy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:12:23.742420799Z",
+  "model": "glm-5.3"
+}

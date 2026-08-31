@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Izay mandrobika ny rainy sy ny reniny ka milaza hoe tsy misy heloka, dia mpiara-miasa amin'ny lehibe mpanimba izy.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "mandrobika"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ny rainy"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "sy ny reniny"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ka milaza hoe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "heloka"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "mpiara-miasa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "amin'ny lehibe"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "mpanimba"
+    }
+  ],
+  "timestamp": "2026-08-31T16:57:37.932490772Z",
+  "model": "glm-5.3"
+}

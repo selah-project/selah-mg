@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Ary nidina ny rahalahin'i Yosef folo lahy hiidy vary avy any Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Ary nidina"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ny rahalahin'i"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "folo lahy"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "hiidy"
+    },
+    {
+      "surface": "בר",
+      "gloss": "vary"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "avy any Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T12:50:48.124248047Z",
+  "model": "glm-5.3"
+}

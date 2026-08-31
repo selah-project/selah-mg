@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary nony afaka izay dia maty i Nahash, mpanjakan'ny zanak'i Ammon, ary ny zanany nanjaka nandimby azy.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary nony afaka izay"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "aorian'ny"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izay"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dia maty"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "i Nahash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ary nanjaka"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "nandimby azy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:39:45.798943261Z",
+  "model": "glm-5.3"
+}

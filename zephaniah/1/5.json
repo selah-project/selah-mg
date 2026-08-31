@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary ⟨את⟩ izay miankohoka eo ambonin'ny tampon-trano manoloana ny tafiky ny lanitra, sy ⟨את⟩ izay miankohoka sy mianiana amin'i Yahveh, ary mianiana amin'i Malkama",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izay miankohoka"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "izay miankohoka"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambonin'ny"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "tampon-trano"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "manoloana ny tafiky"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "izay miankohoka sy mianiana"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "izay miankohoka"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "mianiana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "amin'i Yahveh"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "ary mianiana"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "amin'i Malkama"
+    }
+  ],
+  "timestamp": "2026-08-31T16:18:02.994624305Z",
+  "model": "glm-5.3"
+}

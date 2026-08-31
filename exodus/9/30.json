@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Fa ianao sy ny mpanomponao, fantatro fa mbola tsy matahotra ianareo eo anoloan'i Yahveh Elohim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Fa ianao"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "sy ny mpanomponao"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "fantatro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "mbola tsy"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "matahotra ianareo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "eo anoloan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:17.307293323Z",
+  "model": "glm-5.3"
+}

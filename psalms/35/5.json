@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Ho tonga ⟨ho⟩ toy ny tsimparifary eo anoloan'ny rivotra izy ireo, ary ny irakan'i Yahveh manery azy.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ho tonga izy ireo"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "toy ny tsimparifary"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anoloan'ny"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rivotra"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "ary ny iraka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "manery azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:15.780708062Z",
+  "model": "glm-5.3"
+}

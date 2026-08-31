@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Dia nahafolo ⟨את⟩ an'i Baala tamin'ny Isiraely Yehu.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "Dia nahafolo"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Baala"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "i Baala"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "tamin'ny Isiraely"
+    }
+  ],
+  "timestamp": "2026-08-31T14:55:28.786554950Z",
+  "model": "glm-5.3"
+}

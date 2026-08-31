@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Efa nanota miaraka amin'ny razantsika izahay; efa nanao tsy marina, efa nanao ratsy.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "ef a nanota"
+    },
+    {
+      "surface": "עם",
+      "gloss": "miaraka amin'ny"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "razantsika"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "ef a nanao tsy marina"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "ef a nanao ratsy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:44.010087249Z",
+  "model": "glm-5.3"
+}

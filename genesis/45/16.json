@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 45:16",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 45,
+  "translation": "Ary ny vaovao dia ren'ny tao an-tranon'i Parao hoe: Tonga ny rahalahin'i Yoshefa; ary dia tsara tamin'ny mason'i Parao izany sy tamin'ny mason'ny mpanompony.",
+  "tokens": [
+    {
+      "surface": "והקל",
+      "gloss": "ary ny vaovao"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ren'ny"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "באו",
+      "gloss": "Tonga"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ny rahalahin'i"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yoshefa"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "tamin'ny mason'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "sy tamin'ny mason'ny"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "mpanompony"
+    }
+  ],
+  "timestamp": "2026-08-31T12:52:04.475092261Z",
+  "model": "glm-5.3"
+}

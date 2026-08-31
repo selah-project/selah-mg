@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Nahoana no nisy lampivoana niandry ahy? Ary nahoana no nisy nondry, fa mita?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Nahoana"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "niandry ahy"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "lampivoana"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Ary nahoana"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "nondry"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "mita"
+    }
+  ],
+  "timestamp": "2026-08-31T18:15:49.913565714Z",
+  "model": "glm-5.3"
+}

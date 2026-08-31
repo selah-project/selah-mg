@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 15:2",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary izy nivoaka teo anatrehan'i Asa ka nanao taminy hoe: Mihainoa ahy, ry Asa sy Joda rehetra sy Binjamina; Yahveh dia eo aminareo raha ianareo eo Aminy; ary raha mitady Azy ianareo, hahita Azy ianareo; fa raha mahafoy Azy ianareo, hamela anareo Izy ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ary izy nivoaka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anatrehan'i"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tamininy"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "hoe: Mihainoa ahy"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ry Asa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ... rehetra"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Joda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "sy Binjamina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "eo aminareo"
+    },
+    {
+      "surface": "בהיותכם",
+      "gloss": "raha ianareo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "eo Aminy"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ary raha"
+    },
+    {
+      "surface": "תדרשהו",
+      "gloss": "mitady Azy ianareo"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "hahita"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ianareo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "fa raha"
+    },
+    {
+      "surface": "תעזבהו",
+      "gloss": "mahafoy Azy ianareo"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "hamela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:46:38.218525532Z",
+  "model": "glm-5.3"
+}

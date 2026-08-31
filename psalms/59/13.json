@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 59,
+  "translation": "Ota avy amin'ny vavany, teny avy amin'ny molony — aoka ho tratra ao amin'ny fiavonavonany izy, ary amin'ny ozona sy fitaka no hitantarany.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "ota"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "avy amin'ny vavany"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "teny"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "avy amin'ny molony"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "aoka ho tratra"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "ao amin'ny fiavonavonany"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "ary amin'ny ozona"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "sy fitaka"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "no hitantarany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:04.551578326Z",
+  "model": "glm-5.3"
+}

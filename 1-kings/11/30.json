@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary norobain'i Ahiya ilay akanjo vaovao tamin'ny tenany, ka nasiainy ho tapaka roa ambin'ny folo.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "norobain'i"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahiya"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "tamin'ny akanjo"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "vaovao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "tamin'ny tenany"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "ka nasiainy"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "roa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ambin'ny folo"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "ho tapaka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:44:53.389906627Z",
+  "model": "glm-5.3"
+}

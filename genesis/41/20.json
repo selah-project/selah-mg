@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Ary ny omby vaviny manja sy ratsy dia nanelingelina ⟨את⟩ ny omby vaviny fito voalohany, izay matavy.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "nanelingelina"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "ny omby vaviny"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "manja"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "sy ratsy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny omby vaviny fito voalohany"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "fito"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "omby vaviny"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "voalohany"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "matavy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:50:08.005353871Z",
+  "model": "glm-5.3"
+}

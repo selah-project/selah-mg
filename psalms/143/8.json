@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 143:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 143,
+  "translation": "Ampandroso ahoy hiretena ny hesednao indrindra maraina; fa aminao no itokianako. Ampahafantaro ahoy ny lalana halehako, fa aminao no nanandrahako ny aiko.",
+  "tokens": [
+    {
+      "surface": "השמיעני",
+      "gloss": "ampandroso ahoy hiretena"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "indrindra maraina"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ny hesednao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "no itokianako"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "ampahafantaro ahoy"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "זו",
+      "gloss": "halehako"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "haleha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "nanandrahako"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:17.057038637Z",
+  "model": "glm-5.3"
+}

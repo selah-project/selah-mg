@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 91,
+  "translation": "Tsy hatahotrao ny fampitahorana amin'ny alina, na ny zana-tsipìka mandidina amin'ny antoandro;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "hatahotrao"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ny fampitahorana"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "amin'ny alina"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ny zana-tsipìka"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "mandidina"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "amin'ny antoandro"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:23.847437433Z",
+  "model": "glm-5.3"
+}

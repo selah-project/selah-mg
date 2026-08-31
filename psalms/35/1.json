@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "An'i Davida. Mifanandara, Yahveh, ⟨את⟩ ny mpanohitra ahy; miady ⟨את⟩ izay miady amiko.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "An'i Davida"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "Mifanandara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanohitra ahy"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "ny mpanohitra ahy"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "miady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay miady amiko"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "izay miady amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:36.408697653Z",
+  "model": "glm-5.3"
+}

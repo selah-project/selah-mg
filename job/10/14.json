@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 10:14",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Raha manota aho, dia mirafo ahy ianao, ary tsy hanala tsiny ahy amin'ny fahadisoako.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "manota aho"
+    },
+    {
+      "surface": "ושמרתני",
+      "gloss": "dia mirafo ahy ianao"
+    },
+    {
+      "surface": "ומעוני",
+      "gloss": "amin'ny fahadisoako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תנקני",
+      "gloss": "hanala tsiny ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:01:23.281026575Z",
+  "model": "glm-5.3"
+}

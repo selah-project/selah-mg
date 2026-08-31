@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 94:19",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 94,
+  "translation": "Amin'ny be dia be ny saina miahiaha ato anatiko, ny fampiononanao no mampifaly ny aiko.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "Amin'ny be dia be"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "saina miahiaha"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ato anatiko"
+    },
+    {
+      "surface": "תנחומיך",
+      "gloss": "fampiononanao"
+    },
+    {
+      "surface": "ישעשעו",
+      "gloss": "mampifaly"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:21.983944091Z",
+  "model": "glm-5.3"
+}

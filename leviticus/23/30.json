@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 23:30",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary nefesh rehetra izay hanao asa na inona na inona amin'izay andro momba izy, dia izay nefesh izay dia hosimbako avy amin'ny afovoan'ny fireneny.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ary ... rehetra"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "na inona na inona"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "asa"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "amin'izay andro momba"
+    },
+    {
+      "surface": "היום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "izy"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "dia hosimbako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay nefesh izay"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izay ... izay"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "avy amin'ny afovoan'ny"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "fireneny"
+    }
+  ],
+  "timestamp": "2026-08-31T13:21:18.873238775Z",
+  "model": "glm-5.3"
+}

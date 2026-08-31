@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 12:13",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary Moshe nikiakiaka tamin'i Yahveh ka nanao hoe: El ⟨azafady⟩ sitranao azafady izy.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "nikiakiaka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨azafady⟩"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "sitrano"
+    },
+    {
+      "surface": "נא",
+      "gloss": "azafady"
+    },
+    {
+      "surface": "לה",
+      "gloss": "izy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:28:42.982527572Z",
+  "model": "glm-5.3"
+}

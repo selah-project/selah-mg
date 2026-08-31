@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Aoka hiaina ny ainaiko, ary hidera anao ⟨ihany⟩, ary ny fitsaranao hanelanela ahy.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "aoka hiaina"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny ainaiko"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "ary hidera anao"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "ary ny fitsaranao"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "hanelanela ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:31.451603571Z",
+  "model": "glm-5.3"
+}

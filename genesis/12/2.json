@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary hataoko anao ho firenena lehibe, ary hotsoahan-tsoa anao Aho, ary habeiko ny anaranao, ary ho tsodrano ianao.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "Ary hataoko anao"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ho firenena"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "ary hotsoahan-tsoa anao"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "ary habeiko"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ny anaranao"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ary ho"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "tsodrano"
+    }
+  ],
+  "timestamp": "2026-08-31T12:38:03.249481303Z",
+  "model": "glm-5.3"
+}

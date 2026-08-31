@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary ianareo tandremo hanao araka izay nandidian'i Yahveh, Elohinareo, ananareo ⟨את⟩; aza mivily ho amin'ny havanana na ho amin'ny ankavia.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Ary tandremo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka izay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidian'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ianareo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "mivily"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "havanana"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "na ankavia"
+    }
+  ],
+  "timestamp": "2026-08-31T13:41:47.577953661Z",
+  "model": "glm-5.3"
+}

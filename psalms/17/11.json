@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ny fivakianay izao no nanodidianany ahy; ny masony napetrany hampidina ⟨azy⟩ amin'ny tany.",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "ny fivakianay"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "izao"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "nanodidianany ahy"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ny masony"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "napetrany"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "hampidina"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "amin'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:59.674957806Z",
+  "model": "glm-5.3"
+}

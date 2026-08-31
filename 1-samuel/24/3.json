@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary nalain'i Shaol telo arivo lehilahy voafidy tamin'ny Isiraely rehetra, ka lasa nitady ⟨את⟩ an'i Davida sy ny olony teny an-dalamin'ny vatoharan'ny osy gisa.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Ary nalain'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "telo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "arivo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "voafidy"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "tamin'ny ... rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ka lasa"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "nitady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Davida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "sy ny olony"
+    },
+    {
+      "surface": "על",
+      "gloss": "teny"
+    },
+    {
+      "surface": "פני",
+      "gloss": "an-dalamin'"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "vatoharan'"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "ny osy gisa"
+    }
+  ],
+  "timestamp": "2026-08-31T14:24:24.132918214Z",
+  "model": "glm-5.3"
+}

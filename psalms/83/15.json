@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 83,
+  "translation": "Toy ny afo mirehitra mandevona ny ala, ary toy ny lela-masofo manafana ny tendrombohitra,",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "toy ny afo"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "mirehitra mandevona"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ala"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "ary toy ny lela-masofo"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "manafana"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "tendrombohitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:10.084764852Z",
+  "model": "glm-5.3"
+}

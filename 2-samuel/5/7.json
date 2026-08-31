@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary Davida nahafatra ⟨את⟩ ny toby mimanda an'i Ziona; izy no tanànan'i Davida.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Ary nahafatra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny toby mimanda"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "toby mimanda"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "an'i Ziona"
+    },
+    {
+      "surface": "היא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tanànan'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    }
+  ],
+  "timestamp": "2026-08-31T14:30:53.089056389Z",
+  "model": "glm-5.3"
+}

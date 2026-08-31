@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Yahveh mamono sy mahavelona, mandina any amin'ny Sheol ary mampakatra.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "mamono"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "sy mahavelona"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "mandina any amin'ny"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ary mampakatra"
+    }
+  ],
+  "timestamp": "2026-08-31T14:14:32.673485474Z",
+  "model": "glm-5.3"
+}

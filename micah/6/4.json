@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Fa nahakatra anao avy tany amin'ny tanin'i Mitsrayim Aho, ary avy tao an-tranon'ny andevo no nanavotako anao, ary naniraka teo anoloanao ⟨את⟩ an'i Moshe sy Aharon sy Miriama Aho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "nahakatra anao"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "avy tany amin'ny tanin'i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "ary avy tao an-tranon'ny"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "andevo"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "no nanavotako anao"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "ary naniraka"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "teo anoloanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Moshe sy Aharon sy Miriama"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "sy Miriama"
+    }
+  ],
+  "timestamp": "2026-08-31T16:16:10.979453562Z",
+  "model": "glm-5.3"
+}

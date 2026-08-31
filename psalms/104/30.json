@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 104,
+  "translation": "Mandefa ny rivotrao ⟨ianao⟩ dia voaforina izy ⟨ireo⟩; ary manavao ny tavan'ny tany ⟨ianao⟩.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "Mandefa"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ny rivotrao"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "voaforina"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "ary manavao"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ny tavany"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:16.808309514Z",
+  "model": "glm-5.3"
+}

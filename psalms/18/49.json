@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 18:49",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Izay mpanafaka ahy amin'ny fahavaloko, eny, manandratra ahy ambonin'ny mpioko ianao, manafaka ahy amin'ny lehilahy mpandainga-hery ianao.",
+  "tokens": [
+    {
+      "surface": "מפלטי",
+      "gloss": "mpanafaka ahy"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "amin'ny fahavaloko"
+    },
+    {
+      "surface": "אף",
+      "gloss": "eny"
+    },
+    {
+      "surface": "מן",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "mpioko"
+    },
+    {
+      "surface": "תרוממני",
+      "gloss": "manandratra ahy"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "mpandainga-hery"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "manafaka ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:07.413081636Z",
+  "model": "glm-5.3"
+}

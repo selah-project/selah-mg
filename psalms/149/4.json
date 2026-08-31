@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 149,
+  "translation": "Fa Yahveh tia ny olony; manopy hasina ny fanahy manetriketrika amin'ny famonjena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "tia"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "ny olony"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "manopy hasina"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ny fanahy manetriketrika"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "amin'ny famonjena"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:56.210166636Z",
+  "model": "glm-5.3"
+}

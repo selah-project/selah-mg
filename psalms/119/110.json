@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Nametraka fanipihana ho ahy ny meloka, fa tsy nivily tamin'ny didinao aho.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "nametraka"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ny meloka"
+    },
+    {
+      "surface": "פח",
+      "gloss": "fanipihana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "fa ... tamin'ny didinao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "nivily"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:44.661864667Z",
+  "model": "glm-5.3"
+}

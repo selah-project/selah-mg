@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 90,
+  "translation": "Amin'ny maraina mamony ka mandalo; amin'ny hariva voatapaka ka maina.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "amin'ny maraina"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "mamony"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "ka mandalo"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "amin'ny hariva"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "voatapaka"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ka maina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:22.404674750Z",
+  "model": "glm-5.3"
+}

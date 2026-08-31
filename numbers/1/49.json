@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Fa ny foko Levi ihany no aza isaina: ⟨את⟩ ny foko Levi aza hotanisaina, ary ⟨את⟩ isan'ireo aza halaina, eo ambanin'ny zanak'i Yisraela.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "fa... ihany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny foko Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "foko"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "hotanisaina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isan'ireo"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "isan'ireo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "halaina"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "eo ambanin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    }
+  ],
+  "timestamp": "2026-08-31T13:23:06.606981531Z",
+  "model": "glm-5.3"
+}

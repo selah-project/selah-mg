@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary hananatra azy ⟨את⟩ ⟨את⟩ ny lalàna ary ⟨את⟩ ny tora-lalàna ianao, ary hampahalala azy ⟨את⟩ ny lalana halehany sy ⟨את⟩ ny asa hataony.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "Ary hananatra"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lalàna"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ny lalàna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tora-lalàna"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "ny tora-lalàna"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "ary hampahalala"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lalana"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ny lalana"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "halehany"
+    },
+    {
+      "surface": "בה",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny asa"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ny asa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "hataony"
+    }
+  ],
+  "timestamp": "2026-08-31T13:01:39.125187841Z",
+  "model": "glm-5.3"
+}

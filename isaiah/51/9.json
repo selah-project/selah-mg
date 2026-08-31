@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 51:9",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "Mifoha, mifoha, miakanjo hery, ry tanana Yahveh; mifoha, tahaka ny andro fahiny, amin'ny taranaka mandrakizay. Tsy ianao va no ilay nanapaka an-dRahab, ilay nanafina taninina?",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "Mifoha"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "mifoha"
+    },
+    {
+      "surface": "לבשי",
+      "gloss": "miakanjo"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hery"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ry tanana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "mifoha"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "tahaka ny andro"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "fahiny"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "amin'ny taranaka"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Tsy ... va"
+    },
+    {
+      "surface": "את",
+      "gloss": "ianao",
+      "marks": "hijoro ho mpandray an-dRahab sy ny taninina"
+    },
+    {
+      "surface": "היא",
+      "gloss": "no ilay"
+    },
+    {
+      "surface": "המחצבת",
+      "gloss": "nanapaka"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "מחוללת",
+      "gloss": "nanafina"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "taninina"
+    }
+  ],
+  "timestamp": "2026-08-31T15:18:36.009269080Z",
+  "model": "glm-5.3"
+}

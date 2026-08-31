@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary hataon'i Yahveh azy ireo izay nataony tamin'i Sihona sy tamin'i Oga, mpanjakan'ny Amorita, sy ny taniny, izay nopotehiny.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "hataon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy ireo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "tamin'i Sihona"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "sy tamin'i Oga"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mpanjakan'ny"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorita"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "sy ny taniny"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "nopotehiny"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:53:06.188841681Z",
+  "model": "glm-5.3"
+}

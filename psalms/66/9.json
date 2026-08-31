@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 66,
+  "translation": "Izay mametra ny fanahinay amin'ny fiainana, ary tsy mandray ny hivily ny tongotray.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "mametra"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ny fanahinay"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "amin'ny fiainana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "mandray"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "ny hivily"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "tongotray"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:42.386916916Z",
+  "model": "glm-5.3"
+}

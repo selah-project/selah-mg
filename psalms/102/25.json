@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 102,
+  "translation": "Hoy izaho: El-iko, aza mampiakatra ahy eo amin'ny antsasaky ny androko; amin'ny taranaka mandimby no ny taonanao.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Hoy izaho"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El-iko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "mampiakatra ahy"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "eo amin'ny antsasaky"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ny androko"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "amin'ny taranaka"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "mandimby"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "ny taonanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:46.370749248Z",
+  "model": "glm-5.3"
+}

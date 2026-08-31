@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Fa izy sy ny razantsika dia niavonavona, nampahatrapy ⟨את⟩ vozon'izy ireo ka tsy nihaino ny didinao.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Fa izy"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "sy ny razantsika"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "niavonavona"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "nampahatrapy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vozon'izy ireo"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "vozon'izy ireo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nihaino"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ny didinao"
+    }
+  ],
+  "timestamp": "2026-08-31T17:31:44.608591874Z",
+  "model": "glm-5.3"
+}

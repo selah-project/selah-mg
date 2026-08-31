@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 8:3",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary Aharon nanao izany: teo anoloan'ny face ny menorah no nanandrahany ny jirony, araka ny nandidian'i Yahveh an'i ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "teo"
+    },
+    {
+      "surface": "מול",
+      "gloss": "anoloan'ny"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "menorah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "no nanandrahany"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ny jirony"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "araka ny"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "nandidian'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-31T13:28:06.822420151Z",
+  "model": "glm-5.3"
+}

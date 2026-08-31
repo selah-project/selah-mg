@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Hatahotra an'i Yahveh ny tany rehetra; ho lefitra aminy ny mponina rehetra amin'izao tontolo izao.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "Hatahotra"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ho lefitra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ny mponina"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "amin'izao tontolo izao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:55.189335917Z",
+  "model": "glm-5.3"
+}

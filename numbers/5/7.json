@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 5:7",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "dia hanao fanekena izy ⟨את⟩ ny otany izay nataony, ary hamerina ny oniny amin'ny tokony ho azy, ary hanampy ny fahadimy aminy ho ankoatra izy, ary hanome izany ho an'ilay meloka taminy.",
+  "tokens": [
+    {
+      "surface": "וידודו",
+      "gloss": "hanao fanekena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny otany"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "otany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "hamerina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny oniny"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "oniny"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "amin'ny tokony ho azy"
+    },
+    {
+      "surface": "וחמישתו",
+      "gloss": "ny fahadimy aminy"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "hanampy"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ankoatra"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "hanome"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "ho an'ilay"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "meloka taminy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-08-31T13:25:57.001411069Z",
+  "model": "glm-5.3"
+}

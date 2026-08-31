@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary Sheba fianjerana ⟨את⟩ azy, ka lasany; ary ⟨את⟩ ny zatovo dia nodorain'ny lelan-tsabatra; ary izaho monja, ireryanko, no afaka hitory aminao.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "fianjerana"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "lasany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ny omby sy ny boriky)"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "ny zatovo"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "nodorain'ny"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "lelan-"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabatra"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "no afaka"
+    },
+    {
+      "surface": "רק",
+      "gloss": "monja"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ireryanko"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "hitory"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T19:14:15.224054492Z",
+  "model": "glm-5.3"
+}

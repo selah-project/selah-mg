@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 50,
+  "translation": "Tsy noho ny fanatitrao no ananako teny aminao, ary ny fanatitra doranao dia eo anatrehako mandrakariva.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "ny fanatitrao"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "no ananako teny aminao"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "ary ny fanatitra doranao"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "eo anatrehako"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mandrakariva"
+    }
+  ],
+  "timestamp": "2026-08-31T16:30:35.618533335Z",
+  "model": "glm-5.3"
+}

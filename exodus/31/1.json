@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 31:1",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary Yahveh niresaka tamin'i Moshe hanao hoe:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "niresaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hanao hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T13:06:35.455004777Z",
+  "model": "glm-5.3"
+}

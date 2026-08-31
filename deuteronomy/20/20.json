@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 20:20",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Fa ny hazo izay fantatrao fa tsy hazo hanina ⟨izy⟩ ihany no hosimbanao sy hoteztezinao, dia hanamboaranao fahirano manoloana ny tanàna izay ⟨izy⟩ miady ady aminao, mandra-pahalavoanao azy.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Fa ... ihany"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "fantatrao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "hanina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨izy⟩"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ zy",
+      "marks": "ny hazo tsy misy hanina"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "hosimbanao"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "sy hoteztezinao"
+    },
+    {
+      "surface": "ובנית",
+      "gloss": "hanamboaranao"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "fahirano"
+    },
+    {
+      "surface": "על",
+      "gloss": "manoloana"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ny tanàna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨izy⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "miady"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ady"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "רדתה",
+      "gloss": "pahalavoanao azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:47:39.932905916Z",
+  "model": "glm-5.3"
+}

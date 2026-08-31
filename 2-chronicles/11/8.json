@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "sy ⟨את⟩ Gata sy ⟨את⟩ Maresha sy ⟨את⟩ Zifa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Gata"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Maresha"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Maresha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Zifa"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zifa"
+    }
+  ],
+  "timestamp": "2026-08-31T17:44:44.367191140Z",
+  "model": "glm-5.3"
+}

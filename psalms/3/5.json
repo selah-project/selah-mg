@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ny feoko manatrika an'i Yahveh miantso aho, ka namaly ahy Izy avy amin'ny tendrombohitra masinany ⟨Izy⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "ny feoko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "manatrika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "miantso aho"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "ka namaly ahy Izy"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "avy amin'ny tendrombohitra"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "masinany"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:04.981383963Z",
+  "model": "glm-5.3"
+}

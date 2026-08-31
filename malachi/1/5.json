@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 1:5",
+  "book": "malachi",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ny masonareo hahita ⟨izany⟩, ary hianareo holaza hoe: Mahalehibe i Yahveh mihoatra ny farihin'i Yisraela.",
+  "tokens": [
+    {
+      "surface": "ועיניכם",
+      "gloss": "ary ny masonareo"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "hahita"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ary hianareo"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "holaza"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "Mahalehibe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "mihoatra"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "ny farihin'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:13.999167511Z",
+  "model": "glm-5.3"
+}

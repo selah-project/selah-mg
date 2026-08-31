@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 26:5",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary hitsahy hiteny ianao eo anatrehan'i Yahveh Elohimina hoe: Arameana mpandeha any dia ny razako, ary nidina tany Mitsrayim izy ary nivahiny tany mbamin'ny faty vitsy, ka tonga firenena lehibe, mahery sy be tany.",
+  "tokens": [
+    {
+      "surface": "וענית",
+      "gloss": "hitsahy hiteny"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "hanao hoe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anatrehan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimina"
+    },
+    {
+      "surface": "ארמי",
+      "gloss": "Arameana"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "mpandeha any"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ny razako"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "nidina"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "tany Mitsrayim"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "nivahiny"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tany"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "mbamin'ny faty"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "vitsy"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tany"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "sy be"
+    }
+  ],
+  "timestamp": "2026-08-31T13:49:12.310558813Z",
+  "model": "glm-5.3"
+}

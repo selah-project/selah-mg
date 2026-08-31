@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Elohim re izany ka tezitra indrindra, ary nanevi-tena mafy tamin'i Yisraela Izy.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "re"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "ka tezitra indrindra"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "ary nanevi-tena"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mafy"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "tamin'i Yisraela"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:31.633867477Z",
+  "model": "glm-5.3"
+}

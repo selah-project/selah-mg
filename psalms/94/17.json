@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 94,
+  "translation": "Raha tsy Yahveh no nanampy ahy, sahalahatra ny aiko no hipetraka ao amin'ny fahanginana.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "Raha tsy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "fanampiana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "sahalahatra"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "hipetraka"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "fahanginana"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:21.982869983Z",
+  "model": "glm-5.3"
+}

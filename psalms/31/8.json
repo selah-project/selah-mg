@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Hiravoravo sy hifaly amin'ny hesed-nao aho, satria efa nahita ⟨את⟩ ny fahoriako ianao; efa nahalala ny fanahiko amin'ny fahoriana ianao.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "Hiravoravo"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "sy hifaly"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "amin'ny hesed-nao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "satria"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "efa nahita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahoriako"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ny fahoriako"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "efa nahalala"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "amin'ny fahorian'ny"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "fanahiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:38.797928815Z",
+  "model": "glm-5.3"
+}

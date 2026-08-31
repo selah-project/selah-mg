@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 36:21",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Dia nangina izy ka tsy namaly azy teny akory, fa didin'ny mpanjaka no nanao azy hoe: Aza mamaly azy.",
+  "tokens": [
+    {
+      "surface": "ויחרישו",
+      "gloss": "Dia nangina izy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "namaly"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "notes": null
+    },
+    {
+      "surface": "דבר",
+      "gloss": "teny akory"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "didin'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "היא",
+      "gloss": "no nanao azy"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "mamaly azy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:12:07.961044402Z",
+  "model": "glm-5.3"
+}

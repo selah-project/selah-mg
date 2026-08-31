@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 16:9",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary hoy ny irak'i Yahveh taminy: Miverena amin'ny tomponao, ka manetry tena ambanin'ny tànany.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ary hoy"
+    },
+    {
+      "surface": "לה",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ny iraka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "miverena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "גברתך",
+      "gloss": "tomponao"
+    },
+    {
+      "surface": "והתעני",
+      "gloss": "ka manetry tena"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ambanin'ny"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "tànany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:39:33.607734522Z",
+  "model": "glm-5.3"
+}

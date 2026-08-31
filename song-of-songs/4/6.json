@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 4:6",
+  "book": "song-of-songs",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Mandra-piposahan'ny andro sy mandra-pandositra ny aloka, handeha ho ahy ho any amin'ny tendrombohitra myrra sy ho any amin'ny havoanan'ny frankinsensa.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "mandra-piposahan'ny"
+    },
+    {
+      "surface": "שיפוח",
+      "gloss": "posahan'ny"
+    },
+    {
+      "surface": "היום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "sy mandra-pandositra"
+    },
+    {
+      "surface": "הצללים",
+      "gloss": "aloka"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "handeha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "המור",
+      "gloss": "myrra"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sy ho any amin'ny"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "havoanan'ny"
+    },
+    {
+      "surface": "הלבונה",
+      "gloss": "frankinsensa"
+    }
+  ],
+  "timestamp": "2026-08-31T17:10:40.181102139Z",
+  "model": "glm-5.3"
+}

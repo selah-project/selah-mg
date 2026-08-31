@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary nantantory izy ⟨את⟩ an'i Haman tamin'ilay hazo izay namboariny ho an'i Mordekay; dia nitalaho ny fahatezeran'ny mpanjaka.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "nantantory izy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ilay"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "namboariny"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "ho an'i Mordekay"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "dia ny fahatezeran'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "nitalaho"
+    }
+  ],
+  "timestamp": "2026-08-31T17:19:11.054337987Z",
+  "model": "glm-5.3"
+}

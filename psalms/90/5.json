@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 90,
+  "translation": "Notsindraninao tamin'ny tondra-drano izy; hoatra ny torimaso izy; amin'ny maraina dia toy ny ahitra mamony mandalo.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "notondrahanao tamin'ny tondra-drano"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "torimaso"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "izy"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "amin'ny maraina"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "toy ny ahitra"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "mandalo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:22.404453545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Yahveh, Adonainay, firy no mahaleo ny anaranao amin'ny tany rehetra, izay nataonao ny voninahitrao ambonin'ny lanitra ⟨⟨⟩⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonainay"
+    },
+    {
+      "surface": "מה",
+      "gloss": "firy"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "mahaleo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ny anaranao"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "nataonao"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ny voninahitrao"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "lanitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:36.650020827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary nalainy ⟨את⟩ ny vavolombelona ka nataony ⟨את⟩ tao anaty ny fiara, napetrany ⟨את⟩ ny tsorakazo teo ambony ny fiara, ary napetrany ⟨את⟩ ny satroboninahitra fanavotana teo ambony ny fiara, avy ambony.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "nalainy"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vavolombelona"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ny vavolombelona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tao anaty"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ny fiara"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "napetrany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tsorakazo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ny tsorakazo"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo ambony"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ny fiara"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "napetrany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny satroboninahitra fanavotana"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ny satro-boninahitra fanavotana"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo ambony"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ny fiara"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "avy ambony"
+    }
+  ],
+  "timestamp": "2026-08-31T13:10:57.004978405Z",
+  "model": "glm-5.3"
+}

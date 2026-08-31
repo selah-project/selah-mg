@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "malachi 3:11",
+  "book": "malachi",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary hananatra ilay mpifandringina ho anareo Aho, ka tsy handrava ⟨את⟩ ny vokatr'⟨ny⟩ tany ho anareo; ary tsy hanary ny voa aminareo ny voalavo any an-tsaha, hoy Yahveh Tsevaot.",
+  "tokens": [
+    {
+      "surface": "וגערתי",
+      "gloss": "hananatra Aho"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "באכל",
+      "gloss": "ilay mpifandringina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ka tsy"
+    },
+    {
+      "surface": "ישחת",
+      "gloss": "handrava"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vokatra"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "vokatra"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "hanary ny voa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aminareo"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "ny voalavo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "any an-tsaha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-08-31T18:13:17.788471350Z",
+  "model": "glm-5.3"
+}

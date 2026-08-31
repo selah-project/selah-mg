@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary ⟨⟨ny⟩⟩ fototra dia vato sarobidy, vato lehibe, vato folo hatio, sy vato valo hatio.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "Ary ny fototra"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "vato"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "sarobidy"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "vato"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "vato"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "folo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hatio"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "sy vato"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "valo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "hatio"
+    }
+  ],
+  "timestamp": "2026-08-31T18:31:39.912623161Z",
+  "model": "glm-5.3"
+}

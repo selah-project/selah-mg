@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Ny hazo rehetrao sy ny vokatry ny taninao no hovelaran'ny ⟨valalabe⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetrao"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "ny hazo"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "sy ny vokatra"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ny taninao"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "no hovelaran'ny"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "valalabe"
+    }
+  ],
+  "timestamp": "2026-08-31T13:50:36.600257642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 49,
+  "translation": "Indro, eo amin'ny tanako no efa nosisinaho anao; ny mandafi-mandanyo dia eo anatrehako mandrakariva.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "indro"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "tanako"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "efa nosisinaho anao"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "ny mandafi-mandanao"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "eo anatrehako"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mandrakariva"
+    }
+  ],
+  "timestamp": "2026-08-31T15:17:00.831711896Z",
+  "model": "glm-5.3"
+}

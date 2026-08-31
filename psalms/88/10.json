@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 88,
+  "translation": "Maso very fanaintainana noho ny fahoriana aho; niantso anao aho, ry Yahveh, isan'andro; nanerarana taminao ny tànako.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "maso"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "very fanaintainana"
+    },
+    {
+      "surface": "מני",
+      "gloss": "noho"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ny fahoriana"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "niantso anao aho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "isan'"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "nanerarana"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "taminao"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ny tànako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:00.667445929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary tonga toy izany tamin'ny; fa ny vahoaka nitsipaka ⟨את⟩ azy tao amin'ny vavahady, ka maty izy.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary tonga toy izany"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toy izany"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "fa nitsipaka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "tao amin'ny vavahady"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ka maty izy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:54:10.415972236Z",
+  "model": "glm-5.3"
+}

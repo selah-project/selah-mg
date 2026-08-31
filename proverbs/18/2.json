@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Tsy faly amin'ny fahalalana ny adala, fa amin'ny fampiharihariana ny fony ihany.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "faly amin'ny"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ny adala"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "ny fahalalana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ihany"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "amin'ny fampiharihariana"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ny fony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:54:20.821850780Z",
+  "model": "glm-5.3"
+}

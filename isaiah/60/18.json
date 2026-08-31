@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 60:18",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 60,
+  "translation": "Tsy ho ren'⟨olona⟩ intsony ny herisetra ao amin'ny taninao, ny fandrobana sy ny fahasimbana ao an-taninao; ary ny mandaonao antsoinao hoe Voninahitra famonjena, ary ny vavahadinao hoe Fiderana.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ho ren'⟨olona⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ny herisetra"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ao amin'ny taninao"
+    },
+    {
+      "surface": "שד",
+      "gloss": "ny fandrobana"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "sy ny fahasimbana"
+    },
+    {
+      "surface": "בגבוליך",
+      "gloss": "ao an-taninao"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "ary antsoinao hoe"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "Famonjena"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "ny mandaonao"
+    },
+    {
+      "surface": "ושעריך",
+      "gloss": "ary ny vavahadinao"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "Fiderana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:21:12.686384582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ben-Deker, tao amin'ny Makaz, sy ny Shaalbim, ary Bet-Shemesh, ary Elon-Bet-Hanan.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "zanak'i (Ben-)"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "Deker"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "tao amin'ny Makaz"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "sy ny Shaalbim"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ary ny Bet-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "ary ny Elon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Hanan"
+    }
+  ],
+  "timestamp": "2026-08-31T14:40:13.636721276Z",
+  "model": "glm-5.3"
+}

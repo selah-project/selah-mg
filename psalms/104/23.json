@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 104,
+  "translation": "Mivoaka ny olona ho amin'ny asany sy ho amin'ny fanompoany mandra-pahavaratra.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "mivoaka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "ho amin'ny asany"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "sy ho amin'ny fanompoany"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "pahavaratra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:13.478585835Z",
+  "model": "glm-5.3"
+}

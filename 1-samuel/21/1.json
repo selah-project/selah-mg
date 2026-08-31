@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary nitsangana ⟨izy⟩ ka nandeha; ary Yehonatana niditra ⟨tao⟩ an-tanàna.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "nitsangana"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ka nandeha"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ary Yehonatana"
+    },
+    {
+      "surface": "בא",
+      "gloss": "niditra"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "an-tanàna"
+    }
+  ],
+  "timestamp": "2026-08-31T14:23:58.642486820Z",
+  "model": "glm-5.3"
+}

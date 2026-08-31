@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 23:31",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Aza manao asa akory izy: lalàna mandrakizay ho an'ny taranakareo amin'ny fonenareo rehetra.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Aza manao ... akory"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "asa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "manao"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "lalàna"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "ho an'ny taranakareo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "fonenareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:21:18.873374348Z",
+  "model": "glm-5.3"
+}

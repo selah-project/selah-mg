@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Mihodina manatona ahy, ary mamindra fo amiko, fa mpitokana-monina sy mampahory aho.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "mihodina manatona"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ary mamindra fo amiko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "mpitokana-monina"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "sy mampahory"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:41.243368919Z",
+  "model": "glm-5.3"
+}

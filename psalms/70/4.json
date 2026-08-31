@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 70,
+  "translation": "Hiverina hivrina izy noho ny fahamenarany, izay milaza hoe: Aha, aha.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Hiverina"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨noho⟩"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "⟨ambony⟩"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "ny fahamenarany"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "izay milaza hoe"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "aha"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:55.029853215Z",
+  "model": "glm-5.3"
+}

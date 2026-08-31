@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 121,
+  "translation": "Yahveh hitandrina anao amin'ny loza rehetra, hitandrina ⟨את⟩ ny ainao izy.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "hitandrina anao"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "רע",
+      "gloss": "loza"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "hitandrina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ainao"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ny ainao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:15.411712400Z",
+  "model": "glm-5.3"
+}

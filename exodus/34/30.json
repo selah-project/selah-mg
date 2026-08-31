@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ka nahita ⟨את⟩ i Moshe Aharon sy ny Zanak'i Isiraely rehetra, ary indro, namerin-kazava ny hoditry ny tavany, ka natahotra ny manatona azy ireo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ka nahita"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ... rehetra"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny Zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "i Moshe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ary indro"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "namerin-kazava"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ny hoditra"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ny tavany"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ka natahotra"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "ny manatona"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:09:02.499445484Z",
+  "model": "glm-5.3"
+}

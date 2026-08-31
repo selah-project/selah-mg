@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 36,
+  "translation": "Ny teny avy am-bavany dia faharatsiana sy fitaka; nitsahatra tsy ho marani-tsaina sady tsy hanao tsara.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Ny tenin'"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ny vavany"
+    },
+    {
+      "surface": "און",
+      "gloss": "faharatsiana"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "sy fitaka"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "nitsahatra"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "tsy ho marani-tsaina"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "tsy hanao tsara"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:22.448945706Z",
+  "model": "glm-5.3"
+}

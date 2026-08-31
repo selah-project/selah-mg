@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 69,
+  "translation": "Arahaba kokoa ho an'i Yahveh izany noho ombilahy, dia ombilahy manana tandroka sy kitrotra voazarazara.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "arahaba kokoa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "משור",
+      "gloss": "noho ombilahy"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ombilahy"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "manana tandroka"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "sy kitrotra voazarazara"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:38.068960540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 52,
+  "translation": "Ary namono an'⟨את⟩ ny zanak'i Zedekia mpanjakan'i Bavel eo imasony; ary ⟨את⟩ ireo andriandahy rehetra nomineesin'i Yehuda dia namonoany tao Rivelata.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "namono"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanak'i Zedekia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny zanak'i"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Zedekia"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "eo imasony"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ary"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ireo andriandahy rehetra nomineesin'i Yehuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "andriandahy nomineesin'"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "namono"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "tao Rivelata"
+    }
+  ],
+  "timestamp": "2026-08-31T15:45:49.803983514Z",
+  "model": "glm-5.3"
+}

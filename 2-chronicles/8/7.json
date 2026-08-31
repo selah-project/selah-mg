@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 8:7",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ny vahoaka rehetra sisa tamin'ny Hetita sy ny Amorita sy ny Perizita sy ny Hivita sy ny Jebosita, izay tsy avy amin'ny Isiraely izy.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "sisa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hetita"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "sy ny Amorita"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "sy ny Perizita"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "sy ny Hivita"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "sy ny Jebosita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "avy amin'ny Isiraely"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:45:51.810044836Z",
+  "model": "glm-5.3"
+}

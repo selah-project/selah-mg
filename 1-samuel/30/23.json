@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 30:23",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary hoy David: Tsy hataonareo izany, ry rahalahy; amin'izay nomen'i Yahveh antsika, izay nitandrina ⟨את⟩ antsika sady nanolotra ⟨את⟩ ny miaramila tonga nanafika antsika ho an-tanantsika.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "hataonareo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ry rahalahy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "amin'izay"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nomen'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "antsika"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "nitandrina"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ antsika",
+      "marks": "ויתן"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nanolotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny miaramila"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "ny miaramila"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "nanafika antsika"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "ho an-tanantsika"
+    }
+  ],
+  "timestamp": "2026-08-31T14:28:22.558146723Z",
+  "model": "glm-5.3"
+}

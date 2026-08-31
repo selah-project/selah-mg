@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 27:23",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Voaozona izay mandry amin'ny renin'ny vadiny; ary ny vahoaka rehetra hanao hoe: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Voaozona"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "mandry"
+    },
+    {
+      "surface": "עם",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "חתנתו",
+      "gloss": "renin'ny vadiny"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ary ... hanao hoe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-31T13:49:52.097097650Z",
+  "model": "glm-5.3"
+}

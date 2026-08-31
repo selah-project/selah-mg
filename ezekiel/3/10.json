@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary hoy izy tamiko: Zanak'olona, ⟨את⟩ ny teniko rehetra izay hitenenako aminao, raiso amin'ny fonao, ary amin'ny sofinao henoy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tamiko"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny teniko rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "teniko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "hitenenako"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "aminao"
+    },
+    {
+      "surface": "קח",
+      "gloss": "raiso"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "amin'ny fonao"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "amin'ny sofinao"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "henoy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:47:45.213620478Z",
+  "model": "glm-5.3"
+}

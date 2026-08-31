@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary hitandrina ny didin'i Yahveh Elohimao ianao ka handeha amin'ny lalany ary hatahotra ⟨את⟩ Azy.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Ary hitandrina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny didin'i Yahveh"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "didin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimao"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "handeha"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "amin'ny lalany"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "ary hatahotra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ Azy",
+      "marks": "Azy"
+    }
+  ],
+  "timestamp": "2026-08-31T19:13:04.174392104Z",
+  "model": "glm-5.3"
+}

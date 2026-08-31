@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Taorian'ny namonoany ⟨את⟩ Sihona, mpanjakan'ny Emorita, izay monina ao Hesbona, sy ⟨את⟩ Oga, mpanjakan'i Basana, izay monina ao Astarta, ao Edreỳ.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Taorian'ny"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "namonoany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihona"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'ny"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "monina"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "ao Hesbona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Oga"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Oga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'i"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Basana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "monina"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "ao Astarta"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "ao Edreỳ"
+    }
+  ],
+  "timestamp": "2026-08-31T13:40:27.508358338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Nametraka teo amin'ireo ny tenin'ny famantarany sy fahagagana tany amin'ny tany Cham.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "Nametraka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "teo amin'ireo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ny tenin'ny"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "famantarany"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "sy fahagagana"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tany amin'ny tany"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:42.787529845Z",
+  "model": "glm-5.3"
+}

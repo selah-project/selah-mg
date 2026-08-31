@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Yahveh no vatoharako sy trano mimandaiko ary mpamonjiko; Eliko, vatolampiko, ao aminy no mialofa aho; ampingiko sy tandroky ny famonjenko, fiarovako avo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "vatoharako"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "sy trano mimandaiko"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ary mpamonjiko"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eliko"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "vatolampiko"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "mialofa aho"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ao aminy"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ampingiko"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "sy tandroky"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ny famonjengo"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "fiarovako avo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:05.600509165Z",
+  "model": "glm-5.3"
+}

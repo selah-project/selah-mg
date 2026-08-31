@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Iray amin'ny iray mifanintona, ary rivotra tsy mahatonga eo anelanelany.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "Iray"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "amin'ny iray"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "mifanintona"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ary rivotra"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "mahatonga"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "eo anelanelany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:09:21.591936399Z",
+  "model": "glm-5.3"
+}

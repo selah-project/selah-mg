@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary hoy izy taminy: Mandehana ⟨mbola⟩ telo andro, ary miverena atỳ amiko; ary lasa ny vahoaka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary hoy izy"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Mandehana"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨mbola⟩"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "telo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "ary miverena"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "atỳ amiko"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ary lasa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:45:16.954843885Z",
+  "model": "glm-5.3"
+}

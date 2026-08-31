@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 48,
+  "translation": "Ary nampivoaka teo anelanelan'ny tongony i Yosef ⟨את⟩ ireo, dia niankohoka tamin'ny tarehiny tamin'ny tany.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Ary nampivoaka"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "i Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ireo"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "teo anelanelan'ny"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "tongony"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "dia niankohoka"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "tamin'ny tarehiny"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "tamin'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:53:23.311439299Z",
+  "model": "glm-5.3"
+}

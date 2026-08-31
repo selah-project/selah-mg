@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 66:21",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 66,
+  "translation": "Ary avy amin'izy ireo koa no halalko ho mpisorona sy ho Levita, hoy i Yahveh.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Ary koa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "avy amin'izy ireo"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "halalko"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "ho mpisorona"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "sy ho Levita"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T15:23:00.589372429Z",
+  "model": "glm-5.3"
+}

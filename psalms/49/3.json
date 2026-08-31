@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 49,
+  "translation": "Na zanak'olombelona na zanak'lehilahy, miaraka, ny manan-karena sy ny malahelo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olombelona"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "miaraka"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "manan-karena"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "sy malahelo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:30:41.896727591Z",
+  "model": "glm-5.3"
+}

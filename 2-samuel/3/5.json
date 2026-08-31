@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 3:5",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary ny fahenina dia Yitream, avy amin'i Eglah vadim-piralahin'i Davida; ireo no teraka tamin'i Davida tao Hebrona.",
+  "tokens": [
+    {
+      "surface": "והששי",
+      "gloss": "ary ny fahenina"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "Yitream"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "avy amin'i Eglah"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vady"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "no teraka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "tamin'i Davida"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "tao Hebrona"
+    }
+  ],
+  "timestamp": "2026-08-31T14:29:33.943373375Z",
+  "model": "glm-5.3"
+}

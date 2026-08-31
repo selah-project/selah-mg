@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Voalohany amin'ny vosotry ⟨⟨ny⟩⟩ mofo ianareo dia sakafo iray⟨mofo iray boribory⟩ no hanatsanganana ho fanatitra atsangana; toy ny fanatitra atsangana avy amin'ny efitra famokarana, dia izany no anatsanganana azy ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Voalohany amin'ny"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "vosotry ny mofo ianareo"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "mofo iray boribory"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "hanatsanganana"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "fanatitra atsangana"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "toy ny fanatitra atsangana avy amin'ny"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "efitra famokarana"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dia izay no atao"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "anatsanganana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy (mofo iray boribory)"
+    }
+  ],
+  "timestamp": "2026-08-31T13:30:03.262867030Z",
+  "model": "glm-5.3"
+}

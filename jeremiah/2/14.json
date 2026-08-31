@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Mabo va Yisraely? Zaza teraka tao an-trano va izy? Nahoana no lasa babo izy?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "mabo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraely"
+    },
+    {
+      "surface": "אם",
+      "gloss": "va"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "zaza teraka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tao an-trano"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "nahoana"
+    },
+    {
+      "surface": "היה",
+      "gloss": "lasa"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "babo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:22:51.473515897Z",
+  "model": "glm-5.3"
+}

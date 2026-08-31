@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 19:7",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ny rahalahy rehetra mankahala ny malahelo; eneha, ny sakaizany aza lavitra azy be, manenjika teny fa tsy misy mba hita.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ny rahalahy"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ny malahelo"
+    },
+    {
+      "surface": "שנאהו",
+      "gloss": "mankahala azy"
+    },
+    {
+      "surface": "אף",
+      "gloss": "eneha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "aza"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "ny sakaizany"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "lavitra"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "manenjika"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "teny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "המה",
+      "gloss": "mba hita"
+    }
+  ],
+  "timestamp": "2026-08-31T16:54:47.524573129Z",
+  "model": "glm-5.3"
+}

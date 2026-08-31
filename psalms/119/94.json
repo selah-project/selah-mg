@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Anao Aho: vonjeo ahy, fa ny didinao no nitadiavako.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Anao"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Aho"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "vonjeo ahy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ny didinao"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "no nitadiavako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:38.823574430Z",
+  "model": "glm-5.3"
+}

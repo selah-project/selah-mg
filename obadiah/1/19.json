@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "obadiah 1:19",
+  "book": "obadiah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary handova ny tany atsimo ⟨את⟩ tendrombohitra Esav, ary ny tany lemaka handova ⟨את⟩ ny Filistina, ary handova izy ⟨את⟩ tany Efrayima sy ⟨את⟩ tany Shomeron, ary Benjamina hanjaka amin'ny ⟨את⟩ Gilada.",
+  "tokens": [
+    {
+      "surface": "וירשו",
+      "gloss": "handova"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ny tany atsimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tendrombohitra Esav"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "והשפלה",
+      "gloss": "ary ny tany lemaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Filistina"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Filistina"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "ary handova izy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tany Efrayima"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "tany"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "tany Shomeron"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "tany"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ary Benjamina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilada"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilada"
+    }
+  ],
+  "timestamp": "2026-08-31T18:12:31.570067750Z",
+  "model": "glm-5.3"
+}

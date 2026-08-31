@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 122,
+  "translation": "Mangataha fiadanana ho an'i Yeroshalayim; ho tony ireo tia anao.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "Mangataha"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fiadanana"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "ho tony"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "ireo tia anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:32.606256897Z",
+  "model": "glm-5.3"
+}

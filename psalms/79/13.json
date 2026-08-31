@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 79,
+  "translation": "Fa izahay kosa, olonao sy ondry'ny sahalalom-pahitra anao, dia hankasaina anao mandrakizay, amin'ny taranaka sy taranaka, ho tantarintsika ny fiderana anao.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "fa izahay kosa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "olonao"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "sy ondry"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "'ny sahalalom-pahitra anao"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "hankasaina"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "amin'ny taranaka"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "sy taranaka"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "hotantarain"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "ny fiderana anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:38.926622646Z",
+  "model": "glm-5.3"
+}

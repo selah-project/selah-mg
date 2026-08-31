@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "toy ny jentilisa izay fenoin'i Yahveh handravana eo anatrehanao, dia toy izay koa hianareo ho very, satria tsy mihaino ny feon'i Yahveh Elohinareo hianareo",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "toy ny jentilisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "i Yahveh"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "fenoiny handravana"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "eo anatrehanao"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dia toy izay koa"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "hianareo ho very"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "satria"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "mihaino"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ny feon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:43:40.974101644Z",
+  "model": "glm-5.3"
+}

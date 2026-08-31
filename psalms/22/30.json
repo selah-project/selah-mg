@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Hihinana sy hiankohaka eo anatrehany ny matavy rehetra amin'ny tany; hiondrika ny midina amin'ny vovoka rehetra, ary ny ainy tsy mahavelona.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "Hihinana"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "sy hiankohaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "matavy"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "eo anatrehany"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "hiondrika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "ny midina"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "amin'ny vovoka"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "ary ny ainy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "mahavelona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:02.808132268Z",
+  "model": "glm-5.3"
+}

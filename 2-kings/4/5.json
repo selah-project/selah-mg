@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary lasa niala tamin'i Elísha izy ka nanidy ny varavarana ho azy sy ho an'ny zanany; izy ireo nanatatra ny vitrana tamby, ary izy nanavoaka.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "lasa niala"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ taminy (Elísha)"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "nanidy"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ny varavarana"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "ho azy"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "sy ho an'ny"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izy ireo"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "nanatatra ny vitrana"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "tamby"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ary izy"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "nanavoaka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:52:32.430055082Z",
+  "model": "glm-5.3"
+}

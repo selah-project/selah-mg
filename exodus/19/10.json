@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary Yahveh nanao teny tamin'i Moshe: Mandehana any amin'ny vahoaka, ary manamasina azy izao anio sy rahampitso, ary aza fantatrao fa sasao ny fitafiany.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao teny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Mandehana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "any amin'ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "manamasina azy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "izio anio"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "sy rahampitso"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "sasao"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "ny fitafiany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:56:28.272840182Z",
+  "model": "glm-5.3"
+}

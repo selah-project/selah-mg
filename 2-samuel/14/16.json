@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 14:16",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Fa henon'ny mpanjaka hamonjy ⟨את⟩ ny mpanompovavy avy amin'ny tànan'ilay lehilahy izay hanapototra ⟨את⟩ ahy sy ⟨את⟩ ny zanako miaraka, ka hanesorana ahy amin'ny lovàn'ny Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "henon'"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "hamonjy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanompovavy"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "ny mpanompovavy"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "avy amin'ny tànan'"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ilay lehilahy"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "izay hanapototra"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ahy",
+      "marks": "ahy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny zanako"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny zanako"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "miaraka"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "amin'ny lovàn'"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T14:33:34.342463877Z",
+  "model": "glm-5.3"
+}

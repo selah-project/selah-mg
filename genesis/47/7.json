@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 47,
+  "translation": "Ary Yosef nanidy ⟨את⟩ Yaakov rainy ka nampitoetra azy teo anoloan'i Parao; ary Yaakov nanao soava ⟨את⟩ Parao.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ary nanidy"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov rainy"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rainy"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "ka nampitoetra azy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anoloan'i"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "ary nanao soava"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:52:57.755342314Z",
+  "model": "glm-5.3"
+}

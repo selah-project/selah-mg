@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ho an'ny mpitarika. Fihiran'i David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho an'ny mpitarika"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "an'i David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Fihirana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:30.990269031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Lalàna hatao mba hanatongan'ny sabatra ⟨את⟩ Rabbahan'ny taranak'i Amona, ary ⟨את⟩ Yehuda any Yeroshalayim, ilay voaaro.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "lalàna"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "hatao"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "hanatonga"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ny sabatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbahan'ny taranak'i Amona"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "taranak'i"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "any Yeroshalayim"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "voaaro"
+    }
+  ],
+  "timestamp": "2026-08-31T15:54:23.153710824Z",
+  "model": "glm-5.3"
+}

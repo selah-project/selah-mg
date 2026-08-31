@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 4:18",
+  "book": "lamentations",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Nitsily ny fandehanay mba tsy hafafoy ⟨an-tanananay⟩; efa akaiky ny farany, feno ny andronay, fa efa tonga ny farany.",
+  "tokens": [
+    {
+      "surface": "צדו",
+      "gloss": "Nitsily"
+    },
+    {
+      "surface": "צעדינו",
+      "gloss": "ny fandehanay"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "mba tsy hafafoy"
+    },
+    {
+      "surface": "ברחobתינו",
+      "gloss": "⟨an-tanananay⟩",
+      "note": "surface corrected below"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "efa akaiky"
+    },
+    {
+      "surface": "קצינו",
+      "gloss": "ny farany"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "fono"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ny andronay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "efa tonga"
+    },
+    {
+      "surface": "קצינו",
+      "gloss": "ny farany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:22.388349778Z",
+  "model": "glm-5.3"
+}

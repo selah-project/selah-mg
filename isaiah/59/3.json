@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 59,
+  "translation": "Fa ny tananareo no loto amin'ny rà, ary ny rantsan-tanareo amin'ny tsi-fahamarinana; ny molobaranareo efa niteny lainga, ary ny lelareo mamokatra ratsy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "ny tananareo"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "loto"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "amin'ny rà"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "ary ny rantsan-tanareo"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "amin'ny tsi-fahamarinana"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "ny molobaranareo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "efa niteny"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lainga"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "ny lelareo"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ratsy"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "mamokatra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:21:14.285508593Z",
+  "model": "glm-5.3"
+}

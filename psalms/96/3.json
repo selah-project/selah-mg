@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 96,
+  "translation": "Mitantara eo amin'ny jentilisa ny voninahiny, eo amin'ny firenena rehetra ny zava-mahagagany.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "mitantara"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "eo amin'ny jentilisa"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ny voninahiny"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "eo amin'ny"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "firenena rehetra"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "ny zava-mahagagany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:46.097680777Z",
+  "model": "glm-5.3"
+}

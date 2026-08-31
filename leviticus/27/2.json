@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 27:2",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Mitenoa amin'ny zanak'i Yisraela, ka lazao aminy: Raha misy olona manao fanolorana miavaka amin'ny voady, araka ny tombonao no vidin'ny olona ho an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Mitenoa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ka lazao"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "manaova miavaka"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "voady"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "araka ny tombonao"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "olona"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:22:31.155140416Z",
+  "model": "glm-5.3"
+}

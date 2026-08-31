@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary hoy izy taminy: Andeha ⟨את⟩ amiko ho any an-trano, ary mihinan-kanina.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ary hoy izy"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tamin'izy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "andeha"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ amiko"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ho any an-trano"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ary mihinan-kanina"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "kanina"
+    }
+  ],
+  "timestamp": "2026-08-31T14:45:48.479511997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Eo anilan'ny sisiny no hisiahana ny peratra, ho tranom-baratra ho an'ny tsorakazo hitondrana ⟨את⟩ ny latabatra.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "Eo anilan'ny"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "sisiny"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "no hisiahana"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "ny peratra"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "ho tranom-baratra"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "ho an'ny tsorakazo"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "hitondrana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny latabatra"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ny latabatra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:04:11.792916574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 94,
+  "translation": "Mibaribary izy, miteny teny miavonavona; ny mpanao ratsy rehetra mirehareha.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "Mibaribary"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "miteny"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "teny miavonavona"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "mirehareha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mpanao"
+    },
+    {
+      "surface": "און",
+      "gloss": "ratsy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:47.284072271Z",
+  "model": "glm-5.3"
+}

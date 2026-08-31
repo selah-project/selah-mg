@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Tandremo izay mandidiako anao androany: indro Izaho manempo eo anatrehanao ⟨את⟩ ny Amorita sy ny Kenanita sy ny Hetita sy ny Perizita sy ny Hivita sy ny Jebosita.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Tandremo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay mandidiako anao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "mandidiako anao"
+    },
+    {
+      "surface": "היום",
+      "gloss": "androany"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "indro Izaho"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "manempo"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "eo anatrehanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Amorita"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amorita"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "sy ny Kenanita"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "sy ny Hetita"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "sy ny Perizita"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "sy ny Hivita"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "sy ny Jebosita"
+    }
+  ],
+  "timestamp": "2026-08-31T13:08:33.096775577Z",
+  "model": "glm-5.3"
+}

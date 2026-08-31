@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Niantso azy ireo izy ⟨rey⟩, ka nandositra teo anivany izy; nanatitra sorona tamin'ny Baalima izy, ary nanatsatso ditin-kazo manitra tamin'ny sarin-javatra voasokitra.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "Niantso"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy ireo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "nandositra"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "teo anivany"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "tamin'ny Baalima"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "nanatitra sorona"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "ary tamin'ny sarin-javatra voasokitra"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "nanatsatso ditin-kazo manitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:08:47.010594700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 90,
+  "translation": "Talohan'ny naterahan'ny tendrombohitra sy ny nampahatahiranao ny tany sy izao tontolo izao, dia hatramin'ny fiandaniana ka hatramin'ny fiandaniana Hianao no El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Talohan'ny"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "nateraka"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "sy ny nampahatahiranao"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "sy izao tontolo izao"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "hatramin'ny fiandaniana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "fiandaniana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Hianao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:26.257187140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 28:14",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Koa mihainoa ny tenin'i Yahveh, ry lehilahy mpanao tsiky, mpanapaka ity firenena ity izay any Yeroshalayim.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Koa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "mihainoa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tenin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "mpanao tsiky"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "mpanapaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity...ity"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "any Yeroshalayim"
+    }
+  ],
+  "timestamp": "2026-08-31T15:09:55.588934707Z",
+  "model": "glm-5.3"
+}

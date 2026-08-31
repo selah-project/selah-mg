@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 13:12",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary indro, efa lavo ny rindrina! Tsy hoy va aminareo: Any ilay faneta netaenanareo?",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Ary indro"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "efa lavo"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "ny rindrina"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Tsy... va"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "aminareo"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Any"
+    },
+    {
+      "surface": "הטיח",
+      "gloss": "ilay faneta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "טחתם",
+      "gloss": "netaenanareo"
+    }
+  ],
+  "timestamp": "2026-08-31T15:50:18.620097634Z",
+  "model": "glm-5.3"
+}

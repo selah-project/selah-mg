@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 3:14",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary David naniraka mpitondra hafatra tany amin'i Ish-Boshet zanak'i Shaol hoe: Omeo ⟨את⟩ ny vadiko, ⟨את⟩ Mikal, izay nifianako ho vadiko tamin'ny zato voraisika Filistina.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "naniraka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "mpitondra hafatra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tany amin'i"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ish-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Boshet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Omeo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vadiko"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "vadiko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikal"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ארשתי",
+      "gloss": "nifianako"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho vadiko"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "tamin'ny zato"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "voraisika"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistina"
+    }
+  ],
+  "timestamp": "2026-08-31T14:29:24.759455678Z",
+  "model": "glm-5.3"
+}

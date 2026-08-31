@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary Yehoshoa nandidy ⟨את⟩ ny mpandraharaha amin'ny vahoaka hoe:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Ary nandidy"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpandraharaha amin'ny vahoaka"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "ny mpandraharaha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "amin'ny vahoaka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T13:54:02.964356302Z",
+  "model": "glm-5.3"
+}

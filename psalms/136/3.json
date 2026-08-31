@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 136,
+  "translation": "Mankasinoa Adonayn'ny adonim, fa hatramin'ny fahavelony dia ny hesedany;",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Mankasinoa"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonayn'ny"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "adonim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "hatramin'ny fahavelony"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ny hesedany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:27.277901908Z",
+  "model": "glm-5.3"
+}

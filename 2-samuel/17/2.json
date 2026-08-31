@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 17:2",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary hanatona azy aho, raha izy sasatra sady malemy tanana, dia hampangovitra ⟨את⟩ azy aho, ary handositra ny olona rehetra izay ⟨את⟩ aminy, ary hovahako ⟨את⟩ ny mpanjaka irery ihany.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "Ary hanatona aho"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "raha izy"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "sasatra"
+    },
+    {
+      "surface": "ורפה",
+      "gloss": "sady malemy"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "tanana"
+    },
+    {
+      "surface": "והחרדתי",
+      "gloss": "hampangovitra aho"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "ary handositra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ aminy",
+      "marks": "amin'ny olona rehetra"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "ary hovahako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanjaka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "irery ihany"
+    }
+  ],
+  "timestamp": "2026-08-31T18:32:02.035806376Z",
+  "model": "glm-5.3"
+}

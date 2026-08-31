@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 43:21",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 43,
+  "translation": "Ary tonga tamin'ny fahatongavana tao amin'ny hotely izahay, ka namoha ny kitapomalaminay, ary indro, volafotsy tsirairay tao am-bavan'ny kitapomalainy, volafotsinay araka ny lanjany; ka naverinay tamin'ny tananay izy.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary tonga tamin'ny"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tamin'ny fahatongavana"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "izahay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tao amin'ny"
+    },
+    {
+      "surface": "המלון",
+      "gloss": "hotely"
+    },
+    {
+      "surface": "ונפתחה",
+      "gloss": "ka namoha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny kitapomalaminay"
+    },
+    {
+      "surface": "אמתחתינו",
+      "gloss": "kitapomalaminay"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ary indro"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "tsirairay"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "tao am-bavan'ny"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "kitapomalainy"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "volafotsinay"
+    },
+    {
+      "surface": "במשקלו",
+      "gloss": "araka ny lanjany"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "ka naverinay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "izy (ny volafotsy)"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "tamin'ny tananay"
+    }
+  ],
+  "timestamp": "2026-08-31T12:51:12.796797156Z",
+  "model": "glm-5.3"
+}

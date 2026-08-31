@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary Yahveh Elohim nanao fitafiana hoditra ho an'i Adam sy ho an'ny vadiny, ka nitafy azy.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ho an'i Adam"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "sy ho an'ny vadiny"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "fitafiana"
+    },
+    {
+      "surface": "עור",
+      "gloss": "hoditra"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "nitafy azy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:12.727956638Z",
+  "model": "glm-5.3"
+}

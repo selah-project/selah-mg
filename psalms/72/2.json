@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 72,
+  "translation": "Hitsara ny olonao amin'ny fahamarinana izy, ary ny malainao amin'ny fitsarana marina.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "Hitsara"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ny olonao"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "amin'ny fahamarinana"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "ary ny malainao"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "amin'ny fitsarana marina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:40.929731083Z",
+  "model": "glm-5.3"
+}

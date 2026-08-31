@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "Sy ⟨את⟩ ilay satroka lamba tsy voarefy, ary ⟨את⟩ ireo fanao-doha tsara lamba tsy voarefy, ary ⟨את⟩ ireo kulotra lamba lamba tsy voarefy voazarina.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ilay satroka"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "ilay satroka"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lamba tsy voarefy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ireo fanao-doha"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "ireo fanao-doha tsara"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "ireo satroboninahitra"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lamba tsy voarefy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ireo kulotra"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "ireo kulotra"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "lamba"
+    },
+    {
+      "surface": "שש",
+      "gloss": "tsy voarefy"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "voazarina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:17.863968803Z",
+  "model": "glm-5.3"
+}

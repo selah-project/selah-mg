@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Famantarana mandrakizay izy, eo amiko sy amin'ny zanak'i Yisraely; fa enin-andro Yahveh nanao ⟨את⟩ ny lanitra sy ⟨את⟩ ny tany, ary amin'ny andro fahafito dia nitsahatra izy ka nifohazan'aina.",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "eo amiko"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "sy amin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraely"
+    },
+    {
+      "surface": "אות",
+      "gloss": "famantarana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "enina"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lanitra"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ny lanitra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ary amin'ny andro"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "fahafito"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "nitsahatra"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "ka nifohazan'aina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:07:33.355481335Z",
+  "model": "glm-5.3"
+}

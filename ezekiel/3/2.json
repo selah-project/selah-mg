@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Dia namohatra ny vavako aho, ary nampihinana ahy izy tamin'⟨את⟩ ity horonam-boky ity.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "Dia namohatra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vavako"
+    },
+    {
+      "surface": "פי",
+      "gloss": "vavako"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "nampihinana ahy izy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ity horonam-boky ity"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "horonam-boky"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ity"
+    }
+  ],
+  "timestamp": "2026-08-31T15:48:17.737256813Z",
+  "model": "glm-5.3"
+}

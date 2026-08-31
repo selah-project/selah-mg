@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Hampidi-bidy ny olombelona mihoatra noho ny volamena madio, ary ny zanak'olombelona mihoatra noho ny volamenan'i Ofira.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "Hampidi-bidy"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ny olombelona"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "mihoatra noho ny volamena madio"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ary ny zanak'olombelona"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mihoatra noho ny volamena"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofira"
+    }
+  ],
+  "timestamp": "2026-08-31T15:06:08.046083623Z",
+  "model": "glm-5.3"
+}

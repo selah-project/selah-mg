@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Aza miakatra, fa tsy misy Yahveh eo aminareo, mba tsy ho voaloaka eo anoloan'ny fahavalo ianareo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "miakatra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "eo aminareo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mba tsy"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "ho voaloaka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "eo anoloan'ny"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "fahavalo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:29:49.474352616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 26:23",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ny zanak'i Yissaskara araka ny fokom-pianakaviany: an'i Tola, ny fokon'ny Tolaïta; an'i Pova, ny fokon'ny Pona.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ny zanak'i"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskara"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "araka ny fokom-pianakaviany"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "Tola"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ny fokon'ny"
+    },
+    {
+      "surface": "התולעי",
+      "gloss": "Tolaïta"
+    },
+    {
+      "surface": "לפוה",
+      "gloss": "an'i Pova"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ny fokon'ny"
+    },
+    {
+      "surface": "הפוני",
+      "gloss": "Pona"
+    }
+  ],
+  "timestamp": "2026-08-31T13:33:53.022404808Z",
+  "model": "glm-5.3"
+}

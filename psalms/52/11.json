@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 52,
+  "translation": "Hisaotra anao mandrakizay aho, fa ianao no nanao izany; ary manantena ny anaranao aho, fa tsara eo anatrehan'ny olona masinao.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Hisaotra anao aho"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "no nanao izany ianao"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "ary manantena"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ny anaranao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "eo anatrehan'ny"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "olona masinao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:22.061298542Z",
+  "model": "glm-5.3"
+}

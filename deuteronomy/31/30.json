@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary niteny tao an-tsofin'ny fiangonan'i Isiraely rehetra Moshe ⟨את⟩ ny tenin'ity fihirana ity, ambara-pahatapitra.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ary niteny"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "tao an-tsofin'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "fiangonan'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tenin'ity fihirana ity"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ny tenin'ny"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "fihirana"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ity ... ity"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ambara-"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "fahatapitra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:52:50.903257331Z",
+  "model": "glm-5.3"
+}

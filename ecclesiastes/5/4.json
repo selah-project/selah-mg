@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Tsara ny tsy mianiana, toy ny mianiana nefa tsy mamaly.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ny"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "mianiana"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "toy ny mianiana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nefa tsy"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "mamaly"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:30.824292437Z",
+  "model": "glm-5.3"
+}

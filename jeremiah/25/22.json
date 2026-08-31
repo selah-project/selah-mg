@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Sy ⟨את⟩ ny mpanjaka rehetra'i Tsora sy ⟨את⟩ ny mpanjaka rehetra'i Tsidona ary ⟨את⟩ ny mpanjakan'ny nosy izay any an-dafin'ny ranomasina.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny mpanjaka rehetra'i Tsora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny mpanjaka rehetra'i Tsidona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny mpanjakan'ny nosy"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "האי",
+      "gloss": "nosy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "any an-dafin'ny"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ranomasina"
+    }
+  ],
+  "timestamp": "2026-08-31T15:33:16.264655064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Fa indro, Yahveh mivoaka avy amin'ny fitoerany, ary hidina ary handia ambonin'ny toerana avo amin'ny tany.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "mivoaka"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "avy amin'ny fitoerany"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "ary hidina"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ary handia"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "toerana avo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "amin'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:14:58.970297989Z",
+  "model": "glm-5.3"
+}

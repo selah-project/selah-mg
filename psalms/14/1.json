@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ho an'ny mpitarika. Salamo an'i Davida. Hoy ny adala ao am-pony: Tsy misy Elohim. Efa simba izy, efa nanao fahavetavetana izy; tsy misy mpanao tsara.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ho an'ny mpitarika"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "an'i Davida"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Hoy"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ny adala"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ao am-pony"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Tsy misy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "Efa simba izy"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "efa nanao fahavetavetana izy"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "(asa)"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mpanao"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:44.539236860Z",
+  "model": "glm-5.3"
+}

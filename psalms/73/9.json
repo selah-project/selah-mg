@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 73,
+  "translation": "Mametraka any an-danitra ny vavany, ary ny lelany mandeha manerana ny tany.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "Mametraka"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "any an-danitra"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ny vavany"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "ary ny lelany"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "manerana ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:32.537284288Z",
+  "model": "glm-5.3"
+}

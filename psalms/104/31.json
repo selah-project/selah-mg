@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 104,
+  "translation": "Ho amin'ny fiainana mandrakizay ny voninahitr'i Yahveh; mifaly amin'ny asany Yahveh.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ho"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ny voninahitra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "amin'ny fiainana mandrakizay"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "mifaly"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "amin'ny asany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:16.808461152Z",
+  "model": "glm-5.3"
+}

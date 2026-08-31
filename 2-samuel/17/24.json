@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary Davida tonga tany Mahanaima; ary Absaloma kosa niampita ⟨את⟩ ny Yordana, izy sy ny lehilahy rehetra amin'ny Isiraely mbamin'ny aminy.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Ary Davida"
+    },
+    {
+      "surface": "בא",
+      "gloss": "tonga tany"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "Mahanaima"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "ary Absaloma kosa"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "niampita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Yordana"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ny Yordana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ny ... rehetra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "amin'ny Isiraely"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mbamin'ny aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:34:23.999548043Z",
+  "model": "glm-5.3"
+}

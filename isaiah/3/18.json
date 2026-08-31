@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Amin'izany andro izany Adonay no hanaisotra ⟨את⟩ ny hafetsena miaraka amin'ny fehin-tongotra mpaneno, sy ny fehizon-doha, ary ny sombin-keliravoana.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "amin'... andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "hanaisotra"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hafetsena"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "hafetsena"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "fehin-tongotra mpaneno"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "sy ny fehizon-doha"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "sy ny sombin-keliravoana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:03:45.417488976Z",
+  "model": "glm-5.3"
+}

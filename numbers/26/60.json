@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary nateraka tamin'i Aharon ⟨את⟩ i Nadab sy ⟨את⟩ i Avihu, ⟨את⟩ i Elazara ary ⟨את⟩ i Itamar.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Ary nateraka"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "tamin'i Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Nadab"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "i Nadab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "i Avihu"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "i Avihu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Elazara"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "i Elazara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "i Itamar"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "i Itamar"
+    }
+  ],
+  "timestamp": "2026-08-31T13:35:56.831782329Z",
+  "model": "glm-5.3"
+}

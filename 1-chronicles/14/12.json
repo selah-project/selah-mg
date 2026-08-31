@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary nandao tany ⟨את⟩ ny andriamanitr'izy ireo izy; ary Davida nandidy, ka nodorana tamin'ny afo izy ireo.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "nandao"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny andriamanitr'izy ireo"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ny andriamanitr'izy ireo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nandidy"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "nodorana"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tamin'ny afo"
+    }
+  ],
+  "timestamp": "2026-08-31T19:01:46.529687158Z",
+  "model": "glm-5.3"
+}

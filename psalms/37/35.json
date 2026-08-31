@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Hitako ny ratsy fanahy mahery setra, mivelatra toy ny hazo teratany maitso mamirapiratra.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Hitako"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "mahery setra"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "mivelatra"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "tovy ny hazo teratany"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "maitso mamirapiratra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:48.431425400Z",
+  "model": "glm-5.3"
+}

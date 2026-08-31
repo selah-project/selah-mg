@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 28:25",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Ary ny tendron'ireo tady roa dia homeny eo amin'ireo fanaingoana roa ⟨את⟩, ary homeny eo amin'ny soratry ny efoda, eo anoloany mifanandrify amin'ny tavany.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tendron'ireo tady roa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "roa"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "tendron'"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "roa"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "tady"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "homeny"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "roa"
+    },
+    {
+      "surface": "המשבצות",
+      "gloss": "fanaingoana"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ary homeny"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo amin'"
+    },
+    {
+      "surface": "כתפות",
+      "gloss": "soratra"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ny efoda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mankany amin'"
+    },
+    {
+      "surface": "מול",
+      "gloss": "mifanandrify amin'ny"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "tavany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:07:04.549130450Z",
+  "model": "glm-5.3"
+}

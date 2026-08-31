@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Fa indro, ny ratsy fanahy manitsaka ny tsipìka, efa nametraka ny zana-datsidika teo amin'ny tady izy, mba hitsipika any amin'ny maizina ny mahitsy fo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "manitsaka"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ny tsipìka"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "efa nametraka"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "ny zana-datsidika"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo amin'ny"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "tady"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "mba hitsipika"
+    },
+    {
+      "surface": "במו",
+      "gloss": "any amin'ny"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "maizina"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "ny mahitsy"
+    },
+    {
+      "surface": "לב",
+      "gloss": "fo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:48.645249449Z",
+  "model": "glm-5.3"
+}

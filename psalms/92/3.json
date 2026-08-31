@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 92,
+  "translation": "Mba hambarana eo am-pahasarana ny hesed ⟨famindramponao⟩ anao, ary ny fahatokianao ao anatin'ny alina.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "Mba hambarana"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "eo am-pahasarana"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ny hesed anao"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "ary ny fahatokianao"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "ao anatin'ny alina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:28.785244835Z",
+  "model": "glm-5.3"
+}

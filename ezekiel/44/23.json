@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 44:23",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Ary ⟨את⟩ oloko no hampianariny hanavaka ny masiaka amin'ny tsy masiaka, ary ny tsy madio amin'ny madio hampahafantarany aminy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oloko"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "oloko"
+    },
+    {
+      "surface": "יורו",
+      "gloss": "hampianariny"
+    },
+    {
+      "surface": "בין",
+      "gloss": "hanavaka ... amin'ny"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "masiaka"
+    },
+    {
+      "surface": "לחל",
+      "gloss": "amin'ny tsy masiaka"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ary ny ... amin'ny"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "tsy madio"
+    },
+    {
+      "surface": "לטהור",
+      "gloss": "amin'ny madio"
+    },
+    {
+      "surface": "יודעם",
+      "gloss": "hampahafantarany aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:05:23.611484755Z",
+  "model": "glm-5.3"
+}

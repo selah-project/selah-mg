@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Ny tsirairay manampy ⟨את⟩ namany, ary hoy izy amin'ny rahalahiny: Mahereza!",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Ny tsirairay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "namany"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "namany"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "manampy"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "amin'ny rahalahiny"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "hoy izy"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Mahereza"
+    }
+  ],
+  "timestamp": "2026-08-31T15:14:36.386473888Z",
+  "model": "glm-5.3"
+}

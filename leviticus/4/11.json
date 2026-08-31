@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary ⟨את⟩ hoditry ny omby sy ⟨את⟩ ny nofony rehetra, amin'ny lohany sy amin'ny tongony, ary ny tsinainy sy ny fika.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hoditry ny omby"
+    },
+    {
+      "surface": "עור",
+      "gloss": "hoditra"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "omby"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny nofony rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nofony"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "lohany"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy amin'ny"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "tongony"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "sy ny tsinainy"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "sy ny fika"
+    }
+  ],
+  "timestamp": "2026-08-31T13:12:53.656479209Z",
+  "model": "glm-5.3"
+}

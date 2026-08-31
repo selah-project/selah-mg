@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 136,
+  "translation": "Ilay namely ⟨את⟩ mpanjaka lehibe, fa mandrakizay ny hesediny.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Ilay namely"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ny hesediny"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:34.707945291Z",
+  "model": "glm-5.3"
+}

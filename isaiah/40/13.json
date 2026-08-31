@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Iza no nanitsy ⟨את⟩ fanahin'i Yahveh, ary inona lehilahy no nanome hevitra Azy ka nampahalala Azy?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Iza"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "nanitsy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fanahin'i Yahveh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ary inona lehilahy"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "nanome hevitra Azy"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "nampahalala Azy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:14:47.448269526Z",
+  "model": "glm-5.3"
+}

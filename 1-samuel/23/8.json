@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary nanantona Shaol ⟨את⟩ ny vahoaka rehetra ho any amin'ny ady, hiampitsena ho any Keilah hanao fahirano an'i Davida sy ny lehilahy.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "nanantona"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ho any amin'ny ady"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "hiampitsena"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "ho any Keilah"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "hanao fahirano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an'i"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sy an'i"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "ny lehilahy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:25:27.612706576Z",
+  "model": "glm-5.3"
+}

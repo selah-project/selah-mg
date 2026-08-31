@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Ary nanatitra hozonana ⟨את⟩ ny zanany lahy sy ⟨את⟩ ny zanany vavy ho an'ny Shedim.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "Ary nanatitra hozonana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanany lahy"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ny zanany lahy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny zanany vavy"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "ny zanany vavy"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "ho an'ny Shedim"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:19.304338098Z",
+  "model": "glm-5.3"
+}

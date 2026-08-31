@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ary Yahveh nidina tao anatin'ny rahona, ka nitsangana teo amin'i Moshe tao izy, ary niantso tamin'ny anaran'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "nidina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "tao anatin'ny rahona"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "nitsangana"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "teo amin'i Moshe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "tamin'ny anaran'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:08:45.613748595Z",
+  "model": "glm-5.3"
+}

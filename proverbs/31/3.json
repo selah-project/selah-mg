@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Aza omena ny vehivavy ny herinao, na ny lalanao ho an'ny famafana mpanjaka.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "omena"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "ny vehivavy"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "ny herinao"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "na ny lalanao"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "ho an'ny famafana"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "mpanjaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:58:19.629703377Z",
+  "model": "glm-5.3"
+}

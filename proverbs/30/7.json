@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Zavatra roa no nangatahiko taminao ⟨את⟩; aza manakatra ahy hanina izany raha tsy efa maty aho.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "roa"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "nangatahiko"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "taminao ⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "manakatra ahy"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ahy"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "raha tsy efa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "maty aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:57:37.159799353Z",
+  "model": "glm-5.3"
+}

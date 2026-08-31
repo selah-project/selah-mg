@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 59,
+  "translation": "Fa ianao, ry Yahveh, no hihomehy azy, hanetsy ny firenena rehetra.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Fa ianao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "no hihomehy"
+    },
+    {
+      "surface": "למו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "hanetsy"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "firenena"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:40.289037904Z",
+  "model": "glm-5.3"
+}

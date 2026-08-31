@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ny manetsa mahita ny loza ka miafina; fa ny tsy ampy fahendrena mandalo ka voasazy.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "ny manetsa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "mahita"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ny loza"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "ka miafina"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "fa ny tsy ampy fahendrena"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "mandalo"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "ka voasazy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:55:33.615532808Z",
+  "model": "glm-5.3"
+}

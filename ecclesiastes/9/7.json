@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Mandehana, mihinàna amin'ny fifaliana ny mofonao, ary misotroa amin'ny fo sàlitra ny divainao, fa efa ankasitrahin'i Elohim ⟨את⟩ ny asanao.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Mandehana"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mihinàna"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "amin'ny fifaliana"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "ny mofonao"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ary misotroa"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "amin'ny fo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sàlitra"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "ny divainao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "efa"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "ankasitrahin-"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny asanao"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ny asanao"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:52.573817792Z",
+  "model": "glm-5.3"
+}

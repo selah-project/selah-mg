@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 135,
+  "translation": "ianareo izay mijoro ao an-tranon'i Yahveh, ao amin'ny kianjan'ny tranon'ny Elohimentsika.",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "mijoro"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ao an-tranon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "ao amin'ny kianjan'ny"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon'ny"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimentsika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:50.626802662Z",
+  "model": "glm-5.3"
+}

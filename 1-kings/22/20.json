@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Ary hoy Yahveh: Iza no haka saina an'i Ahab ⟨את⟩ mba hiakatra sy ho lavo any Ramota any Gilada? Ary ny iray nanao hoe amin'izany fomba izany, ary ny iray kosa nanao hoe amin'izany fomba izany.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ary hoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "no haka saina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Ahab"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "mba hiakatra"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "sy ho lavo"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "any Ramota"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "any Gilada"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ary nanao hoe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ny iray"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "amin'izany fomba izany"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ary ny iray kosa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "amin'izany fomba izany"
+    }
+  ],
+  "timestamp": "2026-08-31T14:51:16.219844631Z",
+  "model": "glm-5.3"
+}

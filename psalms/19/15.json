@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Aoka ny tenin'ny vavako sy ny saintsaintsan'ny foko ho sitrakao eo anatrehanao, ry Yahveh, vatolampiko sy Mpanavotra ahy.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "aoka ho"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "sitrakao"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ny tenin'ny"
+    },
+    {
+      "surface": "פי",
+      "gloss": "vavako"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "sy ny saintsaintsan'ny"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "foko"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "eo anatrehanao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "vatolampiko"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "sy Mpanavotra ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:10.276670613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 26:7",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary hanao ôtelin'ny volon'osy ianao ho eo ambony ny tranolay: ambaraodinon'ny ôtelinao hanao ⟨את⟩ izy ireo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ary hanao"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "ôtelina"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "volon'osy"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "ho ôtelina ho an'ny"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ny tranolay"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ambaraodinon'ny"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(iraina ambin'ny folo)"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "ôtelina"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izy ireo (ny ôtelina iraika ambin'ny folo)"
+    }
+  ],
+  "timestamp": "2026-08-31T18:28:33.970074707Z",
+  "model": "glm-5.3"
+}

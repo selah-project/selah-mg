@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 10:9",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Hatramin'ny andron'i Gibea i Isiraela efa nanao meloka; tao ⟨izy⟩ nijanona; tsy hahatratra azy ny ady any Gibea, noho ny zanaky ny faharatsiana.",
+  "tokens": [
+    {
+      "surface": "מימי",
+      "gloss": "Hatramin'ny andron'i"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Gibea"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "efa nanao meloka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraela"
+    },
+    {
+      "surface": "שם",
+      "gloss": "tao"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "nijanona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תשיגם",
+      "gloss": "hahatratra azy"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "any Gibea"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ny ady"
+    },
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny zanaky"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "ny faharatsiana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:09:54.283858457Z",
+  "model": "glm-5.3"
+}

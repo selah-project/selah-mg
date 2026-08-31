@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary hitan'ny mpanjakavavin'i Sheba ⟨את⟩ ny fahendrena rehetra an'i Shelomoh sy ny trano nataony.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Ary hitan'"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ny mpanjakavavy"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahendrena rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "fahendrena"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "sy ny trano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "nataony"
+    }
+  ],
+  "timestamp": "2026-08-31T14:43:34.739177401Z",
+  "model": "glm-5.3"
+}

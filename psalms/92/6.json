@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 92,
+  "translation": "Mahalehibe ny asanao, ry Yahveh; lalina fatratra ny fisainanao.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mahalehibe"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ny asanao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "fatratra"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "lalina"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "ny fisainanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:44.070575196Z",
+  "model": "glm-5.3"
+}

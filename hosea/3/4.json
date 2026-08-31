@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Fa andro maro no hitoeran'ny zanak'i Isiraely tsy misy mpanjaka, tsy misy andriandahy, tsy misy sorona, tsy misy tsangam-bato, tsy misy efoda, ary tsy misy terafima.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maro"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "hitoeran'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "שר",
+      "gloss": "andriandahy"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sorona"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "tsangam-bato"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efoda"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "ary tsy misy terafima"
+    }
+  ],
+  "timestamp": "2026-08-31T16:07:44.555427793Z",
+  "model": "glm-5.3"
+}

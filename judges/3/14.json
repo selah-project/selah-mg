@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary nanompo ⟨את⟩ Eglon mpanjakan'i Moaba ny zanak'i Yisrael valo ambin'ny folo taona.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "nanompo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglon mpanjakan'i Moaba"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'i"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "valo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ambin'ny folo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    }
+  ],
+  "timestamp": "2026-08-31T14:06:05.343262677Z",
+  "model": "glm-5.3"
+}

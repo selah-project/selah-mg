@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary koa, tsy tsara ny fanahy ⟨tsy manam-pahalalana⟩; ary izy mifainga amin'ny tongotra dia manota.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ary koa"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "fahalalana"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "ary izy mifainga"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "amin'ny tongotra"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "manota"
+    }
+  ],
+  "timestamp": "2026-08-31T16:55:23.206249066Z",
+  "model": "glm-5.3"
+}

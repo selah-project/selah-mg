@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary Salmona niteraka ⟨את⟩ an'i Boaza, ary Boaza niteraka ⟨את⟩ an'i Obeda.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "Salmona"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boaza"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaza"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "Boaza"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obeda"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obeda"
+    }
+  ],
+  "timestamp": "2026-08-31T17:10:51.987031116Z",
+  "model": "glm-5.3"
+}

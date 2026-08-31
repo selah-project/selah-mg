@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 65:24",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 65,
+  "translation": "Ary dia ho tonga izany: raha tsy efa miantso aza izy, dia izaho hamaly; fa mbola miteny izy, dia izaho re.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ary dia ho tonga izany"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "raha tsy efa"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "miantso aza"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dia izaho"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "hamaly"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "fa mbola"
+    },
+    {
+      "surface": "הם",
+      "gloss": "izy"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "miteny"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "dia izaho"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "re"
+    }
+  ],
+  "timestamp": "2026-08-31T15:22:21.024586454Z",
+  "model": "glm-5.3"
+}

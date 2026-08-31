@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 148,
+  "translation": "Aoka hiderana ny anaran'i Yahveh, fa avo rahateo ny anarany irery ihany; ary ny voninahiny ambonin'ny tany sy ny lanitra.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "aoka hiderana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anarana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "anarana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "avo rahateo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ny anarany"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "irery ihany"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "ny voninahiny"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "sy ny lanitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:28.555395026Z",
+  "model": "glm-5.3"
+}

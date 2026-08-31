@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary Yahveh nanendry fotoana ⟨hoy Izy⟩: Rahampitso no hanaovan'i Yahveh ⟨itony⟩ zavatra itony amin'ny tany.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "nanendry"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "fotoana"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoy Izy"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "Rahampitso"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hanaovan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "zavatra"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "itony"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "amin'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:41.021146668Z",
+  "model": "glm-5.3"
+}

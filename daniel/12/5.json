@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 12:5",
+  "book": "daniel",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Dia hitako izaho Daniela, ary indro nitsangana roa hafa: iray teto amin'ny sisin'ny renirano, ary iray teo amin'ny sisin'ny renirano.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "dia hitako"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniela"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ary indro"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "roa"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "hafa"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "nitsangana"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "teto"
+    },
+    {
+      "surface": "לשפת",
+      "gloss": "amin'ny sisin'ny"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "renirano"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ary iray"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "teo"
+    },
+    {
+      "surface": "לשפת",
+      "gloss": "amin'ny sisin'ny"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "renirano"
+    }
+  ],
+  "timestamp": "2026-08-31T17:26:07.866248103Z",
+  "model": "glm-5.3"
+}

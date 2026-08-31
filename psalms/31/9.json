@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary tsy nampidirinao tao an-tànàn'ny fahavalo aho; nampitoerinao tao amin'ny tany malalaka ny tongotro.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ary tsy"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "nampidirinao"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "tao an-tànàn'ny"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "fahavalo"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "nampitoerinao"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "tao amin'ny tany malalaka"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ny tongotro"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:14.655088083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary Mitsrayim niteraka ⟨את⟩ ny Lodima sy ⟨את⟩ ny Anamima sy ⟨את⟩ ny Lehabima ary ⟨את⟩ ny Naftokima.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Ary Mitsrayim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Lodima"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "ny Lodima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny Anamima"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "ny Anamima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny Lehabima"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "ny Lehabima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny Naftokima"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "ny Naftokima"
+    }
+  ],
+  "timestamp": "2026-08-31T18:19:31.165726242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 139,
+  "translation": "Tsy halan-ko va, ry Yahveh, izay mankahala Anao? Ary tsy mifanohitra amin'ireo mitsangana manohitra Anao va izaho?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Tsy ... va"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "izay mankahala Anao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "halan-ko"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "amin'ireo mitsangana manohitra Anao"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "mifanohitra"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:55.822327247Z",
+  "model": "glm-5.3"
+}

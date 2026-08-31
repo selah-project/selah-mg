@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 14:28",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Amin'ny faran'ny telo taona dia hivoatrao ⟨את⟩ ny fahafolon'ny vokatrao rehetra amin'izay taona izay, ka hapetrakao ao anatin'ny vavahadinao.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "Amin'ny faran'ny"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "telo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taona"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "hivoatrao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fahafolon'ny vokatrao rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "ny fahafolon'ny"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "vokatrao"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "amin'izay taona"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izay"
+    },
+    {
+      "surface": "והנחת",
+      "gloss": "ka hapetrakao"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "ao anatin'ny vavahadinao"
+    }
+  ],
+  "timestamp": "2026-08-31T13:44:29.459205644Z",
+  "model": "glm-5.3"
+}

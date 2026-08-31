@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary nony ampitso dia nataon'i Yahveh ⟨את⟩ ilay zavatra, ka maty ny omby rehetra an'i Mitsrayim; fa ny omby ao amin'ny zanak'i Yisraely dia tsy maty na dia iray aza.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nataon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay zavatra"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ilay zavatra"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "nony ampitso"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ka maty"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "omby"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "an'i Mitsrayim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "fa ny omby ao amin'ny"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraely"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "מת",
+      "gloss": "maty"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "na dia iray aza"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:41.021389526Z",
+  "model": "glm-5.3"
+}

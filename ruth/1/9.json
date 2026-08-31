@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 1:9",
+  "book": "ruth",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Omeon'i Yahveh hianareo ⟨hahita⟩ fialam-boly, isan'ny vavy, ao an-tranon'ny vadiny; ary izy nanoroka azy ireo, ka nanandratra ny feony izy ireo ary nitomany.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "Omeon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "hianareo"
+    },
+    {
+      "surface": "ומצאן",
+      "gloss": "ka ⟨hahita⟩"
+    },
+    {
+      "surface": "מנוחה",
+      "gloss": "fialam-boly"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "isan'ny vavy"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ao an-tranon'ny"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "vadiny"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "ary izy nanoroka"
+    },
+    {
+      "surface": "להן",
+      "gloss": "azy ireo"
+    },
+    {
+      "surface": "ותשאנה",
+      "gloss": "ka nanandratra"
+    },
+    {
+      "surface": "קולן",
+      "gloss": "ny feony"
+    },
+    {
+      "surface": "ותבכינה",
+      "gloss": "ary nitomany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:11:40.891637733Z",
+  "model": "glm-5.3"
+}

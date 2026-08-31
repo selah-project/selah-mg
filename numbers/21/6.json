@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary Yahveh nanana ⟨את⟩ ny bibilava mirehitra tao amin'ny olona, ka namely paika ny olona, ary maty olona be tolakandro avy tamin'i Yisrael.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "nanana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "tao amin'ny olona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny bibilava mirehitra"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "ny bibilava"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "mirehitra"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "ka namely paika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny olona"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ary maty"
+    },
+    {
+      "surface": "עם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "רב",
+      "gloss": "be tolakandro"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "avy tamin'i Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-31T13:32:07.949750876Z",
+  "model": "glm-5.3"
+}

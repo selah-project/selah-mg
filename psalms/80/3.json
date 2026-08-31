@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 80,
+  "translation": "Eo anoloan'i Efraima sy Benjamina sy Manase, ampio hetsika ⟨את⟩ ny herinao, ka avia ho famonjena antsika.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "eo anoloan'i"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraima"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "sy Benjamina"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "sy Manase"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "ampio hetsika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny herinao"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "ny herinao"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "ka avia"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "ho famonjena"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "antsika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:27.068826994Z",
+  "model": "glm-5.3"
+}

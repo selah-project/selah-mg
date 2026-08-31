@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 14:18",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Yahveh mahari-po ⟨no⟩ be hesed, mandray ny fahadisoana sy ny fandikana, fa tsy manadio tanteraka ⟨ny meloky⟩; mitsidika ny fahadisoan'ny razana ambonin'ny zanaka, ambonin'ny taranaka fahatelo sy ambonin'ny taranaka fahefatra:",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "mahari-po"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "⟨fahatezerana⟩"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "be"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mandray"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ny fahadisoana"
+    },
+    {
+      "surface": "ופשע",
+      "gloss": "sy ny fandikana"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "fa tsy manadio"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "manadio tanteraka"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "mitsidika"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ny fahadisoan'ny"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "razana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "taranaka fahatelo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sy ambonin'ny"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "taranaka fahefatra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:29:15.795621911Z",
+  "model": "glm-5.3"
+}

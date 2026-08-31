@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary lehilahy izay mijangaja ⟨את⟩ amin' ny vadin' olona, dia izay mijangaja ⟨את⟩ amin' ny vadin' ny namany, dia hatao maty tokoa ilay lehilahy mijangaja sy ilay vehivavy mijangaja.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Ary lehilahy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "mijangaja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vadin' olona"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vadin'"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "mijangaja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vadin' ny namany"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vadin'"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ny namany"
+    },
+    {
+      "surface": "מות",
+      "gloss": "maty"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "tokoa hatao"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "ilay lehilahy mijangaja"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "sy ilay vehivavy mijangaja"
+    }
+  ],
+  "timestamp": "2026-08-31T13:19:07.600652587Z",
+  "model": "glm-5.3"
+}

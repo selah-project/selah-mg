@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Amin'ny kamo dia mianjera ny tampon-trano, ary amin'ny havananan'ny tanana dia mitete ny trano.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "amin'ny kamo"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "mianjera"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "ny tampon-trano"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "ary amin'ny havananana"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "tanana"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "mitete"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ny trano"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:10.303585764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Maso ho solon'maso, nify ho solon'nify, tanana ho solon-tanana, tongotra ho solon-tongotra.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "maso"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ho solon'"
+    },
+    {
+      "surface": "עין",
+      "gloss": "maso"
+    },
+    {
+      "surface": "שן",
+      "gloss": "nify"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ho solon'"
+    },
+    {
+      "surface": "שן",
+      "gloss": "nify"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tanana"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ho solon'"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tanana"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "tongotra"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ho solon'"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "tongotra"
+    }
+  ],
+  "timestamp": "2026-08-31T17:56:23.021374397Z",
+  "model": "glm-5.3"
+}

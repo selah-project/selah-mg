@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Tsarovy ⟨את⟩ ny andron'ny Shabbat, hanamasina azy.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Tsarovy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny andron'ny Shabbat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ny andron'ny"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "hanamasina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:01:14.999641063Z",
+  "model": "glm-5.3"
+}

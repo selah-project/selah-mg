@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 20:9",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ny maso izay nanjelany dia tsy hanampy intsony; ary tsy hitohy hahita azy ny toerany.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "maso"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "izay nanjelany"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "hanampy intsony"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hitohy"
+    },
+    {
+      "surface": "תשורנו",
+      "gloss": "hahita azy"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ny toerany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:03:35.150471841Z",
+  "model": "glm-5.3"
+}

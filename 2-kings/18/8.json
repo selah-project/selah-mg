@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Izy no namely ⟨את⟩ ny Pelishtiana ka hatrany Aza sy ⟨את⟩ ny faritr'izy ireo, manomboka amin'ny tilikambo fiambenana ka hatramin'ny tanàna mimanda.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Izy no"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "namely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Pelishtiana"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtiana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka hatrany"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny faritr'izy ireo"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "ny faritr'izy ireo"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "amin'ny tilikambo"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "fiambenana"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "mimanda"
+    }
+  ],
+  "timestamp": "2026-08-31T14:57:42.265700717Z",
+  "model": "glm-5.3"
+}

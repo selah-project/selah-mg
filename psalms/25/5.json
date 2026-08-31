@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Tariho amin'ny fahamarinanao ahy, ary ampianaro ahy, fa ianao no Elohy famonjena ahy; ⟨את⟩ anao no andrasako mandritra ny andro rehetra.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Tariho...ahy"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "amin'ny fahamarinanao"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "ary ampianaro ahy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohy"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "famonjena ahy"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "anao (ilan'ny andrasana)"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "andrasako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mandritra ny... rehetra"
+    },
+    {
+      "surface": "היום",
+      "gloss": "andro"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:51.024983265Z",
+  "model": "glm-5.3"
+}

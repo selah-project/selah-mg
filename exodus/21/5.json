@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Raha hoy mazava ny mpanompo: Tiako ny tompoko, ⟨את⟩ ny vadiko sy ⟨את⟩ ny zanako; tsy hivoaka aho afaka.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mazava"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "ny mpanompo"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "Tiako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tompoko"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ny tompoko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vadiko"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "ny vadiko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny zanako"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny zanako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "hivoaka aho"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "afaka"
+    }
+  ],
+  "timestamp": "2026-08-31T13:03:24.529425396Z",
+  "model": "glm-5.3"
+}

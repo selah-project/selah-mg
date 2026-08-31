@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Yahveh Eloahiko, raha nataoko izao, raha misy tsi-fahamarinana eo an-tanako,",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloahiko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "natako"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izao"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "יש",
+      "gloss": "misy"
+    },
+    {
+      "surface": "עול",
+      "gloss": "tsi-fahamarinana"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "eo an-tanako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:20.140969803Z",
+  "model": "glm-5.3"
+}

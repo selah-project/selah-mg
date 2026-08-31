@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 78,
+  "translation": "Ary hanana itokisana amin'i Elohim ny ankanavany, ary tsy hanadino ny asan'El, fa hitandrina ny didiny.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "hanana"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "amin'i Elohim"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "itokisana ny ankanavany"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "hanadino"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "ny asan'"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "fa ny didiny"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "hitandrina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:19.835856467Z",
+  "model": "glm-5.3"
+}

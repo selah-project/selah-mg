@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary enin-taona no hanafafanao ⟨את⟩ ny taninao, ary hanangonanao ⟨את⟩ ny vokatriny.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "Ary enin-"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taona"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "no hanafafanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny taninao"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ny taninao"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ary hanangonanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vokatriny"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ny vokatriny"
+    }
+  ],
+  "timestamp": "2026-08-31T13:02:56.404225515Z",
+  "model": "glm-5.3"
+}

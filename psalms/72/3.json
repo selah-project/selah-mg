@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 72,
+  "translation": "Hitondra fiadanana ho an'ny vahoaka ny tendrombohitra, ary ny havoana amin'ny fahamarinana.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "Hitondra"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ny tendrombohitra"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fiadanana"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ho an'ny vahoaka"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "ary ny havoana"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "amin'ny fahamarinana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:40.930808124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 60,
+  "translation": "Ary hanorina ny mandanao ny zanaky ny vahiny, ary ny mpanjakany hanompo anao; fa tamin'ny fahatezerako no namely anao, ary amin'ny fitiavako no hamindram-po aminao.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "Ary hanorina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny zanaky ny"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "vahiny"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "ny mandanao"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "ary ny mpanjakany"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "hanompo anao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "tamin'ny fahatezerako"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "no namely anao"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "ary amin'ny fitiavako"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "no hamindram-po aminao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:20:26.122450040Z",
+  "model": "glm-5.3"
+}

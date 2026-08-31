@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary maty Yosofa sy ny rahalahiny rehetra sy ny taranaka rehetra tamin'izany.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Ary maty"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosofa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ... rehetra"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ny rahalahiny"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ... rehetra"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "ny taranaka"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "tamin'izany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:53:46.785629729Z",
+  "model": "glm-5.3"
+}

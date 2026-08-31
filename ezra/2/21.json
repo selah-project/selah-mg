@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 2:21",
+  "book": "ezra",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Zanak'ireo tao amin'ny Bet-lehema: ⟨nisy⟩ zato amby roa amby roapolo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "zanak'ireo tao amin'ny"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bait"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehema"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "zato"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "roapolo"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "amby roa amby roapolo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:25:05.975532466Z",
+  "model": "glm-5.3"
+}

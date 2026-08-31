@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Fa raha toa ianao tsy mety manolo-tena hanafaka ⟨את⟩ ny olona, indro izaho mampidy valala rahampitao ao an-taninao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha toa"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "tsy mety"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "manolo-tena hanafaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny olona"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "indro izaho"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "mampidy"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "rahampitao"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "valala"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "ao an-taninao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:15.552742243Z",
+  "model": "glm-5.3"
+}

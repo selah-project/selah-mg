@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 28:2",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Ary nandeha tamin'ny lalan'ny mpanjakan'i Isiraely izy, ary nanao sarin-tsarimihary nasiana vy toy izany ho an'ireo Baala.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nandeha tamin'ny lalan'"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "lalan'"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mpanjakan'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ary toy izany"
+    },
+    {
+      "surface": "מסכות",
+      "gloss": "sarin-tsarimihary nasiana vy"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "ho an'ireo Baala"
+    }
+  ],
+  "timestamp": "2026-08-31T17:49:25.560497539Z",
+  "model": "glm-5.3"
+}

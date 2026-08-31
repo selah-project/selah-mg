@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Tsara ny kely amin'ny fahamarinana noho ny be vokatra tsy misy fitsarana.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ny kely"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "amin'ny fahamarinana"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ny be"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "vokatra"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "fitsarana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:53:30.808988880Z",
+  "model": "glm-5.3"
+}

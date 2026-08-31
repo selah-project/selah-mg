@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "An'i Davida, salamo. An'i Yahveh ny tany mbamin'ny fahafeny, izao tontolo izao mbamin'izay monina ao aminy.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "An'i Davida"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "salamo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "An'i Yahveh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "mbamin'ny fahafeny"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "izao tontolo izao"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "mbamin'izay monina"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ao aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:07.610663075Z",
+  "model": "glm-5.3"
+}

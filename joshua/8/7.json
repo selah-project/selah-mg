@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary ianareo kosa hitsangana avy amin'ny toerana ambisy ka hanabo ⟨את⟩ ilay tanàna; ary homen'i Yahveh, Elohinareo, an-kavanana io.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Ary ianareo kosa"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "hitsangana"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "avy amin'ny toerana ambisy"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "ka hanabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay tanàna"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ilay tanàna"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ary homen-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "an-kavanana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:57:44.046732347Z",
+  "model": "glm-5.3"
+}

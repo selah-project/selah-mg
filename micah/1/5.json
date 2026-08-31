@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 1:5",
+  "book": "micah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Noho ny fahadisoan'i Yaakovob izao rehetra izao, sy noho ny fahotan'ny taranak'Isiraely. Iza no fahadisoan'i Yaakovob? Tsy Shomeron va? Ary iza no bamotan'i Yehuda? Tsy Yeroshalayim va?",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "Noho ny fahadisoan'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovob"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izao rehetra izao"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izao"
+    },
+    {
+      "surface": "ובחטאות",
+      "gloss": "sy noho ny fahotan'ny"
+    },
+    {
+      "surface": "בית",
+      "gloss": "taranak'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Iza no"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "fahadisoana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovob"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Tsy ... va"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Ary iza no"
+    },
+    {
+      "surface": "במות",
+      "gloss": "bamota"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Tsy ... va"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    }
+  ],
+  "timestamp": "2026-08-31T18:12:04.280180936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 77,
+  "translation": "Hadino ny fangatahana famindram-po va ny El? Maharitra ny fahatezerana va ny famindrampoany? Selah.",
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "hadino va"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "ny fangatahana famindram-po"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אם",
+      "gloss": "va"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "Maharitra"
+    },
+    {
+      "surface": "באף",
+      "gloss": "amin'ny fahatezerana"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "ny famindrampoany"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:32.827603059Z",
+  "model": "glm-5.3"
+}

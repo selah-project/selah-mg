@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nanitarika ⟨את⟩ ny tany i Aharon ambonin'ny ranon'i Mitsrayim; dia niakatra ny saobakana ka nanarona ⟨את⟩ ny tany Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "nanitarika"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "i Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "ranon'i"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "dia niakatra"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "ny saobakana"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "ka nanarona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:18.277224739Z",
+  "model": "glm-5.3"
+}

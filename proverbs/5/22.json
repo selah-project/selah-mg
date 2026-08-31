@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ny tsi-fahitsiany ihany no hisambotra azy ⟨את⟩ ilay ratsy fanahy, ary amin'ny famatoran'ny fahotany no hotehirizina.",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "ny tsi-fahitsiany ihany"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "no hisambotra azy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay ratsy fanahy"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ilay ratsy fanahy"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "ary amin'ny famatoran'ny"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "ny fahotany"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "no hotehirizina"
+    }
+  ],
+  "timestamp": "2026-08-31T18:36:04.974667128Z",
+  "model": "glm-5.3"
+}

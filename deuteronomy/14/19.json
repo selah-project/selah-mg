@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary ny zava-manidina mivelatra madinika rehetra dia tsy madio ho anareo; tsy azo homana.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ary ny ... rehetra"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "zava-mivelatra madinika"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "manidina"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "tsy madio"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨izy⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "azo homana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:44:42.563062315Z",
+  "model": "glm-5.3"
+}

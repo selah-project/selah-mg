@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 6:12",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary niseho taminy ny irakan'i Yahveh, ka nanao taminy hoe: Yahveh miaraka aminao, ry mahery fo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Ary niseho"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tamininy"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ny iraka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao taminy hoe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "miaraka aminao"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ry mahery"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "fo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:06:50.182791261Z",
+  "model": "glm-5.3"
+}

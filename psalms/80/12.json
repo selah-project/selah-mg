@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 80,
+  "translation": "Natolotra hatrany amin'ny ranomasina ny rantsany, ary hatreo amin'ny ony ny tsimokany.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "natolotra\/nalefa lavitra"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "ny rantsany"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hatrany amin'ny"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ranomasina"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary hatreo amin'ny"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ony"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "ny tsimokany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:29.119616320Z",
+  "model": "glm-5.3"
+}

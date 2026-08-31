@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Mihirà ho Azy, mandea soa ho Azy, resaho ny fahagagana rehetra nataony.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Mihirà"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho Azy"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "mandea soa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ho Azy"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "resaho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ny ... rehetra"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "fahagagana nataony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:39.065500138Z",
+  "model": "glm-5.3"
+}

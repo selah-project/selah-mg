@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Fa inona no mihoatra ho an'ny hendry raha oharina amin'ny adala? inona no ho an'ny malahelo mahay mandeha eo anoloan'ny velona?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "inona"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "no mihoatra"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ho an'ny hendry"
+    },
+    {
+      "surface": "מן",
+      "gloss": "raha oharina amin'ny"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "adala"
+    },
+    {
+      "surface": "מה",
+      "gloss": "inona"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ho an'ny malahelo"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "mahay"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "eo anoloan'ny"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "velona"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:28.170878175Z",
+  "model": "glm-5.3"
+}

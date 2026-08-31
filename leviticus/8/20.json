@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary ilay ondrilahy ⟨את⟩ no notapahina tapingina; ary Moshe nandoro ⟨את⟩ ny loha sy ⟨את⟩ ny tapingina ary ⟨את⟩ ny tavy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilay ondrilahy"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ilay ondrilahy"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "notapahina"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "tapingina"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "nandoro (natalo hafanana)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny loha"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ny loha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tapingina"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "ny tapingina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavy"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "ny tavy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:13:37.943268748Z",
+  "model": "glm-5.3"
+}

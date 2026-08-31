@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 25:24",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary amin'ny tany fananana rehetra anareo dia fanavotana omena ho an'ny tany.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "Ary amin'ny ... rehetra"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "fananana anareo"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "fanavotana"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "omena ianareo"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ho an'ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:21:03.712124178Z",
+  "model": "glm-5.3"
+}

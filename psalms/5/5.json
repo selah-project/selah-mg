@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Fa ianao tsy El tia ratsy (resha); ny ratsy tsy hitoetra ao aminao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "tia"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ratsy (resha)"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "hitoetra ao aminao"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ny ratsy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:41.820655596Z",
+  "model": "glm-5.3"
+}

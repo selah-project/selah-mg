@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary nanoroka an'i Rachel Yaakov ka nanandratra ⟨את⟩ ny feony ka nitomany.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "nanoroka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "an'i Rachel"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "nanandratra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny feony"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "feony"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "nitomany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:44:42.196709565Z",
+  "model": "glm-5.3"
+}

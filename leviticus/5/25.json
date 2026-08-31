@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary hitondra ny tsy fahita mandidy azy ho any amin'i Yahveh izy: ondrilahy tsy misy tsiny avy amin'ny biby fiompy, araka ny tombontombonao, ho fanatitra heloka, ho any amin'ny mpisorona.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny tsy fahita mandidy azy"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "tsy fahita mandidy azy"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "hitondra"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho any amin'i Yahveh"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ondrilahy"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tsy misy tsiny"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "biby fiompy"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "araka ny tombontombonao"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "ho fanatitra heloka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mpisorona"
+    }
+  ],
+  "timestamp": "2026-08-31T13:12:31.273202380Z",
+  "model": "glm-5.3"
+}

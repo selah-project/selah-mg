@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary izay zava-mandady manidina rehetra izay manana tongotra efatra — fahavetavetana ho anareo ⟨izy⟩.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ary izay ... rehetra"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "zava-mandady"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "manidina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay manana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨manana⟩"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "efatra"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "tongotra"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "fahavetavetana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨izy⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:14:58.060093705Z",
+  "model": "glm-5.3"
+}

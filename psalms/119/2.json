@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Sambatra izay mitandrina ny zavatra vavolombelony, amin'ny fony manontolo no mitady Azy.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Sambatra"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "izay mitandrina"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "ny zavatra vavolombelony"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... manontolo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "fony"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "no mitady Azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:50.727631333Z",
+  "model": "glm-5.3"
+}

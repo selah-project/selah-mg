@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 74,
+  "translation": "Nikotroka ny fahavalo nandroo anao tao anivon'ny fivoriam-be nanaovanao; nametraka ny famantarany ho famantarana izy.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "Nikotroka"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "ny fahavalo nandroo anao"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "tao anivon'ny"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "fivoriam-be nanaovanao"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nametraka"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "ny famantarany"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "ho famantarana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:18.329677878Z",
+  "model": "glm-5.3"
+}

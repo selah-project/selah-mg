@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary kely foana, dia tsy misy intsony ny ratsy fanahy; ka jereo ny toerany, dia tsy hita izy.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Ary (foana)"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kely"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "ka jereo"
+    },
+    {
+      "surface": "על",
+      "gloss": "(eo) amin'ny"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ny toerany"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "tsy hita izy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:55.861796244Z",
+  "model": "glm-5.3"
+}

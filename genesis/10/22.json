@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ny zanak'i Shema dia Elama sy Ashora sy Arfaksada sy Loda ary Arama.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ny zanak'i"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shema"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elama"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "sy Ashora"
+    },
+    {
+      "surface": "וירפכשד",
+      "gloss": "sy Arfaksada"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "sy Loda"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "ary Arama"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:10.946196271Z",
+  "model": "glm-5.3"
+}

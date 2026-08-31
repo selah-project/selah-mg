@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Fa raha toa ianao mandà tsy hamela azy, ary mbola miantana aminy foana ianao —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha toa"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "mandà"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "tsy hamela azy"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "ary mbola"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "miantana aminy foana"
+    },
+    {
+      "surface": "בם",
+      "gloss": "aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:18.331039409Z",
+  "model": "glm-5.3"
+}

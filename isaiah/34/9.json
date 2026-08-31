@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 34:9",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ary hosoloina ho zava-manitra ny lohasahany, ary ny vovony ho solifara; ary ho zava-manitra mirehitra ny tany.",
+  "tokens": [
+    {
+      "surface": "ונהפכו",
+      "gloss": "hosoloina"
+    },
+    {
+      "surface": "נחליה",
+      "gloss": "ny lohasahany"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "ho zava-manitra"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "ary ny vovony"
+    },
+    {
+      "surface": "לגפרית",
+      "gloss": "ho solifara"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ary ho"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "zava-manitra"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "mirehitra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:12:28.502073550Z",
+  "model": "glm-5.3"
+}

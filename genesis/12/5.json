@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 12:5",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Dia naka i Avrahama ⟨את⟩ i Saray vadiny sy ⟨את⟩ i Lota zanak'ireo rahalahiny ary ⟨את⟩ ny fananany rehetra izay novoriny, sy ⟨את⟩ ny fanahy izay nataony tany Harana; dia nivoaka izy ho anankany amin'ny tany Kenaana, ary tonga tany amin'ny tany Kenaana izy.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "naka"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrahama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saray"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vadiny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Lota"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lota"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "rahalahiny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "fananany rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "fananany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "novoriny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "fanahy"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "tany Harana"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "nivoaka"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ho anankany"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "tany"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "tany"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:48.608409014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary efa simba teo anatrehan'ny Elohim ny tany, ka feno herisetra ny tany.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "efa simba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anatrehan'ny"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "ka feno"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "herisetra"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:30.938567725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Tsy misy fahasalamana intsony ao amin'ny nofoko noho ny fahatezeranao, tsy misy fiadanana intsony ao amin'ny taolanko noho ny fahotako.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Tsy misy"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "fahasalamana"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "ao amin'ny nofoko"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "noho"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "ny fahatezeranao"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fiadanana"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "ao amin'ny taolanko"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "noho"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ny fahotako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:29.372925016Z",
+  "model": "glm-5.3"
+}

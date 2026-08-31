@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 6:3",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary ny iray niantso ny iray ka nanao hoe: Masina, masina, masina Yahveh Tsevaot, feno ny tany rehetra ny voninahiny.",
+  "tokens": [
+    {
+      "surface": "וקרא",
+      "gloss": "Ary ... niantso"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ny iray"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ny iray"
+    },
+    {
+      "surface": "זה",
+      "gloss": "(iantsoana)"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Masina"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "feno"
+    },
+    {
+      "surface": "כל",
+      "gloss": "reo rehetra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ny voninahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T15:04:02.487457005Z",
+  "model": "glm-5.3"
+}

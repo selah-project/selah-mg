@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ny zanak'i Yafeta: Gomer sy Magoga sy Maday ary Yavana sy Tubala sy Mesheka ary Tirasa.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yafeta"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "sy Magoga"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "sy Maday"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "ary Yavana"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "sy Tubala"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "sy Mesheka"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "ary Tirasa"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:27.746242158Z",
+  "model": "glm-5.3"
+}

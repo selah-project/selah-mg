@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Izy rehetra dia voahemotra noho ilay olona tsy mahasoa azy ireo; tsy ho famonjena, ary tsy hahasoa, fa ho fahamenarana ary koa ho fanamavoavana.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "voahemotra"
+    },
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "עם",
+      "gloss": "olona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "mahasoa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "azy ireo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "ho famonjena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "hahasoa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "fahamenarana"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ary koa"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "fanamavoavana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:11:18.782989635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary ny fonenany dia avy any Mesha, ⟨rehefa⟩ mandeha mankany Sefara, ⟨any⟩ tendrombohitra atsinanana.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary (ny fonenany) dia"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "ny fonenany"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "avy any Mesha"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "rehefa mandeha"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "mankany Sefara"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "atsinanana"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:16.885719189Z",
+  "model": "glm-5.3"
+}

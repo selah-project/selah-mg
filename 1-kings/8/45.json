@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary ho renao any an-danitra ⟨את⟩ ny fivavahan'izy ireo sy ⟨את⟩ ny fangatahan'izy ireo, ary hataonao ny fitsarana azy.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Ary ho renao"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "any an-danitra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fivavahan'izy ireo"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ny fivavahan'izy ireo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fangatahan'izy ireo"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "ny fangatahan'izy ireo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ary hataonao"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ny fitsarana azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:43:34.665070296Z",
+  "model": "glm-5.3"
+}

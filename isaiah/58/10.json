@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 58:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 58,
+  "translation": "Ary raka ny fanahinao ho an'ny noana, ary vokisenao ny fanahy toraky, dia hitsenta ny mazanao ao amin'ny maizina, ary ny maizinanao ho toy ny mitataovovonana.",
+  "tokens": [
+    {
+      "surface": "ותפק",
+      "gloss": "raka"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "ho an'ny noana"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ny fanahinao"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ary ny fanahy"
+    },
+    {
+      "surface": "נענה",
+      "gloss": "toraky"
+    },
+    {
+      "surface": "תשביע",
+      "gloss": "vokisenao"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "hitsenta"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ao amin'ny maizina"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ny mazanao"
+    },
+    {
+      "surface": "ואפלתך",
+      "gloss": "ary ny maizinanao"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "ho toy ny mitataovovonana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:21:06.349737244Z",
+  "model": "glm-5.3"
+}

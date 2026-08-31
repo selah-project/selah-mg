@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 40:20",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary tamin'ny andro fahatelo, andro nahaterahan'i Parao, dia nanao fanasana ho an'ny mpanompony rehetra izy, ka nandratra ⟨את⟩ ny lohan'ny lehiben'ny mpisotro ary ⟨את⟩ ny lohan'ny lehiben'ny mpambo sakafo teo anivon'ny mpanompony.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary tamin'ny"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "fahatelo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andro"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "nahaterahan'ny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Parao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dia nanao"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "fanasana"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho an'ny ... rehetra"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "mpanompony"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "ka nandratra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lohan'ny lehiben'ny mpisotro"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ny lohan'ny"
+    },
+    {
+      "surface": "שר",
+      "gloss": "lehiben'ny"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "mpisotro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny lohan'ny lehiben'ny mpambo sakafo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ny lohan'ny"
+    },
+    {
+      "surface": "שר",
+      "gloss": "lehiben'ny"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "mpambo sakafo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "teo anivon'ny"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "mpanompony"
+    }
+  ],
+  "timestamp": "2026-08-31T12:49:48.515612646Z",
+  "model": "glm-5.3"
+}

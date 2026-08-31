@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 66,
+  "translation": "izay nokaokin'ny molotro sy nolazain'ny vavako tamin'ny fahoriana nanjo ahy.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "nokaokin'ny"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "molotro"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "sy nolazain'ny"
+    },
+    {
+      "surface": "פי",
+      "gloss": "vavako"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "tamin'ny fahoriana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nanjo ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:55.771251777Z",
+  "model": "glm-5.3"
+}

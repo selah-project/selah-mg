@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ary Hamora rain'i Shekema dia nivoaka nankeo amin'i Yaakov hitsaraka ⟨amin'⟩ ⟨את⟩ azy.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Ary ... nivoaka"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamora"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rain'i"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nankeo amin'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "hitsaraka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (Yaakov)"
+    }
+  ],
+  "timestamp": "2026-08-31T17:55:39.351577149Z",
+  "model": "glm-5.3"
+}

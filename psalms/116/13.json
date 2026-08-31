@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 116:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 116,
+  "translation": "Ny kapoakan'ny famonjena no hasandratro, ary amin'ny anaran'i Yahveh hiantso.",
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "kapoaka"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "famonjena"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "hasandratro"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "amin'ny anaran'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "hiantso"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:47.162470707Z",
+  "model": "glm-5.3"
+}

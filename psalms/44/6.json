@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Aminao izahay manoa ny fahavalo; amin'ny anaranao izahay mandrotsa ny mitsangana hiady antsika.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Aminao"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "ny fahavalo"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "manoa"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "amin'ny anaranao"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "mandrotsa"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "ny mitsangana hiady antsika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:35.232507020Z",
+  "model": "glm-5.3"
+}

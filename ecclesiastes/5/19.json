@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 5:19",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Fa tsy ho firy no hahatsiarovany ⟨את⟩ ny andron'ny fiainany, fa ny Elohim no mamaly azy amin'ny fifalian'ny fony.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ho firy"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "hahatsiarovany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny andron'ny fiainany"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ny andron'ny"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "fiainany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "mamaly"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "amin'ny fifalian'ny"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "fony"
+    }
+  ],
+  "timestamp": "2026-08-31T18:16:36.243619205Z",
+  "model": "glm-5.3"
+}

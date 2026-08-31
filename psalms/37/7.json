@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Manginaho eo anatrehan'i Yahveh, ary andraso Azy; aza tezitra noho ilay mahomby amin'ny lalany, na noho ilay olona manao teti-dratsy.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Manginaho"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "eo anatrehan'i Yahveh"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "ary andraso"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Azy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "tezitra"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "noho ilay mahomby"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "amin'ny lalany"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "noho ilay olona"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "manao"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "teti-dratsy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:12.952467254Z",
+  "model": "glm-5.3"
+}

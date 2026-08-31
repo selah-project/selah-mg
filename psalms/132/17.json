@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 132,
+  "translation": "Any no hampivoatro tandroka ho an'i Davida; efa nanomaniko fanilo ho an'ny Mesiko.",
+  "tokens": [
+    {
+      "surface": "שָׁם",
+      "gloss": "any"
+    },
+    {
+      "surface": "אַצְמִיחַ",
+      "gloss": "hampivoatro"
+    },
+    {
+      "surface": "קֶרֶן",
+      "gloss": "tandroka"
+    },
+    {
+      "surface": "לְדָוִד",
+      "gloss": "ho an'i Davida"
+    },
+    {
+      "surface": "עָרַכְתִּי",
+      "gloss": "efaanomaninko"
+    },
+    {
+      "surface": "נֵר",
+      "gloss": "fanilo"
+    },
+    {
+      "surface": "לִמְשִׁיחִי",
+      "gloss": "hoan'ny Mesiko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:13.445566122Z",
+  "model": "glm-5.3"
+}

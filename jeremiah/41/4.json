@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 41,
+  "translation": "Ary tamin'ny andro faharoa namonoana ⟨את⟩ Gedalyahu, dia tsy nisy olona nahalala.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary dia nisy"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "השני",
+      "gloss": "faharoa"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "namonoana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedalyahu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalyahu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "dia olona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nahalala"
+    }
+  ],
+  "timestamp": "2026-08-31T15:40:45.913877123Z",
+  "model": "glm-5.3"
+}

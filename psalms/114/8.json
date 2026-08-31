@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 114,
+  "translation": "Izay mampiova ny vatolampy ho farihy rano, ny vato mafy ho loharano rano.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "izay mampiova"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "ny vatolampy"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "ho farihy"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "vato mafy"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "ho loharano"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:52.028062315Z",
+  "model": "glm-5.3"
+}

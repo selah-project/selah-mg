@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Tsy hihinana zavatra masirasira akory hianareo; any amin'ny fonenana rehetra ananareo dia hihinan-kenareo mantsina.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "... rehetra"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "zavatra masirasira"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsy ... akory"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "hihinana"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "any amin'ny ... rehetra"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "fonenana ananareo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "hihinan-kenareo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mantsina"
+    }
+  ],
+  "timestamp": "2026-08-31T12:59:09.707511643Z",
+  "model": "glm-5.3"
+}

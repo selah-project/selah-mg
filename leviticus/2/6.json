@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Vaky amin'ny tapa-tapa ⟨את⟩ io no hataonao, ary sidihanao diloilo eo amboniny; mincha io.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "Vaky amin'ny tapa-tapa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "פתים — tapa-tapa"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "tapa-tapa"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "sidihanao"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "eo amboniny"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "diloilo"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "io"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:26.368466862Z",
+  "model": "glm-5.3"
+}

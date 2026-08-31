@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 101,
+  "translation": "Ny masoko ⟨dia⟩ amin'ny mahatoky amin'ny tany, hitoerany amiko; izay mandeha amin'ny lalàna marina, izy no hanompo ahy.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ny masoko"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "amin'ny mahatoky"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "hitoerany"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "izay mandeha"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "amin'ny lalàna"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "marina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "no hanompo ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:58.264058089Z",
+  "model": "glm-5.3"
+}

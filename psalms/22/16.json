@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Maina toy ny tavoahangy tany no heriko, ary ny lelako mifikitra amin'ny alokaloko; ary amin'ny vovon'ny fahafatesana no ipetrahanao ahy.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "maina"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "toy ny tavoahangy tany"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ny heriko"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "ary ny lelako"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "mifikitra"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "amin'ny alokaloko"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "amin'ny vovoka"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ny fahafatesana"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "no ipetrahanao ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:49.613220299Z",
+  "model": "glm-5.3"
+}

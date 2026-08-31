@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 39,
+  "translation": "Amin'ny fahadisoako rehetra, vonjeo ahy; aza ataonao fanamian'ny adala ⟨aho⟩.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "fahadisoako"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "vonjeo ahy"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "fanamiana"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ny adala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "ataonao ... ⟨aho⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:17.847626423Z",
+  "model": "glm-5.3"
+}

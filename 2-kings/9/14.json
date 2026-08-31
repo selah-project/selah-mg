@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 9:14",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary niodina Yehu zanak'i Yehoshafat zanak'i Nimshi hanohitra an'i Yorama; ary Yorama nijanona nitandrina tao Ramota any Gilada, izy sy Isiraely rehetra, noho ny fananan'i Hazaely mpanjakan'i Arama.",
+  "tokens": [
+    {
+      "surface": "ויתקשר",
+      "gloss": "niodina"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimshi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hanohitra"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "an'i Yorama"
+    },
+    {
+      "surface": "ויורם",
+      "gloss": "ary Yorama"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ Izy nijanona"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "nijanona nitandrina"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "tao Ramota"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "any Gilada"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ... rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "noho ny fananan'"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazaely"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "i Arama"
+    }
+  ],
+  "timestamp": "2026-08-31T14:54:37.543376788Z",
+  "model": "glm-5.3"
+}

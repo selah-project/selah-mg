@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 57,
+  "translation": "Mamindrà fanahy amiko, ry Elohim, mamindrà fanahy amiko, fa ao aminao no mialokaloka ny aiko, ary ao an-planejan'ny elatrao no hialokaloko, mandra-pandalo ny loza.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "mamindrà fanahy amiko"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "mamindrà fanahy amiko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ao aminao"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "no mialokaloka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "ary ao an-planejan'ny"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "elatrao"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "no hialokaloko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "pandalo"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ny loza"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:13.487674802Z",
+  "model": "glm-5.3"
+}

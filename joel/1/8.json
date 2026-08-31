@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 1:8",
+  "book": "joel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Mitaraina ianao, ry tovovavy tsy mbola manam-bady, manao lamba fisaonana noho ilay lehilahy tokana tamin'ny fahatanoranao.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Mitaraina ianao"
+    },
+    {
+      "surface": "כבתולה",
+      "gloss": "ry tovovavy tsy mbola manam-bady"
+    },
+    {
+      "surface": "חגרת",
+      "gloss": "manao"
+    },
+    {
+      "surface": "שק",
+      "gloss": "lamba fisaonana"
+    },
+    {
+      "surface": "על",
+      "gloss": "noho"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "lehilahy tokana"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "tamin'ny fahatanoranao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:09:09.307039959Z",
+  "model": "glm-5.3"
+}

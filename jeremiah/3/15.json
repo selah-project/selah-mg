@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Dia homeko anareo mpiandry araka ny foko, ary izy ireo hiandry anareo ⟨את⟩ amin'ny fahalalana sy amin'ny fahendrena.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Dia homeko"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "anareo"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "mpiandry"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "araka ny foko"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "ary hiandry"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo",
+      "marks": "amin'ny fahalalana"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "fahalalana"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "sy fahendrena"
+    }
+  ],
+  "timestamp": "2026-08-31T15:26:22.221454030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 80,
+  "translation": "Voamay tamin'ny afo ⟨no⟩ voapaitra; amin'ny fanafintin'ny tavanao dia ho levona izy.",
+  "tokens": [
+    {
+      "surface": "שרפה",
+      "gloss": "voamay tamin'ny afo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "tamin'ny afo"
+    },
+    {
+      "surface": "כסוחה",
+      "gloss": "voapaitra"
+    },
+    {
+      "surface": "מגערת",
+      "gloss": "amin'ny fanafintin'ny"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "tavanao"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ho levona izy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:18.362259474Z",
+  "model": "glm-5.3"
+}

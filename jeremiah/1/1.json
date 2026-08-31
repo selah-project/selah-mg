@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Teny an'i Yirmeyahu, zanak'i Hilkiyahu, avy amin'ny mpisorona, izay tao Anatoti, ao amin'ny tany Biniamina.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Teny"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "an'i Yirmeyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Hilkiyahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "avy amin'ny"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "tao Anatoti"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ao amin'ny tany"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Biniamina"
+    }
+  ],
+  "timestamp": "2026-08-31T15:23:38.236112842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 46,
+  "translation": "Mambaro ny farany hatramin'ny fiandohana, ary hatramin'ny ela ⟨izay⟩ tsy mbola natao; manao hoe: Ny hevitro hitsangana, ary ny sitrapoko rehetra hataoko.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "Mambaro"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "hatramin'ny fiandohana"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ny farany"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "ary hatramin'ny ela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨izay⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "mbola natao"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "manao hoe"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "Ny hevitro"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "hitsangana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ... rehetra"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "ny sitrapoko"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "hataoko"
+    }
+  ],
+  "timestamp": "2026-08-31T15:16:14.610017968Z",
+  "model": "glm-5.3"
+}

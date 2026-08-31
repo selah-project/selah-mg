@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary tonga ratsy tamin'i Yona zava-dratsy lehibe, ary nirehitra fahatezerana tao aminy.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "tonga ratsy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "zava-dratsy"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "nirehitra fahatezerana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tao aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:14:03.205844662Z",
+  "model": "glm-5.3"
+}

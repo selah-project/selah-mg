@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary Elisa nanao taminy hoe: Makà tsipìka sy zana-tsipìka. Dia nalainy tamin'ilay mpaminany ⟨ny tsipìka sy ny zana-tsipìka⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Makà"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "tsipìka"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "sy zana-tsipìka"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nalainy"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tamin'ilay mpaminany"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "tsipìka"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "sy zana-tsipìka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:56:49.719969567Z",
+  "model": "glm-5.3"
+}

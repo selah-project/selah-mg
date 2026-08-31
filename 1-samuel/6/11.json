@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary napetraky tamin'ny sarety ⟨את⟩ ny fiaran'i Yahveh, sy ⟨את⟩ ilay vata, sy ⟨את⟩ ny totozy volamena, ary ⟨את⟩ ny sarin'ny firiny.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "napetraky tamin'ny sarety"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fiaran'i Yahveh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ny fiara"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(tamin'ny sarety)"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "ny sarety"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ilay vata"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "ilay vata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny totozy volamena"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "ny totozy"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny sarin'ny firiny"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "ny sarin'ny"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "firiny"
+    }
+  ],
+  "timestamp": "2026-08-31T14:16:52.313219855Z",
+  "model": "glm-5.3"
+}

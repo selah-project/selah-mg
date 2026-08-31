@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Sy nirary faniriana tamim-po tany an-efitra izy, ary namoly an'i El tany amin'ny tany maina.",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "sy nirary tamim-po"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "faniriana"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "tany an-efitra"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ary namoly"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an'i El"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "tany amin'ny tany maina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:46.098238219Z",
+  "model": "glm-5.3"
+}

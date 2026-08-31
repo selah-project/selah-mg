@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 28,
+  "translation": "Aza manintona ahiaraka amin'ny ratsy fanahy na amin'ny mpanao heloka, izay miteny fiadanana amin'ny namany sady manana lozana am-pony.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "manintona ahy"
+    },
+    {
+      "surface": "עם",
+      "gloss": "miaraka amin'ny"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ratsy fanahy"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "na amin'ny"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mpanao"
+    },
+    {
+      "surface": "און",
+      "gloss": "heloka"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "miteny"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fiadanana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "namany"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "sady lozana"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "am-pony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:29.250210966Z",
+  "model": "glm-5.3"
+}

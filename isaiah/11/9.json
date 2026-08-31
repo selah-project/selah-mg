@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 11:9",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Tsy hanimba izy ary tsy handrava amin'ny tendrombohitra masinako rehetra; fa feno fahalalana an'i Yahveh ny tany, toy ny rano mandrakotra ny ranomasina.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "hanimba izy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "handrava"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny... rehetra"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "masinako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "feno"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "fahalalana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "toy ny rano"
+    },
+    {
+      "surface": "לים",
+      "gloss": "ny ranomasina"
+    },
+    {
+      "surface": "מכסים",
+      "gloss": "mandrakotra"
+    }
+  ],
+  "timestamp": "2026-08-31T15:05:22.613576143Z",
+  "model": "glm-5.3"
+}

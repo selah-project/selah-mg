@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 141,
+  "translation": "Yah halan'ny marina aho amin'ny hesed, ary anaranany ahy; diloilo fanondrana loha izany — aza lavan'ny lohako izany; fa mbola hitohy amin'ny faharatsian'izy ireo ny fivavahako.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "Yah halan'ny marina aho"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ny marina"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "ary anaranany ahy"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "diloilo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "fanondrana loha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "יני",
+      "gloss": "lavan'ny lohako"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ny lohako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mbola"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "ny fivavahako"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "amin'ny faharatsian'izy ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:58.338000656Z",
+  "model": "glm-5.3"
+}

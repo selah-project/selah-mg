@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 46:20",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 46,
+  "translation": "Ary nateraka tany amin'ny tany Mitsrayim ho an'i Yosefa i Menashe sy Efraima, izay naterany tamin'i Asenata zanak'i Poti-fera, mpisorona ⟨tao⟩ amin'Ona.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Ary nateraka"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "ho an'i Yosefa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tany amin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "naterany"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "Asenata"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "Poti-"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "fera"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "mpisorona"
+    },
+    {
+      "surface": "אן",
+      "gloss": "⟨tao⟩ amin'Ona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Efraima"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraima"
+    }
+  ],
+  "timestamp": "2026-08-31T12:52:19.755137159Z",
+  "model": "glm-5.3"
+}

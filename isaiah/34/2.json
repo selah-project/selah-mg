@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 34:2",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Fa fahatezerana an'i Yahveh amin'ny firenena rehetra, sy fahavinirana amin'ny tafika rehetra azy; novozany didy fanaovana tena voatazona amin'ny faharatsiana izy, natolony ho any amin'ny famonoana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "fahatezerana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "... rehetra"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ny firenena"
+    },
+    {
+      "surface": "וחמה",
+      "gloss": "sy fahavinirana"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "... rehetra"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ny tafika azy"
+    },
+    {
+      "surface": "החרימם",
+      "gloss": "novozany didy fanaovana tena voatazona amin'ny faharatsiana izy"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "natolony"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "ho any amin'ny famonoana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:12:56.440379547Z",
+  "model": "glm-5.3"
+}

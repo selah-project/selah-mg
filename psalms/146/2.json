@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 146,
+  "translation": "Handidera an'i Yahveh aho am-piainako; hihira ho an'ny Elohim aho raha mbola misy aho.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "handidera"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "am-piainako"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "hihira"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ho an'ny Elohim"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "raha mbola misy aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:48:13.091386236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 32,
+  "translation": "Ary natahotra mafy Yaakov ka nalahelo, dia nizara ⟨את⟩ ny vahoaka izay ⟨את⟩ tao aminy, sy ⟨את⟩ ny ondry aman'osy, sy ⟨את⟩ ny omby, ary ny rameva ho toby roa.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "ary natahotra"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mafy"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "ka nalahelo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "izy"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "dia nizara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ tao aminy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny ondry aman'osy"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ny ondry aman'osy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny omby"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ny omby"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "ary ny rameva"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "ho ... roa"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "toby"
+    }
+  ],
+  "timestamp": "2026-08-31T12:46:46.044069711Z",
+  "model": "glm-5.3"
+}

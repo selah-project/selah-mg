@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 68:27",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 68,
+  "translation": "Misaotra an'i Elohim amin'ny fiangonana, misaotra an'i Yahveh, ianareo avy amin'ny loharanon'i Yisraela.",
+  "tokens": [
+    {
+      "surface": "במקהלות",
+      "gloss": "amin'ny fiangonana"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "misaotra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ממקור",
+      "gloss": "avy amin'ny loharanon'ny"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:44.990814062Z",
+  "model": "glm-5.3"
+}

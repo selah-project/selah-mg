@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 135,
+  "translation": "Nanatrika famantarana sy zava-mahagaga tao amin'ny antsonao, ry Mitsrayim, tamin'i Parao sy ny mpanompony rehetra ⟨izy⟩.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "nanatrika"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "famantarana"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "sy zava-mahagagatra"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "tao amin'ny antsonao"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ry Mitsrayim"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "tamin'i Parao"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "sy ny"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "mpanompony rehetra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:21.114878792Z",
+  "model": "glm-5.3"
+}

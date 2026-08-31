@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 24,
+  "translation": "Ary ankehitriny, miahoa amiko amin'i Yahveh fa tsy hofaintainao ⟨את⟩ ny taranako aoriany, ary tsy hampanjavozanao ⟨את⟩ ny anarako hiala amin'ny tranon'ny raiko.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ary ankehitriny"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "miahoa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "amin'i Yahveh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fa"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "tsy hofaintainao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny taranako"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "ny taranako"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "aoriany"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ary"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "tsy hampanjavozanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anarako"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ny anarako"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "hiala amin'ny tranon'ny"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "raiko"
+    }
+  ],
+  "timestamp": "2026-08-31T14:25:11.016791820Z",
+  "model": "glm-5.3"
+}

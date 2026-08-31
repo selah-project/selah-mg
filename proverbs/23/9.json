@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 23:9",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Aza miteny ao amin'ny sofin'ny adala, fa ho tsirahiny ny fahendrena avy amin'ny teninao.",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "ao amin'ny sofin'"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "adala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "miteny"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יבוז",
+      "gloss": "ho tsirahiny"
+    },
+    {
+      "surface": "לשכל",
+      "gloss": "ny fahendrena"
+    },
+    {
+      "surface": "מליך",
+      "gloss": "avy amin'ny teninao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:55:51.522033479Z",
+  "model": "glm-5.3"
+}

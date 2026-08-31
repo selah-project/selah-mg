@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 64:6",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 64,
+  "translation": "Ary tsy misy miantso amin'ny anaranao, na misy mifoha hihazona anao; fa efa nafeninao taminay ny tavanao, ary nampahory anao anay tamin'ny tanan'ny tsi-fahafatsarahanay.",
+  "tokens": [
+    {
+      "surface": "ואין",
+      "gloss": "ary tsy misy"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "miantso"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "amin'ny anaranao"
+    },
+    {
+      "surface": "מתעורר",
+      "gloss": "mifoha"
+    },
+    {
+      "surface": "להחזיק",
+      "gloss": "hihazona"
+    },
+    {
+      "surface": "בך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "nafeninao"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ny tavanao"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "taminay"
+    },
+    {
+      "surface": "ותמוגנו",
+      "gloss": "nampahory anao anay"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "tamin'ny tanan'"
+    },
+    {
+      "surface": "עוננו",
+      "gloss": "ny tsi-fahafatsarahanay"
+    }
+  ],
+  "timestamp": "2026-08-31T15:21:38.290835780Z",
+  "model": "glm-5.3"
+}

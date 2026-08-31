@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Fa noho ny aminao izahay novonoina ny andro rehetra; ehefa isan'ny ondry amidy ho fanafody.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "fa noho"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ny aminao"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "izahay novonoina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ny andro"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "ehefa isan'ny"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "ondry"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "amidy ho fanafody"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:59.701677212Z",
+  "model": "glm-5.3"
+}

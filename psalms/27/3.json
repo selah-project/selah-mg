@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Raha toa ka miory hiady amiko tafika, dia tsy matahotra ny foko; raha mitsangana hiady amiko ady, dia amin'izany ⟨no⟩ itokiako.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Raha toa ka"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "miory"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "hiady amiko"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "tafika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "matahotra"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ny foko"
+    },
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "mitsangana"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "hiady amiko"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ady"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "amin'izany"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aho"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "itokiako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:28.274917435Z",
+  "model": "glm-5.3"
+}

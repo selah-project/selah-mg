@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 18:25",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary Moshe nanoroana olona mahay avy amin'ny Isiraely rehetra, ka nametraka azy ho lohandohany amin'ny vahoaka: kapitenin'ny arivo, kapitenin'nyanjato, kapitenin'ny dimam-polo, ary kapitenin'ny folo.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "nanoroana"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "olona"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mahay"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "avy amin'ny rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ka nametraka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "lohandohany"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "kapitenin'ny"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "arivo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "kapitenin'ny"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "anjato"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "kapitenin'ny"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "dimam-polo"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "ary kapitenin'ny"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "folo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:00:27.675436646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary hanao ⟨את⟩ dia fitsirihana amin'ny fahatezerana sy amin'ny fahavinirana amin'ny jentilisa izay tsy nihaino.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "Ary hanao"
+    },
+    {
+      "surface": "באף",
+      "gloss": "amin'ny fahatezerana"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "sy amin'ny fahavinirana"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "fitsirihana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny jentilisa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ny jentilisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nihaino"
+    }
+  ],
+  "timestamp": "2026-08-31T16:13:31.066418224Z",
+  "model": "glm-5.3"
+}

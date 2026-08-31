@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Izaho kosa, indro, ny fanekenko no ⟨eo⟩ aminao ⟨את⟩, ary ho ray firenena maro ianao.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Izaho kosa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ny fanekenko"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ aminao",
+      "marks": "aminao"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ary ho"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "ray"
+    },
+    {
+      "surface": "המון",
+      "gloss": "maro"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "firenena"
+    }
+  ],
+  "timestamp": "2026-08-31T12:38:56.353558307Z",
+  "model": "glm-5.3"
+}

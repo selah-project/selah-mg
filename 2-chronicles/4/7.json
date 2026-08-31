@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 4:7",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary nanao ⟨את⟩ ny fanaovan-jiro volamena folo izy, araka ny fitsipiny, ka nametraka tao an-tempoly dimy tamin'ny ankavanana sy dimy tamin'ny ankavia.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ary nanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanaovan-jiro volamena folo"
+    },
+    {
+      "surface": "מנרות",
+      "gloss": "fanaovan-jiro"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "folo"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "araka ny fitsipiny"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ka nametraka"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "tao an-tempoly"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "dimy"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "tamin'ny ankavanana"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "sy dimy"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "tamin'ny ankavia"
+    }
+  ],
+  "timestamp": "2026-08-31T17:43:10.751551431Z",
+  "model": "glm-5.3"
+}

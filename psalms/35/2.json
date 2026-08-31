@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Sintomy ny ampinga sy ny ampinga lehibe, ary matsangàna ho famonjena ahy.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "Sintomy"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ny ampinga"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "sy ny ampinga lehibe"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "matsangàna"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "ho famonjena ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:36.408956297Z",
+  "model": "glm-5.3"
+}

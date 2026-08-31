@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Izaho dia nihady rano ka nisotro, ary homainiko amin'ny fanafan'ny tongotro ny ony rehetra any Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "nihady"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "ka nisotro"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "ואחרב",
+      "gloss": "ary homainiko"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "amin'ny fanafan"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ny tongotro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "ny ony"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "any Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T15:13:24.368805576Z",
+  "model": "glm-5.3"
+}

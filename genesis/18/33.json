@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary Yahveh nandeha rehefa vita ⟨ny⟩ niresaka tamin'i Avraham, ary Avraham niverina tany amin'ny toerany.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "nandeha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "rehefa"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "vita"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ny niresaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "ary Avraham"
+    },
+    {
+      "surface": "שב",
+      "gloss": "niverina"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "tany amin'ny toerany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:38:25.169356824Z",
+  "model": "glm-5.3"
+}

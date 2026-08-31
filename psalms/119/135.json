@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ampijerey ny tavanao ny mpanomponao, ary ampianaro ahy ⟨את⟩ ny didinao.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "ny tavanao"
+    },
+    {
+      "surface": "האר",
+      "gloss": "ampijerey"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "ny mpanomponao"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "ampianaro ahy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny didinao"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ny didinao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:22.083921884Z",
+  "model": "glm-5.3"
+}

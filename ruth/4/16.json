@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary Nitondra ⟨את⟩ ny zazakely Naomi ka nametraka azy tao an-tratrany, ka lasa mpihazona azy izy.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Ary Nitondra"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zazakely"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ny zazakely"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "ka nametraka azy"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "tao an-tratrany"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ka lasa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "mpihazona"
+    }
+  ],
+  "timestamp": "2026-08-31T18:17:22.309169532Z",
+  "model": "glm-5.3"
+}

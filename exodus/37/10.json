@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary nanao ⟨את⟩ ny latabatra hazo shitima izy: kihibeny roa ny lavany, ary kihibeny iray ny sakany, ary kihibeny iray sy sasany ny haavony.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny latabatra"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ny latabatra"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitima"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "kihibeny roa"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ny lavany"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ary kihibeny iray"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ny sakany"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ary kihibeny iray"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "sy sasany"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ny haavony"
+    }
+  ],
+  "timestamp": "2026-08-31T17:57:29.175680028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary ilay lehilahy nahalala an'i Chavvah vadiny; ary izy bevohoka ka niteraka an'i Kayin, ka nanao hoe: Nahazoako ⟨את⟩ lehilahiray tamin'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "ary ilay lehilahy"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nahalala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Chavvah"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chavvah"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vadiny"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "ka bevohoka"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Kayin"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "nahazoako"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahiray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T12:34:28.575732942Z",
+  "model": "glm-5.3"
+}

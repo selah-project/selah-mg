@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 63,
+  "translation": "Fa ny hesednao dia tsara noho ny aina; ny molotro dia hidera Anao.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ny hesednao"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "noho ny aina"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ny molotro"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "dia hidera Anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:06.296073277Z",
+  "model": "glm-5.3"
+}

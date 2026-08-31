@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 9:17",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary nanatitra ⟨את⟩ ny fanatitra lafarinina, ka nanafatra ny tànany tamin'izany, ka nandoro azy teo ambony ny alitara, ankoatra ny fanatitra doran'ny maraina.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "nanatitra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanatitra lafarinina"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ny fanatitra lafarinina"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "nanafatra ny tànany"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "ny tànany"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "tamin'izany"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "nandoro azy"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo ambony"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ny alitara"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "ankoatra"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ny fanatitra dorana"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ny maraina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:14:01.307709387Z",
+  "model": "glm-5.3"
+}

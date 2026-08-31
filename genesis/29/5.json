@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Ary hoy izy taminy: Fantatrareo va Lavana, zanak'i Nakhora? Ary hoy izy ireo: Fantatray.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy izy"
+    },
+    {
+      "surface": "להם",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "fantatrareo va"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavana"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nakhora"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "hoy izy ireo"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "fantatray"
+    }
+  ],
+  "timestamp": "2026-08-31T12:44:57.403135728Z",
+  "model": "glm-5.3"
+}

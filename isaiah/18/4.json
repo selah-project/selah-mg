@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 18:4",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Fa hoy Yahveh amiko: Hitoerako tsy misy fihetsika, ary hijery aho avy eo amin'ny fonenako, toy ny hafanana mazava eo ambony hazavana, toy ny rahon-drendriny amin'ny hafanam-ponenana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Yahveh amiko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "אשקוטה",
+      "gloss": "Hitoerako tsy misy fihetsika"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "ary hijery aho"
+    },
+    {
+      "surface": "במכוני",
+      "gloss": "avy eo amin'ny fonenako"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "toy ny hafanana"
+    },
+    {
+      "surface": "צח",
+      "gloss": "mazava"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "eo ambony"
+    },
+    {
+      "surface": "אור",
+      "gloss": "hazavana"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "toy ny rahon-drendriny"
+    },
+    {
+      "surface": "טל",
+      "gloss": "rendriny"
+    },
+    {
+      "surface": "בחם",
+      "gloss": "amin'ny hafanam-ponenana"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "famonenana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:07:41.322012553Z",
+  "model": "glm-5.3"
+}

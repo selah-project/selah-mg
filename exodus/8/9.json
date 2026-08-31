@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nataon'i Yahveh araka ny tenin'i Moshe, ary maty ny saobakaka tamin'ny trano, tamin'ny kianja, ary tamin'ny saha.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Ary nataon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "araka ny tenin'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "ary maty"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "ny saobakaka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "trano"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "kianja"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ary tamin'ny"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "saha"
+    }
+  ],
+  "timestamp": "2026-08-31T12:57:42.430446118Z",
+  "model": "glm-5.3"
+}

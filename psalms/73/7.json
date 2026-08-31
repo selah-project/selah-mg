@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 73,
+  "translation": "Mivoaka avy amin'ny tavy ny masony; mandalo mihoatra nohon-tsary ny fanahin'ny fony.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "Mivoaka"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "avy amin'ny tavy"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "ny masony"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "mandalo mihoatra"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "nohon-tsary"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ny fanahin'ny fony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:53.245384397Z",
+  "model": "glm-5.3"
+}

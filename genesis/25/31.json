@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary Yaakov nanao hoe: Amidio anio ⟨את⟩ ny zokimbavin'ao tamiko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "amidio"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "anio"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zokimbavin'ao"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "zokimbavin'ao"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tamiko"
+    }
+  ],
+  "timestamp": "2026-08-31T12:42:01.404354752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary ny rainy tsy nampalahelo azy mihitsy tamin'ny androny, ka nanao hoe: Nanao ahoana no nanaovanao an'izany? Ary izy koa tsara tarehy indrindra ⟨את⟩; ary ny renibeny azy taorian'i Abshaloma.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Ary tsy"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "nampalahelo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ny rainy"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "tamin'ny androny"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Nanao ahoana"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "an'izany"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "no nanaovanao"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "Ary koa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "tarehy"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "indrindra"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ilay zanaka"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ny renibeny"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "taorian'i"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshaloma"
+    }
+  ],
+  "timestamp": "2026-08-31T14:38:53.455869616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary hosorony ny mpisoratra ⟨את⟩ ny fahatsiarovan'ny fanatitra, dia ny voa mainany sy ny diloilony, mbamin'ny zava-manany rehetra — fanatitra atao amin'ny afo ho an'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "Ary hosorony"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisoratra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fahatsiarovan'ny fanatitra"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "fahatsiarovan'ny fanatitra"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "voa mainany"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "sy ny diloilony"
+    },
+    {
+      "surface": "על",
+      "gloss": "mbamin'ny"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "zava-manany"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "fanatitra atao amin'ny afo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:11:52.378696377Z",
+  "model": "glm-5.3"
+}

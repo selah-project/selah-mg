@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary ny mpisoro handoro ⟨azy⟩ ⟨את⟩ eo amin'ny alitara, fanatitra amin'ny afo ho an'i Yahveh; fanatitra haneloana ny heloka izany.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "handoro"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azy"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisoro"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "eo amin'ny alitara"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "fanatitra amin'ny afo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "fanatitra haneloana ny heloka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:12:46.387586505Z",
+  "model": "glm-5.3"
+}

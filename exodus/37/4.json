@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary nanao tsorakazo tamin'ny hazo akasià izy, ka nanarona azy tamin'ny volamena ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "tsorakazo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasià"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "nanarona"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ny tsorakazo)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "tamin'ny volamena"
+    }
+  ],
+  "timestamp": "2026-08-31T13:09:04.242783108Z",
+  "model": "glm-5.3"
+}

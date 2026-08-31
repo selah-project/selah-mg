@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 4:1",
+  "book": "micah",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary ho tonga izany amin'ny faran'ny andro: ny tendrombohitra, tranon'i Yahveh, ho tompoetra ⟨teo⟩ ambonin'ny tendrombohitra, ary hasandratra izy ambonin'ny havoana; ary haneha ho aminy ny firenena.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ary ho tonga izany"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "amin'ny faran'ny"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "andro"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ho tonga"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ho tompoetra"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ary hasandratra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "מגבעות",
+      "gloss": "ambonin'ny havoana"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "ary haneha"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ho aminy"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "firenena"
+    }
+  ],
+  "timestamp": "2026-08-31T18:12:27.211405998Z",
+  "model": "glm-5.3"
+}

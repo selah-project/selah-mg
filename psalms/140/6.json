@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 140,
+  "translation": "Ny mpiavonavona efa nafenina fanipazana ho ahy sy tady; nanenona tambajotra teo anilan'ny lalana; nametraka fanipazana ho ahy. Selah.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "efa nafenina"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "ny mpiavonavona"
+    },
+    {
+      "surface": "פח",
+      "gloss": "fanipazana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "sy tady"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "nanenona"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "tambajotra"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "teo anilan'ny"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "fanipazana"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "nametraka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:59.726585155Z",
+  "model": "glm-5.3"
+}

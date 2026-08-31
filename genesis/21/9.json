@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary Sarah nahita ⟨את⟩ zanak'i Hagara Mitsriana, izay naterany tamin'i Avraham, mihomehy.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "nahita"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zanak'i Hagara Mitsriana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagara"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "Mitsriana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "naterany"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "tamin'i Avraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "mihomehy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:40:21.735225270Z",
+  "model": "glm-5.3"
+}

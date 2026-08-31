@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 2:21",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary nanapa-kevitra Moshe hitoetra ⟨tamin’ny⟩ ilay lehilahy, ary nomeny ⟨את⟩ Tsiporah zanany vavy ho an’i Moshe.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "nanapa-kevitra"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "hitoetra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay lehilahy"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ilay lehilahy"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nomeny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiporah"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsiporah"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "zanany vavy"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ho an’i Moshe"
+    }
+  ],
+  "timestamp": "2026-08-31T12:54:49.429405921Z",
+  "model": "glm-5.3"
+}

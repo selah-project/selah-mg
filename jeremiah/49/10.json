@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 49,
+  "translation": "Fa izaho efa namoaka ⟨את⟩ i Esav, nambarako ⟨את⟩ ny miafiny, ary tsy mahazo hiafina intsony izy; voazimbazimba ny taranany, sy ny rahalahiny, ary ny namany, fa tsy misy intsony izy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "izaho"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "namoaka fitafiana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "nambarako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny miafiny"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "ny miafiny"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "hiafina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "mahazo"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "voazimbazimba"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "ny taranany"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "sy ny rahalahiny"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "sy ny namany"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "tsy misy intsony"
+    }
+  ],
+  "timestamp": "2026-08-31T15:44:20.071864191Z",
+  "model": "glm-5.3"
+}

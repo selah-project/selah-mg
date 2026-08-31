@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 68,
+  "translation": "Ry Elohim, tamin'ny nivoahanao teo alohan'ny olonao, tamin'ny fandehanaonao tamin'ny efitra, Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Ry Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "tamin'ny nivoahanao"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo alohan'ny"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "olonao"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "tamin'ny fandehanaonao"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "tamin'ny efitra"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:46.045300983Z",
+  "model": "glm-5.3"
+}

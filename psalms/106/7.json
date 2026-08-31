@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Ny razantsika tao Mitsrayim tsy nahay tsara ny zava-mahagaganao; tsy nahatsiaro ⟨את⟩ ny bezan'ny hesed-nao fa niady tamin'i Yahveh teo ambonin'ny ranomasina, dia teo amin'ny Ranomasin'ny zozoro.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "ny razantsika"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "tao Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "nahay tsara"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ny zava-mahagaganao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "nahatsiaro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny bezan'ny hesed-nao"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ny bezan'ny"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesed-nao"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "fa niady tamin'i Yahveh"
+    },
+    {
+      "surface": "על",
+      "gloss": "teo ambonin'ny"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ranomasina"
+    },
+    {
+      "surface": "בים",
+      "gloss": "teo amin'ny"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Ranomasin'ny zozoro"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:44.010357697Z",
+  "model": "glm-5.3"
+}

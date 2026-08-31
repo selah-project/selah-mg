@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary Yahveh nomena ⟨את⟩ fitia ny olona eo imason'ny Mitsrayim, ka nanome ny nangatahiny; dia namabo ⟨את⟩ an'i Mitsrayim izy.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Ary Yahveh"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nomena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fitia"
+    },
+    {
+      "surface": "חן",
+      "gloss": "fitia"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "eo imason'ny"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "nanome ny nangatahiny"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "namabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Mitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:58.544704730Z",
+  "model": "glm-5.3"
+}

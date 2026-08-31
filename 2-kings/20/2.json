@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Dia nampihodina Hizkiyahu ⟨את⟩ ny tavanany mankany amin'ny rindrina ary nivavaka tamin'i Yahveh hoe:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Dia nampihodina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavanany"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ny tavanany"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mankany amin'ny"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "rindrina"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "ary nivavaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe:"
+    }
+  ],
+  "timestamp": "2026-08-31T18:05:25.307738768Z",
+  "model": "glm-5.3"
+}

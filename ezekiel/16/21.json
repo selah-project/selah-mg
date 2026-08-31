@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary namono ⟨את⟩ ny zanakao ianao, ka nomenao izy hampandehanana ⟨את⟩ azy ho azy.",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "Ary namono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanakao"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ny zanakao"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "ka nomenao izy"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "hampandehanana"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "azy"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ho azy"
+    }
+  ],
+  "timestamp": "2026-08-31T15:52:04.861146273Z",
+  "model": "glm-5.3"
+}

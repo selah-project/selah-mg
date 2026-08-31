@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 18:10",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "kanefa raha manao ny ratsy eo imasono, ka tsy mendrika hihainoana ny feoko, dia miala amin'ny soa izay voalazako hataoko soa ⟨את⟩ azy.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "kanefa raha manao"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ny ratsy"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "eo imasono"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ka tsy mendrika"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hihainoana"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "ny feoko"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "dia miala amin'ny"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "soa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "voalazako"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "hataoko soa"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "azy (ilay firenena na fanjakana)"
+    }
+  ],
+  "timestamp": "2026-08-31T15:31:17.456068086Z",
+  "model": "glm-5.3"
+}

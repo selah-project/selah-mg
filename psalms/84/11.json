@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 84:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 84,
+  "translation": "Fa tsara ny andro iray ao amin'ny kianjanao mihoatra ny arivo; nosafidiko ny mijanona eo am-baravaran'ny tranon'ny Eloahiko, hono eny am-balbalan'ny lain'ny faharatsiana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ny andro iray"
+    },
+    {
+      "surface": "בחצריך",
+      "gloss": "ao amin'ny kianjanao"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "mihoatra ny arivo"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "nosafidiko"
+    },
+    {
+      "surface": "הסתופף",
+      "gloss": "ny mijanona eo am-baravaran'ny"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "tranon'ny"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloahiko"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "hono eny am-balbalan'ny"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "lain'ny"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "faharatsiana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:58.036703724Z",
+  "model": "glm-5.3"
+}

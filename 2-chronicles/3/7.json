@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 3:7",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary natakany volamena ⟨את⟩ ny trano, ny sakamandimby, ny tolam-baravarana, ny rindriny, ary ny varavarany; ary nosokiriny kerobima teny amin'ny rindrina.",
+  "tokens": [
+    {
+      "surface": "ויחף",
+      "gloss": "Ary natakany"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny trano"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ny trano"
+    },
+    {
+      "surface": "הקרות",
+      "gloss": "ny sakamandimby"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "ny tolam-baravarana"
+    },
+    {
+      "surface": "וקירותיו",
+      "gloss": "ny rindriny"
+    },
+    {
+      "surface": "ודלתותיו",
+      "gloss": "ary ny varavarany"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "ary nosokiriny"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "kerobima"
+    },
+    {
+      "surface": "על",
+      "gloss": "teny amin'ny"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "rindrina"
+    }
+  ],
+  "timestamp": "2026-08-31T17:43:18.729433341Z",
+  "model": "glm-5.3"
+}

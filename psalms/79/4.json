@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 79,
+  "translation": "Efa natao fahafahana ⟨izahay⟩ teo anatrehan'ny mpiray tanindrazana ⟨izahay⟩, ho enta-maso sy ho resaka tsy mahafaly amin'izay manodidina anay.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "Efa natao"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "fahafahana"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "teo anatrehan'ny mpiray tanindrazana"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "enta-maso"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "resaka tsy mahafaly"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "amin'izay manodidina anay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:36.047239787Z",
+  "model": "glm-5.3"
+}

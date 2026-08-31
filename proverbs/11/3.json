@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 11:3",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ny fahatsaravan-tenan'ny mahitsy no mitarika azy, fa ny fihelialian'ny mpamadika dia handrava azy.",
+  "tokens": [
+    {
+      "surface": "תמת",
+      "gloss": "fahatsaravan-tena"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ny mahitsy"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "mitarika azy"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "fa ny fihelialia"
+    },
+    {
+      "surface": "בוגדים",
+      "gloss": "ny mpamadika"
+    },
+    {
+      "surface": "ושדם",
+      "gloss": "handrava azy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:52:49.277028841Z",
+  "model": "glm-5.3"
+}

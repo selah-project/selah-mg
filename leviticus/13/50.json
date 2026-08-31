@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary hisain'ny mpisoro ⟨את⟩ ny aretina, ka hanidy ⟨את⟩ ilay aretina fito andro.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "hisain'ny"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mpisoro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny aretina"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "aretina"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "hanidy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilay aretina"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "aretina"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "fito"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "andro"
+    }
+  ],
+  "timestamp": "2026-08-31T13:16:28.039458641Z",
+  "model": "glm-5.3"
+}

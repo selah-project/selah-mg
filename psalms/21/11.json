@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Haringanao amin'ny tany ny vokany, ary ny taranany amin'ny zanak'olombelona.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "ny vokany"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "Haringanao"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "ary ny taranany"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "amin'ny zanak'"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olombelona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:29.542091670Z",
+  "model": "glm-5.3"
+}

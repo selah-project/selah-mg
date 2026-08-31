@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Hitahy ho fahatsiarovana ny fanatitra rehetra avy aminao, ary ny holokaotrao ho ⟨-fatratra ho tonga lavenona-⟩; Selah.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Hitahy ho fahatsiarovana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "ny fanatitra avy aminao"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "ary ny holokaotrao"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "ho fatratra"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:25:50.243760497Z",
+  "model": "glm-5.3"
+}

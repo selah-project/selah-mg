@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Tsy nilaza Ester ⟨את⟩ ny fireneny sy ⟨את⟩ ny fianakaviany, fa Mordekay no nandidy azy tsy hilaza izany.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "nilaza"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fireneny"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ny fireneny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny fianakaviany"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "ny fianakaviany"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "no nandidy"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "azy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "hilaza"
+    }
+  ],
+  "timestamp": "2026-08-31T17:18:23.620276313Z",
+  "model": "glm-5.3"
+}

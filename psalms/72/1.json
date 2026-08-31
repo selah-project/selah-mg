@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 72,
+  "translation": "An'i Shlomo. Elohim, ny fitsaranao omeo ny mpanjaka, ary ny fahamarinanao ho an'ny zanak'ny mpanjaka.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "An'i Shlomo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ny fitsaranao"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ny mpanjaka"
+    },
+    {
+      "surface": "תן",
+      "gloss": "omeo"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "ary ny fahamarinanao"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "zanak'ny"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:40.928812454Z",
+  "model": "glm-5.3"
+}

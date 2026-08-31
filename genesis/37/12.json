@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ary lasa ny rahalahiny hiandry ⟨את⟩ ny ondry aman'osin'ny rainy tao amin'i Shkhem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Ary lasa"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ny rahalahiny"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "hiandry"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ondry aman'osin'ny rainy"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ny ondry aman'osin'ny"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ny rainy"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "tao amin'i Shkhem"
+    }
+  ],
+  "timestamp": "2026-08-31T17:55:27.474561199Z",
+  "model": "glm-5.3"
+}

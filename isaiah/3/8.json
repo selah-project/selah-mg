@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Fa efa niondrika Yeroshalayim, ary Yehudah efa lavo; fa ny fiteniny sy ny fanaony dia manohitra an'i Yahveh, ka mampientanentana ny mason'ny voninahiny.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "niondrika"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yeroshalayim"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ary Yehudah"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "lavo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ny fiteniny"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "sy ny fanaony"
+    },
+    {
+      "surface": "אל",
+      "gloss": "manohitra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "mampientanentana"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ny mason'ny"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "voninahiny"
+    }
+  ],
+  "timestamp": "2026-08-31T15:02:38.491722255Z",
+  "model": "glm-5.3"
+}

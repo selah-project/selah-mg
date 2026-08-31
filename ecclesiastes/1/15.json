@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Izay miendingana tsy azo atao mahitsy, ary izay tsy ampy tsy azo isaina.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "miendingana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "azo"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "atao mahitsy"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "ary izay tsy ampy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "azo"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "isaina"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:00.162259260Z",
+  "model": "glm-5.3"
+}

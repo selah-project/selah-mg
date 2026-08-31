@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 98,
+  "translation": "Mideraka an'i Yahveh ianareo, ry tany rehetra; mibaraka ary mifalia, ka mihira fanati-piderana.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "Mideraka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ry tany"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "mibaraka"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "ary mifalia"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "ka mihira fanati-piderana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:39.878716890Z",
+  "model": "glm-5.3"
+}

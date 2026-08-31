@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 97,
+  "translation": "Niondana toy ny dono ny tendrombohitra, eo anatrehan'i Yahveh, eo anatrehan'i Adonay'ny tany manontolo.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "ny tendrombohitra"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "toy ny dono"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "niondana"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "eo anatrehan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "eo anatrehan'i"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "manontolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:39:48.114957339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 4:9",
+  "book": "lamentations",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Tsara ny fatin'ny sabatra noho ny fatin'ny mosary, fa izy ireo miempo, voafono, noho ny tsy fisian'ny vokatry ny saha.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "היו",
+      "gloss": "fatin'ny"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "sabatra"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "fatin'ny"
+    },
+    {
+      "surface": "מחללי",
+      "gloss": "mosary"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "fa"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "izy ireo"
+    },
+    {
+      "surface": "יזובו",
+      "gloss": "miempo"
+    },
+    {
+      "surface": "מדקרים",
+      "gloss": "voafono"
+    },
+    {
+      "surface": "מתנובת",
+      "gloss": "vokatra"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "saha"
+    }
+  ],
+  "timestamp": "2026-08-31T17:13:13.046744146Z",
+  "model": "glm-5.3"
+}

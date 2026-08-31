@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Haren'vokatra sy voninahitra no amiko ⟨את⟩, harena maharitra ary fahamarinana.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Haren'vokatra"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "sy voninahitra"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ no amiko",
+      "marks": "Haren'vokatra sy voninahitra"
+    },
+    {
+      "surface": "הון",
+      "gloss": "harena"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "maharitra"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ary fahamarinana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:50:13.332401194Z",
+  "model": "glm-5.3"
+}

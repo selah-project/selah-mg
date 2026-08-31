@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 23:1",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary ny andron'i Sarah dia roapolo amby efa-pahatelo amby zato taona — taona tokatra amin'ny ain'i Sarah.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Ary ny ... dia"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "andro (aina)"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "zato"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "roapolo amby"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "efa-pahatelo amby (fito amby)"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "taona"
+    },
+    {
+      "surface": "שני",
+      "gloss": "taona tokatra"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ain'"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    }
+  ],
+  "timestamp": "2026-08-31T12:40:34.305347886Z",
+  "model": "glm-5.3"
+}

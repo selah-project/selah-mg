@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 27:22",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ary Yaakov nankeo akaikin'i Yitschak rainy; ka namohazy azy izy, ka nanao hoe: Ny fe dia fe an'i Yaakov, fa ny tanana kosa tanan'i Esav.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "nankeo akaikin'i"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rainy"
+    },
+    {
+      "surface": "וימשהו",
+      "gloss": "namohazy azy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "ny fe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "fe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "an'i Yaakov"
+    },
+    {
+      "surface": "והידים",
+      "gloss": "fa ny tanana"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tanan'i"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-08-31T12:43:31.247453687Z",
+  "model": "glm-5.3"
+}

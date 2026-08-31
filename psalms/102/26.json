@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 102,
+  "translation": "Fony fahiny ianao no nanorina ⟨את⟩ ny tany, ary ny lanitra no asan'ny tananao.",
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "fony fahiny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "nanorina"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ary ny asan'ny"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "tananao"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ny lanitra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:46.370992945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Ary Esav nandeha mivotra hizena azy ka namponja azy, ary nianjera tamin'ny vozony, ary nanoroka azy; ary izy roa nitomany.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "Ary ... nandeha mivotra"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "hizena azy"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "ka namponja azy"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ary nianjera"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "vozony"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "ary nanoroka azy"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ary izy roa nitomany"
+    }
+  ],
+  "timestamp": "2026-08-31T12:47:12.730571981Z",
+  "model": "glm-5.3"
+}

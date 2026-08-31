@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 3:33",
+  "book": "daniel",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ny famantarany lehibe indrindra, ary ny fahagagany mahery indrindra; ny fanjakany dia fanjakana mandrakizay, ary ny fahefany dia amin'ny taranaka sy taranaka.",
+  "tokens": [
+    {
+      "surface": "אתוהי",
+      "gloss": "ny famantarany"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "indrindra"
+    },
+    {
+      "surface": "רברבין",
+      "gloss": "lehibe"
+    },
+    {
+      "surface": "ותמהוהי",
+      "gloss": "ary ny fahagagany"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "indrindra"
+    },
+    {
+      "surface": "תקיפין",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "מלכותה",
+      "gloss": "ny fanjakany"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "fanjakana"
+    },
+    {
+      "surface": "עלם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "ושלטנה",
+      "gloss": "ary ny fahefany"
+    },
+    {
+      "surface": "עם",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "דר",
+      "gloss": "taranaka"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "sy taranaka"
+    }
+  ],
+  "timestamp": "2026-08-31T17:20:39.616633686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary ⟨את⟩ ireo zanany roa lahy, izay ny anaran'ny iray dia Gersoma, fa hoy izy: vahiny aho tany amin'ny tany haf'olona.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "שני",
+      "gloss": "roa lahy"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "anaran'ny"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gersoma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hoy izy"
+    },
+    {
+      "surface": "גר",
+      "gloss": "vahiny"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aho"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "tany amin'ny tany"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "haf'olona"
+    }
+  ],
+  "timestamp": "2026-08-31T13:00:49.856265863Z",
+  "model": "glm-5.3"
+}

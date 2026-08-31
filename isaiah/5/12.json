@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 5:12",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ny lokanga sy ny valiha, ny ampongatapaka sy ny sopolopolona ary ny divay no fisotroan'izy ireo; fa ⟨את⟩ ny asan'i Yahveh tsy jeriny, ary ny asan'ny tànany tsy hitany.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "no fisotroan'izy ireo"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "lokanga"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "sy ny valiha"
+    },
+    {
+      "surface": "תף",
+      "gloss": "ampongatapaka"
+    },
+    {
+      "surface": "וחליל",
+      "gloss": "sy ny sopolopolona"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ary ny divay"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "fisotroana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny asan'i Yahveh"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "asa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "jeriny"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ary ny asan'ny"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "tànany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "hitany"
+    }
+  ],
+  "timestamp": "2026-08-31T15:03:40.786694921Z",
+  "model": "glm-5.3"
+}

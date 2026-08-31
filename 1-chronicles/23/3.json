@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 23:3",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Dia nihavao ny Levita, hatramin'ny zanaka telo-polo taona miakatra; ary ny isany araka ny lohany, ho an'ny lehilahy, dia telo-polo sy valo arivo.",
+  "tokens": [
+    {
+      "surface": "ויספרו",
+      "gloss": "nihavao"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ny Levita"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "hatramin'ny zanaka"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "telo-polo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "miakatra"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "dia"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "ny isany"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "araka ny lohany"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "ho an'ny lehilahy"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "telo-polo"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "sy valo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "arivo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:40:54.905624704Z",
+  "model": "glm-5.3"
+}

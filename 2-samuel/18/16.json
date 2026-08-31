@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Araha naneno ny torka Yoav, dia niverina ny olona tsy hanenjika aorian'i Yisrael, fa nihetra Yoav ⟨את⟩ ny olona.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "naneno"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "ny torka"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "niverina"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "tsy hanenjika"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "aorian'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "nihetra"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny olona"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny olona"
+    }
+  ],
+  "timestamp": "2026-08-31T18:03:24.680696714Z",
+  "model": "glm-5.3"
+}

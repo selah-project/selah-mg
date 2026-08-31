@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 136,
+  "translation": "Izay nitarika ny olony tamin'ny efitra, fa mandrakizay ny hesediny.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "nitarika"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ny olony"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "tamin'ny efitra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ny hesediny"
+    }
+  ],
+  "timestamp": "2026-08-31T18:36:02.520057376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 19:6",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Ary hiova fo ny ony rehetra, ho malemy sy ho maina ny lakandrosan'i Mitsrayim, ny volo madinika sy ny zozoro ho maina.",
+  "tokens": [
+    {
+      "surface": "והאזניחו",
+      "gloss": "hiova fo \/ hiala"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "ony rehetra"
+    },
+    {
+      "surface": "דללו",
+      "gloss": "ho malemy"
+    },
+    {
+      "surface": "וחרבו",
+      "gloss": "ho maina"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "lakandrosa"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "an'i Mitsrayim"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "volo madinika"
+    },
+    {
+      "surface": "וסוף",
+      "gloss": "sy zozoro"
+    },
+    {
+      "surface": "קמלו",
+      "gloss": "ho maina"
+    }
+  ],
+  "timestamp": "2026-08-31T15:07:32.854494261Z",
+  "model": "glm-5.3"
+}

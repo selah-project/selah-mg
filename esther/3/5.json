@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary Hiton'i Haman fa tsy miondrika sady tsy miankohaka amin'i Haman Mordekay, dia feno fahatezerana Haman.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ka Hiton'i"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman (voalohany)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekay"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "miondrika"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "sady tsy miankohaka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "amin'i Haman"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "dia feno"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman (faharoa)"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "fahatezerana"
+    }
+  ],
+  "timestamp": "2026-08-31T18:25:51.184700515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Fa hianareo kosa, izay momba an'i Yahveh Elohinareo tanteraka, dia velona avokoa hianareo rehetra androany.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Fa hianareo kosa"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "izay momba... tanteraka"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "an'i Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "velona"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "hianareo rehetra"
+    },
+    {
+      "surface": "היום",
+      "gloss": "androany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:41:16.790512058Z",
+  "model": "glm-5.3"
+}

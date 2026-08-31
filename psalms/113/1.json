@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 113,
+  "translation": "Mideroa an'i Yah, mpanompon'i Yahveh ô, mideroa ⟨את⟩ ny anaran'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "mideroa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "mideroa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mpanompon'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "mideroa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny anaran'i Yahveh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "anaran'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:34.486390632Z",
+  "model": "glm-5.3"
+}

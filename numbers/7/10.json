@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary ny loholona nanao fanatitra tamin'ny fanokanana ny alitara, tamin'ny andro nohosorana ⟨את⟩ azy; ary ny loholona nanao ⟨את⟩ ny fanatiny teo anoloan'ny alitara.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "nanao fanatitra"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "ny loholona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fanokanana ny alitara"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "fanokanana"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ny alitara"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "nohosorana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "alitara"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "ny loholona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanatiny"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "ny fanatiny"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anoloan'ny"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alitara"
+    }
+  ],
+  "timestamp": "2026-08-31T13:26:31.086525010Z",
+  "model": "glm-5.3"
+}

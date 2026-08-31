@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Ary Yahveh nandefa ⟨את⟩ an'i Netana tany amin'i Davida; ary izy tonga tany aminy ka nanao taminy hoe: Roa lahy ⟨ny⟩ olona tao an-tanàna iray; ny iray mpanan-karena ary ny iray malahelo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "nandefa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Netana"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Netana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tany amin'"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tany aminy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nanao"
+    },
+    {
+      "surface": "לו",
+      "gloss": "tamininy"
+    },
+    {
+      "surface": "שני",
+      "gloss": "roa"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "laly ⟨ny⟩ olona"
+    },
+    {
+      "surface": "היו",
+      "gloss": "tao"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "an-tanàna"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "iray"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ny iray"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "mpanan-karena"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ary ny iray"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "malahelo"
+    }
+  ],
+  "timestamp": "2026-08-31T18:31:40.657558658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 14:8",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Raha tia antsika Yahveh, dia hitondra antsika ⟨את⟩ ho any amin'ity tany ity izy ka homena antsika azy; tany izay mandriaka ronono sy tantely.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "tia"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "antsika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "dia hitondra"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ antsika",
+      "marks": "antsika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho any amin'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ity"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "ka homena antsika"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "antsika"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨izy⟩"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "mandriaka"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ronono"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "sy tantely"
+    }
+  ],
+  "timestamp": "2026-08-31T13:29:12.096878317Z",
+  "model": "glm-5.3"
+}

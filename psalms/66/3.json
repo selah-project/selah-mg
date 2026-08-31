@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 66,
+  "translation": "Lazao amin'i Elohim: Endrika mahatahotra ny asanao! Amin'ny hamafin'ny herinao, ny fahavaloo dia handà anao.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "lazao"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "amin'i Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "endrika"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "mahatahotra"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ny asanao"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "amin'ny hamafin'ny"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "herinao"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "handà"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "ny fahavaloo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:02.065129954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "nanao hoe: Ho anao no homeko ⟨את⟩ ny tany Kenaana, ho faritra lovainareo.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "no homeko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tany Kenaana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaana"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ho faritra"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "lovainareo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:19.721721875Z",
+  "model": "glm-5.3"
+}

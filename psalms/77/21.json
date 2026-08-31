@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 77,
+  "translation": "Nitarika ho toy ny ondry ny olonao ianao, tamin'ny tànain'i Moshe sy Aharon.",
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "nitarika"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "ho toy ny ondry"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ny olonao"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "tamin'ny tànain'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "sy Aharon"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:13.194406044Z",
+  "model": "glm-5.3"
+}

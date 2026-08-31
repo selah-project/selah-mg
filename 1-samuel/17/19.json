@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 17:19",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Ary Shaol sy izy ireo ary ny lehilahy rehetra amin'ny Isiraely dia tao amin'ny lohasahan'i Haela, niady tamin'ny Filistina.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "Ary Shaol"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "sy izy ireo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ny ... rehetra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "amin'ny Isiraely"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "tao amin'ny lohasahan'i"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "Haela"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "niady"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistina"
+    }
+  ],
+  "timestamp": "2026-08-31T14:21:14.791792611Z",
+  "model": "glm-5.3"
+}

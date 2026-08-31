@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Raha mahavery ny lalàko ny zanany, ary tsy mandeha araka ny fitsipiko,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "raha"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "mahavery"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ny zanany"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ny lalàko"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "ary araka ny fitsipiko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "mandeha"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:43.705208362Z",
+  "model": "glm-5.3"
+}

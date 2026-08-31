@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 17:12",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Indrisy! Riba entin'ny firenena maro, mirohondrohana toy ny riakan'ny ranomasina, ary ny tabataban'ny vahoaka, mikorontana toy ny fikorontanan'ny rano mahery.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Indrisy"
+    },
+    {
+      "surface": "המון",
+      "gloss": "riba enta"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "firenena"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maro"
+    },
+    {
+      "surface": "כהמות",
+      "gloss": "toy ny riakan'ny"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ranomasina"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "mirohondrohana"
+    },
+    {
+      "surface": "ושאון",
+      "gloss": "ary ny tabataban'ny"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "כשאון",
+      "gloss": "toy ny fikorontanan'ny"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "כבירים",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "ישאון",
+      "gloss": "mikorontana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:07:11.154121610Z",
+  "model": "glm-5.3"
+}

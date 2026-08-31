@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 50:3",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 50,
+  "translation": "Ary nofenoina taminy forty andia, fa izany no fenoin'ny andron'ireo natao fanafody fahafatesana; ary nitomany ⟨את⟩ azy Mitsrayim fito-polo andia.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "nofenoina"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "forty"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "izany no"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "fenoina"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ny andron'ny"
+    },
+    {
+      "surface": "החנטים",
+      "gloss": "ireo natao fanafody fahafatesana"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ary nitomany"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (i Jakoba\/Isiraely)"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "fito-polo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "andia"
+    }
+  ],
+  "timestamp": "2026-08-31T18:27:53.050395217Z",
+  "model": "glm-5.3"
+}

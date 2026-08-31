@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Fa amin'izay tenin'ny mpanjaka no fanapahana, ary iza no mahay milaza aminy hoe: Inona no ataonao?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "amin'izay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tenin'ny"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "no fanapahana"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ary iza"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "no mahay milaza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Inona"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "no ataonao"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:08.474082542Z",
+  "model": "glm-5.3"
+}

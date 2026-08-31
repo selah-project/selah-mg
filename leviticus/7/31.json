@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary ny mpisorona hodorany ⟨את⟩ ny tavy eo ambony ny alitara; ary ny tratra ho an'i Aharona sy ho an'ny zanany.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "hodorany"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavy"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "ny tavy"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "eo ambony ny alitara"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ary ho"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "ny tratra"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ho an'i Aharona"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "sy ho an'ny zanany"
+    }
+  ],
+  "timestamp": "2026-08-31T17:57:36.416092028Z",
+  "model": "glm-5.3"
+}

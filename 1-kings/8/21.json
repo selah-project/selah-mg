@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary nametraka toerana teo aho ho an'ny fiara ⟨את⟩ izay misy ao ny fanekana Yahveh, izay nataony tamin'ny razantsika tamin'ny fampivoahany azy ireo avy tany amin'ny tany Mitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "nametraka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "teo"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "toerana"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "ho an'ny fiara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "misy ao"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "fanekena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "nataony"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "razantsika"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "tamin'ny fampivoahany"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy ireo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "avy tany amin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T14:43:18.866062874Z",
+  "model": "glm-5.3"
+}

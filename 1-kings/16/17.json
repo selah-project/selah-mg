@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 16:17",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary niakatra avy tao Gibetona Omri sy Isiraely rehetra tamby, ka nanamboatra fahirano an'i Tirza.",
+  "tokens": [
+    {
+      "surface": "ויעלה",
+      "gloss": "niakatra"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "sy ... rehetra"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "tamby"
+    },
+    {
+      "surface": "מגבתון",
+      "gloss": "avy tao Gibetona"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "ka nanamboatra fahirano"
+    },
+    {
+      "surface": "על",
+      "gloss": "an'i"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "Tirza"
+    }
+  ],
+  "timestamp": "2026-08-31T14:47:11.268860974Z",
+  "model": "glm-5.3"
+}

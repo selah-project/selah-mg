@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Yahveh manavotra ny aina ⟨nin'ny⟩ mpanompony, ary tsy mba ho voaheloka izay rehetra mialoka aminy.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "manavotra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "aina"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "mpanompony"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ho voaheloka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izay rehetra"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "mialoka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:27:40.119198651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 7:28",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary izao no asan'ny fitoerana: nanana sisin-tsisiny izy, ary ny sisin-tsisiny dia teo anelanelan'ny tehezoatra.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ary izao"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "no asan'ny"
+    },
+    {
+      "surface": "המכונה",
+      "gloss": "fitoerana"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "sisin-tsisiny"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nanana ... izy"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "ary ny sisin-tsisiny"
+    },
+    {
+      "surface": "בין",
+      "gloss": "teo anelanelan'ny"
+    },
+    {
+      "surface": "השלבים",
+      "gloss": "tehezoatra"
+    }
+  ],
+  "timestamp": "2026-08-31T14:41:57.382916652Z",
+  "model": "glm-5.3"
+}

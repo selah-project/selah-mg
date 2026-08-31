@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Hifaly ny efitra sy ny tany maina, ary ho ravoravo ny Araba, ka hitomboka toy ny havatsela.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "Hifaly"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ny efitra"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "sy ny tany maina"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ary ho ravoravo"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "ny Araba"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "ka hitomboka"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "toy ny havatsela"
+    }
+  ],
+  "timestamp": "2026-08-31T15:12:32.853822296Z",
+  "model": "glm-5.3"
+}

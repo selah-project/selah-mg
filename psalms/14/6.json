@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ny fisainan'ny malahelo no ataonareo fahamenarana, fa Yahveh no fialofany.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "fisainan'"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ny malahelo"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "ataonareo fahamenarana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "no fialofany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:19.005073118Z",
+  "model": "glm-5.3"
+}

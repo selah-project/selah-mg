@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Zanak'i Yefeta: Gomer sy Magoga sy Maday sy Yavana sy Tubala sy Mesheka sy Tirasa.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefeta"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "sy Magoga"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "sy Maday"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "sy Yavana"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "sy Tubala"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "sy Mesheka"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "sy Tirasa"
+    }
+  ],
+  "timestamp": "2026-08-31T17:33:43.533813959Z",
+  "model": "glm-5.3"
+}

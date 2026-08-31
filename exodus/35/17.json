@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "⟨את⟩ ny tontson'ny kianja, ⟨את⟩ tsangambatony sy ⟨את⟩ fototry ny tsangambato, ary ⟨את⟩ ny fanaovan-drbak'ny vavahadin'ny kianja,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tontson'ny kianja"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "tontson'ny"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kianja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsangambatony"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "tsangambatony"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "fototry ny tsangambato"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "fototra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "fanaovan-drba"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "fanaovan-drba"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vavahady"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ny kianja"
+    }
+  ],
+  "timestamp": "2026-08-31T13:07:51.119368030Z",
+  "model": "glm-5.3"
+}

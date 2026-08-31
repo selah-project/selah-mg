@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary nampidiriny tao an-tranon'i Yahveh ⟨את⟩ ny zava masin'ny rainy sy ny zavatra nohamasininy: volafotsy sy volamena ary fanaka.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Ary nampidiriny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zava masin'ny rainy"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "zava masin'ny"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rainy"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "sy ny zavatra nohamasininy"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "volafotsy"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "fanaka"
+    }
+  ],
+  "timestamp": "2026-08-31T14:46:58.383929993Z",
+  "model": "glm-5.3"
+}

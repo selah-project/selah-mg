@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "Ampiaro ahy hahatsara fifaliana sy hafaliana; dia hifaly ny taolana nanozongozonao.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "Ampiaro ahy hahatsara (ahafaho harenina)"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "fifaliana"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "sy hafaliana"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "dia hifaly"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ny taolana"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "nanozongozonao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:56.825280741Z",
+  "model": "glm-5.3"
+}

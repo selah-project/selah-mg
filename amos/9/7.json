@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 9:7",
+  "book": "amos",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Tsy toy ny zanak'i Kosita va ianareo amiko, ry zanak'i Isiraely? — filazan'i Yahveh. Tsy ⟨את⟩ Isiraely va no nampiakariko avy tamin'ny tany Mitsrayim, sy ny Filistina avy any Kaftra, ary ny Arama avy any Kira?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Tsy ... va"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "toy ny zanak'i"
+    },
+    {
+      "surface": "כשיים",
+      "gloss": "Kosita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ianareo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "filazan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Tsy ... va"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isiraely"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "no nampiakariko"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "avy tamin'ny tany"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ופלשתיים",
+      "gloss": "sy ny Filistina"
+    },
+    {
+      "surface": "מכפתור",
+      "gloss": "avy any Kaftra"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "ary ny Arama"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "avy any Kira"
+    }
+  ],
+  "timestamp": "2026-08-31T16:12:53.592399242Z",
+  "model": "glm-5.3"
+}

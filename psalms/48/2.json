@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 48,
+  "translation": "Lebeny Yahveh sady todera fatratra ⟨⟨ao amin'ny⟩⟩ tanànan'ny Elohinay, ⟨ny⟩ tendrombohitra ny fahamasinany.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Lebeny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "sady todera"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "fatratra"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ao amin'ny tanànan'ny"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohinay"
+    },
+    {
+      "surface": "הר",
+      "gloss": "tendrombohitra"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ny fahamasinany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:30:55.195792671Z",
+  "model": "glm-5.3"
+}

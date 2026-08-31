@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ary Shekema zanak'i Hamora ilay Hivita, mpanjakan'ny tany, nahita azy ka ⟨את⟩ dia nalainy ka ⟨את⟩ dia natorany ⟨את⟩ ary nampahoriny izy.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nahita"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy (Dinah)"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekema"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamora"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ilay Hivita"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "mpanjakan'ny"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "nalainy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy (Dinah)"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "natorany"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "azy (Dinah)"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "nampahoriny"
+    }
+  ],
+  "timestamp": "2026-08-31T12:47:14.838592785Z",
+  "model": "glm-5.3"
+}

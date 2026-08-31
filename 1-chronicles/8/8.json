@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary Shaharayima niteraka tany an-tsahan'i Moaba rehefa nandroaka ⟨את⟩ azy — Hushima sy ⟨את⟩ Baara no vadiny.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "Ary Shaharayima"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "tany an-tsahan'i"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "מן",
+      "gloss": "rehefa"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "nandroaka azy"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azy",
+      "marks": "Hushima sy Baara"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Hushima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Baara"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baara"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "no vadiny"
+    }
+  ],
+  "timestamp": "2026-08-31T17:35:57.294806540Z",
+  "model": "glm-5.3"
+}

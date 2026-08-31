@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ny fitsaranko no hataonareo, ary ny lalàko no hotandremanareo ⟨mba⟩ handeha amin'izany: Izaho no Yahveh Elohinareo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fitsaranko"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "fitsaranko"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "hataonareo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lalàko"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "lalàko"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "hotandremanareo"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "handeha"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "amin'izany"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohinareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:17:40.480646854Z",
+  "model": "glm-5.3"
+}

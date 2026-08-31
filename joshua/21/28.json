@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary avy amin'ny firenen'i Yissaskara: ⟨את⟩ Kishiona sy ⟨את⟩ ny tany manodidina azy, ⟨את⟩ Daberata sy ⟨את⟩ ny tany manodidina azy.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Ary avy amin'ny firenen'i"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kishiona"
+    },
+    {
+      "surface": "קשיון",
+      "gloss": "Kishiona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tany manodidina azy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ny tany manodidina azy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daberata"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Daberata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny tany manodidina azy"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "ny tany manodidina azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:02:52.718359807Z",
+  "model": "glm-5.3"
+}

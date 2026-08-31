@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Ary raha tsy manana rahalahy izy, dia homenareo ⟨את⟩ ny lovan-tany ho an'ireo rahalahin'ny rainy.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ary raha"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy manana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "izy"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "rahalahy"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "homenareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lovan-tany"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ny lovan-tany"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "ho an'ireo rahalahin'ny"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "rainy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:35:31.897396078Z",
+  "model": "glm-5.3"
+}

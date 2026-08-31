@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary toy izany no nataony ho an'ny vadiny vahiny rehetra, izay nandoro ditin-kazo manitra sy nanao fanatitra tamin'ny andriamaniny.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Ary toy izany"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "no nataony"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ho an'ny ... rehetra"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "vadiny"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "vahiny"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "nandoro ditin-kazo manitra"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "sy nanao fanatitra"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "tamin'ny andriamaniny"
+    }
+  ],
+  "timestamp": "2026-08-31T14:44:41.267289063Z",
+  "model": "glm-5.3"
+}

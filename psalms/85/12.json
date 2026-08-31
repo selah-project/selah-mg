@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 85,
+  "translation": "Ny fahamarinana mitombo avy amin'ny tany, ary ny fahamaroana mijery mibanjina avy amin'ny lanitra.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "fahamarinana"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "avy amin'ny tany"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "mitombo"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "ary ny fahamaroana"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "avy amin'ny lanitra"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "mijery mibanjina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:59.880254623Z",
+  "model": "glm-5.3"
+}

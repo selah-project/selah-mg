@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary namaly Efrona ⟨את⟩ i Abrahamra, ka nanao taminy hoe:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "namaly"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efrona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i Abrahamra"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "i Abrahamra"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:41:13.981709514Z",
+  "model": "glm-5.3"
+}

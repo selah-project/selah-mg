@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary Yahveh niteny tamin'ny hazandrano, ka nandoa an'i Yonah ⟨את⟩ tany amin'ny tany maina.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary niteny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "tamin'ny hazandrano"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "ka nandoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Yonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "an'i Yonah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tany amin'ny"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "tany maina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:13:42.158977602Z",
+  "model": "glm-5.3"
+}

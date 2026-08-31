@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 140,
+  "translation": "Ry Yahveh Adonay, hery mahafaiko ny famonjena nataonao, nanafenanao ny lohako tamin'ny andro fiadiana.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עז",
+      "gloss": "hery"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "mahafaiko ny famonjena nataonao"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "nanafenanao"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "ny lohako"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "fiadiana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:59.726911481Z",
+  "model": "glm-5.3"
+}

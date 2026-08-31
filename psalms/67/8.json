@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 67,
+  "translation": "Hitahy anay Elohim, ary hanahy Azy faran'ny tany rehetra.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "Hitahy anay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ary hanahy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "faran'ny tany rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "faran'ny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:33:25.861330073Z",
+  "model": "glm-5.3"
+}

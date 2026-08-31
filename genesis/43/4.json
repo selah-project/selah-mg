@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 43,
+  "translation": "Raha misy ianao handefa ⟨את⟩ ny rahalahintsika ⟨miaraka aminay⟩, dia hidina izahay ka hividy hanina ho anao.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Raha"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "misy ianao"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "handefa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rahalahintsika"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "ny rahalahintsika"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ miaraka aminay"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "hidina izahay"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "ka hividy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "hanina"
+    }
+  ],
+  "timestamp": "2026-08-31T12:51:09.615951287Z",
+  "model": "glm-5.3"
+}

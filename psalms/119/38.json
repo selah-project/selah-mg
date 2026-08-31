@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Tanterao amin'ny mpanompinao ny teninao, izay momba ny fahatahorana anao.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "Tanterao"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "amin'ny mpanompinao"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ny teninao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "momba ny fahatahorana anao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:39.233692894Z",
+  "model": "glm-5.3"
+}

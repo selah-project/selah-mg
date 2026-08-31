@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary ny zanak'i Yisrael nonina teo afovoan'ny Kanaanita, ny Hetita, ny Emorita, ny Perizita, ny Hivita ary ny Yebosita.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Ary ny zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "nonina"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "teo afovoan'ny"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanita"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ny Hetita"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ny Emorita"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ny Perizita"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "ny Hivita"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ary ny Yebosita"
+    }
+  ],
+  "timestamp": "2026-08-31T14:05:02.902994676Z",
+  "model": "glm-5.3"
+}

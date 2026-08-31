@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 113,
+  "translation": "Ilay mihitsy midina hitsinjo ⟨zavatra⟩ any an-danitra sy any an-tany.",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "midina mihitsy"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hitsinjo"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "any an-daniry"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "sy any an-tany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:28.811618341Z",
+  "model": "glm-5.3"
+}

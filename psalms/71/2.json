@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 71,
+  "translation": "Amin'ny fahamarinanao vonjehy ahy, ary afaho ahy; tondroy ny sofinao ho amiko, ary vonjehy ahy.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "Amin'ny fahamarinanao"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "vonjehy ahy"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "ary afaho ahy"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "tondroy"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ho amiko"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ny sofinao"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "ary vonjehy ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:34:19.234830826Z",
+  "model": "glm-5.3"
+}

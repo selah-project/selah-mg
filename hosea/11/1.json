@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Fa zazalahy Isiraely, ka tiako, ary avy tao Mitsrayim niantso ny zanako aho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "נער",
+      "gloss": "zazalahy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "ka tiako"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "ary avy tao Mitsrayim"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "niantso"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ny zanako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:08:47.009772880Z",
+  "model": "glm-5.3"
+}

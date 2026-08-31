@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary Hirama nanefa tany amin'ny mpanjaka zato amby roa-polo kikara volamena.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "nanefa"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hirama"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "tany amin'ny mpanjaka"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "zato"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "amby roa-polo"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikara"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    }
+  ],
+  "timestamp": "2026-08-31T14:44:11.454391166Z",
+  "model": "glm-5.3"
+}

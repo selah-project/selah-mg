@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Tandremo tsara ny mpanomponao mba hahavelona ahy, ary hitandrina ny teninao.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "tandremo tsara"
+    },
+    {
+      "surface": "על",
+      "gloss": "ny"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mpanomponao"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "mba hahavelona ahy"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "ary hitandrina"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ny teninao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:44.876429366Z",
+  "model": "glm-5.3"
+}

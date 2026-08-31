@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Ny hesed-nao, Yahveh, feno ny tany; ny didimandry nao ampianaro ahy.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "Ny hesed-nao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "feno"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ny didimandry nao"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ampianaro ahy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:11.657160753Z",
+  "model": "glm-5.3"
+}

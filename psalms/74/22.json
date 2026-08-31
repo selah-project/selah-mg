@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 74,
+  "translation": "Mitsangàna, ry Elohim; rampivoaha ny adinao; tsarovy ny henatra tandindomin'ny adala mandrak'iandro.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Mitsangàna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ry Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "rampivoaha"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "ny adinao"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "tsarovy"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "ny henatra"
+    },
+    {
+      "surface": "מני",
+      "gloss": "tandindomin'ny"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "adala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mandrak'iandro"
+    },
+    {
+      "surface": "היום",
+      "gloss": "andro"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:25.459550879Z",
+  "model": "glm-5.3"
+}

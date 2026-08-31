@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Nefa namonjy azy Izy noho ny anarany, mba hampahalala ⟨את⟩ ny heriny.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "nefa namonjy azy Izy"
+    },
+    {
+      "surface": "למען",
+      "gloss": "noho ny"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "anarany"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "mba hampahalala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny heriny"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "ny heriny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:44.010563397Z",
+  "model": "glm-5.3"
+}

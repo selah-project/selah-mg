@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Ary ny rano nanarona ny mpanohitra azy; tsy nisy na iray tamin'ireo no sisa.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "nanarona"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ny rano"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "ny mpanohitra azy"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "na iray"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "tamin'ireo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "nisy sisa"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:51.873424181Z",
+  "model": "glm-5.3"
+}

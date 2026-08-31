@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Fa Yahveh nanafatra tambarirotra amboninareo fanahy fahatoranana lalina, ka nanidy ⟨את⟩ ny masonareo — ⟨את⟩ ny mpaminany — ary nanarona ⟨את⟩ ny lohanareo, dia ny mpanao fahitana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "nanafatra tambarirotra"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "amboninareo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "fahatoranana lalina"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "ka nanidy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny masonareo"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ny masonareo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpaminany"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "ny mpaminany"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny lohanareo"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "ny lohanareo"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "ny mpanao fahitana"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "nanarona"
+    }
+  ],
+  "timestamp": "2026-08-31T18:05:47.962078526Z",
+  "model": "glm-5.3"
+}

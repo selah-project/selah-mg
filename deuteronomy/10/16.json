@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Koa forony ⟨את⟩ hoditry ny fonareo, ary aza mampahatsirika ny vozareo intsony.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "Koa forony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoditry ny fonareo"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "hoditry"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ny fonareo"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "ny vozareo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "mampahatsirika"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    }
+  ],
+  "timestamp": "2026-08-31T13:42:32.655877817Z",
+  "model": "glm-5.3"
+}

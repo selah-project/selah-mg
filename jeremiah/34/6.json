@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 34:6",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 34,
+  "translation": "Ary Yirmeiahu ilay mpaminany niteny tamin'i Tsidkiiahu mpanjakan'i Yehuda ⟨את⟩ ireo teny rehetra ireo tany Yeroshalayim.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Ary ... niteny"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeiahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ilay mpaminany"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiiahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ireo teny rehetra ireo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ireo teny"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "tany Yeroshalayim"
+    }
+  ],
+  "timestamp": "2026-08-31T18:08:34.406059814Z",
+  "model": "glm-5.3"
+}

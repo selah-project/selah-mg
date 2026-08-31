@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 46,
+  "translation": "Ary homanoiny ⟨את⟩ ny zanak'ondry sy ⟨את⟩ ny fanatitra iray hafatra ary ⟨את⟩ ny diloilo, maraina isan'andro, fanatitra dorana mandrakariva.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "homanoiny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanak'ondry"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "zanak'ondry"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny fanatitra iray hafatra"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "fanatitra iray hafatra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩",
+      "marks": "ny diloilo"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "diloilo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "maraina"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "isan'andre"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "fanatitra dorana"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mandrakariva"
+    }
+  ],
+  "timestamp": "2026-08-31T18:10:50.455583051Z",
+  "model": "glm-5.3"
+}

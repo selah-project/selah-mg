@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 89,
+  "translation": "Fa iza amin'ny habakabaka no azo ekena ho mitovy amin'i Yahveh? iza amin'ny zanak'i El no azo oharina amin'i Yahveh?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "iza"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "amin'ny habakabaka"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "no azo ekena ho mitovy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "amin'i Yahveh"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "no azo oharina"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "amin'i Yahveh"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "amin'ny zanak'i"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:32.512792864Z",
+  "model": "glm-5.3"
+}

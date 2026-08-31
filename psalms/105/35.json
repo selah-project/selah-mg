@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 105,
+  "translation": "Ary nihinatra ny ahitra rehetra tany amin'ny taniny izy, ary nihinatra ny vokatry ny tany lazainy.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "Ary nihinatra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ny ahitra"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "tany amin'ny taniny"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "ary nihinatra"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ny vokatry"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "ny tany lazainy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:56.856953377Z",
+  "model": "glm-5.3"
+}

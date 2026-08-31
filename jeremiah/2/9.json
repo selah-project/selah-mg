@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Koa mbola hitsara ady ⟨את⟩ aminareo Aho, fanambaràn'i Yahveh, ary amin'ny zanak'ireo zanakareo no hitsara ady.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "koa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mbola"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "hitsara ady Aho"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ aminareo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "fanambaràn'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny zanak'ireo zanakareo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'ireo"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "zanakareo"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "hitsara ady"
+    }
+  ],
+  "timestamp": "2026-08-31T15:22:46.029826208Z",
+  "model": "glm-5.3"
+}

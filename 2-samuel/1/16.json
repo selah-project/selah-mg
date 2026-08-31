@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary hoy Dawid taminy: Ny rànao dia ho eo an-dohanao, fa ny vavanao no nivalo anie taminao ka nanao hoe: Izaho no namono ⟨את⟩ ny Mesian'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "Ny rànao"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo an-"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "lohanao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ny vavanao"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "nivalo anie"
+    },
+    {
+      "surface": "בך",
+      "gloss": "taminao"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nanao hoe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "no namono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny Mesian'i Yahveh"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mesian'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T14:27:58.929345778Z",
+  "model": "glm-5.3"
+}

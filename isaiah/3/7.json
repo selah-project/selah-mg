@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 3:7",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Hitsanga amin'izany andro izany izy ka hanao hoe: Tsy ho mpamidy aho, fa tsy misy mofo na akanjo ao an-tranoko; aza atao mpitarika ny vahoaka aho.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "hitsanga"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka hanao hoe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ho"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "mpamidy"
+    },
+    {
+      "surface": "ובביתי",
+      "gloss": "ao an-tranoko"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mofo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "na"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "akanjo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "atao aho"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "mpitarika"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ny vahoaka"
+    }
+  ],
+  "timestamp": "2026-08-31T15:02:38.491563912Z",
+  "model": "glm-5.3"
+}

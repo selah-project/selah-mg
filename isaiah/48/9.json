@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 48:9",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 48,
+  "translation": "No amin'ny anarako no hampaharetiko ny fahatezerako, ary amin'ny fideranaiko no hitsitrananao, mba tsy hanapaka anao.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "no amin'ny"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "anarako"
+    },
+    {
+      "surface": "אאריך",
+      "gloss": "hampaharetiko"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "fahatezerako"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "ary amin'ny fideranaiko"
+    },
+    {
+      "surface": "אחטם",
+      "gloss": "hitsitrananao"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ho anao"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "mba tsy"
+    },
+    {
+      "surface": "הכריתך",
+      "gloss": "hanapaka anao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:16:22.858326613Z",
+  "model": "glm-5.3"
+}

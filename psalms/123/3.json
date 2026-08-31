@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 123,
+  "translation": "Mamindra fo aminay, ry Yahveh, mamindra fo aminay, fa be no voatanay amin'ny fanirian-kenatra.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Mamindra fo aminay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ry Yahveh"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "mamindra fo aminay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "be"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "no voatanay"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "amin'ny fanirian-kenatra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:54.530945429Z",
+  "model": "glm-5.3"
+}

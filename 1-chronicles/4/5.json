@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 4:5",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary tamin'i Ashur rain'i Tekoa dia nanana vady roa: Helaha sy Naara.",
+  "tokens": [
+    {
+      "surface": "ולאשחור",
+      "gloss": "tamin'i Ashur"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rain'i"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Tekoa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "nanana"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "roa"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "vady"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "Helaha"
+    },
+    {
+      "surface": "ונערה",
+      "gloss": "sy Naara"
+    }
+  ],
+  "timestamp": "2026-08-31T17:34:50.726762481Z",
+  "model": "glm-5.3"
+}

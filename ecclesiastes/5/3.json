@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Raha manao fanekena amin'ny Elohim ianao, aza tara ny fanatanterahana azy; fa tsy tafaly amin'ny adala ⟨Izy⟩; ⟨את⟩ izay nokeneninao dia tanterao.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "raha"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "manao fanekena"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "fanekena"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "amin'ny Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "tara"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "ny fanatanterahana azy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "tafaly"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "amin'ny adala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay nokeneninao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "nokeneninao"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "tanterao"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:30.824011512Z",
+  "model": "glm-5.3"
+}

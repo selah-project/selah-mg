@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 45,
+  "translation": "Ao amin'i Yahveh no hohamarinina sy hireharehana ny zanaka rehetra ⟨fafak'i⟩ Yisrael.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Ao amin'i Yahveh"
+    },
+    {
+      "surface": "יצדקו",
+      "gloss": "hohamarinina"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "sy hireharehana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zanaka ⟨fafaky⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-31T15:15:59.218961130Z",
+  "model": "glm-5.3"
+}

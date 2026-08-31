@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary ankehitriny mandehana, aoka hanome hevitra aminao aho masoandro, ka vonjeho ⟨את⟩ ny ainao sy ⟨את⟩ ny ain'i Shelomo zanakao.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Ary ankehitriny"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "mandehana"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "aoka hanome hevitra aminao aho"
+    },
+    {
+      "surface": "נא",
+      "gloss": "masoandro"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "hevitra"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "ka vonjeho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ainao"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "ny ainao"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny ain'i Shelomo zanakao"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ny aina"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "zanakao"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    }
+  ],
+  "timestamp": "2026-08-31T14:38:47.950003136Z",
+  "model": "glm-5.3"
+}

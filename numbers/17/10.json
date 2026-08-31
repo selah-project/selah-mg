@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 17,
+  "translation": "Miaroaroa avy amin'ny afovoan'ity fiangonana ity, fa hahafaty ⟨את⟩ azy aho indray mandeha. Ary dia lavo tamin'ny tavany izy ireo.",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "Miaroaroa"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "avy amin'ny afovoan'ny"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "fiangonana"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ity ... ity"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "fa hahafaty ... aho"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ity fiangonana ity)"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "indray mandeha"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "Ary dia lavo"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "tavany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:30:56.974719752Z",
+  "model": "glm-5.3"
+}

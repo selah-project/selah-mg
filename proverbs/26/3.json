@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Lambondra ho an'ny soavaly, fatoram-bava ho an'ny boriky, ary teham-baraka ho an'ny lamosin'ny adala.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "lambondra"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "ho an'ny soavaly"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "fatoram-bava"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "ho an'ny boriky"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "ary teham-baraka"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "ho an'ny lamosina"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ny adala"
+    }
+  ],
+  "timestamp": "2026-08-31T16:56:46.812500385Z",
+  "model": "glm-5.3"
+}

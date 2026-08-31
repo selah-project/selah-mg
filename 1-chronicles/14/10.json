@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 14:10",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary Davida nanontania tamin'i Elohim ka nanao hoe: Handeha hiakatra hanohitra ny Filistina va aho, ka hatolotrao ho eo an-tanako va izy? Ary Yahveh nanao taminy hoe: Miakatra, fa hatolotro ho eo an-tananao izy.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Ary ... nanontania"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "tamin'i Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "האעלה",
+      "gloss": "Handeha hiakatra va aho"
+    },
+    {
+      "surface": "על",
+      "gloss": "hanohitra"
+    },
+    {
+      "surface": "פלשתיים",
+      "gloss": "ny Filistina"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "ka hatolotrao"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ho eo an-tanako"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ka nanao"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "hoe: Miakatra"
+    },
+    {
+      "surface": "ונתתים",
+      "gloss": "fa hatolotro"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ho eo an-tananao"
+    }
+  ],
+  "timestamp": "2026-08-31T17:37:51.196382929Z",
+  "model": "glm-5.3"
+}

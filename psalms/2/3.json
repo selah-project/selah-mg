@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "\"Isisikantsika ny famatorany, ary atsipy antsika ny fehikibony.\"",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Isisikantsika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny famatorany"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "ny famatorany"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "ary atsipy antsika"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "ny fehikibony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:23:03.677002067Z",
+  "model": "glm-5.3"
+}

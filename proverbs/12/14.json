@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 12:14",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Avy amin'ny vokatry ny vavan'olona no voky soa, ary ny valin'ny tàn'ny olona miverina aminy.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "avy amin'ny voka-"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ny vava"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "voky"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "soa"
+    },
+    {
+      "surface": "וגמול",
+      "gloss": "ary ny valin-"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ny tàn-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "miverina"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:52:44.109254055Z",
+  "model": "glm-5.3"
+}

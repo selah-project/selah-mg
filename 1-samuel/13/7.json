@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Ary Hebreo sasany nampita ny ⟨את⟩ Yordana ho any amin'ny tany Gad sy Gileada; fa Shaoly kosa mbola tao amin'i Gilgala, ary ny vahoaka rehetra nivadi-po nanaraka azy.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Ary Hebreo sasany"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "nampita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yordana"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yordana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "sy Gileada"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "fa Shaoly kosa"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "mbola"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "tao amin'i Gilgala"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ny ... rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "nivadi-po"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "nanaraka azy"
+    }
+  ],
+  "timestamp": "2026-08-31T14:18:17.090820564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 106:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 106,
+  "translation": "Nitaingina izy ka nanao tamim-po haingana ⟨namoana⟩ ny asany; tsy niandry ny fansainy izy.",
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "nitaingina haingana"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "nanadino"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ny asany"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "niandry"
+    },
+    {
+      "surface": "לעצתו",
+      "gloss": "ny fansainy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:46.097939203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary Sarah nanda ka nanao hoe: Tsy nihomehy aho; satria natahotra izy. Ary Izy nanao hoe: Tsia; fa nihomehy ianao.",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "nanda"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "nihomehy aho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "satria"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "natahotra izy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary Izy nanao hoe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Tsia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "nihomehy ianao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:39:11.319774245Z",
+  "model": "glm-5.3"
+}

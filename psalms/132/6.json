@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 132,
+  "translation": "Indro, renay tany Efrata, hitantsika tany an-tsahan'ala.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "indro"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "renay"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "tany Efrata"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "hitantsika"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "tany an-tsahan'"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ala"
+    }
+  ],
+  "timestamp": "2026-08-31T16:45:46.697222925Z",
+  "model": "glm-5.3"
+}

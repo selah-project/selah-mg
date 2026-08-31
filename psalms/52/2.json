@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 52,
+  "translation": "Tamin'ny fahatongan'i Doeg ilay Edomita, ka nanambara tamin'i Shaol izy ka nanao taminy hoe: Tonga Davida tao amin'ny tranon'i Ahimeleka.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Tamin'ny fahatongan'i"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "ilty Edomita"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "ka nanambara"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "tamin'i Shaol"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Tonga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tao amin'ny"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tranon'i"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimeleka"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:57.971744910Z",
+  "model": "glm-5.3"
+}

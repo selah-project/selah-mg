@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary tonga ny mpiandry ondry ka nandroaka azy ireo; fa nitsangana Moshe ka nanavotra azy ireo, ary nampisotro ⟨את⟩ ny ondriny.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ny mpiandry ondry"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "nandroaka azy ireo"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "nitsangana"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "nanavotra azy ireo"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "nampisotro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny ondriny"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "ny ondriny"
+    }
+  ],
+  "timestamp": "2026-08-31T12:53:54.798266108Z",
+  "model": "glm-5.3"
+}

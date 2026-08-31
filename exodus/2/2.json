@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary nitoe-jaza ilay vehivavy ka niteraka zazalahy; ary nony hitany ⟨את⟩ ⟨ia⟩ fa tsara izy, dia nafeniny telo volana izy.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "nitoe-jaza"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ilay vehivavy"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zazalahy"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "nony hitany"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "fa tsara izy (zazalahy)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tsara"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ia⟩ izy"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "nafeniny"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "telo"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "volana"
+    }
+  ],
+  "timestamp": "2026-08-31T12:54:34.537488261Z",
+  "model": "glm-5.3"
+}

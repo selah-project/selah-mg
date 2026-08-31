@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Dia hotsarovako ⟨את⟩ ny fanekeniako an'i Yaakov, ary koa ⟨את⟩ ny fanekeniako an'i Yitschak, ary koa ⟨את⟩ ny fanekeniako an'i Avraham no hotsarovako; ary ny tany ho tsarovako.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "hotsarovako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanekeniako an'i Yaakov"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ny fanekeniako"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ary koa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanekeniako an'i Yitschak"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ny fanekeniako"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ary koa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fanekeniako an'i Avraham"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ny fanekeniako"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "hotsarovako"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ary ny tany"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "hotsarovako"
+    }
+  ],
+  "timestamp": "2026-08-31T13:24:05.974313032Z",
+  "model": "glm-5.3"
+}

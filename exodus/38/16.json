@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Ny ambaadin'ny kianja rehetra manodidina dia tsy misy afa-tsy rongonyfotsy voasarona.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "ny ambaadin'ny"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kianja"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    },
+    {
+      "surface": "שש",
+      "gloss": "rongonyfotsy"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "voasarona"
+    }
+  ],
+  "timestamp": "2026-08-31T13:09:02.111443962Z",
+  "model": "glm-5.3"
+}

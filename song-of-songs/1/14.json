@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Iambin'ny henna ilay tiako ho ahy, eo amin'ny tanimboalobokin'i En-Gedi.",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "iambin'ny"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "henna"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ilay tiako"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "eo amin'ny tanimboalobokin'ny"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En-"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-08-31T17:09:37.537312784Z",
+  "model": "glm-5.3"
+}

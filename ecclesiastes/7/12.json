@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Fa aloky ny fahendrena, aloky ny volafotsy; fa ny tombontsoan'ny fahalalana dia ny fahendrena mahavelona ny tompony.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "aloky"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "ny fahendrena"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "aloky"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ny volafotsy"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "fa ny tombontsoan'ny"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "fahalalana"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "ny fahendrena"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "mahavelona"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "ny tompony"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:47.923152106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Tompoko, nanontanian ny mpanompoinao ⟨את⟩ hoe: Misy rainareo va, sa misy rahalahy?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Tompoko"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "nanontanian"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanompoinao"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ny mpanompoinao"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "היש",
+      "gloss": "Misy... va"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "-nareo (rainareo)"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ray"
+    },
+    {
+      "surface": "או",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אח",
+      "gloss": "rahalahy"
+    }
+  ],
+  "timestamp": "2026-08-31T12:51:59.599304489Z",
+  "model": "glm-5.3"
+}

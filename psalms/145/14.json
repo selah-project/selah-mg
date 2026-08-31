@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 145,
+  "translation": "Yahveh manohana ny lavo rehetra, ary mitsangana ny miondrika rehetra.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "manohana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ny rehetra"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "lavo"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "ary mitsangana"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ny rehetra"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "miondrika"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:39.776530002Z",
+  "model": "glm-5.3"
+}

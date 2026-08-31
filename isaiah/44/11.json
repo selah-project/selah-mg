@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 44:11",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 44,
+  "translation": "Indro, hahamenatra ny mpiray tetika aminy rehetra, ary ny mpanefy — olona avokoa ⟨izy⟩; hangonina avokoa izy, hitsangana, hatahotra, hahamenatra miaraka.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Indro"
+    },
+    {
+      "surface": "כל",
+      "gloss": "… rehetra"
+    },
+    {
+      "surface": "חבריו",
+      "gloss": "ny mpiray tetika aminy"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "hahamenatra"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "ary ny mpanefy"
+    },
+    {
+      "surface": "המה",
+      "gloss": "izy"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "olona avokoa"
+    },
+    {
+      "surface": "יתקבצו",
+      "gloss": "hangonina"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "avy"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "hitsangana"
+    },
+    {
+      "surface": "יפחדו",
+      "gloss": "hatahotra"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "hahamenatra"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "miaraka"
+    }
+  ],
+  "timestamp": "2026-08-31T15:16:34.508860027Z",
+  "model": "glm-5.3"
+}

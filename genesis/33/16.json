@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 33,
+  "translation": "Ary tamin'izay andro izany Esav niverina ho amin'ny lalany nankany Seira.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "niverina"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tamin'ny andro"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "ho amin'ny lalany"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "nankany Seira"
+    }
+  ],
+  "timestamp": "2026-08-31T12:47:13.591388257Z",
+  "model": "glm-5.3"
+}

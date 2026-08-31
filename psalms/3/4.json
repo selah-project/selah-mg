@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Fa Ianao, Yahveh, ampingo manodidina ahy; voninahitro sy mpanandratra ny lohako.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Fa Ianao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ampingo"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "manodidina ahy"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "voninahitro"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "sy mpanandratra"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ny lohako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:58.153764948Z",
+  "model": "glm-5.3"
+}

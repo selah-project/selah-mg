@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ny masoko mijery an'i Yahveh mandrakariva, fa izy no hanala ny tongotro amin'ny harato.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ny masoko"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mandrakariva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mijery an'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "no hanala"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "amin'ny harato"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ny tongotro"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:41.242777734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary tonga izy mandra-pialoha ny vavahadin'ny mpanjaka, fa tsy mahazo miditra amin'ny vavahadin'ny mpanjaka amin'ny fitafiana lamba volo.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "Ary tonga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pialoha ny"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vavahadin'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy mahazo"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "miditra"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "שער",
+      "gloss": "vavahadin'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "amin'ny fitafiana"
+    },
+    {
+      "surface": "שק",
+      "gloss": "lamba volo"
+    }
+  ],
+  "timestamp": "2026-08-31T17:18:26.181317863Z",
+  "model": "glm-5.3"
+}

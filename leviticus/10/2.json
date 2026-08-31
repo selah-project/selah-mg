@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Dia nivoaka avy teo anatrehan'i Yahveh afo, ka nandevona ⟨azy⟩ ireo, dia maty teo anatrehan'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "Dia nivoaka"
+    },
+    {
+      "surface": "אש",
+      "gloss": "afo"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "avy teo anatrehan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "ka nandevona"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "azy (Nadab sy Avihu)"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "dia maty"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "teo anatrehan'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T13:14:40.758675161Z",
+  "model": "glm-5.3"
+}

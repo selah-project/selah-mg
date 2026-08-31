@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 4,
+  "translation": "Ary ireo no zanak'ny rain'i Eitam: Yizreel, Yishma ary Yidbash; ary ny anaran'ny rahavaviny dia Hatselalponi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ary ireo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rain'"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Eitam"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "ary Yishma"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "ary Yidbash"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ary ny anaran'ny"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "rahavaviny"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "Hatselalponi"
+    }
+  ],
+  "timestamp": "2026-08-31T17:35:17.833278115Z",
+  "model": "glm-5.3"
+}

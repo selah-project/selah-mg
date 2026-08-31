@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 23:15",
+  "book": "numbers",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ary hoy Bilama tamin'i Balak: Mitsangana eto akaikin'ny fanatitra doranao, fa izaho ⟨kosa⟩ hihaona any.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "Mitsangana"
+    },
+    {
+      "surface": "כה",
+      "gloss": "eto"
+    },
+    {
+      "surface": "על",
+      "gloss": "akaikin'ny"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "fanatitra doranao"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "fa izaho"
+    },
+    {
+      "surface": "אקרה",
+      "gloss": "hihaona"
+    },
+    {
+      "surface": "כה",
+      "gloss": "any"
+    }
+  ],
+  "timestamp": "2026-08-31T13:34:44.802324548Z",
+  "model": "glm-5.3"
+}

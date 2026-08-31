@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Ary nivoaka teo anatrehan'i Moshe ny fiangonana rehetra, dia ny Zanak'Isiraely;",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "nivoaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "fiangonana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Zanak'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "teo anatrehan'i"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-31T13:07:51.119989182Z",
+  "model": "glm-5.3"
+}

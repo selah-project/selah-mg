@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 117,
+  "translation": "Fa mahery ambonitsika ny hesed-ny, ary ny fahamarinan'i Yahveh ⟨maharitra⟩ mandrakizay. Miderà an'i Yah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mahery"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ambonitsika"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ny hesed-ny"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ary ny fahamarinana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Miderà"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:16.666654998Z",
+  "model": "glm-5.3"
+}

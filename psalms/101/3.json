@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 101,
+  "translation": "Tsy hampitoeriko eo anoloan'ny masoko raharaha Beliala; ny fanaon'ireo mivadika dia halako; tsy hifikitra amiko izany.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Tsy"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "hampitoeriko"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "eo anoloan'ny"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "masoko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "raharaha"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliala"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "fanaon'ireo"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "mivadika"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "halako"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "hifikitra"
+    },
+    {
+      "surface": "בי",
+      "gloss": "amiko"
+    }
+  ],
+  "timestamp": "2026-08-31T18:35:42.458370293Z",
+  "model": "glm-5.3"
+}

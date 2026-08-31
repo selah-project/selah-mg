@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 49,
+  "translation": "Kanjo Elohim hanavotra ny aiko tamin'ny tànan'ny Sheol, fa ⟨Izy⟩ hangataka ahy. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kanjo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "hanavotra"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ny aiko"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "tamin'ny tànan'ny"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "hangataka ahy"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:00.468268588Z",
+  "model": "glm-5.3"
+}

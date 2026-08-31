@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ny razantsika no nanota, ary tsy izy intsony; fa izahay kosa no nitondra ny helony.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "ny razantsika"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "nanota"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "tsy izy intsony"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "izahay"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "ny helony"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "no nitondra"
+    }
+  ],
+  "timestamp": "2026-08-31T18:16:44.683319181Z",
+  "model": "glm-5.3"
+}

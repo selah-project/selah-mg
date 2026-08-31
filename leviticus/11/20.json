@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ny zava-mananaina mitsirika rehetra manidina izay mandeha amin'ny tongotra efatra — fahavetavetana ho anareo izy.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "zava-mananaina mitsirika"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "manidina"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "mandeha"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'ny"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "tongotra efatra"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "fahavetavetana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:14:32.329911546Z",
+  "model": "glm-5.3"
+}

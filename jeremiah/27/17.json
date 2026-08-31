@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Aza mihaino azy ireo; manompoa ⟨את⟩ ny mpanjakan'i Bavel, dia velona: nahoana no ho tonga faharabana ity tanàna ity?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "mihaino"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "azy ireo"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "manompoa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny mpanjakan'i Bavel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "dia velona"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nahoana"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ho tonga"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "tanàna"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ity ... ity"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "faharabana"
+    }
+  ],
+  "timestamp": "2026-08-31T15:36:26.955820833Z",
+  "model": "glm-5.3"
+}

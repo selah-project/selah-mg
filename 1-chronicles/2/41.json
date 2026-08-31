@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary Shallum niteraka ⟨את⟩ Jekamjah, ary Jekamjah niteraka ⟨את⟩ Elishama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Ary Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jekamjah"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Jekamjah"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "ary Jekamjah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elishama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    }
+  ],
+  "timestamp": "2026-08-31T17:33:36.384533660Z",
+  "model": "glm-5.3"
+}

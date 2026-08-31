@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 20:14",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary Avimeleka naka ondry sy omby, mpanompo lahy sy mpanompo vavy, ka nomeny an'i Avrahama, ary nampodiny taminy ⟨את⟩ Saraha vadiny.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "naka"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleka"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ondry"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "sy omby"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "mpanompo lahy"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "mpanompo vavy"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "nomeny"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "an'i Avrahama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "nampodiny"
+    },
+    {
+      "surface": "לו",
+      "gloss": "taminy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Saraha"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saraha"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "vadiny"
+    }
+  ],
+  "timestamp": "2026-08-31T12:40:49.198290673Z",
+  "model": "glm-5.3"
+}

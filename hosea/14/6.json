@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 14:6",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ho tahaka ny oramandritherina aho amin'i Yisrael; haniry izy tahaka ny Sofin'i Dameta, ary hanindry ny fakany tahaka ny an'i Lebanonona.",
+  "tokens": [
+    {
+      "surface": "אהיה",
+      "gloss": "ho tahaka... aho"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "tahaka ny oramandritherina"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "amin'i Yisrael"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "haniry"
+    },
+    {
+      "surface": "כשושנה",
+      "gloss": "tahaka ny Sofin'i Dameta"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "ary hanindry"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "ny fakany"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "tahaka ny an'i Lebanonona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:08:47.376626041Z",
+  "model": "glm-5.3"
+}

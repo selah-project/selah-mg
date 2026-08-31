@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 136,
+  "translation": "Ho an'izay mihanaka ⟨ny⟩ tany ambonin'ny rano, fa ho amin'ny fiainana mandrakizay ny hesediny.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "ho an'izay mihanaka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "על",
+      "gloss": "ambonin'ny"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ny rano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ho amin'ny fiainana mandrakizay"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ny hesediny"
+    }
+  ],
+  "timestamp": "2026-08-31T16:46:20.955001261Z",
+  "model": "glm-5.3"
+}

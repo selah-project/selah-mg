@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Fatra ilazana ny tenin'i Yahveh ho an'i Yisraela, tamin'ny tàn'i Malaki.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "fatra"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tenin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho an'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraela"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "tamin'ny tàn'i"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malaki"
+    }
+  ],
+  "timestamp": "2026-08-31T16:21:52.839288174Z",
+  "model": "glm-5.3"
+}

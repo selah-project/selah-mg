@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Mandalo amin'ny taninao toy ny ony, ry zanakavavin'i Tarshish; tsy misy fehilamba intsony.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "Mandalo"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "amin'ny taninao"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "toy ny ony"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanakavavin'i"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "fehilamba"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    }
+  ],
+  "timestamp": "2026-08-31T15:08:40.984952918Z",
+  "model": "glm-5.3"
+}

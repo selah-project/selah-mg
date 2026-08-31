@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Ary ataovy eo ambony ny ⟨את⟩ famelom-belona eo ambonin'ny fiarakieran'ny vavolombelona, ao amin'ny Masin'ny masina indrindra.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ataovy eo ambony"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "famelom-belona"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "famelom-belona"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambonin'ny"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fiarakieran"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "vavolombelona"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "ao amin'ny Masin'ny"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "masina indrindra"
+    }
+  ],
+  "timestamp": "2026-08-31T13:04:36.873156285Z",
+  "model": "glm-5.3"
+}

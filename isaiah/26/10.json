@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 26:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 26,
+  "translation": "Raha omena fahasoavana ny ratsy fanahy, dia tsy miantra fahamarinana izy; ao amin'ny tany mahitsy dia manao firorediana, ary tsy mahita ny voninahitr'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "יחן",
+      "gloss": "Raha omena fahasoavana"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ny ratsy fanahy"
+    },
+    {
+      "surface": "בל",
+      "gloss": "dia tsy"
+    },
+    {
+      "surface": "למד",
+      "gloss": "mianatra"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "fahamarinana"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ao amin'ny tany"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "mahitsy"
+    },
+    {
+      "surface": "יעול",
+      "gloss": "manao firorediana"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "mahita"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ny voninahitra"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T15:08:30.179562553Z",
+  "model": "glm-5.3"
+}

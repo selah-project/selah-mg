@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 40,
+  "translation": "Ary Yahveh namaly ⟨את⟩ an'i Iyob avy tamin'ny tafio-drivotra, ka nanao hoe:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ary ... namaly"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Iyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "avy tamin'ny"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "tafio-drivotra"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    }
+  ],
+  "timestamp": "2026-08-31T17:08:20.449685509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Fa misy teny maro mampitombo hevel; inona no sisa ho an'ny olona?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "misy"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "teny"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "maro"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "mampitombo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "מה",
+      "gloss": "inona"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "sisa\/fihenan-tsara"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ho an'ny olona"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:17.805268573Z",
+  "model": "glm-5.3"
+}

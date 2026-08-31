@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 114,
+  "translation": "Ny tendrombohitra nitsambikina toy ny ondry aman'dridra, ny havoana toy ny zanak'ondry",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Ny tendrombohitra"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "nitsambikina"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "toy ny ondry aman'dridra"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ny havoana"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "toy ny zanak'"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ondry"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:00.870557004Z",
+  "model": "glm-5.3"
+}

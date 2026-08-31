@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 10:13",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ny fiandohan'ny tenin'ny vavany dia fahadisoana, ary ny faran'ny vavany dia hadalana ratsy.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "fiandohana"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "tenin'ny"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "vavany"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "fahadisoana"
+    },
+    {
+      "surface": "ואחרית",
+      "gloss": "ary ny faran'ny"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "vavany"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "hadalana"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ratsy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:51.596675994Z",
+  "model": "glm-5.3"
+}

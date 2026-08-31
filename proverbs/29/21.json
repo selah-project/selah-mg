@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 29:21",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 29,
+  "translation": "Izay mampirefaka amin'ny fahafinaretana ny mpanompony hatramin'ny fahazazany, dia ho tonga ⟨tompon'afka⟩ amin'ny farany izy.",
+  "tokens": [
+    {
+      "surface": "מפנק",
+      "gloss": "mampirefaka amin'ny fahafinaretana"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "hatramin'ny fahazazany"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ny mpanompony"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "amin'ny farany"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ho tonga"
+    },
+    {
+      "surface": "מנון",
+      "gloss": "⟨tompon'afka⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T16:57:24.875415074Z",
+  "model": "glm-5.3"
+}

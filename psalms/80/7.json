@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 80,
+  "translation": "Nataonao fa mifanakamphy amin'ny mpifanolo-bodirindrina izahay, ary ny fahavalonay mihomehy amin'izany.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Nataonao fa"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "mifanakamphy"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "amin'ny mpifanolo-bodirindrina"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "ary ny fahavalonay"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "mihomehy"
+    },
+    {
+      "surface": "למו",
+      "gloss": "amin'izany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:23.405301091Z",
+  "model": "glm-5.3"
+}

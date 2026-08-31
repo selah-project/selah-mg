@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 107,
+  "translation": "Mandefa ny teniny Izy ka manasitra azy, ary manafaka azy amin'ny faharavany.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Mandefa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ny teniny"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "ka manasitra azy"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ary manafaka azy amin'ny"
+    },
+    {
+      "surface": "משחיתותיהם",
+      "gloss": "faharavany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:42:05.450909714Z",
+  "model": "glm-5.3"
+}

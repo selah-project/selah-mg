@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary nahoana no tsy nitandrinao ⟨את⟩ ny fianianana tamin'i Yahveh sy ⟨את⟩ ny lalàno nandidiako taminao?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "Ary nahoana no"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "nitandrinao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny fianianana tamin'i Yahveh"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ny fianianana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny lalàno"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ny lalàno"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "nandidiako"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "taminao"
+    }
+  ],
+  "timestamp": "2026-08-31T14:39:44.294527570Z",
+  "model": "glm-5.3"
+}

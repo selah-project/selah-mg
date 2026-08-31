@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Ary Yoktana niteraka ⟨את⟩ an'i Almodada sy ⟨את⟩ Shelefa sy ⟨את⟩ Hatsarmaveta sy ⟨את⟩ Jaraha.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Ary Yoktana"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "niteraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Almodada"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodada"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Shelefa"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelefa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Hatsarmaveta"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hatsarmaveta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "Jaraha"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Jaraha"
+    }
+  ],
+  "timestamp": "2026-08-31T12:37:07.828569130Z",
+  "model": "glm-5.3"
+}

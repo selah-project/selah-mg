@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary nandidy an'i Yehuda izy hitady ⟨את⟩ an'i Yahveh, Elohin'ny razany, sy hanao ny lalàna sy ny didy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nandidy"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "an'i Yehuda"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "hitady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohin'ny"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "razany"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "hanao"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "lalàna"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "didy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:46:30.351476951Z",
+  "model": "glm-5.3"
+}

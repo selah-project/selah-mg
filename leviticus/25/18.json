@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary manaova ny lalàko ⟨את⟩ sy ny fitsipiko ⟨את⟩ tano, ary manao ⟨את⟩ azy, ka hitoetra amin'ny tany amim-pihantonana ianareo.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "Ary manaova"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny lalàko"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "ny lalàko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "ny fitsipiko"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ny fitsipiko"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "tano"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ary manao"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ azy"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "ka hitoetra"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ny tany"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "amim-pihantonana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:20:28.947621913Z",
+  "model": "glm-5.3"
+}

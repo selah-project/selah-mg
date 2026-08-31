@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary Yahveh Elohim nanao teny tamin'ny vehivavy: Inona no izao nataonao izao? Dia hoy ny vehivavy: Ny menarana no nampilaza ahy, ka dia nihinana aho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ary ... nanao teny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "tamin'ny vehivavy"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Inona"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "izao"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "nataonao"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Dia hoy"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ny vehivavy"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "Ny menarana"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "no nampilaza ahy"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ka dia nihinana aho"
+    }
+  ],
+  "timestamp": "2026-08-31T12:35:08.120532992Z",
+  "model": "glm-5.3"
+}

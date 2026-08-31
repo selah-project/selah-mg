@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 77,
+  "translation": "Mahatsiaro an'i Elohim aho ka miboridona; manao fisaintsainana aho, ary voafolo ny fanahiko. Selah.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "mahatsiaro aho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "an'i Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "ka miboridona"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "manao fisaintsainana aho"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "ary voafolo"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ny fanahiko"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:36:04.887792426Z",
+  "model": "glm-5.3"
+}

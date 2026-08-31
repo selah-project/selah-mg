@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary taty aoriana ny zanak'i Yisrael hiverina, ka hitady an'i Yahveh Elohim-ny sy ⟨את⟩ an'i Davida mpanjakany, ka hirohotra ⟨mientanentana⟩ ho amin'i Yahveh sy ho amin'ny soa-ny amin'ny faran'ny andro.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "taty aoriana"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "hiverina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "ka hitady"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh Elohim-ny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim-ny"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Davida mpanjakany"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "mpanjakany"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "ka hirohotra ⟨mientanentana⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho amin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "sy ho amin'ny"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "soa-ny"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "amin'ny faran'ny"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "andro"
+    }
+  ],
+  "timestamp": "2026-08-31T16:06:36.204102559Z",
+  "model": "glm-5.3"
+}

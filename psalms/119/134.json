@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 134,
+  "ref": "psalms 119:134",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 119,
+  "translation": "Avoaho ahy amin'ny fanararaotan'ny olona, ka hitandrina ny didinao aho.",
+  "tokens": [
+    {
+      "surface": "פדני",
+      "gloss": "avoaho ahy"
+    },
+    {
+      "surface": "מעשק",
+      "gloss": "amin'ny fanararaotana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "ka hitandrena aho"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "ny didinao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:44:22.083744752Z",
+  "model": "glm-5.3"
+}

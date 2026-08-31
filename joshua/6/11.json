@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 6:11",
+  "book": "joshua",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Ary ny fiaran'i Yahveh nanodidina ⟨את⟩ ny tanàna, indray mandeha iray, ary tonga tany amin'ny toby izy, ary natory tao amin'ny toby.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "nanodidina"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "fiarana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tanàna"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ny tanàna"
+    },
+    {
+      "surface": "הקף",
+      "gloss": "fihodinana"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "indray mandeha"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "iray"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tany amin'ny toby"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "natory"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "tao amin'ny toby"
+    }
+  ],
+  "timestamp": "2026-08-31T13:54:33.791006827Z",
+  "model": "glm-5.3"
+}

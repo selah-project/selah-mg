@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Ary ny soa azo amin'ny tany dia ho an'ny rehetra: izy dia mpanjaka, mpanompon'ny tany voaompy.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "ary ny soa azo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ho an'ny rehetra"
+    },
+    {
+      "surface": "היא",
+      "gloss": "izy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "mpanompon'ny tany voaompy"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "voaompy"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:53.627973674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 144,
+  "translation": "Ny olombelona malahelo toy ny tsy misy; ny androny dia toy ny aloka mandalo.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Ny olombelona"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "toy ny tsy misy"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "malahelo"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ny androny"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "toy ny aloka"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "mandalo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:47:08.622423382Z",
+  "model": "glm-5.3"
+}

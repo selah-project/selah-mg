@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 14,
+  "translation": "Ary nitondra azy ⟨את⟩ tamin'ny soavaly izy ka nalevina tao Yeroshalayim mbamin'ny razany, tao amin'ny tanànan'i Davida.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "nitondra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "azy (ny tenany — ny fatin'ny mpanjaka Amazia)"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "soavaly"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "nalevina"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "tao Yeroshalayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mbamin'ny"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "razany"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "tao amin'ny tanàna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davida"
+    }
+  ],
+  "timestamp": "2026-08-31T18:32:23.616392594Z",
+  "model": "glm-5.3"
+}

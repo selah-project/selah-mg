@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 23,
+  "translation": "Ireo no andro voatondron'i Yahveh, fivoriambe masina, izay antsoinareo ⟨את⟩ amin'ny fotoanany avy.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ireo"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "andro voatondron'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "fivoriambe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "masina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "antsoinareo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "amin'ny fotoanany avy"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "amin'ny fotoanany avy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:20:08.883973364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 107,
+  "translation": "Izay mipetraka ao amin'ny maizina sy ny aloka fahafatesana, babo ao amin'ny fahoriany sy ny vy",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "Izay mipetraka"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "maizina"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "sy ny aloka fahafatesana"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "babo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "fahoriany"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "sy ny vy"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:34.215644200Z",
+  "model": "glm-5.3"
+}

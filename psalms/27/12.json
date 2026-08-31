@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Aza manolotra ahy ho amin'ny fanahin'ny fahavaloko; fa nitsangana hiokoako tamiko ny vavolombelona mpandainga, ary izy mipofosofona herisetra.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "manolotra ahy"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ho amin'ny fanahin'"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ny fahavaloko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "nitsangana"
+    },
+    {
+      "surface": "בי",
+      "gloss": "hiokoako tamiko"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ny vavolombelona"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "mpandainga"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "ary izy mipofosofona"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "herisetra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:26:54.293449020Z",
+  "model": "glm-5.3"
+}

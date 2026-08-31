@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 15,
+  "translation": "Ary izy nahazona ⟨את⟩ an'i Agaga mpanjakan'ny Amalekita velona, ary ⟨את⟩ ny vahoaka rehetra nohezany ho faty tamin'ny vavan'ny sabatra.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "nahazona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "an'i Agaga"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agaga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mpanjakan'ny"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalekita"
+    },
+    {
+      "surface": "חי",
+      "gloss": "velona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "vahoaka"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "nohezany ho faty"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "tamin'ny vavan'ny"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabatra"
+    }
+  ],
+  "timestamp": "2026-08-31T14:20:23.689488622Z",
+  "model": "glm-5.3"
+}

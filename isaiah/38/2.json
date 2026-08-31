@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 38:2",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 38,
+  "translation": "Ary Chizkiyahu nitodika nankany amin'ny rindrina ka nivavaka tamin'i Yahveh.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "nitodika"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ny tavany"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nankany amin'ny"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "rindrina"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "nivavaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T15:12:28.592244197Z",
+  "model": "glm-5.3"
+}

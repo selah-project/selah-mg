@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 7:27",
+  "book": "jeremiah",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary hiteny aminy ianao ⟨את⟩ ireo teny rehetra ireo, fa tsy hihaino anao izy; ary hitory ianao miantso azy, fa tsy hamaly anao izy.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "hiteny"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teny rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "teny"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "hihaino"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "hitory miantso"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fa tsy"
+    },
+    {
+      "surface": "יענוכה",
+      "gloss": "hamaly anao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:27:23.929143572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 7:8",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary ny zanak'Isiraely nanao tamin'i Shemuela hoe: Aza mangina ka mijanona tsy miantsoantso amin'i Yahveh Elohim antsika ho anay, mba hamonjy antsika amin'ny tanan'ny Filistina.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ary ... nanao hoe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zanak'"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isiraely"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "mangina"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka mijanona tsy"
+    },
+    {
+      "surface": "מזעק",
+      "gloss": "miantsoantso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "amin'i"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim antsika"
+    },
+    {
+      "surface": "וישענו",
+      "gloss": "mba hamonjy antsika"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "amin'ny tanan'"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ny Filistina"
+    }
+  ],
+  "timestamp": "2026-08-31T14:16:22.266440589Z",
+  "model": "glm-5.3"
+}

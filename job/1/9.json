@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary namaly Satana ⟨את⟩ Yahveh ka nanao hoe: Moa maimaim-poana no matahoran'i Joba an'i Elohim?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ary namaly"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ka nanao hoe"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "maimaim-poana"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "matahotra"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Joba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T18:15:36.795749393Z",
+  "model": "glm-5.3"
+}

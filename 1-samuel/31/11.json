@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary ren'ny mponina tao Yabesh-Gileada ⟨את⟩ izay nataon'ny Filistina tamin'i Shaola",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "ren'ny"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tao"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "mponina"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "Yabesh-"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay nataon'ny Filistina tamin'i Shaola"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nataon'ny"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistina"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "tamin'i Shaola"
+    }
+  ],
+  "timestamp": "2026-08-31T14:28:09.799116783Z",
+  "model": "glm-5.3"
+}

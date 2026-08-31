@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "ary izay natao ho anareo tany an-efitra, mandra-pahatonganareo ho amin'ity toerana ity",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "ary izay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "natao"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ho anareo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "tany an-efitra"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mandra-"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "fahatonganareo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ho amin'"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ity toerana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ity"
+    }
+  ],
+  "timestamp": "2026-08-31T13:43:18.301139137Z",
+  "model": "glm-5.3"
+}

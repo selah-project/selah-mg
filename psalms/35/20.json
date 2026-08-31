@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 35,
+  "translation": "Fa tsy fiadanana no teneniny, fa mamorona teny fitaka manohitra ny salampon'ny tany izy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "fiadanana"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "no teneniny"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "manohitra"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "ny salampon'ny"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "tany"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "teny"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "fitaka"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "mamorona"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:40.138264728Z",
+  "model": "glm-5.3"
+}

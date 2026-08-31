@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Iza no tahaka ny hendry, ary iza no mahalala ny fanazavana ny teny? Ny fahendren'ny olombelona mampazava ny tavany, ary ny herin'ny tavany dia hovana.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Iza"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "tahaka ny hendry"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ary iza"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "ny fanazavana"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ny teny"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "Ny fahendren'ny"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "olombelona"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "mampazava"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ny tavany"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ary ny herin'ny"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "tavany"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "dia hovana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:16:08.472528100Z",
+  "model": "glm-5.3"
+}

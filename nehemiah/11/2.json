@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "mg",
+  "chapter": 11,
+  "translation": "Ary ny olona nitso-drano ny lehilahy rehetra nanolo-tena hitoetra ao amin'i Yeroshalayim.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "nitso-drano"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny olona"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ny... rehetra"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "lehilahy"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "nanolo-tena"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "hitoetra"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ao amin'i Yeroshalayim"
+    }
+  ],
+  "timestamp": "2026-08-31T17:33:11.544570205Z",
+  "model": "glm-5.3"
+}

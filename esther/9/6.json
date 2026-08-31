@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Ary tao Shushan ⟨ao amin'ny⟩ lapa namono sy nandringana ny Jiosy olona dimanjato.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "Ary tao Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "⟨ao amin'ny⟩ lapa"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "namono"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ny Jiosy"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "sy nandringana"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "dimanjato (dimy)"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "zato"
+    },
+    {
+      "surface": "איש",
+      "gloss": "olona"
+    }
+  ],
+  "timestamp": "2026-08-31T18:17:51.438566566Z",
+  "model": "glm-5.3"
+}

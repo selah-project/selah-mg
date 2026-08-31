@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 12,
+  "translation": "Aza hamela sisa aminy ka hatramin'ny maraina; izay sisa aminy ka hatramin'ny maraina dia dorao amin'ny afo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "hamela sisa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "maraina"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "izay sisa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka hatramin'ny"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "maraina"
+    },
+    {
+      "surface": "באש",
+      "gloss": "amin'ny afo"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "dorao"
+    }
+  ],
+  "timestamp": "2026-08-31T12:58:39.167037457Z",
+  "model": "glm-5.3"
+}

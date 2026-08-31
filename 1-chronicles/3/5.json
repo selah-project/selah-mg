@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary izy no teraka tao Yeroshalayim: Shimea sy Shovav sy Natan sy Sheloma — efatra — tamin'i Bat-Shua, zanakavavin'i Ammiel.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Ary izy"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "no teraka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azy"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "tao Yeroshalayim"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimea"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "sy Shovav"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "sy Natan"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "sy Sheloma"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "efatra"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "tamin'i"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Bat-Shua"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zanakavavin'i"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiel"
+    }
+  ],
+  "timestamp": "2026-08-31T17:34:41.584801060Z",
+  "model": "glm-5.3"
+}

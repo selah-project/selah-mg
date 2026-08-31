@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Ary Yahveh hanolotra azy ireo eo anoloanareo, ary hataonareo aminy araka ny didy rehetra izay nandidiako ⟨את⟩ anareo.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "hanolotra azy ireo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "eo anoloanareo"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ary hataonareo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "araka ny rehetra"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ny didy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "nandidiako"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ anareo"
+    }
+  ],
+  "timestamp": "2026-08-31T13:53:07.988840782Z",
+  "model": "glm-5.3"
+}

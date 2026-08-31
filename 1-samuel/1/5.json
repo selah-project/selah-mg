@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Ary i Khana nomena anjara iray avy amin'ny tava, fa ⟨את⟩ Khana no tiany, ary Yahveh efa nanidy ny nonony.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "Ary i Khana"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "nomena"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "anjara"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "iray"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "avy amin'ny tava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khana"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Khana"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "no tiany"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ary Yahveh"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "nanidy"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "ny nonony"
+    }
+  ],
+  "timestamp": "2026-08-31T18:31:03.753707711Z",
+  "model": "glm-5.3"
+}

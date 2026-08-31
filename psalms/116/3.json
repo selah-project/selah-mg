@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 116,
+  "translation": "Nanodidina ahy ny fatotron'ny fahafatesana, ary ny fahaterenan'ny Sheol nahita ahy; fahoriana sy alahelo no nahitako.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "Nanodidina ahy"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "ny fatotron'"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ny fahafatesana"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "ary ny fahaterenan'"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "nahita ahy"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "fahoriana"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "sy alahelo"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "no nahitako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:43:42.906330746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Ny vavan'ny marina manana heverina fahendrena, ary ny lelany miteny fitsarana.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ny vava"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ny marina"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "manana heverina"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "fahendrena"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "ary ny lelany"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "miteny"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "fitsarana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:28:50.729682889Z",
+  "model": "glm-5.3"
+}

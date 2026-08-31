@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 1,
+  "translation": "Misy zavatra azo lazaina hoe: Jereo ity, vaovao ity? efa nisy izy fony ela, tamin'ny taona fahagola, izay efa nisy fony talohanay.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "misy"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "zavatra"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "azo lazaina"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "jereo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ity"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "vaovao"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ity"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "efa fony ela"
+    },
+    {
+      "surface": "היה",
+      "gloss": "nisy"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "tamin'ny taona fahagola"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "היה",
+      "gloss": "efa nisy"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "fony talohanay"
+    }
+  ],
+  "timestamp": "2026-08-31T17:14:19.346355085Z",
+  "model": "glm-5.3"
+}

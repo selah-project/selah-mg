@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Sy ⟨את⟩ i Jeuts sy ⟨את⟩ i Shekhia sy ⟨את⟩ i Mirma; ireo no zanany, lohan'ny razana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "i Jeuts"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "i Jeuts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "i Shekhia"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "i Shekhia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "i Mirma"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "i Mirma"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ireo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zanany"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "lohan'ny"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "razana"
+    }
+  ],
+  "timestamp": "2026-08-31T17:35:38.185311162Z",
+  "model": "glm-5.3"
+}

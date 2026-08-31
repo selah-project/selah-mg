@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 13:11",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Tsara'at efa ela izany eo amin'ny hoditry ny nofony, ka havaozin'ny mpisorona ho tsy madio izy; tsy horoahiny hihidy izy, fa tsy madio izy.",
+  "tokens": [
+    {
+      "surface": "צרעת",
+      "gloss": "tsara'at"
+    },
+    {
+      "surface": "נושנת",
+      "gloss": "efa ela"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izany"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "eo amin'ny hoditra"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ny nofony"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "havaozin'ny mpisorona ho tsy madio"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ny mpisorona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "יסגרנו",
+      "gloss": "horoahiny hihidy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "tsy madio"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "izy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:16:33.979014346Z",
+  "model": "glm-5.3"
+}

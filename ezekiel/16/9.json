@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary nanasa anao tamin'ny rano Aho, nanasa ny rànao hiala taminao, ary nanosotra menaka anao Aho.",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "nanasa anao"
+    },
+    {
+      "surface": "במים",
+      "gloss": "tamin'ny rano"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "nanasa"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "ny rànao"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "hiala taminao"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "nanosotra menaka anao"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "menaka"
+    }
+  ],
+  "timestamp": "2026-08-31T15:51:50.988771249Z",
+  "model": "glm-5.3"
+}

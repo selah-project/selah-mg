@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 62,
+  "translation": "Fa izay namory ⟨את⟩ azy no hihinana ⟨את⟩ azy, ary hidera an'i Yahveh; ary izay nangony azy hisotro azy ao amin'ny kianjan'ny fahamasinako.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "izay namory azy"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "no hihinana azy"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "ary hidera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "ary izay nangony azy"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "hisotro azy"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "ao amin'ny kianjan'"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "fahamasinako"
+    }
+  ],
+  "timestamp": "2026-08-31T18:06:42.473999613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 31:17",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 31,
+  "translation": "Arahao hijanona mazava ny tavanao amin'ny mpanomponao; vonjeo aho amin'ny hesed-nao.",
+  "tokens": [
+    {
+      "surface": "האירה",
+      "gloss": "arahao hijanona mazava"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ny tavanao"
+    },
+    {
+      "surface": "על",
+      "gloss": "amin'"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ny mpanomponao"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "vonjeo aho"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "amin'ny hesed-nao"
+    }
+  ],
+  "timestamp": "2026-08-31T18:12:41.395348884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "sy ⟨את⟩ ny ranomasira iray, ary ⟨את⟩ ny omby roa ambin'ny folo ambanin'ny ranomasira.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny ranomasira iray"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ny ranomasira"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ny omby"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ny omby"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "roa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ambin'ny folo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ambanin'ny"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ranomasira"
+    }
+  ],
+  "timestamp": "2026-08-31T18:04:14.703565766Z",
+  "model": "glm-5.3"
+}

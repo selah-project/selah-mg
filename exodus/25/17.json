@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 25:17",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 25,
+  "translation": "Ary hanao kaporeta volamena madio ianao: amma roa sy sasany no ho lavany, ary amma iray sy sasany no ho sakany.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ary hanao"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "kaporeta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "volamena"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "madio"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "amma roa"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "sy sasany"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "no ho lavany"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ary amma iray"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "sy sasany"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "no ho sakany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:05:03.102612896Z",
+  "model": "glm-5.3"
+}

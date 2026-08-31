@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 18,
+  "translation": "Ary Yahveh nandefa ny zana-tsipìka tampony ka nampielezaka azy, ary kotraina be ka nampihovitrovitra azy.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "nandefa"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "ny zana-tsipìka tampony"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "nampielezaka azy"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "kotraina"
+    },
+    {
+      "surface": "רב",
+      "gloss": "be"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "nampihovitrovitra azy"
+    }
+  ],
+  "timestamp": "2026-08-31T18:13:25.150015030Z",
+  "model": "glm-5.3"
+}

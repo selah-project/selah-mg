@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "mg",
+  "chapter": 3,
+  "translation": "Ary nalainy ⟨את⟩ ny zanakavavin'ireo ho vady aminy, ary ⟨את⟩ ny zanakavaviny nomeny ho vadin'ny zanalahy, ary nanompo ireo ⟨את⟩ andriamanitr'ireo izy ireo.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Ary nalainy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zanakavavin'ireo"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "zanakavavin'ireo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "ho vady"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ary ⟨את⟩"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "zanakavaviny"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "nomeny"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ho vadin'ny zanalahy"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ary nanompo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "andriamanitr'ireo"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "andriamanitr'ireo"
+    }
+  ],
+  "timestamp": "2026-08-31T19:02:10.004560470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Inona no hataonareo amin'ny andro voatendry, sy amin'ny andro firavoravoan'i Yahveh?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Inona"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "hataonareo"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "amin'ny andro"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "voatendry"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "sy amin'ny andro"
+    },
+    {
+      "surface": "חג",
+      "gloss": "firavoravoana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    }
+  ],
+  "timestamp": "2026-08-31T16:09:46.386488932Z",
+  "model": "glm-5.3"
+}

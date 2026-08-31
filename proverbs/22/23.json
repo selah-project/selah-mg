@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 22:23",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 22,
+  "translation": "Fa Yahveh no hiady ny raharany, ka hanaisotra ⟨⟨את⟩⟩ aina amin'izay mibabaka azy ireo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Fa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "hiady"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "ny raharany"
+    },
+    {
+      "surface": "וקבע",
+      "gloss": "ka hanaisotra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay mibabaka azy ireo"
+    },
+    {
+      "surface": "קבעיהם",
+      "gloss": "izay mibabaka azy ireo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "aina"
+    }
+  ],
+  "timestamp": "2026-08-31T16:55:41.354615599Z",
+  "model": "glm-5.3"
+}

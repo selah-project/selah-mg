@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 7:11",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ary Efrajima dia tonga toy ny voromailala voalahatra tsy amam-po: Mitsrayim no niantsoany, Ashora kosa no nalehany.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ary ... dia tonga"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajima"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "toy ny voromailala"
+    },
+    {
+      "surface": "פותה",
+      "gloss": "voalahatra"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "לב",
+      "gloss": "amam-po"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "niantsoany"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashora"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "nalehany"
+    }
+  ],
+  "timestamp": "2026-08-31T16:08:28.873249203Z",
+  "model": "glm-5.3"
+}

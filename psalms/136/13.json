@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 136,
+  "translation": "Ho an'izay nanainga ⟨את⟩ ranomasina Suph ho tonga faritra: fa ho an'ny fandramana ny hesed-ny mandrakizay.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "ho an'izay nanainga"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ranomasina"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suph"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "ho faritra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mandrakizay"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ny hesed-ny"
+    }
+  ],
+  "timestamp": "2026-08-31T18:14:45.468926485Z",
+  "model": "glm-5.3"
+}

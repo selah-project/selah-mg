@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 88,
+  "translation": "Ho an'ny maty va no hanaovanao zavatra mahagaga? Mitsangana va ny Refaim ka mankalaza anao? Selah.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "ho an'ny maty va"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "hanaovanao"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "zavatra mahagaga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "va"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "ny Refaim"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "mitsangana"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "kakalaza anao"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:00.667600571Z",
+  "model": "glm-5.3"
+}

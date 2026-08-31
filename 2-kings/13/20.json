@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "mg",
+  "chapter": 13,
+  "translation": "Araha nahay Elisha dia nalevina izy; ary ny vahoakan'i Moaba tsy misy fiafarana mankany amin'ny tany amin'ny fahatongan'ny taona.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "nahay"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "nalevina izy"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "ny vahoakan'i Moaba"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "tsy misy fiafarana"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mankany amin'ny tany"
+    },
+    {
+      "surface": "בא",
+      "gloss": "amin'ny fahatongan'ny"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "taona"
+    }
+  ],
+  "timestamp": "2026-08-31T14:57:05.887935926Z",
+  "model": "glm-5.3"
+}

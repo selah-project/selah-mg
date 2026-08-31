@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 8,
+  "translation": "Ary novonoina izy; ary Moshe nafafy ⟨את⟩ ny rà tamin'ny alitara manodidina.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "novonoina"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "nafafy"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny rà"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ny rà"
+    },
+    {
+      "surface": "על",
+      "gloss": "tamin'ny"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "manodidina"
+    }
+  ],
+  "timestamp": "2026-08-31T13:13:37.943137575Z",
+  "model": "glm-5.3"
+}

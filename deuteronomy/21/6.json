@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 21:6",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 21,
+  "translation": "Ary ny loholona rehetra amin'io tanàna io, izay akaiky ilay maty, sasatra hanasa ⟨את⟩ ny tanany eo ambonin'ilay ombivavy voatifotra ao an-drasana.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Ary ... rehetra"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "loholona"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "amin'ny tanàna"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "io ... io"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "izay akaiky"
+    },
+    {
+      "surface": "אל",
+      "gloss": "an-\/amin'"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "ilay maty"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "hanasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tanany"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tanany"
+    },
+    {
+      "surface": "על",
+      "gloss": "eo ambonin'"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "ilay ombivavy"
+    },
+    {
+      "surface": "הערופה",
+      "gloss": "voatifotra"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ao an-drasana"
+    }
+  ],
+  "timestamp": "2026-08-31T13:47:24.429219025Z",
+  "model": "glm-5.3"
+}

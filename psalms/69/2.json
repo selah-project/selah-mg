@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 69,
+  "translation": "Vonjeo aho, ry Elohim, fa tonga hatrany amin'ny aina ny rano.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "vonjeo aho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tonga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "rano"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hatrany amin'ny"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "aina"
+    }
+  ],
+  "timestamp": "2026-08-31T18:13:58.687257734Z",
+  "model": "glm-5.3"
+}

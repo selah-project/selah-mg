@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 5,
+  "translation": "Fa Izaho kosa ⟨dia⟩ toy ny lalitra ho an'i Efraima, ary toy ny fahalovanana ho an'ny taranak'i Yehuda.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Fa Izaho kosa"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "toy ny lalitra"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "ho an'i Efraima"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "ary toy ny fahalovanana"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ho an'ny taranak'i"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-31T16:06:48.879197023Z",
+  "model": "glm-5.3"
+}

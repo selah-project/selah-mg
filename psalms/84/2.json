@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 84,
+  "translation": "Firy ny hafan'ny fitiavana ny tranonao, Yahveh Tsevaot!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "firy ny"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "hafan'ny fitiavana"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "ny tranonao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:13.424590097Z",
+  "model": "glm-5.3"
+}

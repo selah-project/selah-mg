@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 6:10",
+  "book": "micah",
+  "lang": "mg",
+  "chapter": 6,
+  "translation": "Misy ve mbola rakitra amin'ny tsi-fahamarinana ao an-tranon'ny ratsy fanahy, sy efaha feno fitaka henatra?",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "mbola"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ve"
+    },
+    {
+      "surface": "בית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ratsy fanahy"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "rakitra"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "tsi-fahamarinana"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "sy efaha"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "fahakeliny"
+    },
+    {
+      "surface": "זעומה",
+      "gloss": "fahateztezana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:15:28.968212481Z",
+  "model": "glm-5.3"
+}

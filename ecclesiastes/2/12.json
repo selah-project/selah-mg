@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 2:12",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary nivadika hijery aho ny fahendrena sy ny fihemorana ary ny adala-fotsy; fa inona no hataon'ny olona ⟨izay⟩ tonga aorian'ny mpanjaka — ⟨את⟩ izay efa natao taloha?",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "nivadika hijery aho"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aho"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "hijery"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ny fahendrena"
+    },
+    {
+      "surface": "והוללות",
+      "gloss": "sy ny fihemorana"
+    },
+    {
+      "surface": "וסכלות",
+      "gloss": "ary ny adala-fotsy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "inona"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "no hataon'ny olona"
+    },
+    {
+      "surface": "שיבוא",
+      "gloss": "izay tonga"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "aorian'ny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mpanjaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izay efa natao taloha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "efa ... taloha"
+    },
+    {
+      "surface": "עשוהו",
+      "gloss": "natao"
+    }
+  ],
+  "timestamp": "2026-08-31T17:14:42.041707137Z",
+  "model": "glm-5.3"
+}

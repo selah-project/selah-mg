@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 142,
+  "translation": "Tondrio ny sofinao ho amin'ny fikarohanaoko, fa dia very fihetsika aho; vonjeo amin'ny mpanara-dia ahy, fa mahery noho izahay ireo.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Tondrio ny sofinao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ho amin'ny"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "fikarohanaoko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "very fihetsika aho"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dia"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "vonjeo aho"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "amin'ny mpanara-dia ahy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "mahery ireo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "noho izahay"
+    }
+  ],
+  "timestamp": "2026-08-31T18:36:26.348299853Z",
+  "model": "glm-5.3"
+}

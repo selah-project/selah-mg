@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ary hametraka ny tavoko ⟨amin'⟩ ilay lehilahy sy ny fianakaviany Izaho, ary hofongorako izy sy ⟨את⟩ izay mpanomia rehetra manaraka azy, ka manomiana manaraka an'i Molech, avy afovoan'ny vahoakany.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "hametraka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Izaho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny tavoko"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ny tavoko"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "amin'ilay lehilahy"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ilay"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "sy ny fianakaviany"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "hofongorako"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ izy",
+      "marks": "izy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "sy ⟨את⟩",
+      "marks": "izay mpanomia rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "izay mpanomia"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "manaraka azy"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "ka manomiana"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "manaraka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "an'i Molech"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "avy afovoan'"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ny vahoakany"
+    }
+  ],
+  "timestamp": "2026-08-31T13:18:51.835561536Z",
+  "model": "glm-5.3"
+}

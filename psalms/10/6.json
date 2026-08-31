@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "Hoy izy ao am-pony: 'Tsy hoongana mihitsy aho; ho amin'ny taranaka sy taranaka dia tsy ho ao amin'ny loza.'",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Hoy izy"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ao am-pony"
+    },
+    {
+      "surface": "בל",
+      "gloss": "Tsy … mihitsy"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "hoongana"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ho amin'ny taranaka"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "sy taranaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨izay⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ao amin'ny loza"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:53.990106Z",
+  "model": "glm-5.3"
+}

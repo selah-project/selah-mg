@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 80,
+  "translation": "Ry Elohim, ampio hiverina; avelao hipiraka ny tavanao, dia ho vonjaina izahay.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Ry Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "ampio hiverina"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "avelao hipiraka"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ny tavanao"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "dia ho vonjaina izahay"
+    }
+  ],
+  "timestamp": "2026-08-31T16:37:27.069008038Z",
+  "model": "glm-5.3"
+}

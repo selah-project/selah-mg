@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 88,
+  "translation": "Mahantra mitera-pahoriana aho, ka efa ho faty nanomboka ny fahatanorako; nentiko ny fampivaraham-masonao, dia very saina aho.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "Mahantra mitera-pahoriana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "aho"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "efa ho faty"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "nanomboka ny fahatanorako"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "nentiko"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "ny fampivaraham-masonao"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "very saina aho"
+    }
+  ],
+  "timestamp": "2026-08-31T16:38:05.559394266Z",
+  "model": "glm-5.3"
+}

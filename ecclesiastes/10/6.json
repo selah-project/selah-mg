@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "mg",
+  "chapter": 10,
+  "translation": "⟨Voatendry⟩ ny adala amin'ny toerana avo be, ary ny mpanankarena mipetraka amin'ny toerana ambany.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "⟨Voatendry⟩"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "ny adala"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "amin'ny toerana avo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "be"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "ary ny mpanankarena"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "amin'ny toerana ambany"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "mipetraka"
+    }
+  ],
+  "timestamp": "2026-08-31T17:15:52.121902225Z",
+  "model": "glm-5.3"
+}

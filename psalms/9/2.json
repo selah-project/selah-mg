@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 9,
+  "translation": "Handaza Yahveh amin'ny foko rehetra izaho; hitantara ny fahagaganao rehetra izaho.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "handaza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "amin'ny ... rehetra"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "foko"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "hitantara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "reo ... rehetra"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "fahagaganao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:24:55.722802666Z",
+  "model": "glm-5.3"
+}

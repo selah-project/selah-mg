@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 51,
+  "translation": "Ny fanatitra ⟨ho an'i⟩ Elohim dia fanahy torotoro; fo torotoro sady vizana, Elohim, tsy halanao.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "Ny fanatitra"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨ho an'i⟩ Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "fanahy"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "torotoro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "fo"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "torotoro"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "sady vizana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "halanao"
+    }
+  ],
+  "timestamp": "2026-08-31T16:31:17.049234552Z",
+  "model": "glm-5.3"
+}

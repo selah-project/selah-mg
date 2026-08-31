@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 64:10",
+  "book": "isaiah",
+  "lang": "mg",
+  "chapter": 64,
+  "translation": "Ny tranon'ny fahamasinantsika sy ny voninahitsika, izay nankalazan'ny razantsika ⟨את⟩ ianao, efa lasa may tamin'ny afo; ary ny zava-tianay rehetra efa tonga tany lao.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "trano"
+    },
+    {
+      "surface": "קדשנו",
+      "gloss": "fahamasinantsika"
+    },
+    {
+      "surface": "ותפארתנו",
+      "gloss": "sy ny voninahitsika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "הללוך",
+      "gloss": "nankalazan'ny razantsika anao"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "razantsika"
+    },
+    {
+      "surface": "היה",
+      "gloss": "efa lasa"
+    },
+    {
+      "surface": "לשרפת",
+      "gloss": "may"
+    },
+    {
+      "surface": "אש",
+      "gloss": "tamin'ny afo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ary ny … rehetra"
+    },
+    {
+      "surface": "מחמדינו",
+      "gloss": "zava-tianay"
+    },
+    {
+      "surface": "היה",
+      "gloss": "efa tonga"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "tany lao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:22:17.722182534Z",
+  "model": "glm-5.3"
+}

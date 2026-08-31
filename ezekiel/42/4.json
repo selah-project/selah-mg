@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 42:4",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Ary eo anoloan'ny efi-trano dia lalam-pandeha amà folo ny sakany, mankany amin'ny anatiny, lalana iray amà; ary ny varavarany dia miverina mianavaratra.",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "ary eo anoloan'ny"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "efi-trano"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "lalam-pandeha"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "folo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amà"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ny sakany"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mankany amin'ny"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "anatiny"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "lalana"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amà"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "iray"
+    },
+    {
+      "surface": "ופתחיהם",
+      "gloss": "ary ny varavarany"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "mianavaratra"
+    }
+  ],
+  "timestamp": "2026-08-31T16:04:12.252563768Z",
+  "model": "glm-5.3"
+}

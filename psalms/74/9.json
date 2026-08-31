@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 74,
+  "translation": "Ny famantarana mahagaga anay dia tsy hitantsika; tsy misy intsony mpaminany, ary tsy ⟨את⟩ aminay izay mahalala hatramin'ny fahavitan'iny.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "famantarana anay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tsy"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "hitantsika"
+    },
+    {
+      "surface": "אין",
+      "gloss": "tsy misy"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "intsony"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "mpaminany"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ary tsy"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ aminay",
+      "marks": "izay mahalala (hatramin'ny fahavitan'iny)"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "mahalala"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hatramin'ny"
+    },
+    {
+      "surface": "מה",
+      "gloss": "fahavitan'iny (firy andro)"
+    }
+  ],
+  "timestamp": "2026-08-31T16:35:35.754947232Z",
+  "model": "glm-5.3"
+}

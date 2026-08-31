@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 37:1",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 37,
+  "translation": "Nisy tanan'i Yahveh tamiko, ary nitondra ahy izy tamin'ny roah'i Yahveh, ka nametraka ahy tao anivon'ny lohasaha, ary io feno taolana io.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "nisy"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "taminaho"
+    },
+    {
+      "surface": "יד",
+      "gloss": "tanan'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ויוצאני",
+      "gloss": "nitondra ahy"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "tamin'ny roah'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "ויניחני",
+      "gloss": "nametraka ahy"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "tao anivon'"
+    },
+    {
+      "surface": "הבקעה",
+      "gloss": "ny lohasaha"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ary io"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "feno"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "taolana"
+    }
+  ],
+  "timestamp": "2026-08-31T16:01:31.564641325Z",
+  "model": "glm-5.3"
+}

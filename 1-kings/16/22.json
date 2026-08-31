@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary ny vahoaka izay nanaraka an'i Omri dia nanery ⟨את⟩ ny vahoaka izay nanaraka an'i Tivni zanak'i Ginata; dia maty Tivni, ary Omri no nanjaka.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "nanery"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nanaraka"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny vahoaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ny vahoaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izay"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nanaraka"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tivni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "zanaka"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "Ginata"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dia maty"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tivni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "nibanjaka"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-08-31T14:47:35.045369061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 20:3",
+  "book": "deuteronomy",
+  "lang": "mg",
+  "chapter": 20,
+  "translation": "Ka hanao aminy hoe: Mihaina, ry Isiraely, ianareo no manakaiky ny ady androany against ny fahavilonareo; aza malemy ny fonareo, aza matahotra, ary aza mihazakazaka feno tahotra na mivadi-po noho ny aminy.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ka hanao aminy hoe"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "aminy"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Mihaina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ry Isiraely"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ianareo"
+    },
+    {
+      "surface": "קרבים",
+      "gloss": "manakaiky"
+    },
+    {
+      "surface": "היום",
+      "gloss": "androany"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ny ady"
+    },
+    {
+      "surface": "על",
+      "gloss": "against"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ny fahavilonareo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "malemy"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ny fonareo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aza"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "matahotra"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ary aza"
+    },
+    {
+      "surface": "תחפזו",
+      "gloss": "mihazakazaka feno tahotra"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "תערצו",
+      "gloss": "mivadi-po"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "noho ny aminy"
+    }
+  ],
+  "timestamp": "2026-08-31T13:47:12.089924870Z",
+  "model": "glm-5.3"
+}

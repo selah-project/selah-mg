@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 27:5",
+  "book": "ezekiel",
+  "lang": "mg",
+  "chapter": 27,
+  "translation": "Avy amin'ny sipreso any Shenir no nanamboatra anao ⟨את⟩ ny takela-kazonao rehetra; sedra avy any Libanona no nalainy hanaovana ny tsangananao.",
+  "tokens": [
+    {
+      "surface": "ברושים",
+      "gloss": "sipreso"
+    },
+    {
+      "surface": "משניר",
+      "gloss": "avy any Shenir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "nanamboatra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ny takela-kazonao rehetra"
+    },
+    {
+      "surface": "כל",
+      "gloss": "rehetra"
+    },
+    {
+      "surface": "לחתים",
+      "gloss": "takela-kazo"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sedra"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "avy any Libanona"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "nalainy"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "hanaovana"
+    },
+    {
+      "surface": "תרן",
+      "gloss": "tsanganana"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ny tsangananao"
+    }
+  ],
+  "timestamp": "2026-08-31T15:57:43.628239757Z",
+  "model": "glm-5.3"
+}

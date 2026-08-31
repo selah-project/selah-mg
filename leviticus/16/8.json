@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "mg",
+  "chapter": 16,
+  "translation": "Ary Aharon hatsinky tolotra ho an'ny trozy roa: tolotra iray ho an'i Yahveh, ary tolotra iray ho an'i Azazela.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "hatsiny"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "ho an'ny"
+    },
+    {
+      "surface": "שני",
+      "gloss": "roa"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "trozy"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "tolotra (maro)"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "tolotra"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ho an'i Yahveh"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "ary tolotra"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "iray"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "ho an'i Azazela"
+    }
+  ],
+  "timestamp": "2026-08-31T13:16:56.514511354Z",
+  "model": "glm-5.3"
+}

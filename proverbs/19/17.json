@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 19:17",
+  "book": "proverbs",
+  "lang": "mg",
+  "chapter": 19,
+  "translation": "Izay manao famindram-po amin'ny malahelo dia manao trosa amin'i Yahveh, ary ny soa nataony dia ho valian'i Yahveh ⟨ho azy⟩.",
+  "tokens": [
+    {
+      "surface": "מלוה",
+      "gloss": "manao trosa amin'"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "manao famindram-po"
+    },
+    {
+      "surface": "דל",
+      "gloss": "malahelo"
+    },
+    {
+      "surface": "וגמלו",
+      "gloss": "ary ny soa nataony"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ho valian'i Yahveh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ho azy⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T16:55:13.233579667Z",
+  "model": "glm-5.3"
+}

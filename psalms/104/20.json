@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 104,
+  "translation": "Manao maizina ⟨Hianao⟩ ka miova ho alina; ary amin'izay mivezivezy ny biby rehetra any an'ala.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Manao"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "maizina"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ka miova ho"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "alina"
+    },
+    {
+      "surface": "בו",
+      "gloss": "amin'izay"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "mivezivezy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ny rehetra"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "biby"
+    },
+    {
+      "surface": "יער",
+      "gloss": "any an'ala"
+    }
+  ],
+  "timestamp": "2026-08-31T16:41:04.983278977Z",
+  "model": "glm-5.3"
+}

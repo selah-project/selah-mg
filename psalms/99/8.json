@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 99,
+  "translation": "Yahveh Elohinay, Hianao no namariny; El mamela fahotana Hianao ho azy, nefa mpamaly ny tsi-fahoizan-teny nataony.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohinay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Hianao"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "no namariny"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "mamela fahotana"
+    },
+    {
+      "surface": "היית",
+      "gloss": "Hianao ho"
+    },
+    {
+      "surface": "להם",
+      "gloss": "azy"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "nefa mpamaly"
+    },
+    {
+      "surface": "על",
+      "gloss": "ny"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "tsi-fahoizan-teny nataony"
+    }
+  ],
+  "timestamp": "2026-08-31T16:40:53.983998276Z",
+  "model": "glm-5.3"
+}

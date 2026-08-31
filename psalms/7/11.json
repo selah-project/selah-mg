@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 7,
+  "translation": "Ampingako dia Elohim, mpamonjy ny mahitsy fo.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "Ampingako"
+    },
+    {
+      "surface": "על",
+      "gloss": "dia"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "mpamonjy"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "mahitsy"
+    },
+    {
+      "surface": "לב",
+      "gloss": "fo"
+    }
+  ],
+  "timestamp": "2026-08-31T16:22:30.758545511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "mg",
+  "chapter": 30,
+  "translation": "Ary hanao alitara hanatsatsahana zava-manitra ianao; hazo shittim no hanaovana azy ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ary hanao ianao"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "alitara"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "hanatsatsahana"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "zava-manitra"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hazo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "no hanaovana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azy",
+      "marks": "alitara"
+    }
+  ],
+  "timestamp": "2026-08-31T13:07:02.775935001Z",
+  "model": "glm-5.3"
+}

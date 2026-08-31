@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "mg",
+  "chapter": 2,
+  "translation": "Ary hitaiko ho ahy amin'ny tany izy, ary hiantraiko ⟨את⟩ Lo-Ruhamah, ary holazako amin'i Lo-Ammi: Olona-ako ianao; ary izy hanao hoe: Elohim-ako ianao.",
+  "tokens": [
+    {
+      "surface": "וּזְרַעְתִּיהָ",
+      "gloss": "Ary hitaiko"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "ho ahy"
+    },
+    {
+      "surface": "בָּאָרֶץ",
+      "gloss": "amin'ny tany"
+    },
+    {
+      "surface": "וְרִחַמְתִּי",
+      "gloss": "ary hiantraiko"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamah"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רֻחָמָה",
+      "gloss": "Ruhamah"
+    },
+    {
+      "surface": "וְאָמַרְתִּי",
+      "gloss": "ary holazako"
+    },
+    {
+      "surface": "לְלֹא",
+      "gloss": "amin'i Lo-"
+    },
+    {
+      "surface": "עַמִּי",
+      "gloss": "Ammi"
+    },
+    {
+      "surface": "עַמִּי",
+      "gloss": "olona-ako"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "ianao"
+    },
+    {
+      "surface": "וְהוּא",
+      "gloss": "ary izy"
+    },
+    {
+      "surface": "יֹאמַר",
+      "gloss": "hanao hoe"
+    },
+    {
+      "surface": "אֱלֹהָי",
+      "gloss": "Elohim-ako"
+    }
+  ],
+  "timestamp": "2026-08-31T16:06:45.748359008Z",
+  "model": "glm-5.3"
+}

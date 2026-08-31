@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 60,
+  "translation": "Elohim efa niteny tao amin'ny fahamasinany: hiresaka hifaly aho; hizariko an'i Shekema, ary hosakofooko ny lohasahan'i Sukota.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "efa niteny"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "tao amin'ny fahamasinany"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "hiresaka hifaly aho"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "hizariko"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "an'i Shekema"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ary ny lohasahan'i"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukota"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "hosakofooko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:32:42.367019300Z",
+  "model": "glm-5.3"
+}

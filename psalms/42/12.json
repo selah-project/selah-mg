@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "mg",
+  "chapter": 42,
+  "translation": "Nahoana no midina foina ianao, ry fanahiko, ary nahoana no mikorontana amiko ianao? Andraso ny Elohim, fa mbola hidera Azy aho; famonjena ny tarehiko sy Elohim-iko.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nahoana"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "midina foina"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ry fanahiko"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ary nahoana"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "mikorontana"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "amiko"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "andraso"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ny Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mbola"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "hidera Azy"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "famonjena"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ny tarehiko"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "sy Elohim-iko"
+    }
+  ],
+  "timestamp": "2026-08-31T16:29:23.440325437Z",
+  "model": "glm-5.3"
+}
