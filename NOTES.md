@@ -97,3 +97,14 @@ Final alignment: **0 misaligned, 0 stray, 0 missing**.
   (`docs/language/stragglers/mg.md`).
 - Andriamanitra witness column: 93 lawful stand; a native reader's pass is
   welcome on the 35 seat-corrections, and on this file's Malagasy prose.
+
+## Addendum (2026-08-31, evening) — a dead check, re-run by hand
+
+The census's Tompo review regex was written with a doubled backslash inside a
+Clojure regex literal (`\\btompo`), which matches a literal backslash — the
+check was dead and reported 0 without looking. Discovered while cloning the
+scripts for the Dutch chair. Re-verified token-level against the Hebrew
+surfaces: **Tompo at the Name seat = 0** (יהוה → tompo: 0; אֲדֹנָי Adonay →
+tompo: 0). The 219 *tompoko / tompony / tompon'ny* glosses in the store all sit
+on **אֲדֹנִי, the human "my lord"** (spoken to David, Joab, kings) — lawful.
+The chair stands; the tool is fixed and the miss is exposed here on purpose.
