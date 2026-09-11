@@ -25,3 +25,8 @@ Raha nampiasa modely lehibe amin'ny teny na fandikana milina ianao — lazao maz
 ## Lisansa sy fanamarinana
 
 Amin'ny fandraisanao anjara dia manaiky ianao fa izay rehetra raisina dia avoaka amin'ny [CC BY-SA 4.0](LICENSE.md). Ny tantaran'ny Git no mitahiry ny firaketana sy ny antony an-karihary. Ny mpanamarina dia mandinika ny tolotra amin'ny hebreo, amin'ny fitsipika, amin'ny fanondroana ary amin'ny fifanandrifiana.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
